@@ -3,6 +3,8 @@
 
 :le:e
 :wd:e	conj
+:wd:ed	conj
+:wd:et	conj
 
 :le:o
 :wd:o	conj
@@ -10,11 +12,15 @@
 :le:ma
 :wd:ma	conj
 
+:le:se
+:wd:se	conj
+
 :le:di
 :wd:di	prep
 
 :le:a
 :wd:a	prep
+:wd:ad	prep
 
 :le:con
 :wd:con	prep
