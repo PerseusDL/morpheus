@@ -265,6 +265,7 @@ enclitic_word ItalianSuff[] = {
   "loro", PPARTMASK,
   "ne", PPARTMASK,
   "si", PPARTMASK,
+  "se", PPARTMASK,
   "", 0				/* sentintel */
 };
 
