@@ -54,7 +54,7 @@ ${DICTLIB}: ${DICTOBJ}
 	ranlib ${DICTLIB}
 
 clean:
-	rm -f *.o
+	rm -f *.o ${ALL}
 
 /tmp/nt: latnom splitlems
 	splitlems < /local/text/ls/lemmata | fixhesc | fgrep -v vtags  | latnom > /tmp/lat
