@@ -256,6 +256,20 @@
 :vb:voglia	irreg_pp1 pres imperat 3rd sg
 :vb:vogliate	irreg_pp1 pres imperat 2nd pl
 
+:le:venire
+:vb:vengo	irreg_pp1 pres ind 1st sg
+:vb:vieni	irreg_pp1 pres ind 2nd sg
+:vb:viene	irreg_pp1 pres ind 3rd sg
+:vb:vegono	irreg_pp1 pres ind 3rd pl
+:vb:venga	irreg_pp1 pres subj 1st sg
+:vb:venga	irreg_pp1 pres subj 2nd sg
+:vb:venga	irreg_pp1 pres subj 3rd sg
+:vb:vengano	irreg_pp1 pres subj 3rd pl
+:vb:venni	irreg_pp1 pastabs ind 1st sg
+:vb:venne	irreg_pp1 pastabs ind 3rd sg
+:vb:vennero	irreg_pp1 pastabs ind 3rd pl
+:de:ven		ire_vb
+
 :le:tenere
 :vb:tengo	irreg_pp1 pres indic 1st sg
 :vb:tieni	irreg_pp1 pres indic 2nd sg
