@@ -568,7 +568,6 @@
 
 :le:in
 :wd:in	prep
-:wd:in	adverb
 
 :le:iners
 :aj:iner	s_tis_adj
