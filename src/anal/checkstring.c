@@ -275,6 +275,7 @@ checkstring3(gk_word *Gkword)
   int workval = 0;
   gk_analysis *oldanal, *newanal;
   int totanal, acount;
+  int idx;
 
   enclitic_word *EnclitArr;
   
@@ -329,6 +330,26 @@ checkstring3(gk_word *Gkword)
     if( (rval=checkstring4(Gkword)) > 0 ) {
       set_workword(Gkword,saveword);
       return(rval);
+    }
+
+/* If it's all capitals, try all lowercase, then try all except the first letter lowercase */
+    if (cur_lang() != GREEK)
+    {
+	for (idx = 0;  string[idx] != 0;  idx ++)
+	{
+	    string[idx] = tolower(string[idx]);
+	}
+	if ((rval = checkstring4(Gkword)) > 0 )
+	{
+	  set_workword(Gkword,saveword);
+	  return(rval);
+        }
+	*string = toupper(*string);
+	if ((rval = checkstring4(Gkword)) > 0 )
+	{
+	  set_workword(Gkword,saveword);
+	  return(rval);
+        }
     }
     Xstrncpy(string,saveword,MAXWORDSIZE);
   }
