@@ -343,6 +343,7 @@ do_vstems(char * vtag, int trimn )
 
 	doverb(vtag);
 
+
 	strcpy(tmpstem,stem);
 	strcpy(tmporths,orthstem);
 
@@ -432,6 +433,10 @@ truncstem(char * workstem, int trimn)
 	} else if( isalpha(trimn) ) {
 		t = workstem+strlen(workstem)-1;
 		while(t>=workstem) {
+			if(trimn == 's' && (*t=='d'||*t=='q')) {
+				*t = 0;
+				break;
+			}
 			if(*t == trimn ) {
 				*t = 0;
 				break;

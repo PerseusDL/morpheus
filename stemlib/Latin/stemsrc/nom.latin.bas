@@ -957,6 +957,9 @@
 :le:sexa_ginta
 :wd:sexa_ginta_	numeral
 
+:le:si
+:wd:si	conj
+
 :le:sicut
 :wd:sicut	conj
 
