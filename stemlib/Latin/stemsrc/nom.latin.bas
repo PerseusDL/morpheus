@@ -279,6 +279,12 @@
 :no:dap 	is_is fem
 :wd:daps	s_is fem nom sg
 
+:le:de#1
+:wd:de_	adverb
+
+:le:de#2
+:wd:de_	prep
+
 :le:decem
 :wd:de^cem	numeral
 

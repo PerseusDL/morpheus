@@ -52081,9 +52081,6 @@
 :le:e)pixalaro/s
 :aj:e)pixalar os_h_on suff_acc
 
-:le:e)pixalki=tai
-:no:e)pixalki_t hs_ou masc pl stem_acc
-
 :le:e)pixa/reia
 :no:e)pixa^rei a_hs fem
 
@@ -55422,6 +55419,9 @@
 
 :le:eu)qe/atos
 :no:eu)qeat os_on
+
+:le:eu)qe/mitos
+:no:eu)qemit os_on
 
 :le:eu)qe/neia
 :no:eu)qenei a_hs fem
@@ -90991,6 +90991,9 @@
 :le:mono/coos
 :no:monoco os_on
 
+:le:monopa/qeia
+:no:monopa^qei a_hs fem
+
 :le:monopa/twr
 :no:monopat wr_oros masc
 
@@ -119919,9 +119922,6 @@
 
 :le:prwto/rrutos
 :no:prwtorrut os_on
-
-:le:prw=tos
-:aj:prwt os_h_on
 
 :le:prwto/s
 :aj:prwt os_h_on suff_acc
@@ -153453,9 +153453,6 @@
 
 :le:yeudoma/rtura
 :no:yeudomartur os_ou neut pl
-
-:le:yeudo/menos
-:no:yeudomen os_ou masc
 
 :le:yeudo/nardos
 :no:yeudonard os_ou fem

@@ -13282,9 +13282,6 @@
 :le:e)kporneu/w
 :de:e)kporn euw
 
-:le:e)kporpo/omai
-:de:e)kporp ow_denom mp
-
 :le:e)kpota/omai
 :de:e)kpot aw_denom mp
 
@@ -19447,9 +19444,6 @@
 :le:e)pitoceu/w
 :de:e)pitoc euw
 
-:le:e)pitopi/zw
-:de:e)pitop izw
-
 :le:e)pitraghmati/zw
 :de:e)pitraghmat izw
 
@@ -19995,9 +19989,6 @@
 
 :le:e)re/omai
 :de:e)r ew_denom mp
-
-:le:e(rpusta/zw
-:de:e(rpust azw
 
 :le:e)rrhfore/w
 :de:e)rrhfor ew_denom
@@ -28872,9 +28863,6 @@
 
 :le:o(maixme/w
 :de:o(maixm ew_denom
-
-:le:o)mbri/zw
-:de:o)mbr izw
 
 :le:o)mbroblute/w
 :de:o)mbroblut ew_denom
@@ -44881,8 +44869,8 @@
 :le:u(perkomi/zw
 :de:u(perkom izw
 
-:le:u(perkero/w
-:de:u(perker ow_denom
+:le:u(perkopo/w
+:de:u(perkop ow_denom
 
 :le:u(perkra/zw
 :de:u(perkr azw
