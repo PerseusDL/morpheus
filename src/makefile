@@ -1,12 +1,13 @@
 all:
 	cd greeklib; $(MAKE) greeklib.a
 	cd morphlib; $(MAKE) morphlib.a
-	cd gkdict; $(MAKE) all
 	cd gkends; $(MAKE) all
+	cd gkdict; $(MAKE) all
 	cd gener; $(MAKE) all
 	cd anal; $(MAKE) all
 
 install:
+	[ -d ../bin ] || mkdir ../bin
 	cd gkdict; $(MAKE) install
 	cd gkends; $(MAKE) install
 	cd gener; $(MAKE) install
