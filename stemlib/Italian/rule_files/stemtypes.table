@@ -1,0 +1,15 @@
+o_i 01 noun1
+a_e 02 noun2
+e_i 03 noun3
+
+conj1 01 pp_pr
+conj1_g 02 pp_pr
+conj1_c 03 pp_pr
+conj1_ci 04 pp_pr
+conj1_gi 05 pp_pr
+conj2 06 pp_pr
+conj3 07 pp_pr
+
+
+article 05 indecl
+irreg_nom 077 indecl1
