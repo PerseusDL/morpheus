@@ -22731,6 +22731,9 @@ bella_ri^a
 
 
 bella_tor		<itype>o_ris</itype>
+:le:bellator
+:no:bella_t	or_oLris	masc
+
 duella_-tor		<gen>m.</gen>	<pos>adj.</pos>
 bella_to_ri^us		
 :le:bellatorius
@@ -28004,6 +28007,9 @@ caeru^le^a_tus
 
 
 caeru^le^us#1		<itype>and in poetry equally common</itype>
+:le:caeruleus
+:aj:caeru^le^	us_a_um
+
 caeru^lus		
 :le:caerulus
 :aj:caeru^l	us_a_um
@@ -154363,6 +154369,9 @@ Pha^lanthum
 
 
 pha^lanx		<orth>fa^lanx</orth>	<itype>angis</itype>	<gen>f.</gen>
+:le:phalanx
+:no:phalan	x_gis fem
+
 Pha^la^ra		
 :le:Phalara
 :no:Pha^la^r	us_i neut pl
