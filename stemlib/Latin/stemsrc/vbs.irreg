@@ -56,7 +56,9 @@
 :vb:ienda   irreg_pp1 gerundive fem nom/voc sg early
 :vb:eundum   irreg_pp1 gerundive neut nom sg
 :vb:eundum   irreg_pp1 gerundive neut nom/voc/acc sg
+:vb:eundom   irreg_pp1 gerundive neut nom/voc/acc sg early
 :vb:iendum   irreg_pp1 gerundive neut nom/voc/acc sg early
+:vb:iendom   irreg_pp1 gerundive neut nom/voc/acc sg early
 :vb:eundi_   irreg_pp1 gerundive masc/neut gen sg
 :vb:iendi_   irreg_pp1 gerundive masc/neut gen sg early
 :vb:eundae   irreg_pp1 gerundive fem gen sg
@@ -217,7 +219,9 @@
 :vb:de_pereunda   irreg_pp1 gerundive fem nom/voc sg
 :vb:de_perienda   irreg_pp1 gerundive fem nom/voc sg early
 :vb:de_pereundum   irreg_pp1 gerundive neut nom/voc/acc sg
+:vb:de_pereundom   irreg_pp1 gerundive neut nom/voc/acc sg early
 :vb:de_periendum   irreg_pp1 gerundive neut nom/voc/acc sg early
+:vb:de_periendom   irreg_pp1 gerundive neut nom/voc/acc sg early
 :vb:de_pereundi_   irreg_pp1 gerundive masc/neut gen sg
 :vb:de_periendi_   irreg_pp1 gerundive masc/neut gen sg early
 :vb:de_pereundae   irreg_pp1 gerundive fem gen sg
@@ -371,7 +375,9 @@
 :vb:dispereunda   irreg_pp1 gerundive fem nom/voc sg
 :vb:disperienda   irreg_pp1 gerundive fem nom/voc sg early
 :vb:dispereundum   irreg_pp1 gerundive neut nom/voc/acc sg
+:vb:dispereundom   irreg_pp1 gerundive neut nom/voc/acc sg early
 :vb:disperiendum   irreg_pp1 gerundive neut nom/voc/acc sg early
+:vb:disperiendom   irreg_pp1 gerundive neut nom/voc/acc sg early
 :vb:dispereundi_   irreg_pp1 gerundive masc/neut gen sg
 :vb:disperiendi_   irreg_pp1 gerundive masc/neut gen sg early
 :vb:dispereundae   irreg_pp1 gerundive fem gen sg
@@ -902,7 +908,7 @@
 :vb:nequi_ba_tis   irreg_pp1 imperf ind act 2nd pl
 :vb:nequi_bant   irreg_pp1 imperf ind act 3rd pl
 
-:le:do#1
+:le:do
 :vs:d conj1
 :vb:do_		irreg_pp1 1st sg pres indic act
 :vb:da_s	irreg_pp1 2nd sg pres indic act

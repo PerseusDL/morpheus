@@ -119126,17 +119126,18 @@ ma^ni^festa_tor
 
 ma^ni^festus		<orth>ma^nu^festus</orth>	
 :le:manifestus
-:no:ma^ni^fest	us_a_um masc
-:no:ma^nu^fest	us_a_um masc orth
-
-
+:aj:ma^ni^fest	us_a_um masc
+:aj:ma^nu^fest	us_a_um masc orth
 
 ma^ni^festa		<itype>orum</itype>	
 :le:manifesta
-:wd:ma^ni^festa	adverb
+:no:ma^ni^fest	us_i neut pl
 
 
 ma^ni^festo_		<orth type=alt>class.</orth>	<orth>ma^ni^-feste_</orth>
+:le:manifesto
+:wd:ma^ni^festo_	adverb
+
 ma^ni^fo^li^um		
 :le:manifolium
 :no:ma^ni^fo^l	ius_i neut
