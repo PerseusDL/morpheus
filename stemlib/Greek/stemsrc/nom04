@@ -10916,9 +10916,7 @@
 :wd:o(/de demonstr  nom masc sg 
 :wd:h(/de demonstr  nom fem sg 
 :wd:a(/_de demonstr  nom fem sg aeolic doric 
-:wd:to/de demonstr  nom neut sg 
-:wd:to/de demonstr  voc neut sg 
-:wd:to/de demonstr  acc neut sg 
+:wd:to/de demonstr  neut nom voc acc sg 
 :wd:oi(/de demonstr  nom masc pl 
 :wd:ai(/de demonstr  nom fem pl 
 :wd:ta/de demonstr  nom neut pl 
