@@ -1,52 +1,51 @@
 care	pres inf act modern
 ca/re	pres inf act
 
-ca/ta	perf part fem sg
-ca/te	perf part fem pl
-ca/to	perf part masc sg
-ca/ti	perf part masc pl
+cata	perf part fem sg
+cate	perf part fem pl
+cato	perf part masc sg
+cati	perf part masc pl
 
 co	1st sg pres ind 
 chi	2nd sg pres ind
 ca	3rd sg pres ind
-chia/mo	1st pl pres ind
-ca/te	2nd pl pres ind
+chiamo	1st pl pres ind
+cate	2nd pl pres ind
 cano	3rd pl pres ind
 
-ca/vo	1st sg imperf ind 
-ca/vi	2nd sg imperf ind
-ca/va	3rd sg imperf ind
-cavia/mo	1st pl imperf ind
-cava/te	2nd pl imperf ind
-ca/vano	3rd pl imperf ind
+cavo	1st sg imperf ind 
+cavi	2nd sg imperf ind
+cava	3rd sg imperf ind
+caviamo	1st pl imperf ind
+cavate	2nd pl imperf ind
+cavano	3rd pl imperf ind
 
-ca/i	1st sg pastabs ind 
-ca/sti	2nd sg pastabs ind
+cai	1st sg pastabs ind 
+casti	2nd sg pastabs ind
 co\	3rd sg pastabs ind
-ca/mmo	1st pl pastabs ind
-ca/ste	2nd pl pastabs ind
-co/rono	3rd pl pastabs ind
+cammo	1st pl pastabs ind
+caste	2nd pl pastabs ind
+corono	3rd pl pastabs ind
 
 chero\	1st sg fut ind 
-chera/i	2nd sg fut ind
+cherai	2nd sg fut ind
 chera\	3rd sg fut ind
-chere/mo	1st pl fut ind
-chere/te	2nd pl fut ind
+cheremo	1st pl fut ind
 cherete	2nd pl fut ind
-chera/nno	3rd pl fut ind
+cheranno	3rd pl fut ind
 
 ca	2nd sg pres imperat
 chi	3rd sg pres imperat
-chia/mo	1st pl pres imperat
-ca/te	2nd pl pres imperat
+chiamo	1st pl pres imperat
+cate	2nd pl pres imperat
 chino	3rd pl pres imperat
 
 
 chi	1st sg pres subj 
 chi	2nd sg pres subj
 chi	3rd sg pres subj
-chia/mo	1st pl pres subj
-chia/te	2nd pl pres subj
+chiamo	1st pl pres subj
+chiate	2nd pl pres subj
 cate	2nd pl pres subj modern
 chino	3rd pl pres subj
 cano	3rd pl pres subj modern
@@ -54,18 +53,19 @@ cano	3rd pl pres subj modern
 cassi	1st sg imperf subj 
 cassi	2nd sg imperf subj
 casse	3rd sg imperf subj
-ca/ssimo	1st pl imperf subj
-ca/ste	2nd pl imperf subj
-ca/ssero	3rd pl imperf subj
+cassimo	1st pl imperf subj
+caste	2nd pl imperf subj
+cassero	3rd pl imperf subj
 
-chere/i	1st sg pres cond
-cheri/a	1st sg pres cond
+cherei	1st sg pres cond
+cheria	1st sg pres cond
 cheresti	2nd sg pres cond
 cherebbe	3rd sg pres cond
-cheri/a	3rd sg pres cond
+cheria	3rd sg pres cond
 cheremmo	1st pl pres cond
-chere/ste	2nd pl pres cond
+chereste	2nd pl pres cond
 che\bbero	3rd pl pres cond
-cheri/ano	3rd pl pres cond
+chebbero	3rd pl pres cond
+cheriano	3rd pl pres cond
 
 

@@ -1,17 +1,17 @@
 ere	pres inf act modern
 e/re	pres inf act
 
-u/ta	perf part fem sg
-u/te	perf part fem pl
-u/to	perf part masc sg
-u/ti	perf part masc pl
+uta	perf part fem sg
+ute	perf part fem pl
+uto	perf part masc sg
+uti	perf part masc pl
 
 o	1st sg pres ind 
 i	2nd sg pres ind
 e	3rd sg pres ind
-ia/mo	1st pl pres ind
-e/mo	1st pl pres ind
-e/te	2nd pl pres ind
+iamo	1st pl pres ind
+emo	1st pl pres ind
+ete	2nd pl pres ind
 ono	3rd pl pres ind
 
 e/vo	1st sg imperf ind 
@@ -32,21 +32,21 @@ ei	1st sg pastabs ind  modern
 e/sti	2nd sg pastabs ind
 esti	2nd sg pastabs ind
 o\	3rd sg pastabs ind
-e/mmo	1st pl pastabs ind
-e/ste	2nd pl pastabs ind
-o/rono	3rd pl pastabs ind
+emmo	1st pl pastabs ind
+este	2nd pl pastabs ind
+orono	3rd pl pastabs ind
 
 ero\	1st sg fut ind 
-era/i	2nd sg fut ind
+erai	2nd sg fut ind
 era\	3rd sg fut ind
-ere/mo	1st pl fut ind
+eremo	1st pl fut ind
 ere/te	2nd pl fut ind
 erete	2nd pl fut ind
-era/nno	3rd pl fut ind
+eranno	3rd pl fut ind
 
 i	2nd sg pres imperat
 a	3rd sg pres imperat
-ia/mo	1st pl pres imperat
+iamo	1st pl pres imperat
 e/te	2nd pl pres imperat
 ete	2nd pl pres imperat modern
 ino	3rd pl pres imperat
@@ -56,26 +56,27 @@ ano	3rd pl pres imperat modern
 a	1st sg pres subj 
 a	2nd sg pres subj
 a	3rd sg pres subj
-ia/mo	1st pl pres subj
-ia/te	2nd pl pres subj
+iamo	1st pl pres subj
+iate	2nd pl pres subj
 ete	2nd pl pres subj modern
 ano	3rd pl pres subj 
 
 essi	1st sg imperf subj 
 essi	2nd sg imperf subj
 esse	3rd sg imperf subj
-e/ssimo	1st pl imperf subj
-e/ste	2nd pl imperf subj
-e/ssero	3rd pl imperf subj
+essimo	1st pl imperf subj
+este	2nd pl imperf subj
+essero	3rd pl imperf subj
 
-ere/i	1st sg pres cond
-eri/a	1st sg pres cond
+erei	1st sg pres cond
+eria	1st sg pres cond
 eresti	2nd sg pres cond
 erebbe	3rd sg pres cond
-eri/a	3rd sg pres cond
+eria	3rd sg pres cond
 eremmo	1st pl pres cond
-ere/ste	2nd pl pres cond
+ereste	2nd pl pres cond
 e\bbero	3rd pl pres cond
-eri/ano	3rd pl pres cond
+ebbero	3rd pl pres cond
+eriano	3rd pl pres cond
 
 

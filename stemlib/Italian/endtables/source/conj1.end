@@ -1,52 +1,51 @@
 are	pres inf act modern
 a/re	pres inf act
 
-a/ta	perf part fem sg
-a/te	perf part fem pl
-a/to	perf part masc sg
-a/ti	perf part masc pl
+ata	perf part fem sg
+ate	perf part fem pl
+ato	perf part masc sg
+ati	perf part masc pl
 
 o	1st sg pres ind 
 i	2nd sg pres ind
 a	3rd sg pres ind
-ia/mo	1st pl pres ind
-a/te	2nd pl pres ind
+iamo	1st pl pres ind
+ate	2nd pl pres ind
 ano	3rd pl pres ind
 
-a/vo	1st sg imperf ind 
-a/vi	2nd sg imperf ind
-a/va	3rd sg imperf ind
-avia/mo	1st pl imperf ind
-ava/te	2nd pl imperf ind
-a/vano	3rd pl imperf ind
+avo	1st sg imperf ind 
+avi	2nd sg imperf ind
+ava	3rd sg imperf ind
+aviamo	1st pl imperf ind
+avate	2nd pl imperf ind
+avano	3rd pl imperf ind
 
-a/i	1st sg pastabs ind 
-a/sti	2nd sg pastabs ind
+ai	1st sg pastabs ind 
+asti	2nd sg pastabs ind
 o\	3rd sg pastabs ind
-a/mmo	1st pl pastabs ind
-a/ste	2nd pl pastabs ind
-o/rono	3rd pl pastabs ind
+ammo	1st pl pastabs ind
+aste	2nd pl pastabs ind
+orono	3rd pl pastabs ind
 
 ero\	1st sg fut ind 
-era/i	2nd sg fut ind
+erai	2nd sg fut ind
 era\	3rd sg fut ind
-ere/mo	1st pl fut ind
-ere/te	2nd pl fut ind
+eremo	1st pl fut ind
 erete	2nd pl fut ind
-era/nno	3rd pl fut ind
+eranno	3rd pl fut ind
 
 a	2nd sg pres imperat
 i	3rd sg pres imperat
-ia/mo	1st pl pres imperat
-a/te	2nd pl pres imperat
+iamo	1st pl pres imperat
+ate	2nd pl pres imperat
 ino	3rd pl pres imperat
 
 
 i	1st sg pres subj 
 i	2nd sg pres subj
 i	3rd sg pres subj
-ia/mo	1st pl pres subj
-ia/te	2nd pl pres subj
+iamo	1st pl pres subj
+iate	2nd pl pres subj
 ate	2nd pl pres subj modern
 ino	3rd pl pres subj
 ano	3rd pl pres subj modern
@@ -54,18 +53,19 @@ ano	3rd pl pres subj modern
 assi	1st sg imperf subj 
 assi	2nd sg imperf subj
 asse	3rd sg imperf subj
-a/ssimo	1st pl imperf subj
-a/ste	2nd pl imperf subj
-a/ssero	3rd pl imperf subj
+assimo	1st pl imperf subj
+aste	2nd pl imperf subj
+a\ssero	3rd pl imperf subj
+assero	3rd pl imperf subj
 
-ere/i	1st sg pres cond
+erei	1st sg pres cond
 eri/a	1st sg pres cond
 eresti	2nd sg pres cond
 erebbe	3rd sg pres cond
 eri/a	3rd sg pres cond
 eremmo	1st pl pres cond
-ere/ste	2nd pl pres cond
+ereste	2nd pl pres cond
 e\bbero	3rd pl pres cond
+ebbero	3rd pl pres cond
 eri/ano	3rd pl pres cond
-
 
