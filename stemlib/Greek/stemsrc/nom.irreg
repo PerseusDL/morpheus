@@ -24,15 +24,15 @@
 :wd:a)ne/ra irreg_decl3 masc acc sg
 :wd:a)=ner irreg_decl3 masc voc sg
 :wd:a)ndra/si irreg_decl3 masc dat pl
+:wd:a)ne/re irreg_decl3 masc nom voc acc dual epic
 :wd:a)ndro/s   irreg_decl3 masc gen sg
 :wd:a)ndri/   irreg_decl3 masc dat sg
 :wd:a)/ndra   irreg_decl3 masc acc sg
-:wd:a)ne/re   irreg_decl3 masc nom/voc/acc dual epic
+:wd:a)/ndre   irreg_decl3 masc nom/voc/acc dual
 :wd:a)ndroi=n   irreg_decl3 masc gen/dat dual
 :wd:a)/ndroii+n   irreg_decl3 masc gen/dat dual epic
-:wd:a)/ndre   irreg_decl3 masc nom/voc/acc dual
 :wd:a)/ndres   irreg_decl3 masc nom/voc pl
-:wd:a)ne/res   irreg_decl3 masc nom pl epic
+:wd:a)ne/res   irreg_decl3 masc nom/voc pl epic
 :wd:a)ndrw=n   irreg_decl3 masc gen pl
 :wd:a)ndrsi/n   irreg_decl3 masc dat pl nu_movable
 :wd:a)ndrsi/   irreg_decl3 masc dat pl
@@ -61,21 +61,21 @@
 :wd:a)/rnas   irreg_decl3 masc/fem acc pl
 
 :le:bou=s
-:wd:bou=s irreg_decl3 irreg_decl3 nom voc sg masc fem 
 :wd:bou=n irreg_decl3 irreg_decl3 acc sg masc fem
 :wd:bw=n irreg_decl3 irreg_decl3 acc sg masc fem epic
+:wd:bou=s irreg_decl3 irreg_decl3 nom voc sg masc fem 
 :wd:bou=s irreg_decl3 irreg_decl3 nom voc pl masc fem 
 :wd:bw=n irreg_decl3 irreg_decl3 gen pl masc fem epic
 :wd:bousi/ irreg_decl3 irreg_decl3 dat pl masc fem 
 :wd:bou=s irreg_decl3 irreg_decl3 acc pl masc fem attic
-:wd:boo/s   irreg_decl3 gen sg masc fem
-:wd:boi+/   irreg_decl3 dat sg masc gem
+:wd:bo/a irreg_decl3 neut nom voc acc pl
+:wd:boo/s   irreg_decl3 masc/fem gen sg
+:wd:boi+/   irreg_decl3 masc/fem dat sg
 :wd:bo/a   irreg_decl3 masc/fem acc sg
-:wd:bo/e   irreg_decl3 nom/voc/acc dual masc fem
-:wd:booi=n   irreg_decl3 gen/dat dual masc fem
-:wd:bo/oii+n   irreg_decl3 gen/dat dual epic masc gem
+:wd:bo/e   irreg_decl3 masc/fem nom/voc/acc dual
+:wd:booi=n   irreg_decl3 masc/fem gen/dat dual
+:wd:bo/oii+n   irreg_decl3 masc/fem gen/dat dual epic
 :wd:bo/es   irreg_decl3 masc/fem nom/voc pl
-:wd:bo/a   irreg_decl3 neut nom/voc/acc pl
 :wd:bow=n   irreg_decl3 masc/fem gen pl
 :wd:bosi/n   irreg_decl3 masc/fem dat pl nu_movable
 :wd:bosi/   irreg_decl3 masc/fem dat pl
@@ -172,7 +172,7 @@
 :wd:gunaikoi=n   irreg_decl3 fem gen/dat dual
 :wd:gunai/koii+n   irreg_decl3 fem gen/dat dual epic
 :wd:gunai=ke   irreg_decl3 fem acc dual
-:wd:gunai=kes   irreg_decl3 fem nom voc pl
+:wd:gunai=kes   irreg_decl3 fem nom/voc pl
 :wd:gunaikw=n   irreg_decl3 fem gen pl
 :wd:gunaici/n   irreg_decl3 fem dat pl nu_movable
 :wd:gunaici/   irreg_decl3 fem dat pl
@@ -477,31 +477,35 @@
 :wd:mhde/n pron_adj3  neut nom voc acc sg
 :wd:mhqei/s pron_adj3  masc nom voc sg later
 :wd:mhqe/n pron_adj3  neut nom voc acc sg later
-:wd:mhdemi/a   pron_adj3 fem nom voc sg
+:wd:mhdemi/a   pron_adj3 fem nom/voc sg
+:wd:mhdeno/s   pron_adj3 gen sg
+:wd:mhqeno/s   pron_adj3 gen sg later
 :wd:mhdemih=s   pron_adj3 fem gen sg attic epic ionic
-:wd:mhdeno/s   pron_adj3 masc neut gen sg
-:wd:mhqeno/s   pron_adj3 masc neut gen sg later
 :wd:mhdemia=s   pron_adj3 fem gen sg doric aeolic
+:wd:mhdeni/   pron_adj3 dat sg
+:wd:mhqeni/   pron_adj3 dat sg later
 :wd:mhdemih=|   pron_adj3 fem dat sg attic epic ionic
-:wd:mhdeni/   pron_adj3 masc neut dat sg
-:wd:mhqeni/   pron_adj3 masc neut dat sg later
 :wd:mhdemia=|   pron_adj3 fem dat sg doric aeolic
 :wd:mhde/na   pron_adj3 masc/fem acc sg
 :wd:mhqe/na   pron_adj3 masc/fem acc sg later
 :wd:mhdemi/an   pron_adj3 fem acc sg
-:wd:mhdemi/a_   pron_adj3 fem nom/acc dual
+:wd:mhdemi/a_   pron_adj3 fem nom/voc/acc dual
 :wd:mhdemiai=n   pron_adj3 fem gen/dat dual
-:wd:mhdemi/ai   pron_adj3 fem nom pl
-:wd:mhde/nes   pron_adj3 masc/fem nom pl
-:wd:mhqe/nes   pron_adj3 masc/fem nom pl later
-:wd:mhde/na   pron_adj3 neut nom/acc pl
-:wd:mhqe/na   pron_adj3 neut nom/acc pl later
+:wd:mhde/nes   pron_adj3 masc/fem nom/voc pl
+:wd:mhqe/nes   pron_adj3 masc/fem nom/voc pl later
+:wd:mhdemi/ai   pron_adj3 fem nom/voc pl
+:wd:mhde/na   pron_adj3 neut nom/voc/acc pl
+:wd:mhqe/na   pron_adj3 neut nom/voc/acc pl later
+:wd:mhde/nwn   pron_adj3 masc/fem/neut gen pl
+:wd:mhqe/nwn   pron_adj3 masc/fem/neut gen pl later
 :wd:mhdemiw=n   pron_adj3 fem gen pl
 :wd:mhdemia=n   pron_adj3 fem gen pl doric aeolic
 :wd:mhdemie/wn   pron_adj3 fem gen pl epic ionic
 :wd:mhdemia_/wn   pron_adj3 fem gen pl epic aeolic
-:wd:mhde/nwn   pron_adj3 masc/fem/neut gen pl
-:wd:mhqe/nwn   pron_adj3 masc/fem/neut gen pl later
+:wd:mhde/sin   pron_adj3 masc/fem/neut dat pl nu_movable
+:wd:mhde/si   pron_adj3 masc/fem/neut dat pl
+:wd:mhqe/sin   pron_adj3 masc/fem/neut dat pl nu_movable later
+:wd:mhqe/si   pron_adj3 masc/fem/neut dat pl later
 :wd:mhdemiai=s   pron_adj3 fem dat pl
 :wd:mhdemih=|s   pron_adj3 fem dat pl epic
 :wd:mhdemihfi/   pron_adj3 fem dat pl epic
@@ -509,13 +513,9 @@
 :wd:mhdemih|si/   pron_adj3 fem dat pl epic ionic
 :wd:mhdemiaisi/n   pron_adj3 fem dat pl epic ionic aeolic nu_movable poetic
 :wd:mhdemiaisi/   pron_adj3 fem dat pl epic ionic aeolic poetic
-:wd:mhde/sin   pron_adj3 masc/fem/neut dat pl nu_movable
-:wd:mhde/si   pron_adj3 masc/fem/neut dat pl
-:wd:mhqe/sin   pron_adj3 masc/fem/neut dat pl nu_movable later
-:wd:mhqe/si   pron_adj3 masc/fem/neut dat pl later
-:wd:mhdemi/a_s   pron_adj3 fem acc pl
 :wd:mhde/nas   pron_adj3 masc/fem acc pl
 :wd:mhqe/nas   pron_adj3 masc/fem acc pl later
+:wd:mhdemi/a_s   pron_adj3 fem acc pl
 
 :le:mh/thr
 :wd:mh/thr irreg_decl3 fem nom sg
@@ -534,6 +534,7 @@
 :le:mh/tis
 :wd:mh/-ti^s pron_adj3 nom sg masc fem
 :wd:mh/-ti^ pron_adj3 nom voc acc sg 
+:wd:mh/-ti^ adverb
 :wd:mh/tinos   pron_adj3 gen sg
 :wd:mh/tini   pron_adj3 dat sg
 :wd:mh/tina   pron_adj3 masc/fem acc sg
@@ -705,12 +706,13 @@
 :wd:to/n   article masc acc sg
 :wd:th/n   article fem acc sg attic epic ionic
 :wd:ta_/n   article fem acc sg doric aeolic
-:wd:tw/   article masc/neut nom/voc dual
+:wd:tw/   article masc/neut nom/voc/acc dual
 :wd:ta_/   article fem nom/voc/acc dual
 :wd:toi=n   article masc/neut gen/dat dual
 :wd:toi=i+n   article masc/neut gen/dat dual epic
 :wd:tai=n   article fem gen/dat dual
 :wd:tw/   article masc/neut acc dual
+:wd:ta_/   article fem acc dual
 :wd:tw=n   article masc/neut gen pl
 :wd:ta=n   article masc/fem gen pl doric
 :wd:te/wn   article masc/fem gen pl epic ionic
@@ -730,6 +732,7 @@
 :wd:tou/s   article masc acc pl
 :wd:tw/s   article masc acc pl doric
 :wd:ta_/s   article fem acc pl
+:wd:ta/   article neut acc pl
 
 :le:o)/nta
 :wd:o)/nta   irreg_decl3 neut nom/voc/acc pl
@@ -783,7 +786,7 @@
 :wd:ou)de/n pron_adj3 neut nom voc acc sg
 :wd:ou)qei/s pron_adj3 masc nom voc sg later
 :wd:ou)qe/n pron_adj3 neut nom voc acc sg later
-:wd:ou)demi/a   pron_adj1 fem nom voc sg
+:wd:ou)demi/a   pron_adj1 fem nom/voc sg
 :wd:ou)demia=s   pron_adj1 fem gen sg attic
 :wd:ou)demia=s   pron_adj1 fem gen sg doric aeolic
 :wd:ou)demih=s   pron_adj1 fem gen sg epic ionic
@@ -791,9 +794,9 @@
 :wd:ou)demia=|   pron_adj1 fem dat sg doric aeolic
 :wd:ou)demih=|   pron_adj1 fem dat sg epic ionic
 :wd:ou)demi/an   pron_adj1 fem acc sg
-:wd:ou)demi/a_   pron_adj1 fem nom/acc dual
+:wd:ou)demi/a_   pron_adj1 fem nom/voc/acc dual
 :wd:ou)demiai=n   pron_adj1 fem gen/dat dual
-:wd:ou)demi/ai   pron_adj1 fem nom pl
+:wd:ou)demi/ai   pron_adj1 fem nom/voc pl
 :wd:ou)demiw=n   pron_adj1 fem gen pl
 :wd:ou)demia=n   pron_adj1 fem gen pl doric aeolic
 :wd:ou)demie/wn   pron_adj1 fem gen pl epic ionic
@@ -808,16 +811,16 @@
 :wd:ou)demiai=sin   pron_adj1 fem dat pl epic ionic aeolic nu_movable poetic
 :wd:ou)demiai=si   pron_adj1 fem dat pl epic ionic aeolic poetic
 :wd:ou)demi/a_s   pron_adj1 fem acc pl
-:wd:ou)deno/s   pron_adj3 masc neut gen sg
-:wd:ou)qeno/s   pron_adj3 masc neut gen sg later
-:wd:ou)deni/   pron_adj3 masc neut dat sg
-:wd:ou)qeni/   pron_adj3 masc neut dat sg later
+:wd:ou)deno/s   pron_adj3 gen sg
+:wd:ou)qeno/s   pron_adj3 gen sg later
+:wd:ou)deni/   pron_adj3 dat sg
+:wd:ou)qeni/   pron_adj3 dat sg later
 :wd:ou)de/na   pron_adj3 masc/fem acc sg
 :wd:ou)qe/na   pron_adj3 masc/fem acc sg later
-:wd:ou)de/nes   pron_adj3 masc/fem nom pl
-:wd:ou)qe/nes   pron_adj3 masc/fem nom pl later
-:wd:ou)de/na   pron_adj3 neut nom/acc pl
-:wd:ou)qe/na   pron_adj3 neut nom/acc pl later
+:wd:ou)de/nes   pron_adj3 masc/fem nom/voc pl
+:wd:ou)qe/nes   pron_adj3 masc/fem nom/voc pl later
+:wd:ou)de/na   pron_adj3 neut nom/voc/acc pl
+:wd:ou)qe/na   pron_adj3 neut nom/voc/acc pl later
 :wd:ou)de/nwn   pron_adj3 masc/fem/neut gen pl
 :wd:ou)qe/nwn   pron_adj3 masc/fem/neut gen pl later
 :wd:ou)de/sin   pron_adj3 masc/fem/neut dat pl nu_movable
@@ -892,6 +895,7 @@
 :wd:au(=tai pron_adj1 nom voc fem pl
 :wd:tau=ta pron_adj1 nom voc acc neut pl
 :wd:toute/wn pron_adj1 fem gen pl ionic
+:wd:tou/twn pron_adj1 gen pl masc fem neut
 :wd:tauth|i/ pron_adj1 iota_intens dat sg fem
 :wd:ou(toii/ pron_adj1 iota_intens nom voc masc pl
 :wd:toutogi/ pron_adj1 iota_intens nom voc acc neut sg
@@ -928,15 +932,12 @@
 :wd:tou=ton   pron_adj1 masc acc sg
 :wd:tau/thn   pron_adj1 fem acc sg attic epic ionic
 :wd:tau/ta_n   pron_adj1 fem acc sg doric aeolic
-:wd:tou/toin   pron_adj1 masc/neut gen dual
-:wd:tou/toii+n   pron_adj1 masc/neut gen dual epic
 :wd:tau/tain   pron_adj1 fem gen dual
 :wd:tou/toin   pron_adj1 masc/neut dat dual
 :wd:tou/toii+n   pron_adj1 masc/neut dat dual epic
 :wd:tau/tain   pron_adj1 fem dat dual
 :wd:tou/tw   pron_adj1 masc acc dual
 :wd:tau/ta_   pron_adj1 fem acc dual
-:wd:tou/twn   pron_adj1 masc fem neut gen pl
 :wd:tautw=n   pron_adj1 fem gen pl
 :wd:tauta=n   pron_adj1 fem gen pl doric aeolic
 :wd:taute/wn   pron_adj1 fem gen pl epic ionic
@@ -962,15 +963,17 @@
 :wd:pa/is irreg_decl3 masc fem nom sg epic poetic
 :wd:pai=dos irreg_decl3 masc fem gen sg epic epic *iliad
 :wd:pai/dwn irreg_decl3 masc fem gen pl
-:wd:pai/doin irreg_decl3 masc fem dat gen dual
+:wd:pai/doin irreg_decl3 masc fem gen dat dual
 :wd:pai= irreg_decl3 masc fem voc sg
 :wd:paido/s   irreg_decl3 masc/fem gen sg
 :wd:paidi/   irreg_decl3 masc/fem dat sg
 :wd:pai=da   irreg_decl3 masc/fem acc sg
-:wd:paidoi=n   irreg_decl3 masc/fem dat gen dual
-:wd:pai/doii+n   irreg_decl3 masc/fem dat gen dual epic
-:wd:pai=de   irreg_decl3 masc/fem nom voc acc dual
-:wd:pai=des   irreg_decl3 masc/fem nom pl
+:wd:pai=de   irreg_decl3 masc/fem nom/voc/acc dual
+:wd:paidoi=n   irreg_decl3 masc/fem gen/dat dual
+:wd:pai/doii+n   irreg_decl3 masc/fem gen/dat dual epic
+:wd:paidoi=n   irreg_decl3 masc/fem dat dual
+:wd:pai/doii+n   irreg_decl3 masc/fem dat dual epic
+:wd:pai=des   irreg_decl3 masc/fem nom/voc pl
 :wd:paidw=n   irreg_decl3 masc/fem gen pl doric
 :wd:paisi/n   irreg_decl3 masc/fem dat pl nu_movable
 :wd:paisi/   irreg_decl3 masc/fem dat pl
@@ -991,8 +994,8 @@
 :wd:pa/n irreg_adj3 neut nom voc acc sg poetic
 :wd:panto/s irreg_adj3 masc neut gen sg
 :wd:panti/ irreg_adj3 masc neut dat sg
-:wd:pa=s   irreg_adj3 masc nom voc sg attic epic ionic contr
-:wd:pai=s   irreg_adj3 masc nom sg doric aeolic contr
+:wd:pa=s   irreg_adj3 masc nom/voc sg attic epic ionic contr
+:wd:pai=s   irreg_adj3 masc nom/voc sg doric aeolic contr
 :wd:pa=sa   irreg_adj3 fem nom/voc sg attic epic ionic
 :wd:pa/sa   irreg_adj3 fem nom/voc sg doric
 :wd:pai=sa   irreg_adj3 fem nom/voc sg doric aeolic
@@ -1565,7 +1568,6 @@
 :le:frh/n
 :wd:frasi/ irreg_decl3 fem dat pl doric
 :wd:frh/n   hn_enos fem nom/voc sg
-#:wd:fre/n   hn_enos neut nom/voc/acc sg
 :wd:freno/s   hn_enos fem gen sg
 :wd:freni/   hn_enos fem dat sg
 :wd:fre/na   hn_enos fem acc sg
@@ -1573,10 +1575,13 @@
 :wd:frenoi=n   hn_enos fem gen/dat dual
 :wd:fre/noii+n   hn_enos fem gen/dat dual epic
 :wd:fre/nes   hn_enos fem nom/voc pl
-#:wd:fre/na   hn_enos neut nom/voc/acc pl
 :wd:frenw=n   hn_enos fem gen pl
+:wd:fresi/n   hn_enos fem dat pl nu_movable
 :wd:fresi/   hn_enos fem dat pl
+:wd:fre/nesin   hn_enos fem dat pl nu_movable poetic
 :wd:fre/nesi   hn_enos fem dat pl poetic
+:wd:fressi/n   hn_enos fem dat pl epic nu_movable
 :wd:fressi/   hn_enos fem dat pl epic
+:wd:fre/nessin   hn_enos fem dat pl epic aeolic nu_movable
 :wd:fre/nessi   hn_enos fem dat pl epic aeolic
 :wd:fre/nas   hn_enos fem acc pl
