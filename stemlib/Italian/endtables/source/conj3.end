@@ -6,6 +6,18 @@ ita	perf part fem sg
 ite	perf part fem pl
 ito	perf part masc sg
 iti	perf part masc pl
+endo	gerund
+ente	pres part m/f sg
+enti	pres part m/f pl
+iente	pres part m/f sg
+ienti	pres part m/f pl
+
+o	1st sg pres ind
+i	2nd sg pres ind
+e	3rd sg pres ind
+iamo	1st pl pres ind
+ite	2nd pl pres ind
+ono	3rd pl pres ind
 
 isco	1st sg pres ind 
 isci	2nd sg pres ind
@@ -37,6 +49,9 @@ ire/te	2nd pl fut ind
 irete	2nd pl fut ind
 iranno	3rd pl fut ind
 
+i	2nd sg pres imperat
+a	3rd sg pres imperat
+
 isci	2nd sg pres imperat
 isca	3rd sg pres imperat
 iamo	1st pl pres imperat
@@ -45,7 +60,6 @@ ite	2nd pl pres imperat modern
 ino	3rd pl pres imperat
 ano	3rd pl pres imperat modern
 
-
 a	1st sg pres subj 
 a	2nd sg pres subj
 a	3rd sg pres subj
@@ -53,6 +67,10 @@ iamo	1st pl pres subj
 iate	2nd pl pres subj
 ete	2nd pl pres subj modern
 iscano	3rd pl pres subj 
+
+isca	1st sg pres subj
+isca	2nd sg pres subj
+isca	3rd sg pres subj
 
 issi	1st sg imperf subj 
 issi	2nd sg imperf subj
