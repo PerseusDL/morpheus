@@ -22,7 +22,7 @@ deriv:
 
 noms:stemsrc/nom.irreg stemind/nomind 
 
-vbs: stemind/vbind
+vbs: stemsrc/vbs.irreg stemind/vbind
 
 stemind/vbind:
 	cat stemsrc/vbs.latin.bas  stemsrc/vbs.latin.irreg stemsrc/vbs.latin stemsrc/vbs.irreg > conjfile
