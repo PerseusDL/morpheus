@@ -25,7 +25,7 @@ noms:stemsrc/nom.irreg stemind/nomind
 vbs: stemind/vbind
 
 stemind/vbind:
-	cat stemsrc/vbs.latin > conjfile
+	cat stemsrc/vbs.latin.bas stemsrc/vbs.latin > conjfile
 	do_conj -L
 	mv conjfile.short /usr/tmp/vbmorph
 	indexvbs -L
@@ -52,8 +52,9 @@ ia.noms:
 	fgrep 0 /usr/tmp/ia.base | awk '{print $$1}' | rev | sort -d | rev > /usr/tmp/ia.failed
 
 ls.morph: ${LSDIR}/lemmata
-	sed -e 's/\-//' ${LSDIR}/lemmata |  splitlat | fgrep -v -f vtags |  newlems | fgrep -v ": " | newlats > /usr/tmp/ls.morph
-	sed -e 's/\-//' ${LSDIR}/lemmata |  splitlat | fgrep -f vtags | conj1 | latvb > ls.vbs
+	fgrep ":le:" stemsrc/vbs.latin.bas | cut -d: -f3 | sort > stemsrc/lemmata
+	sed -e 's/\-//' ${LSDIR}/lemmata |  splitlat | fgrep -v -f vtags |  newlems -L | fgrep -v ": " | newlats > /usr/tmp/ls.morph
+	sed -e 's/\-//' ${LSDIR}/lemmata |  splitlat | conj1 | fgrep -f vtags | latvb > ls.vbs
 	egrep -e "^:" ls.vbs > stemsrc/vbs.latin
 	fgrep -v "0:" /usr/tmp/ls.morph > stemsrc/ls.nom
 	cp /usr/tmp/ls.morph .
