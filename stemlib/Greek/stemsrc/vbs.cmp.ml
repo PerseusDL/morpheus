@@ -2031,7 +2031,7 @@ e)k-ei)=mi e)/ceimi1
 e)k-ei)=pon e)cei=pon
 e)k-ei)ka/zw e)ceika/zw
 e)k-ei)lu/w e)ceilu/w
-e)k-ei)mi/ e)/ceimi2
+e)k-ei)=mi e)/ceimi2
 e)k-ei)mi/ e)/cesti
 e)k-eu(ri/skw e)ceuri/skw
 e)k-eu)/xomai e)ceu/xomai
