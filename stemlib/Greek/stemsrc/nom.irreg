@@ -1053,8 +1053,8 @@
 :wd:pa/sa_s   irreg_adj3 fem acc pl doric
 :wd:pai/sa_s   irreg_adj3 fem acc pl doric aeolic
 
-:le:pa/thr
-:wd:pa/thr irreg_decl3 masc nom sg
+:le:path/r
+:wd:path/r irreg_decl3 masc nom sg
 :wd:pa/ter irreg_decl3 masc voc sg
 :wd:patra/si irreg_decl3 masc dat pl
 :wd:pate/ros irreg_decl3 masc gen sg poetic
