@@ -1,3 +1,9 @@
+:le:abnuo
+:vs:ab-nu	conj3
+:vs:ab-nu	perfstem
+:vs:ab-nu_	pp4
+:vs:ab-nui	pp4
+
 :le:adoleo#1
 :vs:ad-ol	conj2
 :vs:ad-olu	perfstem
@@ -173,6 +179,9 @@
 :vs:distribu 	perfstem
 :vs:distribut 	pp4
 
+:le:Dis
+:no:Di_	s_tis masc
+
 :le:do
 :vs:d conj1
 :vs:de^d perfstem no_comp
@@ -324,6 +333,10 @@
 :le:irascor
 :vs:i_rasc	conj3 dep
 :vs:i_ra_t	pp4
+
+:le:Iris
+:no:Ir	is_is fem
+:no:Ir	is_idis fem
 
 :le:jacio
 :vs:ja^c	conj3_io no_comp
@@ -705,6 +718,12 @@
 :vs:tui^t pp4
 :vs:tut pp4
 
+:le:tundo
+:vs:tund	conj3
+:vs:tutud	perfstem
+:vs:tuns	pp4
+:vs:tu_ss	pp4
+:vs:tus		pp4
 :le:urgeo
 :vs:urg conj2
 :vs:urgu conj2

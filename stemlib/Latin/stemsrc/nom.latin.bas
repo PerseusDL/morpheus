@@ -116,6 +116,10 @@
 :wd:at-qui	conj
 :wd:ad-qui	conj
 
+:le:Aulis
+:no:Aul	is_is fem
+:no:Aul	is_idis fem
+
 :le:auris
 :no:aur is_is	fem
 
@@ -174,6 +178,13 @@
 
 :le:certus
 :aj:cert	us_a_um
+
+:le:Chaos
+:wd:Chaos	irreg_nom3 masc nom sg
+:wd:Chaus	irreg_nom3 masc nom sg
+:wd:Chao	irreg_nom3 masc abl sg
+:wd:Chai	irreg_nom3 masc gen sg
+:wd:Chai	irreg_nom3 masc dat sg
 
 :le:citer
 :aj:cit	er_ra_rum no_comp
@@ -467,12 +478,19 @@
 :no:Hortens	ius_i masc
 :no:Horte_s	ius_i masc
 
+:le:Hymenaeus
+:no:hymenae	us_i masc
+
 :le:Idus
 :no:I_d		us_us fem pl
 :no:Eid		us_us fem pl
 
 :le:jam
 :wd:jam	adverb
+
+:le:Iarba
+:no:Iarb	as_ae masc
+:no:Hiarb	as_ae masc
 
 :le:imperator
 :no:impe^ra_t	or_oris masc
@@ -489,6 +507,9 @@
 
 :le:integer
 :aj:inte^g 	er_ra_rum
+
+:le:interior
+:aj:inter	ior_ius_comp
 
 :le:insolenter
 :wd:insolenter	adverb
@@ -592,6 +613,7 @@
 
 :le:mens
 :no:m	ens_entis fem
+:no:ment	is_is fem nom sg
 
 :le:mecum
 :wd:me_cum	indecl
@@ -613,6 +635,10 @@
 :le:Minturnae
 :no:Minturn	a_ae fem pl
 :no:Menturn	a_ae fem pl
+
+
+:le:Mnestheus
+:no:Mnesth	eus_ei masc
 
 :le:Mustius
 :no:Must	ius_i masc
@@ -709,6 +735,13 @@
 :aj:optima s_tis_adj
 :wd:optimatium s_tis_adj gen pl masc fem neut
 
+:le:Orgia
+:no:org	ius_i neut pl
+
+:le:Orestes
+:no:Orest	es_ae masc
+:no:Orest	es_is masc
+
 :le:Oriens
 :no:Ori	ens_entis masc fem
 
@@ -787,6 +820,12 @@
 :le:plebs
 :no:pleb s_is fem
 
+:le:polus#1
+:no:po^l	us_i masc
+
+:le:Polus#2
+:no:Po^l	us_i masc
+
 :le:Pompejus
 :aj:Pompe_j	us_a_um
 :aj:Pompe_	ius_ia_ium
@@ -794,7 +833,7 @@
 :le:Populianus
 :aj:Populian	us_a_um
 
-:le:posteri
+:le:posterus
 :aj:poster	us_a_um no_comp
 :aj:poster	us_a_um comp
 :aj:postrem	us_a_um irreg_superl
@@ -865,7 +904,7 @@
 :le:quia
 :wd:quia	conj
 
-:le:quies
+:le:quies#1
 :no:qui 	es_eLtis fem
 :wd:quie 	irreg_nom3 abl fem sg archaic
 
@@ -895,6 +934,9 @@
 :le:remex
 :no:rem		ex_igis masc
 
+:le:requies
+:no:requi	es_eLi fem acc sg
+
 :le:res
 :no:r		es_ei fem
 
@@ -906,6 +948,9 @@
 
 :le:rus
 :no:ru		s_ris neut
+
+:le:sacer
+:no:sac	er_ra_rum
 
 :le:saepis
 :aj:saep	is_e comp adverbial
@@ -1028,6 +1073,9 @@
 :le:tigris
 :no:tigr	is_idos masc fem
 :no:tigr	is_is masc fem
+
+:le:Titan
+:no:Tit	an_aLnis masc	
 
 :le:tot
 :wd:tot		indecl

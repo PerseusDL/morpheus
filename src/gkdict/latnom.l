@@ -268,7 +268,7 @@ if( is_itype("e^os","eus") ) return( dump_nom('e',"eus_ei",gendlab,numlab));
 if( is_itype("e^os","is") ) return( dump_nom('i',"is_eos",gendlab,numlab));
 if( is_itype("e^os","os") ) return( dump_nom('o',"is_eos",gendlab,numlab));
 if( is_itype("a^cis","ax") ) return( dump_nom('x',"x_cis",gendlab,numlab));
-if( is_itype("e^ris","us") ) return( dump_nom('u',"er_eris"," neut",numlab));
+if( is_itype("e^ris","us") ) return( dump_nom('u',"us_eris"," neut",numlab));
 if( is_itype("e^ris","is") ) return( dump_nom('i',"is_eris",gendlab,numlab));
 if( is_itype("e^ris","er") ) return( dump_nom('e',"er_eris",gendlab,numlab));
 if( is_itype("e_ris","er") ) return( dump_nom('e',"eLr_eLis",gendlab,numlab));
