@@ -667,8 +667,9 @@
 :wd:si_quibus   interrog masc/fem/neut abl pl
 
 :le:ipse
-:wd:ipse demonstr neut nom acc sg
-:wd:ipsum demonstr neut nom acc sg
+:wd:ipse demonstr neut nom voc sg
+:wd:ipsum demonstr neut nom voc acc sg
+:wd:ipsa demonstr fem nom voc sg
 :wd:ipsa   demonstr fem nom sg
 :wd:ipsius   demonstr masc/fem/neut gen sg
 :wd:ipsi_   demonstr masc/fem/neut dat sg

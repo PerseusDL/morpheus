@@ -273,6 +273,9 @@
 :wd:deinde	adverb
 :wd:dein	adverb
 
+:le:demens
+:aj:de_-m	ens_adj
+
 :le:deterior
 :aj:det		er_era_erum comp
 :aj:det		er_era_erum superl
@@ -281,17 +284,18 @@
 :no:de	us_i masc
 :wd:di_s	irreg_nom2 masc dat pl
 :wd:di_s	irreg_nom2 masc abl pl
+:wd:di	irreg_nom2	masc nom/voc pl
 
 :le:dextera
 :no:dexte^r 	a_ae fem
 :no:dextr 	a_ae fem
 
-:le:deus
-:no:de	us_i masc
-:wd:di	irreg_nom2	masc nom/voc pl
-
 :le:dibaphus
 :aj:dibaph	us_a_um
+
+:le:Dido#2
+:no:Did	o_oLnis fem
+:no:Did	o_us fem
 
 :le:diligens
 :aj:dilig	ens_adj
@@ -522,6 +526,10 @@
 
 :le:integer
 :aj:inte^g 	er_ra_rum
+
+:le:inter
+:wd:inter	prep
+:wd:inter	adverb
 
 :le:interior
 :aj:inter	ior_ius_comp
@@ -1151,6 +1159,7 @@
 :aj:u_berrim	us_a_um	irreg_superl
 
 :le:ubi
+:wd:ubi	conj
 :wd:ubinam	adverb
 
 :le:umquam

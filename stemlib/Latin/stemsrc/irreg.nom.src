@@ -391,8 +391,9 @@ si_@quis	interrog
 
 
 :le:ipse
-:wd:ipse demonstr neut nom acc sg
-:wd:ipsum demonstr neut nom acc sg
+:wd:ipse demonstr neut nom voc sg
+:wd:ipsum demonstr neut nom voc acc sg
+:wd:ipsa demonstr fem nom voc sg
 ips@ille demonstr
 
 :le:is
