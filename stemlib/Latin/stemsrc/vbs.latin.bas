@@ -783,6 +783,11 @@
 :vs:sumpsi	perfstem
 :vs:sumpt	pp4
 
+:le:suprascribo
+:vs:supra-scri_b	conj3
+:vs:supra-scri_ps perfstem
+:vs:supra-scri_pt pp4
+
 :le:surgo
 :vs:surg	conj3
 :vs:surri^g	conj3
