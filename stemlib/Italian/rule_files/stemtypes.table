@@ -1,6 +1,9 @@
 o_i 01 noun1
 a_e 02 noun2
 e_i 03 noun3
+a_acc 04 noun4
+u_acc 05 noun5
+io_i 06 noun6
 
 o_a 01 adj1
 co_ca 02 adj1
