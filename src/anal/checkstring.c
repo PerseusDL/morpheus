@@ -143,6 +143,7 @@ printf("raw [%s] work [%s]\n", rawword_of(Gkword) , workword_of(Gkword) );
 
 	if( ! rval && ! totanal_of(Gkword) ) {
 		rval=checkcrasis(Gkword);
+printf("rval %d\n", rval  );
 	}
 
 /*
@@ -226,6 +227,7 @@ checkstring3(gk_word *Gkword)
 		return(rval);
 */
 	rval=checkstring4(Gkword);
+printf("saveword [%s] rval %d\n", saveword, rval );
 
 
 	if(  (isupper(*string) || *string == BETA_UCASE_MARKER) && !(prntflags_of(Gkword)&STRICT_CASE) ) {
@@ -475,7 +477,9 @@ checkstring4(gk_word *Gkword)
 	char * string = workword_of(Gkword);
 	int rval = 0; 
 
-	if( (rval=checkword(Gkword)) > 0 ) {
+	rval=checkword(Gkword);
+printf("string4 rval %d\n", rval );
+	if( rval > 0 ) {
 		return(rval);
 	}
 	
