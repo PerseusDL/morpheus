@@ -78,7 +78,7 @@ farr@decl3	irreg_nom3	neut
 :no:fron	s_tis fem
 
 :le:iste
-:wd:iste demonstr neut nom acc sg
+:wd:iste demonstr masc nom voc sg
 :wd:istud demonstr neut nom acc sg
 :wd:istunc	demonstr masc acc sg
 :wd:istanc	demonstr fem acc sg
@@ -300,7 +300,7 @@ ali@quis indef
 :wd:ecqui_buscum rel_pron masc fem neut abl dat pl
 ec@quis rel_pron
 
-:le:qui
+:le:qui#2
 :wd:qui_ rel_pron masc nom sg
 :wd:quei rel_pron masc nom sg
 :wd:quae rel_pron fem nom sg
@@ -313,7 +313,7 @@ ec@quis rel_pron
 :wd:quoi rel_pron masc fem neut dat sg
 @quis rel_pron
 
-:le:qui
+:le:qui#1
 :wd:qui_ interrog masc nom sg
 :wd:quei interrog masc nom sg
 :wd:quae interrog fem nom sg
@@ -367,14 +367,14 @@ a^li^@quis	indef
 ec@quis	interrog
 :wd:ecquidni	interrog neut nom acc sg
 
-:le:quis
+:le:quis#1
 :wd:quis	interrog masc fem nom sg
 :wd:quid	interrog neut nom/acc sg
 :wd:quo		interrog masc fem neut abl sg
 @quis	interrog
 :wd:quidni	interrog neut nom acc sg
 
-:le:quis
+:le:quis#2
 :wd:quis	indef masc fem nom sg
 :wd:quid	indef neut nom/acc sg
 :wd:quo		indef masc fem neut abl sg

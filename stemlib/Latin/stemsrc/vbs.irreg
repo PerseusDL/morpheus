@@ -46,11 +46,12 @@
 :vb:eunda   irreg_pp1 gerundive fem nom sg
 :vb:eunda   irreg_pp1 gerundive fem nom/voc sg
 :vb:eundum   irreg_pp1 gerundive neut nom sg
+:vb:eundum   irreg_pp1 gerundive neut nom/voc/acc sg
 :vb:eundi_   irreg_pp1 gerundive masc/neut gen sg
 :vb:eundae   irreg_pp1 gerundive fem gen sg
 :vb:eundo_   irreg_pp1 gerundive masc/neut dat sg
 :vb:eundae   irreg_pp1 gerundive fem dat sg
-:vb:eundum   irreg_pp1 gerundive masc/neut acc sg
+:vb:eundum   irreg_pp1 gerundive masc acc sg
 :vb:eundam   irreg_pp1 gerundive fem acc sg
 :vb:eunde   irreg_pp1 gerundive masc/neut voc sg
 :vb:eundo_   irreg_pp1 gerundive masc/neut abl sg
@@ -58,6 +59,7 @@
 :vb:eundi_   irreg_pp1 gerundive masc nom pl
 :vb:eundae   irreg_pp1 gerundive fem nom/voc pl
 :vb:eunda   irreg_pp1 gerundive neut nom/voc/acc pl
+:vb:eundu_m   irreg_pp1 gerundive masc/neut gen pl poetic
 :vb:eundo_rum   irreg_pp1 gerundive masc/neut gen pl
 :vb:eunda_rum   irreg_pp1 gerundive fem gen pl
 :vb:eundi_s   irreg_pp1 gerundive masc/neut dat pl
@@ -97,8 +99,8 @@
 :vb:i_bitis   irreg_pp1 fut ind act 2nd pl
 :vb:i_bunt   irreg_pp1 fut ind act 3rd pl
 :vb:i_bor   irreg_pp1 fut ind pass 1st sg comp_only
-:vb:i_be_ris   irreg_pp1 fut ind pass 2nd sg comp_only
 :vb:i_be_re   irreg_pp1 fut ind pass 2nd sg comp_only
+:vb:i_be_ris   irreg_pp1 fut ind pass 2nd sg comp_only
 :vb:i_bitur   irreg_pp1 fut ind pass 3rd sg comp_only
 :vb:i_bimur   irreg_pp1 fut ind pass 1st pl comp_only
 :vb:i_bimini   irreg_pp1 fut ind pass 2nd pl comp_only
@@ -294,8 +296,18 @@
 :vb:fore	irreg_pp1 fut inf act
 :vs:fut		pp4 fut part
 :vb:e_ns   irreg_pp1 pres part masc/fem/neut nom/voc sg comp_only
+:vb:e_ntis   irreg_pp1 pres part masc/fem/neut gen sg comp_only
+:vb:e_nti_   irreg_pp1 pres part masc/fem/neut dat sg comp_only
+:vb:e_ntem   irreg_pp1 pres part masc/fem acc sg comp_only
 :vb:e_ns   irreg_pp1 pres part neut acc sg comp_only
 :vb:ente   irreg_pp1 pres part masc/fem/neut abl sg comp_only
+:vb:e_nte   irreg_pp1 pres part masc/fem/neut abl sg comp_only
+:vb:e_nte_s   irreg_pp1 pres part masc/fem nom/voc pl comp_only
+:vb:e_nta   irreg_pp1 pres part neut nom/voc/acc pl comp_only
+:vb:e_ntum   irreg_pp1 pres part masc/fem/neut gen pl comp_only
+:vb:e_ntibus   irreg_pp1 pres part masc/fem/neut dat pl comp_only
+:vb:e_nte_s   irreg_pp1 pres part masc/fem acc pl comp_only
+:vb:e_ntibus   irreg_pp1 pres part masc/fem/neut abl pl comp_only
 :vb:sim   irreg_pp1 pres subj act 1st sg
 :vb:si_s   irreg_pp1 pres subj act 2nd sg
 :vb:sit   irreg_pp1 pres subj act 3rd sg
@@ -320,12 +332,6 @@
 :vb:esse_mus   irreg_pp1 imperf subj act 1st pl
 :vb:esse_tis   irreg_pp1 imperf subj act 2nd pl
 :vb:essent   irreg_pp1 imperf subj act 3rd pl
-:vb:forem   irreg_pp1 imperf subj act 1st sg
-:vb:fore_s   irreg_pp1 imperf subj act 2nd sg
-:vb:foret   irreg_pp1 imperf subj act 3rd sg
-:vb:fore_mus   irreg_pp1 imperf subj act 1st pl
-:vb:fore_tis   irreg_pp1 imperf subj act 2nd pl
-:vb:forent   irreg_pp1 imperf subj act 3rd pl
 
 :le:prosum
 :vb:pro_sum		irreg_pp1 1st sg pres ind act

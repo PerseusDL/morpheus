@@ -276,6 +276,9 @@
 :le:demens
 :aj:de_-m	ens_adj
 
+:le:desuper
+:wd:de_-super	adverb
+
 :le:deterior
 :aj:det		er_era_erum comp
 :aj:det		er_era_erum superl
@@ -284,7 +287,8 @@
 :no:de	us_i masc
 :wd:di_s	irreg_nom2 masc dat pl
 :wd:di_s	irreg_nom2 masc abl pl
-:wd:di	irreg_nom2	masc nom/voc pl
+:wd:di_	irreg_nom2	masc nom/voc pl
+:wd:di_vom	irreg_nom2	poet gen masc pl
 
 :le:dextera
 :no:dexte^r 	a_ae fem
@@ -312,6 +316,12 @@
 :le:diu
 :wd:di^u_tius       adverb comp
 :wd:di^u_tissimus       adverb superl
+
+:le:domus
+:no:dom	us_us fem
+:no:dom	us_i fem abl sg
+:no:dom	us_i fem acc sg
+:no:dom	us_i fem acc pl
 
 :le:donec
 :wd:donec	conj
@@ -866,6 +876,10 @@
 
 :le:Populianus
 :aj:Populian	us_a_um
+
+:le:post
+:wd:post	prep
+:wd:post	adverb
 
 :le:posterus
 :aj:poster	us_a_um no_comp

@@ -202,6 +202,7 @@ er@ofut		irreg_pp1 fut ind act
 e_ns    	irreg_pp1 pres part masc/fem/neut nom/voc sg comp_only
 e_ns    	irreg_pp1 pres part neut acc sg comp_only
 ente    	irreg_pp1 pres part masc/fem/neut abl sg comp_only
+e_nt@decl3	irreg_pp1 pres part masc fem neut comp_only
 
 
 :le:prosum

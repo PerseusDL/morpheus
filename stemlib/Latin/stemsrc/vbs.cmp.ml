@@ -97,6 +97,7 @@ ab-torqueo abtorqueo
 ab-uto abutor
 ab-utor abutor
 abs-eo absis
+abs-sum absum
 abs-teneo abstineo
 ad-aperio adaperio
 ad-arceo adarce
@@ -124,6 +125,7 @@ ad-fulgeo affulgeo
 ad-fundo#1 affundo
 ad-fundo#2 affundo
 ad-gestio#2 aggestio
+ad-gnosco agnosco
 ad-habito adhabito
 ad-horreo adhorreo
 ad-indo adindo
@@ -205,7 +207,7 @@ circum-jacio circumjacio
 circum-lavo circumlavo
 circum-linio circumlinio
 circum-loquor circumloquor
-circum-po circumpes
+circum-specio circumspicio
 circum-tondeo circumtondeo
 circum-tremo circumtremo
 circum-vento circumventor
@@ -804,6 +806,7 @@ pro-sapio prosapies
 pro-sector#2 prosector
 pro-sedo proseda
 pro-sopio prosopis
+pro-specio prospicio
 pro-spico prospica
 pro-sumo prosumo
 pro-vecto provector
@@ -857,6 +860,7 @@ red-dito redditor
 red-eo redeo
 red-operio redoperio
 ret-sum retero
+retro-specio retrospicio
 se-caleo secale
 se-co secundae
 se-co secundum
@@ -932,12 +936,14 @@ super-fugio superfugio
 super-gradior supergradior
 super-gradior supergredior
 super-impleo superimpleo
+super-inspicio superinspicio
 super-intento superintentor
 super-labo superlabor
 super-labor#1 superlabor
 super-molo#1 supermolaris
 super-neo#1 superne
 super-no#1 supernas
+super-perspicio superperspicio
 super-ruo superruo
 super-stringo superstringo
 super-sum supersum

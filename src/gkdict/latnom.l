@@ -62,6 +62,7 @@ set_orth(int tlen)
 	if(*s == ';' || *s == ':' ) *s = 0;
 
 	if( sameend(curpat,curstem) ) {
+printf("curpat [%s]\n", curpat );
 		strcpy(orthtab[0],curpat);
 	}
 }
@@ -73,6 +74,7 @@ sameend(char *s1, char *s2)
 	if(*s1) {
 		while(*s1) s1++; s1--;
 	}
+
 
 	if(*s2) {
 		while(*s2) s2++; s2--;
@@ -184,7 +186,9 @@ dump_ent(int trimn,char *etag,char * stype,char *glab,char * nlab)
 	
 	for(i=0;i<MAXORTH;i++) {
 		if( ! orthtab[i][0] ) break;
+printf("trimn %d otab [%s]\n", trimn, orthtab[i] );
 		trimstem(orthtab[i],trimn);
+printf("b:trimn %d otab [%s]\n", trimn, orthtab[i] );
 		printf(":%s:%s\t%s%s%s orth\n\n",etag, orthtab[i], stype, glab, nlab );
 	}
 	putchar('\n');

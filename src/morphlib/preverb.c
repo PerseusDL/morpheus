@@ -283,6 +283,9 @@ rstprevb(char *word, char *prevb, gk_string *gstr)
 				case 'm':
 					*t = *word;
 					break;
+				case 's':
+					*t = 0;
+					break;
 				default:
 					break;
 			}
@@ -324,13 +327,15 @@ rstprevb(char *word, char *prevb, gk_string *gstr)
 			switch(*word) {
 				case 'c':
 				case 'f':
-				case 'g':
 				case 'l':
 				case 'n':
 				case 'p':
 				case 's':
 				case 't':
 					*(work+strlen(work)-1) = * word;
+					break;
+				case 'g':
+					*t = 0;
 					break;
 				default:
 					break;

@@ -108,6 +108,13 @@
 :vs:capessi_	perfstem
 :vs:capessi_t	pp4
 
+:le:capio
+:vs:cap	conj3_io no_comp
+:vs:cip	conj3_io comp_only
+:vs:ce_p	perfstem
+:vs:capt	pp4 no_comp
+:vs:cept	pp4 comp_only
+
 :le:careo
 :vs:car	conj2
 :vs:caru_	perfstem
@@ -369,6 +376,11 @@
 :vs:lib	conj2
 :vs:libu	perfstem
 :vs:libit	pp4
+
+:le:licet
+:vs:lic	conj2
+:vs:licu	perfstem
+:vs:licit	pp4
 
 :le:loquor
 :vs:lo^qu conj3 dep
