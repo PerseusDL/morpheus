@@ -22,7 +22,7 @@ checkhalf1(gk_word *Gkword, char *endkeys)
 printf("half1 stem preverb [%s] stem [%s] end [%s]\n", preverb_of(Gkword) , stem_of(Gkword), endstring_of(Gkword));
 */
 	strcpy(savestem,stem);
-	if( *stem == 'r'  && getbreath(stem) == NOBREATH ) {
+	if( *stem == 'r'  && getbreath(stem) == NOBREATH && cur_lang() != LATIN ) {
 		char tmp[MAXWORDSIZE];
 
 		Xstrncpy(tmp,"r(",(int)sizeof tmp);

@@ -233,12 +233,12 @@ Morph_args arg_voice[] = {
 	"middle",		MIDDLE,		new_voice,
 	"act",			ACTIVE,		new_voice,
 	"active",		ACTIVE,		new_voice,
-	"pass",			PASSIVE,		new_voice,
-	"passive",		PASSIVE,		new_voice,
-	"dep",			PASSIVE,		new_voice,
-	"mp",			MEDIO_PASS,		new_voice,
-	"medio_pass",		MEDIO_PASS,		new_voice,
-	"medio-pass",		MEDIO_PASS,		new_voice,
+	"pass",			PASSIVE,	new_voice,
+	"passive",		PASSIVE,	new_voice,
+	"dep",			MIDDLE,		new_voice,
+	"mp",			MEDIO_PASS,	new_voice,
+	"medio_pass",		MEDIO_PASS,	new_voice,
+	"medio-pass",		MEDIO_PASS,	new_voice,
 	0,
 };
 

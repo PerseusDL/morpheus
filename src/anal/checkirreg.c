@@ -115,7 +115,7 @@ printf("rval b %d irrform [%s] irkkeys [%s]\n", rval , irrform, IrrKeys[0] );
  * on the irrform 
  */
 
- 	if( ((! Is_asp(*(rawprvb + Xstrlen(rawprvb) - 1))) || mfi_prvb(rawprvb)) && getbreath(irrform) == NOBREATH) {
+ 	if( (cur_lang() != LATIN && (! Is_asp(*(rawprvb + Xstrlen(rawprvb) - 1))) || mfi_prvb(rawprvb)) && getbreath(irrform) == NOBREATH) {
 		addbreath(irrform,SMOOTHBR);
 		if( has_morphflag(morphflags_of(stem_gstr_of(&Workword)),UNASP_PREVERB) ) {
 			unasp_prev = 1;
@@ -148,7 +148,7 @@ printf("rval b %d irrform [%s] irkkeys [%s]\n", rval , irrform, IrrKeys[0] );
  *
  * NO! make sure that you can analyze forms such as ionic a)p-i/hmi
  */
-	if(/* *(rawprvb + Xstrlen(rawprvb) - 1) != 'p'&& */getbreath(irrform) == NOBREATH
+	if( cur_lang() != LATIN && /* *(rawprvb + Xstrlen(rawprvb) - 1) != 'p'&& */getbreath(irrform) == NOBREATH
 /*
  * grc 12/5/90
  *

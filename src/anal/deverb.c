@@ -163,7 +163,7 @@ testcmpstem3(char*needlemma,char *stem,char * stemkeys,char* matchkeys,char*tran
 		return(0);
         }
 
-        if( Is_vowel(*stem) && getbreath(stem) == NOBREATH  ) {
+        if( Is_vowel(*stem) && getbreath(stem) == NOBREATH  && cur_lang() != LATIN ) {
 
                 strcpy(savestem,stem);
 /*

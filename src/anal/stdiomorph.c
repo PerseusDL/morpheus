@@ -180,7 +180,7 @@ char *argv[];
     /*set_nocrasis();*/
 
     rval = checkstring(line,flags,foutput);
-    if( ! rval && (flags & IGNORE_ACCENTS) ) {
+    if( cur_lang() != LATIN && ! rval && (flags & IGNORE_ACCENTS) ) {
 	char tmpform[BUFSIZ];
 
 	strcpy(tmpform,line);
