@@ -25,7 +25,7 @@ noms:	stemsrc/nom.irreg stemind/nomind
 vbs:	stemsrc/vbs.irreg stemind/vbind
 
 VBFILES=stemsrc/vbs.latin.bas stemsrc/vbs.latin.irreg stemsrc/vbs.latin \
-	stemsrc/vbs.irreg
+	stemsrc/vbs.irreg stemsrc/vbs.mpi
 
 stemind/vbind:	stemsrc/vbs.latin
 	cat ${VBFILES} | \
