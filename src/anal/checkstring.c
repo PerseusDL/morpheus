@@ -249,14 +249,19 @@ enclitic_word LatinSuff[] = {
 /* these should only work with verbs, excluding participles */
 enclitic_word ItalianSuff[] = {
   "mi", VERBSTEM,
+  "me", VERBSTEM,
   "ci", VERBSTEM,
+  "ce", VERBSTEM,
   "ti", VERBSTEM,
+  "te", VERBSTEM,
   "vi", VERBSTEM,
+  "ve", VERBSTEM,
   "lo", VERBSTEM,
   "li", VERBSTEM,
   "la", VERBSTEM,
   "le", VERBSTEM,
   "gli", VERBSTEM,
+  "glie", VERBSTEM,
   "loro", VERBSTEM,
   "si", VERBSTEM,
   "", 0				/* sentintel */
