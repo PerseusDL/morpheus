@@ -43438,29 +43438,29 @@
 :le:tau)ti/zw
 :de:tau)t izw
 
-:le:tau)tografe/w
-:de:tau)tograf ew_denom
+:le:tautografe/w
+:de:tautograf ew_denom
 
-:le:tau)toduname/w
-:de:tau)todunam ew_denom
+:le:tautoduname/w
+:de:tautodunam ew_denom
 
-:le:tau)toepe/w
-:de:tau)toep ew_denom
+:le:tautoepe/w
+:de:tautoep ew_denom
 
-:le:tau)tologe/w
-:de:tau)tolog ew_denom
+:le:tautologe/w
+:de:tautolog ew_denom
 
-:le:tau)to/omai
-:de:tau)t ow_denom mp
+:le:tauto/omai
+:de:taut ow_denom mp
 
-:le:tau)topoluloge/w
-:de:tau)topolulog ew_denom
+:le:tautopoluloge/w
+:de:tautopolulog ew_denom
 
-:le:tau)tosullabe/w
-:de:tau)tosullab ew_denom
+:le:tautosullabe/w
+:de:tautosullab ew_denom
 
-:le:tau)to/w
-:de:tau)t ow_denom
+:le:tauto/w
+:de:taut ow_denom
 
 :le:tafrobole/w
 :de:tafrobol ew_denom
