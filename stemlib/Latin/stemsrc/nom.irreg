@@ -254,9 +254,22 @@
 :wd:ha_c demonstr fem abl sg
 :wd:hi_sce	demonstr masc fem neut dat pl
 :wd:hi_sce	demonstr masc fem neut abl pl
+:wd:ho_runce	demonstr masc neut gen pl
+:wd:ho_runc	demonstr masc neut gen pl
+:wd:haec	demonstr neut nom/acc pl
+:wd:ho_sce	demonstr masc acc pl
+:wd:ha_sce	demonstr fem acc pl
+:wd:ho_cin	demonstr neut nom/acc sg
+:wd:ho_cin	demonstr masc neut abl sg
+:wd:haecine	demonstr neut nom/acc pl
+:wd:haecine	demonstr fem nom sg
+:wd:ho_cine	demonstr neut nom/acc sg
+:wd:ho_cine	demonstr masc neut abl sg
+:wd:hicine	demonstr masc nom sg
+:wd:hascine	demonstr fem acc pl
+:wd:hancine	demonstr fem acc sg
 :wd:hi_   demonstr masc nom/voc pl
 :wd:hae   demonstr fem nom/voc pl
-:wd:haec   demonstr neut nom/acc pl
 :wd:ho_rum   demonstr masc gen pl
 :wd:hu_m   demonstr masc gen pl poetic
 :wd:ha_rum   demonstr fem gen pl
@@ -266,7 +279,6 @@
 :wd:hi_s   demonstr fem dat pl
 :wd:hi_s   demonstr neut dat pl
 :wd:ho_s   demonstr masc acc pl
-:wd:hosce   demonstr masc acc pl
 :wd:ha_s   demonstr fem acc pl
 :wd:hi_s   demonstr masc abl pl
 :wd:hi_s   demonstr fem abl pl

@@ -6382,11 +6382,11 @@ A^gy_ri^um
 
 A^gy^ri^nen-ses		<itype>ium</itype>
 A^gy^ri_-ni		<itype>orum</itype>
-:le:a_h
+:le:ah
 :wd:a_h	exclam
-:le:a_
+:le:a
 :wd:a_	exclam
-:le:a^ha^
+:le:aha
 :wd:a^ha^	exclam
 A^ha_la		
 :le:Ahala
@@ -7686,7 +7686,7 @@ alle_go^ri^cus
 
 
 alle_go^ri^ce_	
-:le:alle_lu_ja
+:le:alleluja
 :wd:alle_lu_ja	exclam
 al-le_ni_mentum		<orth type=alt>adl-</orth>	
 :le:allenimentum
@@ -12489,7 +12489,7 @@ A^o_us
 :no:A^o_	us_i masc
 
 
-:le:a^pa^ge^
+:le:apage^
 :wd:a^pa^ge^	exclam
 a^pa^la^		<orth type=alt>ha^p-</orth>
 A^pa^me_a		<orth>-i_a</orth>	
@@ -18514,7 +18514,7 @@ Atarne^us
 :aj:Atarne^	us_a_um
 
 
-:le:a^ta^t
+:le:atat
 :wd:a^ta^t	exclam
 :le:attat
 :wd:attat	exclam
@@ -20882,9 +20882,9 @@ azy_ma
 B		<orth type=alt>b</orth>	<itype>indecl.</itype>	<gen>n.</gen>
 Ba_^al		<gen>m.</gen>
 Ba_^al	<itype>indecl.</itype>
-:le:ba^bae
+:le:babae
 :wd:ba^bae	exclam
-:le:pa^pae
+:le:papae
 :wd:pa^pae	exclam
 Babba		
 :le:Babba
@@ -52456,7 +52456,7 @@ cu_r		<orth>quor</orth>	<orth>cor</orth>
 :wd:cu_r	adverb
 
 :wd:cor	adverb orth
-
+:wd:quor	adverb orth
 
 cu_ra		
 :le:cura
@@ -64105,9 +64105,9 @@ ecbo^las
 
 ecce	
 eccentros		<itype>i</itype>	<pos>adj.</pos>
-:le:ecce^re
+:le:eccere
 :wd:ecce^re	exclam
-:le:e^ce^re
+:le:ecere
 :wd:e^ce^re	exclam
 eccheuma		
 :le:eccheuma
@@ -64981,18 +64981,18 @@ e^gu^la
 :no:e^gu^l	a_ae fem
 
 
-:le:e^hem
+:le:ehem
 :wd:e^hem	exclam
-:le:e_heu
+:le:eheu
 :wd:e_heu	exclam
-:le:e^ho^
+:le:eho
 :wd:e^ho^	exclam
 e^i_#1	
 :le:ei#2
 :wd:ei#2	exclam
-:le:e_ia^
+:le:eia
 :wd:e_ia^	exclam
-:le:he_ia^
+:le:heia
 :wd:he_ia^	exclam
 e^i_dem	
 ejaculari	
@@ -66331,7 +66331,7 @@ e^mys
 :no:e^my	s_dis fem
 
 
-:le:e_n
+:le:en
 :wd:e_n	exclam
 e^nalla^ge		
 :le:enallage
@@ -69291,9 +69291,9 @@ Euga^neus
 :aj:Euga^ne	us_a_um
 
 
-:le:euge^
+:le:euge
 :wd:euge^	exclam
-:le:euge_
+:le:euge
 :wd:euge_	exclam
 eugepae	
 euge^ne_us		<orth>-i_us</orth>	
@@ -75222,7 +75222,7 @@ fe_tu_ti_na
 :no:fe_tu_ti_n	a_ae fem
 
 
-:le:fi_#1
+:le:fi#1
 :wd:fi_#1	exclam
 fi^ber#1		<gen>m.</gen>
 fiber		<itype>extremus</itype>
@@ -84854,7 +84854,7 @@ ha_li^tus		<orth type=alt>alitus</orth>
 :no:ha_li^t	us_us masc
 
 
-:le:halle^lu_jah
+:le:hallelujah
 :wd:halle^lu_jah	exclam
 halle^lu_ja^ti^cus		
 :le:hallelujaticus
@@ -85683,7 +85683,7 @@ He_ge_si_nus
 :no:He_ge_si_n	us_i masc
 
 
-:le:he^hae
+:le:hehae
 :wd:he^hae	exclam
 :le:hei
 :wd:hei	exclam
@@ -104348,7 +104348,7 @@ in-vulne^ra_tus
 :aj:in-vulne^ra_t	us_a_um
 
 
-:le:i^o_#1
+:le:io#1
 :wd:i^o_#1	exclam
 I_o_#2		<itype>Iu_s</itype>
 I_o_n		<itype>Io_nis</itype>	<gen>f.</gen>
@@ -132331,7 +132331,7 @@ ne_#1
 
 
 -ne^#2		<orth>n'</orth>	<orth>n</orth>
-:le:ne_#3
+:le:ne#3
 :wd:ne_#3	exclam
 nae	
 Ne^aera		
@@ -136723,7 +136723,7 @@ Ny_sus
 
 
 O#1		<orth type=alt>o</orth>	<itype>the fourteenth letter of the Latin alphabet</itype>
-:le:o_#2
+:le:o#2
 :wd:o_#2	exclam
 O_a^ri^on		
 :le:Oarion
@@ -139542,9 +139542,9 @@ O_gy^gi^a
 
 :le:oh
 :wd:oh	exclam
-:le:o^he_
+:le:ohe
 :wd:o^he_	exclam
-:le:o^ho
+:le:oho
 :wd:o^ho	exclam
 :le:oi
 :wd:oi	exclam
@@ -145692,7 +145692,7 @@ pa_pa#2
 
 
 Papa#3	
-:le:pa^pae
+:le:papae
 :wd:pa^pae	exclam
 pa_pa_ri^um		
 :le:paparium
@@ -164934,9 +164934,9 @@ pro_#1
 
 	<pos>prep.</pos>	<pos>prep.</pos>
 prout	
-:le:pro_#2
+:le:pro#2
 :wd:pro_#2	exclam
-:le:pro_h
+:le:proh
 :wd:pro_h	exclam
 pro^aedi^fi^ca_tum		
 :le:proaedificatum
@@ -201639,7 +201639,7 @@ ta^sis
 :no:ta^s	is_is fem
 
 
-:le:ta^t
+:le:tat
 :wd:ta^t	exclam
 ta^ta		
 :le:tata

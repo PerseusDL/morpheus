@@ -197,6 +197,7 @@
 :vb:dic		conj3 2nd sg pres imperat act
 :vs:dix		perfstem
 :vs:dict	pp4
+:vb:dixe	perfstem perf inf act
 
 :le:dissero#2
 :vs:disse^r	conj3
@@ -209,13 +210,6 @@
 
 :le:Dis
 :no:Di_	s_tis masc
-
-:le:do#1
-:vs:d conj1
-:vs:de^d perfstem no_comp
-:vs:di^d perfstem comp_only
-:vs:da^t pp4
-:vs:di^t pp4	comp_only
 
 :le:domo
 :vs:dom	conj1
@@ -377,8 +371,12 @@
 :vb:inquito_	irreg_pp1	2nd sg fut imperat act 
 
 :le:irrito#1
-:vs:ir-rit	are_vb
-:vs:inrit	are_vb 
+:de:ir-rit	are_vb
+:de:inrit	are_vb 
+:vb:irritassis	perfstem 2nd sg perf subj act
+:vb:irritassit	perfstem 3rd sg perf subj act
+:vb:inritassis	perfstem 2nd sg perf subj act
+:vb:inritassit	perfstem 3rd sg perf subj act
 
 :le:intellego
 :vs:intelleg	conj3
@@ -507,10 +505,15 @@
 :le:nosco
 :vs:nosc	conj3
 :vs:no_v	perfstem
+:vb:no_sti_	perfstem 2nd sg perf ind act contr	
+:vb:no_stis	perfstem 2nd pl perf ind act contr
+:vb:no_runt	perfstem 3rd pl perf ind act contr
+:vb:no_rim	perfstem 1st sg perf subj act contr
 :vs:no_t	pp4
 :vb:no_ris	perfstem 2nd sg futperf ind act contr
 :vb:no_ras	perfstem 2nd sg plup ind act contr
 :vb:no_runt	perfstem 3rd pl futperf ind act contr
+:vb:no_sse	perfstem perf inf act contr
 :vs:gnosc	conj3 comp_only
 :vs:gno_v	perfstem comp_only
 :vs:gno_t	pp4 comp_only
@@ -672,6 +675,9 @@
 :vs:ru^	conj3
 :vs:ru^	perfstem
 :vs:ru^t	pp4
+
+:le:sacrufico
+:de:sa^_cru^fi^c	are_vb
 
 :le:salio#1
 :vs:sa^l 	conj4

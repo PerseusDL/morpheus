@@ -40,6 +40,7 @@
 :vb:eunto_	irreg_pp1 3rd pl fut imperat act
 :vb:i_re	irreg_pp1 pres inf act
 :vb:i_ri_	irreg_pp1 pres inf pass 
+:vb:i_rier	irreg_pp1 pres inf pass archaic
 :vb:i_sse	irreg_pp2 perf inf act syncop
 :vb:iens	irreg_pp1 pres part act masc fem nom voc
 :vb:iens	irreg_pp1 pres part act neut nom voc acc
@@ -554,3 +555,30 @@
 :vb:nequi_ba_mus   irreg_pp1 imperf ind act 1st pl
 :vb:nequi_ba_tis   irreg_pp1 imperf ind act 2nd pl
 :vb:nequi_bant   irreg_pp1 imperf ind act 3rd pl
+
+:le:do#1
+:vs:d conj1
+:vb:do_		irreg_pp1 1st sg pres indic act
+:vb:da_s	irreg_pp1 2nd sg pres indic act
+:vb:da^t	irreg_pp1 3rd sg pres indic act
+:vb:da^mus	irreg_pp1 1st pl pres indic act
+:vb:da^tis	irreg_pp1 2nd pl pres indic act
+:vb:da^nt	irreg_pp1 3rd pl pres indic act
+:vb:da^re	irreg_pp1 pres inf act
+:vs:de^d perfstem no_comp
+:vs:di^d perfstem comp_only
+:vs:da^t pp4
+:vs:di^t pp4	comp_only
+:vb:duim   irreg_pp1 pres subj act 1st sg
+:vb:dui_s   irreg_pp1 pres subj act 2nd sg
+:vb:duit   irreg_pp1 pres subj act 3rd sg
+:vb:dui_mus   irreg_pp1 pres subj act 1st pl
+:vb:dui_tis   irreg_pp1 pres subj act 2nd pl
+:vb:duint   irreg_pp1 pres subj act 3rd pl
+
+:le:credo
+:vb:cre_duam	irreg_pp1 1st sg pres subj act
+:vb:cre_duas	irreg_pp1 2nd sg pres subj act
+:vb:cre_duat	irreg_pp1 3rd sg pres subj act
+:vb:cre_duis	irreg_pp1 2nd sg pres subj act
+:vb:cre_duit	irreg_pp1 3rd sg pres subj act

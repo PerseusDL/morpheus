@@ -26,6 +26,21 @@
 :le:carnufex
 :no:carnuf	ex_icis masc
 
+:le:ecflictim
+:wd:ecflictim	adverb
+
+:le:eugepae
+:wd:euge^pae	exclam
+
+:le:hicine
+:wd:hicine	adverb
+
+:le:hucine
+:wd:hucine	adverb
+
+:le:humaniter
+:wd:hu_ma_ni^ter	adverb
+
 :le:Iesus
 :wd:I^e_sus	irreg_nom2 masc nom sg
 :wd:I^e_sum	irreg_nom2 masc acc sg
@@ -42,6 +57,9 @@
 :le:mus
 :no:m		uLs_uLris masc fem
 
+:le:numnam
+:wd:numnam	adverb
+
 :le:peregre
 :wd:peregre	adverb
 
@@ -54,11 +72,20 @@
 :le:pontifex
 :no:pontif	ex_icis masc
 
+:le:quidum
+:wd:qui_dum	adverb
+
 :le:rursum
 :wd:rursum	adverb
 
 :le:singulus
 :aj:singul	us_a_um
+
+:le:Taphus
+:no:Taph	us_i fem
+
+:le:Taphius
+:aj:Taphi	us_a_um
 
 :le:Teloboae
 :no:Te_lo^bo^	a_ae masc pl
@@ -72,8 +99,14 @@
 :le:Teloboas
 :no:Te_lo^bo^	as_ae masc
 
+:le:thus
+:no:th		uLs_uLris neut
+
 :le:tragicomoedia
 :no:tragicomoedi	a_ae fem
+
+:le:tus
+:no:t		uLs_uLris neut
 
 :le:utut
 :wd:utut	adverb

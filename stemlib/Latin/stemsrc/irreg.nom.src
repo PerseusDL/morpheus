@@ -129,8 +129,20 @@ h@decl2	demonstr masc pl
 h@decl2 demonstr neut gen pl
 h@decl2 demonstr neut dat pl
 h@decl2 demonstr neut abl pl
-haec	demonstr neut nom/acc pl
-hosce	demonstr masc acc pl
+:wd:ho_runce	demonstr masc neut gen pl
+:wd:ho_runc	demonstr masc neut gen pl
+:wd:haec	demonstr neut nom/acc pl
+:wd:ho_sce	demonstr masc acc pl
+:wd:ha_sce	demonstr fem acc pl
+:wd:ho_cin	demonstr neut nom/acc sg
+:wd:ho_cin	demonstr masc neut abl sg
+:wd:haecine	demonstr neut nom/acc pl
+:wd:haecine	demonstr fem nom sg
+:wd:ho_cine	demonstr neut nom/acc sg
+:wd:ho_cine	demonstr masc neut abl sg
+:wd:hicine	demonstr masc nom sg
+:wd:hascine	demonstr fem acc pl
+:wd:hancine	demonstr fem acc sg
 
 :le:illic
 :wd:illi_c demonstr masc nom sg

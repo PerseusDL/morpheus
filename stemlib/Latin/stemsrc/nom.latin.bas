@@ -373,15 +373,8 @@
 :le:ecce
 :wd:ecce	adverb
 
-:le:eia
-:wd:e_ia^	exclam
-:wd:he_ia^	exclam
-
 :le:eloquens
 :aj:eloqu	ens_adj
-
-:le:en
-:wd:en		exclam
 
 :le:enim
 :wd:enim	conj
@@ -522,9 +515,6 @@
 
 :le:heres
 :no:her	es_eLdis	masc fem
-
-:le:heu
-:wd:heu exclam
 
 :le:hiems
 :no:hi^em s_is fem
