@@ -3702,9 +3702,11 @@ adversi^tor		<orth>advor-</orth>
 :no:advorsi^t	or_oLris masc orth
 
 
+:le:adversum
+:wd:adversum	prep
 
 adversum		
-:le:adversum
+:le:adversum#2
 :no:advers	us_i neut
 
 
@@ -3722,7 +3724,6 @@ ad-versa
 adversus#2		<orth>adversum</orth>	<orth>advor-</orth>	
 :le:adversus#2
 :wd:adversus	adverb
-
 :wd:advorsus	adverb orth
 
 	<pos>prep.</pos>
@@ -136222,7 +136223,7 @@ nu^ra
 
 nu_s		
 :le:nus
-:no:n	us_i masc
+:wd:nus	masc indecl
 
 
 nuscitio_sum		<orth type=alt>nuscicio_sum</orth>	<itype>Ateius Philologus ait appellari solitum</itype>
@@ -168708,12 +168709,6 @@ pu^ellus
 :le:puellus
 :no:pu^ell	us_i masc
 
-
-pu^er		
-:le:puer
-:no:pu^	er_ri masc
-
-	<pos>adj.</pos>
 pu^e^ra		
 :le:puera
 :no:pu^e^r	a_ae fem

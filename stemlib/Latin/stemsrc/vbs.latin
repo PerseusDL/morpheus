@@ -6169,8 +6169,8 @@
 :vs:ex-act pp4
 :le:eximo
 :vs:ex-i^m	conj3
-:vs:e_m perfstem
-:vs:empt pp4
+:vs:ex-e_m perfstem
+:vs:ex-empt pp4
 :le:exinanio
 :vs:ex-i^na_n	conj4
 :vs:ex-i^na_ni_v perfstem
