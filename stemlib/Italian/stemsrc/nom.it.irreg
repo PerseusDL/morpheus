@@ -1,63 +1,61 @@
 
-
-
 :le:il
 :wd:il article masc nom sg
 :wd:i article masc nom pl
-:wd:lo/ article masc nom sg
+:wd:lo article masc nom sg
 :wd:gli article masc nom pl
 :wd:li article masc nom pl
-:wd:de/l article masc gen sg
-:wd:de/i article masc gen pl
+:wd:del article masc gen sg
+:wd:dei article masc gen pl
 :wd:de' article masc gen pl
-:wd:de/llo article masc gen sg
-:wd:de/gli article masc gen pl
-:wd:de/lli article masc gen pl
+:wd:dello article masc gen sg
+:wd:degli article masc gen pl
+:wd:delli article masc gen pl
 :wd:al article masc dat sg
 :wd:ai article masc dat pl
 :wd:a' article masc dat pl
-:wd:a/llo article masc dat sg
-:wd:a/gli article masc dat pl
-:wd:a/lli article masc dat pl
+:wd:allo article masc dat sg
+:wd:agli article masc dat pl
+:wd:alli article masc dat pl
 :wd:il article masc acc sg
 :wd:i article masc acc pl
-:wd:lo/ article masc nom sg
+:wd:lo article masc nom sg
 :wd:gli article masc nom pl
 :wd:li article masc nom pl
 :wd:o= article voc 
-:wd:o/ article voc 
-:wd:o\ article voc
+:wd:o article voc 
+:wd:o article voc
 :wd:dal article masc abl sg
-:wd:da/i article masc abl pl
+:wd:dai article masc abl pl
 :wd:da' article masc abl pl
-:wd:da/llo article masc abl sg
-:wd:da/gli article masc abl pl
-:wd:da/lli article masc abl pl
+:wd:dallo article masc abl sg
+:wd:dagli article masc abl pl
+:wd:dalli article masc abl pl
 
 :wd:la article fem nom sg
 :wd:le article fem nom pl
-:wd:de/lla	article fem gen sg
-:wd:de/lle	article fem gen pl
-:wd:a/lla	article fem dat sg
-:wd:a/lle	article fem dat pl
+:wd:della	article fem gen sg
+:wd:delle	article fem gen pl
+:wd:alla	article fem dat sg
+:wd:alle	article fem dat pl
 :wd:la	article fem acc sg
 :wd:le	article fem acc pl
-:wd:da/lla	article fem abl sg
-:wd:da/lle	article fem abl pl
+:wd:dalla	article fem abl sg
+:wd:dalle	article fem abl pl
 
 
 
-:le:bra/ccio
-:wd:bra/ccia	 irreg_nom masc pl
+:le:braccio
+:wd:braccia	 irreg_nom masc pl
 
 :le:budello
 :wd:budella	 irreg_nom masc pl
 
-:le:calca/gno
-:wd:calca/gna	 irreg_nom masc pl
+:le:calcagno
+:wd:calcagna	 irreg_nom masc pl
 
-:le:ca/rro
-:wd:ca/rra	 irreg_nom masc pl
+:le:carro
+:wd:carra	 irreg_nom masc pl
 
 :le:castello
 :wd:castella	 irreg_nom masc pl
@@ -65,60 +63,60 @@
 :le:ceruello
 :wd:ceruella	 irreg_nom masc pl
 
-:le:ci/glio
-:wd:ci/glia	 irreg_nom masc pl
+:le:ciglio
+:wd:ciglia	 irreg_nom masc pl
 
-:le:co/rno
-:wd:co/rna	 irreg_nom masc pl
+:le:corno
+:wd:corna	 irreg_nom masc pl
 
-:le:di/to
-:wd:di/ta	 irreg_nom masc pl
+:le:dito
+:wd:dita	 irreg_nom masc pl
 
-:le:fi/co
-:wd:fi/ca	 irreg_nom masc pl
+:le:fico
+:wd:fica	 irreg_nom masc pl
 
-:le:fi/lo
+:le:filo
 :wd:fila	 irreg_nom masc pl
 
-:le:fondame/nto
-:wd:fondame/nta	 irreg_nom masc pl
+:le:fondamento
+:wd:fondamenta	 irreg_nom masc pl
 
-:le:fru/tto
-:wd:fru/tta	 irreg_nom masc pl
+:le:frutto
+:wd:frutta	 irreg_nom masc pl
 
-:le:gino/cchio
-:wd:gino/cchia	 irreg_nom masc pl
+:le:ginocchio
+:wd:ginocchia	 irreg_nom masc pl
 
-:le:la/bbro
-:wd:la/bbra	 irreg_nom masc pl
+:le:labbro
+:wd:labbra	 irreg_nom masc pl
 
-:le:le/gno
-:wd:le/gna	 irreg_nom masc pl
+:le:legno
+:wd:legna	 irreg_nom masc pl
 
-:le:mu/ro
-:wd:mu/ra	 irreg_nom masc pl
+:le:muro
+:wd:mura	 irreg_nom masc pl
 
 :le:membro
 :wd:membra	 irreg_nom masc pl
 
-:le:ore/cchio
-:wd:ore/cchia		 irreg_nom masc pl
+:le:orecchio
+:wd:orecchia		 irreg_nom masc pl
 
 :le:o'sso
 :wd:o'ssa	irreg_nom masc pl
 
 
-:le:pa/io
-:wd:pa/ia	 irreg_nom masc pl
+:le:paio
+:wd:paia	 irreg_nom masc pl
 
-:le:pa/ro
-:wd:pa/ra	 irreg_nom masc pl
+:le:paro
+:wd:para	 irreg_nom masc pl
 
-:le:pecca/to
-:wd:pecca/ta	 irreg_nom masc pl
+:le:peccato
+:wd:peccata	 irreg_nom masc pl
 
-:le:pu/gno
-:wd:pu/gna	 irreg_nom masc pl
+:le:pugno
+:wd:pugna	 irreg_nom masc pl
 
 :le:quadrello
 :wd:quadrella	 irreg_nom masc pl
@@ -126,24 +124,22 @@
 :le:rastello
 :wd:rastella	 irreg_nom masc pl
 
-:le:ri/so
+:le:riso
 :wd:risa	 irreg_nom masc pl
 
-:le:sta/io
-:wd:sta/ia	 irreg_nom masc pl
+:le:staio
+:wd:staia	 irreg_nom masc pl
 
-:le:sta/ro
-:wd:sta/ra	 irreg_nom masc pl
+:le:staro
+:wd:stara	 irreg_nom masc pl
 
-:le:stri/do
-:wd:stri/da	 irreg_nom masc pl
+:le:strido
+:wd:strida	 irreg_nom masc pl
 
-:le:vesti/gio
-:wd:vesti/gia	 irreg_nom masc pl
+:le:vestigio
+:wd:vestigia	 irreg_nom masc pl
 
-:le:vestime/nto
-:wd:vestime/nta	irreg_nom  masc pl	
+:le:vestimento
+:wd:vestimenta	irreg_nom  masc pl	
 
 
-
-V
