@@ -8,6 +8,31 @@ while (<>) {
     s#^\s*key=[^>]+>\s*##s;
     s#<entryFree$##;
 
+    while (s/^<orth[^>]*>([^<]+)<\/orth>[,\s]*<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>s\.<\/pos>\s*<gen>([mf])\.<\/gen>/ /s)
+    {
+	my $lem1 = $1;
+	my $lem2 = $2;
+	my $gen = $3;
+	donom($lem1, $gen);
+	donom($lem2, $gen);
+    }
+
+    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>v\.<\/pos>/ /s)
+    {
+	my $lem1 = $1;
+	my $lem2 = $2;
+	doverb($lem1);
+	doverb($lem2);
+    }
+
+    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>adj\.<\/pos>/ /s)
+    {
+	my $lem1 = $1;
+	my $lem2 = $2;
+	doadj($lem1);
+	doadj($lem2);
+    }
+
     while (s/^<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>s\.<\/pos>\s*<gen>([mf])\.<\/gen>/ /s) {
 	my $lem = $1;
 	my $gen = $2;
@@ -33,37 +58,7 @@ while (<>) {
 	   or s/<pos>adj\.<\/pos>\s*<orth[^>]*>([^<]+)<\/orth>/ /s) {
 	my $lem = $1;
 
-	next unless $lem = fixlem($lem);
-
-	my $stem = $lem;
-	my $class = '';
-
-	if ($lem =~ /nta$/)
-	{
-	    print "\n:le:$lem\n";
-	    print ":wd:$lem\tnumeral\n";
-	    next;
-	}
-
-	$stem =~ s/a$/o/;	# some adj only appear in the feminine in this dictionary
-	
-	if ($stem =~ s/co$//) {
-	    $class = 'co_ca';
-	}
-	elsif ($stem =~ s/go$//) {
-	    $class = 'go_ga';
-	}
-	elsif ($stem =~ s/[o]$//) {
-	    $class = 'o_a';
-	}
-	elsif ($stem =~ s/[e]$//) {
-	    $class = 'e_i';
-	}
-
-	next if $class eq '';
-
-	print "\n:le:$lem\n";
-	print ":aj:$stem\t$class\n";
+	doadj($lem);
     }
 
     while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>adv\.<\/pos>/ /s
@@ -118,6 +113,42 @@ sub donom {
     print ":no:$stem\t$class $gen\n";
 }
 
+sub doadj {
+    my($lem) = @_;
+
+    return unless $lem = fixlem($lem);
+
+    my $stem = $lem;
+    my $class = '';
+
+    if ($lem =~ /nta$/)
+    {
+	print "\n:le:$lem\n";
+	print ":wd:$lem\tnumeral\n";
+	return;
+    }
+    
+    $stem =~ s/a$/o/;	# some adj only appear in the feminine in this dictionary
+    
+    if ($stem =~ s/co$//) {
+	$class = 'co_ca';
+    }
+    elsif ($stem =~ s/go$//) {
+	$class = 'go_ga';
+    }
+    elsif ($stem =~ s/[o]$//) {
+	$class = 'o_a';
+    }
+    elsif ($stem =~ s/[e]$//) {
+	$class = 'e_i';
+    }
+
+    return if $class eq '';
+
+    print "\n:le:$lem\n";
+    print ":aj:$stem\t$class\n";
+
+}
 sub doverb {
     my($lem) = @_;
 
