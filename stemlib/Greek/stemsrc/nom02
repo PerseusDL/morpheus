@@ -1166,7 +1166,8 @@
 
 :le:di=os
 :aj:di_ os_h_on
-:wd:di=a os_h_on fem sg nom voc epic
+:wd:di=a^ os_h_on fem nom voc sg epic
+:wd:di=a^n os_h_on fem acc sg epic
 :aj:di_ os_on *eur.
 
 :le:*dio/sdotos
