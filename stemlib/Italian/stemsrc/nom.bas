@@ -1,3 +1,6 @@
+:le:che
+:wd:che	conj
+
 :le:e
 :wd:e	conj
 
@@ -21,6 +24,12 @@
 
 :le:in
 :wd:in	prep
+
+:le:per
+:wd:per	prep
+
+:le:senza
+:wd:senza	prep
 
 :le:su
 :wd:su	prep
