@@ -23,11 +23,6 @@ teststring(char *string)
 
 checkstring(char *string, PrntFlags prntflags, FILE *fout)
 {
-	checkstring0(string, prntflags, fout);
-}
-
-checkstring0(char *string, PrntFlags prntflags, FILE *fout)
-{
 	gk_word * Gkword = NULL;
 	FILE * fcurout = fout;
 	int nanals = 0;

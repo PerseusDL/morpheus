@@ -8,10 +8,9 @@ strippreverb(gk_word *Gkword, char *endkeys, int rval)
 	register char * a;
 	register char * b;
 	char curstem[MAXWORDSIZE];
+	int foo;
 	
 	gk_word WorkGkword;
-
-
 /*
  * let's see if the stem by itself flies without a preverb
  */
@@ -21,6 +20,7 @@ strippreverb(gk_word *Gkword, char *endkeys, int rval)
 
 	WorkGkword = * Gkword;
 	Xstrncpy(curstem,stem_of(&WorkGkword),MAXWORDSIZE);
+/*	fprintf(stderr, "entered strippreverb with word %s\n", curstem); */
 
 /*
 fprintf(stderr,"start with ending [%s]\n", endstring_of(Gkword) );
@@ -45,6 +45,7 @@ fprintf(stderr,"start with ending [%s]\n", endstring_of(Gkword) );
 			continue;
 		WorkGkword = *Gkword;
 
+/* fprintf(stderr, "trying raw preverb %s, preverb %s\n", rawprvb_of(&WorkGkword), preverb_of(&WorkGkword)); */
 		if( is_preverb(rawprvb_of(&WorkGkword),preverb_of(&WorkGkword),
 			prvb_gstr_of(&WorkGkword)) ) {
 					
@@ -54,9 +55,9 @@ fprintf(stderr,"start with ending [%s]\n", endstring_of(Gkword) );
 			if( ! stem_of(&WorkGkword)[0] ) 
 				continue;
 
-/*
-printf("rawpb [%s] stem %s\n", rawprvb_of(&WorkGkword), stem_of(&WorkGkword));
-*/
+
+/* fprintf(stderr, "rawpb [%s] pb [%s] stem %s\n", rawprvb_of(&WorkGkword), preverb_of(&WorkGkword), stem_of(&WorkGkword)); */
+
 			if( ! CombPbStem(rawprvb_of(&WorkGkword),stem_of(&WorkGkword),dialect_of(&WorkGkword),morphflags_of(prvb_gstr_of(&WorkGkword))) ) {
 				continue;
 			}
@@ -78,7 +79,8 @@ fprintf(stderr,"\t pb [%s] stem [%s] end [%s]\n", rawprvb_of(&WorkGkword),
 stem_of(&WorkGkword), endstring_of(&WorkGkword) );
 */
 			if( checkhalf1(&WorkGkword,endkeys) ) {
-					CpGkAnal(Gkword,&WorkGkword);
+/* fprintf(stderr, "\t* found one!\n"); */
+				CpGkAnal(Gkword,&WorkGkword);
       				rval++;
 			}
 
