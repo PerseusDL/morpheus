@@ -61,7 +61,9 @@ int is_deriv;
 			curtable=NextEndTable(&index,stype);
 		if( ! curtable ) break;
 		
+/*
 		printf("about to compile [%s]\n", curtable );
+*/
 		sprintf(shortname,"%s%cout%c%s.out", dirp, DIRCHAR, DIRCHAR, curtable );
 
 		if(! (finput=MorphFopen(shortname,"rb"))) {

@@ -48,7 +48,9 @@ char * argv[];
 	}
 
 	strcpy(fname,argv[argc-1]);
+/*
 	printf("about to compile ending type [%s]\n", fname );
+*/
 	if( ! strcmp(fname,"nom") ) {
 		stype = NOUNSTEM|ADJSTEM;
 	} else if( ! strcmp(fname,"verb") ) {

@@ -39,7 +39,9 @@ char * argv[];
 	if( rval) 
 		maintable = 1;
 
+/*
 	printf("about to compile ending type [%s]\n", fname );
+*/
 
 	if( ! strcmp("all",fname) )
 		stype = NOUNSTEM|ADJSTEM|PPARTMASK; 
@@ -55,10 +57,12 @@ char * argv[];
 		expendtables(fname,maintable,formcode);
 		exit(1);
 	}
-printf("stype: [%o]\n", stype );
+
 	while( (curtable=NextEndTable(&index,stype))) {
 
+/*
 		printf("about to compile [%s]\n", curtable );
+*/
 
 		expendtables(curtable,maintable,formcode);
 	}
