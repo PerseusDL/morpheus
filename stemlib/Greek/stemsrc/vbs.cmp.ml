@@ -5720,7 +5720,7 @@ pro/s-marture/w prosmarture/w
 pro/s-me/nw prosme/nw
 pro/s-meidia/w prosmeidia/w
 pro/s-mhxana/omai prosmhxana/omai
-pro/s-mi/gnumi prosmi/gnumi
+pro/s-mi/gnumi prosmei/gnumi
 pro/s-misqo/w prosmisqo/w
 pro/s-mu/rw prosmu/romai
 pro/s-muqe/omai prosmuqe/omai
