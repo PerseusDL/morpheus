@@ -2,7 +2,7 @@ CC= gcc
 CFLAGS= -O2
 LSJDIR=/local/text/lsj
 
-STEMPROG= stemsrc/dopnom stemsrc/stripref stemsrc/zapfirstf stemsrc/headnolen \
+STEMPROG= stemsrc/stripref stemsrc/zapfirstf stemsrc/headnolen \
 	stemsrc/goodstem stemsrc/flatlems
 
 all: $(STEMPROG) ends noms vbs deriv
@@ -47,10 +47,9 @@ stemsrc/lemlist:
 	    stemsrc/vbs.simp.ml stemsrc/vbs.simp.02.new | fgrep ":le:" | \
 	    cut -d":" -f 3 | sort | awk '{print $$1 " "}' > stemsrc/lemlist
 
-stemind/nomind:	stemsrc/dopnom stemsrc/lsj.nom
+stemind/nomind:	stemsrc/lsj.nom
 	cat stemsrc/nom.* stemsrc/nom[0-9]*  stemsrc/lsj.nom \
 	    stemsrc/lsj.byhand > /tmp/nommorph
-	cat stemsrc/pnom* | stemsrc/dopnom >> /tmp/nommorph
 	indexnoms
 
 ia.noms:
