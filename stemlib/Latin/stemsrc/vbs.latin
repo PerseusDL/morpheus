@@ -2719,6 +2719,7 @@
 :le:compono
 :vs:com-po_n	conj3
 :vs:com-po^su^ perfstem
+:vs:com-po^si^t	pp4
 :le:comporto
 :de:com-port	are_vb
 :le:compotio
@@ -7844,8 +7845,8 @@
 :de:in-dulco_r	are_vb
 :le:indulgeo
 :vs:indulg	conj2
-:vs:ins perfstem
-:vs:int pp4
+:vs:induls perfstem
+:vs:induls pp4
 :le:induo
 :vs:indu^	conj3
 :vs:indu^ perfstem
