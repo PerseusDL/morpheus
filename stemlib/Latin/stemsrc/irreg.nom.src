@@ -25,6 +25,9 @@ ambae	numeral	fem pl nom
 ambas	numeral	fem pl acc
 ambos	numeral	masc pl acc
 
+:le:anne
+:wd:anne	adverb
+
 :le:bos
 :wd:bo_s	irreg_nom3 masc fem nom sg
 bov@decl3 	irreg_nom3 sg masc fem
@@ -52,7 +55,6 @@ Cere^r@decl3	irreg_nom3 fem sg
 :le:cor
 cor	neut nom voc acc sg irreg_nom3
 cord@decl3	irreg_nom3 neut	
-
 
 :le:duo
 duo	irreg_adj3 masc neut nom pl
@@ -660,3 +662,18 @@ vulg@decl2	irreg_nom2 neut sg
 volgus		irreg_nom2 neut nom voc acc sg orth
 volg@decl2	irreg_nom2 neut sg orth
 :no:vulg	irreg_nom2 us_i masc rare
+
+:le:difficilis
+:aj:difficilim	us_a_um irreg_superl
+
+:le:gracilis
+:aj:gracilim	us_a_um irreg_superl
+
+:le:similis
+:aj:similim	us_a_um irreg_superl
+
+:le:dissimilis
+:aj:dissimilim	us_a_um irreg_superl
+
+:le:humilis
+:aj:humilim	us_a_um irreg_superl
