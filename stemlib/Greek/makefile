@@ -1,6 +1,11 @@
+CC= gcc
+CFLAGS= -O2
 LSJDIR=/local/text/lsj
 
-all: ends noms vbs deriv
+STEMPROG= stemsrc/dopnom stemsrc/stripref stemsrc/zapfirstf stemsrc/headnolen \
+	stemsrc/goodstem stemsrc/flatlems
+
+all: $(STEMPROG) ends noms vbs deriv
 
 ends: nends vends
 
@@ -37,10 +42,9 @@ stemsrc/vbs.irreg: stemsrc/irreg.vbs.src
 	buildword < stemsrc/irreg.vbs.src > stemsrc/vbs.irreg
 
 stemsrc/lemlist:
-	cat stemsrc/nom.* stemsrc/nom[0-9]* stemsrc/vbs.irreg stemsrc/vbs.simp.ml stemsrc/vbs.simp.02.new | fgrep ":le:" | cut -d":" -f 3 | sort | awk '{print $$1 " "}' > stemsrc/lemlist
-	
+	cat stemsrc/nom.* stemsrc/nom[0-9]* stemsrc/vbs.irreg stemsrc/vbs.simp.ml stemsrc/vbs.simp.02.new | fgrep ":le:" | cut -d":" -f 3 | sort | awk '{print $$1 " "}' > stemsrc/lemlist	
 
-stemind/nomind:	
+stemind/nomind:	stemsrc/dopnom
 	cat stemsrc/nom.* stemsrc/nom[0-9]*  stemsrc/lsj.nom stemsrc/lsj.byhand > /tmp/nommorph
 	cat stemsrc/pnom* | stemsrc/dopnom >> /tmp/nommorph
 	indexnoms
