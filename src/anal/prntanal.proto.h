@@ -8,7 +8,7 @@ int odd_morpheme(gk_analysis *, gk_string *, char *, char *, int);
 int dump_all_anals(gk_word *, PrntFlags, FILE *);
 int SortAnals(gk_analysis *, int);
 int DumpLemmaInfo(gk_word *, PrntFlags , FILE *);
-int CompAnals(gk_analysis *, gk_analysis *);
+int CompAnals(const void*, const void*);
 int DumpOneAnalysis(gk_word *, PrntFlags, gk_analysis *, FILE *, int);
 int DumpEndingIndex(gk_word *, PrntFlags, gk_analysis *, FILE *, int);
 int DumpPerseusAnalysis(gk_word *, PrntFlags, gk_analysis *, FILE *, int);

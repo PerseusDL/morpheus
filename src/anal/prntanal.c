@@ -314,7 +314,7 @@ dump_all_anals(gk_word *Gkword, PrntFlags prntflags, FILE *fout)
     fprintf(fout,"\n");
 }
 
-int CompAnals();
+int CompAnals(const void*, const void*);
 
 SortAnals(gk_analysis *Anal, int nanals)
 {
@@ -325,9 +325,9 @@ SortAnals(gk_analysis *Anal, int nanals)
 
 }
 
-CompAnals(gk_analysis *Anal1, gk_analysis *Anal2)
+int CompAnals(const void* Anal1, const void* Anal2)
 {
-  return(strcmp(lemma_of(Anal1),lemma_of(Anal2)));
+  return(strcmp(lemma_of((gk_analysis*)Anal1),lemma_of((gk_analysis*)Anal2)));
 }
 
 static gk_string EndGstr;
