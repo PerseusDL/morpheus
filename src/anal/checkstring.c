@@ -624,6 +624,10 @@ checkstring3(gk_word *Gkword)
 	  set_workword(Gkword,saveword);
 	  return(rval);
 	}
+	else
+	{
+	  *a = 'i';
+	}
       }
       a++;
     }
