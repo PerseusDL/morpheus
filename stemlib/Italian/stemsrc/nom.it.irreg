@@ -133,8 +133,8 @@
 :le:orecchio
 :wd:orecchia		 irreg_nom masc pl
 
-:le:o'sso
-:wd:o'ssa	irreg_nom masc pl
+:le:osso
+:wd:ossa	irreg_nom masc pl
 
 
 :le:paio
@@ -175,9 +175,6 @@
 
 :le:dunque
 :wd:dunque	adverb
-
-:le:percioche
-:wd:percioche	adverb
 
 :le:cioe\
 :wd:cioe\	adverb
