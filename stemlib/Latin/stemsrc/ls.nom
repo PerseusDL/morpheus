@@ -32085,28 +32085,21 @@ Carthe_us		<orth>Carthe_i^us</orth>
 
 
 
-Cartha_go#1		<orth>Karth-</orth>	<orth>Karta_go</orth>	
-:le:Carthago#1
+Cartha_go		<orth>Karth-</orth>	<orth>Karta_go</orth>	
+:le:Carthago
 :no:Cartha_g	o_inis fem
+:no:Kartha_g	o_inis fem orth
 :no:Karta_g	o_inis fem orth
-
-
 
 Cartha_gi^ni^ensis		
 :le:Carthaginiensis
 :aj:Cartha_gi^ni^ens	is_e
+:aj:Kartha_gi^ni^ens	is_e orth
 
-	<pos>Subst.</pos>
 Cartha_-gi^ni^ensis		
 :le:Carthaginiensis
 :aj:Cartha_-gi^ni^ens	is_e
-
-
-Cartha_go#2		<orth type=alt>Karth-</orth>	
-:le:Carthago#2
-:no:Cartha_g	o_inis fem
-:no:Kartha_g	o_inis fem orth
-
+:aj:Kartha_-gi^ni^ens	is_e orth
 
 
 carti^bu^lum		<orth type=alt>-blum</orth>	
@@ -61583,8 +61576,8 @@ di_versi^tas
 di_-verse		<orth>di_vorse</orth>
 di_ves		
 :le:dives
-:no:di_v	es_itis masc fem
-
+:aj:di_v	es_itis
+:aj:di_	s_tis_adj orth
 
 di_s		<itype>di_te</itype>	<pos>adj.</pos>
 di_ves	
@@ -67795,6 +67788,9 @@ e^que^s
 
 e^quester		<itype>tris, tre</itype>	<gen>m.</gen>	<pos>adj.</pos>	<pos>Subst.</pos>
 equester		<orth>equestria</orth>	<itype>ium</itype>	<gen>n.</gen>
+:le:equester
+:aj:e^quest	er_ris_re
+
 e^qui^dem		
 :le:equidem
 :wd:e^qui^dem	adverb
@@ -70256,6 +70252,8 @@ excellentia
 :le:excellentia
 :no:excellenti	us_i neut pl
 
+:le:excellenter
+:wd:excellenter	adv
 
 excelsum		
 :le:excelsum
@@ -113928,6 +113926,9 @@ Li_ri_-nas		<orth>Li_re_nas</orth>
 
 li_roe		<orth type=alt>dissyl.</orth>
 li_s		<itype>li_tis</itype>	<gen>f.</gen>
+:le:lis
+:no:li_	s_tis f
+
 Lissus		
 :le:Lissus
 :no:Liss	us_i fem
@@ -160922,8 +160923,9 @@ poste^a_		<orth>post e^a</orth>
 :le:postea
 :wd:poste^a_	adverb
 
+:le:posteaquam
+:wd:poste^a_quam	adverb
 
-postea quam		<orth type=alt>post ea</orth>
 postella		
 :le:postella
 :no:postell	a_ae fem
@@ -164854,6 +164856,9 @@ pro_#1
 
 	<pos>prep.</pos>	<pos>prep.</pos>
 prout	
+:le:prout
+:wd:prout	conj
+
 :le:pro#2
 :wd:pro_#2	exclam
 :le:proh
