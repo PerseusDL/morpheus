@@ -8,13 +8,13 @@ CC=cc
 CC=gcc
 LEX=flex
 
+ANALLIB=../anal/anal.a
 ENDLIB=../gkends/gkends.a
 GREEKLIB=../greeklib/greeklib.a
 MORPHLIB=../morphlib/morphlib.a
 GENERLIB=../gener/gener.a
 DICTLIB=../gkdict/gkdict.a
-ANALLIB=../anal/anal.a
-LIBS=${GENERLIB} ${ENDLIB} ${DICTLIB} ${MORPHLIB} ${GREEKLIB} ${ANALLIB}
+LIBS=${ANALLIB} ${GENERLIB} ${ENDLIB} ${DICTLIB} ${MORPHLIB} ${GREEKLIB}
 
 scando:	scando.o fullquantity.o ${LIBS}
 	${CC} -o scando scando.o fullquantity.o ${LIBS}

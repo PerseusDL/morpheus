@@ -1,4 +1,5 @@
 #include <greek.h>
+#include <prntflags.h>
 
 char* get_all_syllables(char* word, int which);
 int basic_quantity(char* word, char* p_syll);
@@ -86,7 +87,7 @@ int basic_quantity(char* word, char* p_syll)
 	if (is_diphth(p_syll, word))
 	  return(LONG);
 
-	if (Is_lvwl(*p_syll))
+	if (cur_lang() == GREEK && Is_lvwl(*p_syll))
 	  return(LONG);
 	else if (Is_shvwl(*p_syll))
 	{
@@ -105,8 +106,16 @@ int basic_quantity(char* word, char* p_syll)
 	      if (Is_cons(*p_pos))
 	      {
 		++ cons_count;
-		if (*p_pos == 'c' || *p_pos == 'y')
-	  	  ++ cons_count;	/* double consonant in one letter */
+		if (cur_lang() == GREEK)
+		{
+		  if (*p_pos == 'c' || *p_pos == 'y')
+	  	    ++ cons_count;	/* double consonant in one letter */
+		}
+		else if (cur_lang() == LATIN)
+		{
+		   if (*p_pos == 'x')
+		      ++ cons_count;
+		}
 	      }
 	      else
 		break;
