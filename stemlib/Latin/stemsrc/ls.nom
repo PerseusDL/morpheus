@@ -29869,6 +29869,9 @@ cancello_sus
 
 
 cancer#1		<itype>cri</itype>	<gen>m.</gen>
+:le:cancer
+:no:canc	er_ri m
+
 cance^ra_tus		
 :le:canceratus
 :aj:cance^ra_t	us_a_um
@@ -36194,6 +36197,10 @@ Cha_o^nis
 
 	<pos>adj.</pos>
 Cha^o^s		<orth>Cha^us</orth>	<gen>n.</gen>
+:le:chaos
+:wd:chaos	irreg_nom2 neut nom acc sg
+:wd:chao	irreg_nom2 neut abl sg
+
 chara		
 :le:chara
 :no:char	a_ae fem
@@ -43158,9 +43165,12 @@ compa_ga_nus
 
 
 compa_ges		<itype>is</itype>
+:le:compages
+:no:compa_g	es_is fem
+
 compa_go		
 :le:compago
-:no:compa_g	o_us fem
+:no:compa_g	o_inis fem
 
 
 compa_gi^na		
@@ -81805,13 +81815,13 @@ Gi^ganto^machi^a
 
 
 Gi^ga_s		
-:le:Gigas
-:no:Gi^g	as_antis masc
+:le:gigas
+:no:gi^g	as_antis masc
 
 
 Gi^gantes		
-:le:Gigantes
-:no:Gi^gant	0_is masc pl
+:le:gigantes
+:no:gi^gant	0_is masc pl
 
 
 Gi^gan-te_us		
@@ -92812,6 +92822,10 @@ impalpe^bra_ti^o		<orth type=alt>inp-</orth>
 
 
 impar		<orth type=alt>inp-</orth>	<itype>a^ris</itype>	<pos>adj.</pos>
+:le:impar
+:aj:impar	0_is
+:aj:inpar	0_is orth
+
 impa^ri^ter	
 :le:impariter
 :wd:impa^ri^ter		adverb
@@ -159934,6 +159948,9 @@ po_ne
 	<pos>prep.</pos>
 pons#1		<itype>ntis</itype>	<gen>m.</gen>
 Pons#2		<itype>ntis</itype>	<gen>m.</gen>
+:le:pons
+:no:pon	s_tis masc
+
 Ponti^a#1		
 :le:Pontia#1
 :no:Ponti^	a_ae fem
