@@ -219,6 +219,30 @@ ter@future	irreg_pp1 fut ind
 ter@cond	irreg_pp1 pres cond
 :de:ten		ere_vb
 
+:le:togliere
+:vb:tolgo	irreg_pp1 pres ind 1st sg
+:vb:togli	irreg_pp1 pres ind 2nd sg
+:vb:togliamo	irreg_pp1 pres ind 1st pl
+:vb:tolgono	irreg_pp1 pres ind 3rd pl
+
+:vb:tolga	irreg_pp1 pres subj 1st sg
+:vb:tolga	irreg_pp1 pres subj 2nd sg
+:vb:tolga	irreg_pp1 pres subj 3rd sg
+:vb:togliamo	irreg_pp1 pres subj 1st pl
+:vb:togliate	irreg_pp1 pres subj 2nd pl
+:vb:tolgano	irreg_pp1 pres subj 3rd pl
+
+:vb:tolsi	irreg_pp1 pastabs ind 1st sg
+:vb:tolse	irreg_pp1 pastabs ind 3rd sg
+:vb:tolsi	irreg_pp1 pastabs ind 1st sg
+:vb:tolsero	irreg_pp1 pastabs ind 3rd pl
+
+tor@future	irreg_pp1 fut ind
+tor@cond	irreg_pp1 pres cond
+tolt@o_a	irreg_pp1 perf part
+
+:de:togli	ere_vb
+
 :le:venire
 :vb:vengo	irreg_pp1 pres ind 1st sg
 :vb:vieni	irreg_pp1 pres ind 2nd sg
