@@ -30,7 +30,7 @@ noms:	stemsrc/nom.irreg stemind/nomind
 vbs:	stemsrc/lsj.vbs stemsrc/vbs.irreg stemind/vbind
 
 stemind/vbind:
-	cat stemsrc/vbs.irreg stemsrc/vbs.simp.ml stemsrc/vbs.simp.02.new \
+	cat stemsrc/vbs.irreg stemsrc/vbs.simp.ml stemsrc/vbs.simp.02.new stemsrc/lsj.vbs \
 	    > conjfile
 	do_conj 
 	mv conjfile.short /tmp/vbmorph
