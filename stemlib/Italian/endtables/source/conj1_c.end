@@ -30,12 +30,7 @@ cammo	1st pl pastabs ind
 caste	2nd pl pastabs ind
 carono	3rd pl pastabs ind
 
-chero\	1st sg fut ind 
-cherai	2nd sg fut ind
-chera\	3rd sg fut ind
-cheremo	1st pl fut ind
-cherete	2nd pl fut ind
-cheranno	3rd pl fut ind
+che@future	fut ind
 
 ca	2nd sg pres imperat
 chi	3rd sg pres imperat
@@ -60,15 +55,4 @@ cassimo	1st pl imperf subj
 caste	2nd pl imperf subj
 cassero	3rd pl imperf subj
 
-cherei	1st sg pres cond
-cheria	1st sg pres cond
-cheresti	2nd sg pres cond
-cherebbe	3rd sg pres cond
-cheria	3rd sg pres cond
-cheremmo	1st pl pres cond
-chereste	2nd pl pres cond
-che\bbero	3rd pl pres cond
-chebbero	3rd pl pres cond
-cheriano	3rd pl pres cond
-
-
+che@cond	pres cond
