@@ -2,6 +2,12 @@
 
 use strict;
 
+my %morphType = (
+		 'conj' => 'conj',
+		 'adv' => 'adverb',
+		 'prep' => 'prep',
+		 );
+
 $/ = '<entryFree';
 
 while (<>) {
@@ -79,46 +85,40 @@ while (<>) {
 	doadj($lem);
     }
 
-    while (s/^<orth[^>]*>([^<]+)<\/orth>[,\s]*<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>adv\.<\/pos>/ /s) {
+    while (s/^<orth[^>]*>([^<]+)<\/orth>[,\s]*<orth[^>]*>([^<]+)<\/orth>[,\s]*<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>(adv|conj|prep)\.<\/pos>/ /s)
+    {
 	my $lem1 = $1;
 	my $lem2 = $2;
+	my $lem3 = $3;
+	my $type = $4;
 
-	next unless $lem1 = fixlem($lem1);
-	next unless $lem2 = fixlem($lem2);
-
-	print "\n:le:$lem1\n";
-	print ":wd:$lem1\tadverb\n";
-
-	print "\n:le:$lem2\n";
-	print ":wd:$lem2\tadverb\n";
+	doindecl($lem1, $type);
+	doindecl($lem2, $type);
+	doindecl($lem3, $type);
     }
 
-    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>adv\.<\/pos>/ /s
-	   or s/<pos>adv\.<\/pos>\s*<orth[^>]*>([^<]+)<\/orth>/ /s) {
-	my $lem = $1;
+    while (s/^<orth[^>]*>([^<]+)<\/orth>[,\s]*<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>(adv|conj|prep)\.<\/pos>/ /s)
+    {
+	my $lem1 = $1;
+	my $lem2 = $2;
+	my $type = $3;
 
-	next unless $lem = fixlem($lem);
-
-	print "\n:le:$lem\n";
-	print ":wd:$lem\tadverb\n";
+	doindecl($lem1, $type);
+	doindecl($lem2, $type);
     }
 
-    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>prep\.<\/pos>/ /s) {
+    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>(adv|conj|prep)\.<\/pos>/ /s
+	   or s/<pos>(adv|conj|prep)\.<\/pos>\s*<orth[^>]*>([^<]+)<\/orth>/ /s) {
 	my $lem = $1;
+	my $type = $2;
 
-	next unless $lem = fixlem($lem);
+	if ($morphType{$lem}) {
+	    my $swap = $type;
+	    $type = $lem;
+	    $lem = $swap;
+	}
 
-	print "\n:le:$lem\n";
-	print ":wd:$lem\tprep\n";
-    }
-
-    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>conj\.<\/pos>/ /s) {
-	my $lem = $1;
-
-	next unless $lem = fixlem($lem);
-
-	print "\n:le:$lem\n";
-	print ":wd:$lem\tconj\n";
+	doindecl($lem,$type);
     }
 
     while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>v\.<\/pos>/ /s) {
@@ -234,6 +234,19 @@ sub doverb {
     
     print "\n:le:$lem\n";
     print ":de:$stem $class\n";
+}
+
+sub doindecl {
+    my($lem, $type) = @_;
+
+    $lem = fixlem($lem);
+    $type = $morphType{$type};
+
+    return unless defined($lem);
+    return unless $type;
+
+    print "\n:le:$lem\n";
+    print ":wd:$lem\t$type\n";
 }
 
 sub fixlem {
