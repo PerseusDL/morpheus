@@ -497,7 +497,9 @@ trimstem(unsigned char * curs, int trimn)
 	if( trimn > 0 ) {
 		s = curs;
 		while(*s) s++; s--;
-		while(s>=curs && *s != trimn ) s--;
+		while(s>=curs && *s != trimn ) {
+			s--;
+		}
 		*s = 0;
 	}
 }

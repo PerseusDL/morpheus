@@ -263,6 +263,9 @@
 :le:decem
 :wd:de^cem	numeral
 
+:le:degener
+:aj:de_-gener	0_adj3
+
 :le:deinde
 :wd:deinde	adverb
 :wd:dein	adverb
@@ -651,6 +654,10 @@
 
 :le:natis
 :no:nat	is_is fem
+
+:le:ne#1
+:wd:ne_	adverb
+:wd:ne_	conj
 
 :le:Neapolis
 :no:Neapol	is_is fem

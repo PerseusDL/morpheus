@@ -132649,12 +132649,7 @@ Me_no^ty^rannus
 :no:Me_no^ty^rann	us_i masc
 
 
-mens		<itype>mentis</itype>
-mentis		
-:le:mentis
-:no:ment	is_is fem
-
-
+mens		<itype>mentis</itype>	<gen>f.</gen>
 Mens	
 mensa		
 :le:mensa
@@ -204943,11 +204938,14 @@ Si_pu_s
 :no:Si_p	us_untis fem
 
 
-Si^py^le_i+us		<orth>Si^py^le_us</orth>	
+Si^py^le_i+us		
 :le:Sipyleius
 :aj:Si^py^le_	ius_ia_ium
-:aj:S	ius_ia_ium orth
 
+
+Si^py^le_us		
+:le:Sipyleus
+:aj:Si^py^le_	us_a_um
 
 
 Si^py^lensis		

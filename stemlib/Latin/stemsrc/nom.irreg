@@ -249,7 +249,7 @@
 :aj:ho^no_rifi^c ens_adj superl
 
 :le:ille
-:wd:ille demonstr neut nom acc sg
+:wd:ille demonstr masc nom sg
 :wd:illud demonstr neut nom acc sg
 :wd:olle demonstr neut nom acc sg archaic
 :wd:ollud demonstr neut nom acc sg archaic
@@ -305,6 +305,7 @@
 :wd:alicuius   indef masc/fem/neut gen sg
 :wd:alicui   indef masc/fem/neut dat sg
 :wd:aliquei_   indef masc/fem/neut dat sg
+:wd:aliquem   indef masc/fem acc sg
 :wd:aliqui_   indef masc nom pl
 :wd:aliquae   indef fem nom pl
 :wd:aliquae   indef neut nom/acc pl
@@ -466,6 +467,7 @@
 :wd:eccuius   relative masc/fem/neut gen sg
 :wd:eccui   relative masc/fem/neut dat sg
 :wd:ecquei_   relative masc/fem/neut dat sg
+:wd:ecquem   relative masc/fem acc sg
 :wd:ecqui_   relative masc nom pl
 :wd:ecquae   relative fem nom pl
 :wd:ecquae   relative neut nom/acc pl
@@ -490,6 +492,7 @@
 :wd:cuius   relative masc/fem/neut gen sg
 :wd:cui   relative masc/fem/neut dat sg
 :wd:quei_   relative masc/fem/neut dat sg
+:wd:quem   relative masc/fem acc sg
 :wd:qui_   relative masc nom pl
 :wd:quae   relative fem nom pl
 :wd:quae   relative neut nom/acc pl
@@ -535,6 +538,7 @@
 :wd:a^li^cuius   indef masc/fem/neut gen sg
 :wd:a^li^cui   indef masc/fem/neut dat sg
 :wd:a^li^quei_   indef masc/fem/neut dat sg
+:wd:a^li^quem   indef masc/fem acc sg
 :wd:a^li^qui_   indef masc nom pl
 :wd:a^li^quae   indef fem nom pl
 :wd:a^li^quae   indef neut nom/acc pl
@@ -553,6 +557,7 @@
 :wd:eccuius   interrog masc/fem/neut gen sg
 :wd:eccui   interrog masc/fem/neut dat sg
 :wd:ecquei_   interrog masc/fem/neut dat sg
+:wd:ecquem   interrog masc/fem acc sg
 :wd:ecqui_   interrog masc nom pl
 :wd:ecquae   interrog fem nom pl
 :wd:ecquae   interrog neut nom/acc pl
@@ -571,6 +576,7 @@
 :wd:cuius   interrog masc/fem/neut gen sg
 :wd:cui   interrog masc/fem/neut dat sg
 :wd:quei_   interrog masc/fem/neut dat sg
+:wd:quem   interrog masc/fem acc sg
 :wd:qui_   interrog masc nom pl
 :wd:quae   interrog fem nom pl
 :wd:quae   interrog neut nom/acc pl
@@ -589,6 +595,7 @@
 :wd:si_cuius   interrog masc/fem/neut gen sg
 :wd:si_cui   interrog masc/fem/neut dat sg
 :wd:si_quei_   interrog masc/fem/neut dat sg
+:wd:si_quem   interrog masc/fem acc sg
 :wd:si_qui_   interrog masc nom pl
 :wd:si_quae   interrog fem nom pl
 :wd:si_quae   interrog neut nom/acc pl
