@@ -1,3 +1,5 @@
 s	nom sg masc fem 
 s	neut nom voc acc sg
 t@decl3_i masc fem neut
+t@comp_adj	comp
+t@superl_adj	superl
