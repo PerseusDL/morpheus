@@ -69,12 +69,3 @@ and@decl2 gerundive masc
 and@decl2 gerundive neut 
 andus	gerundive masc nom sg
 andum	gerundive neut nom sg
-#
-#this is *not* the way to do this, but it will work for now
-asti	are_vb 2nd sg perf ind act contr
-a_runt	are_vb 3rd pl perf ind act contr
-a_r@past	are_vb plup ind act contr
-a_ri@basvb2	are_vb perf subj act contr
-ass@emsub	are_vb plup subj act contr
-
-asse	are_vb perf inf act contr

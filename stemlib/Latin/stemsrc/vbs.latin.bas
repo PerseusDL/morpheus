@@ -750,6 +750,11 @@
 :de:tent	are_vb
 :de:tempt	are_vb
 
+:le:tingo
+:vs:ting	conj3
+:vs:tinx perfstem
+:vs:tinct pp4
+
 :le:tono
 :vs:ton		conj1
 :vs:tonu	perfstem

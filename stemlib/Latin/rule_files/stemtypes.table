@@ -96,6 +96,9 @@ conj3 03 pp_pr
 conj4 04 pp_pr
 conj3_io 05 pp_pr
 perfstem 01 pp_pf
+ivperf 02 pp_pf
+avperf 03 pp_pf
+evperf 04 pp_pf
 pp4 01 pp_su
 interrog 01 indecl3
 demonstr 02 indecl3

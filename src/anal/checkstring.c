@@ -221,8 +221,11 @@ checkstring3(gk_word *Gkword)
 	int rval = 0;
 
 	Xstrncpy(saveword,workword_of(Gkword),(int)sizeof saveword);
-	if( (rval=checkstring4(Gkword)) > 0 && !(prntflags_of(Gkword)&STRICT_CASE) ) 
+/*
+	if( (rval=checkstring4(Gkword)) > 0 && (prntflags_of(Gkword)&STRICT_CASE) ) 
 		return(rval);
+*/
+	rval=checkstring4(Gkword);
 
 
 	if(  (isupper(*string) || *string == BETA_UCASE_MARKER) && !(prntflags_of(Gkword)&STRICT_CASE) ) {

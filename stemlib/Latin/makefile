@@ -26,7 +26,7 @@ vbs: stemsrc/vbs.irreg stemind/vbind
 
 VBFILES=stemsrc/vbs.latin.bas  stemsrc/vbs.latin.irreg stemsrc/vbs.latin stemsrc/vbs.irreg
 stemind/vbind:
-	cat ${VBFILES} > conjfile
+	cat ${VBFILES} |  perl -pe 's/([a-z])([aei])_v[ \t]+perfstem/$$1\t$$2vperf/g;' > conjfile
 	do_conj -L
 	mv conjfile.short /usr/tmp/vbmorph
 	indexvbs -L
