@@ -302,14 +302,14 @@ quga^tr@decl3 irreg_decl3 fem  acc pl needs_acc epic
 :wd:o( article  nom masc sg proclitic
 :wd:h( article  nom fem sg proclitic
 :wd:a_( article  nom fem sg proclitic doric 
-:wd:to/ article  nom neut sg 
+:wd:to/ article  nom acc neut sg 
 :wd:oi( article  nom masc pl proclitic
 :wd:ai( article  nom fem pl proclitic
 :wd:ta/ article  nom neut pl 
 :wd:toi/ article  nom pl masc epic
 :wd:tai/ article  nom pl fem epic
 t@adj1 article  nom voc dual needs_acc
-t@adj1 article  gen dat acc needs_acc
+t@adj1 article  gen dat acc needs_acc not neut sg
 
 :le:o)/nta
 ont@decl3 irreg_decl3 neut pl needs_acc  
