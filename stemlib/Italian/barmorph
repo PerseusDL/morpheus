@@ -95,6 +95,12 @@ sub donom {
     elsif ($stem =~ s/e$//) {
 	$class = 'e_i';
     }
+    elsif ($stem =~ s/a\\//) {
+	$class = 'a_acc';
+    }
+    elsif ($stem =~ s/u\\//) {
+	$class = 'u_acc';
+    }
 
     print "\n:le:$lem\n";
     print ":no:$stem\t$class $gen\n";
