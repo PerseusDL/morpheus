@@ -397,6 +397,7 @@ checkstring3(gk_word *Gkword)
   /*
    * 12/8/97 
    */
+
 /* Latin prodelision:  this may be too simplistic */
   if (cur_lang() == LATIN)
   {
@@ -421,7 +422,7 @@ checkstring3(gk_word *Gkword)
 /* ...us + est written as ...ust */
     if (cmpend(workword_of(Gkword), "ust", workword))
     {
-      strcpy(workword, workword_of(Gkword));
+      strcpy(workword, workword_of(Gkword)); 
       workword[strlen(workword) - 1] = 0;
       set_workword(Gkword,workword);
       rval = checkstring3(Gkword);
@@ -620,6 +621,39 @@ checkstring3(gk_word *Gkword)
 	}
       }
       a++;
+    }
+  }
+
+/* Latin exsT as alternate spelling for exT, T an unvoiced stop;
+   our dictionary has the exsT forms, so if we find one without,
+   try putting in an 's' */
+  if (cur_lang() == LATIN)
+  {
+    if (strncmp(workword_of(Gkword), "ex", 2) == 0)
+    {
+      char* p_word = NULL;
+      char* p_tail = NULL;
+      char* p_start = NULL;
+      strcpy(workword, workword_of(Gkword));
+      p_word = workword;
+      p_word += 2;
+      switch (*p_word)
+      {
+	case 'c': case 'p': case 't':
+	  p_start = p_word;
+	  p_tail = p_word + 1;
+	  memmove(p_tail, p_word, strlen(p_word));
+	  *p_start = 's';
+	  set_workword(Gkword, workword);
+	  rval = checkstring3(Gkword);
+	  if (rval)
+	  {
+	    set_workword(Gkword, saveword);
+	    return(rval);
+	  }
+        default:
+	  break;
+      }
     }
   }
 
