@@ -38685,9 +38685,9 @@ circus
 :no:circ	us_i masc
 
 
-Circensis		
-:le:Circensis
-:aj:Circens	is_e
+circensis		
+:le:circensis
+:aj:circens	is_e
 
 
 Circenses		
@@ -54635,6 +54635,10 @@ Dau-ni^as
 dautia	
 Da_vi_d		<gen>m.</gen>
 Da_vi_d	<itype>indecl.</itype>
+:le:David
+:no:Da_vi_d	0_us masc
+:wd:Da_vi_d	irreg_nom3 indecl
+
 Da_vi_di^cus		
 :le:Davidicus
 :aj:Da_vi_di^c	us_a_um
@@ -65276,6 +65280,9 @@ E^le^phantis
 
 
 e^le^phantus		<itype>i</itype>
+:le:elephantus
+:no:e^le^phant	us_i masc
+
 e^le^pha_s		
 :le:elephas
 :no:e^le^ph	as_antis masc
@@ -70973,7 +70980,8 @@ exi^na_ni_ti^o
 ex-inde_		<orth>exin</orth>	<orth>exim</orth>	<itype>like him, illim</itype>	
 :le:exinde
 :wd:ex-inde_	adverb
-
+:wd:exin	adverb
+:wd:exim	adverb
 
 exinfulabat	
 existi^ma_bi^lis		
@@ -83423,6 +83431,9 @@ gra_ta_to_ri^us
 
 
 gra_tes		<gen>f.</gen>
+:le:grates
+:no:gra_t	es_is fem pl
+
 gra_ti^a		
 :le:gratia
 :no:gra_ti^	a_ae fem
@@ -106215,6 +106226,12 @@ Jeri^cho
 
 
 Je_sus		<orth>I^e_sus</orth>	<itype>u</itype>	<gen>m.</gen>
+:le:Jesus
+:wd:Je_sus	irreg_nom2 masc nom sg
+:wd:Je_su	irreg_nom2 masc gen dat abl voc sg
+:wd:Je_sum	irreg_nom2 masc acc sg
+:wd:Je_sui	irreg_nom2 masc dat sg orth
+
 Jo_annes	
 Jo_annis		
 :le:Joannis
@@ -106441,7 +106458,13 @@ Ju_da^ismus
 
 
 Ju_das		<itype>ae</itype>
+:le:Judas
+:no:Ju_d	as_ae masc
+
 Ju_da		<itype>indecl.</itype>	<gen>m.</gen>
+:le:Juda
+:wd:Ju_da	irreg_nom3 indecl masc
+
 ju_dex		
 :le:judex
 :no:ju_d	ex_icis masc fem
@@ -134863,6 +134886,9 @@ nonnulli
 
 
 non-numquam		<orth>-nunquam</orth>
+:le:nonnumquam
+:wd:nonnumquam	adverb
+
 nonnus		
 :le:nonnus
 :no:nonn	us_i masc
@@ -148551,6 +148577,9 @@ pe^de_^pressim
 
 
 pe^des		<itype>itis</itype>	<gen>m.</gen>
+:le:pedes
+:no:ped	es_itis masc
+
 pe^dester		<itype>tris, tre</itype>	<pos>adj.</pos>
 pe^de^temptim		<orth>pe^de^tentim</orth>	
 :le:pedetemptim
@@ -181636,6 +181665,10 @@ Saufe_ia
 
 
 Sa^u_l		<itype>u_lis</itype>	<itype>indecl.</itype>	<gen>m.</gen>
+:le:Saul
+:wd:Sa^u_l	irreg_nom3 indecl masc
+:no:Sa^u_l	0_is masc orth
+
 Saulus		
 :le:Saulus
 :no:Saul	us_i masc
@@ -213817,7 +213850,7 @@ va^le_tu_di^na_ri^um
 va^le_tu_do		<orth type=alt>va^li_tu_do</orth>	
 :le:valetudo
 :no:va^le_tu_d	o_inis fem
-
+:no:va^li_tu_d	o_inis fem orth
 
 Valgi^us		
 :le:Valgius

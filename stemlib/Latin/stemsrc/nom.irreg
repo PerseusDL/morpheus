@@ -931,12 +931,16 @@
 :le:mille
 :wd:mille   numeral masc/fem nom/voc/acc pl
 :wd:milia   numeral neut nom pl
+:wd:millia   numeral neut nom/voc/acc pl early
 :wd:milium   numeral masc/fem/neut gen pl
+:wd:millium   numeral neut gen pl early
 :wd:milibus   numeral masc/fem/neut dat pl
+:wd:millibus   numeral neut dat pl early
 :wd:mile_s   numeral masc/fem acc pl
 :wd:mili_s   numeral masc/fem acc pl
 :wd:milia   numeral neut acc pl
 :wd:milibus   numeral masc/fem/neut abl pl
+:wd:millibus   numeral neut abl pl early
 
 :le:mos
 :wd:mos   irreg_nom3 masc nom/voc sg
@@ -996,6 +1000,7 @@
 :le:pelagus
 :wd:pelagus   irreg_nom2 neut nom/voc/acc sg
 :wd:pelagum   irreg_nom2 neut nom/voc/acc sg
+:wd:pelagom   irreg_nom2 neut nom/voc/acc sg early
 :wd:pelagi_   irreg_nom2 neut gen sg
 :wd:pelago_   irreg_nom2 neut dat sg
 :wd:pelage   irreg_nom2 neut voc sg
@@ -1150,6 +1155,7 @@
 :le:virus
 :wd:vi_rus   irreg_nom2 neut nom/voc/acc sg
 :wd:vi_rum   irreg_nom2 neut nom/voc/acc sg
+:wd:vi_rom   irreg_nom2 neut nom/voc/acc sg early
 :wd:vi_ri_   irreg_nom2 neut gen sg
 :wd:vi_ro_   irreg_nom2 neut dat sg
 :wd:vi_re   irreg_nom2 neut voc sg
@@ -1171,8 +1177,10 @@
 :no:vulg	irreg_nom2 us_i masc rare
 :wd:vulgus   irreg_nom2 neut nom/voc/acc sg
 :wd:vulgum   irreg_nom2 neut nom/voc/acc sg
+:wd:vulgom   irreg_nom2 neut nom/voc/acc sg early
 :wd:volgus   irreg_nom2 neut nom/voc/acc sg
 :wd:volgum   irreg_nom2 neut nom/voc/acc sg
+:wd:volgom   irreg_nom2 neut nom/voc/acc sg early
 :wd:vulgi_   irreg_nom2 neut gen sg
 :wd:volgi_   irreg_nom2 neut gen sg
 :wd:vulgo_   irreg_nom2 neut dat sg

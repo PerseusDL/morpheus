@@ -578,7 +578,7 @@ mil@decl3_i	numeral masc fem neut gen pl
 mil@decl3_i	numeral masc fem neut dat pl
 mil@decl3_i	numeral masc fem neut acc pl
 mil@decl3_i	numeral masc fem neut abl pl
-
+mill@decl3_i	numeral neut pl early
 
 :le:mos
 mos	irreg_nom3	masc nom voc sg

@@ -1016,6 +1016,7 @@
 
 :le:quamquam
 :wd:quamquam	conj
+:wd:quanquam	conj orth
 
 :le:quater
 :wd:quater	adverb
