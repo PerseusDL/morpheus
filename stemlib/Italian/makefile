@@ -1,5 +1,7 @@
-VPATH=/usr/perseus/sgml/texts/MPI/florio
+SGMLPATH= $(dir $(SGML_CATALOG_FILES))/..
+VPATH=.:$(SGMLPATH)/texts/MPI/florio
 LSDIR=/local/text/ls
+LOADLIBES= -lfl
 
 all: ends noms vbs deriv
 
