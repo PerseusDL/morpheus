@@ -251,7 +251,7 @@ Abelli^o
 :no:Abelli^	o_oLnis masc
 
 
-a^bemi^to	
+a^bemi^to		<itype>significat demito vel auferto</itype>
 acc	
 A^be^o_na		
 :le:Abeona
@@ -882,7 +882,7 @@ a^byssus
 :no:a^byss	us_i fem
 
 
-AC#1		<itype>a Latin root</itype>
+AC#1		<itype>a Latin root, denoting</itype>
 a^ca_ci^a		
 :le:acacia
 :no:a^ca_ci^	a_ae fem
@@ -3541,7 +3541,7 @@ a^dusta
 :no:a^dust	us_i neut pl
 
 
-a^d-usque	
+a^d-usque		<itype>for usque ad</itype>
 a^dusti^o		
 :le:adustio
 :no:a^dusti^	o_oLnis fem
@@ -6174,11 +6174,7 @@ a^go_n
 :no:a^g	oLn_oLnis masc
 
 
-A^go_na_li^a		
-:le:Agonalia
-:no:A^go_na_li^	us_i neut pl
-
-
+A^go_na_li^a		<itype>i^um or o_rum</itype>	<gen>n.</gen>
 A^go_na_lis		
 :le:Agonalis
 :aj:A^go_na_l	is_e
@@ -8138,7 +8134,7 @@ alternus
 alter-ne_		<orth>altern&igrave;s</orth>	<orth>alterna^</orth>
 alterplex	
 altertra	
-alte^r-u^ter		<pos>adj.</pos>
+alte^r-u^ter		<itype>alte^ru_^tra</itype>	<pos>adj.</pos>
 alte^r-utrimque		
 :le:alterutrimque
 :wd:alte^r-utrimque	adverb
@@ -12362,11 +12358,7 @@ antrum
 :no:antr	us_i neut
 
 
-A^nu_bis		
-:le:Anubis
-:no:A^nu_b	is_is masc
-
-
+A^nu_bis		<itype>is and i^dis</itype>	<gen>m.</gen>
 a_nu^la_ris		
 :le:anularis
 :aj:a_nu^la_r	is_e
@@ -21064,7 +21056,7 @@ Bacchi^a^dae
 :no:Bacchi^a^d	a_ae masc pl
 
 
-Bacchi^li^di^um		<orth type=alt>metrum</orth>
+Bacchi^li^di^um		<orth type=alt>metrum</orth>	<itype>constat dimetro</itype>
 Bacchis		
 :le:Bacchis
 :no:Bacch	is_idis fem
@@ -21141,7 +21133,7 @@ bacci_na
 
 
 Ba^ce_nis	
-bace^o^lus	
+bace^o^lus		<itype>used by Augustus for stultus</itype>
 ba_ci^fer		
 :le:bacifer
 :aj:ba_ci^f	er_era_erum
@@ -22247,11 +22239,7 @@ ba_si^o^lum
 :no:ba_si^o^l	us_i neut
 
 
-ba^sis		
-:le:basis
-:no:ba^s	is_is fem
-
-
+ba^sis		<itype>is and e^os</itype>	<gen>f.</gen>
 ba_si^um		
 :le:basium
 :no:ba_s	ius_i neut
@@ -23455,7 +23443,7 @@ Be_^thle^mi^ti^cus
 :aj:Be_^thle^mi^ti^c	us_a_um
 
 
-be_ti_zare	
+be_ti_zare		<itype>used by Augustus for languere</itype>
 Betuci^us		
 :le:Betucius
 :no:Betuc	ius_i masc
@@ -26827,7 +26815,7 @@ bu_se^li_num
 :no:bu_se^li_n	us_i neut
 
 
-Bu_si_ris	
+Bu_si_ris		<itype>i^dis and i^dos</itype>
 bustar		<itype>aris</itype>	<gen>m.</gen>
 busti^ce_tum		
 :le:busticetum
@@ -30947,7 +30935,7 @@ cappa^ris
 
 
 cappa^-ri		<itype>indecl.</itype>	<gen>n.</gen>
-cappas	
+cappas		<itype>marinos equos Graeci a flexu</itype>
 capra		
 :le:capra
 :no:capr	a_ae fem
@@ -43522,11 +43510,7 @@ compi^ta_les
 :no:compi^ta_l	is_is masc pl
 
 
-compi^ta_li^a		
-:le:compitalia
-:no:compi^ta_li^	us_i neut pl
-
-
+compi^ta_li^a		<itype>ium and io_rum</itype>	<gen>n.</gen>
 compi^tum		<orth>compe^tum</orth>	
 :le:compitum
 :no:compi^t	us_i neut
@@ -47047,7 +47031,7 @@ consultus#2
 :no:consult	us_us masc
 
 
-con-sum		<itype>fu^i</itype>
+con-sum		<itype>fu^i, fu^tu_rum or fo^re</itype>
 consumma_bi^lis		
 :le:consummabilis
 :aj:consumma_bi^l	is_e
@@ -51965,7 +51949,7 @@ cu_lus
 
 cum#1		<orth>quom</orth>	<orth>quum</orth>	<pos>prep.</pos>
 cumpri_mis	
-Cum#2		<orth>quom</orth>	<orth>quum</orth>	<orth type=alt>historical present</orth>
+Cum#2		<orth>quom</orth>	<orth>quum</orth>	<orth type=alt>historical present</orth>	<itype>both clauses denoting points of time</itype>
 Cu_mae		
 :le:Cumae
 :no:Cu_m	a_ae fem pl
@@ -56017,7 +56001,7 @@ de_fri^ca_tio
 :no:de_fri^ca_ti	o_oLnis fem
 
 
-de_-fri^co		<itype>cui</itype>
+de_-fri^co		<itype>cui, ca_tum and ctum</itype>
 de_fri^ca_te_		
 :le:defricate
 :wd:de_fri^ca_te_	adverb
@@ -56651,7 +56635,7 @@ Delphis
 :no:Delph	is_idis fem
 
 
-delphi_nus		<itype>i</itype>
+delphi_nus		<itype>i, and in the pure Greek form</itype>
 delphi_n		<itype>i_nis</itype>	<gen>m.</gen>
 delta		
 :le:delta
@@ -58301,7 +58285,6 @@ de_testa_tor
 :no:de_testa_t	or_oLris masc
 
 
-de_-tonde^o		<itype>to^tondi and tondi, tonsum</itype>
 de_tonsi^o		
 :le:detonsio
 :no:de_tonsi^	o_oLnis fem
@@ -60538,11 +60521,7 @@ di_ru^ti^o
 
 di_s#1		<itype>di_tis</itype>
 Di_s#2		<itype>i_tis</itype>	<gen>m.</gen>
-di^s#3		
-:le:dis#3
-:no:d	is_is fem
-
-	<orth type=alt>derigo</orth>	<itype>dijudico, diligo, dilucesco, dispicio</itype>
+di^s#3		<itype>an inseparable particle</itype>	<gen>f.</gen>	<orth type=alt>derigo</orth>	<itype>dijudico, diligo, dilucesco, dispicio</itype>
 dis-calce^a_tus		
 :le:discalceatus
 :aj:dis-calce^a_t	us_a_um
@@ -62503,7 +62482,7 @@ do^nax
 
 
 Do^nax	
-do_ne^c		<orth>do_ni^cum</orth>
+do_ne^c		<orth>do_ni^cum</orth>	<itype>from old dative doni</itype>
 do_num		
 :le:donum
 :no:do_n	us_i neut
@@ -64728,7 +64707,7 @@ efflictim
 :wd:efflictim	adverb
 
 
-efflicte	
+efflicte		<itype>in like sense</itype>
 efflu^us		
 :le:effluus
 :aj:efflu^	us_a_um
@@ -66316,7 +66295,7 @@ e^mys
 :no:e^my	s_dis fem
 
 
-e_n		<pos>interj.</pos>	<orth type=alt>indignant</orth>	<orth type=alt>in one word</orth>	<orth type=alt>enumquam</orth>
+e_n		<pos>interj.</pos>	<orth type=alt>indignant</orth>	<itype>manner something important or unexpected</itype>	<orth type=alt>in one word</orth>	<orth type=alt>enumquam</orth>
 e^nalla^ge		
 :le:enallage
 :no:e^nalla^g	e_es fem
@@ -74544,7 +74523,7 @@ fe^mo^ra_le
 :no:fe^mo^ra_l	is_is neut
 
 
-fe^mur		<gen>n.</gen>
+fe^mur		<itype>o^ris or i^nis</itype>	<gen>n.</gen>
 fendi^cae		
 :le:fendicae
 :no:fendi^c	a_ae fem pl
@@ -82593,7 +82572,7 @@ gnapha^li^on
 :no:gnapha^l	ios_i neut
 
 
-gnarigavit	
+gnarigavit		<itype>significat apud Livium</itype>
 gna_ri^tas		
 :le:gnaritas
 :no:gna_ri^	tas_tatis fem
@@ -90590,11 +90569,7 @@ i^bi_dem
 :wd:i^bi_dem	adverb
 
 
-i_bis		
-:le:ibis
-:no:i_b	is_is fem
-
-
+i_bis		<itype>is and i^dis</itype>	<gen>f.</gen>
 I_by^cus		
 :le:Ibycus
 :no:I_by^c	us_i masc
@@ -91773,7 +91748,7 @@ illo^-ca_li^ter
 :le:illocaliter
 :wd:illo^-ca_li^ter		adverb
 
-illorsum	
+illorsum		<itype>et aliorsum sicut introrsum dixit Cato</itype>
 illo_tus		<orth>inl-</orth>	<orth type=alt>illautus</orth>	<orth>illu_tus</orth>	
 :le:illotus
 :aj:illo_t	us_a_um
@@ -95387,7 +95362,7 @@ inci^ne^factus
 :aj:inci^ne^fact	us_a_um
 
 
-inci^ne^ra_ri^um	
+inci^ne^ra_ri^um		<itype>muliebre ministerium</itype>
 incingu^lum		
 :le:incingulum
 :no:incingu^l	us_i neut
@@ -105747,7 +105722,7 @@ i^tem
 :wd:i^tem	adverb
 
 
-i^ter		<gen>n.</gen>
+i^ter		<itype>i^ti^ne^ris</itype>	<gen>n.</gen>
 i^te^ra_bi^lis		
 :le:iterabilis
 :aj:i^te^ra_bi^l	is_e
@@ -105975,7 +105950,7 @@ Izi
 :no:Iz	us_i masc pl
 
 
-J		<orth type=alt>j</orth>	<itype>a consonant which</itype>	<itype>at the beginning of syllables, as jus, injuria</itype>
+J		<orth type=alt>j</orth>	<itype>a consonant which</itype>	<itype>at the beginning of syllables, as jus, injuria, ejectus</itype>
 Ja^bo^le_nus		<orth type=alt>Javol-</orth>	
 :le:Jabolenus
 :no:Ja^bo^le_n	us_i masc
@@ -107045,11 +107020,7 @@ juscu^lum
 :no:juscu^l	us_i neut
 
 
-jus-ju_randum		
-:le:jusjurandum
-:no:jus-ju_rand	us_i neut
-
-
+jus-ju_randum		<itype>jurisjurandi</itype>	<gen>n.</gen>
 jusqui^a^mus		<itype>for hyoscyamus</itype>
 jussi^o		
 :le:jussio
@@ -108140,7 +108111,7 @@ Laeca
 :no:Laec	a_ae masc
 
 
-laecasin	
+laecasin		<itype>an imprecation</itype>
 Laelaps		<itype>a^pis</itype>	<gen>m.</gen>
 Laeli^us		
 :le:Laelius
@@ -117018,7 +116989,7 @@ lytta
 :no:lytt	a_ae fem
 
 
-M		<orth type=alt>m</orth>
+M		<orth type=alt>m</orth>	<itype>the twelfth letter of the Latin alphabet</itype>
 Macae#1		
 :le:Macae#1
 :no:Mac	a_ae masc pl
@@ -124270,7 +124241,7 @@ Mestria_nus
 :no:Mestria_n	us_i masc
 
 
-met	
+met		<itype>a pronominal suffix attached to substantive and</itype>
 me_ta		
 :le:meta
 :no:me_t	a_ae fem
@@ -128490,7 +128461,7 @@ mulce_tra
 :no:mulce_tr	a_ae fem
 
 
-Mulci^ber		<gen>m.</gen>
+Mulci^ber		<itype>e_ris and e^ri</itype>	<gen>m.</gen>
 mulctra		
 :le:mulctra
 :no:mulctr	a_ae fem
@@ -131080,11 +131051,7 @@ Na_i^a^s
 :no:Na_i^	as_adis fem
 
 
-Na_i^s		
-:le:Nais
-:no:Na_	is_is fem
-
-
+Na_i^s		<itype>i^dis and i^dos</itype>	<gen>f.</gen>
 Na_i^cus		
 :le:Naicus
 :aj:Na_i^c	us_a_um
@@ -131114,7 +131081,7 @@ Nana#2
 :no:Nan	a_ae fem
 
 
-nanciscor	
+nanciscor		<itype>nactus and nanctus</itype>
 Nanis		
 :le:Nanis
 :no:Nan	is_idis fem
@@ -133646,7 +133613,6 @@ nexi^o
 :no:nexi^	o_oLnis fem
 
 
-nexo		<itype>xu^i and xi</itype>	<pos>v. freq. a.</pos>
 nexuo_sus		
 :le:nexuosus
 :aj:nexuo_s	us_a_um
@@ -136819,7 +136785,7 @@ o^be_si^tas
 
 
 o_bex		<itype>obi^cis</itype>	<gen>c.</gen>
-o^b-herbesce^re	
+o^b-herbesce^re		<itype>herbam increscere</itype>
 objecta		
 :le:objecta
 :no:object	us_i neut pl
@@ -137001,7 +136967,7 @@ obli^gu_ri_tor		<orth type=alt>-rr-</orth>
 :no:obli^gu_ri_t	or_oLris masc
 
 
-ob-li^no		<itype>le_vi</itype>
+ob-li^no		<itype>le_vi, rarely li^ni</itype>
 obli_qua_ti^o		
 :le:obliquatio
 :no:obli_qua_ti^	o_oLnis fem
@@ -137677,7 +137643,7 @@ obstu_^pra_tus
 :aj:obstu_^pra_t	us_a_um
 
 
-ob-sum		<itype>obfui or offui</itype>
+ob-sum		<itype>obfui or offui, obesse</itype>
 obsurda_tus		
 :le:obsurdatus
 :aj:obsurda_t	us_a_um
@@ -138982,11 +138948,7 @@ oecus
 :no:oec	us_i masc
 
 
-Oedi^pus		
-:le:Oedipus
-:no:Oedi^p	us_i masc
-
-
+Oedi^pus		<itype>o^dis and i</itype>	<gen>m.</gen>
 Oedi^po^des		
 :le:Oedipodes
 :no:Oedi^po^d	es_ae masc
@@ -141039,7 +141001,7 @@ o^pistho^to^nos
 :no:o^pistho^to^n	os_i masc
 
 
-O^pi^ter		<gen>m.</gen>
+O^pi^ter		<itype>i^te^ris and i^tris</itype>	<gen>m.</gen>
 O^pi^tergi^um		
 :le:Opitergium
 :no:O^pi^terg	ius_i neut
@@ -141125,7 +141087,6 @@ oppansum		<orth type=alt>-passum</orth>
 :no:oppans	us_i neut
 
 
-oppe^ri^or		<orth type=alt>obp-</orth>	<itype>pe^ri_tus and pertus</itype>
 oppessu^la_tus		<orth type=alt>obp-</orth>	
 :le:oppessulatus
 :aj:oppessu^la_t	us_a_um
@@ -143406,7 +143367,7 @@ Ozo^me^ne_
 :no:Ozo^me^n	e_es fem
 
 
-P		<orth type=alt>p</orth>	<itype>the fifteenth letter of the Latin alphabet</itype>
+P		<orth type=alt>p</orth>	<itype>the fifteenth letter of the Latin alphabet, the character for which is derived from the ancient form of the Greek II</itype>
 Pa		<itype>pro parte</itype>
 pa^billus		
 :le:pabillus
@@ -148252,7 +148213,7 @@ paxillus
 :no:paxill	us_i masc
 
 
--pe	
+-pe		<itype>an enclitic particle with an intensive force</itype>
 pecca_men		
 :le:peccamen
 :no:pecca_	men_minis neut
@@ -148970,11 +148931,7 @@ pe^le_thro^ni^a
 :no:pe^le_thro^ni^	a_ae fem
 
 
-Pe_leus		
-:le:Peleus
-:no:Pe_le	us_i masc
-
-
+Pe_leus		<itype>e^i and e^os</itype>	<gen>m.</gen>
 Pe_le_i+us		
 :le:Peleius
 :aj:Pe_le_	ius_ia_ium
@@ -152798,11 +152755,7 @@ Persi^cus
 :aj:Persi^c	us_a_um
 
 
-Perseus#1		
-:le:Perseus#1
-:no:Perse	us_i masc
-
-
+Perseus#1		<itype>e^i and e^os</itype>	<gen>m.</gen>
 Per-se_us		
 :le:Perseus
 :aj:Per-se_	us_a_um
@@ -154677,11 +154630,7 @@ pha_si^o^los		<orth type=alt>fa_s-</orth>
 
 
 
-Pha_sis#1		
-:le:Phasis#1
-:no:Pha_s	is_is masc
-
-
+Pha_sis#1		<itype>i^dis or i^dos</itype>	<gen>m.</gen>
 Pha_sis		
 :le:Phasis
 :no:Pha_si	s_dis fem
@@ -155324,11 +155273,7 @@ phi_mus
 :no:phi_m	us_i masc
 
 
-Phi_neus		
-:le:Phineus
-:no:Phi_ne	us_i masc
-
-
+Phi_neus		<itype>e^i and e^os</itype>	<gen>m.</gen>
 Phi_ne_i+-us		<orth>Phi_ne_us</orth>	
 :le:Phineius
 :aj:Phi_ne_	ius_ia_ium
@@ -156587,7 +156532,7 @@ pigno^risca^pi^o
 :no:pigno^risca^pi^	o_oLnis fem
 
 
-pignus		<gen>n.</gen>
+pignus		<itype>o^ris and e^ris</itype>	<gen>n.</gen>
 pi_^gre_do		
 :le:pigredo
 :no:pi_^gre_d	o_inis fem
@@ -157532,7 +157477,8 @@ Pi^the_cu_sae
 :no:Pi^the_cu_s	a_ae fem pl
 
 
-pi^theus		<orth>pi^thus</orth>	<itype>i</itype>
+pi^theus		<itype>e^i and e^os</itype>
+pi^thus		<itype>i</itype>
 pi^thi^as		<gen>m.</gen>
 pitpit		<itype>Osce quicquid</itype>
 pitta^ci^um		
@@ -168506,7 +168452,7 @@ ptarmi^-cum
 :no:ptarmi^-c	us_i neut
 
 
--pte^	
+-pte^		<itype>a pronominal suffix appended to adjective and</itype>
 Pte^le^um		<orth>-on</orth>	
 :le:Pteleum
 :no:Pte^le^	us_i neut
@@ -170684,7 +170630,7 @@ pyxis
 :no:pyx	is_idis fem
 
 
-Q		<orth type=alt>q</orth>	<pos>prep.</pos>	<pos>prep.</pos>
+Q		<orth type=alt>q</orth>	<itype>the sixteenth letter of the Latin alphabet</itype>	<pos>prep.</pos>	<pos>prep.</pos>
 qua_		
 :le:qua
 :wd:qua_	adverb
@@ -171663,7 +171609,7 @@ quattu^or-vi^ri		<orth type=alt>quat-</orth>
 :no:quattu^or-vi^r	us_i masc pl
 
 
-quaxa_re		<itype>ranae dicuntur</itype>
+quaxa_re		<itype>ranae dicuntur, cum vocem mittunt</itype>
 que^	
 que^madmo^dum		<orth>que^m ad mo^-dum</orth>	
 :le:quemadmodum
@@ -173049,7 +172995,7 @@ ra_sis
 :no:ra_s	is_is fem
 
 
-ra_so_res		<itype>fidicines dicti</itype>
+ra_so_res		<itype>fidicines dicti, quia videntur chordas ictu radere</itype>
 rasta		
 :le:rasta
 :no:rast	a_ae fem
@@ -175627,7 +175573,7 @@ re^si^piscenti^a
 :no:re^si^piscenti^	a_ae fem
 
 
-re^si^pisco	
+re^si^pisco		<itype>i_vi or i^i</itype>
 re^sistentia		
 :le:resistentia
 :no:re^sistenti	a_ae fem
@@ -187354,7 +187300,7 @@ sesterti^us
 :le:sestertius
 :no:sestert	ius_i masc
 
-	<pos>adj.</pos>	<orth type=alt>centum</orth>	<itype>milia sestertiu_m</itype>	<pos>adj.</pos>
+	<pos>adj.</pos>	<orth type=alt>centum</orth>	<itype>milia sestertiu_m, preceded by a numeral adverb</itype>	<pos>adj.</pos>
 ses-terti^um		
 :le:sestertium
 :no:ses-tert	ius_i neut
@@ -192293,7 +192239,7 @@ sponte		<orth>spontis</orth>
 :no:spont	e_es fem
 
 	<pos>prep.</pos>
-spontis	
+spontis		<itype>only in the phrase suae spontis</itype>
 Spo^ra^des		
 :le:Sporades
 :no:Spo^ra^d	0_is fem pl
@@ -197924,7 +197870,7 @@ sumptu^o_sus
 sumptu^o_se_	
 sumptus#2		
 :le:sumptus#2
-:no:sumpt	us_i masc
+:no:sumpt	us_us masc
 
 
 sumti^fa^ci^o		<orth type=alt>sumti^o</orth>
@@ -204195,7 +204141,7 @@ tha^lassi_tes
 
 
 tha^lasso^me^li		<gen>n.</gen>
-Tha^les		<gen>m.</gen>
+Tha^les		<itype>is and le_tis</itype>	<gen>m.</gen>
 Tha^le_ti^cus		
 :le:Thaleticus
 :aj:Tha^le_ti^c	us_a_um
@@ -205906,7 +205852,7 @@ ti_^gri_nus
 :aj:ti_^gri_n	us_a_um
 
 
-ti_^gris#1	
+ti_^gris#1		<itype>is or i^dis</itype>
 Ti_^gris#2		
 :le:Tigris#2
 :no:Ti_^gr	is_idis masc
@@ -216522,7 +216468,7 @@ Vespasi^a
 :no:Vespasi^	a_ae fem
 
 
-vesper		<gen>m.</gen>
+vesper		<itype>e^ris and e^ri</itype>	<gen>m.</gen>
 vespe^ra		
 :le:vespera
 :no:vespe^r	a_ae fem
@@ -220520,11 +220466,7 @@ ze_us
 :no:ze_	us_i masc
 
 
-Zeuxis		
-:le:Zeuxis
-:no:Zeux	is_is masc
-
-
+Zeuxis		<itype>is and i^dis</itype>	<gen>m.</gen>
 zingi^be^ri		<orth>zimpi^be^ri</orth>	<itype>indecl.</itype>	<gen>n.</gen>
 zingi^-ber		
 :le:zingiber
