@@ -1,0 +1,22 @@
+a_v@perfind	perf ind act
+
+a_ver@past	plup ind act
+
+a_viss@emsub	plup subj act
+
+a_ver@ofut	futperf ind act sg
+a_ver@ofut	futperf ind act 1st pl
+a_ver@ofut	futperf ind act 2nd pl
+a_verint futperf ind act 3rd pl
+
+a_veri@basvb2	perf subj act
+a_visse	perf inf act
+
+#
+asti	are_vb 2nd sg perf ind act contr
+a_runt	are_vb 3rd pl perf ind act contr
+a_r@past	are_vb plup ind act contr
+a_ri@basvb2	are_vb perf subj act contr
+ass@emsub	are_vb plup subj act contr
+
+asse	are_vb perf inf act contr
