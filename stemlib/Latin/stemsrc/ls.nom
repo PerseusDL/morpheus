@@ -234,8 +234,7 @@ A^bella
 :no:A^bell	a_ae fem
 
 
-Abella_na		<itype>nux or Avellana, also Abellina</itype>
-Abellani	
+Abella_na		<orth>Abellani</orth>
 Abelli_num		
 :le:Abellinum
 :no:Abelli_n	us_i neut
@@ -251,7 +250,7 @@ Abelli^o
 :no:Abelli^	o_oLnis masc
 
 
-a^bemi^to		<itype>significat demito vel auferto</itype>
+a^bemi^to	
 acc	
 A^be^o_na		
 :le:Abeona
@@ -264,7 +263,7 @@ a^berra_ti^o
 :no:a^berra_ti^	o_oLnis fem
 
 
-abgre^ga_re		<itype>est a grege ducere</itype>
+abgre^ga_re	
 a^b-hinc	
 a^b-horride_		
 :le:abhorride
@@ -882,7 +881,7 @@ a^byssus
 :no:a^byss	us_i fem
 
 
-AC#1		<itype>a Latin root, denoting</itype>
+AC#1	
 a^ca_ci^a		
 :le:acacia
 :no:a^ca_ci^	a_ae fem
@@ -1040,6 +1039,7 @@ acce^le^ra_ti^o
 :no:acce^le^ra_ti^	o_oLnis fem
 
 
+ac-ce^le^ro		<itype>a_vi</itype>
 accendi^um		
 :le:accendium
 :no:accend	ius_i neut
@@ -1096,7 +1096,7 @@ accepta_tor
 :no:accepta_t	or_oLris masc
 
 
-accepti^la_ti^o		<itype>o_nis, also written separately, accepti latio</itype>	<gen>f.</gen>
+accepti^la_ti^o		<itype>o_nis</itype>	<itype>latio</itype>	<gen>f.</gen>
 accepti^o		
 :le:acceptio
 :no:accepti^	o_oLnis fem
@@ -1748,8 +1748,8 @@ a^chor
 :no:a^ch	or_oLris masc
 
 
-Achra^di_na		<itype>or Acradina, ae</itype>	<gen>f.</gen>
-achras		<itype>a^dis and a^dos</itype>	<gen>f.</gen>
+Achra^di_na		<itype>Acradina, ae</itype>	<gen>f.</gen>
+achras		<itype>a^dos</itype>	<gen>f.</gen>
 a^ci^a		
 :le:acia
 :no:a^ci^	a_ae fem
@@ -2607,7 +2607,7 @@ a^da_ri^a_ri^us
 :aj:a^da_ri^a_r	ius_ia_ium
 
 
-adasia		<itype>ovis vetula recentis partus</itype>
+adasia	
 a^d-auctor		
 :le:adauctor
 :no:a^d-auct	or_oLris masc
@@ -2800,7 +2800,6 @@ a^dimple_tor
 :no:a^dimple_t	or_oLris masc
 
 
-a^dinstar		<itype>more properly ad instar</itype>
 a^dinventi^o		
 :le:adinventio
 :no:a^dinventi^	o_oLnis fem
@@ -3206,7 +3205,7 @@ ad-neptis		<orth type=alt>atn-</orth>
 
 
 
-adnomen		<itype>adnominatio, adnosco</itype>
+adnomen	
 adn-	
 a^do^la_ti^o		
 :le:adolatio
@@ -3245,7 +3244,7 @@ A^do_ni^a
 :no:A^do_ni^	us_i neut pl
 
 
-A^do_nis		<itype>nis or ni^dis</itype>	<gen>m.</gen>
+A^do_nis		<itype>ni^dis</itype>	<gen>m.</gen>
 a^do_ni^um		
 :le:adonium
 :no:a^do_n	ius_i neut
@@ -3292,7 +3291,11 @@ a^dopti_vus
 :aj:a^dopti_v	us_a_um
 
 
-a^dor		<itype>o^ris and o_ris</itype>	<gen>n.</gen>
+a^dor		
+:le:ador
+:no:a^d	or_oLris neut
+
+
 a^do_ra_bi^lis		
 :le:adorabilis
 :aj:a^do_ra_bi^l	is_e
@@ -3541,7 +3544,7 @@ a^dusta
 :no:a^dust	us_i neut pl
 
 
-a^d-usque		<itype>for usque ad</itype>
+a^d-usque	
 a^dusti^o		
 :le:adustio
 :no:a^dusti^	o_oLnis fem
@@ -3819,7 +3822,7 @@ Aebu_ti^us
 :aj:Aebu_t	ius_ia_ium
 
 
-Aebu_ti^a lex		<itype>so called from its author</itype>
+Aebu_ti^a lex	
 Aecae		
 :le:Aecae
 :no:Aec	a_ae fem pl
@@ -4346,7 +4349,7 @@ aene^a_tor
 :no:aene^a_t	or_oLris masc
 
 
-Aene_is		<itype>i^dis or i^dos</itype>	<gen>f.</gen>
+Aene_is		<itype>i^dos</itype>	<gen>f.</gen>
 Aene_i^us		
 :le:Aeneius
 :aj:Aene_	ius_ia_ium
@@ -5245,7 +5248,7 @@ aether
 :no:aeth	er_eris masc
 
 
-Aether		<itype>personified</itype>
+Aether	
 aethe^ri^us		<orth>aethe^re^us</orth>	
 :le:aetherius
 :aj:aethe^r	ius_ia_ium
@@ -5669,7 +5672,7 @@ affrictus		<orth type=alt>adf-</orth>
 
 
 
-a_fo^re		<orth>a_fo^rem</orth>	<itype>for abfore and abforem</itype>
+a_fo^re		<orth>a_fo^rem</orth>
 Afra_ni^us		
 :le:Afranius
 :aj:Afra_n	ius_ia_ium
@@ -5955,7 +5958,7 @@ a^gi_na
 :no:a^gi_n	a_ae fem
 
 
-a^gi_na_to_res		<itype>dicuntur, qui parvo lucro moventur</itype>
+a^gi_na_to_res		<itype>dicuntur</itype>
 a^gi^pe_s		
 :le:agipes
 :no:a^gi^	peLs_pedis masc
@@ -6174,7 +6177,11 @@ a^go_n
 :no:a^g	oLn_oLnis masc
 
 
-A^go_na_li^a		<itype>i^um or o_rum</itype>	<gen>n.</gen>
+A^go_na_li^a		
+:le:Agonalia
+:no:A^go_na_li^	us_i neut pl
+
+
 A^go_na_lis		
 :le:Agonalis
 :aj:A^go_na_l	is_e
@@ -6737,7 +6744,7 @@ Albi^us
 :no:Alb	ius_i masc
 
 
-Albi^us Tibullus		<itype>the Roman elegiac poet</itype>
+Albi^us Tibullus	
 albo^ga^le_rus		
 :le:albogalerus
 :no:albo^ga^le_r	us_i masc
@@ -6901,7 +6908,13 @@ Alceste_
 :no:Alcest	e_es fem
 
 
-Alceus		<orth type=alt>dissyl.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+Alceus		<orth type=alt>dissyl.</orth>	
+:le:Alceus
+:no:Alc	eus_ei masc
+:no:dissylc	eus_ei masc orth
+
+
+
 Alci^bi^a^des		
 :le:Alcibiades
 :aj:Alci^bi^a^d	es_is masc
@@ -7158,7 +7171,7 @@ A^leuas
 :no:A^leu	as_ae masc
 
 
-A_le^us#1		<itype>another reading for Alius</itype>
+A_le^us#1	
 A^le^us#2		
 :le:Aleus#2
 :aj:A^le^	us_a_um
@@ -7360,7 +7373,7 @@ a^li^e_num
 :no:a^li^e_n	us_i neut
 
 	<pos>adv.</pos>
-a_li^ger		<itype>ge^ra, ge^rum</itype>	<pos>adj.</pos>
+a_li^ger		<itype>ge^ra</itype>	<pos>adj.</pos>
 A_li^ge^ri	
 a^li^menta_ri^us		
 :le:alimentarius
@@ -7388,7 +7401,7 @@ a^li^mo_ni^um
 :no:a^li^mo_n	ius_i neut
 
 
-a^li^o_qui_		<orth>a^li^-o_quin</orth>	<orth>ce^te^ro_quin</orth>	<itype>but if they are genuine</itype>	<pos>prep.</pos>	
+a^li^o_qui_		<orth>a^li^-o_quin</orth>	<orth>ce^te^ro_quin</orth>	<pos>prep.</pos>	
 :le:alioqui
 :wd:a^li^o_qui_	adverb
 
@@ -7902,7 +7915,13 @@ a^lo^e_
 :no:a^lo^	e_es fem
 
 	<gen>n.</gen>
-A^lo_eus		<orth type=alt>trisyl.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+A^lo_eus		<orth type=alt>trisyl.</orth>	
+:le:Aloeus
+:no:A^lo_	eus_ei masc
+:no:trisylo_	eus_ei masc orth
+
+
+
 a^lo^gi^a		
 :le:alogia
 :no:a^lo^gi^	a_ae fem
@@ -8134,7 +8153,7 @@ alternus
 alter-ne_		<orth>altern&igrave;s</orth>	<orth>alterna^</orth>
 alterplex	
 altertra	
-alte^r-u^ter		<itype>alte^ru_^tra</itype>	<pos>adj.</pos>
+alte^r-u^ter		<pos>adj.</pos>
 alte^r-utrimque		
 :le:alterutrimque
 :wd:alte^r-utrimque	adverb
@@ -8556,7 +8575,7 @@ a^ma_rus
 
 
 a^ma_re_		<orth>a^ma_-ri^ter</orth>	<orth>a^ma_rum</orth>
-A^ma^ryllis		<itype>i^dis or i^dos</itype>	<gen>f.</gen>
+A^ma^ryllis		<itype>i^dos</itype>	<gen>f.</gen>
 A^ma^rynthis		
 :le:Amarynthis
 :no:A^ma^rynth	is_idis fem
@@ -9665,7 +9684,7 @@ Am-phry_si^a^cus
 
 
 amplecto	
-amplexo		<itype>analog to amplecto</itype>
+amplexo	
 amplexus#2		
 :le:amplexus#2
 :no:amplex	us_us masc
@@ -10438,7 +10457,7 @@ ancu^lus
 :no:ancu^l	us_i masc
 
 
-ancus#1		<itype>appellatur, qui aduncum bracchium habet et exporrigi non potest</itype>
+ancus#1		<itype>appellatur</itype>
 Ancus#2		<orth type=alt>Marcius</orth>	
 :le:Ancus#2
 :no:Anc	us_i masc
@@ -10813,7 +10832,7 @@ anguis		<orth type=alt>dissyl.</orth>
 :aj:angu	is_e
 
 
-an-guen		<itype>like sanguen for sanguis</itype>	<gen>c.</gen>
+an-guen		<gen>c.</gen>
 angui^-te^nens		
 :le:anguitenens
 :aj:angui^-te^n	ens_adj
@@ -11429,7 +11448,7 @@ anta_ri^us
 :aj:anta_r	ius_ia_ium
 
 
-ante^		<orth>anti</orth>	<itype>whence antidea, antideo</itype>	<pos>prep.</pos>	
+ante^		<orth>anti</orth>	<pos>prep.</pos>	
 :le:ante
 :wd:ante^	adverb
 
@@ -11494,8 +11513,7 @@ ante^cursor
 :no:ante^curs	or_oLris masc
 
 
-ante^di_co		<orth>ante^dictus</orth>	<itype>better written separately</itype>
-ante di_co	
+ante^di_co		<orth>ante^dictus</orth>	<orth>ante di_co</orth>
 anti^deo	
 ante^factus		
 :le:antefactus
@@ -11518,9 +11536,13 @@ ante^-ge^ni^ta_lis
 :aj:ante^-ge^ni^ta_l	is_e
 
 
-ante^gestus		<itype>a, um, better written separately</itype>
+ante^gestus		
+:le:antegestus
+:aj:ante^gest	us_a_um
+
+
 ante gestus	
-ante^-ha_c		<orth>anti^dha_c</orth>	<itype>like antidea for antea, and antideo for anteeo</itype>
+ante^-ha_c		<orth>anti^dha_c</orth>
 Ante_li^i		<orth type=alt>Anthe_li^i</orth>	
 :le:Antelii
 :no:Ante_li^	us_i masc pl
@@ -11619,8 +11641,7 @@ ante^-nupti^a_lis
 :aj:ante^-nupti^a_l	is_e
 
 
-anteoccu^pa_tio		<orth>anteoccu^po</orth>	<itype>better separately</itype>
-ante occu^pa_tio	
+anteoccu^pa_tio		<orth>anteoccu^po</orth>	<orth>ante occu^pa_tio</orth>
 ante^-paenulti^mus		<orth>-pe_n-</orth>	
 :le:antepaenultimus
 :aj:ante^-paenulti^m	us_a_um
@@ -11633,8 +11654,7 @@ ante^-pagmentum		<orth>anti^p-</orth>
 
 
 
-ante^pa^ro		<orth>ante^partus</orth>	<itype>more correctly</itype>
-ante^ pa^ro	
+ante^pa^ro		<orth>ante^partus</orth>	<orth>ante^ pa^ro</orth>
 ante^-passi^o		
 :le:antepassio
 :no:ante^-passi^	o_oLnis fem
@@ -11959,7 +11979,7 @@ anti^do^tum
 :no:-	us_i fem
 
 
-antigerio		<itype>an ancient word for valde</itype>
+antigerio	
 Antigno_tus		
 :le:Antignotus
 :no:Antigno_t	us_i masc
@@ -12226,7 +12246,7 @@ antiste^s
 :no:antist	es_itis masc fem
 
 
-antisti^ta		<itype>ae, like hospita from hospes, sospita from sospes, clienta from cliens</itype>	<pos>adj.</pos>
+antisti^ta		<itype>ae</itype>	<pos>adj.</pos>
 antiste^s		<orth>antisti^ta</orth>
 Antisthe^nes		<itype>is and ae</itype>	<gen>m.</gen>
 antisti^ti^um		
@@ -12358,7 +12378,11 @@ antrum
 :no:antr	us_i neut
 
 
-A^nu_bis		<itype>is and i^dis</itype>	<gen>m.</gen>
+A^nu_bis		
+:le:Anubis
+:no:A^nu_b	is_is masc
+
+
 a_nu^la_ris		
 :le:anularis
 :aj:a_nu^la_r	is_e
@@ -12707,8 +12731,7 @@ A_^phro^di_si^um
 :no:A_^phro^di_s	ius_i neut
 
 
-A_^phro^di_si^um		<itype>promontorium</itype>
-A_^phro^di_si^um		<itype>flumen</itype>
+A_^phro^di_si^um		<orth>A_^phro^di_si^um</orth>	<itype>flumen</itype>
 a_^phro^ni_^trum		
 :le:aphronitrum
 :no:a_^phro^ni_^tr	us_i neut
@@ -12997,7 +13020,7 @@ A^pollo
 :no:A^poll	o_inis masc
 
 
-A^pello		<itype>like hemo for homo</itype>	<gen>m.</gen>
+A^pello		<gen>m.</gen>
 A^pollo^do_rus		
 :le:Apollodorus
 :no:A^pollo^do_r	us_i masc
@@ -13127,7 +13150,7 @@ a^popsis
 :no:a^pops	is_is fem
 
 
-apor		<itype>a form of apud</itype>
+apor	
 a^po^ri^a		
 :le:aporia
 :no:a^po^ri^	a_ae fem
@@ -14881,7 +14904,7 @@ arcirma		<orth>arcu^ma</orth>
 
 
 
-Arci^-te^nens		<orth>arqui^te^-nens</orth>	<itype>like arquus for arcus, quur for cur</itype>	
+Arci^-te^nens		<orth>arqui^te^-nens</orth>	
 :le:Arcitenens
 :aj:Arci^-te^n	ens_adj
 :aj:arqui^te^-n	ens_adj orth
@@ -15242,7 +15265,7 @@ A^re_us
 :aj:A^re_	us_a_um
 
 
-arferia		<itype>aqua, quae inferis libabatur</itype>
+arferia		<itype>aqua</itype>
 Argantho_ni^us		
 :le:Arganthonius
 :no:Argantho_n	ius_i masc
@@ -15912,7 +15935,7 @@ A^risto^pha^ni^cus
 :aj:A^risto^pha^ni^c	us_a_um
 
 
-a^risto^pho^rum		<itype>est vas, in quo prandium fertur, ut discus</itype>
+a^risto^pho^rum		<itype>est vas</itype>
 a^risto_sus		
 :le:aristosus
 :aj:a^risto_s	us_a_um
@@ -17647,7 +17670,6 @@ assenta_trix		<orth type=alt>ads-</orth>
 
 
 
-assentio		<itype>i_re, was out of use even in the time of Varro</itype>
 assentor		<orth>ads-</orth>
 asse^que_la		<orth type=alt>ads-</orth>	
 :le:assequela
@@ -18450,7 +18472,11 @@ a^synde^ton
 :no:a^synde^t	os_i neut
 
 
-a^synde^tus		<itype>a, um, in astronomy, of stars</itype>
+a^synde^tus		
+:le:asyndetus
+:aj:a^synde^t	us_a_um
+
+
 at		<orth>ast</orth>
 A^ta_bu^lus		
 :le:Atabulus
@@ -18505,7 +18531,7 @@ Atarne^us
 :aj:Atarne^	us_a_um
 
 
-a^ta^t		<orth>attat</orth>	<itype>also several times repeated, atatatae, attatatatae, or atatte, atattate</itype>	<pos>interj.</pos>
+a^ta^t		<orth>attat</orth>	<pos>interj.</pos>
 a^ta^vi^a		
 :le:atavia
 :no:a^ta^vi^	a_ae fem
@@ -19447,7 +19473,7 @@ auctumna_lis		<orth>aut-</orth>
 
 
 
-autumnal		<itype>related as facul to facile,  volup to volupe, famul to famulus</itype>	<pos>adj.</pos>
+autumnal		<pos>adj.</pos>
 auctumnescit		<orth>-nascit</orth>	<orth>aut-</orth>
 auctumni^tas		<orth>aut-</orth>	
 :le:auctumnitas
@@ -19827,7 +19853,11 @@ auli^cus#2
 :aj:auli^c	us_a_um
 
 
-Aulis		<itype>is or i^dis</itype>	<gen>f.</gen>
+Aulis		
+:le:Aulis
+:no:Aul	is_idis fem
+
+
 auloedus		
 :le:auloedus
 :no:auloed	us_i masc
@@ -19967,7 +19997,7 @@ auri^cu^la
 :no:auri^cu^l	a_ae fem
 
 
-auri^cu^la_ri^us		<orth>o_ri^cu^la_ri^us</orth>	<itype>like oricula for auricula</itype>	
+auri^cu^la_ri^us		<orth>o_ri^cu^la_ri^us</orth>	
 :le:auricularius
 :no:auri^cu^la_r	ius_i masc
 :no:o_ri^cu^la_r	ius_i masc orth
@@ -20465,7 +20495,11 @@ Auxi^-ma_tes
 :no:Auxi^-ma_t	is_is masc pl
 
 
-Auxo		<itype>o_nis or u_s</itype>	<gen>f.</gen>
+Auxo		
+:le:Auxo
+:no:Aux	o_us fem
+
+
 Auze_a		<orth type=alt>Auzi_a</orth>	<orth>Audi_a</orth>	
 :le:Auzea
 :no:Auze_	a_ae fem
@@ -20791,7 +20825,7 @@ axis
 :no:ax	is_is masc
 
 
-axi^tes		<itype>mulieres sive viri dicebantur una_ agentes</itype>
+axi^tes	
 axi^ti^o_sus		
 :le:axitiosus
 :aj:axi^ti^o_s	us_a_um
@@ -21056,7 +21090,7 @@ Bacchi^a^dae
 :no:Bacchi^a^d	a_ae masc pl
 
 
-Bacchi^li^di^um		<orth type=alt>metrum</orth>	<itype>constat dimetro</itype>
+Bacchi^li^di^um		<orth type=alt>metrum</orth>
 Bacchis		
 :le:Bacchis
 :no:Bacch	is_idis fem
@@ -21133,7 +21167,7 @@ bacci_na
 
 
 Ba^ce_nis	
-bace^o^lus		<itype>used by Augustus for stultus</itype>
+bace^o^lus	
 ba_ci^fer		
 :le:bacifer
 :aj:ba_ci^f	er_era_erum
@@ -21621,8 +21655,7 @@ bal-ne^a
 :no:bal-ne^	us_i neut pl
 
 
-ba^li^ne^um		<itype>also in use</itype>
-ba^li^ne^ae		<itype>balnea, o_rum</itype>	<gen>n.</gen>
+ba^li^ne^um		<orth>ba^li^ne^ae</orth>	<itype>balnea, o_rum</itype>	<gen>n.</gen>
 Balsa		
 :le:Balsa
 :no:Bals	a_ae fem
@@ -22239,7 +22272,11 @@ ba_si^o^lum
 :no:ba_si^o^l	us_i neut
 
 
-ba^sis		<itype>is and e^os</itype>	<gen>f.</gen>
+ba^sis		
+:le:basis
+:no:ba^s	is_is fem
+
+
 ba_si^um		
 :le:basium
 :no:ba_s	ius_i neut
@@ -22332,7 +22369,7 @@ Bascu^lus
 
 
 ba^t#1	
-ba^t#2		<itype>sonus ex ore cornicinis lituum eximentis</itype>
+ba^t#2	
 ba^ta^la_ri^a		
 :le:batalaria
 :no:ba^ta^la_ri^	a_ae fem
@@ -23443,7 +23480,7 @@ Be_^thle^mi^ti^cus
 :aj:Be_^thle^mi^ti^c	us_a_um
 
 
-be_ti_zare		<itype>used by Augustus for languere</itype>
+be_ti_zare	
 Betuci^us		
 :le:Betucius
 :no:Betuc	ius_i masc
@@ -23628,8 +23665,7 @@ bi^ceps
 :aj:bi^c	eps_ipitis masc fem neut
 
 
-bi^ci^pes		<itype>like ancipes for anceps</itype>
-bi^cepso^s		<orth>bi^-ca^pi^tes</orth>	<pos>adj.</pos>
+bi^ci^pes		<orth>bi^cepso^s</orth>	<orth>bi^-ca^pi^tes</orth>	<pos>adj.</pos>
 bi^cessis		
 :le:bicessis
 :no:bi^cess	is_is masc
@@ -23947,7 +23983,7 @@ bi_lis
 
 	<orth type=alt>nigra</orth>	<itype>bilis</itype>
 bi^lix		<itype>li_cis</itype>	<pos>adj.</pos>
-billis		<itype>apud Afros appellatur semen humanum humi profusum</itype>
+billis	
 bi^-longus		
 :le:bilongus
 :aj:bi^-long	us_a_um
@@ -24630,7 +24666,7 @@ blasphe_mus
 :aj:blasphe_m	us_a_um
 
 
-blateas		<itype>bullas luti ex itineribus, aut quod calceamentorum soleis eraditur appellabant</itype>
+blateas	
 bla^te^ra_ti^o		
 :le:blateratio
 :no:bla^te^ra_ti^	o_oLnis fem
@@ -24857,7 +24893,7 @@ Boia
 :no:Boi	a_ae fem
 
 
-Boiemi		<orth type=alt>Bohemi</orth>	<orth>Boihemi</orth>	<itype>or, by collective term</itype>
+Boiemi		<orth type=alt>Bohemi</orth>	<orth>Boihemi</orth>	<itype>or</itype>
 Boihaemum		
 :le:Boihaemum
 :no:Boihaem	us_i neut
@@ -25161,7 +25197,7 @@ Bo^rysthe^-ni_tae
 
 
 bo_s		<itype>bo^vis</itype>
-bo^-vis		<itype>like bovare for boare</itype>	<gen>comm.</gen>
+bo^-vis		<gen>comm.</gen>
 boscis		
 :le:boscis
 :no:bosc	is_idis fem
@@ -25218,7 +25254,7 @@ bostry^chus
 :aj:bostry^ch	us_a_um
 
 
-bo^ta^ni^cum		<itype>herbarium dicitur, quod ibi herbae notentur</itype>
+bo^ta^ni^cum	
 bo^ta^nismus		
 :le:botanismus
 :no:bo^ta^nism	us_i masc
@@ -25391,7 +25427,7 @@ bo^vi_nus
 :aj:bo^vi_n	us_a_um
 
 
-bovus		<itype>non nisi singularem numerum capit, nam pluralem nemo dixit</itype>
+bovus	
 bo_x		<itype>bo_cis</itype>	<gen>m.</gen>
 bra^be_um		<orth>-i_um</orth>	
 :le:brabeum
@@ -26138,7 +26174,7 @@ Brut-ti^a_ni
 :no:Brut-ti^a_n	us_i masc pl
 
 
-Brutta_tes		<itype>bilingues Ennius dixit, quod Bruttii et Osce   et Graece loqui soliti sint</itype>
+Brutta_tes	
 bru_tus#1		
 :le:brutus#1
 :aj:bru_t	us_a_um
@@ -26268,7 +26304,7 @@ bu_bi_le		<orth>bo^vi_le</orth>
 
 
 
-bubinare		<orth type=alt>buv-</orth>	<itype>est menstruo mulierum sanguine inquinare</itype>
+bubinare		<orth type=alt>buv-</orth>
 bubleum		
 :le:bubleum
 :no:buble	us_i neut
@@ -26803,7 +26839,7 @@ burri^cus		<orth>bu_ri^cus</orth>	<orth type=alt>-chus</orth>
 
 
 
-Burrus#2		<itype>an old form for Pyrrhus</itype>
+Burrus#2	
 Bursa^o_nenses		
 :le:Bursaonenses
 :no:Bursa^o_nens	is_is masc pl
@@ -26815,7 +26851,7 @@ bu_se^li_num
 :no:bu_se^li_n	us_i neut
 
 
-Bu_si_ris		<itype>i^dis and i^dos</itype>
+Bu_si_ris	
 bustar		<itype>aris</itype>	<gen>m.</gen>
 busti^ce_tum		
 :le:busticetum
@@ -27909,7 +27945,7 @@ caepuila
 	<pos>adj.</pos>
 Caere		<gen>n.</gen>
 Caere	<itype>indecl.</itype>	<gen>f.</gen>
-Caeres		<itype>i^tis and e_tis</itype>	<pos>adj.</pos>
+Caeres		<itype>e_tis</itype>	<pos>adj.</pos>
 Caeri^tes		<orth type=alt>Caere_tes</orth>	
 :le:Caerites
 :no:Caeri^t	0_is masc pl
@@ -27977,10 +28013,11 @@ caeru^le^a_tus
 :aj:caeru^le^a_t	us_a_um
 
 
-caeru^le^us#1		<itype>and in poetry equally common</itype>
-caeru^lus		
-:le:caerulus
-:aj:caeru^l	us_a_um
+caeru^le^us#1		<orth>caeru^lus</orth>	
+:le:caeruleus#1
+:aj:caeru^le^	us_a_um
+:aj:caeru^l	us_a_um orth
+
 
 
 caeru^la		
@@ -28164,7 +28201,7 @@ caespe^s		<orth>cespes</orth>
 
 
 
-caespi^ta_to_res		<itype>suffusi equi</itype>
+caespi^ta_to_res	
 caespi^ti^ci^us		
 :le:caespiticius
 :aj:caespi^ti^c	ius_ia_ium
@@ -28820,7 +28857,7 @@ Caletra_nus
 :aj:Caletra_n	us_a_um
 
 
-ca^li^ca_taaedi^fi^cia		<itype>calce polita</itype>
+ca^li^ca_taaedi^fi^cia	
 ca^li^cellus		
 :le:calicellus
 :no:ca^li^cell	us_i masc
@@ -29446,7 +29483,7 @@ Ca^ma^ri_na		<orth>Ca^me^ri_-na</orth>
 
 
 
-camarus		<itype>i, for cammarus</itype>
+camarus		<itype>i</itype>
 cambi^tas		
 :le:cambitas
 :no:cambi^	tas_tatis fem
@@ -30760,7 +30797,7 @@ ca^pi^ta_ne^us
 :aj:ca^pi^ta_ne^	us_a_um
 
 
-ca^pi^ta_ri^umaes		<itype>quod capi potest</itype>
+ca^pi^ta_ri^umaes	
 ca^pi^ta_ti^o		
 :le:capitatio
 :no:ca^pi^ta_ti^	o_oLnis fem
@@ -30935,7 +30972,7 @@ cappa^ris
 
 
 cappa^-ri		<itype>indecl.</itype>	<gen>n.</gen>
-cappas		<itype>marinos equos Graeci a flexu</itype>
+cappas	
 capra		
 :le:capra
 :no:capr	a_ae fem
@@ -31972,6 +32009,7 @@ carpistes
 :no:carpist	es_ae masc
 
 
+carpo		<itype>psi, ptum</itype>
 carpo^phyllo^s		
 :le:carpophyllos
 :no:carpo^phyll	os_i fem
@@ -32278,7 +32316,7 @@ Ca^-sa_ri^us
 :no:Ca^-sa_r	ius_i neut
 
 
-Ca^sa_ri^a		<itype>quae custodit casam</itype>
+Ca^sa_ri^a	
 Casca		
 :le:Casca
 :no:Casc	a_ae masc
@@ -32502,7 +32540,11 @@ cassis#1
 :no:cassi	s_dis fem
 
 
-cassi^da		<itype>ae, like chlamyda from chlamys</itype>	<gen>f.</gen>
+cassi^da		
+:le:cassida
+:no:cassi^d	a_ae fem
+
+
 cassi_ta		
 :le:cassita
 :no:cassi_t	a_ae fem
@@ -32820,7 +32862,7 @@ ca_sus#1		<orth>cassus</orth>
 
 
 
-casu		<itype>adverbially</itype>
+casu	
 Ca_sus#2		
 :le:Casus#2
 :no:Ca_s	us_i masc
@@ -34009,7 +34051,7 @@ Ca^y-stri^us
 :aj:Ca^y-str	ius_ia_ium
 
 
--ce^		<itype>an inseparable strengthening demonstrative particle</itype>
+-ce^	
 Ce_a		<orth>Ci_a</orth>	
 :le:Cea
 :no:Ce_	a_ae fem
@@ -34897,7 +34939,7 @@ centu^ri^o#2
 :no:centu^ri^	o_oLnis masc
 
 
-centu^ri^o_nus		<itype>like curionus and decurionus</itype>
+centu^ri^o_nus	
 centu^ri^o_na_tus		
 :le:centurionatus
 :no:centu^ri^o_na_t	us_us masc
@@ -35607,7 +35649,7 @@ ce_ru^la
 :no:ce_ru^l	a_ae fem
 
 
-cerus		<itype>in carmine Saliari intellegitur creator</itype>
+cerus	
 ce_russa		
 :le:cerussa
 :no:ce_russ	a_ae fem
@@ -35996,7 +36038,7 @@ chalcis#1
 :no:chalc	is_idis fem
 
 
-Chalcis#2		<itype>i^dis or i^do^s</itype>	<gen>f.</gen>
+Chalcis#2		<itype>i^do^s</itype>	<gen>f.</gen>
 Chalci^-di^cus		
 :le:Chalcidicus
 :aj:Chalci^-di^c	us_a_um
@@ -36113,7 +36155,11 @@ cha^maedrys
 :no:cha^maedr	ys_yos fem
 
 
-cha^maele^on		<itype>o_nis and ontis</itype>	<gen>m.</gen>
+cha^maele^on		
+:le:chamaeleon
+:no:cha^maele^	on_ontis masc
+
+
 cha^maeleuce_		
 :le:chamaeleuce
 :no:cha^maeleuc	e_es fem
@@ -36706,7 +36752,11 @@ chi_ri^do_tae
 :no:chi_ri^do_t	a_ae fem pl
 
 
-Chi_rocme_ta		<itype>o_n or o_rum</itype>	<gen>n.</gen>
+Chi_rocme_ta		
+:le:Chirocmeta
+:no:Chi_rocme_t	us_i neut pl
+
+
 chi_ro^gra^pha_ri^us		
 :le:chirographarius
 :aj:chi_ro^gra^pha_r	ius_ia_ium
@@ -37039,7 +37089,11 @@ cho^rus
 :no:cho^r	us_i masc
 
 
-Chre^mes		<itype>e_tis or is</itype>	<gen>m.</gen>
+Chre^mes		
+:le:Chremes
+:aj:Chre^m	es_is masc
+
+
 Chresto^lo^gus		
 :le:Chrestologus
 :no:Chresto^lo^g	us_i masc
@@ -37598,6 +37652,7 @@ ci^da^ris
 
 
 ci^dar		<itype>aris</itype>	<gen>n.</gen>
+ci^e^o		<itype>ci_vi, ci^tum</itype>
 ci^to		
 :le:cito
 :wd:ci^to	adverb
@@ -38267,8 +38322,11 @@ circum-a^mictus
 :aj:circum-a^mict	us_a_um
 
 
-circum-caesu_ra		<itype>or separate</itype>
-cir-cum caesu_ra		<itype>ae</itype>	<gen>f.</gen>
+circum-caesu_ra		<orth>cir-cum caesu_ra</orth>	
+:le:circumcaesura
+:no:circum-caesu_r	a_ae fem
+
+
 Circumcelli^o		
 :le:Circumcellio
 :no:Circumcelli^	o_oLnis masc
@@ -38420,7 +38478,11 @@ circum-hu^ma_tus
 :aj:circum-hu^ma_t	us_a_um
 
 
-circumjec-tus		<itype>a, um, of localities</itype>	<pos>Subst.</pos>
+circumjec-tus		
+:le:circumjectus
+:aj:circumjec-t	us_a_um
+
+	<pos>Subst.</pos>
 circumjecta		
 :le:circumjecta
 :no:circumject	us_i neut pl
@@ -38454,6 +38516,7 @@ circumla_tor
 :no:circumla_t	or_oLris masc
 
 
+circum-la^vo	
 circumli^ni^o	
 circumli^ti^o		
 :le:circumlitio
@@ -39240,6 +39303,7 @@ cla_mi^ta_ti^o
 :no:cla_mi^ta_ti^	o_oLnis fem
 
 
+cla_mi^to		<itype>a_vi</itype>
 cla_mor		<orth>cla_mo^s</orth>	<itype>like arbos, labos</itype>	
 :le:clamor
 :no:cla_m	or_oLris masc
@@ -39474,8 +39538,13 @@ claudi^tas
 :no:claudi^	tas_tatis fem
 
 
-Claudi^us		<orth>Clo_di^us</orth>	<itype>like claudo and clodo, codex and caudex, plostrum and plaustrum</itype>
-Claudi^a		<orth type=alt>Clo_di^a</orth>	<orth>Claudi^a</orth>	<orth>Claudi^us</orth>	<orth type=alt>Clo_d-</orth>	<itype>a, um</itype>
+Claudi^us		<orth>Clo_di^us</orth>	<orth>Claudi^a</orth>	<orth type=alt>Clo_di^a</orth>	<orth>Claudi^a</orth>	<orth>Claudi^us</orth>	<orth type=alt>Clo_d-</orth>	
+:le:Claudius
+:aj:Claud	ius_ia_ium
+:aj:Clo_d	ius_ia_ium orth
+
+
+
 Claudi^a_nus		
 :le:Claudianus
 :aj:Claudi^a_n	us_a_um
@@ -40058,7 +40127,7 @@ Clo_ste_r
 
 
 Clo_tho_	
-Clu^a_ci_na		<orth>Clo^a_ci_na</orth>	<itype>on account of a derivation from cloaca</itype>	
+Clu^a_ci_na		<orth>Clo^a_ci_na</orth>	
 :le:Cluacina
 :no:Clu^a_ci_n	a_ae fem
 :no:Clo^a_ci_n	a_ae fem orth
@@ -40260,7 +40329,7 @@ Cly^tus
 :no:Cly^t	us_i masc
 
 
-cnasonas		<itype>acus, quibus mulieres caput scalpunt</itype>
+cnasonas		<itype>acus</itype>
 cne_cus		<orth type=alt>cni_cus</orth>	
 :le:cnecus
 :no:cne_c	us_i masc
@@ -40416,7 +40485,7 @@ co^a_gu^lum
 :no:co^a_gu^l	us_i neut
 
 
-co^-a^lesco		<itype>a^lu^i, a^li^tum</itype>
+co^-a^lesco		<itype>a^lu^i</itype>
 co^a^li^tus#2		
 :le:coalitus#2
 :no:co^a^li^t	us_us masc
@@ -41524,6 +41593,7 @@ col-li_bertus		<orth type=alt>conl-</orth>
 
 
 
+col-li^bet		<orth type=alt>conl-</orth>	<orth>collu^bet</orth>	<orth type=alt>conl-</orth>
 colli^cellus		
 :le:collicellus
 :no:colli^cell	us_i masc
@@ -41732,7 +41802,7 @@ collu_ti^o		<orth type=alt>conl-</orth>
 
 
 
-collu^vi^a_ris		<itype>porcus dicitur, qui cibo permixto et colluvie nutritur</itype>
+collu^vi^a_ris	
 collu^vi^es		<orth type=alt>conl-</orth>	<itype>e_i</itype>
 collu^vi^o		<orth type=alt>conl-</orth>	<itype>o_nis</itype>
 collu^vi^-es		<itype>em, e_</itype>
@@ -43032,7 +43102,7 @@ commo_sis
 :no:commo_s	is_is fem
 
 
-commotiae		<itype>Lymphae, ad lacum Cutiliensem a commotu, quod ibi insula in aqua_ commovetur</itype>
+commotiae		<itype>Lymphae</itype>
 commo_ti^o		
 :le:commotio
 :no:commo_ti^	o_oLnis fem
@@ -43053,13 +43123,13 @@ commo_tus#2
 :no:commo_t	us_us masc
 
 
-commugento		<itype>for convocanto</itype>
+commugento	
 commu_na_lis		
 :le:communalis
 :aj:commu_na_l	is_e
 
 
-commu_ni^ca_rius		<orth type=alt>dies</orth>	<itype>in quo omnibus di_s communiter sacrificabatur</itype>
+commu_ni^ca_rius		<orth type=alt>dies</orth>
 commu_ni^ca_ti^o		
 :le:communicatio
 :no:commu_ni^ca_ti^	o_oLnis fem
@@ -43510,7 +43580,11 @@ compi^ta_les
 :no:compi^ta_l	is_is masc pl
 
 
-compi^ta_li^a		<itype>ium and io_rum</itype>	<gen>n.</gen>
+compi^ta_li^a		
+:le:compitalia
+:no:compi^ta_li^	us_i neut pl
+
+
 compi^tum		<orth>compe^tum</orth>	
 :le:compitum
 :no:compi^t	us_i neut
@@ -43996,7 +44070,7 @@ co_na_tus
 :no:co_na_t	us_us masc
 
 
-co^naudi_tum		<itype>coauditum, sicut conangustatum dicitur</itype>
+co^naudi_tum		<itype>coauditum</itype>
 con-caedes		
 :le:concaedes
 :no:con-caed	is_is fem pl
@@ -44019,7 +44093,7 @@ Conca^ni
 :no:Conca^n	us_i masc pl
 
 
-concapit		<itype>a corrupt word</itype>
+concapit	
 con-capti_vus		
 :le:concaptivus
 :no:con-capti_v	us_i masc
@@ -44217,6 +44291,7 @@ conci^ens
 :aj:conci^	ens_adj
 
 
+con-ci^e^o		<itype>ci_vi, ci^tum</itype>
 conci^o	
 conci^li^a_bu^lum		
 :le:conciliabulum
@@ -44419,7 +44494,7 @@ concla_ma_ti^o
 :no:concla_ma_ti^	o_oLnis fem
 
 
-concla_va_tae		<itype>dicebantur, quae sub ea_dem erant clave</itype>
+concla_va_tae		<itype>dicebantur</itype>
 concla_ve		
 :le:conclave
 :no:concla_v	is_is neut
@@ -44570,6 +44645,7 @@ concrescenti^a
 :no:concrescenti^	a_ae fem
 
 
+con-cresco		<itype>cre_vi, cre_tum</itype>
 concre_tum		
 :le:concretum
 :no:concre_t	us_i neut
@@ -44695,6 +44771,7 @@ concu^pisci^ti_vus
 :aj:concu^pisci^ti_v	us_a_um
 
 
+con-cu^pisco	
 concu^pi_tor		
 :le:concupitor
 :no:concu^pi_t	or_oLris masc
@@ -44980,7 +45057,7 @@ condo_na_ti^o
 :no:condo_na_ti^	o_oLnis fem
 
 
-condrilla		<orth>condrylla</orth>	<itype>another orthography for chondrille</itype>
+condrilla		<orth>condrylla</orth>
 Condru_si		
 :le:Condrusi
 :no:Condru_s	us_i masc pl
@@ -46012,6 +46089,7 @@ conquestus#2
 :no:conquest	us_us masc
 
 
+con-qui^esco		<itype>qui^e_vi, qui^e_tum</itype>
 conqui_si_te_	
 conqui_si_ti^o		
 :le:conquisitio
@@ -46305,7 +46383,8 @@ conse^quus
 :aj:conse^qu	us_a_um
 
 
-conse^-qu^e_		<itype>redeunt ex ordine certo</itype>
+conse^-qu^e_	
+con-se^ro#2		<itype>se^ru^i, sertum</itype>
 con-serte_		
 :le:conserte
 :wd:con-serte_	adverb
@@ -47031,7 +47110,7 @@ consultus#2
 :no:consult	us_us masc
 
 
-con-sum		<itype>fu^i, fu^tu_rum or fo^re</itype>
+con-sum		<itype>fu^i</itype>
 consumma_bi^lis		
 :le:consummabilis
 :aj:consumma_bi^l	is_e
@@ -47052,6 +47131,7 @@ consumma_tus
 :aj:consumma_t	us_a_um
 
 	<pos>adv.</pos>
+con-su_mo		<itype>sumpsi, sumptum</itype>
 consumpti^bi^lis		
 :le:consumptibilis
 :aj:consumpti^bi^l	is_e
@@ -47369,7 +47449,7 @@ contesta_ti^uncu^la
 
 
 con-testi^fi^cans		<itype>antis</itype>
-contesta_to_		<itype>adverbially</itype>
+contesta_to_	
 contextus		
 :le:contextus
 :aj:context	us_a_um
@@ -47523,7 +47603,7 @@ con-to^ga_tus
 
 
 con-to^nat	
-con-torque^o		<itype>torsi, tortum</itype>
+con-torque^o		<itype>torsi</itype>
 con-torte_	
 contorti^o		
 :le:contortio
@@ -47796,7 +47876,7 @@ contu^me_li^o_sus
 
 
 contu^me_li^o_se_	
-con-tundo		<itype>tu^di, tu_sum</itype>
+con-tundo		<itype>tu^di</itype>
 contu_sum		<orth type=alt>-tun-sum</orth>	
 :le:contusum
 :no:contu_s	us_i neut
@@ -47808,7 +47888,7 @@ contunsus
 
 
 contu^o	
-contu^o^lio^cu^li		<itype>sunt in angustum coacti conniventibus palpebris</itype>
+contu^o^lio^cu^li	
 contu^or		<itype>tui</itype>
 conturba_ti^o		
 :le:conturbatio
@@ -48010,6 +48090,7 @@ con-verti^bi^li^ter
 :wd:con-verti^bi^li^ter		adverb
 
 con-vescor		<itype>vesci</itype>
+con-vesti^o		<itype>i_vi, i_tum</itype>
 con-ve^te^ra_nus		
 :le:conveteranus
 :no:con-ve^te^ra_n	us_i masc
@@ -48158,6 +48239,7 @@ co^-o^pe^ri^mentum
 :no:co^-o^pe^ri^ment	us_i neut
 
 
+co^-o^pe^ri^o		<itype>ru^i, rtum</itype>
 co^o^perto_ri^um		
 :le:coopertorium
 :no:co^o^perto_r	ius_i neut
@@ -48661,7 +48743,7 @@ Corfi_ni^us
 :aj:Corfi_n	ius_ia_ium
 
 
-corgo		<itype>apud antiquos pro adverbio, quod est profecto, ponebatur</itype>
+corgo	
 Co^ri^a		
 :le:Coria
 :no:Co^ri^	a_ae fem
@@ -48768,7 +48850,7 @@ Co^rippus
 :no:Co^ripp	us_i masc
 
 
-co^ris		<itype>is or i^dos</itype>	<gen>f.</gen>
+co^ris		<itype>i^dos</itype>	<gen>f.</gen>
 co^rissum		
 :le:corissum
 :no:co^riss	us_i neut
@@ -48888,7 +48970,7 @@ corni^pe_s
 :no:corni^	peLs_pedis masc
 
 
-Cornisca_rum		<itype>divarum locus erat trans Tiberim cornicibus dicatus, quod in Junonis tutela_ esse putabantur</itype>
+Cornisca_rum	
 cornix		
 :le:cornix
 :no:corn	ix_iLcis fem
@@ -49653,7 +49735,7 @@ Co^ry^pha_si^a
 :no:Co^ry^pha_si^	a_ae fem
 
 
-Co^ry^pha_si^um		<itype>a promontory on the south coast of Messenia</itype>
+Co^ry^pha_si^um	
 Co^ry^phe_		<itype>e_s</itype>
 Co^ry^pha		
 :le:Corypha
@@ -49757,7 +49839,7 @@ cosmi^ca
 :no:cosmi^c	us_i neut pl
 
 
-cosmittere		<itype>old form for committere</itype>
+cosmittere	
 Cosmoe		<itype>o_rum</itype>	<gen>m.</gen>
 cosmo_^gra^phi^a		
 :le:cosmographia
@@ -50338,8 +50420,8 @@ cre_bre_
 :wd:cre_bre_	adverb
 
 
-cre_bresco		<orth>cre_besco</orth>	<itype>bu^i, like rubesco</itype>
-cre_bri^su_ro		<itype>apud Ennium significat vallum crebris suris id est palis munitum</itype>
+cre_bresco		<orth>cre_besco</orth>	<itype>bu^i</itype>
+cre_bri^su_ro	
 cre_bri^tas		
 :le:crebritas
 :no:cre_bri^	tas_tatis fem
@@ -50572,7 +50654,7 @@ cre^pundi^a
 :no:cre^pundi^	us_i neut pl
 
 
-cre^pusci		<itype>qui eodem tempore erant nati</itype>
+cre^pusci	
 cre^puscu^lascens		<itype>entis</itype>
 cre^puscu^lum		
 :le:crepusculum
@@ -50584,6 +50666,7 @@ crescenti^a
 :no:crescenti^	a_ae fem
 
 
+cresco		<itype>cre_vi, cre_tum</itype>
 cre_tus		
 :le:cretus
 :aj:cre_t	us_a_um
@@ -51062,15 +51145,8 @@ cro^co_ta_ri^us
 :aj:cro^co_ta_r	ius_ia_ium
 
 
-crocotillum		<itype>valde exile</itype>
-crocotinum		<itype>genus operis pistorii</itype>
-cro^cotta		<orth type=alt>co^ro^c-</orth>	<orth>cro^cu_ta</orth>	
-:le:crocotta
-:no:cro^cott	a_ae masc
-:no:cro^cu_t	a_ae masc orth
-
-
-
+crocotillum	
+crocotinum		<orth>cro^cotta</orth>	<orth type=alt>co^ro^c-</orth>	<orth>cro^cu_ta</orth>	<itype>ae</itype>	<gen>m.</gen>
 cro^co_tu^la		
 :le:crocotula
 :no:cro^co_tu^l	a_ae fem
@@ -51241,7 +51317,6 @@ cru^ci^a_tus
 
 
 cru^ci^fer		<itype>fe^ri</itype>	<gen>m.</gen>
-cru^ci^fi_go		<itype>e_re, better separated</itype>
 cru^ci^fixor		
 :le:crucifixor
 :no:cru^ci^fix	or_oLris masc
@@ -51759,7 +51834,7 @@ cu_jusmo^dicumque_
 
 cu_jusnam		<itype>cu_janam, cu_jumnam</itype>
 cu_jusque^mo^di		<orth type=alt>quo_j-</orth>	<orth>cu_jus-que^ mo^di</orth>
-cu_jusvis		<itype>cujavis, cujumvis</itype>
+cu_jusvis		<itype>cujavis</itype>
 Cula^ro		
 :le:Cularo
 :no:Cula^r	o_oLnis masc
@@ -51825,7 +51900,7 @@ cu^li_na_ri^us
 :no:cu^li_na_r	ius_i masc
 
 
-cu_li^o^la		<orth type=alt>cull-</orth>	<itype>cortices nucum viridium, dicta a similitudine culeorum, quibus vinum sive oleum continetur</itype>
+cu_li^o^la		<orth type=alt>cull-</orth>
 culix		
 :le:culix
 :no:cul	ix_icis masc
@@ -51901,7 +51976,7 @@ culter
 :no:cult	er_ri masc
 
 
-culti^cu^la		<itype>fusticulus quidam ligneus in sacris dicebatur</itype>
+culti^cu^la	
 culti^o		
 :le:cultio
 :no:culti^	o_oLnis fem
@@ -51949,7 +52024,7 @@ cu_lus
 
 cum#1		<orth>quom</orth>	<orth>quum</orth>	<pos>prep.</pos>
 cumpri_mis	
-Cum#2		<orth>quom</orth>	<orth>quum</orth>	<orth type=alt>historical present</orth>	<itype>both clauses denoting points of time</itype>
+Cum#2		<orth>quom</orth>	<orth>quum</orth>	<orth type=alt>historical present</orth>
 Cu_mae		
 :le:Cumae
 :no:Cu_m	a_ae fem pl
@@ -51985,7 +52060,10 @@ Cu_maeus
 :aj:Cu_mae	us_a_um
 
 
-cumalter		<itype>significat cum altero, dictum ab antiquis ita brevitatis causa_, ut sodes pro si audes, scilicet pro scias licet, sis pro si vis</itype>
+cumalter	
+:le:cumalter
+:wd:cumalter		adverb
+
 cu_ma_ti^lis		<orth type=alt>cy_m-</orth>	
 :le:cumatilis
 :aj:cu_ma_ti^l	is_e
@@ -52222,7 +52300,7 @@ Cu_ni_na
 :no:Cu_ni_n	a_ae fem
 
 
-cuni_re		<itype>est stercus facere</itype>
+cuni_re	
 cunni^-lingus		
 :le:cunnilingus
 :no:cunni^-ling	us_i masc
@@ -52541,7 +52619,7 @@ cu_ri^a
 :no:cu_ri^	a_ae fem
 
 
-curia_les		<itype>mensae, in quibus immolabatur Junoni, quae curis appellata est</itype>
+curia_les		<itype>mensae</itype>
 cu_ri^a_lis		
 :le:curialis
 :aj:cu_ri^a_l	is_e
@@ -52944,7 +53022,7 @@ cu^tis
 :no:cu^t	is_is fem
 
 
-cuturni^um		<itype>vas, quo in sacrificiis vinum fundebatur</itype>
+cuturni^um		<itype>vas</itype>
 cy^a^mi^as		
 :le:cyamias
 :no:cy^a^mi^	as_ae fem
@@ -53694,7 +53772,7 @@ cy_^prus#2		<orth>cy_^pro^s</orth>
 
 
 
-cy_^prus		<itype>a Sabine word</itype>
+cy_^prus	
 Cypse^la		
 :le:Cypsela
 :no:Cypse^l	us_i neut pl
@@ -54329,7 +54407,7 @@ damna_to_ri^us
 :aj:damna_to_r	ius_ia_ium
 
 
-damnaustra		<orth>&Dagger; dannaustra</orth>	<itype>words of a charm to cure a dislocated joint</itype>
+damnaustra		<orth>&Dagger; dannaustra</orth>
 damni^fi^cus		
 :le:damnificus
 :aj:damni^fi^c	us_a_um
@@ -54446,7 +54524,7 @@ da^ni_sti^cus
 :aj:da^ni_sti^c	us_a_um
 
 
-Da_nu^vi^us		<orth>-ubius</orth>	<itype>is a corruption of late Latin</itype>	
+Da_nu^vi^us		<orth>-ubius</orth>	
 :le:Danuvius
 :no:Da_nu^v	ius_i masc
 
@@ -54576,7 +54654,11 @@ Darda^nus#2
 :aj:Darda^n	us_a_um
 
 
-Da^res		<itype>e_tis and is</itype>	<gen>m.</gen>
+Da^res		
+:le:Dares
+:aj:Da^r	es_is masc
+
+
 Da_re_us		<orth>Da_-ri_us</orth>	
 :le:Dareus
 :no:Da_re_us	ius_i masc
@@ -54855,7 +54937,7 @@ de_ca^li^ca_tor
 :no:de_ca^li^ca_t	or_oLris masc
 
 
-de_ca^li^ca_tum		<itype>calce litum</itype>
+de_ca^li^ca_tum	
 de^ca^lo^gus		
 :le:decalogus
 :no:de^ca^lo^g	us_i masc
@@ -54912,6 +54994,7 @@ de^casty^los
 
 
 De^ce^ba^lus		<itype>i</itype>
+de_-ce_do		<itype>cessi, cessum</itype>
 De^ce^le_a		<orth>-i_a</orth>	
 :le:Decelea
 :no:De^ce^le_	a_ae fem
@@ -55439,7 +55522,7 @@ de^-co_rum
 
 
 de^co_re_	
-decotes		<itype>togae detritae</itype>
+decotes	
 de_cre_mentum		
 :le:decrementum
 :no:de_cre_ment	us_i neut
@@ -55480,7 +55563,7 @@ de_-culpa_tus
 :aj:de_-culpa_t	us_a_um
 
 
-de_culta_runt		<itype>valde occultarunt</itype>
+de_culta_runt	
 de^cu^ma_tes		<itype>ium</itype>	<pos>adj.</pos>
 de^cuncis		
 :le:decuncis
@@ -55589,7 +55672,11 @@ de^cussis
 :aj:de^cuss	is_e
 
 
-decus		<itype>i, a mutilated form used by the Agrimensores</itype>	<gen>m.</gen>
+decus		
+:le:decus
+:no:dec	us_i masc
+
+
 de^cussissexis	
 de_cussus		
 :le:decussus
@@ -55948,7 +56035,7 @@ de_fluxus
 :no:de_flux	us_us masc
 
 
-de_fo_mi^ta_tum		<itype>a fomitibus succisum, quibus confoveri erat solitum lignum</itype>
+de_fo_mi^ta_tum	
 de_fo^ri_s	
 de_formaexta	
 de_forma_ti^o#1		
@@ -55995,13 +56082,13 @@ de_-fre_na_tus
 :aj:de_-fre_na_t	us_a_um
 
 
-defrensa		<itype>detrita atque detonsa</itype>
+defrensa	
 de_fri^ca_tio		
 :le:defricatio
 :no:de_fri^ca_ti	o_oLnis fem
 
 
-de_-fri^co		<itype>cui, ca_tum and ctum</itype>
+de_-fri^co		<itype>cui</itype>
 de_fri^ca_te_		
 :le:defricate
 :wd:de_fri^ca_te_	adverb
@@ -56197,6 +56284,7 @@ de_jectus#2
 :no:de_ject	us_us masc
 
 
+de_je^ro		<itype>a_vi</itype>
 de_-ju^gis		
 :le:dejugis
 :aj:de_-ju^g	is_e
@@ -56224,7 +56312,7 @@ de_la_^cri^ma_to_ri^us
 :aj:de_la_^cri^ma_to_r	ius_ia_ium
 
 
-de_la^ni^a_re		<itype>est descindere et quasi lanam trahere</itype>
+de_la^ni^a_re	
 de_lassa_bi^lis		
 :le:delassabilis
 :aj:de_lassa_bi^l	is_e
@@ -56499,7 +56587,7 @@ de_li_ne^a_ti^o
 
 
 de_-lingo		<itype>linxi, e^re</itype>
-de_li_ni^fi^cus		<itype>de_li_ni_mentum, de_li_ni^o and de_li_ni_tor</itype>
+de_li_ni^fi^cus	
 de_-li^no	
 de_linquenti^a		
 :le:delinquentia
@@ -56576,7 +56664,11 @@ De_li^um
 :no:De_l	ius_i neut
 
 
-Delma^tae		<itype>a_rum, and its derivatives</itype>
+Delma^tae		
+:le:Delmatae
+:no:Delma^t	a_ae fem pl
+
+
 Delmini^um		
 :le:Delminium
 :no:Delmin	ius_i neut
@@ -56587,7 +56679,7 @@ de_-lo^ca_ti^o
 :no:de_-lo^ca_ti^	o_oLnis fem
 
 
-de_-longe		<itype>or in two words, de longe</itype>
+de_-longe	
 De_los		
 :le:Delos
 :no:De_l	os_i fem
@@ -56635,7 +56727,7 @@ Delphis
 :no:Delph	is_idis fem
 
 
-delphi_nus		<itype>i, and in the pure Greek form</itype>
+delphi_nus		<itype>i</itype>
 delphi_n		<itype>i_nis</itype>	<gen>m.</gen>
 delta		
 :le:delta
@@ -56680,7 +56772,7 @@ De_ma_des
 :aj:De_ma_d	es_is masc
 
 
-de_-ma^gis		<itype>valde magis</itype>
+de_-ma^gis	
 de_manda_ti^o		
 :le:demandatio
 :no:de_manda_ti^	o_oLnis fem
@@ -57233,7 +57325,7 @@ De_o_i^us
 
 
 de^orata		<itype>perorata</itype>
-de^orsum		<orth>deorsus</orth>	<itype>like prorsus, quorsus, rursus, adversus</itype>	
+de^orsum		<orth>deorsus</orth>	
 :le:deorsum
 :wd:de^orsum	adverb
 
@@ -57354,13 +57446,14 @@ de_pompa_ti^o
 :no:de_pompa_ti^	o_oLnis fem
 
 
+de_-po_no		<itype>po^su^i, po^si^tum</itype>	<pos>prep.</pos>
 de_po_-nens		<itype>entis</itype>
 de_po^si^tum		
 :le:depositum
 :no:de_po^si^t	us_i neut
 
 
-de_ponta_ni		<itype>senes appellabantur, qui sexagenarii de ponte deiciebantur</itype>
+de_ponta_ni	
 de_po^pu^la_ti^o		
 :le:depopulatio
 :no:de_po^pu^la_ti^	o_oLnis fem
@@ -58026,6 +58119,7 @@ de_spo^li^a_tor
 :no:de_spo^li^a_t	or_oLris masc
 
 
+de_-sponde^o		<itype>spondi, sponsum</itype>
 de_sponsa_ti^o		
 :le:desponsatio
 :no:de_sponsa_ti^	o_oLnis fem
@@ -58238,7 +58332,7 @@ de_tentor
 :no:de_tent	or_oLris masc
 
 
-de_te^ri^ae		<itype>porcae id est macilentae</itype>
+de_te^ri^ae	
 de_te^ri^or		<itype>ius</itype>
 de_terius	
 de_termi^na_bi^lis		
@@ -58285,6 +58379,7 @@ de_testa_tor
 :no:de_testa_t	or_oLris masc
 
 
+de_-tonde^o	
 de_tonsi^o		
 :le:detonsio
 :no:de_tonsi^	o_oLnis fem
@@ -58312,6 +58407,7 @@ de_tracto_rius
 :aj:de_tracto_r	ius_ia_ium
 
 
+de_-tra^ho		<itype>xi, ctum</itype>
 de_trecta_ti^o		<orth type=alt>de_tract-</orth>	
 :le:detrectatio
 :no:de_trecta_ti^	o_oLnis fem
@@ -58455,6 +58551,7 @@ de_victi^o
 :no:de_victi^	o_oLnis fem
 
 
+de_-vinci^o		<itype>nxi, nctum</itype>
 de_-vinctus		
 :le:devinctus
 :aj:de_-vinct	us_a_um
@@ -58536,7 +58633,7 @@ de_vo_ti^o
 :no:de_vo_ti^	o_oLnis fem
 
 
-de_vo_tor		<orth>de_vo_trix</orth>	<itype>dicitur qui imprecatur</itype>
+de_vo_tor		<orth>de_vo_trix</orth>
 de_vo_te_	
 Dexa^me^nus		
 :le:Dexamenus
@@ -58932,7 +59029,7 @@ di^a^lo^gus
 :no:di^a^lo^g	us_i masc
 
 
-di^a^lutense		<itype>genus purpurae</itype>
+di^a^lutense	
 di^a^ly^sis		
 :le:dialysis
 :no:di^a^ly^s	is_is fem
@@ -59415,14 +59512,22 @@ di^dasca^li^cus
 :aj:di^dasca^li^c	us_a_um
 
 
-Di^dasca^lica		<itype>o_n or o_rum</itype>	<gen>n.</gen>
+Di^dasca^lica		
+:le:Didascalica
+:no:Di^dasca^lic	us_i neut pl
+
+
 Di_di^us		
 :le:Didius
 :aj:Di_d	ius_ia_ium
 
 
 di_-do#1		<orth>disdo</orth>
-Di_do_#2		<itype>u_s and o_nis</itype>	<gen>f.</gen>
+Di_do_#2		
+:le:Dido#2
+:no:Di_d	o_oLnis fem
+
+
 di_^dra_chmon		<itype>i</itype>
 di_^dra_chma		
 :le:didrachma
@@ -59554,7 +59659,7 @@ diffi_denter
 :le:diffidenter
 :wd:diffi_denter		adverb
 
-dif-findo		<itype>fi^di, fissum</itype>
+dif-findo		<itype>fi^di</itype>
 diffissi^o		
 :le:diffissio
 :no:diffissi^	o_oLnis fem
@@ -59764,7 +59869,7 @@ dignanter
 :le:dignanter
 :wd:dignanter		adverb
 
-di_gno_rant		<itype>signa imponunt, ut fieri solet in pecoribus</itype>
+di_gno_rant	
 di_gnoscenti^a		
 :le:dignoscentia
 :no:di_gnoscenti^	a_ae fem
@@ -60521,7 +60626,11 @@ di_ru^ti^o
 
 di_s#1		<itype>di_tis</itype>
 Di_s#2		<itype>i_tis</itype>	<gen>m.</gen>
-di^s#3		<itype>an inseparable particle</itype>	<gen>f.</gen>	<orth type=alt>derigo</orth>	<itype>dijudico, diligo, dilucesco, dispicio</itype>
+di^s#3		
+:le:dis#3
+:no:d	is_is fem
+
+	<orth type=alt>derigo</orth>	<itype>dijudico, diligo, dilucesco, dispicio</itype>
 dis-calce^a_tus		
 :le:discalceatus
 :aj:dis-calce^a_t	us_a_um
@@ -60890,7 +60999,7 @@ di^se_mus
 
 di^serte_	
 di^sertim	
-di^serti^o_nes		<itype>divisiones patrimoniorum inter consortes</itype>
+di^serti^o_nes	
 di^serti^tu_do		
 :le:disertitudo
 :no:di^serti^tu_d	o_inis fem
@@ -61052,7 +61161,7 @@ di-sponde_us
 :no:di-sponde_	us_i masc
 
 
-dis-po_no		<itype>po^su^i, po^si^tum</itype>
+dis-po_no		<itype>po^su^i</itype>
 dispo^si^tus		
 :le:dispositus
 :aj:dispo^si^t	us_a_um
@@ -61268,7 +61377,6 @@ dissi^pa_trix
 
 
 dis-si^po		<itype>or</itype>
-dissiptum		<itype>another form of dissaeptum</itype>
 dis-si^tus#2		
 :le:dissitus#2
 :aj:dis-si^t	us_a_um
@@ -61347,7 +61455,7 @@ dissua_sor
 
 
 dis-sue_tu_do		<itype>dinis</itype>	<gen>f.</gen>
-dissulcus		<itype>porcus dicitur, cum in cervice setas dividit</itype>
+dissulcus	
 dis-taedet	
 distanti^a		
 :le:distantia
@@ -61543,7 +61651,7 @@ di_ti^ae
 :no:di_ti^	a_ae fem pl
 
 
-di^ti^o		<itype>less correct form for dicio</itype>
+di^ti^o	
 di_tius		<orth>di_tissime</orth>
 di_^tro^chaeus		
 :le:ditrochaeus
@@ -61681,7 +61789,7 @@ di_vi^di^a
 :no:di_vi^di^	a_ae fem
 
 
-di_vi^di^cu^la		<itype>antiqui dicebant, quae nunc sunt castella, ex quibus a rivo communi aquam quisque in suum fundum ducit</itype>
+di_vi^di^cu^la	
 di_vi_se		<orth>di_vi_sim</orth>
 di_vi^du^i^tas		
 :le:dividuitas
@@ -62482,7 +62590,7 @@ do^nax
 
 
 Do^nax	
-do_ne^c		<orth>do_ni^cum</orth>	<itype>from old dative doni</itype>
+do_ne^c		<orth>do_ni^cum</orth>
 do_num		
 :le:donum
 :no:do_n	us_i neut
@@ -62700,7 +62808,13 @@ dra^caena
 :no:dra^caen	a_ae fem
 
 
-drachma		<orth>drachu^ma</orth>	<itype>like Alcumena, Aesculapius</itype>	<gen>f.</gen>
+drachma		<orth>drachu^ma</orth>	
+:le:drachma
+:no:drachm	a_ae fem
+:no:drachu^m	a_ae fem orth
+
+
+
 dra^co		
 :le:draco
 :no:dra^c	o_oLnis masc
@@ -62985,7 +63099,7 @@ du^a_li^tas
 :no:du^a_li^	tas_tatis fem
 
 
-dubenus		<itype>apud antiquos dicebatur qui nunc dominus</itype>
+dubenus	
 du^bi^e^tas		
 :le:dubietas
 :no:du^bi^e^	tas_tatis fem
@@ -63174,7 +63288,7 @@ Du^elli^us		<orth>Du^i_lius</orth>	<orth>Duillius</orth>
 
 
 
-du^i^census		<itype>dicebatur cum altero, id est, cum filio census</itype>
+du^i^census	
 du^i_tae		
 :le:duitae
 :no:du^i_t	a_ae masc pl
@@ -63339,7 +63453,7 @@ du_mi^co^la
 
 dummo^do	
 Dumno^rix		<itype>i^gis</itype>	<gen>m.</gen>
-du_mo_sus		<orth>dummosus</orth>	<orth>dusmo_sus</orth>	<itype>like Casmena, Casmili</itype>	
+du_mo_sus		<orth>dummosus</orth>	<orth>dusmo_sus</orth>	
 :le:dumosus
 :aj:du_mo_s	us_a_um
 :aj:dusmo_s	us_a_um orth
@@ -64347,13 +64461,17 @@ e^dax
 :aj:e^d	ax_adj
 
 
-edeatroe		<itype>qui praesunt regiis epulis</itype>
+edeatroe	
 e_-dentu^lus		
 :le:edentulus
 :aj:e_-dentu^l	us_a_um
 
 
-e^de^ra		<itype>ae, and its derivatives</itype>
+e^de^ra		
+:le:edera
+:no:e^de^r	a_ae fem
+
+
 E^dessa		
 :le:Edessa
 :no:E^dess	a_ae fem
@@ -64545,7 +64663,7 @@ ef-faeca_tus
 :aj:ef-faeca_t	us_a_um
 
 
-effafilatum		<itype>exertum, quod scilicet omnes exerto brachio sint exfilati, id est extra vestimentum filo contextum</itype>
+effafilatum		<itype>exertum</itype>
 effa_men		
 :le:effamen
 :no:effa_	men_minis neut
@@ -64707,7 +64825,7 @@ efflictim
 :wd:efflictim	adverb
 
 
-efflicte		<itype>in like sense</itype>
+efflicte	
 efflu^us		
 :le:effluus
 :aj:efflu^	us_a_um
@@ -64771,7 +64889,7 @@ effu^ga_ti^o
 :no:effu^ga_ti^	o_oLnis fem
 
 
-effu^gi^a		<itype>vocari veteri more solet hostia, quae ad aras adducta est immolanda, si casu effugeret</itype>
+effu^gi^a	
 effu^gi^um		
 :le:effugium
 :no:effu^g	ius_i neut
@@ -65121,7 +65239,7 @@ e^la^ti_tes
 :no:e^la^ti_t	es_ae masc
 
 
-e_lauda_re		<itype>plus quam nominare</itype>
+e_lauda_re	
 E^la^ver		
 :le:Elaver
 :no:E^la^v	er_eris neut
@@ -65917,7 +66035,7 @@ e_menti_tus
 
 
 emercor	
-emere		<itype>antiqui dicebant pro accipere</itype>
+emere	
 e_me^ri^-tus		
 :le:emeritus
 :no:e_me^ri^-t	us_i masc
@@ -66095,7 +66213,7 @@ e_mortuus
 :aj:e_mortu	us_a_um
 
 
-Empanda		<itype>paganorum dea</itype>
+Empanda	
 Empe^do^cles		
 :le:Empedocles
 :aj:Empe^do^cl	es_is masc
@@ -66233,7 +66351,7 @@ empti^o		<orth type=alt>emt-</orth>
 
 
 
-emptivommilitem		<itype>mercenarium</itype>
+emptivommilitem	
 emptor		<orth type=alt>emt-</orth>	
 :le:emptor
 :no:empt	or_oLris masc
@@ -66295,7 +66413,7 @@ e^mys
 :no:e^my	s_dis fem
 
 
-e_n		<pos>interj.</pos>	<orth type=alt>indignant</orth>	<itype>manner something important or unexpected</itype>	<orth type=alt>in one word</orth>	<orth type=alt>enumquam</orth>
+e_n		<pos>interj.</pos>	<orth type=alt>indignant</orth>	<orth type=alt>in one word</orth>	<orth type=alt>enumquam</orth>
 e^nalla^ge		
 :le:enallage
 :no:e^nalla^g	e_es fem
@@ -66345,7 +66463,7 @@ e_na^te_r
 :no:e_na^t	er_eris masc
 
 
-e_na_va_tae		<itype>false reading for navatae</itype>
+e_na_va_tae	
 encaeni^a		
 :le:encaenia
 :no:encaeni^	us_i neut pl
@@ -66917,7 +67035,7 @@ e^pa^go_ge
 :no:e^pa^go_g	e_es fem
 
 
-epalimma		<itype>genus vilissimi unguenti</itype>
+epalimma	
 E^pa^mi_no_ndas		
 :le:Epaminondas
 :no:E^pa^mi_no_nd	as_ae masc
@@ -67134,7 +67252,7 @@ E^pi^charmus
 :no:E^pi^charm	us_i masc
 
 
-Epicharmi_um		<itype>illud, a saying of Epicharmus</itype>
+Epicharmi_um		<itype>illud</itype>
 e^pi^chi_re_ma		
 :le:epichirema
 :no:e^pi^chi_re_	ma_matis neut
@@ -67772,7 +67890,7 @@ E^po^re^di^a
 :no:E^po^re^di^	a_ae fem
 
 
-eporedias		<itype>Galli bonos equorum domitores vocant</itype>
+eporedias	
 E^po^re^do^rix		<itype>i^gis</itype>	<gen>m.</gen>
 e^pos		<gen>n.</gen>
 e_po_tus		
@@ -68065,7 +68183,7 @@ e_recti^o
 :no:e_recti^	o_oLnis fem
 
 
-E^rembi		<itype>o_rum or um</itype>	<gen>m.</gen>
+E^rembi		<itype>um</itype>	<gen>m.</gen>
 e^re_mi_ta		<gen>m.</gen>
 e^re_mi_tis		
 :le:eremitis
@@ -68980,7 +69098,7 @@ e_ta
 
 
 e^t-e^nim	
-E^te^o_cle_s		<itype>is and e^os</itype>	<gen>m.</gen>
+E^te^o_cle_s		<itype>e^os</itype>	<gen>m.</gen>
 E^te^o_cle_us		
 :le:Eteocleus
 :aj:E^te^o_cle_	us_a_um
@@ -69213,7 +69331,7 @@ Eude_mus
 :no:Eude_m	us_i masc
 
 
-eudiaeon		<itype>lineum filum, quod medici extremo in clysterio relinquunt</itype>
+eudiaeon	
 Eudoses		<itype>um</itype>
 Eudoxus		
 :le:Eudoxus
@@ -69341,7 +69459,7 @@ Eumolpi^dae
 :no:Eumolpi^d	a_ae masc pl
 
 
-eune^os		<itype>false reading for eureos</itype>
+eune^os	
 eunu_chi_nus		
 :le:eunuchinus
 :aj:eunu_chi_n	us_a_um
@@ -69524,7 +69642,7 @@ euro^-a^qui^lo
 :no:euro^-a^qui^l	o_oLnis masc
 
 
-euro^-auster		<itype>dictus, quod ex una parte habeat Eurum, ab altera Austrum</itype>
+euro^-auster		<itype>dictus</itype>
 euro^-no^tus		
 :le:euronotus
 :no:euro^-no^t	us_i masc
@@ -69836,7 +69954,7 @@ e_vectus#2
 :no:e_vect	us_us masc
 
 
-e_ve_la_tum		<itype>eventilatum, unde velabra, quibus frumenta ventilantur</itype>
+e_ve_la_tum	
 e_ventum		
 :le:eventum
 :no:e_vent	us_i neut
@@ -69847,7 +69965,7 @@ e_ventus
 :no:e_vent	us_us masc
 
 
-e_verri^a_tor		<itype>vocatur, qui jure accepta hereditate justa facere defuncto debet, quae si non fecerit, seu quid in ea re turbaverit</itype>
+e_verri^a_tor		<itype>vocatur</itype>
 e_verri^cu^lum		
 :le:everriculum
 :no:e_verri^cu^l	us_i neut
@@ -70266,7 +70384,7 @@ exbo^la
 :no:exbo^l	a_ae fem
 
 
-exbures		<itype>exinteratas</itype>
+exbures	
 excaeca_tor		
 :le:excaecator
 :no:excaeca_t	or_oLris masc
@@ -70445,7 +70563,7 @@ exci^pu^la
 :no:exci^pu^l	us_i neut pl
 
 
-exci^pu^um		<itype>quod excipitur, ut prae cipuum quod ante capitur</itype>
+exci^pu^um	
 exci_sa_tus		
 :le:excisatus
 :aj:exci_sa_t	us_a_um
@@ -70890,7 +71008,7 @@ exe_sor
 
 
 exesto	
-exfir		<itype>purgamentum, unde adhuc manet suffitio</itype>
+exfir	
 ex-forni^ca_tus		
 :le:exfornicatus
 :aj:ex-forni^ca_t	us_a_um
@@ -70901,7 +71019,7 @@ ex-funda_tus
 :aj:ex-funda_t	us_a_um
 
 
-exfuti		<itype>effusi, ut MERTAT pro mersat</itype>
+exfuti		<itype>effusi</itype>
 ex-fu^tu_tus		
 :le:exfututus
 :aj:ex-fu^tu_t	us_a_um
@@ -71006,7 +71124,7 @@ exi^gu^us
 
 
 exi^gu^e		<orth type=alt>class.</orth>	<orth>exi^gu^um</orth>	<orth>exi^gu^o</orth>
-exi^li^ca		<itype>causa, quae adversus exsulem agitur</itype>
+exi^li^ca		<itype>causa</itype>
 exi_lis		
 :le:exilis
 :aj:exi_l	is_e
@@ -71157,7 +71275,7 @@ exo^le_tus
 :aj:exo^le_t	us_a_um
 
 
-exo_mi^des		<itype>sunt comici vestitus exsertis humeris</itype>
+exo_mi^des	
 exo^mo^lo^ge_sis		
 :le:exomologesis
 :no:exo^mo^lo^ge_s	is_is fem
@@ -71253,6 +71371,7 @@ exordi^um
 :no:exord	ius_i neut
 
 
+ex-o^ri^or		<itype>ortus</itype>
 exormiston		
 :le:exormiston
 :no:exormist	os_i neut
@@ -71354,7 +71473,7 @@ ex-partus
 :aj:ex-part	us_a_um
 
 
-expatare		<itype>in locum patentem se dare, sive in spatium se conferre</itype>
+expatare	
 ex-pa_^tri^ci^us		
 :le:expatricius
 :no:ex-pa_^tri^c	ius_i masc
@@ -71784,7 +71903,11 @@ expurga_tus
 :aj:expurga_t	us_a_um
 
 
-Exqui^li^ae		<itype>a_rum, and its derivatives</itype>
+Exqui^li^ae		
+:le:Exquiliae
+:no:Exqui^li^	a_ae fem pl
+
+
 exqui_si_te	
 exqui_si_tim		
 :le:exquisitim
@@ -71808,7 +71931,7 @@ exra_di_ci^tus		<orth type=alt>e_ra_d-</orth>
 :wd:e_ra_di_ci^tus	adverb orth
 
 
-exro^ga_re		<itype>est ex lege vetere aliquid eximere per novam legem</itype>
+exro^ga_re	
 exsangui^na_tus		<orth type=alt>exang-</orth>	
 :le:exsanguinatus
 :aj:exsangui^na_t	us_a_um
@@ -72690,7 +72813,7 @@ fa_^bre_
 :wd:fa_^bre_	adverb
 
 
-fa_^bre_fi_o		<itype>factus sum, fi^e^ri</itype>
+fa_^bre_fi_o		<itype>factus sum</itype>
 fa_^bri^ca		
 :le:fabrica
 :no:fa_^bri^c	a_ae fem
@@ -72872,7 +72995,7 @@ factum
 :no:fact	us_i neut
 
 	<pos>adv.</pos>	<pos>adv.</pos>
-facteon		<itype>a word jestingly formed by Cicero, after the analogy of the Greek</itype>
+facteon	
 fa^ci^tergi^um		
 :le:facitergium
 :no:fa^ci^tergi^	us_i neut
@@ -73495,7 +73618,7 @@ famex
 :no:fam	ex_icis masc
 
 
-famicosam		<itype>terram palustrem vocabant</itype>
+famicosam	
 fa_mi^ger	
 fa_mi^ge^ra_bi^lis		
 :le:famigerabilis
@@ -74523,7 +74646,7 @@ fe^mo^ra_le
 :no:fe^mo^ra_l	is_is neut
 
 
-fe^mur		<itype>o^ris or i^nis</itype>	<gen>n.</gen>
+fe^mur		<gen>n.</gen>
 fendi^cae		
 :le:fendicae
 :no:fendi^c	a_ae fem pl
@@ -74940,7 +75063,7 @@ fervor
 :no:ferv	or_oLris masc
 
 
-fescemnoe		<itype>vocabantur, qui depellere fascinum credebantur</itype>
+fescemnoe		<itype>vocabantur</itype>
 Fescenni^a		
 :le:Fescennia
 :no:Fescenni^	a_ae fem
@@ -75266,7 +75389,7 @@ fi_ci^tor
 :no:fi_ci^t	or_oLris masc
 
 
-ficolea		<itype>palus ficulneus</itype>
+ficolea	
 fi_co_sus		
 :le:ficosus
 :aj:fi_co_s	us_a_um
@@ -75523,7 +75646,7 @@ fi_dus#1
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 fi_de	
-fidusta		<itype>a fide denominata, ea quae maximae fidei erant</itype>
+fidusta	
 fi_^gli_nus		<itype>or</itype>
 fi^gu^li_nus		
 :le:figulinus
@@ -76097,13 +76220,13 @@ fla_^granti^a
 :no:fla_^granti^	a_ae fem
 
 
-flagra_to_res		<itype>dicebantur genus hominum, quod mercede flagris caedebantur</itype>
+flagra_to_res	
 fla_^gri^fer		
 :le:flagrifer
 :aj:fla_^gri^f	er_era_erum
 
 
-flagri^o_nes		<itype>dicti servi</itype>
+flagri^o_nes	
 fla_^gri_^tri^ba		
 :le:flagritriba
 :no:fla_^gri_^tri^b	a_ae masc
@@ -76506,7 +76629,11 @@ Flo_ra_lis
 :aj:Flo_ra_l	is_e
 
 
-Flo_ra_li^a		<itype>ium and o_rum</itype>	<gen>n.</gen>
+Flo_ra_li^a		
+:le:Floralia
+:no:Flo_ra_li^	us_i neut pl
+
+
 Flo_-ra_li^ci^us		<orth>-ti^us</orth>	
 :le:Floralicius
 :aj:Flo_-ra_li^c	ius_ia_ium
@@ -76579,7 +76706,7 @@ flo_ri^fer
 :aj:flo_ri^f	er_era_erum
 
 
-flo_ri^fertum		<itype>dictum, quod eo die spicae feruntur ad sacrarium</itype>
+flo_ri^fertum		<itype>dictum</itype>
 flo_ri^ge^nus		
 :le:florigenus
 :aj:flo_ri^ge^n	us_a_um
@@ -76871,7 +76998,7 @@ fo^ca_ri^a
 :no:fo^ca_ri^	a_ae fem
 
 
-focillationes		<orth type=alt>focilat-</orth>	<itype>foculi, a fovendo, id est calefaciendo, dicta sunt</itype>
+focillationes		<orth type=alt>focilat-</orth>	<itype>foculi, a fovendo</itype>
 fo^cu^la_re		
 :le:foculare
 :no:fo^cu^la_r	is_is neut
@@ -76893,7 +77020,7 @@ fo^di_na
 :no:fo^di_n	a_ae fem
 
 
-foecunde		<itype>foecunditas, foecundo, foecundus</itype>
+foecunde	
 foede^ra_ticus		
 :le:foederaticus
 :aj:foede^ra_tic	us_a_um
@@ -76970,7 +77097,7 @@ folle^a_tus
 :aj:folle^a_t	us_a_um
 
 
-folli^cu^la_re		<itype>appellatur pars remi, quae folliculo est tecta, a quo vita follicularis</itype>
+folli^cu^la_re	
 folli^cu^lo_sus		
 :le:folliculosus
 :aj:folli^cu^lo_s	us_a_um
@@ -77092,7 +77219,7 @@ fo^ra_tus
 :no:fo^ra_t	us_us masc
 
 
-forbeam		<itype>antiqui omne genus cibi appellabant</itype>
+forbeam	
 forceps		<itype>ci^pis</itype>	<gen>c.</gen>	<gen>c.</gen>
 Forcu^lus		
 :le:Forculus
@@ -77356,7 +77483,7 @@ formo_sus
 
 
 formo_se	
-formucales		<itype>forcipes dictae, quod forma capiant, id est ferventia</itype>
+formucales	
 formu^la		
 :le:formula
 :no:formu^l	a_ae fem
@@ -77560,8 +77687,7 @@ fo^rus
 
 	<gen>n.</gen>
 forum boarium		<orth>forum suarium</orth>	<orth>forum olitorium</orth>	<orth>forum coqui-num</orth>	<itype>also</itype>
-fo-rum piscarium		<orth>forum cuppedinis</orth>	<orth>Fo^rum</orth>	<itype>a name of many market and assize towns, nine of which, in Etruria, are named</itype>
-Forum A^lie_ni		<orth>Forum Appii</orth>	<orth>Forum Aure_lium</orth>	<orth>Forum Corne_-lium</orth>	<orth>Foro-corneliensis</orth>	<itype>e</itype>	<pos>adj.</pos>
+fo-rum piscarium		<orth>forum cuppedinis</orth>	<orth>Fo^rum</orth>	<orth>Forum A^lie_ni</orth>	<orth>Forum Appii</orth>	<orth>Forum Aure_lium</orth>	<orth>Forum Corne_-lium</orth>	<orth>Foro-corneliensis</orth>	<itype>e</itype>	<pos>adj.</pos>
 Forum Gallo_rum		<orth>Forum Ju_lii</orth>	<orth>Forojulien-sis</orth>	<itype>e</itype>	<pos>adj.</pos>
 Forojulien-ses		<orth>Forum Vo^co_nii</orth>
 fo^rus#1		
@@ -77666,8 +77792,8 @@ fo^ve_la
 :no:fo^ve_l	a_ae fem
 
 
-Fovii		<itype>qui nunc Favii dicuntur</itype>
-fracebunt		<itype>displicebunt</itype>
+Fovii	
+fracebunt	
 fra^ces		
 :le:fraces
 :no:fra^c	0_is masc pl
@@ -77806,8 +77932,8 @@ fra_ternus
 
 	<pos>adv.</pos>
 fra_terne	
-fratilli		<itype>villi sordidi in tapetis</itype>
-fra_tra_re		<orth>fra_tria_re</orth>	<itype>puerorum mammae dicuntur, cum primum tumescunt</itype>
+fratilli	
+fra_tra_re		<orth>fra_tria_re</orth>
 fra_tri^ci_da		
 :le:fratricida
 :no:fra_tri^ci_d	a_ae masc
@@ -77878,8 +78004,8 @@ fraudu^lo_sus
 
 
 fraus		<itype>fraudis</itype>	<gen>f.</gen>
-Fraus#III		<itype>personified</itype>
-fraxa_re		<itype>vigiliam circuire</itype>
+Fraus#III	
+fraxa_re	
 fraxi^ne^us		
 :le:fraxineus
 :aj:fraxi^ne^	us_a_um
@@ -78393,12 +78519,8 @@ fru_ga_li^ter
 :wd:fru_ga_li^ter		adverb
 
 fru_ga_li^tas		<itype>ta_tis</itype>	<gen>f.</gen>
-fru_ga_menta		<itype>a frugibus appellata</itype>
-fru_gi^fer		
-:le:frugifer
-:aj:fru_gi^f	er_era_erum
-
-
+fru_ga_menta	
+fru_gi^fer		<itype>e^ra</itype>	<pos>adj.</pos>
 fru_gi^fe^rens		
 :le:frugiferens
 :aj:fru_gi^fe^r	ens_adj
@@ -79488,7 +79610,7 @@ fu^ror#2
 :no:fu^r	or_oLris masc
 
 
-Fu^ror		<itype>personified</itype>
+Fu^ror	
 Furri_na		
 :le:Furrina
 :no:Furri_n	a_ae fem
@@ -79656,7 +79778,7 @@ fu_sus#3
 :no:fu_s	us_i masc
 
 
-futa_re		<itype>arguere est</itype>
+futa_re	
 fu_ta_tim		
 :le:futatim
 :wd:fu_ta_tim	adverb
@@ -79725,7 +79847,6 @@ fu^tu_trix
 
 
 G		<orth type=alt>g</orth>	<itype>indecl.</itype>	<gen>n.</gen>	<gen>f.</gen>
-G	<itype>is elided altogether, as in mulsi from mulgeo</itype>
 Ga^ba^li		
 :le:Gabali
 :no:Ga^ba^l	us_i masc pl
@@ -80033,7 +80154,7 @@ ga^le^a
 :no:ga^le^	a_ae fem
 
 
-galearia		<itype>a galearum similitudine dicta</itype>
+galearia	
 ga^le^a_ri^i		
 :le:galearii
 :no:ga^le^a_ri^	us_i masc pl
@@ -80453,7 +80574,7 @@ ganna^tu_ra		<orth type=alt>ganni^tu_ra</orth>
 :no:ganna^tu_r	a_ae fem
 
 
-ganni_ti^o		<itype>canum querula murmuratio</itype>
+ganni_ti^o	
 ganni_tus		
 :le:gannitus
 :no:ganni_t	us_us masc
@@ -80959,7 +81080,7 @@ ge^mi^ni
 :no:ge^mi^n	us_i masc pl
 
 
-Gemini		<itype>as a constellation</itype>
+Gemini	
 ge^mi^po_mus		
 :le:gemipomus
 :aj:ge^mi^po_m	us_a_um
@@ -81321,7 +81442,6 @@ ge^ni^us
 :no:ge^n	ius_i masc
 
 
-ge^no		<itype>e^re, old form of gigno</itype>
 gens		<itype>gentis</itype>	<gen>f.</gen>
 genti^a_na		
 :le:gentiana
@@ -81916,6 +82036,7 @@ gignentia
 :no:gignent	is_is neut pl
 
 
+gigno		<itype>ge^nu^i, ge^ni^tum</itype>
 gignenti^a		
 :le:gignentia
 :no:gignent	is_is neut pl
@@ -82174,12 +82295,7 @@ glandu^lo_sus
 :aj:glandu^lo_s	us_a_um
 
 
-glanis		<itype>is and i^dis</itype>
-glanus		
-:le:glanus
-:no:glan	us_i masc
-
-
+glanis		<orth>glanus</orth>	<itype>i</itype>	<gen>m.</gen>
 glans		<itype>glandis</itype>	<gen>f.</gen>
 gla_re^a		
 :le:glarea
@@ -82289,7 +82405,7 @@ gli_ra_ri^um
 
 
 glis		<itype>gli_ris</itype>	<gen>m.</gen>
-glisce^rae		<itype>mensae gliscentes, id est crescentes, per instructionem epularum scilicet</itype>
+glisce^rae	
 gli_somarga		<orth>glisso-</orth>	<orth>glysso-</orth>	
 :le:glisomarga
 :no:gli_somarg	a_ae fem
@@ -82322,7 +82438,7 @@ glo^bus
 :no:glo^b	us_i masc
 
 
-glo_cida_re		<orth>glutti_re</orth>	<itype>gallinarum proprium est, cum ovis incubiturae sunt</itype>
+glo_cida_re		<orth>glutti_re</orth>
 glo^me^ra_bi^lis		
 :le:glomerabilis
 :aj:glo^me^ra_bi^l	is_e
@@ -82507,7 +82623,6 @@ glu_ti^no_sus
 :aj:glu_ti^no_s	us_a_um
 
 
-glutio		<itype>i_re, the noise made by hens</itype>
 glu_to		<orth>glutto</orth>	
 :le:gluto
 :no:glu_t	o_oLnis masc
@@ -82572,7 +82687,7 @@ gnapha^li^on
 :no:gnapha^l	ios_i neut
 
 
-gnarigavit		<itype>significat apud Livium</itype>
+gnarigavit	
 gna_ri^tas		
 :le:gnaritas
 :no:gna_ri^	tas_tatis fem
@@ -82634,7 +82749,7 @@ Gni_pho
 :no:Gni_ph	o_oLnis masc
 
 
-gnitus		<orth>gnixus</orth>	<itype>a genibus prisci  dixerunt</itype>
+gnitus		<orth>gnixus</orth>
 gno_me		
 :le:gnome
 :no:gno_m	e_es fem
@@ -82844,7 +82959,7 @@ Gorgobi^na
 :no:Gorgobi^n	a_ae fem
 
 
-Gorgo^ni^do_ni^icampi		<itype>a name comically formed</itype>
+Gorgo^ni^do_ni^icampi	
 gorgo^ni^fer		
 :le:gorgonifer
 :no:gorgo^ni^f	er_ri masc
@@ -83456,7 +83571,7 @@ gra^phi^o^lum
 :no:gra^phi^o^l	us_i neut
 
 
-gra^phis		<itype>i^dis and i^dos</itype>	<gen>f.</gen>
+gra^phis		<itype>i^dos</itype>	<gen>f.</gen>
 gra^phi^um		
 :le:graphium
 :no:gra^ph	ius_i neut
@@ -83774,7 +83889,7 @@ gri^as
 :no:gri^	as_adis fem
 
 
-gricenea		<itype>funis crassus</itype>
+gricenea	
 Grinnes		
 :le:Grinnes
 :no:Grinn	is_is fem pl
@@ -83992,7 +84107,7 @@ gu^la
 :no:gu^l	a_ae fem
 
 
-gulliocae		<itype>nucum juglandium summa et viridia putamina</itype>
+gulliocae	
 gu^lo		
 :le:gulo
 :no:gu^l	o_oLnis masc
@@ -84676,7 +84791,7 @@ ha^gi^ogra^phus
 
 Halaesa		<orth type=alt>Halaesinus</orth>	<orth>Ha-laesus</orth>
 ha^la^go^ra		<itype>as</itype>	<gen>f.</gen>
-halapanta		<itype>significat omnia mentientem</itype>
+halapanta	
 ha_la_ti^o		
 :le:halatio
 :no:ha_la_ti^	o_oLnis fem
@@ -84747,11 +84862,11 @@ Ha^li^carnassus		<orth type=alt>-sos</orth>	<orth>Hali-carna_sus</orth>
 
 
 
-Ha^li^carnasseus		<itype>e^i and e^os</itype>	<gen>m.</gen>	
+Ha^li^carnasseus		
 :le:Halicarnasseus
-:no:Ha^li^carnasse	us_a_um masc
+:no:Ha^li^carnass	eus_ei masc
 
-
+	<pos>adj.</pos>
 Ha^li^carnassi^i		
 :le:Halicarnassii
 :no:Ha^li^carnassi^	us_i masc pl
@@ -84814,7 +84929,7 @@ halmyri^di^on
 
 
 halmyrrhax		<itype>a^gis</itype>	<gen>m.</gen>
-halonem		<itype>id est hesterno vino languentem</itype>
+halonem	
 ha^lo^phanta		
 :le:halophanta
 :no:ha^lo^phant	a_ae fem
@@ -84949,7 +85064,7 @@ Hammo_ni^a^-cum
 :no:Hammo_ni^a^-c	us_i neut
 
 
-ha_motra^ho_nes		<itype>alii piscatores, alii, qui unco cadavera trahunt</itype>
+ha_motra^ho_nes	
 ha_mu^la		
 :le:hamula
 :no:ha_mu^l	a_ae fem
@@ -84971,7 +85086,7 @@ Hanno		<orth type=alt>Anno</orth>
 :no:Hann	o_oLnis masc
 
 
-hanu^la		<itype>parva delubra, quasi fanula</itype>
+hanu^la	
 ha^pa^lopsis		
 :le:hapalopsis
 :no:ha^pa^lops	is_idis fem
@@ -85355,14 +85470,13 @@ Hate^ri^a_nus
 
 
 hau#1		<orth>au</orth>	<pos>interj.</pos>
-haud		<orth>haut</orth>	<orth>hau</orth>	<itype>before consonants</itype>	
+haud		<orth>haut</orth>	<orth>hau</orth>	
 :le:haud
 :wd:haud	adverb
 
 
-haud dum		<itype>or, as one word</itype>
-haud-dum		<itype>an intensive nondum</itype>
-haud qua_quam		<itype>or, as one word</itype>
+haud dum		<itype>or</itype>
+haud-dum		<orth>haud qua_quam</orth>	<itype>or</itype>
 haudqua_quam	
 hauri_to_ri^u^m		
 :le:hauritorium
@@ -85900,7 +86014,7 @@ He^lo_rus		<orth type=alt>El-</orth>
 
 
 He^lo_ri^a Tempe_		<orth>He^lo_ri_ni</orth>	<orth type=alt>El-</orth>
-helvacea		<itype>genus ornamenti Lydii, dictum a colore boum, qui est inter rufum et album appellaturque helvus</itype>
+helvacea	
 Helveco_nes		
 :le:Helvecones
 :no:Helveco_n	0_is masc pl
@@ -86509,12 +86623,7 @@ hercu^la_ri^a
 
 
 Hercu^les		<itype>is and i</itype>	<gen>m.</gen>
-hercu^les		<orth>hercu^le</orth>	<orth>hercle</orth>	<orth>me^-hercu^les</orth>	<orth type=alt>mehercu^le</orth>	<orth>me hercule</orth>	<orth>me^hercle</orth>	<itype>as an oath or asseveration</itype>
-Hercu^le^us		
-:le:Herculeus
-:aj:Hercu^le^	us_a_um
-
-
+hercu^les		<orth>hercu^le</orth>	<orth>hercle</orth>	<orth>me^-hercu^les</orth>	<orth type=alt>mehercu^le</orth>	<orth>me hercule</orth>	<orth>me^hercle</orth>	<orth>Hercu^le^us</orth>	<itype>a, um</itype>	<pos>adj.</pos>
 Hercu^la_-ne^us		
 :le:Herculaneus
 :aj:Hercu^la_-ne^	us_a_um
@@ -86607,7 +86716,7 @@ he_re_di^um
 :no:he_re_d	ius_i neut
 
 
-heremmarteam		<itype>antiqui accepta hereditate colebant, quae a nomine appellabatur heredum, et esse una ex Martis comitibus putabatur</itype>
+heremmarteam	
 He_renni^us		
 :le:Herennius
 :aj:He_renn	ius_ia_ium
@@ -87034,7 +87143,7 @@ Hetruscus
 :aj:Hetrusc	us_a_um
 
 
-hetta		<itype>res minimi pretii, quasi hieta</itype>
+hetta	
 hette_ma^ti^cus		
 :le:hettematicus
 :aj:hette_ma^ti^c	us_a_um
@@ -87263,9 +87372,7 @@ hibri^da		<orth>hybri^da</orth>	<orth type=alt>ibr-</orth>
 
 
 hi_c		<itype>haec, ho_c</itype>
-hi_ce, haece		<orth type=alt>ho_ce</orth>	<orth>Hoc est</orth>	<itype>serves to annex a more particular explanation of what has been said</itype>
-Hoc est		<orth>e^rat</orth>	<orth type=alt>quod</orth>	<itype>with the accessory idea of indignation or reproach</itype>
-ha_c		<orth>hi_c</orth>	<orth>heic</orth>	<orth>hicine</orth>	<orth>huc</orth>	<orth>hoc</orth>
+hi_ce, haece		<orth type=alt>ho_ce</orth>	<orth>Hoc est</orth>	<orth>Hoc est</orth>	<orth>e^rat</orth>	<orth type=alt>quod</orth>	<orth>ha_c</orth>	<orth>hi_c</orth>	<orth>heic</orth>	<orth>hicine</orth>	<orth>huc</orth>	<orth>hoc</orth>
 Hi^ce^ta_on		
 :le:Hicetaon
 :no:Hi^ce^ta_	oLn_onis masc
@@ -87481,7 +87588,7 @@ hi^la^ri^tu_do
 :no:hi^la^ri^tu_d	o_inis fem
 
 
-hilarodos		<itype>lascivi et delicati carminis cantator</itype>
+hilarodos	
 hi^la^ru^lus		
 :le:hilarulus
 :aj:hi^la^ru^l	us_a_um
@@ -87594,13 +87701,13 @@ ginnus
 :no:ginn	us_i masc
 
 
-hippaca_re		<itype>est celeriter animam ducere  ab equi halitu, qui est supra modum acutus</itype>
+hippaca_re	
 hippa^ce_		
 :le:hippace
 :no:hippa^c	e_es fem
 
 
-hippa_gi^nes		<itype>naves, quibus equi vehuntur</itype>
+hippa_gi^nes		<itype>naves</itype>
 hippa^go_gi		
 :le:hippagogi
 :no:hippa^go_g	us_i fem pl
@@ -87651,7 +87758,7 @@ Hippius#1
 :no:Hipp	ius_i masc
 
 
-Hippius		<itype>id est equester, Neptunus dictus est</itype>
+Hippius	
 Hippo		
 :le:Hippo
 :no:Hipp	o_oLnis masc
@@ -87692,7 +87799,7 @@ Hippo^co^on
 :no:Hippo^co^	on_ontis masc
 
 
-hippocoum		<itype>vinum ex insula Coo dictum ab agro generoso</itype>
+hippocoum	
 Hippocra^tes		
 :le:Hippocrates
 :aj:Hippocra^t	es_is masc
@@ -87949,7 +88056,7 @@ hirsu_tus
 
 
 hirticulus	
-hirtipili		<itype>durorum pilorum homines</itype>
+hirtipili	
 Hirti^us		
 :le:Hirtius
 :aj:Hirt	ius_ia_ium
@@ -88181,7 +88288,7 @@ ho^di^ernus
 :aj:ho^di^ern	us_a_um
 
 
-ho^doedo^cos		<itype>latro atque obsessor viarum</itype>
+ho^doedo^cos	
 ho^doepo^ri^con		
 :le:hodoeporicon
 :no:ho^doepo^ri^c	os_i neut
@@ -88293,7 +88400,7 @@ ho^luscu^lum
 :no:ho^luscu^l	us_i neut
 
 
-homeltium		<itype>pilei genus</itype>
+homeltium	
 Ho^me_ri^a^cus		<orth type=alt>Ho^me_ri^cus</orth>	<orth>Ho^me_rius</orth>	
 :le:Homeriacus
 :aj:Ho^me_ri^a^c	us_a_um
@@ -88488,7 +88595,7 @@ ho^nestum
 	<pos>adv.</pos>
 ho^-neste_	
 ho^nor		<orth>ho^nos</orth>	<itype>Haubold</itype>	<gen>n.</gen>	<gen>m.</gen>
-Ho^nor		<orth>Ho^nos</orth>	<itype>as a deity whose temple adjoined that of Virtus, and who was worshipped with uncovered head</itype>
+Ho^nor		<orth>Ho^nos</orth>
 ho^no_ra_bi^lis		
 :le:honorabilis
 :aj:ho^no_ra_bi^l	is_e
@@ -88638,7 +88745,7 @@ horconia
 :no:horconi	a_ae fem
 
 
-horctum		<orth>forctum</orth>	<itype>pro bono dicebant</itype>
+horctum		<orth>forctum</orth>
 horda		
 :le:horda
 :no:hord	a_ae fem
@@ -88821,11 +88928,7 @@ horri^dus
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 horri^de_	
-horri^fer		
-:le:horrifer
-:aj:horri^f	er_era_erum
-
-
+horri^fer		<itype>e^ra</itype>	<pos>adj.</pos>
 horri^fi^ca_bi^lis		
 :le:horrificabilis
 :aj:horri^fi^ca_bi^l	is_e
@@ -89066,7 +89169,7 @@ hosti^a_tus
 :aj:hosti^a_t	us_a_um
 
 
-hosticapas		<itype>hostium captor</itype>
+hosticapas	
 hosti^cus		
 :le:hosticus
 :aj:hosti^c	us_a_um
@@ -90292,7 +90395,7 @@ hystrix		<orth type=alt>histrix</orth>
 :no:hystr	ix_icis fem
 
 
-I		<orth type=alt>i</orth>	<itype>the ninth letter of the Latin alphabet</itype>
+I		<orth type=alt>i</orth>
 I^acchus		
 :le:Iacchus
 :no:I^acch	us_i masc
@@ -90569,7 +90672,11 @@ i^bi_dem
 :wd:i^bi_dem	adverb
 
 
-i_bis		<itype>is and i^dis</itype>	<gen>f.</gen>
+i_bis		
+:le:ibis
+:no:i_b	is_is fem
+
+
 I_by^cus		
 :le:Ibycus
 :no:I_by^c	us_i masc
@@ -90975,7 +91082,7 @@ igne^us
 :aj:igne^	us_a_um
 
 
-ignia		<itype>vitium vasorum fictilium</itype>
+ignia	
 igni^a_ri^us		
 :le:igniarius
 :aj:igni^a_r	ius_ia_ium
@@ -91421,7 +91528,7 @@ illapsus#2		<orth type=alt>inl-</orth>
 
 
 
-illa^que^a_tum		<orth type=alt>inl-</orth>	<itype>alii pro vincto utuntur, alii pro soluto</itype>
+illa^que^a_tum		<orth type=alt>inl-</orth>
 illa_ta_bi^lis		<orth type=alt>inl-</orth>	
 :le:illatabilis
 :aj:illa_ta_bi^l	is_e
@@ -91748,7 +91855,7 @@ illo^-ca_li^ter
 :le:illocaliter
 :wd:illo^-ca_li^ter		adverb
 
-illorsum		<itype>et aliorsum sicut introrsum dixit Cato</itype>
+illorsum	
 illo_tus		<orth>inl-</orth>	<orth type=alt>illautus</orth>	<orth>illu_tus</orth>	
 :le:illotus
 :aj:illo_t	us_a_um
@@ -92077,7 +92184,7 @@ imbalni^ti^es
 :no:imbalni^ti^	es_ei fem
 
 
-imbarbesce^re		<itype>barbatum fieri</itype>
+imbarbesce^re	
 imbe_cillis		<orth type=alt>inb-</orth>	
 :le:imbecillis
 :aj:imbe_cill	is_e
@@ -92205,7 +92312,7 @@ Imbros		<orth>Imbrus</orth>
 
 
 imbru_ma_ri		<itype>dicuntur</itype>
-imburvum		<itype>fictum ab urvo, quod ita flexum ut redeat sursum vorsus, ut in aratro quod est urvum</itype>
+imburvum	
 imbu_ta_mentum		
 :le:imbutamentum
 :no:imbu_ta_ment	us_i neut
@@ -92661,7 +92768,10 @@ immo_li_tus		<orth type=alt>inm-</orth>
 
 
 
-immo^ranter		<itype>incunctanter</itype>
+immo^ranter	
+:le:immoranter
+:wd:immo^ranter		adverb
+
 immorta_lis		<orth type=alt>inm-</orth>	
 :le:immortalis
 :aj:immorta_l	is_e
@@ -92910,7 +93020,7 @@ imparcenter
 :wd:imparcenter	adverb
 
 
-impa_rentem		<itype>non parentem hoc est obedientem</itype>
+impa_rentem	
 impa^ri^lis		<orth type=alt>inp-</orth>	
 :le:imparilis
 :aj:impa^ri^l	is_e
@@ -93096,8 +93206,8 @@ impe^ne^tra_bi^lis		<orth type=alt>inp-</orth>
 
 
 
-impe^ne^tra_le		<itype>cujus ultimum penetrale intrare non licet</itype>
-impenna_tae		<itype>agnae, in Saliari carmine spicas significat sine aristis</itype>
+impe^ne^tra_le	
+impenna_tae		<itype>agnae</itype>
 impensa		<orth type=alt>inp-</orth>	
 :le:impensa
 :no:impens	a_ae fem
@@ -93787,7 +93897,7 @@ impollu_tus		<orth type=alt>inp-</orth>
 
 
 
-impo_menta		<itype>quasi imponimenta, quae post cenam mensis imponebant</itype>
+impo_menta	
 Imporci^tor		<orth type=alt>Inp-</orth>	
 :le:Imporcitor
 :no:Imporci^t	or_oLris masc
@@ -94156,8 +94266,8 @@ impro^fessus		<orth type=alt>inpr-</orth>
 
 
 
-impro_les		<itype>est qui nondum vir est</itype>
-impro_lus		<orth>impro_lis</orth>	<itype>qui nondum esset ascriptus in civitate</itype>
+impro_les	
+impro_lus		<orth>impro_lis</orth>
 impro_miscu^s		<orth type=alt>inpr-</orth>	
 :le:impromiscus
 :aj:impro_misc	us_a_um
@@ -94364,7 +94474,7 @@ impu^denti^a		<orth type=alt>inp-</orth>
 
 
 
-impu^di_ca_tus		<itype>stupratus, impudicus factus</itype>
+impu^di_ca_tus		<itype>stupratus</itype>
 impu^di_ce_		<orth type=alt>inp-</orth>	
 :le:impudice
 :wd:impu^di_ce_	adverb
@@ -94882,7 +94992,7 @@ i^n-a^ra_tus
 :aj:i^n-a^ra_t	us_a_um
 
 
-inarcu^lum		<itype>virgula erat ex malo Punico incurvata, quam regina sacrificans in capite gestabat</itype>
+inarcu^lum	
 i^n-a_re^factus		
 :le:inarefactus
 :aj:i^n-a_re^fact	us_a_um
@@ -95068,7 +95178,7 @@ in-caedu^us		<orth>inci_du^us</orth>
 
 incaela_tus	
 inca^lanto		<itype>invocanto</itype>
-inca^la_ti^o_nes		<itype>invocationes</itype>
+inca^la_ti^o_nes	
 inca^la_ti_ve		<itype>vocative</itype>
 in-calca_tus		
 :le:incalcatus
@@ -95154,7 +95264,7 @@ in-cautus
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 in-caute_	
-inca^villa_ti^o		<itype>per despectum irrisio</itype>
+inca^villa_ti^o	
 ince_la_tus	
 in-ce^le^ber		<itype>bris, bre</itype>	<pos>adj.</pos>
 in-ce^lebra_tus		
@@ -95362,7 +95472,7 @@ inci^ne^factus
 :aj:inci^ne^fact	us_a_um
 
 
-inci^ne^ra_ri^um		<itype>muliebre ministerium</itype>
+inci^ne^ra_ri^um	
 incingu^lum		
 :le:incingulum
 :no:incingu^l	us_i neut
@@ -95435,7 +95545,7 @@ inci^ta_tus#2
 :no:inci^ta_t	us_us masc
 
 
-inci^te_ga		<itype>machinula, in qua constituebatur in convivio vini amphora, de qua subinde deferrentur vina</itype>
+inci^te_ga		<itype>machinula</itype>
 inci^ta_te_	
 in-ci^tus#1		
 :le:incitus#1
@@ -95706,7 +95816,7 @@ in-co^mi^ta_tus
 :aj:in-co^mi^ta_t	us_a_um
 
 
-inco^mi^tem		<itype>sine comite</itype>
+inco^mi^tem	
 incomi^um		
 :le:incomium
 :no:incom	ius_i neut
@@ -96477,7 +96587,7 @@ incre^-pi^tus
 :aj:incre^-pi^t	us_a_um
 
 
-incre^pundia		<itype>for usual crepundia</itype>
+incre^pundia	
 in-cre_tus#2		
 :le:incretus#2
 :aj:in-cre_t	us_a_um
@@ -98074,7 +98184,7 @@ i^n-e^qui^ta_bi^lis
 :aj:i^n-e^qui^ta_bi^l	is_e
 
 
-i^nermat		<itype>armis spoliat</itype>
+i^nermat	
 i^n-ermis		
 :le:inermis
 :aj:i^n-erm	is_e
@@ -98473,7 +98583,7 @@ in-fa^ce_tus		<orth type=alt>infi^c-</orth>
 
 
 infa^ce_te_		<orth type=alt>infi^c-</orth>
-infactus		<itype>for infectus</itype>
+infactus	
 infa_cundi^a		
 :le:infacundia
 :no:infa_cundi^	a_ae fem
@@ -101376,7 +101486,7 @@ in-spe_ra_tus
 
 
 inspe_ra_te_		<orth>inspe_ra_to_</orth>
-inspergo		<itype>spersi, spersum</itype>
+inspergo		<itype>spersi</itype>
 inspersi^o		
 :le:inspersio
 :no:inspersi^	o_oLnis fem
@@ -101935,7 +102045,7 @@ inte^gellus
 :aj:inte^gell	us_a_um
 
 
-inte^ger		<itype>te_^gra, te_^grum</itype>	<pos>adj.</pos>	
+inte^ger		<itype>te_^gra</itype>	<pos>adj.</pos>	
 :le:integer
 :wd:inte^ger	adverb
 
@@ -103043,6 +103153,7 @@ interpunctum
 :no:interpunct	us_i neut
 
 
+inter-que^ror	
 interra_si^lis		
 :le:interrasilis
 :aj:interra_si^l	is_e
@@ -103477,7 +103588,7 @@ in-to^le^randus
 :aj:in-to^le^rand	us_a_um
 
 
-into^le^randum		<itype>adverbially</itype>
+into^le^randum	
 in-to^le^rans		<itype>antis</itype>	<pos>adj.</pos>
 into^le^ranter	
 :le:intoleranter
@@ -104391,10 +104502,9 @@ I_o_ni^us
 :le:Ionius
 :aj:I_o_n	ius_ia_ium
 
-	<orth type=alt>poet. aequor</orth>	<itype>or Ionii fluctus</itype>
-Ionium		
-:le:Ionium
-:no:Ioni	us_i neut
+	<orth type=alt>poet. aequor</orth>	<orth>Ionium</orth>	
+:le:Ionius
+:no:I_o_n	ius_i neut
 
 
 I^o_ni^a		
@@ -104500,8 +104610,8 @@ I_phi^ti^des
 Iprasturgi	
 ipse		<orth>ipsus</orth>
 ipsi^pli^ces	
-ipsippe		<itype>ipsi neque alii</itype>
-ipsullices		<itype>bracteae in virilem muliebremque speciem expressae</itype>
+ipsippe	
+ipsullices	
 i_ra		
 :le:ira
 :no:i_r	a_ae fem
@@ -104535,7 +104645,7 @@ i_rasci^ti_vus
 
 i_rascor		<itype>i_ra_tus</itype>
 i_ra_te_	
-ircei		<itype>genus farciminis in sacrificiis</itype>
+ircei	
 i_re_na_ce^us		
 :le:irenaceus
 :no:i_re_na_ce^	us_i masc
@@ -105722,7 +105832,7 @@ i^tem
 :wd:i^tem	adverb
 
 
-i^ter		<itype>i^ti^ne^ris</itype>	<gen>n.</gen>
+i^ter		<gen>n.</gen>
 i^te^ra_bi^lis		
 :le:iterabilis
 :aj:i^te^ra_bi^l	is_e
@@ -105846,11 +105956,10 @@ Ito_nus
 :no:Ito_n	us_i masc
 
 
-Ito-nida		<orth>Ito_nis</orth>	<itype>Minerva a loco sic appeliata</itype>
-I^to_naei		<orth type=alt>Itho_n-</orth>	
-:le:Itonaei
-:no:I^to_nae	us_i masc pl
-:no:Itho_nae	us_i masc pl orth
+Ito-nida		<orth>Ito_nis</orth>	<orth>I^to_naei</orth>	<orth type=alt>Itho_n-</orth>	
+:le:Itonida
+:no:Ito-nid	us_i masc pl
+:no:Itho_nid	us_i masc pl orth
 
 
 
@@ -105888,7 +105997,7 @@ I^ty^lus
 :no:I^ty^l	us_i masc
 
 
-I^tys		<itype>Ity^os, Ity^n or Ity^m</itype>	<gen>m.</gen>
+I^tys		<itype>Ity^os</itype>	<itype>Ity^m</itype>	<gen>m.</gen>
 i^u_lis#1		
 :le:iulis#1
 :no:i^u_l	is_idis fem
@@ -105950,7 +106059,7 @@ Izi
 :no:Iz	us_i masc pl
 
 
-J		<orth type=alt>j</orth>	<itype>a consonant which</itype>	<itype>at the beginning of syllables, as jus, injuria, ejectus</itype>
+J		<orth type=alt>j</orth>
 Ja^bo^le_nus		<orth type=alt>Javol-</orth>	
 :le:Jabolenus
 :no:Ja^bo^le_n	us_i masc
@@ -106029,7 +106138,7 @@ jactu_ra
 
 
 jactu_ra_lis	
-jactu_ra_ri^us		<itype>qui frequenter jacturam patitur</itype>
+jactu_ra_ri^us	
 jactus#2		
 :le:jactus#2
 :no:jact	us_us masc
@@ -106075,7 +106184,7 @@ ja^cu^la_tus
 :no:ja^cu^la_t	us_us masc
 
 
-ja^cu^lo		<itype>active form of the following</itype>
+ja^cu^lo	
 ja^cu^lum		
 :le:jaculum
 :no:ja^cu^l	us_i neut
@@ -106093,7 +106202,7 @@ jam
 
 
 jam-du_dum	
-jam-jam		<itype>the strengthened jam</itype>
+jam-jam	
 jam-jamque^	
 jam-pri_dem		<orth>jam pri_-dem</orth>
 Jana		
@@ -106910,7 +107019,7 @@ ju_ra_to_ri^us
 :aj:ju_ra_to_r	ius_ia_ium
 
 
-jurga_ti^o		<itype>juris actio</itype>
+jurga_ti^o	
 jurga_to_ri^us		
 :le:jurgatorius
 :aj:jurga_to_r	ius_ia_ium
@@ -107020,8 +107129,12 @@ juscu^lum
 :no:juscu^l	us_i neut
 
 
-jus-ju_randum		<itype>jurisjurandi</itype>	<gen>n.</gen>
-jusqui^a^mus		<itype>for hyoscyamus</itype>
+jus-ju_randum		
+:le:jusjurandum
+:no:jus-ju_rand	us_i neut
+
+
+jusqui^a^mus	
 jussi^o		
 :le:jussio
 :no:jussi^	o_oLnis fem
@@ -107365,7 +107478,8 @@ la_be_cu^la
 :no:la_be_cu^l	a_ae fem
 
 
-la^be^fi_o		<itype>factus, fieri</itype>
+la^be^fa^ci^o		<itype>fe_ci</itype>
+la^be^fi_o		<itype>factus</itype>
 la^be^facta_ti^o		
 :le:labefactatio
 :no:la^be^facta_ti^	o_oLnis fem
@@ -107739,7 +107853,7 @@ La^che^sis
 :no:La^che^s	is_is fem
 
 
-lachri^ma		<itype>an old form for lacrima</itype>
+lachri^ma	
 La^ci^a^des		
 :le:Laciades
 :no:La^ci^a^d	es_ae masc
@@ -107826,10 +107940,11 @@ la^co^to^mus
 :no:la^co^to^m	us_i fem
 
 
-la_^cri^ma		<orth>lacru^ma</orth>	<itype>not lacry^ma</itype>
-dacri^ma		
-:le:dacrima
-:no:dacri^m	a_ae fem
+la_^cri^ma		<orth>lacru^ma</orth>	<orth>dacri^ma</orth>	
+:le:lacrima
+:no:la_^cri^m	a_ae fem
+:no:dacri^m	a_ae fem orth
+
 
 
 la^cri^ma_bi^lis		<orth type=alt>lacru^m-</orth>	
@@ -108111,7 +108226,7 @@ Laeca
 :no:Laec	a_ae masc
 
 
-laecasin		<itype>an imprecation</itype>
+laecasin	
 Laelaps		<itype>a^pis</itype>	<gen>m.</gen>
 Laeli^us		
 :le:Laelius
@@ -108396,7 +108511,7 @@ la_i^cus
 :no:la_i^c	us_i masc
 
 
-La_i+s		<itype>i^dis and i^dos</itype>	<gen>f.</gen>
+La_i+s		<itype>i^dos</itype>	<gen>f.</gen>
 La_i^us		<orth>Lajus</orth>	
 :le:Laius
 :no:La_	ius_i masc
@@ -108751,7 +108866,7 @@ lancu^la		<orth>langu^la</orth>
 
 
 landica	
-lanerum		<itype>vestimenti genus ex lana sucida confectum</itype>
+lanerum	
 la_nestris		
 :le:lanestris
 :aj:la_nestr	is_e
@@ -108982,7 +109097,7 @@ La_ni^vi_nus
 La_ni^vi^-um	
 lannae	
 la_no	
-la_no^cu^lus		<itype>qui lana tegit oculi vitium</itype>
+la_no^cu^lus	
 la_no_si^tas		
 :le:lanositas
 :no:la_no_si^	tas_tatis fem
@@ -110050,8 +110165,8 @@ La_to^i^dae
 :no:La_to^i^d	a_ae fem pl
 
 
-La_to_i^s		<orth type=alt>Le_to_is</orth>	<itype>i^dis or i^dos</itype>	<gen>f.</gen>	<pos>adj.</pos>
-La_to_is		<itype>i^dis or i^dos</itype>	<gen>f.</gen>
+La_to_i^s		<orth type=alt>Le_to_is</orth>	<itype>i^dos</itype>	<gen>f.</gen>	<pos>adj.</pos>
+La_to_is		<itype>i^dos</itype>	<gen>f.</gen>
 la_tor		
 :le:lator
 :no:la_t	or_oLris masc
@@ -110373,7 +110488,7 @@ Lauro^la_vi_ni^um
 :no:Lauro^la_vi_ni^	us_i neut
 
 
-Laurens La_vi_na_ris		<itype>Laurentis Lavinaris</itype>	<gen>m.</gen>
+Laurens La_vi_na_ris		<itype>Lavinaris</itype>	<gen>m.</gen>
 Lauro_n		
 :le:Lauron
 :no:Laur	oLn_oLnis fem
@@ -110475,7 +110590,7 @@ La^verna_lis
 :aj:La^verna_l	is_e
 
 
-la^verni^o_nes		<itype>fures antiqui dicebant, quod sub tutela deae Lavernae essent, in cujus luco obscuro abditoque solitos furta praedamque inter se luere</itype>
+la^verni^o_nes	
 La^verni^um		
 :le:Lavernium
 :no:La^vern	ius_i neut
@@ -111563,7 +111678,7 @@ le^puscu^lus
 :no:le^puscu^l	us_i masc
 
 
-leri^a		<itype>ornamenta tunicarum aurea</itype>
+leri^a	
 Lerna		
 :le:Lerna
 :no:Lern	a_ae fem
@@ -112365,11 +112480,11 @@ Li^benti_na		<orth type=alt>Lu^b-</orth>
 
 
 
-liber#1		
+liber#1		<itype>e^ra</itype>	<pos>adj.</pos>	
 :le:liber#1
-:aj:lib	er_era_erum
+:wd:liber	adverb
 
-	<pos>adv.</pos>
+
 li_be^re_	
 li_ber#2		
 :le:liber#2
@@ -112655,7 +112770,7 @@ li_bri_le
 :no:li_bri_l	is_is neut
 
 
-librilla		<itype>appellantur instrumenta bellica saxa scilicet ad bracchii crassitudinem in modum flagellorum loris revincta</itype>
+librilla	
 li_bri^pens		<itype>pendis</itype>	<gen>m.</gen>
 li_bra_te_	
 Libs		<orth type=alt>Lips</orth>	<itype>i^bis</itype>	<pos>adj.</pos>
@@ -112721,8 +112836,7 @@ Li^by^ci
 :no:Li^by^c	us_i masc pl
 
 
-Li^bys		<itype>y^os and ys</itype>
-Libs		<itype>i^bis</itype>	<pos>adj.</pos>	<pos>Subst.</pos>
+Li^bys		<orth>Libs</orth>	<itype>i^bis</itype>	<pos>adj.</pos>	<pos>Subst.</pos>
 Li^bys		
 :le:Libys
 :no:Li^b	ys_yos masc
@@ -113270,7 +113384,7 @@ li_mi^na_ris
 :aj:li_mi^na_r	is_e
 
 
-li^mi^ni^um		<itype>a lengthened form of limen, assumed as accounting for the form postliminium</itype>
+li^mi^ni^um	
 li_mita_ne^us		
 :le:limitaneus
 :aj:li_mita_ne^	us_a_um
@@ -113633,7 +113747,11 @@ li^nostro^phon
 :no:li^nostro^ph	os_i neut
 
 
-li^nozo_stis		<itype>is and i^dis</itype>	<gen>f.</gen>
+li^nozo_stis		
+:le:linozostis
+:no:li^nozo_st	is_idis fem
+
+
 linte^a_men		
 :le:linteamen
 :no:linte^a_	men_minis neut
@@ -114773,7 +114891,7 @@ longi^ti^a		<orth type=alt>longi^ci^a</orth>
 :no:longi^ti^	a_ae fem
 
 
-longi^trorsus		<itype>sic dicitur, sicut dextrorsus, sinistrorsus</itype>
+longi^trorsus	
 longi^tu_do		
 :le:longitudo
 :no:longi^tu_d	o_inis fem
@@ -115293,7 +115411,7 @@ Lu_ci^us#1
 :no:Lu_c	ius_i masc
 
 
-Lu_cia		<orth>Lucipor</orth>	<itype>for Lucii puer</itype>
+Lu_cia		<orth>Lucipor</orth>
 lu_ci^us#2		
 :le:lucius#2
 :no:lu_c	ius_i masc
@@ -115909,7 +116027,11 @@ Lu^perca_lis
 :aj:Lu^perca_l	is_e
 
 
-Lu^perca_li^a		<itype>i^um and o_rum</itype>	<gen>n.</gen>
+Lu^perca_li^a		
+:le:Lupercalia
+:no:Lu^perca_li^	us_i neut pl
+
+
 Lu^percus		
 :le:Lupercus
 :no:Lu^perc	us_i masc
@@ -116989,7 +117111,7 @@ lytta
 :no:lytt	a_ae fem
 
 
-M		<orth type=alt>m</orth>	<itype>the twelfth letter of the Latin alphabet</itype>
+M		<orth type=alt>m</orth>
 Macae#1		
 :le:Macae#1
 :no:Mac	a_ae masc pl
@@ -117006,7 +117128,11 @@ macaerinthe_
 :no:macaerinth	e_es fem
 
 
-Ma^ca^reus		<orth type=alt>trisyl.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+Ma^ca^reus		<orth type=alt>trisyl.</orth>	
+:le:Macareus
+:no:Ma^ca^r	eus_ei masc
+
+
 Ma^ca^re_i+s		
 :le:Macareis
 :no:Ma^ca^re_	is_idis fem
@@ -117450,7 +117576,7 @@ Madaurensis
 :no:Madaurens	is_is masc
 
 
-ma^de^fi_o		<itype>factus, fi^e^ri</itype>
+ma^de^fi_o		<itype>factus</itype>
 Madena		
 :le:Madena
 :no:Maden	a_ae fem
@@ -117719,8 +117845,8 @@ maeror		<orth type=alt>moer-</orth>
 
 
 Maesi^aSilva		<orth>Messi^a Silva</orth>
-maesius		<itype>lingua_ Osca_</itype>
-Maeson		<itype>persona comica ab inventore dicta</itype>
+maesius	
+Maeson	
 maeste_		<orth type=alt>moeste_</orth>	
 :le:maeste
 :wd:maeste_	adverb
@@ -118802,7 +118928,7 @@ mamphu_la
 :no:mamphu_l	a_ae fem
 
 
-mamphur		<itype>appellatur loro circumvolutum mediocris longitudinis lignum rotundum, quod circumagunt fabri in operibus tornandis</itype>
+mamphur	
 Ma_mu_^ri^us		
 :le:Mamurius
 :no:Ma_mu_^r	ius_i masc
@@ -118813,10 +118939,11 @@ Ma_murra
 :no:Ma_murr	a_ae masc
 
 
-Ma_na#1		<itype>also Genita Mana</itype>
-Ma-nua_na		
-:le:Manuana
-:no:Ma-nua_n	a_ae fem
+Ma_na#1		<orth>Ma-nua_na</orth>	
+:le:Mana#1
+:no:Ma_n	a_ae fem
+:no:Ma-nua_n	a_ae fem orth
+
 
 
 mana#2		
@@ -119010,6 +119137,7 @@ mandu_ca_tor
 :no:mandu_ca_t	or_oLris masc
 
 
+mandu_co#1		<itype>a_vi</itype>
 mandu_co#2		
 :le:manduco#2
 :no:mandu_c	o_oLnis masc
@@ -119295,7 +119423,7 @@ manso_ri^us
 :aj:manso_r	ius_ia_ium
 
 
-mansu^e_fi_o		<itype>factus, fie^ri</itype>
+mansu^e_fi_o		<itype>factus</itype>
 mansu^e_facti^o		
 :le:mansuefactio
 :no:mansu^e_facti^	o_oLnis fem
@@ -119371,7 +119499,7 @@ manti^cu^la_ri^us
 :no:manti^cu^la_r	ius_i masc
 
 
-manti^cu^la_ti^o		<itype>fallacia vel lenocinium</itype>
+manti^cu^la_ti^o	
 manti^cu^la_tor		
 :le:manticulator
 :no:manti^cu^la_t	or_oLris masc
@@ -120287,7 +120415,7 @@ Marsigni
 :no:Marsign	us_i masc pl
 
 
-Marspedis		<itype>sive sine r littera maspedis  in precatione solitaurilium quid significet, ne Messalla quidem augur in explanatione auguriorum reperire se potuis se ait</itype>
+Marspedis	
 marsu_pi^um		<orth type=alt>-suppium</orth>	
 :le:marsupium
 :no:marsu_p	ius_i neut
@@ -120665,7 +120793,7 @@ masturba_tor
 :no:masturba_t	or_oLris masc
 
 
-masuci^um		<itype>edacem a mandendo scilicet</itype>
+masuci^um	
 ma^tella		<orth>ma^te_la</orth>	
 :le:matella
 :no:ma^tell	a_ae fem
@@ -120961,7 +121089,7 @@ Matti^a^ci
 :no:Matti^a^c	us_i masc pl
 
 
-Mattici		<itype>cognominantur homines malarum magnarum atque oribus late patentibus</itype>
+Mattici	
 matti^o^co^pa		
 :le:mattiocopa
 :no:matti^o^co^p	a_ae masc
@@ -121878,7 +122006,7 @@ Me^ga^-lensis		<orth type=alt>Me^ga^le_sis</orth>
 :aj:Me^ga^-lens	is_e
 
 
-Me^ga^lensia		<itype>or, in the archaic form</itype>
+Me^ga^lensia		<itype>or</itype>
 Me^ga^le_sia		
 :le:Megalesia
 :no:Me^ga^le_s	is_is neut pl
@@ -122186,7 +122314,11 @@ me_la^pi^um
 :no:me_la^p	ius_i neut
 
 
-Me^las#1		<itype>a^nis and ae</itype>	<gen>m.</gen>
+Me^las#1		
+:le:Melas#1
+:no:Me^l	as_ae masc
+
+
 me^las#2		<itype>a^nos</itype>
 me^laspermon		
 :le:melaspermon
@@ -122971,7 +123103,7 @@ me^mo^randus
 :aj:me^mo^rand	us_a_um
 
 
-Memphis		<itype>is and i^dos</itype>	<gen>f.</gen>
+Memphis		<itype>i^dos</itype>	<gen>f.</gen>
 Memphi_tes		
 :le:Memphites
 :no:Memphi_t	es_ae masc
@@ -123160,7 +123292,7 @@ mendi_cu^lus
 :aj:mendi_cu^l	us_a_um
 
 
-mendicum		<itype>velum quod in prora ponitur</itype>
+mendicum	
 mendi_cus		
 :le:mendicus
 :aj:mendi_c	us_a_um
@@ -123213,7 +123345,7 @@ Me^ne^la_e_us
 :aj:Me^ne^la_e_	us_a_um
 
 
-Menela_is		<itype>i^dis and i^dos</itype>	<gen>f.</gen>
+Menela_is		<itype>i^dos</itype>	<gen>f.</gen>
 Me^ne^la_ites	
 Me^ne^lai^us		
 :le:Menelaius
@@ -123288,7 +123420,11 @@ mennoni^a
 :no:mennoni^	a_ae fem
 
 
-Me^noeceus		<itype>e^i and e^os</itype>	<gen>m.</gen>
+Me^noeceus		
+:le:Menoeceus
+:no:Me^noec	eus_ei masc
+
+
 Me^noece^us		<itype>a um</itype>
 Me^noetes		<itype>is</itype>	<itype>en</itype>	<gen>m.</gen>
 Me^noeti^us		
@@ -123652,7 +123788,7 @@ merce_da_ri^us
 :no:merce_da_r	ius_i masc
 
 
-merce_ditu^um		<itype>mercenarium, quod mercede se tueatur</itype>
+merce_ditu^um	
 merce_du^la		
 :le:mercedula
 :no:merce_du^l	a_ae fem
@@ -124241,7 +124377,7 @@ Mestria_nus
 :no:Mestria_n	us_i masc
 
 
-met		<itype>a pronominal suffix attached to substantive and</itype>
+met	
 me_ta		
 :le:meta
 :no:me_t	a_ae fem
@@ -124634,7 +124770,11 @@ me^to_posco^pus		<orth>-os</orth>
 :no:me^to_posco^p	us_i masc
 
 
-me^tops		<itype>o^pis, for metopion</itype>
+me^tops		
+:le:metops
+:aj:me^top	s_e
+
+
 me^tre_ta		
 :le:metreta
 :no:me^tre_t	a_ae fem
@@ -125410,8 +125550,8 @@ minctus
 :no:minct	us_us masc
 
 
-minerri^mus		<itype>pro minimo dixerunt</itype>
-Mi^nerva		<orth>Menerva</orth>	<itype>like magester, leber</itype>	
+minerri^mus	
+Mi^nerva		<orth>Menerva</orth>	
 :le:Minerva
 :no:Mi^nerv	a_ae fem
 :no:Menerv	a_ae fem orth
@@ -125504,7 +125644,7 @@ Mi^ni^o#2
 :no:Mi^ni^	o_oLnis masc
 
 
-mi^nisci^tur		<itype>pro reminiscitur antiquitus dicebatur</itype>
+mi^nisci^tur	
 mi^nister		
 :le:minister
 :aj:mi^nist	er_ra_rum
@@ -125685,7 +125825,7 @@ mi^nu_tum
 
 	<pos>adv.</pos>
 mi^nu_te_		<orth>mi^nu_tim</orth>
-mi^nurri_ti^o_nes		<itype>appellantur avium minorum cantus</itype>
+mi^nurri_ti^o_nes	
 mi^nus#1	
 mi^nuscu^la_ri^us		
 :le:minuscularius
@@ -125814,7 +125954,7 @@ mi_ra_bundus
 :aj:mi_ra_bund	us_a_um
 
 
-miracidi^on		<itype>primae adulescentiae</itype>
+miracidi^on	
 mi_ra_cu^la		
 :le:miracula
 :no:mi_ra_cu^l	a_ae fem
@@ -125915,7 +126055,7 @@ miscella_ne^a
 :no:miscella_ne^	us_i neut pl
 
 
-miscelli^o_nes		<itype>appellantur, qui non certae sunt sententiae, sed variorum mixtorumque judiciorum sunt</itype>
+miscelli^o_nes	
 miscellus		<orth>miscillus</orth>	
 :le:miscellus
 :aj:miscell	us_a_um
@@ -126088,7 +126228,7 @@ missa
 :no:miss	a_ae fem
 
 
-mi^ssi^bi^lia		<itype>i^um, for missilia</itype>
+mi^ssi^bi^lia		<itype>i^um</itype>
 missi_ci^us		<orth>-ti^us</orth>	
 :le:missicius
 :aj:missi_c	ius_ia_ium
@@ -126358,7 +126498,11 @@ Mne_ster#2
 :no:Mne_st	eLr_eLis masc
 
 
-Mnestheus		<orth type=alt>dissyl.</orth>	<itype>e^i and e^o_s</itype>	<gen>m.</gen>
+Mnestheus		<orth type=alt>dissyl.</orth>	
+:le:Mnestheus
+:no:Mnesth	eus_ei masc
+
+
 Mne_vis		
 :le:Mnevis
 :no:Mne_v	is_idis masc
@@ -127809,7 +127953,7 @@ morbus
 :no:morb	us_i masc
 
 
-Morbus		<itype>personified as a deity</itype>
+Morbus	
 morda_ci^tas		
 :le:mordacitas
 :no:morda_ci^	tas_tatis fem
@@ -127969,7 +128113,11 @@ mo^ro_sus#2
 :aj:mo^ro_s	us_a_um
 
 
-Morpheus		<itype>e^i and e^os</itype>	<gen>m.</gen>
+Morpheus		
+:le:Morpheus
+:no:Morph	eus_ei masc
+
+
 morphnos		
 :le:morphnos
 :no:morphn	os_i masc
@@ -128395,7 +128543,7 @@ mufrius
 :no:mufr	ius_i masc
 
 
-muger		<itype>dici solet a Castrensium hominibus, quasi mucosus, is, qui talis male ludit</itype>
+muger	
 mu_gil		<orth>mu_gi^lis</orth>	<itype>is</itype>	<gen>m.</gen>
 Mugilla_nus		
 :le:Mugillanus
@@ -128461,7 +128609,7 @@ mulce_tra
 :no:mulce_tr	a_ae fem
 
 
-Mulci^ber		<itype>e_ris and e^ri</itype>	<gen>m.</gen>
+Mulci^ber		<gen>m.</gen>
 mulctra		
 :le:mulctra
 :no:mulctr	a_ae fem
@@ -129237,7 +129385,7 @@ mu_ni^a		<orth>moenia</orth>
 
 
 
-mu_ni^ca		<itype>pro communicas dicebant</itype>
+mu_ni^ca	
 mu_ni^-ceps		<itype>i^pis</itype>	<gen>comm.</gen>
 mu_ni^-ci^pa_lis		
 :le:municipalis
@@ -129309,7 +129457,7 @@ mu_ni_men
 :no:mu_ni_	men_minis neut
 
 
-mu_ni_mentum		<orth>moen-</orth>	<itype>archaic form</itype>	
+mu_ni_mentum		<orth>moen-</orth>	
 :le:munimentum
 :no:mu_ni_ment	us_i neut
 :no:moeni_ment	us_i neut orth
@@ -129771,7 +129919,7 @@ muscu^lo_sus
 :aj:muscu^lo_s	us_a_um
 
 
-Musclo_sus		<itype>for Musculosus</itype>
+Musclo_sus	
 muscu^lus		
 :le:musculus
 :no:muscu^l	us_i masc
@@ -130948,7 +131096,7 @@ myxum
 :no:myx	us_i neut
 
 
-N		<orth type=alt>n</orth>	<itype>had its full</itype>
+N		<orth type=alt>n</orth>
 Na^ba^taea		<orth type=alt>Na^ba^thaea</orth>	
 :le:Nabataea
 :no:Na^ba^tae	a_ae fem
@@ -131051,7 +131199,11 @@ Na_i^a^s
 :no:Na_i^	as_adis fem
 
 
-Na_i^s		<itype>i^dis and i^dos</itype>	<gen>f.</gen>
+Na_i^s		
+:le:Nais
+:no:Na_	is_is fem
+
+
 Na_i^cus		
 :le:Naicus
 :aj:Na_i^c	us_a_um
@@ -131081,7 +131233,7 @@ Nana#2
 :no:Nan	a_ae fem
 
 
-nanciscor		<itype>nactus and nanctus</itype>
+nanciscor	
 Nanis		
 :le:Nanis
 :no:Nan	is_idis fem
@@ -132423,8 +132575,7 @@ necne^
 :wd:necne^	adverb
 
 
-nec-non		<itype>also separately</itype>
-nec non		<orth>ne^que^ non</orth>
+nec-non		<orth>nec non</orth>	<orth>ne^que^ non</orth>
 ne^c-o^pi_nans		<orth>ne^c o^pi_nans</orth>	<itype>antis</itype>	
 :le:necopinans
 :wd:ne^c-o^pi_nans	adverb
@@ -132503,7 +132654,7 @@ ne^cu^bi
 
 
 ne^c-unde	
-ne^cunquem		<itype>necumquam quemquam</itype>
+ne^cunquem	
 ne^c-u^ter		
 :le:necuter
 :aj:ne^c-u^t	er_ra_rum
@@ -132564,7 +132715,7 @@ ne^fastum
 :no:ne^fast	us_i neut
 
 
-ne_^frendi^ti^um		<itype>annuale tributum, quod certo tempore rustici dominis, vel discipuli doctoribus afferre solent, duntaxat sit carneum, ut porcellus</itype>
+ne_^frendi^ti^um	
 ne^frens		<itype>dis</itype>	<pos>adj.</pos>
 ne^ganti^a		
 :le:negantia
@@ -132700,7 +132851,13 @@ Nehalennia
 
 
 Ne_i+th		<itype>indecl.</itype>
-Ne_leus		<orth type=alt>dissyl.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+Ne_leus		<orth type=alt>dissyl.</orth>	
+:le:Neleus
+:no:Ne_l	eus_ei masc
+:no:dissyl	eus_ei masc orth
+
+
+
 Ne_le_i^us		
 :le:Neleius
 :aj:Ne_le_	ius_ia_ium
@@ -132808,7 +132965,7 @@ Ne^me^si^a_nus
 :no:Ne^me^si^a_n	us_i masc
 
 
-Ne^me^sis#1		<itype>is and i^os</itype>	<gen>f.</gen>
+Ne^me^sis#1		<itype>i^os</itype>	<gen>f.</gen>
 Ne^me^sis#2		
 :le:Nemesis#2
 :no:Ne^me^s	is_is fem
@@ -133411,9 +133568,9 @@ nesci^enti^a
 :no:nesci^enti^	a_ae fem
 
 
-nesci^ens		<itype>entis</itype>	
-:le:nesciens
-:wd:nesci^ens	adverb
+ne-sci^o		<orth>nesci^ens</orth>	<itype>entis</itype>	
+:le:nescio
+:wd:ne-sci^o	adverb
 
 
 nesci^enter	
@@ -133613,6 +133770,7 @@ nexi^o
 :no:nexi^	o_oLnis fem
 
 
+nexo		<pos>v. freq. a.</pos>
 nexuo_sus		
 :le:nexuosus
 :aj:nexuo_s	us_a_um
@@ -133796,7 +133954,7 @@ ni_di^fi^cus
 :aj:ni_di^fi^c	us_a_um
 
 
-nidipantis		<itype>a mutilated epithet of cassia</itype>
+nidipantis	
 ni_dor		
 :le:nidor
 :no:ni_d	or_oLris masc
@@ -133944,7 +134102,7 @@ ni_lum
 :no:ni_l	us_i neut
 
 	<pos>adv.</pos>
-ni^hi^lo_ mi^nus		<itype>or, in one word</itype>
+ni^hi^lo_ mi^nus		<itype>or</itype>
 ni^hi^lo_mi^nus		<orth>ni_l</orth>	<orth>ni_lum</orth>
 ni^hi^li		<itype>v nihil</itype>
 Ni_leus		<orth type=alt>dissyl.</orth>	
@@ -134012,8 +134170,7 @@ ni^mi^e^tas
 
 
 ni^mi^o_	
-ni^mi^o^pe^re		<itype>more correctly separate</itype>
-ni^mi^o_ o^pe^re	
+ni^mi^o^pe^re		<orth>ni^mi^o_ o^pe^re</orth>
 ni_mi_rum		
 :le:nimirum
 :wd:ni_mi_rum	adverb
@@ -134145,7 +134302,11 @@ Niptra
 :no:Niptr	us_i neut pl
 
 
-Ni_reus		<orth type=alt>dissyl.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+Ni_reus		<orth type=alt>dissyl.</orth>	
+:le:Nireus
+:no:Ni_r	eus_ei masc
+
+
 nis		<itype>pro nobis</itype>
 Ni_sa		
 :le:Nisa
@@ -134425,7 +134586,7 @@ nocti^lu_ca
 :no:nocti^lu_c	a_ae fem
 
 
-nocti^pu_gam		<itype>v noctiluca</itype>
+nocti^pu_gam	
 nocti^surgi^um		
 :le:noctisurgium
 :no:nocti^surg	ius_i neut
@@ -134824,7 +134985,7 @@ nonaria
 
 
 non-dum	
-noneolae		<itype>vocantur papillae, quae ex faucibus caprarum suppendent</itype>
+noneolae	
 nonge_na_ri^us		<orth>no_ningente_na_-ri^us</orth>	
 :le:nongenarius
 :aj:nonge_na_r	ius_ia_ium
@@ -134866,8 +135027,11 @@ non-ne^
 :wd:non-ne^	adverb
 
 
-non-ne_mo		<itype>or better separately</itype>
-non ne_mo		<itype>i^nis</itype>	<gen>m.</gen>
+non-ne_mo		<orth>non ne_mo</orth>	
+:le:nonnemo
+:no:non-ne_m	o_inis masc
+
+
 non-nullus		
 :le:nonnullus
 :aj:non-null	us_a_um
@@ -134890,7 +135054,7 @@ nonna
 
 
 non-nusquam	
-no_nunci^um		<itype>et sescunciam quod magistri ludi appellant, significat dodrantem et dimidium teruncium, quod singula sescuncia uncia et dimidium sit</itype>
+no_nunci^um	
 no_nus		
 :le:nonus
 :aj:no_n	us_a_um
@@ -135041,7 +135205,7 @@ no^so^co^mus
 :no:no^so^co^m	us_i masc
 
 
-noster		<itype>stra, strum</itype>
+noster		<itype>stra</itype>
 Nosti^mus		
 :le:Nostimus
 :no:Nosti^m	us_i masc
@@ -136096,7 +136260,7 @@ Numquampostreddo_ni^des
 :no:Numquampostreddo_ni^d	es_ae masc
 
 
-numquando		<itype>more correctly written separate</itype>
+numquando	
 num-quid		<orth type=alt>nunqu-</orth>
 num-quis		<orth type=alt>nunqu-</orth>	<itype>qui, quae</itype>
 nunc		
@@ -136307,7 +136471,7 @@ nu_s
 :no:n	us_i masc
 
 
-nuscitio_sum		<orth type=alt>nuscicio_sum</orth>	<itype>Ateius Philologus ait appellari solitum</itype>
+nuscitio_sum		<orth type=alt>nuscicio_sum</orth>
 nusquam		
 :le:nusquam
 :wd:nusquam	adverb
@@ -136477,7 +136641,11 @@ nycte^ris
 :no:nycte^r	is_idis fem
 
 
-Nycteus		<itype>e^i and e^os</itype>	<gen>m.</gen>
+Nycteus		
+:le:Nycteus
+:no:Nyct	eus_ei masc
+
+
 Nycte_is		
 :le:Nycteis
 :no:Nycte_	is_idis fem
@@ -136613,7 +136781,11 @@ Ny_se_i^us
 :aj:Ny_se_	ius_ia_ium
 
 
-Ny_seus		<orth type=alt>dissyl.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+Ny_seus		<orth type=alt>dissyl.</orth>	
+:le:Nyseus
+:no:Ny_s	eus_ei masc
+
+
 Ny_si^-a^cus		
 :le:Nysiacus
 :aj:Ny_si^-a^c	us_a_um
@@ -136649,7 +136821,7 @@ Ny_sus
 :no:Ny_s	us_i masc
 
 
-O#1		<orth type=alt>o</orth>	<itype>the fourteenth letter of the Latin alphabet</itype>
+O#1		<orth type=alt>o</orth>
 o_#2		<pos>interj.</pos>
 O_a^ri^on		
 :le:Oarion
@@ -136778,14 +136950,18 @@ o^be^lus
 :no:o^be^l	us_i masc
 
 
-o^bi^tus		<itype>a, um, for mortuus</itype>
+o^bi^tus		
+:le:obitus
+:aj:o^bi^t	us_a_um
+
+
 o^be_si^tas		
 :le:obesitas
 :no:o^be_si^	tas_tatis fem
 
 
 o_bex		<itype>obi^cis</itype>	<gen>c.</gen>
-o^b-herbesce^re		<itype>herbam increscere</itype>
+o^b-herbesce^re	
 objecta		
 :le:objecta
 :no:object	us_i neut pl
@@ -136967,7 +137143,7 @@ obli^gu_ri_tor		<orth type=alt>-rr-</orth>
 :no:obli^gu_ri_t	or_oLris masc
 
 
-ob-li^no		<itype>le_vi, rarely li^ni</itype>
+ob-li^no		<itype>le_vi</itype>
 obli_qua_ti^o		
 :le:obliquatio
 :no:obli_qua_ti^	o_oLnis fem
@@ -137068,13 +137244,13 @@ oblucta_ti^o
 :no:oblucta_ti^	o_oLnis fem
 
 
-oblucuviasse		<itype>dicebant antiqui mente errasse, quasi in luco deorum alicui occurrisse</itype>
+oblucuviasse	
 ob-lu_ri^dus		
 :le:obluridus
 :aj:ob-lu_ri^d	us_a_um
 
 
-obma^nens		<itype>pro diu manens, ut permanens</itype>
+obma^nens	
 ob-me^ri^tus		
 :le:obmeritus
 :aj:ob-me^ri^t	us_a_um
@@ -137090,7 +137266,7 @@ ob-na_tus
 :aj:ob-na_t	us_a_um
 
 
-obnecte^re		<itype>obligare, maxime in nuptiis frequens est</itype>
+obnecte^re		<itype>obligare</itype>
 obnexus		
 :le:obnexus
 :no:obnex	us_us masc
@@ -137238,7 +137414,8 @@ obry_za_tus
 
 
 obry_zum		<orth>obri_-</orth>	<orth>obry-zum aurum</orth>
-obsa^lu_ta_re		<itype>se offerre salutandi gratia_ dicebant antiqui, ut consalutare, persalutare</itype>
+ob-saepi^o		<orth type=alt>ob-se_pi^o</orth>	<itype>psi, ptum</itype>
+obsa^lu_ta_re	
 obsce_ne_		<orth>obscaene_</orth>	<orth>obscoe-ne_</orth>	
 :le:obscene
 :wd:obsce_ne_	adverb
@@ -137491,7 +137668,7 @@ obsi^a_na
 :no:obsi^a_n	us_i neut pl
 
 
-obso^le^fi_o		<itype>factus, fieri</itype>
+obso^le^fi_o		<itype>factus</itype>
 obso^le_te_	
 obso^li^da_tus	
 obso_na_ti^o		<orth type=alt>ops-</orth>	
@@ -137552,7 +137729,7 @@ obsti^na_ti^o
 :no:obsti^na_ti^	o_oLnis fem
 
 
-obsti^net		<itype>dicebant antiqui, quod nunc ostendit</itype>
+obsti^net	
 obsti^na_tus		
 :le:obstinatus
 :aj:obsti^na_t	us_a_um
@@ -137570,7 +137747,7 @@ obsti_pus
 
 
 obsti_pe_	
-ob-sto		<itype>sti^ti, a_tum</itype>
+ob-sto		<itype>sti^ti</itype>
 obstantia		
 :le:obstantia
 :no:obstant	is_is neut pl
@@ -137643,7 +137820,7 @@ obstu_^pra_tus
 :aj:obstu_^pra_t	us_a_um
 
 
-ob-sum		<itype>obfui or offui, obesse</itype>
+ob-sum	
 obsurda_tus		
 :le:obsurdatus
 :aj:obsurda_t	us_a_um
@@ -137720,7 +137897,7 @@ obtorti^o
 :no:obtorti^	o_oLnis fem
 
 
-obtractat		<itype>contra sententiam tractat</itype>
+obtractat	
 obtracta_ti^o		
 :le:obtractatio
 :no:obtracta_ti^	o_oLnis fem
@@ -138095,7 +138272,7 @@ occulta_tor
 
 
 occulte_		<orth>occultim</orth>
-occu^pa_ti_ci^us		<itype>ager dicitur, qui desertus a cultoribus propriis, ab aliis occupatur</itype>
+occu^pa_ti_ci^us	
 occu^pa_ti^o		
 :le:occupatio
 :no:occu^pa_ti^	o_oLnis fem
@@ -138664,7 +138841,7 @@ o_da^ri^um
 
 
 o_de_		<orth>o_da</orth>	<itype>ae</itype>
-odefa^cit		<itype>dicebant pro olfacit</itype>
+odefa^cit	
 O^dessos		<orth>O^dessus</orth>	
 :le:Odessos
 :no:O^dess	os_i fem
@@ -138907,7 +139084,13 @@ Oecha^lis
 :no:Oecha^l	is_idis fem
 
 
-Oecleus		<orth type=alt>dissyl.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+Oecleus		<orth type=alt>dissyl.</orth>	
+:le:Oecleus
+:no:Oecl	eus_ei masc
+:no:dissyl	eus_ei masc orth
+
+
+
 Oecli_des		
 :le:Oeclides
 :no:Oecli_d	es_ae masc
@@ -138948,7 +139131,11 @@ oecus
 :no:oec	us_i masc
 
 
-Oedi^pus		<itype>o^dis and i</itype>	<gen>m.</gen>
+Oedi^pus		
+:le:Oedipus
+:no:Oedi^p	us_i masc
+
+
 Oedi^po^des		
 :le:Oedipodes
 :no:Oedi^po^d	es_ae masc
@@ -138984,7 +139171,11 @@ oenanthi^um
 :no:oenanth	ius_i neut
 
 
-Oeneus#1		<orth type=alt>dissyl.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+Oeneus#1		<orth type=alt>dissyl.</orth>	
+:le:Oeneus#1
+:no:Oen	eus_ei masc
+
+
 Oene_is		
 :le:Oeneis
 :no:Oene_	is_idis fem
@@ -139113,7 +139304,11 @@ Oeno_trus
 :aj:Oeno_tr	us_a_um
 
 
-oenus#1		<itype>a, um, an ancient form for unus</itype>
+oenus#1		
+:le:oenus#1
+:aj:oen	us_a_um
+
+
 Oenu_s#2		
 :le:Oenus#2
 :no:Oen	us_i masc
@@ -139144,7 +139339,7 @@ oestrus
 :no:oestr	us_i masc
 
 
-oesus		<itype>an ancient form for usus</itype>
+oesus	
 Oesy^ma		
 :le:Oesyma
 :no:Oesy^m	a_ae fem
@@ -139170,7 +139365,6 @@ Oe-taeus
 :aj:Oe-tae	us_a_um
 
 
-oetor		<itype>3, an old form for utor</itype>
 oetum		
 :le:oetum
 :no:oet	us_i neut
@@ -139218,7 +139412,7 @@ offecti^o
 :no:offecti^	o_oLnis fem
 
 
-offecto_res		<itype>colorum infectores</itype>
+offecto_res	
 offectus#2		
 :le:offectus#2
 :no:offect	us_us masc
@@ -139493,7 +139687,7 @@ O^i_li_des
 
 
 oinos		<itype>a, um</itype>
-oinuorsei		<itype>for universi</itype>
+oinuorsei	
 o^lax		
 :le:olax
 :aj:o^l	ax_adj
@@ -139675,6 +139869,7 @@ o^le^um
 :no:o^le^	us_i neut
 
 
+olfa^ci^o		<itype>e_ci, actum</itype>
 olfacta_trix		
 :le:olfactatrix
 :no:olfacta_tr	ix_iLcis fem
@@ -139710,7 +139905,7 @@ olfi^cus
 :aj:olfi^c	us_a_um
 
 
-O_li^a^ros		<itype>for Olearos</itype>
+O_li^a^ros	
 o^li^dus		
 :le:olidus
 :aj:o^li^d	us_a_um
@@ -139834,7 +140029,7 @@ olla_ri^-um
 :no:olla_r	ius_i neut
 
 
-olle		<itype>old form for ille</itype>
+olle	
 olli^cu^la		
 :le:ollicula
 :no:olli^cu^l	a_ae fem
@@ -139845,7 +140040,11 @@ ollu^la
 :no:ollu^l	a_ae fem
 
 
-ollus		<itype>a, um, old form for ille</itype>
+ollus		
+:le:ollus
+:aj:oll	us_a_um
+
+
 olma		
 :le:olma
 :no:olm	a_ae fem
@@ -139881,7 +140080,7 @@ O^lostrae
 :no:O^lostr	a_ae masc pl
 
 
-olva_tum		<itype>Antistius Labeo ait esse mensurae genus</itype>
+olva_tum	
 O^ly_brius		<orth>O_ly^brius</orth>	
 :le:Olybrius
 :no:O^ly_br	ius_i masc
@@ -140361,7 +140560,7 @@ O^ne_si^pho^rus
 :no:O^ne_si^pho^r	us_i masc
 
 
-O^ne_sis		<itype>is and i^dis</itype>
+O^ne_sis	
 O^ne_sitrophus		
 :le:Onesitrophus
 :no:O^ne_sitroph	us_i masc
@@ -141001,7 +141200,7 @@ o^pistho^to^nos
 :no:o^pistho^to^n	os_i masc
 
 
-O^pi^ter		<itype>i^te^ris and i^tris</itype>	<gen>m.</gen>
+O^pi^ter		<gen>m.</gen>
 O^pi^tergi^um		
 :le:Opitergium
 :no:O^pi^terg	ius_i neut
@@ -141087,6 +141286,7 @@ oppansum		<orth type=alt>-passum</orth>
 :no:oppans	us_i neut
 
 
+oppe^ri^or		<orth type=alt>obp-</orth>
 oppessu^la_tus		<orth type=alt>obp-</orth>	
 :le:oppessulatus
 :aj:oppessu^la_t	us_a_um
@@ -141330,7 +141530,13 @@ opti^mas		<orth type=alt>optu^m-</orth>
 
 
 
-opti^ma_tes		<orth type=alt>optu^m-</orth>	<itype>um and i^um</itype>	<gen>comm.</gen>
+opti^ma_tes		<orth type=alt>optu^m-</orth>	
+:le:optimates
+:no:opti^ma_t	is_is masc fem pl
+:no:optu^ma_t	is_is masc fem pl orth
+
+
+
 opti^me_		<orth type=alt>optu^m-</orth>	
 :le:optime
 :wd:opti^me_	adverb
@@ -141376,7 +141582,7 @@ optu^me_		<orth type=alt>opti^m-</orth>
 :wd:opti^me_	adverb orth
 
 
-optu_tu_		<itype>quasi optuitu, a verbo</itype>
+optu_tu_	
 o^pu^lenti^a		
 :le:opulentia
 :no:o^pu^lenti^	a_ae fem
@@ -141733,7 +141939,7 @@ orcy_nus
 :no:orcy_n	us_i masc
 
 
-ordi^apri_ma		<itype>for primordia</itype>
+ordi^apri_ma	
 ordi^na_lis		
 :le:ordinalis
 :aj:ordi^na_l	is_e
@@ -141834,7 +142040,7 @@ Oreste_-us
 :aj:Oreste_-	us_a_um
 
 
-O^resti^a^des		<itype>nymphae montium cultrices</itype>
+O^resti^a^des	
 Orestilla		
 :le:Orestilla
 :no:Orestill	a_ae fem
@@ -142605,7 +142811,7 @@ oscu^la_bundus
 :aj:oscu^la_bund	us_a_um
 
 
-Oscu^la_na		<itype>pugna in proverbio, quo significabatur, victos vincere, quia in ea_dem et Valerius Laevinus imperator Romanus a Pyrrho erat victus</itype>
+Oscu^la_na	
 oscu^la_ti^o		
 :le:osculatio
 :no:oscu^la_ti^	o_oLnis fem
@@ -142635,7 +142841,11 @@ O^si_re^osta^phe_
 :no:O^si_re^osta^ph	e_es fem
 
 
-O^si_ris		<itype>is and i^dis</itype>	<gen>m.</gen>
+O^si_ris		
+:le:Osiris
+:no:O^si_r	is_idis masc
+
+
 O^si_ri_tis		
 :le:Osiritis
 :no:O^si_ri_t	is_idis fem
@@ -143367,7 +143577,7 @@ Ozo^me^ne_
 :no:Ozo^me^n	e_es fem
 
 
-P		<orth type=alt>p</orth>	<itype>the fifteenth letter of the Latin alphabet, the character for which is derived from the ancient form of the Greek II</itype>
+P		<orth type=alt>p</orth>
 Pa		<itype>pro parte</itype>
 pa^billus		
 :le:pabillus
@@ -143711,7 +143921,7 @@ Paegni^um
 :no:Paegn	ius_i neut
 
 
-paelex		<orth>pe_lex</orth>	<itype>and, only in inscriptions</itype>
+paelex		<orth>pe_lex</orth>	<itype>and</itype>
 pellex		<itype>icis</itype>	<gen>f.</gen>
 paemi^no_sus		
 :le:paeminosus
@@ -143938,7 +144148,7 @@ pa_gella
 :no:pa_gell	a_ae fem
 
 
-pa_ges		<itype>compactio, unde compages et propagare</itype>
+pa_ges		<itype>compactio</itype>
 Pagi^das		<orth>Pagi^da</orth>	
 :le:Pagidas
 :no:Pagi^d	as_ae masc
@@ -144008,7 +144218,11 @@ Pa^lae-mo^ni^us
 :aj:Pa^lae-mo^n	ius_ia_ium
 
 
-Pa^laeno		<itype>u_s or o_nis</itype>	<gen>f.</gen>
+Pa^laeno		
+:le:Palaeno
+:no:Pa^laen	o_oLnis fem
+
+
 Pa^laepharsa_lus		
 :le:Palaepharsalus
 :no:Pa^laepharsa_l	us_i fem
@@ -144374,13 +144588,12 @@ Palla^di^us#2
 :no:Palla^d	ius_i masc
 
 
-Pallantis		<itype>i^dis and i^dos</itype>
 palla_ris		
 :le:pallaris
 :aj:palla_r	is_e
 
 
-Palla^s#1		<itype>a^dis and a^dos</itype>	<gen>f.</gen>
+Palla^s#1		<itype>a^dos</itype>	<gen>f.</gen>
 Palla^di^us		
 :le:Palladius
 :aj:Palla^d	ius_ia_ium
@@ -144411,7 +144624,11 @@ Pallanti^a^s
 :no:Pallanti^	as_adis fem
 
 
-Pallantis		<itype>i^dos and i^dis</itype>	<gen>f.</gen>
+Pallantis		
+:le:Pallantis
+:no:Pallant	is_idis fem
+
+
 Pallanti^us		
 :le:Pallantius
 :aj:Pallant	ius_ia_ium
@@ -145111,7 +145328,7 @@ pande_mus
 :aj:pande_m	us_a_um
 
 
-pandi^cu^la_ris		<itype>dicebatur dies idem et communicarius, in quo omnibus diis communiter sacrificabatur</itype>
+pandi^cu^la_ris	
 Pandi_on		
 :le:Pandion
 :no:Pandi_	oLn_onis masc
@@ -145619,7 +145836,7 @@ pa_pa_ri^um
 :no:pa_pa_r	ius_i neut
 
 
-papas		<orth type=alt>pappas</orth>	<itype>ae and a^tis</itype>	<gen>m.</gen>
+papas		<orth type=alt>pappas</orth>	<itype>a^tis</itype>	<gen>m.</gen>
 pa^pa_ver		
 :le:papaver
 :no:pa^pa_v	er_eris neut
@@ -145864,7 +146081,7 @@ pa^ra^cha^raxi^mus
 :aj:pa^ra^cha^raxi^m	us_a_um
 
 
-Pa^ra^che^lo_is		<itype>i^dis and i^dos</itype>	<gen>f.</gen>
+Pa^ra^che^lo_is		<itype>i^dos</itype>	<gen>f.</gen>
 pa^ra_^cle_tus		<orth>pa^ra_^cli_-tus</orth>	
 :le:paracletus
 :no:pa^ra_^cle_t	us_i masc
@@ -146321,7 +146538,7 @@ pa^rens#2
 :no:pa^r	ens_entis masc fem
 
 
-pa^renta_li^a		<itype>i^um, v parentalis</itype>
+pa^renta_li^a		<itype>i^um</itype>
 pa^renta_lis		
 :le:parentalis
 :aj:pa^renta_l	is_e
@@ -147098,7 +147315,6 @@ parvi^collis
 
 
 parvi^-fa^ci^o		<itype>face^re</itype>
-parvi^pendo		<itype>e^re, more correctly written separate</itype>
 parvi^tas		
 :le:parvitas
 :no:parvi^	tas_tatis fem
@@ -147213,7 +147429,7 @@ Pa_si^ti_gris
 :no:Pa_si^ti_gr	is_idis masc
 
 
-passales		<itype>et oves et gallinae appellantur, quod passim pascuntur</itype>
+passales	
 passa_ri^us		
 :le:passarius
 :aj:passa_r	ius_ia_ium
@@ -147466,7 +147682,11 @@ Pa^ta^lita_nus
 :aj:Pa^ta^lita_n	us_a_um
 
 
-pa^ta_lis		<itype>e, a false reading for patulus</itype>
+pa^ta_lis		
+:le:patalis
+:aj:pa^ta_l	is_e
+
+
 Pa^ta^ra		
 :le:Patara
 :no:Pa^ta^r	a_ae fem
@@ -148205,7 +148425,7 @@ pa^vor
 :no:pa^v	or_oLris masc
 
 
-Pa^vor		<itype>personified</itype>
+Pa^vor	
 pax#1		<itype>pa_cis</itype>	<gen>f.</gen>
 Pax#2		<itype>Pa_cis</itype>	<gen>m.</gen>
 paxillus		
@@ -148213,7 +148433,7 @@ paxillus
 :no:paxill	us_i masc
 
 
--pe		<itype>an enclitic particle with an intensive force</itype>
+-pe	
 pecca_men		
 :le:peccamen
 :no:pecca_	men_minis neut
@@ -148698,7 +148918,7 @@ Pe^du_caeus
 :aj:Pe^du_cae	us_a_um
 
 
-pe^du_clus		<itype>another reading for pedicellus</itype>
+pe^du_clus	
 pe^du_cu^la_ti^o	
 pe^du_cu^lo_sus	
 pe^du_cu^lus		
@@ -148931,7 +149151,11 @@ pe^le_thro^ni^a
 :no:pe^le_thro^ni^	a_ae fem
 
 
-Pe_leus		<itype>e^i and e^os</itype>	<gen>m.</gen>
+Pe_leus		
+:le:Peleus
+:no:Pe_le	us_i masc
+
+
 Pe_le_i+us		
 :le:Peleius
 :aj:Pe_le_	ius_ia_ium
@@ -149079,7 +149303,8 @@ pelle^su^i_na
 :no:pelle^su^i_n	a_ae fem
 
 
-pelli^ca_tor		<itype>qui pellicit ad fraudem</itype>
+pelli^ca_tor	
+pelli^ci^o		<orth>perli^ci^o</orth>	<itype>lexi, lectum</itype>
 pelli^ci^us		<orth type=alt>pelli^ce^us</orth>	
 :le:pellicius
 :aj:pelli^c	ius_ia_ium
@@ -149404,7 +149629,11 @@ pendu^lus
 :aj:pendu^l	us_a_um
 
 
-Pe_ne^leus		<itype>e^i and e^os</itype>	<gen>m.</gen>
+Pe_ne^leus		
+:le:Peneleus
+:no:Pe_ne^l	eus_ei masc
+
+
 Pe_ne^lo^pe_		<itype>e_s</itype>
 Pe_ne^lo^pa		
 :le:Penelopa
@@ -149844,7 +150073,11 @@ Penthe^si^le_a
 :no:Penthe^si^le_	a_ae fem
 
 
-Pentheus		<itype>e^i and e^os</itype>	<gen>m.</gen>
+Pentheus		
+:le:Pentheus
+:no:Penth	eus_ei masc
+
+
 Penthe_i^us		
 :le:Pentheius
 :aj:Penthe_	ius_ia_ium
@@ -150776,7 +151009,7 @@ per-fa^ci^lis
 :aj:per-fa^ci^l	is_e
 
 	<pos>adv.</pos>
-perfa^ci^le_		<orth>perfa^cu^l</orth>	<itype>antiqui et per se facul dicebant, quod nunc facile dicimus</itype>
+perfa^ci^le_		<orth>perfa^cu^l</orth>
 per-fa_cundus		
 :le:perfacundus
 :aj:per-fa_cund	us_a_um
@@ -151576,7 +151809,7 @@ pe^risce^li^um
 :no:pe^risce^l	ius_i neut
 
 
-pe^risseuma		<orth>pe^ritteuma</orth>	<itype>another reading for parapeteuma</itype>
+pe^risseuma		<orth>pe^ritteuma</orth>
 pe^risso^cho^re_gi^a		
 :le:perissochoregia
 :no:pe^risso^cho^re_gi^	a_ae fem
@@ -151623,7 +151856,7 @@ pe^risty_lum
 :no:pe^risty_l	us_i neut
 
 
-Pe_ri_tho^us		<itype>i, corrupt form for Pirithous</itype>
+Pe_ri_tho^us		<itype>i</itype>
 pe^ri_ti^a		
 :le:peritia
 :no:pe^ri_ti^	a_ae fem
@@ -151862,12 +152095,7 @@ Permessus
 :no:Permess	us_i masc
 
 
-Permessis		<itype>i^dis or i^dos</itype>
-Permessi^us		
-:le:Permessius
-:aj:Permess	ius_ia_ium
-
-
+Permessis		<orth>Permessi^us</orth>	<itype>a, um</itype>	<pos>adj.</pos>
 per-mensus		
 :le:permensus
 :aj:per-mens	us_a_um
@@ -152745,6 +152973,7 @@ per-se^quax
 :aj:per-se^qu	ax_adj
 
 
+per-se^quor		<gen>n.</gen>
 Perses		
 :le:Perses
 :no:Pers	es_ae masc
@@ -152755,7 +152984,11 @@ Persi^cus
 :aj:Persi^c	us_a_um
 
 
-Perseus#1		<itype>e^i and e^os</itype>	<gen>m.</gen>
+Perseus#1		
+:le:Perseus#1
+:no:Perse	us_i masc
+
+
 Per-se_us		
 :le:Perseus
 :aj:Per-se_	us_a_um
@@ -153019,6 +153252,7 @@ persulta_tor
 :no:persulta_t	or_oLris masc
 
 
+per-taedet		<itype>taesum est</itype>	<gen>n.</gen>
 per-te^me^ra_ri^us		
 :le:pertemerarius
 :aj:per-te^me^ra_r	ius_ia_ium
@@ -153435,8 +153669,8 @@ Pescennia_nus
 :aj:Pescennia_n	us_a_um
 
 
-pescia		<itype>in Saliari carmine Aelius Stilo dici ait capitia ex pellibus agninis facta, quod Graeci pelles vocent pesce neutro genere pluraliter</itype>
-pesestas		<itype>significare videtur pestilentiam</itype>
+pescia	
+pesestas	
 pesnis		<itype>for pennis</itype>
 pesoluta		
 :le:pesoluta
@@ -154559,7 +154793,7 @@ Pha^ri_tae
 :no:Pha^ri_t	a_ae masc pl
 
 
-phasco_la		<itype>appellant Graeci, quas vulgus peras vocat</itype>
+phasco_la	
 Phase		<gen>n.</gen>
 Phase	<itype>indecl.</itype>
 pha^se_la_ri^a		<orth>fa^se_l-</orth>	<orth>fa^ce_l-</orth>	
@@ -154630,7 +154864,11 @@ pha_si^o^los		<orth type=alt>fa_s-</orth>
 
 
 
-Pha_sis#1		<itype>i^dis or i^dos</itype>	<gen>m.</gen>
+Pha_sis#1		
+:le:Phasis#1
+:no:Pha_s	is_is masc
+
+
 Pha_sis		
 :le:Phasis
 :no:Pha_si	s_dis fem
@@ -155273,7 +155511,11 @@ phi_mus
 :no:phi_m	us_i masc
 
 
-Phi_neus		<itype>e^i and e^os</itype>	<gen>m.</gen>
+Phi_neus		
+:le:Phineus
+:no:Phi_ne	us_i masc
+
+
 Phi_ne_i+-us		<orth>Phi_ne_us</orth>	
 :le:Phineius
 :aj:Phi_ne_	ius_ia_ium
@@ -155730,7 +155972,11 @@ Phorcis
 :no:Phorc	is_is fem
 
 
-Phorcy_nis		<itype>i^dos and i^dis</itype>	<gen>f.</gen>
+Phorcy_nis		
+:le:Phorcynis
+:no:Phorcy_n	is_idis fem
+
+
 pho^ri^mon		
 :le:phorimon
 :no:pho^ri^m	os_i neut
@@ -155753,7 +155999,11 @@ Phormi^o#2
 :no:Phormi^	o_oLnis masc
 
 
-Pho^ro_neus		<orth type=alt>trisyll.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+Pho^ro_neus		<orth type=alt>trisyll.</orth>	
+:le:Phoroneus
+:no:Pho^ro_n	eus_ei masc
+
+
 Pho^ro_ne_us		
 :le:Phoroneus
 :aj:Pho^ro_ne_	us_a_um
@@ -156101,7 +156351,7 @@ Phylle_i^us
 :aj:Phylle_	ius_ia_ium
 
 
-Phyllis		<itype>i^dis and i^dos</itype>	<gen>f.</gen>
+Phyllis		<itype>i^dos</itype>	<gen>f.</gen>
 Phylli^us		
 :le:Phyllius
 :no:Phyll	ius_i masc
@@ -156270,7 +156520,7 @@ pi^ca_ri^a
 :no:pi^ca_ri^	a_ae fem
 
 
-pi^ca_ti		<itype>appellantur quidam</itype>
+pi^ca_ti	
 pi^ce^a		
 :le:picea
 :no:pi^ce^	a_ae fem
@@ -156451,7 +156701,7 @@ Pi_e^ros		<orth type=alt>-us</orth>
 :no:Pi_e^r	os_i masc
 
 
-Pi_e^ris		<itype>i^dis or i^dos</itype>	<gen>f.</gen>
+Pi_e^ris		<itype>i^dos</itype>	<gen>f.</gen>
 Pi_e^ri^des		<itype>um</itype>
 Pi_e^ri^us		
 :le:Pierius
@@ -156468,7 +156718,7 @@ pi^e^tas#1
 :no:pi^e^	tas_tatis fem
 
 
-Pi^e^tas		<itype>personified</itype>
+Pi^e^tas	
 Pi^e^tas#2		
 :le:Pietas#2
 :no:Pi^e^	tas_tatis fem
@@ -156532,7 +156782,7 @@ pigno^risca^pi^o
 :no:pigno^risca^pi^	o_oLnis fem
 
 
-pignus		<itype>o^ris and e^ris</itype>	<gen>n.</gen>
+pignus		<gen>n.</gen>
 pi_^gre_do		
 :le:pigredo
 :no:pi_^gre_d	o_inis fem
@@ -156681,7 +156931,7 @@ pi_lum
 :no:pi_l	us_i neut
 
 
-pilumnoepoploe		<itype>in carmine Saliari Romani, velut pilis uti assueti, vel quia praecipue pellant hostes</itype>
+pilumnoepoploe	
 pi^lus#1		
 :le:pilus#1
 :no:pi^l	us_i masc
@@ -156692,7 +156942,7 @@ pi_lus#2
 :no:pi_l	us_i masc
 
 
-Pimple_is		<orth type=alt>Piple_is</orth>	<itype>i^dis and i^dos</itype>
+Pimple_is		<orth type=alt>Piple_is</orth>
 Pimple_us		<orth type=alt>Piple_us</orth>	
 :le:Pimpleus
 :aj:Pimple_	us_a_um
@@ -156975,7 +157225,11 @@ pi^pe^ra_tum
 :no:pi^pe^ra_t	us_i neut
 
 
-pi^pe^ri_tis		<itype>is and i^dis</itype>	<gen>f.</gen>
+pi^pe^ri_tis		
+:le:piperitis
+:no:pi^pe^ri_t	is_idis fem
+
+
 pipinna		
 :le:pipinna
 :no:pipinn	a_ae fem
@@ -157477,10 +157731,9 @@ Pi^the_cu_sae
 :no:Pi^the_cu_s	a_ae fem pl
 
 
-pi^theus		<itype>e^i and e^os</itype>
-pi^thus		<itype>i</itype>
+pi^theus		<orth>pi^thus</orth>	<itype>i</itype>
 pi^thi^as		<gen>m.</gen>
-pitpit		<itype>Osce quicquid</itype>
+pitpit	
 pitta^ci^um		
 :le:pittacium
 :no:pitta^c	ius_i neut
@@ -157491,7 +157744,11 @@ Pitta^cus		<orth>-os</orth>
 :no:Pitta^c	us_i masc
 
 
-Pittheus		<orth type=alt>dissyl.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+Pittheus		<orth type=alt>dissyl.</orth>	
+:le:Pittheus
+:no:Pitth	eus_ei masc
+
+
 Pitthe_us		
 :le:Pittheus
 :aj:Pitthe_	us_a_um
@@ -158477,7 +158734,7 @@ plo^ce_
 :no:plo^c	e_es fem
 
 
-ploeres		<orth type=alt>ploera</orth>	<itype>archaic for plures, plura</itype>
+ploeres		<orth type=alt>ploera</orth>
 plo_ra_bi^lis		
 :le:plorabilis
 :aj:plo_ra_bi^l	is_e
@@ -158701,7 +158958,7 @@ pluscu^lus
 
 
 pluscu^lum	
-plu_si^mus		<itype>for plurimus</itype>
+plu_si^mus	
 plu^te^a_ri^us		<orth>plu^ti^a_ri^us</orth>	
 :le:plutearius
 :no:plu^te^a_r	ius_i masc
@@ -158810,7 +159067,7 @@ Pny^ta^go^ras
 
 
 po'#1	
-po#2		<orth>po</orth>	<itype>pro potissimum positum est in Saliari carmine</itype>
+po#2		<orth>po</orth>
 Pobli^li^a		<orth>Publi^li^a</orth>	<itype>tribus</itype>
 Publi^a, Publi^ci^a, Popi^li^a, Popi^l-li^a	
 po_cilla_tor		
@@ -159042,7 +159299,7 @@ po^e_tri^a
 :no:po^e_tri^	a_ae fem
 
 
-po^e_tris		<itype>i^dis or i^dos</itype>	<gen>f.</gen>
+po^e_tris		<itype>i^dos</itype>	<gen>f.</gen>
 po_go_ni^as		
 :le:pogonias
 :no:po_go_ni^	as_ae masc
@@ -159341,7 +159598,7 @@ po^lo_se_
 :wd:po^lo_se_	adverb
 
 
-polte^o		<itype>pro ulteriore</itype>
+polte^o	
 po_lu^lus		<orth type=alt>poll-</orth>	
 :le:polulus
 :aj:po_lu^l	us_a_um
@@ -159708,7 +159965,7 @@ po_me^ri_di^a_nus		<orth type=alt>postm-</orth>
 
 
 
-po_me_ri^um		<orth>po_moeri^um</orth>	<orth>post-moerium</orth>	<orth>posi-merium</orth>	<itype>pontificale pomoerium</itype>	
+po_me_ri^um		<orth>po_moeri^um</orth>	<orth>post-moerium</orth>	<orth>posi-merium</orth>	
 :le:pomerium
 :no:po_me_r	ius_i neut
 :no:posi-mer	ius_i neut orth
@@ -160536,6 +160793,7 @@ porri_gi^no_sus
 :aj:porri_gi^no_s	us_a_um
 
 
+porri^go#1		<itype>rexi, rectum</itype>
 porrectum		
 :le:porrectum
 :no:porrect	us_i neut
@@ -160639,7 +160897,11 @@ portento_sus		<orth type=alt>-tu^o_sus</orth>
 :aj:portento_s	us_a_um
 
 
-Porthmeus		<orth type=alt>dissyl.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+Porthmeus		<orth type=alt>dissyl.</orth>	
+:le:Porthmeus
+:no:Porthm	eus_ei masc
+
+
 porthmos#1		
 :le:porthmos#1
 :no:porthm	os_i masc
@@ -160789,6 +161051,7 @@ posci^nummius		<orth type=alt>-nu_mius</orth>
 :aj:posci^numm	ius_ia_ium
 
 
+posco		<itype>po^posci</itype>
 Po^si_des		
 :le:Posides
 :no:Po^si_d	es_ae masc
@@ -160976,10 +161239,16 @@ postu^mum
 :no:postu^m	us_i neut
 
 
-postfactus		<itype>or separate</itype>
-post fac-tus		<itype>a, um</itype>
-post-ge^ni^tus		<itype>or separate</itype>
-post ge^ni^tus		<itype>a, um</itype>	<pos>adj.</pos>
+postfactus		<orth>post fac-tus</orth>	
+:le:postfactus
+:aj:postfact	us_a_um
+
+
+post-ge^ni^tus		<orth>post ge^ni^tus</orth>	
+:le:postgenitus
+:aj:post-ge^ni^t	us_a_um
+
+
 postge^ni^ti		
 :le:postgeniti
 :no:postge^ni^t	us_i masc pl
@@ -161045,10 +161314,9 @@ posti^li^o
 :no:posti^li^	o_oLnis fem
 
 
-postilla_		<itype>or separate</itype>
-post illa		
-:le:post
-:wd:post	adverb
+postilla_		<orth>post illa</orth>	
+:le:postilla
+:wd:postilla_	adverb
 
 
 postis		
@@ -162787,7 +163055,7 @@ praemordi^cus
 :aj:praemordi^c	us_a_um
 
 
-praemostro		<itype>old form of praemonstro</itype>
+praemostro	
 prae-munda_tus		
 :le:praemundatus
 :aj:prae-munda_t	us_a_um
@@ -163642,10 +163910,9 @@ Praete^ri^ta
 
 
 prae^ter-e^qui^tans		<itype>antis</itype>
-praete^r-ha_c		<itype>also separate</itype>
-praeter hac		
-:le:praeter
-:wd:praeter	adverb
+praete^r-ha_c		<orth>praeter hac</orth>	
+:le:praeterhac
+:wd:praete^r-ha_c	adverb
 
 
 praete^ri^ti^o		
@@ -164784,7 +165051,7 @@ pri_va_ti_vus
 
 	<pos>adv.</pos>
 pri_va_ti_ve_	
-pri_ve^ras		<itype>mulieres privatas dicebant</itype>
+pri_ve^ras	
 Pri_vernum		
 :le:Privernum
 :no:Pri_vern	us_i neut
@@ -164801,7 +165068,7 @@ Pri_vernus
 :no:Pri_vern	us_i masc
 
 
-pri_vicloes		<itype>privis id est singulis</itype>
+pri_vicloes	
 pri_vignus		
 :le:privignus
 :no:pri_vign	us_i masc
@@ -165038,7 +165305,7 @@ pro^ca_ci^tas
 
 
 proca^la_re	
-pro^ca^pis		<itype>progenies, quae ab uno capite procedit</itype>
+pro^ca^pis		<itype>progenies</itype>
 Pro^cas		<orth>Pro^ca</orth>	
 :le:Procas
 :no:Pro^c	as_ae masc
@@ -165164,7 +165431,7 @@ pro_cinctus
 
 
 proci^tant	
-procita_re		<itype>saepe prolicere, id est producere</itype>
+procita_re	
 procla_ma_ti^o		<itype>o_nis</itype>
 procla_ma_tor		
 :le:proclamator
@@ -165255,13 +165522,17 @@ pro_cre^a_tor
 
 
 pro_cre^a_trix		<itype>Icis</itype>	<gen>f.</gen>
-Procris		<itype>is and i^dis</itype>	<gen>f.</gen>
+Procris		
+:le:Procris
+:no:Procr	is_idis fem
+
+
 Pro^crustes		
 :le:Procrustes
 :no:Pro^crust	es_ae masc
 
 
-pro_cu^bi^to_res		<itype>dicuntur fere velites, qui noctu custodiae causa_ ante castra excubant, cum castra hostium in propinquo sunt</itype>
+pro_cu^bi^to_res	
 pro^cul		
 :le:procul
 :wd:pro^cul	adverb
@@ -165439,7 +165710,7 @@ pro_di^gi^um
 :no:pro_di^g	ius_i neut
 
 
-pro_di^gu^ae		<itype>hostiae vocantur, ut ait Veranius</itype>
+pro_di^gu^ae	
 pro_di^gus		
 :le:prodigus
 :aj:pro_di^g	us_a_um
@@ -166130,7 +166401,7 @@ pro_-ma_terte^ra
 :no:pro_-ma_terte^r	a_ae fem
 
 
-promelle^re		<itype>litem promovere</itype>
+promelle^re	
 promenervat		<itype>item</itype>
 pro_-merca_lis		
 :le:promercalis
@@ -166147,7 +166418,11 @@ pro_-me^ri^tum
 :no:pro_-me^ri^t	us_i neut
 
 
-Pro^me_theus		<orth type=alt>trisyl.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+Pro^me_theus		<orth type=alt>trisyl.</orth>	
+:le:Prometheus
+:no:Pro^me_th	eus_ei masc
+
+
 Pro^me_the_us		
 :le:Prometheus
 :aj:Pro^me_the_	us_a_um
@@ -166336,7 +166611,11 @@ pro_-mus
 :no:pro_-m	us_i masc
 
 
-promuscis		<itype>i^dis, a corrupt form for proboscis</itype>
+promuscis		
+:le:promuscis
+:no:promusci	s_dis fem
+
+
 pro_-mu_tu^us		
 :le:promutuus
 :aj:pro_-mu_tu^	us_a_um
@@ -167556,7 +167835,11 @@ pro_testa_ti^o
 :no:pro_testa_ti^	o_oLnis fem
 
 
-Pro_teus		<orth type=alt>dissyl.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+Pro_teus		<orth type=alt>dissyl.</orth>	
+:le:Proteus
+:no:Pro_t	eus_ei masc
+
+
 pro^the^o_re_ma		
 :le:protheorema
 :no:pro^the^o_re_	ma_matis neut
@@ -167893,7 +168176,7 @@ Pru_denti^us
 :no:Pru_dent	ius_i masc
 
 
-prugnum		<itype>pro privignum</itype>
+prugnum	
 pru^i_na		
 :le:pruina
 :no:pru^i_n	a_ae fem
@@ -168452,7 +168735,7 @@ ptarmi^-cum
 :no:ptarmi^-c	us_i neut
 
 
--pte^		<itype>a pronominal suffix appended to adjective and</itype>
+-pte^	
 Pte^le^um		<orth>-on</orth>	
 :le:Pteleum
 :no:Pte^le^	us_i neut
@@ -169018,7 +169301,7 @@ pugnus
 :no:pugn	us_i masc
 
 
-Puili^a		<itype>saxa esse ad portum qui sit secundum Tiberim ait Fabius Pictor</itype>
+Puili^a	
 pulchellus		<orth>pulcellus</orth>	
 :le:pulchellus
 :aj:pulchell	us_a_um
@@ -169693,7 +169976,7 @@ pu_ri^fi^cus
 :aj:pu_ri^fi^c	us_a_um
 
 
-pu_ri^me_		<itype>for purissime</itype>	
+pu_ri^me_		
 :le:purime
 :wd:pu_ri^me_	adverb
 
@@ -170039,7 +170322,7 @@ pu_^tre_du^lus		<orth type=alt>pu_^tri_d-</orth>
 
 
 
-pu_^tre^fi_o		<itype>factus, fieri</itype>
+pu_^tre^fi_o		<itype>factus</itype>
 pu_^tre^factio		
 :le:putrefactio
 :no:pu_^tre^facti	o_oLnis fem
@@ -170313,7 +170596,11 @@ Py_re_na_i^cus
 :aj:Py_re_na_i^c	us_a_um
 
 
-Py^re_neus		<orth type=alt>trisyl.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+Py^re_neus		<orth type=alt>trisyl.</orth>	
+:le:Pyreneus
+:no:Py^re_n	eus_ei masc
+
+
 py^re_^thrum		<orth>-on</orth>	
 :le:pyrethrum
 :no:py^re_^thr	us_i neut
@@ -170524,7 +170811,7 @@ Pythe^as
 :no:Pythe^	as_ae masc
 
 
-Py_thi^a		<itype>ae and o_rum</itype>
+Py_thi^a	
 Py_thia^s#2		
 :le:Pythias#2
 :no:Py_thi	as_adis fem
@@ -170630,7 +170917,7 @@ pyxis
 :no:pyx	is_idis fem
 
 
-Q		<orth type=alt>q</orth>	<itype>the sixteenth letter of the Latin alphabet</itype>	<pos>prep.</pos>	<pos>prep.</pos>
+Q		<orth type=alt>q</orth>	<pos>prep.</pos>	<pos>prep.</pos>
 qua_		
 :le:qua
 :wd:qua_	adverb
@@ -171009,7 +171296,7 @@ qua_^dri^-parti_ti^o
 :no:qua_^dri^-parti_ti^	o_oLnis fem
 
 
-qua_^dri^pla_to_res		<itype>dicebantur, qui eo  quaestu se tuebantur, ut eas res persequerentur, quarum ex legibus quadrupli erat actio</itype>
+qua_^dri^pla_to_res		<itype>dicebantur</itype>
 qua_^dri^-re_mi^s		
 :le:quadriremis
 :aj:qua_^dri^-re_m	is_e
@@ -171136,7 +171423,7 @@ qua_^dru^plum
 :no:qua_^dru^pl	us_i neut
 
 
-quadrurbem		<itype>Athenas Attius appellavit, quod scilicet ex quattuor urbibus in unam domicilia contulerunt, Braurone, Eleusine, Piraeeo, Sunio</itype>
+quadrurbem	
 qua_^drus		
 :le:quadrus
 :aj:qua_^dr	us_a_um
@@ -171294,8 +171581,7 @@ quamdi^u_ti^nus
 :aj:quamdi^u_ti^n	us_a_um
 
 
-quamdu_dum		<itype>more correctly as two words</itype>
-quam du_dum	
+quamdu_dum		<orth>quam du_dum</orth>
 quam-li^bet		<orth type=alt>-lu^bet</orth>	
 :le:quamlibet
 :wd:quam-li^bet	adverb
@@ -171609,7 +171895,7 @@ quattu^or-vi^ri		<orth type=alt>quat-</orth>
 :no:quattu^or-vi^r	us_i masc pl
 
 
-quaxa_re		<itype>ranae dicuntur, cum vocem mittunt</itype>
+quaxa_re	
 que^	
 que^madmo^dum		<orth>que^m ad mo^-dum</orth>	
 :le:quemadmodum
@@ -171718,7 +172004,7 @@ qui#1		<itype>quae, quod</itype>
 quei	
 qui_#2	
 qui^a^	
-qui_cumque		<itype>quaecumque, quodcumque</itype>
+qui_cumque		<itype>quaecumque</itype>
 qui_dam		<itype>quaedam, quoddam</itype>	<pos>adj.</pos>
 quiddam	
 qui^dem		
@@ -171758,7 +172044,7 @@ Qui^e_ta
 
 
 qui^e_te_	
-&Dagger;qui^e_ta_lis		<itype>ab antiquis dicebatur orcus</itype>
+&Dagger;qui^e_ta_lis	
 &Dagger;qui^e_to_ri^um		<itype>ii</itype>	<gen>n.</gen>
 qui^e_tu_do		
 :le:quietudo
@@ -171865,7 +172151,7 @@ quinqua_ge_na_ri^us
 :aj:quinqua_ge_na_r	ius_ia_ium
 
 
-quinqua_ge_na_ri^i		<itype>among the Israelites</itype>
+quinqua_ge_na_ri^i	
 quinqua_ge_ni		<itype>ae, a</itype>
 quinqua_gensi^ens		
 :le:quinquagensiens
@@ -171894,9 +172180,13 @@ quinquangu^lus
 
 
 Quinqua_tru_s		<itype>u^um</itype>	<gen>f.</gen>
-Quin-qua_tri^a		<itype>o_rum and i^um</itype>	<gen>n.</gen>
+Quin-qua_tri^a		
+:le:Quinquatria
+:no:Quin-qua_tr	is_is neut pl
+
+
 quinque#1		<pos>num. adj.</pos>
-quinque#2		<itype>for et quin</itype>
+quinque#2	
 quinque^fo^li^us		
 :le:quinquefolius
 :aj:quinque^fo^l	ius_ia_ium
@@ -172271,9 +172561,9 @@ quis-quis		<itype>quaeque, quodquod</itype>	<itype>Quidquid</itype>
 
 
 quisquis-li^bet	
-qui_-vi_s		<itype>quaevis, quodvis</itype>
+qui_-vi_s		<itype>quaevis</itype>
 quidvi_s	
-qui_vis-cumque		<itype>quaeviscumque, quodviscumque</itype>
+qui_vis-cumque	
 Quiza		
 :le:Quiza
 :no:Quiz	a_ae fem
@@ -172451,7 +172741,7 @@ quo^tus
 :aj:quo^t	us_a_um
 
 
-quo^tusquisque		<itype>to designate a small number</itype>
+quo^tusquisque	
 quo^tus-cumque		<itype>ta^cumque, tumcumque</itype>	<pos>adj.</pos>
 quo^tus-li^bet		<itype>ta^libet, tumlibet</itype>	<pos>adj.</pos>
 quo^-usque_		
@@ -172995,10 +173285,9 @@ ra_sis
 :no:ra_s	is_is fem
 
 
-ra_so_res		<itype>fidicines dicti, quia videntur chordas ictu radere</itype>
-rasta		
-:le:rasta
-:no:rast	a_ae fem
+ra_so_res		<orth>rasta</orth>	
+:le:rasores
+:no:ra_so_r	es_ae fem
 
 
 rastellus		
@@ -174793,7 +175082,7 @@ re_mi^gi^um
 :no:re_mi^g	ius_i neut
 
 
-remillum		<itype>dicitur quasi repandum</itype>
+remillum	
 re^mi^niscenti^ae		
 :le:reminiscentiae
 :no:re^mi^niscenti^	a_ae fem pl
@@ -174877,7 +175166,7 @@ re^mo^ra_trix
 :no:re^mo^ra_tr	ix_iLcis fem
 
 
-re^mo^res		<itype>aves in auspicio dicuntur, quae acturum aliquid remorari compellunt</itype>
+re^mo^res	
 re^mo^ra_tus		
 :le:remoratus
 :aj:re^mo^ra_t	us_a_um
@@ -174927,7 +175216,7 @@ re^mu_ne^ra_trix
 
 
 re^mu_ri^a		<orth>re^mo_ri^a</orth>	<orth>&mdash</orth>	<orth>le^mu_ri^a</orth>
-remuri_nus		<itype>ager dictus, qui possessus est a Remo</itype>
+remuri_nus	
 re^murmu^ra_ti^o		
 :le:remurmuratio
 :no:re^murmu^ra_ti^	o_oLnis fem
@@ -175005,7 +175294,7 @@ re^no^va_ti^o
 :no:re^no^va_ti^	o_oLnis fem
 
 
-re^no^va_ti_vum		<itype>fulgur vocatur, cum ex aliquo fulgure functio fieri coepit, si factum est simile fulgur, quod idem significet</itype>
+re^no^va_ti_vum	
 re^no^va_tor		
 :le:renovator
 :no:re^no^va_t	or_oLris masc
@@ -175446,6 +175735,7 @@ re^sa^lu_ta_ti^o
 :no:re^sa^lu_ta_ti^	o_oLnis fem
 
 
+re_-scisco		<itype>i_vi or ii, i_tum</itype>
 re_scissi^o		
 :le:rescissio
 :no:re_scissi^	o_oLnis fem
@@ -175496,6 +175786,7 @@ re^segmi^na
 :no:re^segmi^n	0_is neut pl
 
 
+re^-se^quor		<itype>se^cu_tus</itype>
 re^se^ra_bi^lis		
 :le:reserabilis
 :aj:re^se^ra_bi^l	is_e
@@ -175573,7 +175864,7 @@ re^si^piscenti^a
 :no:re^si^piscenti^	a_ae fem
 
 
-re^si^pisco		<itype>i_vi or i^i</itype>
+re^si^pisco	
 re^sistentia		
 :le:resistentia
 :no:re^sistenti	a_ae fem
@@ -176022,7 +176313,7 @@ re_^tri^bu_tor
 :no:re_^tri^bu_t	or_oLris masc
 
 
-retricibus		<itype>cum ait Cato, aquam eo nomine significat, qua_ horti irrigantur</itype>
+retricibus	
 re_^-tri_mentum		
 :le:retrimentum
 :no:re_^-tri_ment	us_i neut
@@ -176347,7 +176638,7 @@ Rhe_do^nes		<orth type=alt>Re_d-</orth>
 
 
 
-Rhe_gi^um		<orth>Rhe_gi_nus</orth>	<itype>incorrect spelling for Regium and Reginus</itype>
+Rhe_gi^um		<orth>Rhe_gi_nus</orth>
 Rhe_ne_		
 :le:Rhene
 :no:Rhe_n	e_es fem
@@ -176666,7 +176957,11 @@ Rhoete_-i^us
 :aj:Rhoete_-	ius_ia_ium
 
 
-Rhoeteus#2		<orth type=alt>dissyl.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+Rhoeteus#2		<orth type=alt>dissyl.</orth>	
+:le:Rhoeteus#2
+:no:Rhoet	eus_ei masc
+
+
 Rhoetus		<orth type=alt>Rhoecus</orth>	
 :le:Rhoetus
 :no:Rhoet	us_i masc
@@ -178689,7 +178984,7 @@ sa^cellum
 :no:sa^cell	us_i neut
 
 
-sa^cer		<itype>sa^_cra, sa^_crum</itype>	<pos>adj.</pos>	
+sa^cer		<itype>sa^_cra</itype>	<pos>adj.</pos>	
 :le:sacer
 :wd:sa^cer	adverb
 
@@ -178894,7 +179189,7 @@ Sa^_cri^por-ticus		<orth>sacri^um</orth>
 
 
 sa^_-cra_te_	
-sa^_cro_sanctus		<orth>sa^_cro_ sanctus</orth>	<itype>and per tmesin, sacroque sanctum</itype>	
+sa^_cro_sanctus		<orth>sa^_cro_ sanctus</orth>	
 :le:sacrosanctus
 :aj:sa^_cro_sanct	us_a_um
 
@@ -179667,7 +179962,7 @@ sa^li^sa_ti^o		<orth type=alt>salissa_ti^o</orth>
 :no:sa^li^sa_ti^	o_oLnis fem
 
 
-sa^li^sa_to_res		<itype>vocati sunt, quia dum eis membrorum quaecumque partes salierint, aliquid sibi exinde prosperum seu triste significari praedicunt</itype>
+sa^li^sa_to_res	
 Sa^li^subsu^li		
 :le:Salisubsuli
 :no:Sa^li^subsu^l	us_i masc pl
@@ -180263,7 +180558,7 @@ Sa^mi^o^lus
 :aj:Sa^mi^o^l	us_a_um
 
 
-Sammoni^um		<orth type=alt>Samon-</orth>	<itype>promontorium</itype>
+Sammoni^um		<orth type=alt>Samon-</orth>
 Samni^um		
 :le:Samnium
 :no:Samn	ius_i neut
@@ -181360,10 +181655,9 @@ sa^ti^ro^gra^phus		<orth>sa^ty^ro^gr-</orth>
 :no:sa^ti^ro^gra^ph	us_i masc
 
 
-sa^tis		<itype>and abbreviated</itype>
-sa^t		
-:le:sat
-:wd:sa^t	adverb
+sa^tis		<orth>sa^t</orth>	
+:le:satis
+:wd:sa^tis	adverb
 
 
 sa^tis		<orth>sa^t</orth>	<orth>sa^tis</orth>	<orth>sa^t</orth>	<orth>sa^tisfa^ci^o</orth>
@@ -181566,7 +181860,7 @@ Sa_turna_lis
 :aj:Sa_turna_l	is_e
 
 	<pos>adj.</pos>
-Sa_turna_li^a		<itype>io_rum, ibus</itype>
+Sa_turna_li^a		<itype>io_rum</itype>
 Sa_turna_li^ci^us		<orth>-ti^us</orth>	
 :le:Saturnalicius
 :aj:Sa_turna_li^c	ius_ia_ium
@@ -182128,7 +182422,7 @@ scandu^la		<orth>scindu^la</orth>
 
 
 
-scandulaca		<itype>genus herbae frugibus inimicae, quod eas velut hedera implicando necat</itype>
+scandulaca	
 scandu^la_ris		
 :le:scandularis
 :aj:scandu^la_r	is_e
@@ -182371,7 +182665,7 @@ sce^lus
 :no:sce^l	us_eris neut
 
 
-sce_na#1		<orth>sce_na</orth>	<itype>ab aliis, a quibusdam sacena appellatur, dolabra pontificalis</itype>
+sce_na#1		<orth>sce_na</orth>	<itype>ab aliis</itype>
 sce_na_ri^us		<orth type=alt>sce_ni^cus</orth>
 sce_ni_tes		
 :le:scenites
@@ -182783,6 +183077,7 @@ scisci^ta_tus
 :aj:scisci^ta_t	us_a_um
 
 
+scisco		<itype>sci_vi, sci_tum</itype>
 sci_tum		
 :le:scitum
 :no:sci_t	us_i neut
@@ -183080,7 +183375,7 @@ scorta_tus
 :no:scorta_t	us_us masc
 
 
-scortes		<itype>id est pelles testium arietinorum a pellibus dicti</itype>
+scortes	
 scorte^us		
 :le:scorteus
 :aj:scorte^	us_a_um
@@ -183557,7 +183852,7 @@ scu_ti^ge^ru^lus
 :no:scu_ti^ge^ru^l	us_i masc
 
 
-scuti^lum		<itype>tenue et macrum et in quo tantum exilis pellicula cernitur</itype>
+scuti^lum	
 scu^_tra		
 :le:scutra
 :no:scu^_tr	a_ae fem
@@ -183877,13 +184172,13 @@ se_cessi^o
 :no:se_cessi^	o_oLnis fem
 
 
-secessi^o_nes		<itype>narrationes</itype>
+secessi^o_nes	
 se_cessus		
 :le:secessus
 :no:se_cess	us_us masc
 
 
-se^ci_vum		<itype>librum est, quod secespita_ secatur</itype>
+se^ci_vum		<itype>librum est</itype>
 se_clu_so_ri^um		
 :le:seclusorium
 :no:se_clu_so_r	ius_i neut
@@ -184103,8 +184398,7 @@ se_-cu_rus
 se_-cu_re_		<orth>se_cu_ri^ter</orth>
 se^cus#2		<pos>Adj.</pos>
 se^qui^or		<itype>us, o_ris</itype>
-se^qui^us		<itype>but with negatives or quo, eo, nihilo</itype>
-se_ti^us		<orth>se_-ci^us</orth>	<orth>secti^us</orth>
+se^qui^us		<orth>se_ti^us</orth>	<orth>se_-ci^us</orth>	<orth>secti^us</orth>
 se^cu_ti^o		
 :le:secutio
 :no:se^cu_ti^	o_oLnis fem
@@ -185281,7 +185575,7 @@ se_mi^-ple_nus
 
 
 se_mi^-ple_ne_	
-se_miploti^a		<itype>soleae dimidiatae appellantur, quibus utebantur in venando, quo planius pedem ponerent</itype>
+se_miploti^a	
 se_mi^-pu^ella		
 :le:semipuella
 :no:se_mi^-pu^ell	a_ae fem
@@ -186699,7 +186993,7 @@ sermo_na_lis
 :aj:sermo_na_l	is_e
 
 
-sermo_na_ri		<itype>rusticius videtur</itype>
+sermo_na_ri	
 sermuncu^lus		
 :le:sermunculus
 :no:sermuncu^l	us_i masc
@@ -186854,7 +187148,6 @@ serru^la
 :no:serru^l	a_ae fem
 
 
-serta#1		<itype>o_rum and ae</itype>
 sertaCampa_ni^ca#2		<orth>serta</orth>	
 :le:sertaCampanica#2
 :no:sertaCampa_ni^c	a_ae fem
@@ -187300,7 +187593,7 @@ sesterti^us
 :le:sestertius
 :no:sestert	ius_i masc
 
-	<pos>adj.</pos>	<orth type=alt>centum</orth>	<itype>milia sestertiu_m, preceded by a numeral adverb</itype>	<pos>adj.</pos>
+	<pos>adj.</pos>	<orth type=alt>centum</orth>	<pos>adj.</pos>
 ses-terti^um		
 :le:sestertium
 :no:ses-tert	ius_i neut
@@ -187636,7 +187929,7 @@ sibonis
 :no:sibon	is_is masc
 
 
-sibus		<itype>callidus sive acutus</itype>
+sibus	
 Sibuza_tes	
 Si^bylla		<orth>Si^bul-la</orth>	
 :le:Sibylla
@@ -188048,7 +188341,11 @@ si^gilla
 :no:si^gill	us_i neut pl
 
 
-Si^gilla_ri^a		<itype>o_rum, ibus and iis</itype>	<gen>n.</gen>
+Si^gilla_ri^a		
+:le:Sigillaria
+:no:Si^gilla_ri^	us_i neut pl
+
+	<itype>iis</itype>	<gen>n.</gen>
 si^gilla_ri^a_ri^us		
 :le:sigillariarius
 :no:si^gilla_ri^a_r	ius_i masc
@@ -188257,7 +188554,7 @@ Si^la^rus
 
 
 Silerus		<orth>Siler</orth>
-silatum		<itype>antiqui pro eo, quod nunc jentaculum dicimus, appellabant, quia jejuni vinum sili conditum ante meridiem absorbebant</itype>
+silatum	
 silaus		
 :le:silaus
 :no:sila	us_i masc
@@ -188656,7 +188953,7 @@ simpli^ci^tas
 :no:simpli^ci^	tas_tatis fem
 
 
-simplu^di^a_re^a		<itype>funera sunt, quibus adhibentur duntaxat ludi</itype>
+simplu^di^a_re^a	
 simplus		
 :le:simplus
 :aj:simpl	us_a_um
@@ -189140,7 +189437,7 @@ si_qui^dem
 :wd:si_qui^dem	adverb
 
 
-si_-quis		<orth>si_-qui</orth>	<itype>si_qua, si_quid or si_quod, or separately</itype>
+si_-quis		<orth>si_-qui</orth>	<itype>si_qua</itype>
 si_ quis	
 Siraci		
 :le:Siraci
@@ -190195,7 +190492,6 @@ solli^ci^tus		<orth type=alt>so_li^ci^tus</orth>
 
 
 solli^ci^te_	
-solli^cu_ri^a		<itype>in omni re curiosa</itype>
 solli^ferreum		<orth type=alt>so_li^f-</orth>	
 :le:solliferreum
 :no:solli^ferre	us_i neut
@@ -190365,10 +190661,9 @@ so^lu_tum
 
 
 so^lu_te_	
-So^ly^ma		<itype>o_rum and ae</itype>
-So^ly^mi		
-:le:Solymi
-:no:So^ly^m	us_i masc pl
+So^ly^ma		<orth>So^ly^mi</orth>	
+:le:Solyma
+:no:So^ly^m	us_i neut pl
 
 
 So^ly^mus		
@@ -190785,7 +191080,7 @@ so_ri_tes
 :no:so_ri_t	es_ae masc
 
 
-sorix		<orth>savrix</orth>	<itype>avis tributa Saturno ab auguribus</itype>
+sorix		<orth>savrix</orth>
 so^ror		
 :le:soror
 :no:so^r	or_oLris fem
@@ -191341,7 +191636,7 @@ specta_men
 :no:specta_	men_minis neut
 
 
-specta_menta		<itype>sunt quae spectantur</itype>
+specta_menta	
 specta_ti^o		
 :le:spectatio
 :no:specta_ti^	o_oLnis fem
@@ -191544,7 +191839,7 @@ spe_ra_ta
 
 
 spes		<itype>spe_i</itype>	<gen>f.</gen>
-spe_ti^le		<itype>vocatur infra umbilicum suis, quod est carnis, proprii cujusdam habitus, exos</itype>
+spe_ti^le	
 Speusippus		
 :le:Speusippus
 :no:Speusipp	us_i masc
@@ -192239,7 +192534,7 @@ sponte		<orth>spontis</orth>
 :no:spont	e_es fem
 
 	<pos>prep.</pos>
-spontis		<itype>only in the phrase suae spontis</itype>
+spontis	
 Spo^ra^des		
 :le:Sporades
 :no:Spo^ra^d	0_is fem pl
@@ -192816,7 +193111,7 @@ Sta^si^mus
 :no:Sta^si^m	us_i masc
 
 
-sta^taema_tris		<itype>simulacrum in foro colebatur</itype>
+sta^taema_tris	
 sta^ta_numvi_num	
 Sta^ta_nus		<orth>Sta^tu^li_nus</orth>	
 :le:Statanus
@@ -193715,7 +194010,7 @@ stla_ta_ri^us		<orth type=alt>stlatt-</orth>
 :aj:stla_ta_r	ius_ia_ium
 
 
-stlembus		<itype>gravis tardus, sicut Lucilius pedibus stlembum dixit equum pigrum et tardum</itype>
+stlembus	
 stloppus		
 :le:stloppus
 :no:stlopp	us_i masc
@@ -194798,7 +195093,7 @@ sty^ra^ci^nus
 :aj:sty^ra^ci^n	us_a_um
 
 
-Styx		<itype>y^gis and y^gos</itype>	<gen>f.</gen>
+Styx		<itype>y^gos</itype>	<gen>f.</gen>
 Sty^gi^us		
 :le:Stygius
 :aj:Sty^g	ius_ia_ium
@@ -194809,7 +195104,7 @@ Sty^gi^a_lis
 :aj:Sty^gi^a_l	is_e
 
 
-suadted		<itype>idem ait esse sic te</itype>
+suadted	
 sua_de_la		<orth>sua_della</orth>	
 :le:suadela
 :no:sua_de_l	a_ae fem
@@ -195923,7 +196218,7 @@ subsigna_ti^o
 :no:subsigna_ti^	o_oLnis fem
 
 
-subsilles		<itype>dicebantur quaedam lamellae sacrificiis necessariae</itype>
+subsilles	
 sub-si^mi^lis		
 :le:subsimilis
 :aj:sub-si^mi^l	is_e
@@ -195934,7 +196229,7 @@ sub-si_mus
 :aj:sub-si_m	us_a_um
 
 
-subsi^pe^re		<itype>quod non plane sapit</itype>
+subsi^pe^re	
 subsistentia		
 :le:subsistentia
 :no:subsistenti	a_ae fem
@@ -196951,7 +197246,7 @@ su_dor
 :no:su_d	or_oLris masc
 
 
-su_do_ri^fer		<itype>fe^ra, fe^rum</itype>
+su_do_ri^fer		<itype>fe^ra</itype>
 su_do_rus		
 :le:sudorus
 :aj:su_do_r	us_a_um
@@ -196993,7 +197288,7 @@ Suelteri
 :no:Suelter	us_i masc pl
 
 
-su^esco		<itype>su^e_vi, su^e_tum</itype>
+su^esco		<itype>su^e_vi</itype>
 sue_tus		
 :le:suetus
 :aj:sue_t	us_a_um
@@ -197180,7 +197475,7 @@ suffi_mentum
 :no:suffi_ment	us_i neut
 
 
-suffiscus		<itype>dicebatur folliculus testium arietinorum, quo utebantur pro marsupio, forsitan dictus a fisci similitudine</itype>
+suffiscus	
 suffi_ti^o		
 :le:suffitio
 :no:suffi_ti^	o_oLnis fem
@@ -197621,7 +197916,6 @@ Sul-pi^ci^a_nus
 :aj:Sul-pi^ci^a_n	us_a_um
 
 
-sum-#3		<itype>in composition</itype>
 su_men		<itype>inis</itype>	<gen>n.</gen>
 su_mi^na_tus		
 :le:suminatus
@@ -198457,7 +198751,7 @@ su^per-va^cu^us
 
 
 su^perva^cu^o_		<orth>su^perva^cu^e_</orth>
-su^perva^ga_ne^a		<itype>dicebatur ab auguribus avis quae ex summo cacumine vocem emisisset, dicta ita, quia super omnia vagatur aut canit</itype>
+su^perva^ga_ne^a	
 su^perventio		
 :le:superventio
 :no:su^perventi	o_oLnis fem
@@ -200628,6 +200922,7 @@ taeda		<orth type=alt>te_da</orth>
 :no:taed	a_ae fem
 
 
+taedet	
 taedi^fer		
 :le:taedifer
 :aj:taedi^f	er_era_erum
@@ -201041,6 +201336,7 @@ tangi^bi^lis
 :aj:tangi^bi^l	is_e
 
 
+tango		<itype>te^ti^gi, tactum</itype>
 tani^a^cae		
 :le:taniacae
 :no:tani^a^c	a_ae fem pl
@@ -201161,7 +201457,7 @@ Ta_pro^ba^ne_
 
 
 Ta_-pro^ba^na	
-tapullam		<itype>legem convivalem ficto nomine conscripsit jocoso carmine Valerius Valentinus</itype>
+tapullam	
 ta^randrus		
 :le:tarandrus
 :no:ta^randr	us_i masc
@@ -201183,7 +201479,7 @@ Ta^ras
 
 
 Ta^ra^talla	
-ta^ra^tanta^ra^		<itype>an onomatopee</itype>
+ta^ra^tanta^ra^	
 Tarbelli		
 :le:Tarbelli
 :no:Tarbell	us_i masc pl
@@ -201204,7 +201500,7 @@ Tar-belli^cus
 :aj:Tar-belli^c	us_a_um
 
 
-Tarcho		<orth>Tarchon</orth>	<itype>o_nis or ontis</itype>	<gen>m.</gen>
+Tarcho		<orth>Tarchon</orth>	<itype>ontis</itype>	<gen>m.</gen>
 Tarcondimotus		
 :le:Tarcondimotus
 :no:Tarcondimot	us_i masc
@@ -201762,7 +202058,7 @@ Taveni
 :no:Taven	us_i masc pl
 
 
-tax		<itype>an onomatopee, expressing the sound of blows</itype>
+tax	
 taxa		
 :le:taxa
 :no:tax	a_ae fem
@@ -201848,7 +202144,7 @@ Tazata
 :no:Tazat	a_ae fem
 
 
-te^#2		<itype>a pronominal suffix</itype>
+te^#2	
 Te^a_num		
 :le:Teanum
 :no:Te^a_n	us_i neut
@@ -203078,7 +203374,11 @@ Tereses
 :no:Teres	is_is masc pl
 
 
-Te_reus		<itype>e^i or e^os</itype>	<gen>m.</gen>
+Te_reus		
+:le:Tereus
+:no:Te_r	eus_ei masc
+
+
 Te_re^i^des		
 :le:Tereides
 :no:Te_re^i^d	es_ae masc
@@ -203621,7 +203921,7 @@ teste^us
 :aj:teste^	us_a_um
 
 
-testi^cu^la_ri		<itype>est jumentis maribus feminas vel mares feminis admovere, licet alii dicant testilari</itype>
+testi^cu^la_ri	
 testi^cu^la_tus		
 :le:testiculatus
 :aj:testi^cu^la_t	us_a_um
@@ -204141,7 +204441,7 @@ tha^lassi_tes
 
 
 tha^lasso^me^li		<gen>n.</gen>
-Tha^les		<itype>is and le_tis</itype>	<gen>m.</gen>
+Tha^les		<gen>m.</gen>
 Tha^le_ti^cus		
 :le:Thaleticus
 :aj:Tha^le_ti^c	us_a_um
@@ -204955,7 +205255,11 @@ The^ti^di^um
 :no:The^ti^d	ius_i neut
 
 
-The^tis		<itype>i^dis, or i^dos</itype>
+The^tis		
+:le:Thetis
+:no:The^ti	s_dis fem
+
+
 The^lis		
 :le:Thelis
 :no:The^l	is_is fem
@@ -205069,7 +205373,7 @@ Tho^antis
 :no:Tho^ant	is_idis fem
 
 
-tho_cum		<itype>genus sellae habetur apud Plautum</itype>
+tho_cum	
 tho^lus		
 :le:tholus
 :no:tho^l	us_i masc
@@ -205592,13 +205896,17 @@ Tibara_ni
 :no:Tibara_n	us_i masc pl
 
 
-Ti^ba^re_ni		<itype>o_rum or u_m</itype>	<gen>m.</gen>
+Ti^ba^re_ni		<itype>u_m</itype>	<gen>m.</gen>
 Ti^be^ris		
 :le:Tiberis
 :aj:Ti^be^r	is_e
 
 
-Tibris		<orth type=alt>Ty-bris</orth>	<itype>is or i^dis</itype>	<gen>m.</gen>
+Tibris		<orth type=alt>Ty-bris</orth>	
+:le:Tibris
+:no:Tibr	is_idis masc
+
+
 Ti^be^ri_nus		<orth>Ti_bri_-nus</orth>	
 :le:Tiberinus
 :aj:Ti^be^ri_n	us_a_um
@@ -205852,7 +206160,7 @@ ti_^gri_nus
 :aj:ti_^gri_n	us_a_um
 
 
-ti_^gris#1		<itype>is or i^dis</itype>
+ti_^gris#1	
 Ti_^gris#2		
 :le:Tigris#2
 :no:Ti_^gr	is_idis masc
@@ -206168,7 +206476,7 @@ ti_runcu^la
 :no:ti_runcu^l	a_ae fem
 
 
-Ti_ryns		<itype>nthis or nthos</itype>	<gen>f.</gen>
+Ti_ryns		<itype>nthos</itype>	<gen>f.</gen>
 Ti_rynthi^us		
 :le:Tirynthius
 :aj:Ti_rynth	ius_ia_ium
@@ -206250,8 +206558,7 @@ Ti_ta_-ni^us
 
 
 Ti_ta_ni^a		<orth>Ti_ta_ni^a^cus</orth>	<itype>a, um</itype>	<pos>adj.</pos>
-Ti_ta_nis		<itype>i^dis or i^dos</itype>
-Ti_ta_nis		
+Ti_ta_nis		<orth>Ti_ta_nis</orth>	
 :le:Titanis
 :no:Ti_ta_n	is_idis fem
 
@@ -206695,7 +207002,7 @@ To^my^ris
 
 
 Ta^my^ris		<orth>Ta^mi^ris</orth>	<orth>Tha^my^ris</orth>
-tonge_re		<itype>Aelius Stilo ait noscere esse</itype>
+tonge_re	
 to^ni^tru^a_lis		
 :le:tonitrualis
 :aj:to^ni^tru^a_l	is_e
@@ -208041,8 +208348,6 @@ Transrhe_na_ni
 :no:Transrhe_na_n	us_i masc pl
 
 
-transscendo		<itype>e^re, and its derivatives</itype>
-transsu_mo		<itype>e^re, and its derivatives</itype>
 Transthe_ba^i_ta_nus		
 :le:Transthebaitanus
 :aj:Transthe_ba^i_ta_n	us_a_um
@@ -208151,7 +208456,13 @@ Tra^pe_zu_s
 :no:Tra^pe_z	us_untis fem
 
 
-Tra^su^me_nus		<orth>Tra^sy^me_nus</orth>	<orth>Tra^si^me_nus</orth>	<itype>Trasimenus lacus, or simply Trasimenus</itype>	<pos>adj.</pos>
+Tra^su^me_nus		<orth>Tra^sy^me_nus</orth>	<orth>Tra^si^me_nus</orth>	
+:le:Trasumenus
+:no:Tra^su^me_n	us_a_um masc
+:no:Tra^si^me_n	us_a_um masc orth
+
+
+
 Tra^si^me_ni^cus		
 :le:Trasimenicus
 :aj:Tra^si^me_ni^c	us_a_um
@@ -208334,7 +208645,7 @@ tre^pi^dus
 
 
 tre^pi^de_	
-tre^pit		<itype>vertit, unde trepido et trepidatio, quia turbatione mens vertitur</itype>
+tre^pit		<itype>vertit</itype>
 tre^pondo	
 tre_s		<orth>treis</orth>	<orth>tri_s</orth>	<itype>tri^a</itype>	<pos>num. adj.</pos>
 tressis		
@@ -209679,7 +209990,7 @@ tri^to^mus
 :no:tri^to^m	us_i masc
 
 
-Tri_to_n		<itype>o_nis or o_no^s</itype>	<gen>m.</gen>
+Tri_to_n		<itype>o_no^s</itype>	<gen>m.</gen>
 Tri_to_ni^us		
 :le:Tritonius
 :aj:Tri_to_n	ius_ia_ium
@@ -209700,8 +210011,8 @@ Tri_to_ni^a^cus
 :aj:Tri_to_ni^a^c	us_a_um
 
 
-Tri_to_nis		<itype>i^dis or i^dos</itype>	<gen>f.</gen>	<pos>adj.</pos>
-Tri_to_nis		<itype>i^dis or i^dos</itype>	<gen>f.</gen>
+Tri_to_nis		<itype>i^dos</itype>	<gen>f.</gen>	<pos>adj.</pos>
+Tri_to_nis		<itype>i^dos</itype>	<gen>f.</gen>
 Tritopa^treus		<orth type=alt>quadrisyl.</orth>	
 :le:Tritopatreus
 :no:Tritopa^tr	eus_ei masc
@@ -209776,7 +210087,7 @@ tri^umvi^ra_tus
 :no:tri^umvi^ra_t	us_us masc
 
 
-triumvi^ri		<orth>tresvi^ri</orth>	<orth>IIIvi^ri</orth>	<itype>o_rum or u_m</itype>	<gen>m.</gen>
+triumvi^ri		<orth>tresvi^ri</orth>	<orth>IIIvi^ri</orth>	<itype>u_m</itype>	<gen>m.</gen>
 tri^uncis		
 :le:triuncis
 :aj:tri^unc	is_e
@@ -210040,7 +210351,7 @@ Tro_s
 :no:Tr	os_ois masc
 
 
-Tro_a^s		<itype>a^dis or a^do^s</itype>	<pos>Subst.</pos>
+Tro_a^s		<pos>Subst.</pos>
 Tro_i^a^des		
 :le:Troiades
 :no:Tro_i^a^d	0_is fem pl
@@ -211281,7 +211592,11 @@ Ty^chi^us
 :no:Ty^ch	ius_i masc
 
 
-Ty_deus		<orth type=alt>dissyl.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+Ty_deus		<orth type=alt>dissyl.</orth>	
+:le:Tydeus
+:no:Ty_d	eus_ei masc
+
+
 Ty_di_des		
 :le:Tydides
 :no:Ty_di_d	es_ae masc
@@ -211801,7 +212116,11 @@ ulte^ri^o_ra
 
 
 ulte^ri^us		<itype>o_ris</itype>	<gen>n.</gen>
-ulti^mus		<itype>a, um, that is farthest beyond</itype>	<pos>Subst.</pos>
+ulti^mus		
+:le:ultimus
+:aj:ulti^m	us_a_um
+
+	<pos>Subst.</pos>
 ulti^mi		
 :le:ultimi
 :no:ulti^m	us_i masc pl
@@ -212515,7 +212834,7 @@ ungu^la
 :no:ungu^l	a_ae fem
 
 
-ungu^latros		<itype>ungues magnos atque asperos Cato appellavit</itype>
+ungu^latros	
 ungu^la_tus		
 :le:ungulatus
 :aj:ungu^la_t	us_a_um
@@ -212526,7 +212845,7 @@ ungu^lus
 :no:ungu^l	us_i masc
 
 
-ungustus		<itype>fustis uncus</itype>
+ungustus	
 u_ni^-a^ni^mis		
 :le:unianimis
 :aj:u_ni^-a^ni^m	is_e
@@ -213211,7 +213530,7 @@ u_tensi^li^tas
 
 
 u_ter#1		<itype>tris</itype>	<gen>m.</gen>
-u^ter#3		<itype>u_^tra, u_^trum</itype>	<itype>Hence</itype>	
+u^ter#3		<itype>u_^tra</itype>	<itype>Hence</itype>	
 :le:uter#3
 :wd:u^ter	adverb
 
@@ -213222,16 +213541,17 @@ u^tercu^lus
 :no:u^tercu^l	us_i masc
 
 
-u^ter-cumque		<orth type=alt>-cunq-</orth>	<itype>utra^cumque, utrumcumque</itype>
+u^ter-cumque		<orth type=alt>-cunq-</orth>
 u^te^ri_nus		
 :le:uterinus
 :aj:u^te^ri_n	us_a_um
 
 
-u^ter-li^bet		<itype>utra^li^bet, utrumli^bet</itype>
-u^tra_li^bet		
-:le:utralibet
-:wd:u^tra_li^bet	adverb
+u^ter-li^bet		<orth>u^tra_li^bet</orth>	
+:le:uterlibet
+:wd:u^ter-li^bet	adverb
+
+:wd:u^tra_li^bet	adverb orth
 
 
 u^tro_li^bet		
@@ -213239,7 +213559,7 @@ u^tro_li^bet
 :wd:u^tro_li^bet	adverb
 
 
-u^ter-que		<itype>utra^que, utrumque</itype>
+u^ter-que		<itype>utra^que</itype>
 u^tro_que^		
 :le:utroque
 :wd:u^tro_que^	adverb
@@ -213839,7 +214159,7 @@ valles		<orth>vallis</orth>
 
 
 
-vallescit		<itype>perierit, dictum a vallo militari, quod fit circa castra, quod qui eo eiciuntur pro perditis habentur</itype>
+vallescit		<itype>perierit</itype>
 vallestri^a		
 :le:vallestria
 :no:vallestr	is_is neut pl
@@ -214728,7 +215048,7 @@ ve^l
 :le:vel
 :wd:ve^l	adverb
 
-	<orth type=alt>last</orth>	<itype>vel strengthened</itype>
+	<orth type=alt>last</orth>
 vela		
 :le:vela
 :no:vel	a_ae fem
@@ -215827,8 +216147,7 @@ ve_ri^lo^quus
 :aj:ve_ri^lo^qu	us_a_um
 
 
-ve_ri^si^mi^lis		<orth type=alt>ve_ri^si^mi^li^ter</orth>	<orth>ve_ri^si^mi^li^tu_do</orth>	<itype>more correctly written separately</itype>
-ve_ri_ si^mi^lis	
+ve_ri^si^mi^lis		<orth type=alt>ve_ri^si^mi^li^ter</orth>	<orth>ve_ri^si^mi^li^tu_do</orth>	<orth>ve_ri_ si^mi^lis</orth>
 ve_ri^tas		
 :le:veritas
 :no:ve_ri^	tas_tatis fem
@@ -215939,7 +216258,7 @@ verni_li^tas
 :no:verni_li^	tas_tatis fem
 
 
-vernisera		<itype>mensalia auguria</itype>
+vernisera	
 vernu^la		<itype>ae</itype>	<pos>adj.</pos>
 vernus#2		
 :le:vernus#2
@@ -216452,7 +216771,7 @@ vespa
 :no:vesp	a_ae fem
 
 
-vespae		<itype>et vespillones dicuntur, qui funerandis corporibus officium gerunt, non a minutis illis volucribus, sed quia vespertino tempore eos efferunt</itype>
+vespae	
 Vespa^si^a_nus		
 :le:Vespasianus
 :no:Vespa^si^a_n	us_i masc
@@ -216468,7 +216787,7 @@ Vespasi^a
 :no:Vespasi^	a_ae fem
 
 
-vesper		<itype>e^ris and e^ri</itype>	<gen>m.</gen>
+vesper		<gen>m.</gen>
 vespe^ra		
 :le:vespera
 :no:vespe^r	a_ae fem
@@ -216489,7 +216808,7 @@ Vesperi^es
 :aj:Vesperi^	es_is fem
 
 
-vesperna		<itype>apud Plautum cena intellegitur</itype>
+vesperna	
 vesperti_li^o		
 :le:vespertilio
 :no:vesperti_li^	o_oLnis masc
@@ -216515,7 +216834,7 @@ vespe^rus
 :aj:vespe^r	us_a_um
 
 
-vespices		<itype>frutecta densa dicta a similitudine vestis</itype>
+vespices	
 vespillo		
 :le:vespillo
 :no:vespill	o_oLnis masc
@@ -216813,6 +217132,7 @@ ve^-te^ra_tus
 :aj:ve^-te^ra_t	us_a_um
 
 
+ve^to		<itype>u^i, i^tum</itype>
 ve^ti^tum		
 :le:vetitum
 :no:ve^ti^t	us_i neut
@@ -217092,7 +217412,7 @@ vi_^bra_tus#2
 :no:vi_^bra_t	us_us masc
 
 
-vi_^brissae		<itype>pili in naribus hominum, dicti quod his evulsis caput vibratur</itype>
+vi_^brissae	
 Vi_bulli^us		
 :le:Vibullius
 :no:Vi_bull	ius_i masc
@@ -217728,7 +218048,7 @@ vincapervinca		<orth>vincapervinca</orth>
 
 
 pervinca	
-vinciam		<itype>dicebant continentem</itype>
+vinciam	
 vinci^bi^lis		
 :le:vincibilis
 :aj:vinci^bi^l	is_e
@@ -218341,7 +218661,7 @@ vi^ri^po^tens#2
 :aj:vi^ri^po^t	ens_adj
 
 
-vi^ri_ta_nus		<itype>ager dicitur, qui viritim populo distribuitur</itype>
+vi^ri_ta_nus	
 vi^ri_tim		
 :le:viritim
 :wd:vi^ri_tim	adverb
@@ -219347,7 +219667,7 @@ Volsi^ni^en-ses		<orth type=alt>Vuls-</orth>
 
 
 
-volt		<orth type=alt>voltis</orth>	<itype>old forms for vult, vultis, from volo</itype>
+volt		<orth type=alt>voltis</orth>
 Volta	
 Voltini^atri^bus		<orth>Voltini^enses</orth>	<itype>i^um</itype>	<gen>m.</gen>
 Voltumna		
@@ -219370,7 +219690,7 @@ vo^lu_bi^li^tas
 :no:vo^lu_bi^li^	tas_tatis fem
 
 
-vo^lu^cer		<itype>u_^cris, u_^cre</itype>	<pos>adj.</pos>
+vo^lu^cer		<itype>u_^cris</itype>	<pos>adj.</pos>
 vo^lu_^cris		
 :le:volucris
 :no:vo^lu_^cr	is_is fem
@@ -219638,7 +219958,7 @@ Vo^piscus#2
 :no:Vo^pisc	us_i masc
 
 
-vopte		<itype>pro vos ipsi Cato posuit</itype>
+vopte	
 vo^ra_ci^tas		
 :le:voracitas
 :no:vo^ra_ci^	tas_tatis fem
@@ -219680,7 +220000,7 @@ vo^ra_ci^ter
 
 vorsovorso_ri^us		<orth type=alt>vorsum</orth>
 vortexvorti^co_sus		<orth type=alt>vorto</orth>
-Vo^se^gus		<orth>Vo^sa^gus</orth>	<itype>and, less correctly</itype>
+Vo^se^gus		<orth>Vo^sa^gus</orth>	<itype>and</itype>
 Vo^ge^sus		
 :le:Vogesus
 :no:Vo^ge^s	us_i masc
@@ -219701,7 +220021,7 @@ vo_ti_vus
 :aj:vo_ti_v	us_a_um
 
 
-vo^to		<itype>archaic form of veto</itype>
+vo^to	
 vo_tum		
 :le:votum
 :no:vo_t	us_i neut
@@ -220234,8 +220554,8 @@ xystum
 :no:xyst	us_i neut
 
 
-Y		<orth type=alt>y</orth>	<itype>a Greek letter introduced at a late period for words borrowed from the Greek</itype>
-Z		<orth type=alt>z</orth>	<itype>was perhaps a letter of the original Latin alphabet, since it is found in the Carmen Saliare</itype>
+Y		<orth type=alt>y</orth>
+Z		<orth type=alt>z</orth>
 Za^bu^lo_n		
 :le:Zabulon
 :no:Za^bu^l	oLn_oLnis masc
@@ -220466,7 +220786,11 @@ ze_us
 :no:ze_	us_i masc
 
 
-Zeuxis		<itype>is and i^dis</itype>	<gen>m.</gen>
+Zeuxis		
+:le:Zeuxis
+:no:Zeux	is_is masc
+
+
 zingi^be^ri		<orth>zimpi^be^ri</orth>	<itype>indecl.</itype>	<gen>n.</gen>
 zingi^-ber		
 :le:zingiber
