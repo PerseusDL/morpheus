@@ -685,6 +685,10 @@ checkstring4(gk_word *Gkword)
 	Xstrncpy(saveword,workword,MAXWORDSIZE);
 	Xstrncpy(wordnoacc,workword,MAXWORDSIZE);
 	stripacc(wordnoacc);
+
+/* A handful of Greek orthographic variations */
+	if (cur_lang() == GREEK)
+	{
 	
 /*
  * look for "cun" instead of "sun"
@@ -698,7 +702,7 @@ checkstring4(gk_word *Gkword)
  * consistently coded in middle liddell). let the preverb routines handle this for
  * verbs.
  */
-	if( has_cun(workword) ) {
+	  if( has_cun(workword) ) {
 		Xstrncpy(string,workword,MAXWORDSIZE);
 /*
 		rval=checkstring4(Gkword);
@@ -708,20 +712,20 @@ checkstring4(gk_word *Gkword)
 		Xstrncpy(string,saveword,MAXWORDSIZE);
 		if( rval > 0 )
 			return(rval);
-	}
-	Xstrncpy(workword,saveword,MAXWORDSIZE);
+	  }
+	  Xstrncpy(workword,saveword,MAXWORDSIZE);
 
 /*
  * look for "tt" and change it to "ss"
  */
-	if( has_tt(workword) ) {
+	  if( has_tt(workword) ) {
 		Xstrncpy(string,workword,MAXWORDSIZE);
 		rval=checkstring4(Gkword);
 		Xstrncpy(string,saveword,MAXWORDSIZE);
 		if( rval > 0 )
 			return(rval);
-	}
-	Xstrncpy(workword,saveword,MAXWORDSIZE);
+	  }
+	  Xstrncpy(workword,saveword,MAXWORDSIZE);
 	
 
 /*
@@ -740,9 +744,9 @@ checkstring4(gk_word *Gkword)
   */
 /*
 #define Is_sigmatic(X) (X =='s' || X == 'y' || X == 'c' )
-	a = wordnoacc;
-	while( *a ) a++; a--;
-	if( a - wordnoacc > 2 ) {
+	  a = wordnoacc;
+	  while( *a ) a++; a--;
+	  if( a - wordnoacc > 2 ) {
 		if( ( *a == 'n' ) &&
 		   ( (*(a-1) == 'i' && Is_sigmatic( *(a-2))) ||
 		     (*(a-1) == 'e' )))   {
@@ -753,8 +757,11 @@ checkstring4(gk_word *Gkword)
 			if( rval > 0 )
 				return(rval);
 		}
-	}
+	  }
 */
+
+	}
+
 	return(0);
 }
 
