@@ -7,6 +7,7 @@ a^ias	irreg_pp1 2nd sg pres subj act
 a^iat	irreg_pp1 3rd sg pres subj act
 aiant	irreg_pp1 3rd pl pres subj act
 aie@imperf	irreg_pp1 ind act imperf
+ai@imperf	irreg_pp1 ind act imperf early
 
 :le:eo#1
 :vs:i		perfstem

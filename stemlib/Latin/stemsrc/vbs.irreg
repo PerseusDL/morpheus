@@ -8,11 +8,17 @@
 :vb:a^iat   irreg_pp1 pres subj act 3rd sg
 :vb:aiant   irreg_pp1 pres subj act 3rd pl
 :vb:aiebam   irreg_pp1 imperf ind act 1st sg
+:vb:aibam   irreg_pp1 imperf ind act 1st sg early
 :vb:aieba_s   irreg_pp1 imperf ind act 2nd sg
+:vb:aiba_s   irreg_pp1 imperf ind act 2nd sg early
 :vb:aiebat   irreg_pp1 imperf ind act 3rd sg
+:vb:aibat   irreg_pp1 imperf ind act 3rd sg early
 :vb:aieba_mus   irreg_pp1 imperf ind act 1st pl
+:vb:aiba_mus   irreg_pp1 imperf ind act 1st pl early
 :vb:aieba_tis   irreg_pp1 imperf ind act 2nd pl
+:vb:aiba_tis   irreg_pp1 imperf ind act 2nd pl early
 :vb:aiebant   irreg_pp1 imperf ind act 3rd pl
+:vb:aibant   irreg_pp1 imperf ind act 3rd pl early
 
 :le:eo#1
 :vs:i		perfstem
