@@ -2,6 +2,9 @@
 
 #include "checkgenwds.proto.h"
 
+static anals_seen = 0;
+static lems_seen = 0;
+
 /*
  * ok, check an array of gk_string's against a single printword to figure
  * out which ones really do match. this is where we distinguish between
@@ -118,12 +121,12 @@ printf("failed with curform [%s] and origword [%s]\n", curform , origword );
 }
 		stripdiaer(curform);
 		stripmetachars(curform);
-
+/*
 printf("workword is [%s]\n", workword_of(gkforms+i));
 fprintf(stdout,"comparing [%s] and [%s]\n", curform , checks );
 fputc('\n',stdout);
 fprintf(stderr,"onwards\n");
-
+*/
 		if( !morphstrcmp( curform , checks )) {
 /*
 			if(*preverb && !Check_preverb(Gkword,gkforms+i) ) {
@@ -174,6 +177,7 @@ AddAnalysis(gk_word *Gkword, gk_word *gkform)
 {
 	gk_analysis * curanal;
 	int i;
+	int newlem = 1;
 	char tmplem[MAXWORDSIZE];
 	char cmplem[MAXWORDSIZE];
 
@@ -364,9 +368,24 @@ printf("\n");
 
 			return(0);
 		}
+		if( !strcmp(lemma_of(curanal),lemma_of(analysis_of(Gkword)+i))) {
+			newlem = 0;
+		}
 	}
 	totanal_of(Gkword)++;
+	anals_seen++;
+	lems_seen += newlem;
 	return(1);
+}
+
+show_totanals()
+{
+	return(anals_seen);
+}
+
+show_totlems()
+{
+	return(lems_seen);
 }
 
 merge_anal_dialects(gk_analysis *anal1, gk_analysis *anal2)

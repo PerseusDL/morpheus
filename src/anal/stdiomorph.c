@@ -28,9 +28,9 @@ main(argc,argv)
 int argc;
 char *argv[];
 {
-  FILE * finput, *foutput, *ffailed;
+  FILE * finput, *foutput, *ffailed, *fstats;
   char line[BUFSIZ*4];
-  char fname[BUFSIZ],inpname[BUFSIZ], outname[BUFSIZ], failedname[BUFSIZ];
+  char fname[BUFSIZ],inpname[BUFSIZ], outname[BUFSIZ], failedname[BUFSIZ], statsname[BUFSIZ];
   char destPath[BUFSIZ];
   
   PrntFlags flags = (PERSEUS_FORMAT|STRICT_CASE);
@@ -103,10 +103,11 @@ char *argv[];
       break;
     case 'o':
       if (!strcmp(optarg,"-"))
-	foutput = ffailed = stdout;
+	fstats = foutput = ffailed = stdout;
       else {
 	strcpy(outname,optarg);
 	sprintf(failedname,"%s.failed",outname);
+	sprintf(statsname,"%s.stats",outname);
       }
       break;
     default:
@@ -117,7 +118,7 @@ char *argv[];
   if (optind >= argc) {
     finput = stdin;
     foutput = stdout;
-    ffailed = stdout;
+    fstats = ffailed = stdout;
   } else {
     strcpy(fname,argv[optind++]);
     strcpy(inpname,fname);
@@ -127,6 +128,7 @@ char *argv[];
       if (outname[0] == '\0') {
 	sprintf(outname,"%s.morph",fname);
 	sprintf(failedname,"%s.failed",fname);
+	sprintf(statsname,"%s.stats",fname);
       }
     } else {
       strcpy(destPath,argv[optind]);
@@ -151,6 +153,11 @@ char *argv[];
     exit(-1);
   }
   
+  if( fstats != stdout && ((fstats=fopen(statsname,"w")) == NULL)) {
+    fprintf(stderr,"cannot open [%s]!\n", statsname);
+    exit(-1);
+  }
+  
   while(fgets(line,(size_t)sizeof line,finput)) {
     /*
        char * t;
@@ -169,12 +176,14 @@ char *argv[];
        */		
     
     
-    if(line[0] =='#' ) {
+    trimwhite(line);
+
+    if( isspace(line[0]) || ! line[0] ) continue;
+    if(!isalpha(line[0]) && line[0] !='*' ) {
 	fprintf(foutput,"%s\n", line );
 	continue;
     }
 
-    trimwhite(line);
     trimdigit(line);
     p = line;
     while(*p&&!isspace(*p)) p++;
@@ -231,8 +240,7 @@ char *argv[];
 	
 	fprintf(stderr,":time %.2f %.2f\n", avg_time , string_time );
       }
-      fprintf(stderr,"%ld %ld %0.2f %s %d\n", 
-	      nwords , nhits, 100* ((float)nhits/(float)nwords) , line , rval  );
+      fprintf(stderr,"%ld %ld %0.2f %s %d\n", nwords , nhits, 100* ((float)nhits/(float)nwords) , line , rval  );
     }
   }
   if( finput != stdin )
@@ -240,12 +248,26 @@ char *argv[];
   fclose(foutput);
   fclose(ffailed);
   if(nwords) {
-    fprintf(stderr,"FINAL:  %ld %ld %0.2f %s %d\n", 
-	    nwords , nhits, 100* ((float)nhits/(float)nwords) , line , rval  );
-    if( timeit )
+    fprintf(fstats,"FINAL:  %ld %ld %0.2f %d\n", 
+	    nwords , nhits, 100* ((float)nhits/(float)nwords) , rval  );
+    fprintf(stderr,"FINAL:  %ld %ld %0.2f %d\n", 
+	    nwords , nhits, 100* ((float)nhits/(float)nwords) , rval  );
+    }
+
+  if( nhits ) {
+	fprintf(fstats,":nhits %ld anals %ld anals/hit %0.2f lems %d lems/hit %0.2f\n",
+		nhits, show_totanals() , 
+		((float)show_totanals()/(float)nhits),
+		show_totlems(),
+		((float)show_totlems()/(float)nhits) );
+  }		
+
+    if( timeit ) {
+      fprintf(fstats,":avg time %.2f; long time [%.2f] for [%s]\n", avg_time , long_time, long_string );
       fprintf(stderr,":avg time %.2f; long time [%.2f] for [%s]\n", avg_time , long_time, long_string );
-  }
+     }
   
+  fclose(fstats);
   exit(0);
 }
 

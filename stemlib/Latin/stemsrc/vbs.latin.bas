@@ -129,6 +129,12 @@
 :vs:censu	perfstem
 :vs:cens	pp4
 
+:le:cieo
+:vs:ci	conj2
+:vs:ci_v	perfstem
+:vs:cit	pp4
+:vs:c	conj4 comp_only
+
 :le:cingo
 :vs:cing	conj3
 :vs:cinx	perfstem

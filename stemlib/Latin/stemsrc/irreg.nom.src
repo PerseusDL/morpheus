@@ -548,6 +548,10 @@ pelagus		irreg_nom2 neut nom voc acc sg
 pelag@decl2	irreg_nom2 neut sg
 pelage_		irreg_nom2 neut nom voc acc pl
 
+:le:pes
+pe_s	irreg_nom3 masc nom voc sg
+ped@decl3_i	irreg_nom3 masc
+
 :le:rus
 rus	irreg_nom3 neut nom voc acc sg 
 rur@decl3	irreg_nom3 neut 

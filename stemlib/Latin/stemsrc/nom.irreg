@@ -896,6 +896,18 @@
 :wd:pelago_   irreg_nom2 neut abl sg
 :wd:pelage_   irreg_nom2 neut nom/voc/acc pl
 
+:le:pes
+:wd:pe_s   irreg_nom3 masc nom/voc sg
+:wd:pedis   irreg_nom3 masc gen sg
+:wd:pedi_   irreg_nom3 masc dat sg
+:wd:pedem   irreg_nom3 masc acc sg
+:wd:pede_s   irreg_nom3 masc nom/voc pl
+:wd:pedium   irreg_nom3 masc gen pl
+:wd:pedibus   irreg_nom3 masc dat pl
+:wd:pede_s   irreg_nom3 masc acc pl
+:wd:pedi_s   irreg_nom3 masc acc pl
+:wd:pedibus   irreg_nom3 masc abl pl
+
 :le:rus
 :wd:rus   irreg_nom3 neut nom/voc/acc sg
 :wd:ruris   irreg_nom3 neut gen sg

@@ -165,7 +165,7 @@
 :le:Calidius
 :aj:Calid	ius_ia_ium
 
-:le:canis
+:le:canis#1
 :no:can is_is_C	masc fem
 
 :le:casus#1

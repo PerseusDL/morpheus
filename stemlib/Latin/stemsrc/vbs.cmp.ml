@@ -14,9 +14,6 @@ a-dedo adedo
 a-dito adito
 a-do ador
 a-do#2 ador
-a-edo aedes
-a-edo aedis
-a-edo aes
 a-edo#2 aedes
 a-edo#2 aedis
 a-equito aequitas
@@ -262,9 +259,7 @@ con-feto confeta
 con-fibulo confibula
 con-figuro configuro
 con-finio confinis
-con-fio confine
-con-fio confio
-con-fio confit
+con-fio conficio
 con-flato conflator
 con-foedero confoedero
 con-frequento confrequento
@@ -272,6 +267,8 @@ con-frio confrio
 con-fugo confuga
 con-gestio#2 congestio
 con-gratulor congratulor
+con-jacio conicio
+con-labor#1 collabor
 con-lecto collector
 con-lego#1 collega
 con-libet collibet
@@ -392,6 +389,7 @@ de-queo deque
 de-saevio desaevio
 de-sicco desicco
 de-signo designo
+de-spicio despicio
 de-spico despica
 de-sponso desponsor
 de-sugo desugo
@@ -443,7 +441,7 @@ dis-tracto distractor
 dis-verto divorto
 dis-viso divisor
 dis-vitio divitia
-ex-cio excio
+ex-cieo excio
 ex-consulo exconsularis
 ex-creo excreo
 ex-cubito excubitor

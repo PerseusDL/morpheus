@@ -52,7 +52,7 @@ checkforredupderiv(char *stemstr, char *stemkeys)
 {
 	char noredup[MAXWORDSIZE];
 		
-	if( Is_cons(*stemstr) ) {
+	if( Is_cons(*stemstr) && cur_lang() != LATIN ) {
 		if( ! un_redupl(stemstr,noredup,'e')) return(0);
 /*
 		return(checkforderiv2(noredup,stemkeys,stemstr,""));
