@@ -435,10 +435,7 @@ printf("failing on wmood %o hmood %o\n", wmood, hmood );
 
    	if( (stemtype_of(wantend) & PPARTMASK ) == PP_SU && 
 	     cur_lang() == LATIN && wvoice == DEPONENT ) {
-   		hvoice = DEPONENT;
-
-   		writeflag = YES;
-
+			set_voice(forminfo_of(haveend), wvoice);
    	}
 
 	if( cur_lang() == LATIN && wvoice == DEPONENT ) {

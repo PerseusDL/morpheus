@@ -27,10 +27,45 @@ static exp_prevb2(char *, char *, gk_string *);
  */
 CombPbStem(char *curpb, char *restofs, Dialect dial, MorphFlags *pbflags)
 {
+  if( ! * restofs ) return(YES);
+  if( cur_lang() == LATIN ) 
+	return(CombPbStemL(curpb,restofs, dial,pbflags));
+  else
+	return(CombPbStemG(curpb,restofs, dial,pbflags));
+}
+
+CombPbStemL(char *curpb, char *restofs, Dialect dial, MorphFlags *pbflags)
+{
+	int lastc, lastc2, lastc3, curbreath;
+	char workrest[MAXWORDSIZE], noaccpb[MAXWORDSIZE];
+
+	lastc = *(curpb + strlen(curpb) - 1);
+	if( lastc == 'd' ) {
+		switch(*restofs) {
+			case 'f':
+			case 'g':
+			case 'l':
+			case 'n':
+			case 'p':
+			case 'r':
+			case 's':
+			case 't':
+				add_morphflag(pbflags,RAW_PREVERB);
+				break;
+			default:
+				
+				break;
+		}
+	}
+	
+	return(YES);
+}
+
+CombPbStemG(char *curpb, char *restofs, Dialect dial, MorphFlags *pbflags)
+{
   int lastc, lastc2, lastc3, curbreath;
   char workrest[MAXWORDSIZE], noaccpb[MAXWORDSIZE];
   
-  if( ! * restofs ) return(YES);
   
   if( has_morphflag(pbflags,DISSIMILATION) && ! next_cons_rough(restofs) ) 
     return(NO);

@@ -187,6 +187,34 @@ rstprevb(char *word, char *prevb, gk_string *gstr)
 
 	fullpb[0] = 0;
 	if( Is_indeclform(oddpb) ) return;
+
+	if( cur_lang() == LATIN ) {
+		char * t;
+
+		strcpy(work,prevb);
+		if( !strcmp(prevb,"ad") ) {
+
+			switch(*word) {
+				case 'c':
+				case 'f':
+				case 'g':
+				case 'l':
+				case 'n':
+				case 'p':
+				case 's':
+				case 't':
+					*(work+strlen(work)-1) = * word;
+					break;
+				default:
+					break;
+			}
+		}
+	
+		
+		strcat(work,word);
+		strcpy(word,work);
+		return;
+	}
 	
 
 	if( has_morphflag(oddpb,DOUBLED_CONS) ) {
