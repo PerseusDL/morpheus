@@ -238,9 +238,10 @@ enclitic_word GreekSuff[] = {
 };
 
 enclitic_word LatinSuff[] = {
+  "cumque", 0,
+  "cunque", 0,
   "que", 0,
   "ne", 0,
-  "cumque", 0,
   "ve", 0,
   "ue", 0,
   "", 0				/* sentinel */
@@ -410,6 +411,8 @@ checkstring3(gk_word *Gkword)
     }
   }
 
+/* why is this still here?  not obvious */
+/*
   if( cur_lang() == LATIN && cmpend(workword_of(Gkword),"ne",workword)) {
     set_workword(Gkword,workword);
     rval = checkstring3(Gkword);
@@ -418,6 +421,7 @@ checkstring3(gk_word *Gkword)
       return(rval);
     }
   }
+*/
 
 
   /* grc 8/26/93
