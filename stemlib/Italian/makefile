@@ -1,5 +1,5 @@
 SGMLPATH= $(dir $(SGML_CATALOG_FILES))/..
-VPATH=.:$(SGMLPATH)/texts/MPI/florio
+VPATH=.:$(SGMLPATH)/texts/MPI/baretti:$(SGMLPATH)/texts/MPI/florio
 LSDIR=/local/text/ls
 LOADLIBES= -lfl
 
@@ -43,12 +43,17 @@ stemsrc/nom.irreg: stemsrc/irreg.nom.src
 stemsrc/vbs.irreg: stemsrc/irreg.vbs.src
 	buildword -I < stemsrc/irreg.vbs.src > stemsrc/vbs.irreg
 
-stemsrc/vbs.italian: florio.sgml getmorph getverb
-	echo $<
-	getmorph < $<  | getverb > $@
+stemsrc/vbs.italian:	baretti.sgml barmorph vbsep
+	./barmorph $< | ./vbsep 'vb' > $@
 
-stemsrc/nom.italian: florio.sgml getmorph getverb
-	getmorph < $<  | getverb noun > $@
+stemsrc/nom.italian:	baretti.sgml barmorph vbsep
+	./barmorph $< | ./vbsep 'no' > $@
+
+#stemsrc/vbs.italian: florio.sgml getmorph getverb
+#	getmorph < $<  | getverb > $@
+
+#stemsrc/nom.italian: florio.sgml getmorph getverb
+#	getmorph < $<  | getverb noun > $@
 
 stemsrc/lemlist:
 	cat stemsrc/nom.* stemsrc/nom[0-9]* stemsrc/vbs.irreg \
