@@ -208,7 +208,8 @@ AddAnalysis(gk_word *Gkword, gk_word *gkform)
 */
 
 	if( totanal_of(Gkword) >= MAXANALYSES ) {
-		fprintf(stderr,"ran out of space with %d analyses!\n", totanal_of(Gkword) );
+		fprintf(stderr,"%s:  ran out of space with %d analyses!\n",
+			rawword_of(Gkword), totanal_of(Gkword) );
 		return(0);
 	} 
 	curanal = analysis_of(Gkword) + totanal_of(Gkword);
