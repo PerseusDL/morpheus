@@ -233,7 +233,7 @@ typedef struct {
 } enclitic_word;
 
 enclitic_word GreekSuff[] = {
-  "per", NOUNSTEM,
+  "per", NOUNSTEM|ADJSTEM,
   "", 0				/* sentinel */
 };
 
@@ -248,22 +248,22 @@ enclitic_word LatinSuff[] = {
 
 /* these should only work with verbs, excluding participles */
 enclitic_word ItalianSuff[] = {
-  "mi", VERBSTEM,
-  "me", VERBSTEM,
-  "ci", VERBSTEM,
-  "ce", VERBSTEM,
-  "ti", VERBSTEM,
-  "te", VERBSTEM,
-  "vi", VERBSTEM,
-  "ve", VERBSTEM,
-  "lo", VERBSTEM,
-  "li", VERBSTEM,
-  "la", VERBSTEM,
-  "le", VERBSTEM,
-  "gli", VERBSTEM,
-  "glie", VERBSTEM,
-  "loro", VERBSTEM,
-  "si", VERBSTEM,
+  "mi", PPARTMASK,
+  "me", PPARTMASK,
+  "ci", PPARTMASK,
+  "ce", PPARTMASK,
+  "ti", PPARTMASK,
+  "te", PPARTMASK,
+  "vi", PPARTMASK,
+  "ve", PPARTMASK,
+  "lo", PPARTMASK,
+  "li", PPARTMASK,
+  "la", PPARTMASK,
+  "le", PPARTMASK,
+  "gli", PPARTMASK,
+  "glie", PPARTMASK,
+  "loro", PPARTMASK,
+  "si", PPARTMASK,
   "", 0				/* sentintel */
 };
 
@@ -274,7 +274,9 @@ checkstring3(gk_word *Gkword)
   char workword[MAXWORDSIZE];
   char * string = workword_of(Gkword);
   int rval = 0;
-  
+  gk_analysis *oldanal, *newanal;
+  int totanal, acount;
+
   enclitic_word *EnclitArr;
   
   switch (cur_lang()) {
@@ -362,6 +364,24 @@ checkstring3(gk_word *Gkword)
     if ( cmpend(workword_of(Gkword), EnclitArr->enclitic, workword) ) {
       set_workword(Gkword, workword);
       rval += checkstring3(Gkword);
+
+      /* If we need to check for application to a valid stemtype, */
+      /* shift the analysis array down. */
+      if (EnclitArr->stemtype) {
+	oldanal = analysis_of(Gkword);
+	totanal = 0;
+
+	newanal = oldanal;
+
+	for (acount = 0; acount < totanal_of(Gkword); acount++, oldanal++) {
+	  if ( (stemtype_of(oldanal)) & EnclitArr->stemtype ) {
+	    *newanal++ = *oldanal;
+	    totanal++;
+	  }
+	}
+
+	set_totanal(Gkword, totanal);
+      }
 
       if ( rval ) {
 	set_workword(Gkword, saveword);
