@@ -164,8 +164,10 @@
 :le:iste
 :wd:iste demonstr masc nom voc sg
 :wd:istud demonstr neut nom acc sg
+:wd:istuc demonstr neut nom acc sg
 :wd:istunc	demonstr masc acc sg
 :wd:istanc	demonstr fem acc sg
+:wd:istaec	demonstr neut nom acc pl
 :wd:ista   demonstr fem nom sg
 :wd:istius   demonstr masc/fem/neut gen sg
 :wd:isti_   demonstr masc/fem/neut dat sg
@@ -725,6 +727,7 @@
 :wd:ipse demonstr masc nom voc sg
 :wd:ipsum demonstr neut nom voc acc sg
 :wd:ipsa demonstr fem nom voc sg
+:wd:ipsus demonstr masc nom voc sg archaic
 :wd:ipsa   demonstr fem nom sg
 :wd:ipsius   demonstr masc/fem/neut gen sg
 :wd:ipsi_   demonstr masc/fem/neut dat sg

@@ -83,8 +83,10 @@ farr@decl3	irreg_nom3	neut
 :le:iste
 :wd:iste demonstr masc nom voc sg
 :wd:istud demonstr neut nom acc sg
+:wd:istuc demonstr neut nom acc sg
 :wd:istunc	demonstr masc acc sg
 :wd:istanc	demonstr fem acc sg
+:wd:istaec	demonstr neut nom acc pl
 ist@ille demonstr
 
 
@@ -417,12 +419,11 @@ ec@quis	interrog
 :wd:siqua_ rel_pron fem abl sg
 si_@quis	interrog
 
-
-
 :le:ipse
 :wd:ipse demonstr masc nom voc sg
 :wd:ipsum demonstr neut nom voc acc sg
 :wd:ipsa demonstr fem nom voc sg
+:wd:ipsus demonstr masc nom voc sg archaic
 ips@ille demonstr
 
 :le:is

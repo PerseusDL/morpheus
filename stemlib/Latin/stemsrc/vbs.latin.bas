@@ -243,7 +243,7 @@
 :vs:erept	pp4
 
 :le:experior
-:vs:exper	conj3_io
+:vs:exper	conj4
 :vs:expert	pp4
 
 :le:exstinguo
