@@ -31287,12 +31287,7 @@ carba^si_-num
 carba^sus		
 :le:carbasus
 :no:carba^s	us_i masc fem
-
-
-carba^sus	<itype>carba^sa, o_rum</itype>	<gen>n.</gen>	
-:le:carbasus
-:no:carba^s	us_a_um masc
-
+:no:carba^s	us_i neut pl
 
 carba^ti^na		
 :le:carbatina
@@ -72055,6 +72050,9 @@ exsuffla_tor		<orth type=alt>exuf-</orth>
 
 
 ex-sul		<orth>exul</orth>	<itype>u^lis</itype>	<gen>comm.</gen>
+:le:exsul
+:no:exsul	0_is masc fem
+
 exsu^la_ris		<orth type=alt>exul-</orth>	
 :le:exsularis
 :aj:exsu^la_r	is_e
@@ -143552,6 +143550,11 @@ Pa^du_sa
 
 
 Paean		<itype>a_nis</itype>	<gen>m.</gen>
+:le:paean
+:no:pae	an_aLnis masc
+:le:paeon
+:no:pae	oLn_oLnis masc
+
 Paea_ni_tis		
 :le:Paeanitis
 :no:Paea_ni_t	is_idis fem
@@ -186524,6 +186527,9 @@ se_ri^co-blatta
 
 
 se^ri^es		<itype>em, e_</itype>	<gen>f.</gen>
+:le:series
+:no:se^ri	es_ei fem
+
 se_ri^e^tas		
 :le:serietas
 :no:se_ri^e^	tas_tatis fem
@@ -210121,6 +210127,9 @@ tru^ti^na_-tus
 
 
 trux		<itype>u^cis</itype>	<pos>adj.</pos>
+:le:trux
+:aj:tru	x_cis
+
 tru^ci^ter		
 :le:truciter
 :wd:tru^ci^ter	adverb
