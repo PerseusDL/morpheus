@@ -235,7 +235,7 @@ Morph_args arg_voice[] = {
 	"active",		ACTIVE,		new_voice,
 	"pass",			PASSIVE,	new_voice,
 	"passive",		PASSIVE,	new_voice,
-	"dep",			MIDDLE,		new_voice,
+	"dep",			ACTIVE|MIDDLE,	new_voice,
 	"mp",			MEDIO_PASS,	new_voice,
 	"medio_pass",		MEDIO_PASS,	new_voice,
 	"medio-pass",		MEDIO_PASS,	new_voice,
@@ -260,6 +260,8 @@ Morph_args arg_mood[] = {
 	"inf",			INFINITIVE,			new_mood,
 	"infin",		INFINITIVE,			new_mood,
 	"infinitive",		INFINITIVE,			new_mood,
+	"gerundive",		GERUNDIVE,			new_mood,
+	"supine",		SUPINE,				new_mood,
 	0,
 
 };

@@ -6,6 +6,11 @@ all:
 	cd gener; make all
 	cd anal; make all
 
+install:
+	cd gkdict; make install
+	cd gkends; make install
+	cd gener; make install
+	cd anal; make install
 
 clean:
 	cd anal; make clean

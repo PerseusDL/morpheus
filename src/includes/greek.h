@@ -141,6 +141,7 @@ replaced with something in <gkstring.h> grc 2/1/87
 #define	MIDDLE	02
 #define	PASSIVE	04
 #define	MEDIO_PASS	(MIDDLE|PASSIVE)
+#define	DEPONENT	(MIDDLE|ACTIVE)
 
 /* verb moods */
 #define	NMOODS	9
@@ -150,12 +151,16 @@ replaced with something in <gkstring.h> grc 2/1/87
 #define	IMPERATIVE	4
 #define	INFINITIVE	5
 #define	PARTICIPLE	6
+#define	GERUNDIVE	7
+#define	SUPINE		8
+/*
 #define TOS_VADJ	7
 #define TEOS_VADJ	8
 
 #define declines(vf)	((mood_of(vf) == PARTICIPLE) || \
 				(mood_of(vf) == TOS_VADJ) || \
 				(mood_of(vf) == TEOS_VADJ))
+*/
 
 /* person/number */
 /*
@@ -352,7 +357,7 @@ typedef struct {
 /* and exc_entry.exc_code */
 #define	GOOD_GENER	0	/* for gener return */
 #define NO_CODE		0	/* alias for vbcode & exc_code */
-#define	DEPONENT	1
+/*#define	DEPONENT	1*/
 #define	NONEXISTENT	2
 #define NO_LEMMA	3	/* aka word not found */
 #define ILLEGAL_FORM	4

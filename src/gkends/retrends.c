@@ -433,7 +433,17 @@ printf("failing on wmood %o hmood %o\n", wmood, hmood );
    		voice_of(wform) = ACTIVE;
    	}
 
-	if( wvoice ) {
+   	if( (stemtype_of(wantend) & PPARTMASK ) == PP_SU && 
+	     cur_lang() == LATIN && wvoice == DEPONENT ) {
+   		hvoice = DEPONENT;
+
+   		writeflag = YES;
+
+   	}
+
+	if( cur_lang() == LATIN && wvoice == DEPONENT ) {
+		if( hvoice == ACTIVE && hmood != PARTICIPLE && hmood != GERUNDIVE ) return(0);
+	} else if( wvoice ) {
 		if( ! Want_Voice( wform , hform )) {
 		   if( hvoice || (!hvoice && strict)) {
 #ifdef SHOWFAIL
