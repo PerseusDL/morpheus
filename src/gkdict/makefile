@@ -27,7 +27,7 @@ install: ${ALL}
 	cp  ${ALL} ../../bin
 
 $(lexer):	%: %.o
-	$(CC) -o $@ $< -lfl
+	$(CC) -o $@ $@.o -lfl
 
 indexcomps:  indcomps.o  ${MORPHLIB} ${GREEKLIB}
 	${CC} -o indexcomps  indcomps.o  ${MORPHLIB} ${GREEKLIB}
