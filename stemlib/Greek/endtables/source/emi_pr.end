@@ -1,0 +1,32 @@
+e/nai emi_pr pres act inf  
+h@ath_inf_act emi_pr pres inf act epic needs_acc
+e@ath_inf_act emi_pr pres inf act epic needs_acc
+e@ath_inf_act emi_pr pres inf act epic needs_acc
+h@ath_inf_act emi_pr pres inf act epic needs_acc
+esqai emi_pr pres mp inf  
+h@ath_act_1 emi_pr pres ind act sg
+e-@ath_act_1 emi_pr pres ind act  not sg
+ei=si emi_pr 3rd pl pres ind act ionic
+e/-atai emi_pr 3rd pl pres ind mp ionic
+e/-ato emi_pr 3rd pl imperf ind mp ionic
+hn emi_pr imperf act ind sing pers1  
+e-a emi_pr 1st sg imperf ind act ionic
+eis emi_pr imperf act ind sing pers2  
+ei emi_pr imperf act ind sing pers3  
+h emi_pr 3rd sg imperf ind act later prose
+e@ath_act_2 emi_pr imperf ind act  not sg
+ei emi_pr pres act imperat sing pers2  
+e@ath_imp_mp emi_pr 2nd sg pres imperat mp
+es-@ath_imp_mp emi_pr 2nd sg pres imperat mp epic
+hti emi_pr 2nd sg pres imperat act epic
+e@ath_imp_a emi_pr pres imperat act  not 2nd sg
+@pr_sub_act emi_pr pres subj act needs_acc
+e@ihn_opt emi_pr pres opt act needs_acc
+e@s_sa_n emi_pr pres part act needs_acc
+e@ath_mp_1 emi_pr pres mp ind
+@pr_sub_mp emi_pr pres subj mp needs_acc
+e@ath_mp_2 emi_pr imperf mp ind
+e@imhn_opt emi_pr pres opt mp
+ou emi_pr pres imperat mp 2nd sg
+e@ath_imp_mp emi_pr pres imperat mp
+emen@adj1 emi_pr pres part mp

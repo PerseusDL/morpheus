@@ -1,0 +1,35 @@
+a/-w pres ind act 1st sg  parad_form
+a/-omai pres ind mp 1st sg  parad_form
+a@pr_inf_act aw_pr pres act inf  
+a=|n aw_pr pres act inf
+a/-w aw_pr pres ind act 1st sg parad_form
+a/-omai aw_pr pres ind mp 1st sg parad_form
+a@pr_inf_mp aw_pr pres mp inf
+a_/-asqai aw_pr pres inf mp epic
+a@pr_ind_act aw_pr pres ind act
+a/-a| aw_pr 3rd sg pres ind act epic
+a/-as aw_pr 2nd sg pres ind act epic
+a@pr_sub_act aw_pr pres subj act
+a@pr_opt_act aw_pr pres opt act needs_acc
+ao@ihn_opt aw_pr pres opt act
+a@ihn_opt aw_pr pres opt act needs_acc
+a@pr_imp_act aw_pr pres imperat act
+a-e aw_pr 2nd sg pres imperat act epic
+a@imp_ind_a aw_pr imperf ind act
+a@iterat_act aw_pr imperf ind act
+a@iterat_mp aw_pr imperf ind mp
+a@wn_ousa_on aw_pr pres act part needs_acc
+a@pr_ind_mp aw_pr pres ind mp
+a=sai aw_pr 2nd sg pres ind mp late 
+h-ai aw_pr 2nd sg pres ind mp epic
+a/asqe aw_pr 2nd pl pres ind mp epic
+a@pr_sub_mp aw_pr pres subj mp
+a@pr_opt_mp aw_pr pres opt mp
+a@pr_imp_mp aw_pr pres imperat mp
+a/twsan pres imperat act 3rd pl
+a@imp_ind_mp aw_pr imperf ind mp
+a-a@iterat_act aw_pr imperf ind act  
+aomen@adj1 aw_pr pres part mp
+a-/oimi aw_pr pres act opt sing pers1  homeric
+w-/oimi aw_pr pres act opt sing pers1  homeric
+o-/w|te aw_pr pres act opt plural pers2  homeric

@@ -1,0 +1,8 @@
+hs hs_eos nom sg masc fem 
+es hs_eos voc sg   masc fem
+os hs_eos nom voc acc sg neut 
+#es hs_eos nom voc acc sg neut
+e@decl3 hs_eos
+e-i+ hs_eos dat sg epic ionic
+ei hs_eos dat sg contr 
+hn hs_eos acc sg  pers_name

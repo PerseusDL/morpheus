@@ -1,0 +1,27 @@
+u/nai umi_pr pres act inf  
+u@ath_inf_act umi_pr pres inf act epic needs_acc
+usqai umi_pr pres mp inf  
+u_@ath_act_1 umi_pr pres ind act sg
+u@ath_act_1 umi_pr pres ind act  not sg
+u=si umi_pr 3rd pl pres ind act 
+u_@ath_act_2 umi_pr imperf ind act sg
+u@iterat_act umi_pr imperf ind act
+u@iterat_mp umi_pr imperf mp
+u@ath_act_2 umi_pr imperf ind act  not sg
+u@pr_sub_act umi_pr pres subj act
+u@pr_opt_act umi_pr pres opt act
+u=to umi_pr 3rd sg pres opt mp epic
+u/ato umi_pr 3rd pl pres opt mp ionic epic
+u_ umi_pr pres act imperat 2nd sg
+u_@ath_imp_a umi_pr 2nd sg pres imperat act epic
+ue/tw umi_pr 3rd sg pres imperat act
+u@ath_imp_a umi_pr pres imperat act  not 2nd sg
+u/twsan pres imperat act 3rd pl
+u@s_sa_n umi_pr pres part act needs_acc
+u@ath_mp_1 umi_pr pres ind mp
+u@pr_sub_mp umi_pr pres subj mp
+u@pr_opt_mp umi_pr pres opt mp
+u@ath_imp_mp umi_pr pres imperat mp
+u@ath_mp_2 umi_pr imperf ind mp
+uo umi_pr 2nd sg imperf ind mp epic
+umen@adj1 umi_pr pres part mp

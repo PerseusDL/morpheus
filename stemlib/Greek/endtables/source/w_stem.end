@@ -1,0 +1,19 @@
+@pr_inf_act w_stem pres act inf
+@pr_inf_mp w_stem pres mp inf
+@pr_ind_act w_stem pres ind act
+@imp_ind_a w_stem imperf ind act
+e/-ato w_stem 3rd pl imperf ind mp ionic
+e@iterat_act w_stem imperf ind  act
+@pr_sub_act w_stem pres subj act
+@pr_opt_act w_stem pres opt act
+@pr_imp_act w_stem pres imperat act
+e/twsan w_stem pres imperat act 3rd pl
+@wn_ousa_on w_stem pres act part stem_acc
+@pr_ind_mp w_stem pres ind mp
+@imp_ind_mp w_stem imperf ind mp
+e@iterat_mp w_stem imperf  ind mp
+@pr_sub_mp w_stem pres subj mp
+@pr_opt_mp w_stem pres opt mp
+@pr_imp_mp w_stem pres imperat mp
+oi/sqhn w_stem pres imperat mp dual 3rd
+omen@adj1 w_stem pres mp part

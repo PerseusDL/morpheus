@@ -1,0 +1,28 @@
+h=nai ath_h_aor aor act inf  
+a=nai ath_h_aor aor inf act doric
+h/menai ath_h_aor aor inf act epic
+h@ath_act_2 ath_h_aor aor act ind
+h@ath_mp_2 ath_h_aor aor mid ind
+a@ath_act_2 ath_h_aor aor ind act epic sg 
+a@ath_act_2 ath_h_aor aor act ind dual epic
+a_@ath_act_2 ath_h_aor aor act ind doric 
+an ath_h_aor 3rd pl aor ind act epic
+e@pr_sub_act ath_h_aor aor act subj 
+ei-@pr_sub_act ath_h_aor aor subj act epic
+ei-@sh_sub_act ath_h_aor aor subj act epic
+ei-@sh_sub_mp ath_h_aor aor subj mid epic
+h-@sh_sub_act ath_h_aor aor subj act epic short_subj
+h-@pr_sub_act ath_h_aor aor subj act epic 
+ai-@pr_sub_act ath_h_aor aor subj act epic
+a=mes ath_h_aor 1st pl aor subj act doric
+a@ihn_opt ath_h_aor aor act opt needs_acc
+hqi ath_h_aor aor act imperat 2nd sg
+a_qi ath_h_aor 2nd sg aor imperat act doric
+h@ath_imp_a ath_h_aor aor imperat act sg dual  not 2nd sg
+h/tw ath_h_aor aor 3rd sg act imperat  epic 
+a_@ath_imp_a ath_h_aor aor imperat act sg dual doric not 2nd sg
+h@ath_imp_a ath_h_aor aor imperat act pl  not 3rd
+a_@ath_imp_a ath_h_aor aor imperat act pl  not 3rd
+a@ath_imp_a ath_h_aor aor imperat act 3rd pl
+@as_asa_an ath_h_aor aor act part needs_acc
+amen@adj1 ath_h_aor aor part mid

@@ -1,0 +1,35 @@
+iz w_stem 
+isd w_stem doric 
+idd w_stem boeotia 
+i+z w_stem 
+i ew_fut  
+is reg_fut 
+ic reg_fut 
+iss reg_fut epic 
+|c reg_fut doric 
+is aor1 
+iss aor1 epic 
+i+s aor1 poetic 
+ic aor1 
+|c aor1 doric 
+ik perf_act 
+ix perf_act 
+i perfp_d 
+i perfp_g 
+isq aor_pass 
+ixq aor_pass 
+ist os_on
+ikt os_on
+is is_ews fem
+ic is_ews fem
+ism os_ou masc suff_acc
+#e.g. sthrigmo/s
+igm os_ou masc suff_acc
+is ma_matos neut
+#e.g. sth/rigma
+ig ma_matos neut
+istik os_h_on suff_acc
+ist verb_adj1
+ist hs_ou masc
+ikt hs_ou masc
+i^d hs_es comp_only

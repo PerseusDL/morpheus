@@ -1,0 +1,18 @@
+w=nai ath_w_aor aor act inf  
+w@ath_inf_act ath_w_aor aor inf act epic needs_acc
+w@ath_act_2 ath_w_aor aor act ind
+o@ath_act_2 ath_w_aor aor ind act epic poetic pl
+o@ihn_opt ath_w_aor aor act opt needs_acc
+o@pr_opt_mp ath_w_aor aor opt mid
+o@pr_sub_act ath_w_aor subj act aor 1st sg
+w/|hn ath_w_aor aor opt act 1st sg epic
+w-@pr_sub_act ath_w_aor aor subj act epic ionic
+w-@sh_sub_act ath_w_aor aor subj act short_subj epic
+o@pr_sub_act ath_w_aor subj act aor  not not sg
+w=|s ath_w_aor aor act subj sing pers2  contr
+w=| ath_w_aor aor act subj sing pers3 contr  
+wqi ath_w_aor aor act imperat 2nd sg
+w@ath_imp_a ath_w_aor aor imperat act  not 2nd sg
+o@s_sa_n ath_w_aor aor act part needs_acc  not neut nom acc voc sg 
+ou/n ath_w_aor aor act part neut nom voc acc sing  comp_only
+o/n ath_w_aor aor act part neut nom voc acc sing  not_in_comp

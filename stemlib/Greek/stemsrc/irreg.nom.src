@@ -1,0 +1,664 @@
+
+:le:a(/ls
+:wd:a(/ls irreg_decl3 masc fem nom voc acc sg
+:wd:a(/lessi irreg_decl3 masc fem dat pl epic
+a(l@decl3 irreg_decl3 masc  fem needs_acc sg 
+a(l@decl3 irreg_decl3 masc  fem needs_acc dual
+a(l@decl3 irreg_decl3 masc  fem needs_acc pl nom gen acc
+a(/lasi irreg_decl3 masc  fem dat pl
+a(lsi/ irreg_decl3 masc  fem dat pl
+
+:le:a)nh/r
+:wd:a)nh/r irreg_decl3 masc nom sg
+:wd:a)/ner irreg_decl3 masc voc sg
+:wd:a)ne/ros irreg_decl3 masc gen sg
+:wd:a)ne/ri irreg_decl3 masc dat sg
+:wd:a)ne/ra irreg_decl3 masc acc sg
+:wd:a)=ner irreg_decl3 masc voc sg
+:wd:a)ndra/si irreg_decl3 masc dat pl
+a)ndr@decl3 irreg_decl3 masc  nom voc dual pl needs_acc
+a)ndr@decl3 irreg_decl3 masc  gen dat acc needs_acc
+a)n!er@decl3 irreg_decl3 masc  nom pl needs_acc epic
+a)n!er@decl3 irreg_decl3 masc  nom voc acc dual needs_acc epic
+
+:le:a)rno/s
+a)rn@decl3 irreg_decl3 masc fem  sg needs_acc
+a)rn@decl3 irreg_decl3 masc fem  dual needs_acc
+a)rn@decl3 irreg_decl3 masc fem  pl needs_acc nom voc
+a)rn@decl3 irreg_decl3 masc fem  pl needs_acc acc
+a)rn@decl3 irreg_decl3 masc fem  pl needs_acc gen
+a)/rnasi irreg_decl3 masc fem  dat pl 
+a)/rnessi irreg_decl3 masc fem  dat pl epic
+
+:le:bou=s
+:wd:bou=n irreg_decl3 irreg_decl3 acc sg masc fem
+:wd:bw=n irreg_decl3 irreg_decl3 acc sg masc fem epic
+:wd:bou=s irreg_decl3 irreg_decl3 nom voc pl masc fem 
+:wd:bw=n irreg_decl3 irreg_decl3 gen pl masc fem epic
+:wd:bousi/ irreg_decl3 irreg_decl3 dat pl masc fem 
+:wd:bou=s irreg_decl3 irreg_decl3 acc pl masc fem attic
+bo-@decl3 irreg_decl3  needs_acc
+
+:le:go/nu
+:wd:go/nu irreg_decl3 neut nom voc acc sg
+:wd:go/neos irreg_decl3 neut gen sg
+gonat@decl3 irreg_decl3 neut  gen
+gonat@decl3 irreg_decl3 neut  dat
+gonat@decl3 irreg_decl3 neut  nom not sg
+gonat@decl3 irreg_decl3 neut  acc not sg
+gounat@decl3 irreg_decl3 neut epic ionic  gen dat
+gounat@decl3 irreg_decl3 neut epic ionic  nom not sg
+gounat@decl3 irreg_decl3 neut epic ionic  acc not sg
+goun@decl3 irreg_decl3 neut  sg epic ionic needs_acc
+goun@decl3 irreg_decl3 neut  dual pl epic ionic needs_acc contr
+
+:le:grau=s
+:wd:grau=s irreg_decl3 fem attic nom sg 
+:wd:grau=n irreg_decl3 fem attic acc sg
+:wd:grau=s irreg_decl3 fem attic acc pl
+gra_-@decl3 irreg_decl3 fem attic  nom needs_acc not sg
+gra_-@decl3 irreg_decl3 fem attic  gen needs_acc
+gra_-@decl3 irreg_decl3 fem attic  dat sg needs_acc
+grau-@decl3 irreg_decl3 fem attic  dat pl needs_acc
+:wd:grhu=s irreg_decl3 fem epic nom sg
+:wd:grh=us irreg_decl3 fem epic nom sg
+:wd:grhu+/s irreg_decl3 fem epic nom sg
+:wd:grhi+/ irreg_decl3 fem epic dat sg
+:wd:grhu= irreg_decl3 fem epic voc sg
+:wd:grhu+/ irreg_decl3 fem epic voc sg
+:wd:grh=u irreg_decl3 fem epic voc sg
+
+:le:gunh/
+:wd:gunh/ irreg_decl3 fem  nom sg
+:wd:guna_/ irreg_decl3 fem  nom  doric sg
+:wd:gana_/ irreg_decl3 fem  nom  doric sg
+:wd:gu/nai irreg_decl3 fem  voc sg
+gun!aik@decl3 irreg_decl3 fem  nom dual pl
+gun!aik@decl3 irreg_decl3 fem  gen dat acc 
+
+:le:dei=na
+:wd:dei=na pron3 masc fem neut nom sg
+dein@decl3 pron3 masc fem neut   contr needs_acc
+
+:le:do/ru
+:wd:do/ru irreg_decl3 neut nom voc acc
+dorat@decl3 irreg_decl3 neut 
+dourat@decl3 irreg_decl3 neut epic 
+:wd:dou/rwn irreg_decl3 neut epic gen pl 
+dour@decl3 irreg_decl3 neut epic  needs_acc
+:wd:do/rei irreg_decl3 neut attic poetic dat sg
+:wd:do/rh irreg_decl3 neut attic poetic nom voc acc pl
+dor@decl3 irreg_decl3 neut attic poetic  needs_acc sg  gen dat
+
+:le:dru=s
+:wd:dru=s irreg_decl3 fem nom voc sg
+:wd:dru=n irreg_decl3 fem acc sg
+dru@decl3 irreg_decl3 fem  gen dat needs_acc
+dru-@decl3 irreg_decl3 fem  dat sg needs_acc
+dru@decl3 irreg_decl3 fem  acc dual pl needs_acc
+
+:le:ei(=s
+:wd:ei(=s irreg_decl3 sg masc nom sg
+:wd:h(=s irreg_decl3 sg masc nom sg doric *theocr.
+:wd:e(/n irreg_decl3 sg neut nom sg
+:aj:mi irreg_decl3 sg os_h_on nom voc acc fem
+#if irreg_decl3 sg this not here, then "mi/'" fails because the
+#long irreg_decl3 sg alpha does not elide.
+:wd:mi/a^ irreg_decl3 sg os_h_on nom voc sg fem epic
+:aj:mi irreg_decl3 sg os_h_on gen dat fem suff_acc
+e(n@decl3 irreg_decl3 sg  needs_acc neut masc
+:wd:e(/eis irreg_decl3 epic sg nom sg masc
+:aj:i) irreg_decl3 epic sg os_h_on nom  fem epic
+:aj:i) irreg_decl3 epic sg os_h_on  voc  fem epic
+:aj:i) irreg_decl3 epic sg os_h_on  acc fem epic
+:aj:i) irreg_decl3 epic sg os_h_on gen dat fem suff_acc epic
+:aj:i) irreg_decl3 epic sg os_h_on neut dat sg suff_acc *il. epic
+:aj:i) irreg_decl3 epic sg os_h_on neut dat sg suff_acc *il. epic
+
+:le:e)gw/
+:wd:e)gw/ pron1  1st sg masc fem nom voc   
+:wd:e)gw/n pron1  1st sg masc fem nom voc    epic
+:wd:e)/gwge pron1  1st sg masc fem nom voc 
+:wd:e)mou= pron1 1st sg masc fem gen 
+:wd:e)meu= pron1 1st sg masc fem gen  epic ionic
+:wd:mou pron1 1st sg masc fem gen enclitic
+:wd:e)me/o pron1 1st sg masc fem gen epic
+:wd:e)mei=o pron1 1st sg masc fem gen epic
+:wd:meo pron1 1st sg masc fem gen epic enclitic
+:wd:meu pron1 1st sg masc fem gen epic enclitic
+:wd:e)me/qen pron1 1st sg masc fem gen epic
+:wd:e)moi/ pron1 1st sg masc fem dat
+:wd:moi pron1 1st sg masc fem dat enclitic
+:wd:e)mi/n pron1 1st sg masc fem dat doric
+:wd:e)/moige pron1 1st sg masc fem dat 
+:wd:e)me/ pron1 1st sg masc fem acc
+:wd:e)/mege pron1 1st sg masc fem acc
+:wd:me pron1 1st sg masc fem acc enclitic
+:wd:nw/ pron1 dual masc fem nom voc acc
+:wd:nw=i+ pron1 dual masc fem nom voc acc epic ionic
+:wd:nw=n pron1 1st dual masc fem gen dat
+:wd:nw=i+n pron1 1st dual masc fem gen dat
+:wd:h(mei=s pron1 1st pl masc fem nom voc
+:wd:a)/mmes pron1 1st pl masc fem nom voc aeolic epic
+:wd:a(/mes pron1 1st pl masc fem nom voc doric
+:wd:h(mw=n pron1 1st pl masc fem gen
+:wd:h(me/wn pron1 1st pl masc fem gen epic ionic
+:wd:a)mme/wn pron1 1st pl masc fem gen aeolic
+:wd:h(mei/wn pron1 1st pl masc fem gen epic
+:wd:a(mw=n pron1 1st pl masc fem gen doric
+:wd:h(mi=n pron1 1st pl masc fem dat
+:wd:h(=min pron1 1st pl masc fem dat attic poetic
+:wd:h(=min pron1 1st pl masc fem dat epic
+:wd:h(/min pron1 1st pl masc fem dat epic
+:wd:h(mi/n pron1 1st pl masc fem dat attic poetic 
+:wd:a)/mmin pron1 1st pl masc fem dat aeolic  epic
+:wd:a)/mmi^ pron1 1st pl masc fem dat aeolic  epic
+:wd:a(mi/n pron1 1st pl masc fem dat doric
+:wd:h(ma=s pron1 1st pl masc fem acc
+:wd:h(=mas pron1 1st pl masc fem acc epic
+:wd:h(me/as pron1 1st pl masc fem acc epic ionic
+:wd:a)/mme pron1 1st pl masc fem acc aeolic
+:wd:a(me/ pron1 1st pl masc fem acc doric
+
+:le:e)mautou=
+e)maut!@adj1 pron1  gen dat acc needs_acc
+e)mewut!@adj1 pron1 sg ionic   gen dat acc 
+e)mwut!@adj1 pron1 1st sg ionic  suff_acc gen dat acc 
+
+:le:*zeu/s
+:wd:*zeu/s irreg_decl3 masc sg pers_name nom
+:wd:*zeu= irreg_decl3 masc sg pers_name voc
+:wd:*di_/ irreg_decl3 masc sg pers_name dat
+:wd:*zh=n irreg_decl3 masc sg pers_name acc
+*di@decl3 irreg_decl3 masc sg pers_name  gen dat acc needs_acc
+*zhn@decl3 irreg_decl3 masc sg pers_name poetic  gen dat acc needs_acc
+*za_n@decl3 irreg_decl3 masc sg pers_name doric  gen needs_acc
+*za_n@decl3 irreg_decl3 masc sg pers_name doric  dat needs_acc
+*za_n@decl3 irreg_decl3 masc sg pers_name doric  acc needs_acc
+:wd:*dio/qen adverb epic
+
+:le:ke/ras
+:wd:ke/ras irreg_decl3 neut nom voc acc sg
+:wd:ke/rws irreg_decl3 neut gen sg attic
+:wd:ke/ra| irreg_decl3 neut dat sg epic
+:wd:kerw=n irreg_decl3 neut gen pl epic
+:wd:ke/ra_ irreg_decl3 neut nom voc acc pl epic
+:wd:ke/ra_ irreg_decl3 neut nom voc acc dual epic
+kera_t@decl3 irreg_decl3 neut  needs_acc
+kera-@decl3 irreg_decl3 neut  needs_acc
+kere-@decl3 irreg_decl3 neut ionic  gen dat sg needs_acc
+kere-@decl3 irreg_decl3 neut ionic  nom voc acc  gen pl needs_acc
+
+:le:ku/wn
+:wd:ku/wn irreg_decl3 masc fem nom  sg
+:wd:ku/on irreg_decl3 masc fem voc sg
+kun@decl3 irreg_decl3 masc fem  needs_acc
+
+:le:mhdei/s
+:wd:mhdei/s irreg_decl3  masc sg
+:wd:mhde/n irreg_decl3  neut nom voc acc sg
+:wd:mhqei/s irreg_decl3  masc sg later
+:wd:mhqe/n irreg_decl3  neut nom voc acc sg later
+mhd!en@decl3 irreg_decl3  sg
+mhq!en@decl3 irreg_decl3  sg later
+mhd!en@decl3 irreg_decl3  nom acc pl
+mhq!en@decl3 irreg_decl3  nom acc pl later
+mhde/si irreg_decl3  dat pl masc fem neut
+mhqe/si irreg_decl3  dat pl masc fem neut later
+mhde/nwn irreg_decl3  gen pl masc fem neut
+mhqe/nwn irreg_decl3  gen pl masc fem neut later
+mhdem!i@decl1_sh pron_adj3  nom acc
+mhdemi!@decl1 pron_adj3  gen dat
+
+:le:mh/thr
+:wd:mh/thr irreg_decl3 fem nom sg
+:wd:ma_/thr irreg_decl3 fem nom sg doric aeolic
+:wd:mh=ter irreg_decl3 fem voc sg
+:wd:ma=ter irreg_decl3 fem voc sg doric aeolic
+:no:mht irreg_decl3 fem hr_eros suff_acc fem 
+:no:ma_t irreg_decl3 fem hr_eros suff_acc fem doric aeolic
+:wd:mhtra/si irreg_decl3 fem dat pl
+:wd:ma_tra/si irreg_decl3 fem dat pl doric
+mhtr@decl3 irreg_decl3 fem  gen dat sg  needs_acc
+ma_tr@decl3 irreg_decl3 fem  gen dat sg doric needs_acc
+
+:le:mh/tis
+:wd:mh/-ti^s pron_adj3 nom sg masc fem
+:wd:mh/-ti^ pron_adj3 nom voc acc sg 
+mh-tin@decl3 pron_adj3  needs_acc
+
+:le:mu=s
+:wd:mu=s irreg_decl3 masc fem nom sg
+:wd:mu= irreg_decl3 masc fem voc sg
+:wd:mu=n irreg_decl3 masc fem acc sg
+mu@decl3 irreg_decl3 masc fem  dat gen needs_acc
+
+:le:nau=s
+:wd:nau=s irreg_decl3 attic nom sg
+:wd:new/s irreg_decl3 attic gen sg
+:wd:nhi/ irreg_decl3 attic dat sg
+:wd:nau=n irreg_decl3 attic acc sg
+:wd:neoi=n irreg_decl3 attic dual gen dat
+:wd:nh=es irreg_decl3 attic nom pl
+:wd:ne/es irreg_decl3 attic nom pl
+:wd:new/n irreg_decl3 attic gen pl
+:wd:nau=s irreg_decl3 attic acc pl
+nausi/ irreg_decl3 attic  dat pl
+:wd:nh=a/de adverb 
+:wd:nh=us irreg_decl3 epic fem nom sg
+:wd:nhusi/ irreg_decl3 epic fem dat pl
+:wd:ne/essi irreg_decl3 epic fem dat pl
+:wd:nau=fi irreg_decl3 epic fem dat pl 
+:wd:nau=fin irreg_decl3 epic fem dat pl
+:wd:nhu/s irreg_decl3 epic fem nom sg late
+nh@decl3 irreg_decl3 epic fem  needs_acc
+:wd:nhu=s irreg_decl3 fem ionic epic nom sg
+:wd:neo/s irreg_decl3 fem ionic epic gen sg
+:wd:nhi/+ irreg_decl3 fem ionic epic dat sg
+:wd:ne/a irreg_decl3 fem ionic epic acc sg
+:wd:ne/es irreg_decl3 fem ionic epic nom pl
+:wd:new=n irreg_decl3 fem ionic epic gen pl
+:wd:ne/as irreg_decl3 fem ionic epic acc pl
+:wd:nhusi/ irreg_decl3 fem ionic epic dat pl
+:wd:nhusi/n irreg_decl3 fem ionic epic dat pl nu_movable
+:wd:nau=s irreg_decl3 fem doric nom sg
+:wd:na_o/s irreg_decl3 fem doric gen sg
+:wd:na_i+/ irreg_decl3 fem doric dat sg
+:wd:nau=n irreg_decl3 fem doric acc sg
+:wd:na=es irreg_decl3 fem doric nom pl
+:wd:na=a irreg_decl3 fem doric acc sg
+:wd:naw=n irreg_decl3 fem doric gen pl
+:wd:new=n irreg_decl3 fem doric gen pl
+:wd:nausi/ irreg_decl3 fem doric dat pl 
+:wd:nausi/n irreg_decl3 fem doric dat pl nu_movable
+:wd:na/essi irreg_decl3 fem doric dat pl poetic
+:wd:na=as irreg_decl3 fem doric acc pl
+:wd:nau=s irreg_decl3 fem poetic tragic nom sg
+:wd:nao/s irreg_decl3 fem poetic tragic gen sg
+:wd:new/s irreg_decl3 fem poetic tragic gen sg
+:wd:nai+/ irreg_decl3 fem poetic tragic dat sg
+:wd:nau=n irreg_decl3 fem poetic tragic acc sg
+:wd:na=es irreg_decl3 fem poetic tragic nom pl
+:wd:naw=n irreg_decl3 fem poetic tragic gen  pl
+:wd:new=n irreg_decl3 fem poetic tragic gen  pl
+:wd:nausi/ irreg_decl3 fem poetic tragic dat pl
+:wd:nau=s irreg_decl3 fem poetic tragic acc pl
+
+:le:qri/c
+:wd:qri/c c_xos  fem nom sg
+qrix@decl3 c_xos fem   needs_acc
+
+:le:quga/thr
+:wd:quga/thr irreg_decl3 fem nom sg
+:no:quga^t irreg_decl3 fem hr_eros suff_acc
+:wd:qu/ga^ter irreg_decl3 fem voc sg
+:wd:quga^tra/si irreg_decl3 fem dat pl
+qu!ga^tr@decl3 irreg_decl3 fem  gen dat needs_acc
+quga^tr@decl3 irreg_decl3 fem  acc sg needs_acc epic
+quga^tr@decl3 irreg_decl3 fem  nom pl needs_acc epic
+quga^tr@decl3 irreg_decl3 fem  acc pl needs_acc epic
+
+:le:o(
+:wd:o( article  nom masc sg proclitic
+:wd:h( article  nom fem sg proclitic
+:wd:a_( article  nom fem sg proclitic doric 
+:wd:to/ article  nom neut sg 
+:wd:oi( article  nom masc pl proclitic
+:wd:ai( article  nom fem pl proclitic
+:wd:ta/ article  nom neut pl 
+:wd:toi/ article  nom pl masc epic
+:wd:tai/ article  nom pl fem epic
+t@adj1 article  nom voc dual needs_acc
+t@adj1 article  gen dat acc needs_acc
+
+:le:o)/nta
+ont@decl3 irreg_decl3 neut pl needs_acc  
+
+:le:o(/sge
+:wd:o(/ge rel_pron neut nom voc acc sg epic
+:wd:o(ou=ge rel_pron gen sg masc neut epic
+:wd:o(/ouge rel_pron gen sg masc neut epic
+:wd:e(ou=ge rel_pron gen sg masc neut epic
+:wd:e(h=sge rel_pron gen sg fem epic
+:wd:e(oi=ge rel_pron dat sg masc neut epic
+:wd:oi(/ge rel_pron neut nom voc acc pl epic
+
+:le:o(/sper
+:wd:o(/per rel_pron neut nom voc acc sg
+:wd:o(ou=per rel_pron gen sg masc neut epic
+:wd:o(/ouper rel_pron gen sg masc neut epic
+:wd:e(ou=per rel_pron gen sg masc neut epic
+:wd:e(h=sper rel_pron gen sg fem epic
+:wd:e(oi=per rel_pron dat sg masc neut epic
+
+:le:o(/ste
+:wd:o(/ste rel_pron attic poetic masc nom voc sg
+:wd:o(/te rel_pron attic poetic neut nom voc acc sg
+:wd:h(/te rel_pron attic poetic fem nom voc acc sg
+:wd:o(ou=te rel_pron attic poetic gen sg masc neut epic
+:wd:ou(=te rel_pron poetic gen sg masc neut 
+:wd:a(=|te rel_pron poetic dat sg fem doric 
+:wd:w(=|te rel_pron dat sg masc neut 
+:wd:ai(/te rel_pron poetic fem nom pl 
+:wd:o(/oute rel_pron attic poetic gen sg masc neut epic
+:wd:e(ou=te rel_pron attic poetic gen sg masc neut epic
+:wd:e(h=ste rel_pron attic poetic gen sg fem epic
+:wd:e(oi=te rel_pron attic poetic dat sg masc neut epic
+:wd:o(/nte rel_pron attic poetic masc acc sg
+:wd:oi(/te rel_pron attic poetic masc nom voc pl
+
+:le:ou)dei/s
+:wd:ou)dei/s pron_adj3 masc sg
+:wd:ou)de/n pron_adj3 neut nom voc acc sg
+:wd:ou)qei/s pron_adj3 masc sg later
+:wd:ou)qe/n pron_adj3 neut nom voc acc sg later
+ou)d!en@decl3 pron_adj3  sg
+ou)q!en@decl3 pron_adj3  sg later
+ou)d!en@decl3 pron_adj3  nom acc pl
+ou)q!en@decl3 pron_adj3  nom acc pl later
+ou)de/si pron_adj3  dat pl masc fem neut
+ou)qe/si pron_adj3  dat pl masc fem neut later
+ou)de/nwn pron_adj3  gen pl masc fem neut
+ou)qe/nwn pron_adj3  gen pl masc fem neut later
+ou)dem!i@decl1_sh pron_adj1  nom acc
+ou)demi!@decl1 pron_adj1  gen dat
+
+:le:ou)=s
+:wd:ou)=s irreg_decl3 neut nom voc acc sg
+:wd:w)=as irreg_decl3 neut nom voc acc sg doric
+:wd:w)=s irreg_decl3 neut nom voc acc sg doric
+w)t@decl3 irreg_decl3 neut  needs_acc
+ou)-at@decl3 irreg_decl3 neut  needs_acc epic
+
+:le:ou)/tis
+:wd:ou)/-ti^s pron_adj3 nom sg masc fem
+:wd:ou)/-ti^ pron_adj3 nom voc acc sg neut
+ou)-tin@decl3 pron_adj3  needs_acc
+
+:le:ou(=tos
+:wd:ou(=tos pron_adj1 nom voc masc sg
+:wd:au(/th pron_adj1 nom voc fem sg
+:wd:tou=to pron_adj1 nom voc acc neut sg
+:wd:ou(=toi pron_adj1 nom voc masc pl
+:wd:au(=tai pron_adj1 nom voc fem pl
+:wd:tau=ta pron_adj1 nom voc acc neut pl
+:wd:toute/wn pron_adj1 fem gen pl ionic
+tout@decl2 pron_adj1  gen masc neut needs_acc
+taut@decl1 pron_adj1  gen fem needs_acc
+tout@decl2 pron_adj1  dat masc neut needs_acc
+taut@decl1 pron_adj1  dat fem needs_acc
+tout@decl2 pron_adj1  acc masc needs_acc
+taut@decl1 pron_adj1  acc fem needs_acc
+:wd:tauth|i/ pron_adj1 iota_intens dat sg fem
+:wd:ou(toii/ pron_adj1 iota_intens nom voc masc pl
+:wd:toutogi/ pron_adj1 iota_intens nom voc acc neut sg
+:wd:ou(tosi/ pron_adj1 iota_intens nom voc masc sg
+:wd:ou(toii/ pron_adj1 iota_intens nom voc masc pl
+:wd:au(thgi/ pron_adj1 iota_intens nom sg fem
+:wd:au(thi/ pron_adj1 iota_intens nom sg fem
+:wd:au(taii/ pron_adj1 iota_intens nom pl fem
+:wd:touti/ pron_adj1 iota_intens nom voc acc sg neut
+:wd:toutwi/ pron_adj1 iota_intens nom voc acc dual neut
+:wd:tautagi/ pron_adj1 iota_intens nom voc acc pl neut
+:wd:tautai/ pron_adj1 iota_intens nom voc acc pl neut
+:wd:tauthndi/ pron_adj1 iota_intens fem acc sg
+:wd:tauti/ pron_adj1 iota_intens nom voc acc pl neut
+:wd:toutoui/ pron_adj1 iota_intens gen sg masc 
+:wd:tauthsi/ pron_adj1 iota_intens gen sg fem
+:wd:toutw|i/ pron_adj1 iota_intens dat sg masc 
+:wd:touth|i/ pron_adj1 iota_intens dat sg fem 
+:wd:toutoni/ pron_adj1 iota_intens acc sg masc 
+:wd:tauthni/ pron_adj1 iota_intens acc sg fem 
+:wd:toutoisi/ pron_adj1 iota_intens dat pl masc neut
+:wd:toutwni/ pron_adj1 iota_intens gen pl masc neut
+:wd:toutousi/ pron_adj1 iota_intens acc pl masc 
+:wd:tautasi/ pron_adj1 iota_intens acc pl fem 
+:wd:tautaisi/ pron_adj1 iota_intens dat pl fem 
+
+:le:pai=s
+:wd:pai=s irreg_decl3 masc fem nom sg
+:wd:pa/i+ irreg_decl3 masc fem voc sg epic
+:wd:pa/is irreg_decl3 masc fem nom sg epic poetic
+:wd:pai=dos irreg_decl3 masc fem gen sg epic epic *iliad
+:wd:pai/dwn irreg_decl3 masc fem gen pl
+:wd:pai/doin irreg_decl3 masc fem dat gen dual
+:wd:pai= irreg_decl3 masc fem voc sg
+paid@decl3 irreg_decl3 masc fem  nom pl needs_acc
+paid@decl3 irreg_decl3 masc fem  gen sg needs_acc
+paid@decl3 irreg_decl3 masc fem  gen pl needs_acc doric
+paid@decl3 irreg_decl3 masc fem  dat needs_acc
+paid@decl3 irreg_decl3 masc fem  acc needs_acc
+
+:le:pa=s
+pants irreg_adj3 masc nom sg needs_acc contr
+:wd:pa=n irreg_adj3 neut nom voc acc sg
+:wd:pa/n irreg_adj3 neut nom voc acc sg poetic
+:wd:panto/s irreg_adj3 masc neut gen sg
+:wd:panti/ irreg_adj3 masc neut dat sg
+p@as_asa_an irreg_adj3  masc acc sg needs_acc 
+p@as_asa_an irreg_adj3  fem needs_acc
+pas@decl1_sh irreg_adj3  fem doric needs_acc
+p@as_asa_an irreg_adj3  masc neut gen dat dual needs_acc
+p@as_asa_an irreg_adj3  masc needs_acc pl 
+
+:le:pa/thr
+:wd:pa/thr irreg_decl3 masc nom sg
+:wd:pa/ter irreg_decl3 masc voc sg
+:wd:patra/si irreg_decl3 masc dat pl
+:wd:pate/ros irreg_decl3 masc gen sg poetic
+:wd:pate/ri irreg_decl3 masc dat sg poetic
+:wd:patrw=n irreg_decl3 masc gen pl epic
+patr@decl3 irreg_decl3 masc  gen dat sg needs_acc
+pater@decl3 irreg_decl3 masc  nom dual pl needs_acc
+pater@decl3 irreg_decl3 masc  gen dual pl needs_acc
+pater@decl3 irreg_decl3 masc  dat dual needs_acc
+pater@decl3 irreg_decl3 masc  acc  needs_acc
+
+:le:plei/wn
+pleu=n wn_on_comp doric ionic neut nom voc acc sg
+pleun@decl3 wn_on_comp doric ionic  needs_acc
+
+:le:pnu/c
+:wd:pnu/c irreg_decl3 masc nom sg
+pukn@decl3 irreg_decl3 masc  needs_acc
+
+:le:pou/s
+:wd:pou/s irreg_decl3 masc nom sg
+:wd:podoi=in irreg_decl3 masc dual gen dat 
+pod@decl3 irreg_decl3 masc  needs_acc
+
+:le:sautou=
+saut!@adj1 pron1  gen dat acc needs_acc
+se-aut!@adj1 pron1  gen dat acc needs_acc
+se-wut!@adj1 pron1  gen dat acc ionic needs_acc
+
+:le:skw=r
+:wd:skw=r irreg_decl3 neut nom voc acc sg
+ska^t@decl3 irreg_decl3 neut  needs_acc
+
+:le:su/
+:wd:su/ pron1 2nd sg nom nom 
+:wd:su/ge pron1 2nd sg nom nom 
+:wd:tu/_nh pron1 2nd sg nom nom  epic
+:wd:tu/ pron1 2nd sg nom nom  aeolic doric
+:wd:tu/ga pron1 2nd sg nom nom sg doric
+:wd:tu/ge pron1 2nd sg nom nom sg doric
+:wd:sou= pron1 2nd sg gen gen
+:wd:sou pron1 2nd sg gen  enclitic
+:wd:seu= pron1 2nd sg gen  epic
+:wd:se/o pron1 2nd sg gen  epic
+:wd:sei=o pron1 2nd sg gen  epic
+:wd:se/qen pron1 2nd sg gen  epic 
+:wd:seu pron1 2nd sg gen  epic enclitic
+:wd:seo pron1 2nd sg gen  epic enclitic
+:wd:teu= pron1 2nd sg gen  doric
+:wd:teu pron1 2nd sg gen  doric enclitic
+:wd:teou= pron1 2nd sg gen  doric
+:wd:teoi=o pron1 2nd sg gen  epic
+:wd:soi/ pron1 2nd sg dat
+:wd:toi/ pron1 2nd sg dat
+:wd:soi pron1 2nd sg dat enclitic
+:wd:toi pron1 2nd sg dat enclitic doric
+:wd:tei/+n pron1 2nd sg dat doric
+:wd:ti/n pron1 2nd sg dat doric
+:wd:se/ pron1 2nd sg acc 
+:wd:se pron1 2nd sg acc  enclitic
+:wd:te/ pron1 2nd sg acc  doric
+:wd:tu pron1 2nd sg acc  enclitic doric
+:wd:sfw=i pron1 2nd dual nom acc epic
+:wd:sfw/ pron1 2nd dual nom acc epic attic
+:wd:sfw=in pron1 2nd dual gen dat epic
+:wd:sfw=|n pron1 2nd dual gen dat attic
+:wd:u(mei=s pron1 2nd pl nom 
+:wd:u)/mmes pron1 2nd pl nom aeolic epic
+:wd:u(me/s pron1 2nd pl nom doric
+:wd:u(mw=n pron1 2nd pl gen
+:wd:u(me/wn pron1 2nd pl gen epic
+:wd:u(mei/wn pron1 2nd pl gen epic
+:wd:u(mi=n pron1 2nd pl dat
+:wd:u(mi/n pron1 2nd pl dat  poetic
+:wd:u(/min pron1 2nd pl dat  poetic epic
+:wd:u)mmi/^ pron1 2nd pl dat aeolic epic
+:wd:u)mmi/^n pron1 2nd pl dat aeolic epic
+:wd:u)/mmi^ pron1 2nd pl dat aeolic epic
+:wd:u)/mmi^n pron1 2nd pl dat aeolic epic
+:wd:u(/mmi^n pron1 2nd pl dat poetic
+:wd:u(ma=s pron1 2nd pl acc
+:wd:u(me/as pron1 2nd pl acc epic
+:wd:u)/mme pron1 2nd pl acc epic aeolic
+
+:le:sfei=s
+:wd:sfei=s pron3 masc fem pl nom
+:wd:sfe/wn pron3 masc fem pl gen
+:wd:sfewn pron3 masc fem pl gen enclitic
+:wd:sfei/wn pron3 masc fem pl gen epic
+:wd:sfw=n pron3 masc fem pl gen attic
+:wd:sfwin pron3 masc fem pl gen epic enclitic
+:wd:sfwi+n pron3 masc fem pl gen epic enclitic
+:wd:sfisi pron3 masc fem pl dat enclitic
+:wd:sfisin pron3 masc fem pl dat enclitic nu_movable
+:wd:sfi pron3 masc fem pl dat enclitic
+:wd:a)/sfi pron3 masc fem pl dat aeolic
+:wd:sfin pron3 masc fem pl dat enclitic nu_movable
+:wd:sfe/a^s pron3 masc fem pl acc
+:wd:sfea^s pron3 masc fem pl acc enclitic
+:wd:sfas pron3 masc fem pl acc enclitic
+:wd:sfei/as pron3 masc fem pl acc
+:wd:sfei=as pron3 masc fem pl acc
+:wd:sfe pron3 masc fem pl acc enclitic
+:wd:a)/sfe pron3 masc fem pl acc aeolic
+:wd:sfa=s pron3 masc fem pl acc poetic
+:wd:sfwe pron3 masc fem dual nom voc acc epic enclitic
+:wd:sfw pron3 masc fem dual nom voc acc enclitic
+:wd:sfea pron3  pl neut ionic *hdt. enclitic
+
+:le:tis
+:wd:tis indef_pron enclitic masc fem nom sg 
+:wd:ti indef_pron enclitic neut nom voc acc sg
+:wd:teo indef_pron enclitic gen sg ionic epic
+:wd:teu indef_pron enclitic gen sg ionic epic
+:wd:tou indef_pron enclitic gen sg attic
+:wd:tew| indef_pron enclitic dat sg ionic epic
+:wd:tw| indef_pron enclitic dat sg attic epic
+:wd:tewn indef_pron enclitic gen pl ionic epic
+:wd:a)/ssa indef_pron enclitic neut acc pl epic
+:wd:tinw=n indef_pron enclitic gen pl enclitic
+tin@decl3 indef_pron enclitic 
+
+:le:ti/s
+:wd:ti/s indecl  masc fem nom sg
+:wd:ti/ indecl neut nom voc acc sg
+:wd:teu= indecl gen sg ionic
+:wd:tou= indecl gen sg attic
+:wd:tw=| indecl dat sg attic
+:wd:ti/w| indecl dat sg aeolic
+:wd:te/wn indecl gen pl ionic 
+:wd:te/oisi indecl dat pl ionic
+:wd:toi=si indecl dat pl attic
+:wd:ta/ indecl neut nom voc acc pl boeotian
+tin@decl3 indecl  needs_acc
+
+:le:trei=s
+:wd:trei=s numeral nom voc acc pl masc fem
+:wd:tri/a numeral nom voc acc pl neut
+:wd:triw=n numeral gen sg masc fem neut
+:wd:trisi/ numeral dat pl masc fem neut
+:wd:trisi/n numeral dat pl masc fem neut
+
+:le:u(/dwr
+:wd:u(/dwr irreg_decl3 neut nom voc acc sg
+:wd:u(/dei irreg_decl3 neut dat sg epic
+u(dat@decl3 irreg_decl3 neut  needs_acc
+
+:le:ui(o/s
+:no:ui( irreg_decl3 masc os_ou,suff_acc,masc 
+:no:ui( irreg_decl3 masc end:w|
+:no:ui( irreg_decl3 masc end:on 
+:no:u( irreg_decl3 masc os_ou,suff_acc,masc
+:wd:ui(e/si irreg_decl3 masc irreg_decl3 dat pl masc
+:no:u( irreg_decl3 masc eus_ews,suff_acc,masc
+:no:ui( irreg_decl3 masc eus_ews,suff_acc,masc end:eos 
+:no:ui( irreg_decl3 masc gen sg
+:no:ui( irreg_decl3 masc end:ei dat sg
+:no:ui( irreg_decl3 masc end:ei+ dat sg epic
+:no:ui( irreg_decl3 masc end:ea acc sg
+:no:ui( irreg_decl3 masc end:ee dual
+:no:ui( irreg_decl3 masc end:eion dual
+:no:ui( irreg_decl3 masc end:eis nom pl
+:no:ui( irreg_decl3 masc end:ees nom pl
+:no:ui( irreg_decl3 masc end:esi dat pl
+:no:ui( irreg_decl3 masc end:eis acc pl
+:no:ui( irreg_decl3 masc end:eas acc pl epic
+:no:ui( irreg_decl3 masc end:hos gen sg epic late
+:no:ui( irreg_decl3 masc end:hi dat sg epic late
+:no:u( irreg_decl3 masc hs_eos,masc,suff_acc gen   
+:no:u( irreg_decl3 masc dat 
+:no:u( irreg_decl3 masc acc
+:wd:ui(a/sin irreg_decl3 masc dat pl epic
+:wd:ui(a/si irreg_decl3 masc dat pl epic
+ui(_@decl3 irreg_decl3 masc  contr epic needs_acc
+u(-e/si irreg_decl3 masc   dat pl
+
+:le:u(=s
+:wd:u(=s irreg_decl3 masc fem  nom sg
+:wd:su=s irreg_decl3 masc fem  nom sg
+:wd:sui= irreg_decl3 masc fem  dat sg
+:wd:sui/+ irreg_decl3 masc fem  dat sg poetic ionic epic
+:wd:u(=n irreg_decl3 masc fem  acc sg
+:wd:su=n irreg_decl3 masc fem  acc sg
+:wd:u(=s irreg_decl3 masc fem  nom pl attic
+u(@decl3 irreg_decl3 masc fem  gen sg needs_acc
+su@decl3 irreg_decl3 masc fem  gen sg needs_acc
+u(@decl3 irreg_decl3 masc fem   needs_acc not sg
+su@decl3 irreg_decl3 masc fem   needs_acc not sg
+
+:le:xei/r
+:wd:xei/r irreg_decl3 fem sg nom 
+xeir@decl3 irreg_decl3 fem sg  gen needs_acc
+xeir@decl3 irreg_decl3 fem sg  dat needs_acc
+xeir@decl3 irreg_decl3 fem sg  acc needs_acc
+xer@decl3 irreg_decl3 fem sg  needs_acc poetic
+xer@decl3 irreg_decl3 fem dual  dual nom voc acc needs_acc poetic
+xeir@decl3 irreg_decl3 fem dual  dual nom voc acc needs_acc
+xer@decl3 irreg_decl3 fem dual  dual gen dat needs_acc
+xeir@decl3 irreg_decl3 fem dual  dual gen dat needs_acc poetic
+:wd:xe/rras irreg_decl3 fem pl acc poetic
+xeir@decl3 irreg_decl3 fem pl  nom needs_acc
+xer@decl3 irreg_decl3 fem pl  nom needs_acc poetic
+xeir@decl3 irreg_decl3 fem pl  gen needs_acc poetic
+xer@decl3 irreg_decl3 fem pl  gen needs_acc
+xer@decl3 irreg_decl3 fem pl  dat needs_acc
+xeir@decl3 irreg_decl3 fem pl  dat poetic needs_acc
+xeir@decl3 irreg_decl3 fem pl  acc needs_acc
+xer@decl3 irreg_decl3 fem pl  acc needs_acc poetic
+
+:le:xou=s1
+:wd:xou=s irreg_decl3 masc nom sg
+xov@decl3 irreg_decl3 masc  needs_acc
+:wd:xoa= irreg_decl3 masc  attic acc sg
+
+:le:frh/n
+frhn hn_enos nom voc sg masc fem needs_acc
+fren hn_enos nom voc acc sg neut needs_acc
+fren@decl3 hn_enos needs_acc
+:wd:frasi/ irreg_decl3 fem dat pl doric

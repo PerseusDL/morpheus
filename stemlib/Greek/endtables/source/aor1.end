@@ -1,0 +1,20 @@
+@a1_ind_act aor1 aor act ind
+a@iterat_act aor1 aor ind act 
+@a1_ind_mp aor1 aor mid ind
+e/-ato aor1 3rd pl aor ind mp ionic
+a-o aor1 2nd sg aor ind mid epic
+a@iterat_mp aor1 aor ind mid
+@a1_inf_act aor1 aor inf act stem_acc
+@a1_inf_mid aor1 aor inf mid
+@pr_sub_act aor1 aor subj act
+@pr_sub_mp aor1 aor subj mid
+@sh_sub_act aor1 aor subj act short_subj epic
+@sh_sub_mp aor1 aor subj mid epic short_subj
+@a1_opt_act aor1 aor opt act
+@a1_opt_mid aor1 aor opt mid
+@a1_imp_act aor1 aor imperat act
+a/twsan aor1 3rd pl aor imperat act 
+a/sqwsan aor1 3rd pl imperat aor mid 
+@a1_imp_mid aor1 aor imperat mid
+@as_asa_an aor1 aor part act stem_acc
+amen@adj1 aor1 aor mid part

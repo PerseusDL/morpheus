@@ -1,0 +1,13 @@
+oz w_stem 
+osd w_stem doric 
+os reg_fut 
+oc reg_fut 
+os aor1 
+oc aor1 
+oss aor1 
+ok perf_act 
+o perfp_d 
+o perfp_g doric 
+osq aor_pass 
+oxq aor_pass doric 
+ost os_on

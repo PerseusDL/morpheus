@@ -1,0 +1,24 @@
+# remember that this covers not only the masculine
+# a)/nqrwpos, but feminines such as nh=sos as well
+e voc sg masc fem 
+os nom sg masc fem 
+on nom voc acc sg neut 
+ou gen sg masc fem neut 
+w gen sg masc fem neut doric aeolic
+oio gen sg epic  masc fem neut
+w| dat sg  masc fem neut 
+on acc sg  masc fem 
+#masculine neuter dual
+w nom voc acc dual  masc fem neut
+oin gen dat dual  masc fem neut
+oii+n gen dat dual masc fem neut epic
+#masculine neuter plural
+oi nom voc pl masc fem 
+a nom voc acc pl neut 
+wn gen pl  masc fem neut 
+ois dat pl  masc fem neut 
+oisi dat pl epic aeolic ionic masc fem neut
+ofi dat pl epic 
+ous acc pl masc fem 
+ws acc pl masc fem doric
+

@@ -1,0 +1,110 @@
+:le:a)/morfos
+:aj:a)-morf hs_es superl
+
+:le:a)nabaqmo/s
+:no:a)na-baqm os_ou suff_acc masc
+:dnum	[0]	&3a flight of steps, a stairway&.
+
+:le:a)/rima
+:wd:a)/rima indecl
+:dnum	[0]	&3acc. to &1*hdt.&, this is the word from the which the term *arismapian is derived and means $e(/n, spou=&, i.e. "one-eyed."
+
+:le:a)/rthsis
+:no:a)rths is_ews fem
+:dnum	[0]	&3equipment&.
+
+:le:barusu/mforos
+:aj:baru-sumfor os_on
+:dnum	[0]	&3ill-fated.&
+
+:le:go/rgura
+:no:gorgur a_hs fem
+:dnum	[0]	&3an underground drain& or &3sewer&, used as a &3dungeon&.
+
+:le:dekaxh=
+:wd:dekaxh= adverb
+:wd:de/kaxa adverb
+:dnum	[0]	&3in ten parts.&
+
+:le:diarpagh/
+:no:di-arpag h_hs suff_acc fem
+
+:le:didaxh/
+:no:didax h_hs suff_acc fem
+:xref	%6 $di/dacis
+:dnum	[0]	&3teaching,& &1*hdt.&, &1*thuc.&, etc.
+
+:le:dwdekaph/xus
+:aj:dwdeka-phx us_u stem_acc
+:aj:duwdeka-phx us_u stem_acc
+:dnum	[0]	&3twelve cubits long.&
+
+:le:e)pi/tokos
+:aj:e)pitok os_on
+:wd:e)pi/toka irreg_adj3 acc sg masc fem
+:dnum	[0]	&3near child-birth&.
+
+:le:e)su/steron
+:wd:e)su/steron adverb
+:dnum	[0]	&3adverb for $ei)s u(/steron&, &3until later.
+
+:le:e)xo/ntws
+:wd:e)xo/ntws adverb
+:dnum	[0]	&adv. from pres. part of $e)/xw&.
+
+:le:h(ghsi/stratos
+:aj:h(ghsistrat os_on
+
+:le:i)sokrati/a
+:no:i)so-krati h_hs,stem_acc,fem
+:dnum	[0]	&3equality of strength& or &3power.
+
+:le:i(stihto/rion
+:no:i(stihtori os_ou neut ionic
+:dnum	[0]	&3banqueting hall.&
+
+:le:kata/yeustos
+:aj:kata-yeust os_on
+:dnum	[0]	&3contrived, made up&, conj. by *reiz. on &1*hdt.& 4.192.
+
+:le:katiqu/s
+:wd:katiqu/s adverb
+:wd:katiqu/ adverb
+:dnum	[0]	&3opposite&.
+
+:le:leuko/ths
+:no:leukoth s_tos fem ant_acc
+:dnum	[0]	&3whiteness.&
+
+:le:pe/ntapolis
+:no:penta-pol is_ews fem
+:dnum	[0]	&3league of five cities.&
+
+:le:pi/rwmis
+:aj:pirwm is_ews
+:dnum	[0]	&an *egyptian word, %6 $kalo\s ka)gaqo/s&, &1*hdt.&%10 in modern *coptic, &3romi& is *lat. &3vir.&
+
+:le:sko/loy
+:no:skolo y_pos masc ant_acc
+:dnum	[1.]	&3a pale, stake&, &1*il.&, &1*eur.&%10--in pl. $sko/lopes&, &3pales, a palisade&, &1*hom.&, etc.
+:dnum	[2.]	&3a thorn, &1babr.&, &1*ntest.&
+:dnum	[*i*i.]	&3a tree&, &1*eur.&
+
+:le:sfa/lma
+:no:sfal ma_matos neut
+:dnum	[0]	&3a trip, stumble, false step&, &1*anth.&
+:dnum	[*i*i.]	&metaph.
+:dnum	[1.]	&3a fall, failure, defeat&, &1*hdt.&, &1*thuc.&, &1*eur.&, etc.
+:dnum	[2.]	&3a fault, failing, error&, &1*hdt.&
+
+:le:u(e/tios
+:aj:u(eti os_h_on
+:dnum	[0]	&3bringing rain, rainy&.
+
+#stuff added when we included the loeb herod
+:le:pontiko/s
+:aj:pontik os_h_on suff_acc
+
+:le:noonexo/ntws
+:wd:noonexo/ntws adverb
+

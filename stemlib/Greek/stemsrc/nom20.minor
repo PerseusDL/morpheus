@@ -1,0 +1,290 @@
+#nouns for antiphon
+:le:mete/kbasis
+:no:metekbas is_ews fem
+
+:le:ai)ti/asis
+:no:ai)tias is_ews fem
+
+:le:a)poyh/fisis
+:no:a)poyhfis is_ews fem
+
+:le:gnwristh/s
+:no:gnwrist hs_ou masc suff_acc
+
+:le:toute/sti
+:wd:toute/sti adverb
+
+:le:prodikasi/a
+:no:prodikasi h_hs fem stem_acc
+
+:le:dhmo/koinos
+:aj:dhmokoin os_on
+
+:le:ei)kostai=os
+:aj:ei)kostai os_h_on stem_acc
+
+:le:kata/yhfis
+:no:katayhf is_ews fem
+
+:le:proboulh/
+:no:proboul h_hs fem suff_acc
+
+:le:a)natropeu/s
+:no:a)natrop eus_ews masc suff_acc
+
+:le:barudaimoni/a
+:no:barudaimoni h_hs fem stem_acc
+
+:le:ei)ko/tws
+:wd:ei)ko/teron adverb comp
+
+:le:periergaste/os
+:aj:periergast verb_adj1
+
+:le:duspragi/a
+:no:duspragi h_hs fem stem_acc
+
+:le:a)napo/kritos
+:aj:a)napokrit os_on
+
+:le:diagnw/mwn
+:aj:diagnwm wn_on
+
+:le:a)fulaci/a
+:no:a)fulaci h_hs fem stem_acc
+
+:le:a)qerapei/a
+:no:a)qerapei h_hs fem stem_acc
+
+:le:a)polu/simos
+:aj:a)polusim os_on
+
+:le:katalh/yimos
+:aj:katalhyim os_on
+
+:le:katayh/fisis
+:no:kata-yhfis is_ews fem
+
+#demades
+
+:le:prwtologi/a
+:no:prwtologi h_hs fem stem_acc
+
+:le:e)pidorati/s
+:no:e)pidorat is_idos fem suff_acc
+
+:le:e)/pandros
+:aj:e)pandr os_on
+
+:le:mononou/k
+:wd:mononou/k adverb
+
+
+#andocides
+:le:a)nauma/xios
+:aj:a)-naumaxi os_h_on
+
+:le:a)rxeqe/wros
+:no:a)rxeqewr os_ou masc
+
+:le:a)rxw/nhs
+:no:a)rxwn hs_ou masc
+
+:le:eu)adi/khtos
+:aj:eu)adikht os_on
+
+:le:a)ntixorhgo/s
+:no:a)ntixorhg os_ou masc suff_acc
+
+:le:a)nqrakeuth/s
+:no:a)nqrakeut hs_ou masc suff_acc
+
+:le:a)rgurokopei=on
+:no:a)rgurokopei os_ou neut stem_acc
+
+:le:me/ntoi
+:wd:me/nt' particle
+
+:le:xerni/bion
+:no:xernibi os_ou neut
+
+#hyperides
+:le:e)mpurismo/s
+:no:e)mpurism os_ou masc suff_acc
+
+:le:prosgumnasth/s
+:no:prosgumnast hs_ou masc suff_acc
+
+:le:pa/rergon
+:wd:pare/rgws adverb
+
+:le:neosu/llogos
+:no:neosu/llog os_on
+
+:le:a)nadekte/os
+:aj:a)nadekt verb_adj1
+
+:le:sugkath/goros
+:no:sugkathgor os_ou masc
+
+:le:kakohqi/a
+:no:kakohqi h_hs fem stem_acc
+
+:le:a)/peistos
+:aj:a)peist os_on
+
+:le:dekaplou=s
+:aj:deka-pl oos_oon suff_acc
+
+:le:skafei=on
+:no:skafei os_ou neut stem_acc
+
+:le:a)kratokw/qwn
+:no:a)kratokwqw n_nos masc
+
+:le:a)ne/kleiptos
+:aj:a)nekleipt os_on
+
+:le:a)gorasi/a
+:no:a)gorasi h_hs fem stem_acc
+
+:le:a)limeni/a
+:no:a)limeni h_hs fem stem_acc
+
+:le:perdikotrofei=on
+:no:perdikotrofei os_ou neut stem_acc
+
+:le:o)cuqu/mia
+:no:o)cuqumi os_ou neut pl
+
+:le:dwroceni/a
+:no:dwroceni h_hs fem stem_acc
+
+:le:keleuste/os
+:aj:keleust verb_adj1
+
+:le:qera/pwn
+:no:qerapi os_ou neut diminutive
+
+:le:e)pitropiko/s
+:aj:e)pitropik os_h_on suff_acc
+
+:le:klhriko/s
+:aj:klhrik os_h_on
+
+:le:tulufa/nths
+:no:tulufant hs_ou masc
+
+:le:mw/lwy
+:no:mwlw y_pos masc ant_acc
+
+:le:e)ndo/simos
+:aj:e)ndosim os_on
+
+:le:e)pibasi/a
+:no:e)pibasi h_hs fem stem_acc
+
+:le:paro/dios
+:aj:parodi os_on
+:no:parodi os_ou neut
+
+#dinarchus
+:le:a)/protos
+:no:a)-prot os_ou masc
+
+:le:a)/rgurwma
+:no:a)rguw ma_matos neut
+
+:le:kiqari/stria
+:no:kiqaristri a_hs fem
+
+:le:a)potuxi/a
+:no:a)potuxi h_hs fem
+
+
+:le:skafhfo/ros
+:no:skafhfor os_ou masc stem_acc
+
+:le:a)ponomh/
+:no:a)ponom h_hs fem suff_acc
+
+:le:kalli/a
+:no:kalli h_hs fem stem_acc
+
+:le:prometrhth/s
+:no:prometrht hs_ou masc suff_acc
+
+:le:a(lh/sipos
+:no:a(lhsip os_ou masc
+
+:le:pare/rgws
+:wd:pare/rgws adverb
+
+:le:pentedraxmi/a
+:no:pentedraxmi h_hs fem stem_acc
+
+:le:pisteute/os
+:aj:pisteut verb_adj1
+
+:le:dekaplou=s
+:aj:dekapl oos_oon suff_acc
+
+:le:tetrakosiosto/s
+:aj:tetrakosiost os_h_on suff_acc
+
+:le:a)rxeqewri/a
+:no:a)rxeqewri h_hs fem stem_acc
+
+:le:a)rxeqewro/s
+:no:a)rxeqewr os_ou masc suff_acc
+
+:le:proete/os
+:aj:proet verb_adj1
+
+:le:prosdekte/os
+:aj:prosdekt verb_adj1
+
+:le:sterkte/os
+:aj:sterkt verb_adj1
+
+:le:kataplhkte/os
+:aj:kataplhkt verb_adj1
+
+:le:prosdokhte/os
+:aj:prosdokht verb_adj1
+
+#Lycurgus
+
+:le:stoxasmo/s
+:no:stoxasm os_ou masc suff_acc
+
+:le:e)pitele/wma
+:no:e)pitelew ma_matos neut
+
+:le:e)codiasmo/s
+:no:e)codiasm os_ou masc suff_acc
+
+:le:i(erei/a
+:no:i(erei h_hs fem stem_acc
+
+:le:prohrosi/a
+:no:prohrosi h_hs fem stem_acc
+
+:le:proxaristh/ria
+:no:proxaristhri os_ou neut pl
+
+:le:e)cagw/gimos
+:aj:e)cagwgim os_on
+
+
+:le:oi)/suos
+:no:oi)su os_ou masc
+
+:le:u(po/gramma
+:no:u(pogram ma_matos neut
+
+:le:a)napo/deiktos
+:aj:a)napodeikt os_on
+
+:le:e)caithte/os
+:aj:e)caitht verb_adj1

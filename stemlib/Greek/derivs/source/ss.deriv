@@ -1,0 +1,11 @@
+ss w_stem 
+sd w_stem doric
+tt w_stem attic 
+c reg_fut 
+c aor1 
+x perf_act 
+* perfp_g 
+xq aor_pass 
+g aor_pass
+c fut_perf 
+kt os_on

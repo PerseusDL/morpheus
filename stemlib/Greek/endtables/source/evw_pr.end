@@ -1,0 +1,19 @@
+ev@pr_inf_act evw_pr  pres act inf
+ev@pr_inf_mp evw_pr  pres mp inf
+e/-ai evw_pr 2nd sg pres ind mp ionic
+ev@pr_ind_act evw_pr  pres act ind
+ev@pr_ind_mp evw_pr  pres mp ind
+ev@wn_ousa_on evw_pr  pres act part needs_acc
+evomen@adj1 evw_pr  pres mp part
+ev@pr_sub_mp evw_pr  pres mp subj
+ev@pr_sub_act evw_pr  pres act subj
+ev@pr_opt_act evw_pr  pres act opt
+evo@ihn_opt evw_pr  pres act opt
+e@imen_opt evw_pr pres opt act needs_acc
+ev@pr_opt_mp evw_pr  pres mp opt
+ev@imp_ind_a evw_pr  imperf ind act
+e-e@iterat_act evw_pr  imperf ind act
+ev@imp_ind_mp evw_pr  imperf ind mp
+e-e@iterat_mp evw_pr  imperf ind mp 
+ev@pr_imp_act evw_pr  pres imperat act
+ev@pr_imp_mp evw_pr  pres imperat mp

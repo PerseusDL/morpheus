@@ -1,0 +1,14 @@
+men@adj1 ath_primary  pres mp part
+men@adj1 ath_primary perf part mp
+e@s_sa_n ath_primary pres part act needs_acc
+nai ath_primary pres inf act stem_acc
+@ath_inf_act ath_primary pres inf act stem_acc
+sqai ath_primary pres inf mp
+menai ath_primary pres inf act epic stem_acc
+@ath_act_1 ath_primary pres act ind
+@ath_mp_1 ath_primary pres mp ind
+ai ath_primary 2nd sg pres ind mp
+@ath_act_2 ath_primary imperf ind act
+@ath_mp_2 ath_primary imperf mp ind
+@ath_imp_a ath_primary pres act imperat
+@ath_imp_mp ath_primary pres mp imperat

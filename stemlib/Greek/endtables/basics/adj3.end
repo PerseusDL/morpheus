@@ -1,0 +1,5 @@
+#first and second declension adjectives in os,h,on
+#feminine singular
+a	nom sg fem 
+a	voc sg fem
+@adj1	fem not nom voc sg

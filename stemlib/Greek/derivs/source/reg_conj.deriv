@@ -1,0 +1,14 @@
+* w_stem 
+s reg_fut 
+ss reg_fut epic 
+s aor1 
+ss aor1 epic 
+k perf_act 
+* perfp_vow 
+* perfp_s 
+q aor_pass 
+sq aor_pass 
+s fut_perf 
+t os_on
+st os_on
+* hs_es comp_only

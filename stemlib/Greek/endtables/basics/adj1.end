@@ -1,0 +1,9 @@
+#masculine neuter 
+@decl2 masc neut
+#feminine 
+@decl1 fem not gen pl
+wn gen pl fem
+a_/-wn masc fem gen pl epic aeolic
+e/-wn masc fem gen pl epic ionic
+a=n masc fem gen pl doric
+

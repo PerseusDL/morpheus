@@ -1,0 +1,71 @@
+#these are nouns that appear in Cratylus definitions but do not appear in Cratylus.
+:le:a)bebaio/ths
+:no:a)bebaioth s_tos ant_acc fem
+
+:le:h(gemo/neuma
+:no:a(_gemoneu ma_matos neut doric
+
+:le:a)krwthriasmo/s
+:no:a)krwthriasm os_ou masc suff_acc
+
+:le:a)paruste/os
+:aj:a)parust verb_adj1
+
+:le:a)peoiko/tws
+:wd:a)peoiko/tws adverb
+
+:le:sa/nduc
+:aj:a)rmeni os_on
+
+:le:mhka/s
+:no:blhka s_dos fem stem_acc
+
+:le:geniko/s
+:aj:genik os_h_on suff_acc
+:dnum	[0]	&3of& or &3belonging to the $ge/nos&.
+
+:le:grosfo/maxos
+:no:grosfomax os_ou masc
+:dnum	[0]	&3javelin fighters.&
+
+:le:de/sis
+:no:des is_ews fem
+:dnum	[0]	&3a binding&.
+
+:le:leuko/s
+:aj:dia-leuk os_on
+
+:le:pa=s
+:wd:dia/pantos adverb
+
+:le:xei/r
+:aj:dia-xeir os_on
+
+:le:doratoqh/kh
+:no:dorato-qhk h_hs fem stem_acc
+
+:le:poi/hsis
+:no:ei)s-poihs is_ews fem
+
+:le:e(/kdraxmos
+:aj:e(k-draxm os_on
+:xref &cf. $e(/c
+
+:le:to/te
+:wd:e)kto/te adverb
+
+:le:e(kteu/s
+:no:e(kt eus_ews masc suff_acc
+:dnum	[0]	&3the sixth part of the $me/dimnos&.
+
+:le:e(a/klinos
+:aj:e(caklin os_on
+:xref	&cf. $e(/c
+
+:le:e(cape/lekus
+:aj:e(capelek us_u
+:xref &cf. $strathgo/s
+
+:le:zugi/ths
+:no:zugi_t hs_ou masc stem_acc
+:dnum	[0]	&3the rower who sat on the mid-most of the three banks&.

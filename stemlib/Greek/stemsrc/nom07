@@ -1,0 +1,1224 @@
+#these are words added for the Loeb edition
+:le:dwdeka/dromos
+:aj:dwdekadrom os_on
+
+#
+:le:a)ba/ptistos
+:aj:a)baptist os_on
+
+:le:a)ga/fqegktos
+:aj:a)ga-fqegkt os_h_on
+
+:le:a(ghsi/xoros
+:aj:a(_ghsi-xor os_on doric
+
+:le:a)glao/qronos
+:aj:a)glao-qron os_on
+
+:le:a)glao/kolpos
+:aj:a)glao-kolp os_on
+
+:le:a)glao/kouros
+:aj:a)glao-kour os_on
+
+:le:a)glao/kwmos
+:aj:a)glao-kwm os_on
+
+:le:a)glaoxai/ths
+:no:a)glao-xait hs_ou stem_acc masc
+
+:le:a)gruci/a
+:no:a)gruci h_hs,fem,stem_acc
+
+:le:a)guia/
+:no:a)gui a_hs fem acc sg epic *pind. *il.
+
+:le:a)gxi/krhmnos
+:aj:a)gxi-krhmn os_on
+
+:le:a)damantope/dilos
+:aj:a)damantopedil os_h_on
+
+:le:a)/dorpos
+:aj:a)-dorp os_on
+
+:le:h(du/glwssos
+:aj:a_(du-glwss os_on  doric
+
+:le:h(dulo/gos
+:aj:h(du-log os_on
+:aj:a_(du-log os_on	doric
+
+:le:a)qloniki/a
+:no:a)eqlo-niki h_hs fem stem_acc poetic
+
+:le:a)eci/guios
+:aj:a)eci-gui os_on
+
+:le:ai)giba/ths
+:no:ai)gi-bat hs_ou stem_acc   masc
+
+:le:ai)doi=os
+:aj:ai)doi hs_es superl
+
+:le:a)idrodi/khs
+:aj:a)idro-dik hs_ou stem_acc masc
+
+:le:a)ei/naos
+:aj:a)ei-na os_on poetic
+:aj:ai)e-na os_on poetic
+
+:le:ai)qo/s
+:aj:ai)q os_h_on suff_acc
+
+:le:ai(makouri/a
+:no:ai(ma-kouri h_hs fem stem_acc
+
+:le:ai)olobro/nths
+:no:ai)olo-brent hs_ou stem_acc   masc doric poetic
+
+:le:h)iw/n
+:no:a_)i wn_onos,fem,suff_acc doric
+
+:le:*ai)=sa
+:no:ai)_s a_hs fem
+
+:le:ai)sxro/s
+:aj:ai)sxi wn_on_comp
+:aj:ai)sxist os_h_on irreg_superl
+
+:le:a)kamantoxa/rmhs
+:no:a)kamanto-xarm hs_ou masc stem_acc
+
+:le:a)/kaska
+:wd:a)/kaska adverb
+:dnum [0]	&3gently.&
+
+:le:a)/gnamptos
+:aj:a)-knampt os_on
+
+:le:a)/gnamptei/
+:wd:a)/gnamptei/ adverb
+:wd:a)/knamptei/ adverb
+
+:le:a)/kotos
+:aj:a)-kot os_on
+
+:le:a)llh/lwn
+:no:a)lla_l art_adj,doric dual gen dat	stem_acc
+@ dual acc
+@ pl gen
+@ pl dat
+@ pl acc
+
+:le:a(lusiwto/s
+:aj:a(lusiwt os_on suff_acc
+:dnum	[0]	&3chained.&
+
+:le:a(macito/s
+:aj:a(mac-it os_on suff_acc
+:aj:a)mac-it os_on suff_acc poetic
+:dnum	[0]	&3crossed by wagons.&
+
+:le:a(macofo/rhtos
+:aj:a(maco-forht os_on
+:aj:a)maco-forht os_on poetic
+:dnum	[0]	&3carried in wagons.&
+
+:le:a)mhxani/a
+:no:a)ma_xa^ni h_hs stem_acc fem doric
+
+:le:a)mbola/dhn
+:wd:a)mbola/^da_n adverb doric
+
+:le:a)/melcis
+:no:a)melc is_ews fem
+:dnum	[0]	&3milking.&
+
+:le:a)meusieph/s
+:aj:a)meusi-ep hs_es suff_acc
+:dnum	[0]	&3surpassing words.&
+
+:le:a)na/dhma
+:no:a)na-dh ma_matos neut
+:no:a)n-dh ma_matos neut apocope
+
+:le:a)na/pwtis
+:no:a)na-pwt is_ews fem
+
+:le:a)ntamoibh/
+:no:a)nt-amoib h_hs fem suff_acc
+
+:le:a)ntro/qe
+:wd:a)ntro/qe adverb
+:dnum	[0]	&3from a cave.&
+
+:le:a)oido/s2
+:aj:a)oid os_on superl
+:dnum	[0]	&adj. &3songful.&
+
+:le:a)pa/laistos
+:aj:a)palaist os_on
+:dnum	[0]	&3 not to be wrestled down, unconquerable&.
+
+:le:a)pe/dilos
+:aj:a)-pedeil os_on
+
+:le:a)pei/rantos
+:aj:a)peirant os_on
+
+:le:a)peiroma/xhs
+:no:a)peiromax hs_ou stem_acc masc
+
+:le:a)piomh/dhs
+:aj:a)piomhd hs_es stem_acc
+:dnum	[0]	&of kindly thoughts.&
+
+:le:a)pri/atos
+:aj:a)-priat os_h_on
+
+:le:a)proso/ratos
+:aj:a)-pros-orat os_on
+
+:le:a)ptwti/
+:wd:a)ptwti/ adverb
+
+:le:a)rgenno/eis
+:aj:a)rgenn oeis_oessa
+
+:le:a)rgibre/nths
+:no:a)rgibrent hs_ou masc stem_acc
+
+:le:a)rgi/lofos
+:aj:a)rgi-lof os_on
+
+:le:a)rguri/s
+:no:a)rgu_r is_idos fem suff_acc
+
+:le:*)arhi/filos
+:aj:a)^rhi+-fi^l  os_h_on
+
+:le:a)ri/gnwtos
+:aj:a)ri-gnw s_tos stem_acc
+
+:le:a)risqa/rmatos
+:aj:a)risqarmat os_on
+
+:le:a)risto/ponos
+:aj:a)risto-pon os_on
+
+:le:a)risto/pous
+:aj:a)risto pous_podos stem_acc
+
+:le:a)ristote/xnhs
+:no:a)risto-texn hs_ou,masc
+@ voc sg end:a
+
+:le:a(rmasi/doupos
+:aj:a(rmasi-doup os_on
+
+:le:a(rmathla/ths
+:no:a(rmathlat hs_ou masc stem_acc
+
+:le:a)rseniko/s
+:aj:a)rsenik os_h_on suff_acc
+
+:le:a)rxai=os
+:aj:a)rxai_ hs_es comp
+
+:le:a)rxedi/khs
+:no:a)rxedik hs_ou stem_acc masc
+
+:le:a)ta/rbaktos
+:aj:a)tarbakt os_on
+
+:le:a)/th
+:no:a)ua_t h_hs stem_acc fem aeolic
+
+:le:au)to/rrutos
+:aj:au)to-ru^t os_on  poetic
+
+:le:au)/xh
+:no:au)x h_hs fem
+
+:le:a)/fnos
+:no:a)fn hs_eos neut
+
+:le:a)/fuktos
+:aj:a)-fukt os_h_on
+
+:le:a)xe/ths
+:no:a)xet hs_ou stem_acc masc
+
+:le:*)axilleu/s
+:no:*)axil eus_ews suff_acc masc
+
+:le:baqu/docos
+:aj:baqudoc os_on
+
+:le:baqu/mallos
+:aj:baqu-mall os_on
+
+:le:baqumh/ths
+:no:baqu-mht hs_ou stem_acc masc
+
+:le:baqupe/dilos
+:aj:baqu-pedil os_on
+
+:le:baqupe/dios
+:aj:baqu-pedi os_on
+
+:le:bh=ma
+:no:ba_ ma_matos neut doric
+
+:le:barubo/hs
+:no:baru-bo hs_ou stem_acc masc
+
+:le:baru/gdoupos
+:aj:baru-gdoup os_on
+
+:le:baru/kompos
+:aj:baru-komp os_on
+
+
+:le:baru/logois
+:aj:baru-log os_on
+
+:le:baru/ophs
+:no:baru-op hs_ou masc
+
+:le:barufqegkth/s
+:no:barufqegkt  hs_ou masc suff_acc
+
+:le:batei/a
+:no:batei h_hs fem 
+:no:bati h_hs fem suff_acc
+
+:le:biaths
+:no:bia_t hs_ou masc suff_acc
+
+:le:boubo/ths
+:no:boubot hs_ou masc stem_acc
+
+:le:boulhfo/ros
+:aj:boula_-for os_on stem_acc  doric
+
+:le:bounomi/a
+:no:bounomi h_hs fem stem_acc
+
+:le:boupompo/s
+:no:boupomp os_ou masc suff_acc
+
+:le:braxusi/dhros
+:aj:braxusi-dhr os_on
+:aj:braxusi-da_r os_on doric aeolic
+
+:le:bromia/s
+:no:bromia s_dos stem_acc fem
+
+
+:le:bwla/kios
+:aj:bwlaki os_h_on
+
+:le:gegwnhte/os
+:aj:gegwnht verb_adj1
+
+:le:gelanh/s
+:xref gela/w
+:aj:gela_n hs_es doric suff_acc
+
+:le:gene/teira
+:no:geneteir a_hs fem
+
+:le:gerasfo/ros
+:aj:geras-for os_on stem_acc
+
+:le:glauko/xrws
+:aj:glauko-xro s_os masc fem acc sg
+
+:le:glukumh/xanos
+:aj:gluku-mhxan os_on
+:aj:gluku-ma_xan os_on doric
+
+:le:glw/ssargos
+:aj:glwssarg os_on
+
+:le:guiarkhs
+:aj:guiark hs_es suff_acc
+
+:le:guio/damos
+:aj:guio-dam os_h_on
+
+:le:daitikluto/s
+:aj:daiti-klut os_h_on suff_acc
+
+:le:damasi/frwn
+:aj:damasi-fr wn_on stem_acc
+
+:le:dh=mos
+:no:da_m os_ou masc doric
+
+:le:dhmo/ths
+:no:da_mot hs_ou stem_acc   masc doric
+
+:le:decio/guios
+:aj:decio-gui os_on
+
+:le:diqu/rambos
+:wd:di_qu^/ramba irreg_decl3 acc sg masc
+
+:le:difrhlasi/a
+:no:difr-hlasi h_hs,stem_acc,fem
+
+:le:dixo/boulos
+:aj:dixo-boul os_on
+
+:le:dori/ktupos
+:aj:doriktup os_on
+
+:le:dra/sths
+:no:drast hs_ou,masc
+
+:le:duqmh/
+:no:duqm h_hs,suff_acc,fem
+
+:le:duwdeka/dromos
+:aj:duwdeka-drom os_on
+
+:le:dwdeka/mhnos
+:aj:dwdekamhn os_on
+
+:le:e)ari/dropos
+:aj:e)ari-drop os_on
+
+:le:e)gkonhti/
+:wd:e)gkonht/ adverb
+
+:le:e)gxei/bromos
+:aj:e)gxei-brom os_on
+
+:le:e)gxeike/raunos
+:aj:e)gxeikeraun  os_on
+
+:le:e)gxe/sforos
+:aj:e)gxesfor os_on
+
+:le:*(eka/ergos
+:aj:e(kaerg os_on
+
+:le:e(kata/bolos
+:aj:e(katabol os_on
+
+:le:e(kato/gguios
+:aj:e(katoggui os_on
+
+:le:e(kato/gkranos
+:aj:e(katog-kra_n os_on
+
+:le:e(katontaeth/s
+:aj:e(katontaet hs_es suff_acc
+
+:le:e(katontaka/ranos
+:aj:e(katontakaran os_on
+
+:le:e(katontoro/guios
+:aj:e(katontorogui os_on
+
+:le:e)la/sippos
+:aj:e)lasipp os_on
+
+:le:e)lasi/xqwn
+:aj:e)lasixq wn_on stem_acc
+
+:le:e)la/teiran
+:no:e)lateir a_hs fem
+
+:le:e)laxu/nwtos
+:aj:e)laxunwt os_on
+
+:le:e)laxupte/ruc
+:aj:e)laxu-pteru c_gos ant_acc
+
+:le:e(lika/mpuc
+:no:e(likampu c_kos ant_acc
+
+:le:e(likogle/faros
+:aj:e(likoglefar os_on
+
+:le:e)/mphn
+:wd:e)/mpa_n adverb doric
+
+:le:e)mpedo/moxqos
+:aj:e)mpedo-moxq os_on
+
+:le:e)mpedosqenh/s
+:aj:e)mpedo-sqen hs_es suff_acc
+
+:le:e)mfuh/s
+:aj:e)mfu hs_es suff_acc
+
+:le:e)nari/mbrotos
+:aj:e)narimbrot os_on
+
+:le:e)/ndikos
+:aj:e)ndik os_h_on
+
+:le:e)ndoma/xhs
+:no:e)ndo-max hs_ou stem_acc masc
+
+:le:e)na/lios
+:aj:e)nn-ali os_h_on poetic
+
+:le:e)no/rkios
+:aj:e)norki os_on
+
+:le:e)ntra/pelos
+:aj:e)ntrapel os_on
+
+:le:e)cai/fnhs
+:wd:e)cai/fnas adverb doric
+:wd:e)capi/nas adverb doric
+
+:le:e(ca/riqmos
+:aj:e(cariqm os_on
+
+:le:e(chkonta/ki
+:wd:e(chkonta/ki  adverb
+
+:le:e)/corkos
+:aj:e)cork os_on
+
+:le:e)pagori/a
+:no:e)p-agori h_hs,fem,stem_acc
+
+:le:e)/palpnos
+:aj:e)p-alpn os_on
+
+:le:e(pe/ths
+:no:e(pet hs_ou,stem_acc masc
+
+:le:e)/pibdan
+:wd:e)/pibdan adverb
+
+:le:e)pibouli/a
+:no:e)pibouli h_hs,fem,stem_acc
+
+:le:e)pigouni/dion
+:no:e)pigounidi os_ou,neut,diminutive
+
+:le:e)pikw/mion
+:no:e)pikwmi os_ou neut
+
+:le:e)pikw/mios
+:aj:e)pikwmi os_h_on
+
+:le:e)pi/lhsis
+:no:e)pila_s is_ews,fem,doric
+
+:le:e)pimomfh/
+:no:e)pimomf h_hs,fem,suff_acc,
+
+:le:e)pinikios
+:aj:e)pi-nik os_on
+
+:le:e)pi/nomos
+:aj:e)pinom os_on
+
+:le:e)pitakto/s
+:aj:e)pitakt os_on suff_acc
+
+:le:e)po/pths
+:no:e)popt hs_ou,stem_acc,masc
+
+:le:e(pta/glwssos
+:aj:e(pta-glwss os_on
+
+:le:e(pta/ktupos
+:aj:e(pta-ktup os_on
+
+:le:e)rasi/molpos
+:aj:e)rasi-molp os_on
+
+:le:e)rasiplo/kamos
+:aj:e)rasi-plokam os_on
+
+:le:e)ri/klagktos
+:aj:e)ri-klagkt os_h_on
+
+:le:e)ri/pleuros
+:aj:e)ri-pleur os_on
+
+:le:e(rmhneu/s
+:no:e(rma_n eus_ews,suff_acc,doric
+
+:le:tri/s
+:wd:e)s-tri/s adverb poetic
+
+:le:eu)agkh/s
+:aj:eu)agk hs_es suff_acc
+
+:le:eu)agori/a
+:no:eu)agori h_hs,fem,stem_acc
+
+:le:eu)a/gwn
+:no:eu)-agw n_nos
+
+:le:eu)a/eqlos
+:aj:eu)-aeql os_on
+
+:le:eu)ai/nhtos
+:aj:eu)ainht os_on
+
+:le:eu)a/mpuc
+:no:eu)ampu c_kos masc fem ant_acc
+
+:le:eu)axh/s
+:aj:eu)ax hs_es suff_acc
+
+:le:eu)diano/s
+:aj:eu)dian os_h_on suff_acc
+
+:le:eu)/dmhtos
+:aj:e)u-dma_t os_on
+
+:le:eu)/zoia
+:no:eu)zoi a_hs,fem
+
+:le:eu)h/ratos
+:aj:eu)hrat os_on
+
+:le:eu)qu/glwssos
+:aj:eu)qu-glwss os_on
+
+:le:eu)quma/xhs
+:no:eu)qu-max hs_ou,stem_acc,masc
+
+:le:eu)qu/pnoos
+:aj:eu)qu-pn oos_oon
+
+:le:eu)qupompo/s
+:aj:eu)qu-pomp os_ou masc suff_acc
+
+:le:eu)qu/tatos
+:aj:eu)qutat os_h_on
+
+:le:eu)qu/tomos
+:aj:eu)qu-tom os_on
+
+:le:eu)kleh/s
+:aj:eu) klehs_kleous suff_acc
+:aj:eu)kle hs_es suff_acc
+:wd:eu)klea= hs_es masc acc sg
+
+:le:qama/kis
+:wd:qa^ma/^ki^	adverb poetic
+
+
+:le:eu)ruai/xmhs
+:no:eu)ruaixm hs_ou,stem_acc,masc
+
+:le:eu)ru/zugos
+:aj:eu)ru-zug os_on
+
+:le:eu)rufa/retra
+
+:le:zofw/dhs
+:aj:zofwd hs_es stem_acc
+
+:le:zw=|ion
+:no:zwufi os_ou,neut,diminutive
+
+:le:h)u/purgos
+:aj:h)u-purg os_on
+
+:le:qewri/a
+:no:qea_ri h_hs stem_acc fem doric
+
+:le:qeio/damos
+:aj:qeio-da_m os_on
+
+:le:qemi/cenos
+:aj:qemi-cen os_on
+
+:le:qeo/frastos
+:aj:qeo-frast os_on
+
+:le:qhluko/s
+:aj:qhluk os_h_on suff_acc
+
+
+:le:qnhto/s
+:aj:qna_t os_h_on suff_acc  doric
+
+
+:le:quoiai/gis
+:no:quo-aig is_idos fem stem_acc
+
+:le:i(ero/s
+:aj:i(ar os_h_on suff_acc doric
+
+
+:le:i(erapo/los
+:no:i(era-pol os_ou masc stem_acc
+
+:le:i(e/reia
+:no:i(ere a_hs fem
+
+:le:i)/laos
+:aj:i(_la os_on
+
+:le:i)ogle/faros
+:aj:i)o-glefar os_on
+
+:le:i)o/detos
+:aj:i)o-det os_on
+
+:le:i)oplo/kamos
+:aj:i)oplokam os_on
+:aj:i)oplok os_on
+
+:le:i(/ppaixmos
+:aj:i(pp-aixm os_on
+
+:le:i(ppodro/mios
+:aj:i(ppodromi os_on
+
+:le:i(ppo/mhtis
+:aj:i(ppo-mht is_ews masc fem
+
+:le:i(pposo/hs
+:no:i(pposo hs_ou
+
+:le:i(ppoxa/rmhs
+:no:i(ppo-xarm hs_ou masc stem_accc
+
+:le:i(ero/qutos
+:aj:i(eroqut os_on
+:aj:i(roqut os_on
+
+:le:i)so/dendros
+:aj:i)so-dendr os_on
+
+:le:i)sw/numos
+:aj:i)swnum os_on
+
+:le:kakhgoria/
+:no:kaka_gori h_hs,stem_acc,fem
+
+:le:kako/ths
+:no:kakota_ s_tos fem ant_acc
+
+
+:le:kallike/ras
+:aj:kalli-ker as_aos neut
+
+:le:kalli/krhnos
+:aj:kallikra_n os_on doric
+
+#:le:kalo/s
+#:aj:kalli wn_on_comp
+
+:le:kalliro/h
+:no:kalliro h_hs,fem,stem_acc
+
+:le:kamatwdh/s
+:aj:kamatwd hs_es suff_acc
+
+:le:ka/n
+:wd:ka/n prep apocope poetic
+:xref $kata/
+:dnum	[0]	$kata/& with apocope before words beginning in $n&.
+
+:le:karpa/limos
+:aj:karpali^m os_h_on
+
+:le:kartai/pous
+:aj:kartai pous_podos stem_acc
+
+:le:karterai/xmhs
+:no:karter-aixm hs_ou masc stem_acc
+
+:le:kartero/breis
+:aj:karterobr eis_essa
+
+:le:kh/ruc
+:no:ka_ru_ c_kos masc *pind. doric poetic
+
+:le:kau/xhma
+:no:kauxa ma_matos neut
+
+:le:kh=r
+:no:kea r_ros,neut,poetic
+:no:keari os_ou neut diminutive poetic
+
+
+:le:kene/wsis
+:no:kenews is_ews,fem
+
+:le:keroe/is
+:aj:kero eis_essa suff_acc
+
+:le:kissodah/s
+:aj:kissoda hs_es suff_acc
+
+
+:le:klei=qron
+:no:kla_i+qr os_ou neut doric
+
+:le:kluto/mantis
+:aj:kluto-mant is_ews
+
+:le:knish/eis
+:aj:kni_s heis_hessa suff_acc
+
+:le:koinwni/a
+:aj:koina_ni h_hs,stem_acc,doric,fem
+
+:le:krage/ths
+:no:kraget hs_ou stem_acc masc
+
+:le:krathsibi/as
+:no:krathsi-bi hs_ou,stem_acc,masc
+
+:le:krathsi/pous
+:aj:krathsi pous_podos stem_acc
+
+:le:krufh=|
+:wd:krufh=| adverb
+:wd:krufa=| adverb doric
+
+:le:kua/naigis
+:aj:kuanaig is_idos fem
+
+:le:kuano/plokos
+:aj:kuano-plok os_on
+
+:le:kuanoxi/twn
+:no:kuano-xitw n_nos ant_acc
+
+:le:kubernh/ths
+:no:ku^berna_th r_ros stem_acc    masc
+:no:ku^berna_t hs_ou stem_acc masc doric
+
+:le:laterph/s
+:aj:laterp hs_es suff_acc
+:dnum	[0]	&3giving pleasure to the people.&
+
+:le:laxnh/eis
+:aj:laxn heis_hessa suff_acc
+
+:le:leontoda/mas
+:aj:leonto-dam as_asa_an
+
+:le:ligusfa/ragos
+:aj:ligus-farag os_on
+
+:le:liparo/trofos
+:aj:liparo-trof os_on
+
+:le:lipo/teknos
+:aj:lipo-tekn os_on
+
+:le:luqi/rammos
+:aj:luqi-ramm os_on
+
+:le:lusi/mbrotos
+:aj:lusimbrot os_on
+
+:le:mhtro/qen
+:wd:ma_tro/qen	adverb doric
+:wd:ma_tro/qe	adverb doric
+
+:le:mhtro/polis
+:no:ma_tro-pol is_ews fem doric
+
+:le:mhtropo/los
+:aj:ma_tro-pol os_on stem_acc   doric
+
+:le:mhtruia/
+:no:ma_trui h_hs,suff_acc,fem  doric
+
+:le:mh/trws
+:no:ma_tr ws_wos,masc doric
+
+:le:megalhnori/a
+:no:mega^la_nori h_hs stem_acc fem  doric
+
+:le:megalh/nwr
+:no:mega^l-a_n wr_oros stem_acc masc fem doric
+
+:le:melihdh/s
+:aj:meli-a_d hs_es suff_acc   doric
+
+:le:melighqh/s
+:aj:melighq hs_es suff_acc
+:aj:meliga_q hs_es suff_acc
+
+:le:meli/rroqos
+:aj:meli-rroq os_on
+
+:le:melisso/teuktos
+:aj:melisso-teukt os_on
+
+:le:meri/mnhma
+:no:merimna_ ma_matos neut  doric
+
+:le:mi/gdhn
+:wd:mi/gda_n	adverb doric
+
+:le:mnhmei=on
+:no:mna_mhi+ os_ou stem_acc neut  doric
+
+:le:mnamono/os
+:aj:mna_mo-no os_on doric stem_acc
+
+:le:mnasiste/fanos
+:aj:mnasi-stefan os_on
+
+:le:mnhsth/r
+:no:mna_sth r_ros fem stem_acc doric
+
+:le:mormo/rucis
+:no:mormoruc is_ews fem
+
+:le:muriofo/ros
+:aj:mu_rio-for os_on stem_acc
+
+:le:nh/poinos
+:aj:nhpoin os_on
+:aj:na_poin os_on doric
+
+:le:nauagi/a
+:no:nauagi h_hs,stem_acc,fem
+
+:le:naupru/tanis
+:no:nau-prutan is_ews,fem
+
+:le:nausikluto/s
+:aj:nausi-klut os_h_on suff_acc
+
+:le:neoqalh/s
+:aj:neoqal hs_es suff_acc
+
+:le:neomhni/a
+:no:neomhni h_hs,fem,stem_acc
+
+:le:neo/poli/s
+:no:neo-pol is_ews fem
+
+:le:neo/ths
+:no:neota_ s_tos ant_acc fem  doric
+
+:le:no/mos
+:no:nom os_ou masc
+
+:le:oi)ko/qetos
+:aj:oi)ko-qet os_on
+
+:le:o)/kxos
+:no:o)kx os_ou masc
+
+:le:o)lboqre/mmwn
+:no:o)lboqremm wn_onos masc
+
+:le:o(magerh/s
+:aj:o(mager hs_es suff_acc
+
+:le:o(moklh/s
+:aj:o(mokl hs_es suff_acc
+
+:le:o(mo/frwn
+:aj:o(mo-fr wn_on stem_acc
+
+:le:o)noma/klutos
+:aj:o)noma-klut os_h_on
+
+:le:o)numasto/s
+:aj:o)numast os_h_on suff_acc
+
+:le:o)cu/s
+:aj:o)cutat os_h_on irreg_superl
+:aj:o)cuter os_h_on irreg_comp
+
+:le:o(/ph
+:wd:o(pa=|	adverb doric
+
+:le:o)rei/ktitos
+:aj:o)rei-ktit os_on
+
+:le:o)/rphc
+:no:o)rpa_ c_kos masc  doric
+
+:le:o)rsotriai/nhs
+:no:o)rso-triain hs_ou masc doric
+
+:le:ou)ranomh/khs
+:aj:ou)ra^no-ma_k hs_es stem_acc  doric
+
+:le:o)fiw/dhs
+:aj:o)fiwd hs_es stem_acc
+
+:le:o)yi/teros
+:aj:o)yiter os_h_on irreg_comp
+
+:le:paidofa/gos
+:aj:paido-fag os_on stem_acc
+
+:le:*paia/n
+:no:paih wn_onos masc epic suff_acc
+
+:le:paia/nis
+:aj:paian is_idos stem_acc
+:dnum	[0]	&3of& or &3 like a *paean.&
+
+:le:palinai/retos
+:aj:palin-airet os_h_on
+
+:le:pandai/dalos
+:aj:pan-daidal os_h_on
+
+:le:pandei/mantos
+:aj:pandeimant os_h_on
+
+:le:pa/ndocos
+:aj:pan-doc os_h_on
+
+:le:pa/nth
+:wd:panta=| adverb doric
+
+:le:parqe/neios
+:aj:parqenhi+ os_h_on   ionic poetic
+
+:le:parfukto/s
+:aj:par-fukt os_on suff_acc
+
+:le:patradelfeo/s
+:no:patr-adelfe os_ou suff_acc masc
+
+:le:patrw/ios
+:aj:patrwi+ os_h_on
+
+:le:ph=xus
+:no:pa_x us_uos,masc doric
+
+:le:me/toikos
+:no:ped-oik os_ou masc doric aeolic
+
+:le:pelekufo/ras
+:no:peleku-for hs_ou,masc,stem_acc
+:dnum	[0]	&3marked with an axe.&
+
+:le:pempa/meros
+:aj:pemp-a_mer os_on
+
+:le:pe/ntaqlon
+:no:pent-aeqli os_ou neut  *pind.
+
+:le:penthkonte/retmos
+:aj:penthkont-eretm os_on
+
+:le:penthkontake/falos
+:aj:penthkonta-kefal os_h_on
+
+:le:podarkh/s
+:aj:pod-ark hs_es suff_acc
+:aj:pod-ark hs_es stem_acc
+
+:le:polih/ths
+:no:polia_t hs_ou stem_acc masc  doric
+
+:le:polia/oxos
+:aj:poli-ox os_on
+
+:le:polua/nqemos
+:aj:polu-anqem os_on
+
+:le:polu/batos
+:aj:polu-bat os_on
+
+:le:polu/cenos
+:aj:polu-cen os_on
+
+:le:polu/skopos
+:aj:polu-skop os_on
+
+:le:po/ma
+:no:po ma_matos
+
+:le:pontome/dwn
+:aj:ponto-med wn_onos masc
+
+:le:pro/skollos
+:aj:pros-koll os_on
+:aj:poti-koll os_on doric
+
+:le:pre/sbus
+:aj:presbutat os_h_on irreg_superl
+:aj:presbuter os_h_on irreg_comp
+
+:le:propre/wn
+:aj:pro-pr wn_on stem_acc
+:no:propra wn_on stem_acc *pind.
+:dnum	[0]	&3kindly, friendly.&
+
+
+:le:prw/|raqen
+:wd:prw/|ra_qe adverb
+
+:le:r(iyau/xhn
+:no:r(iy-aux hn_enos masc fem
+
+:le:shma/ntwr
+:no:shmant wr_oros masc stem_acc
+:no:sa_mant wr_oros masc stem_acc doric
+
+:le:sidhroxa/rmhs
+:no:si^da_ro-xarm hs_ou stem_acc masc  doric
+
+:le:skia/eis
+:aj:skia eis_essa stem_acc
+
+:le:skurwto/s
+:no:skurwt os_h_on suff_acc
+:dnum 	[0]	&3paved.&
+
+:le:spla/gxnon
+:no:splagx os_ou neut poetic
+
+
+:le:su/mprwton
+:wd:su/mprwton   adverb
+
+:le:sunh/oros
+:aj:suna_or hs_es suff_acc
+
+:le:sxoinote/neia
+:no:sxoino-tenei a_hs,fem
+:dnum	[0]	&meaning not entirely clear, SEE SLATER?
+
+:le:telessieph/s
+:aj:telessi-ep hs_es suff_acc
+
+:le:tri/tatos
+:aj:tertat os_h_on aeolic
+
+:le:thle/fantos
+:aj:thle-fant os_on
+
+:le:thlo/qen
+:wd:thlo/qe	adverb
+
+:le:touta/kis
+:wd:touta/ki adverb
+:wd:touta/kis adverb
+
+:le:trika/rhnos
+:aj:tri^-ka^ra_n os_on   doric
+
+:le:tripto/s
+:aj:tript os_h_on suff_acc
+
+:le:trwkto/s
+:aj:trwgali os_h_on
+
+:le:u(perai/sios
+:aj:u(per-aisi os_h_on
+
+:le:u(pnale/os
+:aj:u(pnale os_h_on stem_acc
+
+:le:u(yike/rws
+:aj:u(yi-ke/ra_ s_tos
+
+:le:u(yi/wn
+:aj:u(yi wn_on_comp
+:xref	&irreg. comp. of $u(/yi
+:dnum	[0]	&3higher, loftier.&
+
+:le:fere/mhlos
+:aj:fere-mhl os_on
+
+:le:fere/polis
+:aj:fere-pol is_ews
+
+:le:fe/rtatos
+:aj:ferter os_h_on irreg_comp
+
+:le:filhsiste/fanos
+:aj:filhsi-stefan os_on
+
+:le:filo/nikos
+:aj:filo-nik os_on
+
+
+:le:foinikoe/anos
+:aj:foiniko-ean os_on
+
+:le:foiniko/rodos
+:aj:foiniko-rod os_on
+
+:le:fono/s
+:no:fon os_ou fem suff_acc
+:dnum	[0]	&3murdress.&
+
+:le:formigkth/s
+:no:formigkt hs_ou suff_acc masc
+
+:le:fugo/cenos
+:aj:fu^go-cein os_on   poetic
+
+:le:xalke/oy
+:aj:xalkeo y_pos ant_acc
+
+:le:xalkoa/ras
+:no:xalkoa_r hs_ou,masc,stem_acc
+
+:le:xoreu/sios
+:aj:xoreusi os_h_on
+
+:le:xrushla/katos
+:aj:xru_s-a_laka^t os_on   doric
+
+:le:xruso/karpos
+:aj:xru_so-karp os_on
+
+:le:xruso/peza
+:no:xru_so-pez a_hs,fem
+
+:le:xruso/peplos
+:aj:xru_so-pepl os_on
+
+:le:xruso/plokos
+:aj:xru_so-plok os_on
+
+:le:ya/gios
+:aj:yagi os_h_on
+:dnum	[0]	&3askew&.
+
+:le:yefhno/s
+:aj:yefenn os_h_on suff_acc doric
+
+:le:w)ku/ths
+:no:w)kuta_ s_tos ant_acc fem  doric
+
+:le:w)ku/s
+:aj:w)kutat os_h_on irreg_superl
+:aj:w)kuter os_h_on irreg_comp
+
+:le:w)mobo/los
+:aj:w)mo-bol os_on
+
+:le:w(sei/
+:wd:w(s-ei/	adverb
+:wd:w(s-ei/te	adverb epic
+
+:le:w(/ste
+:wd:w(/te conj doric
+
+
+
+
+
+
+
+

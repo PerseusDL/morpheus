@@ -1,0 +1,14 @@
+men@adj1 ath_secondary aor part mp 
+@ath_act_2 ath_secondary aor act ind
+@pr_sub_act ath_secondary aor subj act epic
+@pr_sub_mp ath_secondary aor subj mp epic
+@ath_mp_2 ath_secondary aor mp ind
+ato ath_secondary 3rd pl aor ind mp epic ionic
+@ath_imp_a ath_secondary aor imperat act
+@ath_imp_mp ath_secondary aor imperat mp 
+@ath_inf_mp ath_secondary aor inf mp
+@ath_inf_a ath_secondary aor inf act
+men ath_secondary aor inf act epic stem_acc
+menai ath_secondary aor inf act epic stem_acc
+men ath_secondary aor inf acc stem_acc epic
+menai ath_secondary aor inf acc stem_acc epic

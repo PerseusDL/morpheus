@@ -1,0 +1,6 @@
+echo ":le:" > /tmp/eu.patt
+echo ":eu)-" >> /tmp/eu.patt
+echo ":dus-" >> /tmp/eu.patt
+echo ":a)-" >> /tmp/eu.patt
+echo "a_priv" >> /tmp/eu.patt
+cat nom0[1-6] | fgrep -f /tmp/eu.patt | fgrep -v ":wd:" |  fgrep -v "a_copul" | stripref | sort +2d > /tmp/prefs.1

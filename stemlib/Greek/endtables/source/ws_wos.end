@@ -1,0 +1,5 @@
+ws ws_wos nom voc sg 
+w ws_wos acc masc fem sg contr
+ws ws_wos nom voc acc masc fem pl
+w^-@decl3 ws_wos
+wn ws_wos acc sg 

@@ -1,0 +1,138 @@
+upor  u(po/  
+upo  u(po/  
+uper  u(pe/r  
+upeir  u(pe/r  uper_to_upeir poetic 
+up  u(po/  
+uf  u(po/  
+u)pa u)pa/ aeolic
+u(por  u(po/  
+u(po  u(po/  
+u(per  u(pe/r  
+u(peir  u(pe/r    uper_to_upeir poetic
+u(pai u(po/ upo_to_upai raw_preverb poetic
+u(p  u(po/  
+u(f  u(po/  
+u(b  u(po/  apocope poetic
+sus  su/n  
+sur  su/n  
+sun  su/n  
+sum  su/n  
+sul  su/n  
+sug  su/n  
+su  su/n  
+proti  pro/s  doric epic pros_to_proti
+prot  pro/s  doric epic pros_to_proti elide_preverb
+pros  pro/s  
+pro  pro/  
+poti  pro/s  doric epic pros_to_poti
+pot  pro/s  doric epic pros_to_poti
+peri  peri/  
+per  peri/  elide_preverb poetic
+peda meta/ doric aeolic meta_to_peda
+ped  meta/ doric aeolic meta_to_peda
+parai para/ para_to_parai poetic
+para  para/  
+par  para/  
+metar  meta/  
+meta  meta/  
+met  meta/  
+meqar  meta/  
+meq  meta/  
+katar  kata/  
+kata  kata/  
+kat  kata/  
+kar kata/ apocope poetic
+kaqar  kata/  
+kaq  kata/  
+kap  kata/  apocope poetic
+kan kata/ apocope poetic
+kal kata/ apocope poetic
+kak kata/ apocope poetic
+kad kata/ apocope poetic
+kab  kata/  apocope poetic
+ka kata/ apocope poetic
+hn  a)na/  prevb_augment 
+h)nt  a)nti/  elide_preverb prevb_augment
+h)na  a)na/  prevb_augment 
+h)n  a)na/  prevb_augment 
+h)mpi  a)mfi/  dissimilation prevb_augment 
+h)mp  a)mfi/  dissimilation prevb_augment 
+h)mfi  a)mfi/  prevb_augment
+h)mf  a)mfi/  prevb_augment elide_preverb
+h)f  a)po/   prevb_augment
+es  ei)s  short_eis
+er  e)n  
+epir  e)pi/  
+epi  e)pi/  
+ep  e)pi/  
+eni  e)n  poetic iota_intens
+en  e)n  
+em  e)n  
+el  e)n  
+ek  e)k  
+eis  ei)s  
+ei)s  ei)s  
+eg  e)n  
+ef  e)pi/  
+ec  e)k  
+e)s  ei)s  short_eis
+e)r  e)n  
+e)pir  e)pi/  
+e)pi  e)pi/  
+e)par para/ prevb_augment
+e)p  e)pi/  
+e)ni  e)n  poetic  en_to_eni
+e)n  e)n  
+e)met meta/  prevb_augment
+e)meq meta/ prevb_augment
+e)m  e)n  
+e)l  e)n  
+e)k  e)k  
+e)g  e)n  
+e)f  e)pi/  
+e)c  e)k  
+diar  dia/  
+dia  dia/  
+di  dia/  
+cus  su/n  sig_to_ci
+cur  su/n  sig_to_ci
+cun  su/n  sig_to_ci
+cum  su/n  sig_to_ci
+cul  su/n  sig_to_ci
+cug  su/n  sig_to_ci
+cu  su/n  sig_to_ci
+apor  a)po/  
+apo  a)po/  
+ap  a)po/  
+anti  a)nti/  
+ant  a)nti/  elide_preverb
+anq  a)nti/  elide_preverb
+ana  a)na/  
+an  a)na/  
+ampi  a)mfi/  dissimilation 
+amp  a)mfi/  dissimilation elide_preverb
+amfir  a)mfi/  
+amfi  a)mfi/  
+amf  a)mfi/  elide_preverb
+am  a)na/  apocope poetic
+ag  a)na/  apocope poetic
+af  a)po/  
+a)por  a)po/  
+a)po  a)po/  
+a)p  a)po/  
+a)nti  a)nti/  
+a)nt  a)nti/  elide_preverb
+a)nq  a)nti/  elide_preverb
+a)na  a)na/  
+a)n  a)na/  
+a)mpi  a)mfi/  dissimilation
+a)mp  a)mfi/  dissimilation elide_preverb
+a)mfir  a)mfi/  
+a)mfi  a)mfi/  
+a)mf  a)mfi/  
+a)m  a)na/  apocope poetic
+a)l a)na/ apocope poetic
+a)g  a)na/  apocope poetic
+a)f  a)po/  
+#/* double augments */
+# /* a)mf-exw --> a)mp-exw through dissimilation */

@@ -1,0 +1,16 @@
+@pr_inf_act reg_fut fut act inf
+@pr_ind_act reg_fut fut act ind
+@pr_opt_act reg_fut fut opt act
+@wn_ousa_on reg_fut fut part act stem_acc
+@pr_inf_mp reg_fut fut mid inf
+@pr_ind_mp reg_fut fut mid ind
+@pr_opt_mp reg_fut fut opt mid
+omen@adj1 reg_fut fut part mid
+e@pr_inf_act reg_fut fut act inf doric 
+e@pr_inf_mp reg_fut fut mid inf doric
+e@pr_ind_act reg_fut fut act ind doric
+e@pr_ind_mp reg_fut fut mid ind doric
+e@pr_opt_act reg_fut fut opt act doric
+e@pr_opt_mp reg_fut fut opt mid doric
+eomen@adj1 reg_fut fut part mid doric
+e@wn_ousa_on reg_fut fut part act doric needs_acc

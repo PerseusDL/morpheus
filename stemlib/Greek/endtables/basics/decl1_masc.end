@@ -1,0 +1,16 @@
+#first declension masculines in hs, ou
+#e.g. poli/ths, poli/tou
+
+#sing
+hs	nom sg 
+
+#e.g. poli=ta 
+a	voc sg 
+
+#e.g. A)trei/dh -- beats me how best to distinguish these two types
+#of vocative in this file  right now
+h	voc sg 
+
+ou	gen sg 
+
+@decl1	not nom voc gen sg

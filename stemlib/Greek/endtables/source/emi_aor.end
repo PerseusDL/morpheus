@@ -1,0 +1,25 @@
+ei=nai emi_aor aor act inf  
+e@ath_inf_act emi_aor aor inf act epic needs_acc
+e/sqai emi_aor aor mp inf  
+e@pr_sub_act emi_aor aor subj act 
+ei-@pr_sub_act emi_aor aor subj act epic
+ei-@sh_sub_mp emi_aor aor subj mid epic
+h-@sh_sub_mp emi_aor aor subj mid epic short_subj
+h-@sh_sub_act emi_aor aor subj act epic short_subj
+ei-@sh_sub_act emi_aor aor subj act epic short_subj
+@sh_sub_mp emi_aor aor subj mid epic short_subj
+e@ihn_opt emi_aor aor opt act
+e@pr_opt_mp emi_aor pl attic ionic
+e@pr_opt_mp emi_aor 3rd sg attic ionic
+e@imen_opt emi_aor aor opt act needs_acc
+es emi_aor aor act imperat 2nd sg
+e@ath_imp_a emi_aor aor imperat act  not 2nd sg
+es-@ath_imp_mp emi_aor 2nd sg aor imperat epic
+e@s_sa_n emi_aor aor part act needs_acc
+e@pr_sub_mp emi_aor aor subj mid 
+e@imhn_opt emi_aor aor opt mid needs_acc
+emen@adj1 emi_aor aor mid part
+eo emi_aor aor imperat mid 2nd sg 
+e@ath_imp_mp emi_aor aor imperat mid  not 2nd sg
+e@ath_act_2 emi_aor aor ind act 2nd sg
+e@ath_mp_2 emi_aor aor ind mid

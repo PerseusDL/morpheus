@@ -1,0 +1,3 @@
+echo ":no:" > /tmp/nom
+echo ":aj:" >> /tmp/nom
+cat nom* | fgrep -f /tmp/nom | fgrep "-" | tr "-" " " | tr "," " " | awk '{print $2 " " $3}' | headnolen | sort -u > nom.heads

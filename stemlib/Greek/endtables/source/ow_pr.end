@@ -1,0 +1,24 @@
+o/-w pres ind act 1st sg parad_form
+o/-omai pres ind mp 1st sg parad_form
+o@pr_inf_act ow_pr pres act inf  
+om@ath_inf_act ow_pr pres inf act epic
+w=n ow_pr pres inf act doric
+o@pr_inf_mp ow_pr pres mp inf  
+o@pr_ind_act ow_pr pres ind act
+o@imp_ind_a ow_pr imperf ind act
+o@pr_sub_act ow_pr pres subj act
+o/w|en ow_pr 3rd pl pres opt act epic
+o@pr_opt_act ow_pr pres opt act
+o@ihn_opt ow_pr pres opt act
+o@pr_imp_act ow_pr pres imperat act
+o@wn_ousa_on ow_pr pres part act needs_acc
+o@pr_ind_mp ow_pr pres ind mp
+o@imp_ind_mp ow_pr imperf ind mp
+o@pr_sub_mp ow_pr pres subj mp
+o@pr_opt_mp ow_pr pres opt mp
+w=|to ow_pr 3rd sg pres opt mp
+o/-w|-en ow_pr 3rd pl pres opt act epic ionic
+o@pr_imp_mp ow_pr pres imperat mp
+oomen@adj1 ow_pr pres part mp
+o@iterat_act ow_pr imperf ind act 
+o@iterat_mp ow_pr imperf ind mp

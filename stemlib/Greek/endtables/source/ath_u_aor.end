@@ -1,0 +1,13 @@
+u=nai ath_u_aor aor act inf  
+u_/menai ath_u_aor aor inf act epic
+u_@ath_act_2 ath_u_aor aor act ind
+un ath_u_aor 3rd pl aor ind act epic 
+u@pr_sub_act ath_u_aor aor act subj
+uh@ath_act_2 ath_u_aor aor opt act
+u=men ath_u_aor 1st pl aor opt act epic
+u@pr_sub_mp ath_u_aor aor mid subj
+u@iterat_act ath_u_aor aor ind act
+u_qi ath_u_aor aor act imperat sing pers2  
+u_@ath_imp_a ath_u_aor aor imperat act  not 2nd sg
+u@s_sa_n ath_u_aor aor act part needs_acc
+umen@adj1 ath_u_aor aor part mid

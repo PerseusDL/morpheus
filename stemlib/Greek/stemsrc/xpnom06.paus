@@ -1,0 +1,3031 @@
+:ns:Abantidas *)abantid hs_ou masc doric
+:ns:Abantis *)abant is_ews fem  suff_acc
+:ns:Abantis *)abant is_idos fem  suff_acc
+:ns:Abartus *)abart os_ou masc 
+:ns:Abas *)abas hs_ou masc 
+:ns:Abasa *)abas a_hs fem 
+:ns:Abia *)abi a_hs fem 
+:ns:Abia *)abi h_hs fem doric
+:ns:Abrupolis *)abroupol is_ews fem 
+:ns:Acacallis *)akakall is_idos fem  suff_acc
+:ns:Acacesian *)akakhsi os_h_on 
+:ns:Acacesium *)akakhsi os_ou neut 
+:ns:Acacus *)akak os_ou masc 
+:ns:Acesidas *)akesid hs_ou masc doric
+:ns:Acesis *)akes is_ews fem 
+:ns:Acesis *)akes is_idos fem 
+:ns:Acesis *)akes is_idos fem  suff_acc
+:ns:Acestium *)akesti os_ou neut 
+:ns:Acestor *)akest wr_oros masc 
+:ns:Acherois *)axerw is_idos fem  suff_acc
+:ns:Achladaeus *)axladai os_ou masc  stem_acc
+:ns:Acichorius *)akixwri os_ou masc 
+:ns:Acontium *)akonti os_ou neut 
+:ns:Acraea *)akrai a_hs fem 
+:ns:Acraea *)akrai h_hs fem doric
+:ns:Acraephnium *)akraifni os_ou neut 
+:ns:Acratophorus *)akratofor os_ou masc  stem_acc
+:ns:Acratus *)akrat os_ou masc 
+:ns:Acriae *)akri h_hs fem pl
+:ns:Acriae *)akri h_hs fem pl stem_acc
+:ns:Acriae *)akri h_hs fem pl suff_acc
+:ns:Acriae *)akri hs_ou masc pl
+:ns:Acriae *)akri hs_ou masc pl stem_acc
+:ns:Acriae *)akri hs_ou masc pl suff_acc
+:ns:Acrias *)akri as_antos masc 
+:ns:Acrias *)akri as_antos masc  stem_acc
+:ns:Acrias *)akri hs_ou masc doric
+:ns:Acrias *)akri hs_ou masc doric suff_acc
+:ns:Acriphius *)akrifi os_ou masc 
+:ns:Acritas *)akrit as_antos masc 
+:ns:Acritas *)akrit as_antos masc  stem_acc
+:ns:Acritas *)akrit hs_ou masc doric
+:ns:Acrochersites *)akroxersit hs_ou masc 
+:ns:Acrotatus *)akrotat os_ou masc 
+:ns:Actaeon *)aktai wn_onos masc  stem_acc
+:ns:Actaeon *)aktai wn_ontos masc  stem_acc
+:ns:Actaeus *)aktai os_ou masc  stem_acc
+:ns:Adamatas *)adamat as_antos masc  stem_acc
+:ns:Adamatas *)adamat hs_ou masc doric
+:ns:Adramyttium *)adramutti os_ou neut 
+:ns:Aeantides *ai)antid hs_ou masc 
+:ns:Aechmagoras *ai)xmagor hs_ou masc doric
+:ns:Aechmeas *ai)xme hs_ou masc doric
+:ns:Aechmis *ai)xm is_ews fem 
+:ns:Aechmis *ai)xm is_idos fem 
+:ns:Aegiae *ai)gi h_hs fem pl
+:ns:Aegiae *ai)gi hs_ou masc pl
+:ns:Aegialeus *ai)gial eus_ews masc 
+:ns:Aegialians *ai)gialei os_h_on 
+:ns:Aegila *ai)gil a_hs fem 
+:ns:Aegium *ai)gi os_ou neut  suff_acc
+:ns:Aegosthena *ai)gosqen a_hs fem 
+:ns:Aegyrus *ai)gur os_ou masc 
+:ns:Aegys *ai)g us_uos  
+:ns:Aegys *ai)gu s_tos   suff_acc
+:ns:Aegytian *ai)gut os_h_on  suff_acc
+:ns:Aenesidemus *ai)nesidhm os_ou masc 
+:ns:Aenetus *ai)nht os_ou masc 
+:ns:Aeolian *ai)oli os_h_on 
+:ns:Aeolians *ai)oli os_h_on 
+:ns:Aeolius *ai)oli os_ou masc 
+:ns:Aeschylinus *ai)sxulin os_ou masc 
+:ns:Aesymnetes *ai)sumnht hs_ou masc 
+:ns:Aesymnium *ai)sumni os_ou neut 
+:ns:Aesypus *ai)sup os_ou masc 
+:ns:Aethidas *ai)qid hs_ou masc doric
+:ns:Aetius *)aeti os_ou masc 
+:ns:Agamedes *)agamhd hs_eos masc 
+:ns:Agamedidas *)agamhdid hs_ou masc doric
+:ns:Agametor *)agamht wr_oros masc 
+:ns:Aganippe *)aganipp h_hs fem 
+:ns:Agasicles *)agasi klehs_kleous masc
+:ns:Agasimenes *)agasimen hs_eos masc 
+:ns:Agasisthenes *)agasisqen hs_eos masc 
+:ns:Agathinus *)agaqin os_ou masc 
+:ns:Agathocles *)agaqo klehs_kleous masc
+:ns:Agathocles *)agaqokl hs_ou masc  suff_acc
+:ns:Agdistis *)agdist is_ews fem 
+:ns:Agdistis *)agdist is_idos fem 
+:ns:Ageladas *)agelad as_antos masc  stem_acc
+:ns:Ageladas *)agelad hs_ou masc doric
+:ns:Ageles *)agel hs_eos masc 
+:ns:Ageles *)agel hs_ou masc 
+:ns:Ageles *)agelh s_tos  
+:ns:Agelochus *)agelox os_ou masc 
+:ns:Agelus *)agel os_ou masc 
+:ns:Agemachus *)agemax os_ou masc 
+:ns:Agesarchus *)aghsarx os_ou masc 
+:ns:Agesilas *)aghsil as_antos masc 
+:ns:Agesilas *)aghsil hs_ou masc doric
+:ns:Agesipolis *)aghsipol is_ews fem 
+:ns:Agetor *)aght wr_oros masc 
+:ns:Agetor *)aghtor hs_ou masc 
+:ns:Agiadas *)agiad as_antos masc 
+:ns:Agiadas *)agiad as_antos masc  stem_acc
+:ns:Agiadas *)agiad hs_ou masc doric
+:ns:Agias *)agi as_antos masc 
+:ns:Agias *)agi as_antos masc  stem_acc
+:ns:Agias *)agi hs_ou masc doric
+:ns:Agis *)ag is_ews fem  suff_acc
+:ns:Aglaophon *)aglaofw n_ntos masc  stem_acc
+:ns:Agnaptus *)agnapt os_ou masc 
+:ns:Agnitas *)agnit as_antos masc 
+:ns:Agnitas *)agnit as_antos masc  stem_acc
+:ns:Agnitas *)agnit hs_ou masc doric
+:ns:Agoneus *)agone os_ou masc 
+:ns:Agoracritus *)agorakrit os_ou masc 
+:ns:Agorius *)agwri os_ou masc 
+:ns:Agrae *)agr h_hs fem pl
+:ns:Agrae *)agr hs_ou masc pl
+:ns:Agrolas *)agrol as_antos masc  stem_acc
+:ns:Agrolas *)agrol hs_ou masc doric
+:ns:Alagonia *)alagoni a_hs fem 
+:ns:Alagonia *)alagoni h_hs fem doric
+:ns:Alalcomenae *)alalkomen h_hs fem pl
+:ns:Alalcomenae *)alalkomen h_hs fem pl suff_acc
+:ns:Alalcomeneus *)alalkomen eus_ews masc 
+:ns:Alalcomeneus *)alalkomene os_ou masc 
+:ns:Alalcomenia *)alalkomenei a_hs fem 
+:ns:Alalcomenia *)alalkomenei h_hs fem doric
+:ns:Alalcomenia *)alalkomeni h_hs fem doric
+:ns:Alcaenetus *)alkainet os_ou masc 
+:ns:Alcetus *)alket os_ou masc 
+:ns:Alcidamidas *)alkidamid hs_ou masc doric
+:ns:Alcidocus *)alkidok os_ou masc  stem_acc
+:ns:Alcinoa *)alkino h_hs fem doric
+:ns:Alcis *)alk is_idos fem 
+:ns:Alcman *)alkm os_h_on  suff_acc
+:ns:Alcman *)alkma n_nos masc  suff_acc
+:ns:Alcman *)alkma n_ntos masc  suff_acc
+:ns:Alcyonian *)alkuoni os_h_on 
+:ns:Ales *)al hs_eos masc 
+:ns:Ales *)al hs_ou masc 
+:ns:Ales *)alh s_tos  
+:ns:Alesiae *)alesi h_hs fem pl
+:ns:Alesiae *)alesi hs_ou masc pl
+:ns:Alesian *)alesi eus_ews masc 
+:ns:Alesian *)alesi os_h_on 
+:ns:Aleus *)al eus_ews masc 
+:ns:Aleus *)ale os_ou masc 
+:ns:Alexandra *)alecandr a_hs fem 
+:ns:Alexandra *)alecandr h_hs fem doric
+:ns:Alexandria *)alecandrei a_hs fem 
+:ns:Alexandria *)alecandrei h_hs fem doric
+:ns:Alexandrian *)alecandr eus_ews masc 
+:ns:Alexandrian *)alecandr eus_ews masc  suff_acc
+:ns:Alexandrian *)alecandr os_h_on 
+:ns:Alexandrian *)alecandrei eus_ews masc 
+:ns:Alexandrian *)alecandrei os_h_on 
+:ns:Alexandrian *)alecandreia n_nos masc 
+:ns:Alexandrian *)alecandreia n_ntos masc 
+:ns:Alexandrians *)alecandrei os_h_on 
+:ns:Alexanor *)alecan wr_oros masc 
+:ns:Alexanor *)alecanor hs_ou masc 
+:ns:Alexibius *)alecibi os_ou masc 
+:ns:Aleximachus *)alecimax os_ou masc 
+:ns:Alexinicus *)alecinik os_ou masc 
+:ns:Aliphera *)alifhr a_hs fem 
+:ns:Alipherus *)alifhr os_ou masc 
+:ns:Alitherses *)aliqers hs_eos masc 
+:ns:Alitherses *)aliqers hs_ou masc 
+:ns:Alitherses *)aliqersh s_tos  
+:ns:Almones *)almwn hs_eos masc 
+:ns:Almones *)almwne s_tos  
+:ns:Almus *)alm os_ou masc 
+:ns:Alopecus *)alwpek os_ou masc 
+:ns:Alphius *)alfi os_ou masc 
+:ns:Alpium *)alpi os_ou neut  stem_acc
+:ns:Althepia *)alqhpi h_hs fem doric
+:ns:Althepus *)alqhp os_ou masc 
+:ns:Altis *)alt is_ews fem 
+:ns:Altis *)alt is_idos fem 
+:ns:Alxion *)alciw n_nos masc 
+:ns:Alypus *)alup os_ou masc 
+:ns:Alyssus *)aluss os_ou masc 
+:ns:Amadocus *)amadok os_ou masc 
+:ns:Amarysia *)amarusi a_hs fem 
+:ns:Amarysia *)amarusi h_hs fem doric
+:ns:Amarysian *)amarusi eus_ews masc 
+:ns:Amarysian *)amarusi os_h_on 
+:ns:Amazonian *)amazoni os_h_on 
+:ns:Ambologera *)ambologhr a_hs fem 
+:ns:Ambologera *)ambologhr h_hs fem doric
+:ns:Ambracia *)ambraki a_hs fem 
+:ns:Ambracia *)ambraki h_hs fem doric
+:ns:Ambraciot *)ambrakiwt hs_ou masc 
+:ns:Ambraciot *)ambrakiwt hs_ou masc  stem_acc
+:ns:Ambulian *)ambouli eus_ews masc 
+:ns:Ambulian *)ambouli os_h_on 
+:ns:Amertes *)amert hs_ou masc 
+:ns:Amilichus *)ameilix os_ou masc 
+:ns:Amilus *)amil os_ou masc 
+:ns:Aminius *)amini os_ou masc 
+:ns:Amphicles *)amfi klehs_kleous masc
+:ns:Amphimarus *)amfimar os_ou masc 
+:ns:Amphiptolemus *)amfiptolem os_ou masc 
+:ns:Amphisthenes *)amfisqen hs_eos masc 
+:ns:Amphithemis *)amfiqem is_ews fem 
+:ns:Amphithemis *)amfiqem is_idos fem 
+:ns:Amphitus *)amfit os_ou masc 
+:ns:Ampyx *)ampu c_kos masc 
+:ns:Ampyx *)ampu c_ktos masc 
+:ns:Amyclaean *)amuklai os_h_on  stem_acc
+:ns:Amyclaeus *)amuklai os_ou masc  stem_acc
+:ns:Anactorum *)anaktor os_ou neut 
+:ns:Anaea *)anai h_hs fem doric
+:ns:Anaeitis *)anaiit is_idos fem 
+:ns:Anauchidas *)anauxid hs_ou masc doric
+:ns:Anax *)ana c_ktos masc 
+:ns:Anaxagoras *)anacagor hs_ou masc doric
+:ns:Anaxandra *)anacandr a_hs fem 
+:ns:Anaxandra *)anacandr h_hs fem doric
+:ns:Anaxicrates *)anaci hs_eos masc 
+:ns:Anaxicrates *)anacikrat hs_eos masc 
+:ns:Anaxidamus *)anacidam os_ou masc 
+:ns:Anaximenes *)anacimen hs_eos masc 
+:ns:Anaxippus *)anacipp os_ou masc 
+:ns:Anaxiroe *)anaciro h_hs fem 
+:ns:Anaxis *)anac is_ews fem 
+:ns:Anaxis *)anac is_ews fem  suff_acc
+:ns:Anaxis *)anac is_idos fem 
+:ns:Anchesmian *)agxesm os_h_on  suff_acc
+:ns:Anchesmian *)agxesmi os_h_on 
+:ns:Anchesmus *)agxesm os_ou masc  suff_acc
+:ns:Anchisia *)agxisi a_hs fem 
+:ns:Anchisia *)agxisi h_hs fem doric
+:ns:Anchisiae *)agxisi h_hs fem pl
+:ns:Anchisiae *)agxisi hs_ou masc pl
+:ns:Ancyra *)agkur a_hs fem 
+:ns:Andania *)andani a_hs fem 
+:ns:Andania *)andani h_hs fem doric
+:ns:Andreis *)andrh is_ews fem  suff_acc
+:ns:Andreis *)andrh is_idos fem  suff_acc
+:ns:Andreus *)andr eus_ews masc 
+:ns:Andreus *)andr eus_ews masc  suff_acc
+:ns:Andreus *)andre os_ou masc 
+:ns:Andrian *)andr eus_ews masc 
+:ns:Andrian *)andr eus_ews masc  suff_acc
+:ns:Andriscus *)andrisk os_ou masc 
+:ns:Androclea *)androkle a_hs fem 
+:ns:Androclea *)androkle h_hs fem doric
+:ns:Androcles *)andro klehs_kleous masc
+:ns:Androcles *)androkl hs_ou masc 
+:ns:Androcles *)androkl hs_ou masc  suff_acc
+:ns:Androclides *)androkleid hs_ou masc 
+:ns:Androclus *)androkl os_ou masc 
+:ns:Androdamas *)androdam as_antos masc  stem_acc
+:ns:Androdamas *)androdam hs_ou masc doric
+:ns:Andromachus *)andromax os_ou masc 
+:ns:Andropompus *)andropomp os_ou masc 
+:ns:Androsthenes *)androsqen hs_eos masc 
+:ns:Androtion *)androti wn_onos masc 
+:ns:Androtion *)androti wn_ontos masc 
+:ns:Androtion *)androtiw n_nos masc 
+:ns:Androtion *)androtiw n_ntos masc 
+:ns:Angelion *)aggeli wn_onos masc 
+:ns:Angelion *)aggeli wn_ontos masc 
+:ns:Angelion *)aggeliw n_nos masc 
+:ns:Angelion *)aggeliw n_ntos masc 
+:ns:Anigrian *)anigr os_h_on 
+:ns:Anigrus *)anigr os_ou masc 
+:ns:Anochus *)anox os_ou masc 
+:ns:Anonus *)anon os_ou masc 
+:ns:Antalcidas *)antalkid hs_ou masc doric
+:ns:Antasus *)antas os_ou masc 
+:ns:Anthas *)anq as_antos masc 
+:ns:Anthas *)anq hs_ou masc doric
+:ns:Anthemocritus *)anqemokrit os_ou masc 
+:ns:Antheus *)anq eus_ews masc  suff_acc
+:ns:Anthracia *)anqraki a_hs fem 
+:ns:Anthracia *)anqraki h_hs fem doric
+:ns:Anticyra *)antikur a_hs fem 
+:ns:Antimenes *)antimen hs_eos masc 
+:ns:Antinoe *)antino h_hs fem 
+:ns:Antiophemus *)antiofhm os_ou masc 
+:ns:Antiphilus *)antifil os_ou masc 
+:ns:Antipoenus *)antipoin os_ou masc 
+:ns:Antitheus *)antiqe os_ou masc 
+:ns:Anyte *)anut h_hs fem 
+:ns:Aoede *)aoid h_hs fem  suff_acc
+:ns:Aoris *)aor is_ews fem 
+:ns:Aoris *)aor is_idos fem 
+:ns:Aornum *)aorn os_ou neut 
+:ns:Aous *)aw os_ou masc 
+:ns:Apame *)apam h_hs fem 
+:ns:Apaturian *)apatouri eus_ews masc 
+:ns:Apaturian *)apatouri os_h_on 
+:ns:Apelles *)apell hs_ou masc  suff_acc
+:ns:Aperopia *)aperopi a_hs fem 
+:ns:Aperopia *)aperopi h_hs fem doric
+:ns:Apesantian *)apesanti os_h_on 
+:ns:Apesas *)apes as_antos masc 
+:ns:Apesas *)apes hs_ou masc doric
+:ns:Aphaea *)afai a_hs fem 
+:ns:Aphaea *)afai h_hs fem doric
+:ns:Aphetaeus *)afetai os_ou masc 
+:ns:Aphidna *)afidn a_hs fem 
+:ns:Aphidna *)afidn h_hs fem doric
+:ns:Apoecus *)apoik os_ou masc 
+:ns:Apolloniatis *)apollwniat is_ews fem 
+:ns:Appius *)appi os_ou masc 
+:ns:Apteraean *)apterai os_h_on 
+:ns:Arabian *)arab os_h_on 
+:ns:Aracus *)arak os_ou masc 
+:ns:Arantia *)aranti a_hs fem 
+:ns:Arantia *)aranti h_hs fem doric
+:ns:Aras *)ar as_antos masc 
+:ns:Aras *)ar hs_ou masc doric suff_acc
+:ns:Aras *)ara s_tos  
+:ns:Aratus *)arat os_ou masc 
+:ns:Araxus *)arac os_ou masc 
+:ns:Arba *)arb a_hs fem 
+:ns:Arba *)arb h_hs fem doric
+:ns:Archedamus *)arxedam os_ou masc 
+:ns:Archedius *)arxhdi os_ou masc 
+:ns:Archimedes *)arximhd hs_eos masc 
+:ns:Archomenides *)arxomenid hs_ou masc 
+:ns:Ardalides *)ardalid hs_ou masc 
+:ns:Ardalus *)ardal os_ou masc 
+:ns:Aresthanas *)aresqan as_antos masc 
+:ns:Aresthanas *)aresqan as_antos masc  stem_acc
+:ns:Aresthanas *)aresqan hs_ou masc doric
+:ns:Areus *)ar eus_ews masc 
+:ns:Areus *)ar eus_ews masc  suff_acc
+:ns:Areus *)are os_ou masc 
+:ns:Argalus *)argal os_ou masc 
+:ns:Argeathae *)argeaq h_hs fem pl
+:ns:Argeathae *)argeaq hs_ou masc pl
+:ns:Argeot *)argewt hs_ou masc 
+:ns:Arginusae *)arginous h_hs fem pl
+:ns:Arginusae *)arginous hs_ou masc pl
+:ns:Argus *)arg os_ou masc  suff_acc
+:ns:Argyra *)argur a_hs fem 
+:ns:Argyra *)argur a_hs fem  suff_acc
+:ns:Argyra *)argur h_hs fem doric
+:ns:Argyra *)argur h_hs fem doric suff_acc
+:ns:Aria *)ari h_hs fem doric
+:ns:Arians *)ari os_h_on 
+:ns:Aridaeus *)aridai os_ou masc 
+:ns:Aridaeus *)aridai os_ou masc  stem_acc
+:ns:Arieus *)ari eus_ews masc  suff_acc
+:ns:Arignotus *)arignwt os_ou masc 
+:ns:Aris *)ar is_ews fem 
+:ns:Aris *)ar is_ews fem  suff_acc
+:ns:Aris *)ar is_idos fem 
+:ns:Aristaechmus *)aristaixm os_ou masc 
+:ns:Aristaenus *)aristain os_ou masc 
+:ns:Aristandrian *)aristandr os_h_on 
+:ns:Aristandrian *)aristandrei os_h_on 
+:ns:Aristarchus *)aristarx os_ou masc 
+:ns:Aristas *)arist as_antos masc  stem_acc
+:ns:Aristas *)arist hs_ou masc doric
+:ns:Ariste *)arist h_hs fem 
+:ns:Aristeus *)arist eus_ews masc 
+:ns:Aristias *)aristi hs_ou masc doric
+:ns:Aristion *)aristi wn_onos masc 
+:ns:Aristion *)aristi wn_ontos masc 
+:ns:Aristion *)aristiw n_nos masc 
+:ns:Aristion *)aristiw n_ntos masc 
+:ns:Aristion *)aristiwn hs_ou masc 
+:ns:Aristocles *)aristo klehs_kleous masc
+:ns:Aristocles *)aristokl hs_ou masc  suff_acc
+:ns:Aristodama *)aristodam a_hs fem 
+:ns:Aristodama *)aristodam h_hs fem doric
+:ns:Aristolaus *)aristola os_ou masc 
+:ns:Aristomache *)aristomax h_hs fem 
+:ns:Aristomedes *)aristomhd hs_eos masc 
+:ns:Aristomedon *)aristomed wn_ontos masc 
+:ns:Aristomedon *)aristomedo n_ntos masc 
+:ns:Aristomelidas *)aristomhlid hs_ou masc doric
+:ns:Aristomenes *)aristomen hs_eos masc 
+:ns:Aristonautae *)aristonaut h_hs fem pl
+:ns:Aristonautae *)aristonaut h_hs fem pl stem_acc
+:ns:Aristonautae *)aristonaut hs_ou masc pl
+:ns:Aristonautae *)aristonaut hs_ou masc pl stem_acc
+:ns:Aristophon *)aristofw n_ntos masc  stem_acc
+:ns:Aristotimus *)aristotim os_ou masc 
+:ns:Arniscus *)arnisk os_ou masc 
+:ns:Aroanian *)aroani os_h_on 
+:ns:Aroanius *)aroani os_ou masc 
+:ns:Aroe *)aro h_hs fem 
+:ns:Aroeus *)aro eus_ews masc 
+:ns:Aroeus *)aro eus_ews masc  suff_acc
+:ns:Arrhachion *)arraxi wn_onos masc 
+:ns:Arrhachion *)arraxi wn_ontos masc 
+:ns:Arrhachion *)arraxiw n_nos masc 
+:ns:Arrhachion *)arraxiw n_ntos masc 
+:ns:Arrhachion *)arraxiwn hs_ou masc 
+:ns:Arrhon *)arr wn_onos masc 
+:ns:Arrhon *)arr wn_ontos masc 
+:ns:Arrhon *)arrw n_nos masc 
+:ns:Arrhon *)arrw n_ntos masc 
+:ns:Arsaces *)arsak hs_ou masc 
+:ns:Arsen *)arsh n_nos masc 
+:ns:Arsen *)arsh n_ntos masc 
+:ns:Arsites *)arsit hs_ou masc 
+:ns:Artaphernes *)artafern hs_eos masc 
+:ns:Artemidorus *)artemidwr os_ou masc 
+:ns:Artylas *)artul as_antos masc  stem_acc
+:ns:Artylas *)artul hs_ou masc doric
+:ns:Arybbas *)arubb hs_ou masc doric
+:ns:Asamon *)asam wn_onos masc 
+:ns:Asamon *)asam wn_ontos masc 
+:ns:Asamon *)asamw n_nos masc 
+:ns:Asamon *)asamw n_ntos masc 
+:ns:Ascarus *)askar os_ou masc 
+:ns:Ascra *)askr a_hs fem 
+:ns:Ascra *)askr h_hs fem doric
+:ns:Asea *)ase a_hs fem 
+:ns:Asea *)ase h_hs fem doric
+:ns:Aseatas *)aseat as_antos masc  stem_acc
+:ns:Aseatas *)aseat hs_ou masc doric
+:ns:Asinaea *)asinai a_hs fem 
+:ns:Asinaea *)asinai h_hs fem doric
+:ns:Asinaeans *)asinai os_h_on 
+:ns:Asinaeans *)asinai os_h_on  stem_acc
+:ns:Asinarus *)asinar os_ou masc 
+:ns:Asopia *)aswpi h_hs fem doric
+:ns:Asopichus *)aswpix os_ou masc 
+:ns:Asphalius *)asfali os_ou masc 
+:ns:Asphodicus *)asfodik os_ou masc 
+:ns:Ass *)ass hs_ou masc  suff_acc
+:ns:Assus *)ass os_ou masc  suff_acc
+:ns:Asterion *)asteriw n_nos masc 
+:ns:Asterion *)asteriwn hs_ou masc 
+:ns:Astius *)astei os_ou masc 
+:ns:Astrabacus *)astrabak os_ou masc 
+:ns:Astycles *)astu klehs_kleous masc
+:ns:Astycrates *)astukrat hs_eos masc 
+:ns:Astylus *)astul os_ou masc  stem_acc
+:ns:Astyra *)astur a_hs fem 
+:ns:Athamantian *)aqamanti os_h_on 
+:ns:Athenaeus *)aqhnai os_ou masc 
+:ns:Athenodorus *)aqhnodwr os_ou masc 
+:ns:Athera *)aqer h_hs fem doric
+:ns:Atherion *)aqeri wn_onos masc 
+:ns:Atherion *)aqeri wn_ontos masc 
+:ns:Atherion *)aqeriw n_nos masc 
+:ns:Atherion *)aqeriw n_ntos masc 
+:ns:Attalus *)attal os_ou masc 
+:ns:Augustus *au)goust os_ou masc 
+:ns:Auliscus *au)lisk os_ou masc 
+:ns:Aulon *au)lw n_nos masc  stem_acc
+:ns:Aulonian *au)lwn os_h_on  stem_acc
+:ns:Aulonian *au)lwni os_h_on 
+:ns:Autolaus *au)tola os_ou masc 
+:ns:Autonomus *au)tonom os_ou masc 
+:ns:Autosthenes *au)tosqen hs_eos masc 
+:ns:Auxo *au)c w_oos fem  suff_acc
+:ns:Axion *)aci wn_onos masc 
+:ns:Axion *)aci wn_ontos masc 
+:ns:Axion *)acio n_nos masc 
+:ns:Axion *)acion hs_ou masc 
+:ns:Axion *)aciw n_nos masc 
+:ns:Axion *)aciw n_ntos masc 
+:ns:Axionicus *)acionik os_ou masc 
+:ns:Axius *)aci os_ou masc 
+:ns:Azan *)az eus_ews masc 
+:ns:Azan *)az eus_ews masc  suff_acc
+:ns:Azan *)az os_h_on  suff_acc
+:ns:Azan *)aza n_nos masc 
+:ns:Azan *)aza n_nos masc  suff_acc
+:ns:Azan *)aza n_ntos masc  suff_acc
+:ns:Azania *)azani a_hs fem 
+:ns:Azania *)azani h_hs fem doric
+:ns:Azanian *)azan os_h_on 
+:ns:Azanian *)azani eus_ews masc 
+:ns:Azanian *)azani os_h_on 
+:ns:Azanians *)azani os_h_on 
+:ns:Azas *)az as_antos masc  suff_acc
+:ns:Azas *)az hs_ou masc doric suff_acc
+:ns:Azeus *)az eus_ews masc 
+:ns:Azeus *)az eus_ews masc  suff_acc
+:ns:Azeus *)aze os_ou masc 
+:ns:Babylonian *babulwni eus_ews masc 
+:ns:Babylonian *babulwni os_h_on 
+:ns:Bacchid *bakxid hs_ou masc 
+:ns:Bacchis *bakx is_ews fem 
+:ns:Bacchis *bakx is_idos fem 
+:ns:Bacchis *bakx is_idos fem  suff_acc
+:ns:Bacchius *bakxei os_ou masc 
+:ns:Baetis *bait is_ews fem 
+:ns:Baetis *bait is_idos fem 
+:ns:Balagrae *balagr h_hs fem pl
+:ns:Balagrae *balagr hs_ou masc pl
+:ns:Balyra *balur a_hs fem 
+:ns:Balyra *balur h_hs fem doric
+:ns:Baphyras *bafur as_antos masc 
+:ns:Baphyras *bafur hs_ou masc doric
+:ns:Barsina *barsin a_hs fem 
+:ns:Barsina *barsin h_hs fem doric
+:ns:Basilae *basil h_hs fem pl stem_acc
+:ns:Basilae *basil hs_ou masc pl stem_acc
+:ns:Basilis *basil is_ews fem  suff_acc
+:ns:Basilis *basil is_idos fem  suff_acc
+:ns:Bathos *baqo s_tos  
+:ns:Bathycles *baqu klehs_kleous masc
+:ns:Bathyllus *baqull os_ou masc 
+:ns:Baucis *bauk is_idos fem 
+:ns:Belemina *belemin a_hs fem 
+:ns:Belemina *belemin h_hs fem doric
+:ns:Belistiche *belistix h_hs fem 
+:ns:Berenice *berenik h_hs fem 
+:ns:Berosus *bhros os_ou masc 
+:ns:Biblis *bibl is_ews fem  suff_acc
+:ns:Biblis *bibl is_idos fem  suff_acc
+:ns:Bidiaeans *bidiai os_h_on 
+:ns:Biris *bir is_idos fem 
+:ns:Bithynia *biquni a_hs fem 
+:ns:Bithynia *biquni h_hs fem doric
+:ns:Bithynians *biquni os_h_on 
+:ns:Bithynium *biquni os_ou neut 
+:ns:Blenina *blenin a_hs fem 
+:ns:Boeae *boi h_hs fem pl suff_acc
+:ns:Boeae *boi hs_ou masc pl suff_acc
+:ns:Boeae *boia h_hs fem 
+:ns:Boethus *bohq os_ou masc  suff_acc
+:ns:Boeus *boi os_ou masc  suff_acc
+:ns:Bolgius *bolgi os_ou masc 
+:ns:Bolina *bolin a_hs fem 
+:ns:Bolina *bolin h_hs fem doric
+:ns:Bolinaeus *bolinai os_ou masc  stem_acc
+:ns:Booneta *bownht a_hs fem 
+:ns:Brasiae *brasi h_hs fem pl suff_acc
+:ns:Brasiae *brasi hs_ou masc pl suff_acc
+:ns:Brauronian *braurwni eus_ews masc 
+:ns:Brauronian *braurwni os_h_on 
+:ns:Brennus *brenn os_ou masc 
+:ns:Brenthe *brenq h_hs fem 
+:ns:Brentheates *brenqeat hs_eos masc 
+:ns:Brentheates *brenqeat hs_ou masc 
+:ns:Brentheates *brenqeath s_tos  
+:ns:Briacas *briak as_antos masc 
+:ns:Briacas *briak as_antos masc  stem_acc
+:ns:Briacas *briak hs_ou masc doric
+:ns:Brimias *brimi as_antos masc 
+:ns:Brimias *brimi hs_ou masc doric
+:ns:Britomartis *britomart is_ews fem 
+:ns:Britomartis *britomart is_idos fem 
+:ns:Bryas *bru as_antos masc 
+:ns:Bryas *bru hs_ou masc doric
+:ns:Bryas *brua s_tos  
+:ns:Bryaxis *bruac is_ews fem 
+:ns:Bryaxis *bruac is_idos fem 
+:ns:Bryseae *bruse h_hs fem pl
+:ns:Bryseae *bruse hs_ou masc pl
+:ns:Bucephala *boukefal a_hs fem 
+:ns:Bulis *boul is_idos fem 
+:ns:Bulon *boulw n_nos masc 
+:ns:Bunaean *bounai eus_ews masc 
+:ns:Bunaean *bounai os_h_on 
+:ns:Bunus *boun os_ou masc 
+:ns:Bupalus *boupal os_ou masc 
+:ns:Buphagium *boufagi os_ou neut 
+:ns:Buphagus *boufag os_ou masc 
+:ns:Buphagus *boufag os_ou masc  stem_acc
+:ns:Buporthmus *bouporqm os_ou masc 
+:ns:Bycelus *bukel os_ou masc 
+:ns:Byzes *buz hs_eos masc 
+:ns:Byzes *buz hs_ou masc 
+:ns:Byzes *buzh s_tos  
+:ns:Caanthus *kaanq os_ou masc 
+:ns:Cabiraea *kabeirai a_hs fem 
+:ns:Cabiraea *kabeirai h_hs fem doric
+:ns:Cabiri *kabeiri hs_ou masc 
+:ns:Cabirian *kabeiri os_h_on 
+:ns:Cachales *kaxal hs_eos masc 
+:ns:Cachales *kaxal hs_ou masc 
+:ns:Cachales *kaxalh s_tos  
+:ns:Caecinus *kaikin os_ou masc 
+:ns:Caenepolis *kainhpol is_ews fem 
+:ns:Caerus *kair os_ou masc  suff_acc
+:ns:Caesar *kaisar hs_ou masc 
+:ns:Calabrus *kalabr os_ou masc 
+:ns:Calades *kalad hs_eos masc 
+:ns:Calades *kalad hs_ou masc 
+:ns:Calades *kaladh s_tos  
+:ns:Calamae *kalam h_hs fem pl stem_acc
+:ns:Calamae *kalam hs_ou masc pl stem_acc
+:ns:Calamis *kalam is_ews fem 
+:ns:Calamis *kalam is_idos fem 
+:ns:Calaon *kala wn_ontos masc 
+:ns:Calaon *kalao n_ntos masc 
+:ns:Calathium *kalaqi os_ou neut 
+:ns:Calauria *kalaurei a_hs fem 
+:ns:Calauria *kalaurei h_hs fem doric
+:ns:Calaus *kal aos_aou masc 
+:ns:Calaus *kala os_ou masc  suff_acc
+:ns:Calchinia *kalxini a_hs fem 
+:ns:Calchinia *kalxini h_hs fem doric
+:ns:Callia *kalli a_hs fem  suff_acc
+:ns:Callia *kalli h_hs fem doric suff_acc
+:ns:Calliae *kalli h_hs fem pl suff_acc
+:ns:Calliae *kalli hs_ou masc pl suff_acc
+:ns:Callianax *kalliana c_ktos masc 
+:ns:Callians *kalli os_h_on 
+:ns:Callians *kalli os_h_on  suff_acc
+:ns:Callias *kalli as_antos masc  suff_acc
+:ns:Callias *kalli hs_ou masc doric suff_acc
+:ns:Callias *kallia s_tos   suff_acc
+:ns:Callibrotus *kallibrot os_ou masc 
+:ns:Callicles *kalli klehs_kleous masc
+:ns:Callignotus *kallignwt os_ou masc 
+:ns:Callinicus *kallinik os_ou masc 
+:ns:Callinus *kallin os_ou masc 
+:ns:Callipatira *kallipateir a_hs fem 
+:ns:Callipatira *kallipateir h_hs fem doric
+:ns:Callipolis *kallipol is_ews fem 
+:ns:Callippus *kallipp os_ou masc 
+:ns:Callistonicus *kallistonik os_ou masc 
+:ns:Calliteles *kallitel hs_eos masc 
+:ns:Calliteles *kallitel hs_ou masc 
+:ns:Calliteles *kallitelh s_tos  
+:ns:Callium *kalli os_ou neut 
+:ns:Callon *kall wn_onos masc 
+:ns:Callon *kall wn_ontos masc 
+:ns:Callon *kallw n_nos masc 
+:ns:Callon *kallw n_ntos masc 
+:ns:Callon *kallwn hs_ou masc 
+:ns:Calos *kalw s_tos  
+:ns:Cambaules *kambaul hs_ou masc 
+:ns:Camiro *kameir w_oos fem  suff_acc
+:ns:Camirus *kameir os_ou masc  suff_acc
+:ns:Canachus *kanax os_ou masc 
+:ns:Canathus *kanaq os_ou masc 
+:ns:Cantharus *kanqar os_ou masc 
+:ns:Capetus *kapet os_ou masc 
+:ns:Caphya *kafu a_hs fem 
+:ns:Caphya *kafu a_hs fem  suff_acc
+:ns:Caphya *kafu h_hs fem doric
+:ns:Caphya *kafu h_hs fem doric suff_acc
+:ns:Caphyae *kafu h_hs fem pl
+:ns:Caphyae *kafu h_hs fem pl suff_acc
+:ns:Caphyae *kafu hs_ou masc pl
+:ns:Caphyae *kafu hs_ou masc pl suff_acc
+:ns:Caphyan *kafu eus_ews masc  suff_acc
+:ns:Caphyan *kafu os_h_on  suff_acc
+:ns:Caphyan *kafua n_nos masc  suff_acc
+:ns:Caphyan *kafua n_ntos masc  suff_acc
+:ns:Caphyatic *kafuatik hs_ou masc  suff_acc
+:ns:Cappotas *kappwt as_antos masc 
+:ns:Cappotas *kappwt hs_ou masc doric
+:ns:Caprus *kapr os_ou masc 
+:ns:Caralis *karal is_ews fem 
+:ns:Caralis *karal is_idos fem 
+:ns:Caranus *karan os_ou masc  suff_acc
+:ns:Cardys *kard us_uos  
+:ns:Carinus *karin os_ou masc  suff_acc
+:ns:Carmanor *karman wr_oros masc 
+:ns:Carmanor *karmanor hs_ou masc 
+:ns:Carme *karm h_hs fem 
+:ns:Carnasian *karnasi os_h_on 
+:ns:Carnasium *karnasi os_ou neut 
+:ns:Carnion *karnei wn_onos masc 
+:ns:Carnion *karnei wn_ontos masc 
+:ns:Carnion *karneio n_nos masc 
+:ns:Carnion *karneio n_ntos masc 
+:ns:Carnion *karni wn_onos masc 
+:ns:Carnion *karni wn_ontos masc 
+:ns:Carnion *karniw n_nos masc 
+:ns:Carnion *karniw n_ntos masc 
+:ns:Carnus *karn os_ou masc 
+:ns:Carpasian *karpasi os_h_on 
+:ns:Carpia *karpi h_hs fem doric
+:ns:Carpo *karp w_oos fem  suff_acc
+:ns:Caryae *karu h_hs fem pl
+:ns:Caryae *karu h_hs fem pl suff_acc
+:ns:Caryae *karu hs_ou masc pl
+:ns:Caryae *karu hs_ou masc pl suff_acc
+:ns:Caryatae *karuat h_hs fem pl
+:ns:Caryatae *karuat hs_ou masc pl
+:ns:Cassandria *kassandrei a_hs fem 
+:ns:Cassandria *kassandrei h_hs fem doric
+:ns:Cassotis *kassot is_ews fem  suff_acc
+:ns:Cassotis *kassot is_idos fem  suff_acc
+:ns:Castalius *kastali os_ou masc 
+:ns:Catillus *katill os_ou masc 
+:ns:Caulonia *kaulwni a_hs fem 
+:ns:Caulonia *kaulwni h_hs fem doric
+:ns:Caulonian *kaulwni eus_ews masc 
+:ns:Caulonian *kaulwni os_h_on 
+:ns:Causian *kaousi os_h_on 
+:ns:Celadus *kelad os_ou masc 
+:ns:Celbidas *kelbid hs_ou masc doric
+:ns:Celeae *kele h_hs fem pl suff_acc
+:ns:Celeae *kele hs_ou masc pl suff_acc
+:ns:Celenderis *kelender is_ews fem 
+:ns:Celusa *khlous a_hs fem 
+:ns:Celusa *khlous h_hs fem doric
+:ns:Cenchrea *kegxre a_hs fem 
+:ns:Cenchrea *kegxre a_hs fem  suff_acc
+:ns:Cenchrea *kegxre h_hs fem doric
+:ns:Cenchrea *kegxre h_hs fem doric suff_acc
+:ns:Cenchreae *kegxre h_hs fem pl
+:ns:Cenchreae *kegxre h_hs fem pl suff_acc
+:ns:Cenchreae *kegxre hs_ou masc pl
+:ns:Cenchreae *kegxre hs_ou masc pl suff_acc
+:ns:Cenchreus *kegxr eus_ews masc 
+:ns:Cenchreus *kegxre os_ou masc  suff_acc
+:ns:Cenchrias *kegxri as_antos masc 
+:ns:Cenchrias *kegxri as_antos masc  stem_acc
+:ns:Cenchrias *kegxri hs_ou masc doric
+:ns:Cenchrius *kegxri os_ou masc 
+:ns:Cephale *kefal h_hs fem  suff_acc
+:ns:Cephisocles *khfiso klehs_kleous masc
+:ns:Cephisodotus *khfisodot os_ou masc 
+:ns:Ceramus *keram os_ou masc 
+:ns:Ceraunian *keraun os_h_on  suff_acc
+:ns:Cerausius *kerausi os_ou masc 
+:ns:Cerdo *kerd w_oos fem  suff_acc
+:ns:Cereatas *kereat as_antos masc  stem_acc
+:ns:Cereatas *kereat hs_ou masc doric
+:ns:Ceressus *kerhss os_ou masc  suff_acc
+:ns:Cerethrius *kereqri os_ou masc 
+:ns:Ceryces *khruk hs_eos masc 
+:ns:Ceryces *khruke s_tos  
+:ns:Cerycius *khruki os_ou masc 
+:ns:Cerynes *kerun hs_eos masc 
+:ns:Cerynes *kerun hs_ou masc 
+:ns:Cerynes *kerunh s_tos  
+:ns:Cerynites *kerunit hs_ou masc 
+:ns:Ceryx *khru c_kos masc 
+:ns:Cestrinus *kestrin os_ou masc 
+:ns:Chabrias *xabri as_antos masc 
+:ns:Chabrias *xabri hs_ou masc doric
+:ns:Chaereas *xaire hs_ou masc doric
+:ns:Chaeremon *xairhm wn_onos masc 
+:ns:Chaeremon *xairhmo n_nos masc 
+:ns:Chaeron *xairw n_nos masc 
+:ns:Chaeron *xairwn hs_ou masc 
+:ns:Chalcidian *xalkid eus_ews masc  suff_acc
+:ns:Chamyne *xamun h_hs fem 
+:ns:Chamynus *xamun os_ou masc 
+:ns:Chaon *xa wn_onos masc 
+:ns:Chaon *xa wn_ontos masc 
+:ns:Chaon *xao n_nos masc 
+:ns:Chaon *xao n_ntos masc 
+:ns:Chaos *xao s_tos  
+:ns:Characoma *xarakwm a_hs fem 
+:ns:Charadrus *xaradr os_ou masc 
+:ns:Charillus *xarill os_ou masc 
+:ns:Charisia *xarisi a_hs fem 
+:ns:Charisia *xarisi h_hs fem doric
+:ns:Charisiae *xarisi h_hs fem pl
+:ns:Charisiae *xarisi hs_ou masc pl
+:ns:Charisius *xarisi os_ou masc 
+:ns:Charisius *xarisi os_ou masc  suff_acc
+:ns:Charmidas *xarmid hs_ou masc doric
+:ns:Charmon *xarmw n_nos masc 
+:ns:Charmus *xarm os_ou masc 
+:ns:Chartas *xart as_antos masc 
+:ns:Chartas *xart hs_ou masc doric
+:ns:Chelone *xelwn h_hs fem 
+:ns:Chelydorea *xeludore a_hs fem 
+:ns:Chenae *xhn h_hs fem pl
+:ns:Chenae *xhn hs_ou masc pl
+:ns:Chersias *xersi as_antos masc 
+:ns:Chersias *xersi hs_ou masc doric
+:ns:Chilon *xilw n_nos masc 
+:ns:Chilon *xilwn hs_ou masc 
+:ns:Chimarrhus *xeimarr os_ou masc 
+:ns:Chimon *xeim wn_onos masc 
+:ns:Chimon *xeim wn_ontos masc 
+:ns:Chimon *xeimw n_nos masc 
+:ns:Chimon *xeimw n_ntos masc 
+:ns:Chionis *xion is_ews fem 
+:ns:Chionis *xion is_idos fem 
+:ns:Chirisophus *xeirisof os_ou masc 
+:ns:Chiron *xir wn_onos masc 
+:ns:Chiron *xir wn_ontos masc 
+:ns:Chiron *xirw n_nos masc 
+:ns:Chiron *xirw n_ntos masc 
+:ns:Chiron *xirwn hs_ou masc 
+:ns:Choera *xoir a_hs fem 
+:ns:Choera *xoir h_hs fem doric
+:ns:Choerilus *xoiril os_ou masc 
+:ns:Choerilus *xoiril os_ou masc  stem_acc
+:ns:Choerius *xoiri os_ou masc 
+:ns:Chorus *xor os_ou masc  suff_acc
+:ns:Chromia *xromi h_hs fem doric
+:ns:Chronius *xroni os_ou masc 
+:ns:Chrysanthis *xrusanq is_ews fem  suff_acc
+:ns:Chrysanthis *xrusanq is_idos fem  suff_acc
+:ns:Chrysaoris *xrusaor is_ews fem  suff_acc
+:ns:Chrysaoris *xrusaor is_idos fem  suff_acc
+:ns:Chrysogenia *xrusogenei a_hs fem 
+:ns:Chrysogenia *xrusogenei h_hs fem doric
+:ns:Chrysorthe *xrusorq h_hs fem 
+:ns:Chrysothemis *xrusoqem is_idos fem 
+:ns:Chthonia *xqoni a_hs fem 
+:ns:Chthonius *xqoni os_ou masc 
+:ns:Chthonophyle *xqonoful h_hs fem 
+:ns:Cichyrus *kixur os_ou masc 
+:ns:Cidaria *kidari a_hs fem 
+:ns:Cidaria *kidari h_hs fem doric
+:ns:Cinadus *kinad os_ou masc 
+:ns:Cinaethon *kinaiq wn_onos masc 
+:ns:Cinaethon *kinaiq wn_ontos masc 
+:ns:Cinaethon *kinaiqw n_nos masc 
+:ns:Cinaethon *kinaiqw n_ntos masc 
+:ns:Cirrha *kirr a_hs fem 
+:ns:Cirrha *kirr h_hs fem doric
+:ns:Cissa *kiss a_hs fem 
+:ns:Cissa *kiss h_hs fem doric
+:ns:Cissaean *kissai os_h_on 
+:ns:Cisus *keis os_ou masc 
+:ns:Cithaeronian *kiqairwni os_h_on 
+:ns:Cladeus *klad eus_ews masc 
+:ns:Cladeus *klade os_ou masc 
+:ns:Claea *klai a_hs fem 
+:ns:Claea *klai h_hs fem doric
+:ns:Clareotis *klarewt is_ews fem  stem_acc
+:ns:Clareotis *klarewt is_idos fem  stem_acc
+:ns:Clarian *klari os_h_on 
+:ns:Claudius *klaudi os_ou masc 
+:ns:Clazomenian *klazomeni os_h_on 
+:ns:Clazomenians *klazomeni os_h_on 
+:ns:Clearchus *klearx os_ou masc 
+:ns:Clearetus *klearet os_ou masc 
+:ns:Cleo *kle w_oos fem  suff_acc
+:ns:Cleocritus *kleokrit os_ou masc 
+:ns:Cleodice *kleodik h_hs fem 
+:ns:Cleoetas *kleoit as_antos masc 
+:ns:Cleoetas *kleoit hs_ou masc doric
+:ns:Cleogenes *kleogen hs_eos masc 
+:ns:Cleogenes *kleogen hs_ou masc 
+:ns:Cleolas *kleol as_antos masc  stem_acc
+:ns:Cleolas *kleol hs_ou masc doric
+:ns:Cleomedes *kleomhd hs_eos masc 
+:ns:Cleomedes *kleomhd hs_ou masc 
+:ns:Cleomedes *kleomhdh s_tos  
+:ns:Cleommis *kleomm is_idos fem 
+:ns:Cleon *klewn hs_ou masc 
+:ns:Cleonaeans *klewnai os_h_on 
+:ns:Cleonaeans *klewnai os_h_on  stem_acc
+:ns:Cleone *klewn h_hs fem 
+:ns:Cleones *klewn hs_eos masc 
+:ns:Cleones *klewn hs_ou masc 
+:ns:Cleonice *kleonik h_hs fem 
+:ns:Cleonnis *kleonn is_ews fem 
+:ns:Cleonnis *kleonn is_idos fem 
+:ns:Cleonymus *klewnum os_ou masc 
+:ns:Cleopus *kleop os_ou masc 
+:ns:Cleosthenes *kleosqen hs_eos masc 
+:ns:Cleostratus *kleostrat os_ou masc 
+:ns:Clepsydra *kleyudr a_hs fem 
+:ns:Clepsydra *kleyudr h_hs fem doric
+:ns:Cleso *klhs w_oos fem  suff_acc
+:ns:Cleson *klhsw n_nos masc 
+:ns:Cleta *klht a_hs fem  suff_acc
+:ns:Cleta *klht h_hs fem doric
+:ns:Cleta *klht h_hs fem doric suff_acc
+:ns:Clidicus *kleidik os_ou masc 
+:ns:Clinomachus *kleinomax os_ou masc 
+:ns:Clinopatrus *kleinopatr os_ou masc 
+:ns:Clitodemus *kleitodhm os_ou masc 
+:ns:Clitomachus *kleitomax os_ou masc 
+:ns:Clitorians *kleitori os_h_on 
+:ns:Clytie *kluti h_hs fem 
+:ns:Cnacadium *knakadi os_ou neut 
+:ns:Cnacalesian *knakalhsi eus_ews masc 
+:ns:Cnacalesian *knakalhsi os_h_on 
+:ns:Cnacalus *knakal os_ou masc 
+:ns:Cnacias *knaki as_antos masc 
+:ns:Cnacias *knaki hs_ou masc doric
+:ns:Cnageus *knag eus_ews masc 
+:ns:Cnageus *knag eus_ews masc  suff_acc
+:ns:Cnagian *knag eus_ews masc 
+:ns:Cnagian *knag eus_ews masc  suff_acc
+:ns:Cnagian *knagi os_h_on 
+:ns:Cnausum *knaus os_ou neut 
+:ns:Cnemis *knhm is_idos fem 
+:ns:Coccoca *kokkwk a_hs fem 
+:ns:Coccoca *kokkwk h_hs fem doric
+:ns:Coddinus *koddin os_ou masc 
+:ns:Colaenus *kolain os_ou masc 
+:ns:Colona *kolwn h_hs fem doric stem_acc
+:ns:Colonae *kolwn h_hs fem pl stem_acc
+:ns:Colonae *kolwn hs_ou masc pl stem_acc
+:ns:Colonatas *kolwnat as_antos masc  stem_acc
+:ns:Colonatas *kolwnat hs_ou masc doric
+:ns:Colontas *kolont as_antos masc  stem_acc
+:ns:Colontas *kolont hs_ou masc doric
+:ns:Colotes *kwlwt hs_eos masc 
+:ns:Colotes *kwlwt hs_ou masc 
+:ns:Colyergia *kwluergi a_hs fem 
+:ns:Colyergia *kwluergi h_hs fem doric
+:ns:Combutis *kombout is_ews fem 
+:ns:Combutis *kombout is_idos fem 
+:ns:Comon *kom wn_onos masc 
+:ns:Comon *kom wn_ontos masc 
+:ns:Comon *komw n_nos masc 
+:ns:Comon *komw n_ntos masc 
+:ns:Comon *kwm wn_onos masc 
+:ns:Comon *kwm wn_ontos masc 
+:ns:Comon *kwmw n_nos masc 
+:ns:Comon *kwmw n_ntos masc 
+:ns:Condylea *kondule a_hs fem 
+:ns:Condylea *kondule h_hs fem doric
+:ns:Condyleatis *konduleat is_idos fem 
+:ns:Coptus *kopt os_ou masc 
+:ns:Corcyra *korkur a_hs fem 
+:ns:Corcyra *korkur h_hs fem doric
+:ns:Corcyraean *korkurai os_h_on 
+:ns:Corcyraean *korkurai os_h_on  stem_acc
+:ns:Corcyraeans *korkurai os_h_on 
+:ns:Corcyraeans *korkurai os_h_on  stem_acc
+:ns:Cordax *korda c_kos masc  stem_acc
+:ns:Coresus *kores os_ou masc 
+:ns:Coresus *korhs os_ou masc 
+:ns:Coria *kori a_hs fem 
+:ns:Coria *kori h_hs fem doric
+:ns:Corinna *korinn a_hs fem 
+:ns:Corinna *korinn h_hs fem doric
+:ns:Corone *korwn h_hs fem 
+:ns:Coronis *korwn is_ews fem 
+:ns:Corsica *korsik h_hs fem doric suff_acc
+:ns:Corycian *kwruk os_h_on 
+:ns:Corycus *kwruk os_ou masc 
+:ns:Corynetes *korunht hs_ou masc 
+:ns:Coryphaean *korufai eus_ews masc 
+:ns:Coryphaean *korufai os_h_on 
+:ns:Coryphaean *korufai os_h_on  stem_acc
+:ns:Coryphasian *korufasi eus_ews masc 
+:ns:Coryphasian *korufasi os_h_on 
+:ns:Coryphasium *korufasi os_ou neut 
+:ns:Coryphe *koruf h_hs fem  suff_acc
+:ns:Coryphum *koruf os_ou neut 
+:ns:Cotilius *kwtili os_ou masc 
+:ns:Cotilum *kwtil os_ou neut 
+:ns:Cotylean *kotule eus_ews masc 
+:ns:Cotylean *kotule os_h_on 
+:ns:Cotys *kot us_uos  
+:ns:Cragasus *kragas os_ou masc 
+:ns:Cranae *kranai hs_ou masc 
+:ns:Cranaean *kranai eus_ews masc 
+:ns:Cranaean *kranai os_h_on 
+:ns:Cranius *kranei os_ou masc 
+:ns:Crannon *krannw n_nos masc  stem_acc
+:ns:Crataemenes *krataimen hs_eos masc 
+:ns:Crathis *kraq is_idos fem 
+:ns:Cratisthenes *kratisqen hs_eos masc 
+:ns:Craugis *kraug is_ews fem 
+:ns:Craugis *kraug is_idos fem 
+:ns:Crauxidas *kraucid hs_ou masc doric
+:ns:Creophylus *krewful os_ou masc 
+:ns:Cretan *krht eus_ews masc 
+:ns:Crete *krhte hs_ou masc 
+:ns:Cretea *krhte a_hs fem 
+:ns:Cretea *krhte h_hs fem doric
+:ns:Creugas *kreug as_antos masc 
+:ns:Creugas *kreug hs_ou masc doric
+:ns:Creusis *kreus is_ews fem 
+:ns:Creusis *kreus is_idos fem 
+:ns:Criannius *krianni os_ou masc 
+:ns:Crison *kris wn_onos masc 
+:ns:Crison *kris wn_ontos masc 
+:ns:Crison *krisw n_nos masc 
+:ns:Crison *krisw n_ntos masc 
+:ns:Crisus *kris os_ou masc 
+:ns:Critodamus *kritodam os_ou masc 
+:ns:Critolaus *kritola os_ou masc 
+:ns:Croceae *kroke h_hs fem pl
+:ns:Croceae *kroke h_hs fem pl stem_acc
+:ns:Croceae *kroke h_hs fem pl suff_acc
+:ns:Croceae *kroke hs_ou masc pl
+:ns:Croceae *kroke hs_ou masc pl stem_acc
+:ns:Croceae *kroke hs_ou masc pl suff_acc
+:ns:Croceatian *krokeat os_h_on 
+:ns:Cromus *krom os_ou masc 
+:ns:Cromus *krwm os_ou masc 
+:ns:Cromyon *kromu wn_onos masc  suff_acc
+:ns:Cromyon *kromu wn_ontos masc  suff_acc
+:ns:Cromyon *kromuw n_nos masc  suff_acc
+:ns:Cromyon *kromuw n_ntos masc  suff_acc
+:ns:Crotalus *krotal os_ou masc 
+:ns:Crotopus *krotwp os_ou masc 
+:ns:Ctimenus *ktimen os_ou masc 
+:ns:Cyamites *kuamit hs_ou masc 
+:ns:Cyaretus *kuarht os_ou masc 
+:ns:Cyathus *kuaq os_ou masc 
+:ns:Cyaxares *kuacar hs_ou masc 
+:ns:Cydias *kudi as_antos masc 
+:ns:Cydias *kudi hs_ou masc doric
+:ns:Cydnus *kudn os_ou masc 
+:ns:Cydon *kudw n_nos masc 
+:ns:Cydon *kudwn hs_ou masc 
+:ns:Cydonian *kudwn os_h_on 
+:ns:Cylarabes *kularab hs_eos masc 
+:ns:Cylarabes *kularab hs_ou masc 
+:ns:Cylarabes *kularabh s_tos  
+:ns:Cylarabis *kularab is_ews fem 
+:ns:Cylarabis *kularab is_idos fem 
+:ns:Cyllen *kullh n_nos masc  stem_acc
+:ns:Cyllen *kullhn hs_ou masc  stem_acc
+:ns:Cyllenian *kullhn os_h_on  stem_acc
+:ns:Cymaeans *kumai os_h_on 
+:ns:Cymaeans *kumai os_h_on  stem_acc
+:ns:Cynisca *kunisk a_hs fem 
+:ns:Cynisca *kunisk h_hs fem doric
+:ns:Cynortium *kunorti os_ou neut 
+:ns:Cynurus *kunour os_ou masc 
+:ns:Cynus *kun os_ou masc  suff_acc
+:ns:Cyparissiae *kuparissi h_hs fem pl
+:ns:Cyparissiae *kuparissi h_hs fem pl suff_acc
+:ns:Cyparissiae *kuparissi hs_ou masc pl
+:ns:Cyparissiae *kuparissi hs_ou masc pl suff_acc
+:ns:Cyparissian *kuparissi eus_ews masc 
+:ns:Cyparissian *kuparissi os_h_on 
+:ns:Cyparissian *kuparissi os_h_on  suff_acc
+:ns:Cyrtone *kurtwn h_hs fem 
+:ns:Cyrtones *kurtwn hs_eos masc 
+:ns:Cyrtones *kurtwn hs_ou masc 
+:ns:Cyrtones *kurtwne s_tos  
+:ns:Cytherus *kuqhr os_ou masc 
+:ns:Dactyl *daktul hs_ou masc 
+:ns:Daedala *daidal a_hs fem 
+:ns:Daedalion *daidaliw n_nos masc 
+:ns:Daedalum *daidal os_ou neut 
+:ns:Daetondas *daitwnd hs_ou masc doric
+:ns:Daetus *dait os_ou masc 
+:ns:Daira *daeir a_hs fem 
+:ns:Daira *daeir h_hs fem doric
+:ns:Damagetus *damaght os_ou masc 
+:ns:Damarchus *damarx os_ou masc 
+:ns:Damaretus *damaret os_ou masc 
+:ns:Damarmenus *damarmen os_ou masc 
+:ns:Damasias *damasi as_antos masc 
+:ns:Damasias *damasi hs_ou masc doric
+:ns:Damatrius *damatri os_ou masc 
+:ns:Dameas *dame hs_ou masc doric
+:ns:Dameon *damew n_nos masc 
+:ns:Dameon *damewn hs_ou masc 
+:ns:Damiscus *damisk os_ou masc 
+:ns:Damiscus *damisk os_ou masc  stem_acc
+:ns:Damithales *damiqal hs_eos masc 
+:ns:Damithales *damiqal hs_ou masc 
+:ns:Damithales *damiqalh s_tos  
+:ns:Damoclidas *damokleid hs_ou masc doric
+:ns:Damocratidas *damokratid hs_ou masc doric
+:ns:Damocritus *damokrit os_ou masc 
+:ns:Damon *dam wn_onos masc 
+:ns:Damon *dam wn_ontos masc 
+:ns:Damon *damw n_nos masc 
+:ns:Damon *damw n_ntos masc 
+:ns:Damonicus *damonik os_ou masc 
+:ns:Damophilus *damofil os_ou masc 
+:ns:Damophon *damofw n_ntos masc  stem_acc
+:ns:Damoxenidas *damocenid hs_ou masc doric
+:ns:Damoxenus *damocen os_ou masc 
+:ns:Daphnaea *dafnai a_hs fem 
+:ns:Daphnaea *dafnai h_hs fem doric
+:ns:Daphne *dafn h_hs fem 
+:ns:Daphnis *dafn is_ews fem 
+:ns:Daphnis *dafn is_idos fem  suff_acc
+:ns:Dasea *dase a_hs fem 
+:ns:Dasea *dase h_hs fem doric
+:ns:Daseatas *daseat as_antos masc 
+:ns:Daseatas *daseat hs_ou masc doric
+:ns:Dasmon *dasm wn_onos masc 
+:ns:Dasmon *dasm wn_ontos masc 
+:ns:Dasmon *dasmw n_nos masc 
+:ns:Dasmon *dasmw n_ntos masc 
+:ns:Degmenus *degmen os_ou masc 
+:ns:Deicrates *dhikrat hs_eos masc 
+:ns:Deinome *dhinom h_hs fem 
+:ns:Deion *dhi wn_onos masc 
+:ns:Deion *dhio n_nos masc 
+:ns:Deiope *dhiop h_hs fem 
+:ns:Delta *delt a_hs fem 
+:ns:Delta *delt h_hs fem doric
+:ns:Demades *dhmad hs_eos masc 
+:ns:Demades *dhmad hs_ou masc 
+:ns:Demades *dhmadh s_tos  
+:ns:Demaenetus *dhmainet os_ou masc 
+:ns:Demo *dhm w_oos fem  suff_acc
+:ns:Democles *dhmo klehs_kleous masc
+:ns:Democrates *dhmokrat hs_eos masc 
+:ns:Demonassa *dhmwnass a_hs fem 
+:ns:Demonassa *dhmwnass h_hs fem doric
+:ns:Demophantus *dhmofant os_ou masc 
+:ns:Demylus *dhmul os_ou masc 
+:ns:Demylus *dhmul os_ou masc  stem_acc
+:ns:Deoetes *deoit hs_ou masc 
+:ns:Derae *der h_hs fem pl
+:ns:Derae *der hs_ou masc pl
+:ns:Derites *dhreit hs_ou masc 
+:ns:Diaeus *diai os_ou masc 
+:ns:Diagon *diag wn_onos masc 
+:ns:Diagon *diag wn_ontos masc 
+:ns:Diagon *diagw n_nos masc 
+:ns:Diagon *diagw n_ntos masc 
+:ns:Dialces *dialk hs_eos masc  suff_acc
+:ns:Diallus *diall os_ou masc 
+:ns:Dicaearchia *dikaiarxi a_hs fem 
+:ns:Dicaearchia *dikaiarxi h_hs fem doric
+:ns:Dicon *dik wn_onos masc 
+:ns:Dicon *dik wn_ontos masc 
+:ns:Dicon *dikw n_nos masc 
+:ns:Dicon *dikw n_ntos masc 
+:ns:Dictynnaean *diktunnai eus_ews masc 
+:ns:Dictynnaean *diktunnai os_h_on 
+:ns:Didas *did hs_ou masc doric
+:ns:Didas *dida s_tos  
+:ns:Diitrephes *diitref hs_eos masc 
+:ns:Diitrephes *diitref hs_ou masc 
+:ns:Diitrephes *diitrefh s_tos  
+:ns:Dine *din h_hs fem 
+:ns:Dinicha *deinix h_hs fem doric
+:ns:Dinocrates *deinokrat hs_eos masc 
+:ns:Dinolochus *deinolox os_ou masc 
+:ns:Dinosthenes *deinosqen hs_eos masc 
+:ns:Diogenes *diogen hs_eos masc 
+:ns:Diogenes *diogen hs_ou masc 
+:ns:Diogenes *diogenh s_tos  
+:ns:Diogenia *diogenei a_hs fem 
+:ns:Diomenia *diomenei a_hs fem 
+:ns:Dion *diw n_nos masc 
+:ns:Dion *diwn hs_ou masc 
+:ns:Dionysicles *dionusi klehs_kleous masc
+:ns:Dionysus *dionus os_ou masc  stem_acc
+:ns:Diophanes *diofan hs_eos masc 
+:ns:Diophanes *diofan hs_ou masc 
+:ns:Diophanes *diofanh s_tos  
+:ns:Diophantus *diofant os_ou masc 
+:ns:Dipaea *dipai a_hs fem 
+:ns:Dipoena *dipoin a_hs fem 
+:ns:Dipoena *dipoin h_hs fem doric
+:ns:Dipoenae *dipoin h_hs fem pl
+:ns:Dipoenae *dipoin hs_ou masc pl
+:ns:Dipoenus *dipoin os_ou masc 
+:ns:Diradiotes *deiradiwt hs_eos masc 
+:ns:Diradiotes *deiradiwt hs_ou masc 
+:ns:Diradiotes *deiradiwth s_tos  
+:ns:Diras *deir as_antos masc  suff_acc
+:ns:Diras *deir hs_ou masc doric suff_acc
+:ns:Diras *deira s_tos   suff_acc
+:ns:Diyllus *diull os_ou masc 
+:ns:Docimus *dokim os_ou masc 
+:ns:Donacon *donak wn_onos masc  suff_acc
+:ns:Donacon *donak wn_ontos masc  suff_acc
+:ns:Donacon *donakw n_nos masc  suff_acc
+:ns:Donacon *donakw n_ntos masc  suff_acc
+:ns:Dontas *dont as_antos masc 
+:ns:Dontas *dont hs_ou masc doric
+:ns:Dontas *donta s_tos  
+:ns:Dorceus *dork eus_ews masc 
+:ns:Dorceus *dorke os_ou masc 
+:ns:Doryclidas *dorukleid hs_ou masc doric
+:ns:Dotadas *dwtad as_antos masc 
+:ns:Dotadas *dwtad as_antos masc  stem_acc
+:ns:Dotadas *dwtad hs_ou masc doric
+:ns:Drepanum *drepan os_ou neut 
+:ns:Dromeus *drom eus_ews masc  suff_acc
+:ns:Dromichaetes *dromixait hs_ou masc 
+:ns:Dropion *drwpi wn_onos masc 
+:ns:Dropion *drwpi wn_ontos masc 
+:ns:Dropion *drwpiw n_nos masc 
+:ns:Dropion *drwpiw n_ntos masc 
+:ns:Drymaea *drumai a_hs fem 
+:ns:Drymaea *drumai h_hs fem doric
+:ns:Dryon *druw n_nos masc 
+:ns:Duris *dour is_ews fem 
+:ns:Dymaean *dumai os_h_on 
+:ns:Dyrrhachium *durraxi os_ou neut 
+:ns:Dysaules *dusaul hs_eos masc 
+:ns:Dysaules *dusaul hs_ou masc 
+:ns:Dysaules *dusaulh s_tos  
+:ns:Dyscinetus *duskinht os_ou masc 
+:ns:Dysponteus *duspont eus_ews masc 
+:ns:Ecbatana *)ekbatan a_hs fem 
+:ns:Ecdelus *)ekdhl os_ou masc 
+:ns:Ecechiria *)ekexeiri a_hs fem 
+:ns:Ecechiria *)ekexeiri h_hs fem doric
+:ns:Echedamia *)exedamei a_hs fem 
+:ns:Echelas *)exel as_antos masc  stem_acc
+:ns:Echelas *)exel hs_ou masc doric
+:ns:Echembrotus *)exembrot os_ou masc 
+:ns:Echetimus *)exetim os_ou masc 
+:ns:Echetlaeus *)exetlai os_ou masc  stem_acc
+:ns:Echetlus *)exetl os_ou masc 
+:ns:Echo *)hx w_oos fem  suff_acc
+:ns:Egestaeans *)egestai os_h_on  stem_acc
+:ns:Elaea *)elai a_hs fem 
+:ns:Elaea *)elai h_hs fem doric
+:ns:Elaeus *)elai os_ou masc  suff_acc
+:ns:Elaphiaean *)elafiai os_h_on 
+:ns:Elaphius *)elafi os_ou masc 
+:ns:Elaphus *)elaf os_ou masc 
+:ns:Elatean *)elate os_h_on 
+:ns:Elateans *)elate os_h_on 
+:ns:Elean *)ele os_h_on 
+:ns:Eleans *)ele os_h_on 
+:ns:Eleus *)ele os_ou masc 
+:ns:Eleutheria *)eleuqeri a_hs fem 
+:ns:Eleutherian *)eleuqer eus_ews masc 
+:ns:Eleutherian *)eleuqer eus_ews masc  suff_acc
+:ns:Eleutherian *)eleuqeri os_h_on 
+:ns:Eleutherian *)eleuqhr os_h_on  stem_acc
+:ns:Elis *)hl is_ews fem 
+:ns:Elyrus *)elur os_ou masc 
+:ns:Empedus *)emped os_ou masc 
+:ns:Emperamus *)emperam os_ou masc 
+:ns:Endoeus *)endoi os_ou masc 
+:ns:Enudus *)enoud os_ou masc 
+:ns:Eoeae *)hoi h_hs fem pl
+:ns:Eoeae *)hoi h_hs fem pl stem_acc
+:ns:Eoeae *)hoi hs_ou masc pl
+:ns:Eoeae *)hoi hs_ou masc pl stem_acc
+:ns:Epaminondas *)epaminwnd as_antos masc 
+:ns:Epaminondas *)epaminwnd hs_ou masc doric
+:ns:Epebolus *)ephbol os_ou masc 
+:ns:Eperastus *)eperast os_ou masc 
+:ns:Ephyraea *)efurai h_hs fem doric
+:ns:Epicharinus *)epixarin os_ou masc 
+:ns:Epiclidas *)epikleid hs_ou masc doric
+:ns:Epicradius *)epikradi os_ou masc 
+:ns:Epidelium *)epidhli os_ou neut 
+:ns:Epidotes *)epidwt hs_eos masc 
+:ns:Epidotes *)epidwt hs_ou masc 
+:ns:Epidotes *)epidwth s_tos  
+:ns:Epimedes *)epimhd hs_eos masc 
+:ns:Epimedes *)epimhd hs_ou masc 
+:ns:Epimelides *)epimhlid hs_ou masc 
+:ns:Epimelius *)epimhli os_ou masc 
+:ns:Epimenides *)epimenid hs_ou masc 
+:ns:Epione *)hpion h_hs fem 
+:ns:Epirot *)hpeirwt hs_ou masc 
+:ns:Epirot *)hpeirwt hs_ou masc  stem_acc
+:ns:Epistrophian *)epistrofi eus_ews masc 
+:ns:Epistrophian *)epistrofi os_h_on 
+:ns:Epiteles *)epitel hs_eos masc 
+:ns:Epiteles *)epitel hs_ou masc 
+:ns:Epiteles *)epitelh s_tos  
+:ns:Epitherses *)epiqers hs_eos masc 
+:ns:Epitherses *)epiqers hs_ou masc 
+:ns:Epopeus *)epwp eus_ews masc  suff_acc
+:ns:Erasus *)eras os_ou masc 
+:ns:Eratus *)erat os_ou masc 
+:ns:Erbessus *)erbhss os_ou masc  suff_acc
+:ns:Erechthid *)erexqeid hs_ou masc 
+:ns:Ergoteles *)ergotel hs_eos masc 
+:ns:Ergoteles *)ergotel hs_ou masc 
+:ns:Ergoteles *)ergotelh s_tos  
+:ns:Erianthes *)erianq hs_eos masc 
+:ns:Erianthes *)erianq hs_ou masc 
+:ns:Erianthes *)erianqh s_tos  
+:ns:Eripha *)erif h_hs fem doric
+:ns:Erochus *)erwx os_ou masc  suff_acc
+:ns:Erxiclides *)ercikleid hs_ou masc 
+:ns:Erycinian *)erukin eus_ews masc 
+:ns:Erycinian *)erukin os_h_on 
+:ns:Erymanthe *)erumanq h_hs fem 
+:ns:Erymanthian *)erumanq eus_ews masc 
+:ns:Erymanthian *)erumanq os_h_on 
+:ns:Erythraean *)eruqrai os_h_on 
+:ns:Erythraean *)eruqrai os_h_on  stem_acc
+:ns:Erythraeans *)eruqrai os_h_on 
+:ns:Erythraeans *)eruqrai os_h_on  stem_acc
+:ns:Erythrus *)eruqr os_ou masc 
+:ns:Eteonicus *)eteonik os_ou masc 
+:ns:Etis *)ht is_idos fem 
+:ns:Etymon *)etum wn_onos masc 
+:ns:Etymon *)etumo n_nos masc 
+:ns:Eubius *eu)bi os_ou masc 
+:ns:Eubuleus *eu)boul eus_ews masc 
+:ns:Eubuleus *eu)boul eus_ews masc  suff_acc
+:ns:Eubulus *eu)boul os_ou masc 
+:ns:Eucadmus *eu)kadm os_ou masc 
+:ns:Eucampidas *eu)kampid hs_ou masc doric
+:ns:Euchir *eu)xeir hs_ou masc 
+:ns:Euchirus *eu)xeir os_ou masc 
+:ns:Eucles *eu) klehs_kleous masc
+:ns:Eucles *eu)kl hs_ou masc 
+:ns:Eucletus *eu)klht os_ou masc 
+:ns:Euclus *eu)kl os_ou masc 
+:ns:Eucosmus *eu)kosm os_ou masc 
+:ns:Eucrates *eu) hs_eos masc 
+:ns:Euctemon *eu)kthm wn_onos masc 
+:ns:Euctemon *eu)kthmo n_nos masc 
+:ns:Eudamidas *eu)damid hs_ou masc doric
+:ns:Eudelus *eu)dhl os_ou masc 
+:ns:Eumantis *eu)mant is_ews fem 
+:ns:Eumantis *eu)mant is_idos fem 
+:ns:Eumolpia *eu)molpi a_hs fem 
+:ns:Eumolpia *eu)molpi h_hs fem doric
+:ns:Euoras *eu)or as_antos masc 
+:ns:Euoras *eu)or as_antos masc  stem_acc
+:ns:Euoras *eu)or hs_ou masc doric
+:ns:Euphaes *eu)fa hs_eos masc  suff_acc
+:ns:Euphaes *eu)fa hs_ou masc  suff_acc
+:ns:Euphaes *eu)fah s_tos   suff_acc
+:ns:Eupheme *eu)fhm h_hs fem 
+:ns:Euphranor *eu)fran wr_oros masc 
+:ns:Euphrates *eu)frat hs_eos masc 
+:ns:Euphrates *eu)frat hs_ou masc 
+:ns:Euphrates *eu)frath s_tos  
+:ns:Euphron *eu)fr wn_onos masc 
+:ns:Euphron *eu)fro n_nos masc 
+:ns:Eupolemus *eu)polem os_ou masc 
+:ns:Eupolus *eu)pwl os_ou masc 
+:ns:Europa *eu)rwp a_hs fem 
+:ns:Europas *eu)rwp as_antos masc 
+:ns:Europas *eu)rwp hs_ou masc doric
+:ns:Europs *eu)rw y_pos masc 
+:ns:Europus *eu)rwp os_ou masc 
+:ns:Eurybotas *eu)rubwt as_antos masc 
+:ns:Eurybotas *eu)rubwt hs_ou masc doric
+:ns:Eurybotus *eu)rubot os_ou masc 
+:ns:Eurycles *eu)ru klehs_kleous masc
+:ns:Eurycyda *eu)rukud a_hs fem 
+:ns:Eurycyda *eu)rukud h_hs fem doric
+:ns:Eurydamidas *eu)rudamid hs_ou masc doric
+:ns:Eurydamus *eu)rudam os_ou masc 
+:ns:Euryleonis *eu)rulewn is_idos fem  suff_acc
+:ns:Eurypon *eu)rupw n_ntos masc  stem_acc
+:ns:Eurysaces *eu)rusak hs_eos masc 
+:ns:Eurytion *eu)ruti wn_onos masc 
+:ns:Eurytion *eu)ruti wn_ontos masc 
+:ns:Eurytion *eu)rutio n_nos masc 
+:ns:Eurytion *eu)rutio n_ntos masc 
+:ns:Eutaea *eu)tai a_hs fem 
+:ns:Eutaea *eu)tai h_hs fem doric
+:ns:Eutelidas *eu)telid hs_ou masc doric
+:ns:Euthymachus *eu)qumax os_ou masc 
+:ns:Euthymenes *eu)qumen hs_eos masc 
+:ns:Euthymus *eu)qum os_ou masc 
+:ns:Euthys *eu)q us_uos  
+:ns:Evenor *eu)hn wr_oros masc 
+:ns:Execestides *)echkestid hs_ou masc 
+:ns:Gaeum *gai os_ou neut 
+:ns:Gaeus *gai os_ou masc 
+:ns:Galaco *galak w_oos fem  suff_acc
+:ns:Galatian *galat eus_ews masc 
+:ns:Galatian *galat os_h_on 
+:ns:Galatian *galat os_h_on  suff_acc
+:ns:Gallus *gall os_ou masc 
+:ns:Ganyctor *ganukt wr_oros masc 
+:ns:Ganymeda *ganumhd h_hs fem doric
+:ns:Garates *garat hs_eos masc 
+:ns:Garates *garat hs_ou masc 
+:ns:Garates *garath s_tos  
+:ns:Gareatae *gareat h_hs fem pl
+:ns:Gareatae *gareat hs_ou masc pl
+:ns:Gargettus *garghtt os_ou masc  suff_acc
+:ns:Gaseptum *gashpt os_ou neut 
+:ns:Gatheae *gaqe h_hs fem pl
+:ns:Gatheae *gaqe hs_ou masc pl
+:ns:Gatheatas *gaqeat as_antos masc 
+:ns:Gatheatas *gaqeat as_antos masc  stem_acc
+:ns:Gatheatas *gaqeat hs_ou masc doric
+:ns:Genesian *genesi os_h_on 
+:ns:Genesium *genesi os_ou neut 
+:ns:Genethlium *geneqli os_ou neut 
+:ns:Genethlius *geneqli os_ou masc 
+:ns:Genunia *genouni h_hs fem doric
+:ns:Gerania *gerani a_hs fem 
+:ns:Gerania *gerani h_hs fem doric
+:ns:Geranthrae *geranqr h_hs fem pl
+:ns:Geranthrae *geranqr hs_ou masc pl
+:ns:Geres *ger hs_eos masc 
+:ns:Geres *ger hs_ou masc 
+:ns:Geres *gerh s_tos  
+:ns:Geronthrae *geronqr h_hs fem pl
+:ns:Geronthrae *geronqr h_hs fem pl stem_acc
+:ns:Geronthrae *geronqr hs_ou masc pl
+:ns:Geronthrae *geronqr hs_ou masc pl stem_acc
+:ns:Gitiadas *gitiad as_antos masc 
+:ns:Gitiadas *gitiad as_antos masc  stem_acc
+:ns:Gitiadas *gitiad hs_ou masc doric
+:ns:Glaucias *glauki as_antos masc 
+:ns:Glaucias *glauki as_antos masc  stem_acc
+:ns:Glaucias *glauki hs_ou masc doric
+:ns:Glenus *glhn os_ou masc 
+:ns:Glyppia *gluppi a_hs fem 
+:ns:Glyppia *gluppi h_hs fem doric
+:ns:Gnathon *gnaq wn_onos masc 
+:ns:Gnathon *gnaq wn_ontos masc 
+:ns:Gnathon *gnaqw n_nos masc 
+:ns:Gnathon *gnaqw n_ntos masc 
+:ns:Gnathon *gnaqwn hs_ou masc 
+:ns:Gobryas *gwbru hs_ou masc doric
+:ns:Gonippus *gwnipp os_ou masc 
+:ns:Gonussa *gonouss a_hs fem 
+:ns:Gonussa *gonouss h_hs fem doric
+:ns:Gorgasus *gorgas os_ou masc 
+:ns:Gorgias *gorgi as_antos masc 
+:ns:Gorgias *gorgi as_antos masc  stem_acc
+:ns:Gorgias *gorgi hs_ou masc doric
+:ns:Gortyna *gortun a_hs fem 
+:ns:Granianus *granian os_ou masc  suff_acc
+:ns:Gras *gr hs_ou masc doric
+:ns:Grylus *grul os_ou masc 
+:ns:Gythium *guqi os_ou neut 
+:ns:Haemoniae *ai(moni h_hs fem pl
+:ns:Haemoniae *ai(moni h_hs fem pl suff_acc
+:ns:Haemoniae *ai(moni hs_ou masc pl
+:ns:Haemoniae *ai(moni hs_ou masc pl suff_acc
+:ns:Haemostratus *ai(mostrat os_ou masc 
+:ns:Hagnagora *(agnagor h_hs fem doric
+:ns:Hagne *(agn h_hs fem  suff_acc
+:ns:Hagno *(agn w_oos fem  suff_acc
+:ns:Halae *(al h_hs fem pl suff_acc
+:ns:Halae *(al hs_ou masc pl suff_acc
+:ns:Haliartia *(aliarti a_hs fem 
+:ns:Haliartia *(aliarti h_hs fem doric
+:ns:Halice *(alik h_hs fem 
+:ns:Halis *(al is_ews fem 
+:ns:Halis *(al is_idos fem 
+:ns:Halitaea *(alitai h_hs fem doric
+:ns:Halotia *(alwti a_hs fem 
+:ns:Harpalus *(arpal os_ou masc 
+:ns:Harpina *(arpin a_hs fem 
+:ns:Harpina *(arpin h_hs fem doric
+:ns:Harpinates *(arpinat hs_eos masc 
+:ns:Harpinates *(arpinat hs_ou masc 
+:ns:Harpinates *(arpinath s_tos  
+:ns:Hecaerge *(ekaerg h_hs fem 
+:ns:Hecas *(ek as_antos masc 
+:ns:Hecas *(ek hs_ou masc doric
+:ns:Hecas *(eka s_tos  
+:ns:Hegemone *(hgemon h_hs fem 
+:ns:Hegesinus *(hghsin os_ou masc 
+:ns:Hegesinus *(hghsinou s_tos  
+:ns:Hegylus *(hgul os_ou masc 
+:ns:Heliodorus *(hliodwr os_ou masc 
+:ns:Helisson *(eliss wn_onos masc  suff_acc
+:ns:Helisson *(eliss wn_ontos masc  suff_acc
+:ns:Helisson *(elisso n_ntos masc  stem_acc
+:ns:Helisson *(elissw n_nos masc  suff_acc
+:ns:Helisson *(elissw n_ntos masc  suff_acc
+:ns:Hemerasia *(hmerasi h_hs fem doric
+:ns:Henioche *(hniox h_hs fem 
+:ns:Heraean *(hrai eus_ews masc  suff_acc
+:ns:Hercyna *(erkun a_hs fem 
+:ns:Hercyna *(erkun h_hs fem doric
+:ns:Hermae *(ermai hs_ou masc 
+:ns:Hermaea *(ermai a_hs fem 
+:ns:Hermaeum *(ermai os_ou neut 
+:ns:Hermesianax *(ermhsiana c_ktos masc 
+:ns:Hermion *(ermi wn_onos masc 
+:ns:Hermion *(ermio n_nos masc 
+:ns:Hermion *(ermion hs_ou masc 
+:ns:Hermionian *(ermion os_h_on 
+:ns:Hermocrates *(ermokrat hs_eos masc 
+:ns:Hermogenes *(ermogen hs_eos masc 
+:ns:Hermogenes *(ermogen hs_ou masc 
+:ns:Hermogenes *(ermogenh s_tos  
+:ns:Hermon *(ermw n_nos masc 
+:ns:Hermon *(ermwn hs_ou masc 
+:ns:Hero *(hr w_oos fem 
+:ns:Herodes *(hrwd hs_eos masc 
+:ns:Herodes *(hrwd hs_ou masc 
+:ns:Herodes *(hrwdh s_tos  
+:ns:Herophanes *(hrofan hs_eos masc 
+:ns:Herophanes *(hrofan hs_ou masc 
+:ns:Herophanes *(hrofanh s_tos  
+:ns:Herophile *(hrofil h_hs fem 
+:ns:Hestiaea *(estiai a_hs fem 
+:ns:Hetoemocles *(etoimo klehs_kleous masc
+:ns:Hicesius *(ikesi os_ou masc 
+:ns:Hicetas *(iket as_antos masc 
+:ns:Hicetas *(iket as_antos masc  stem_acc
+:ns:Hicetas *(iket hs_ou masc doric
+:ns:Hiera *(ier a_hs fem 
+:ns:Hiera *(ier h_hs fem doric
+:ns:Hierocles *(iero klehs_kleous masc
+:ns:Himera *(imer h_hs fem doric
+:ns:Himeraean *(imerai os_h_on  stem_acc
+:ns:Hippagoras *(ippagor hs_ou masc doric
+:ns:Hippius *(ippi os_ou masc 
+:ns:Hippo *(ipp w_oos fem 
+:ns:Hippo *(ipp w_oos fem  suff_acc
+:ns:Hippodamium *(ippodamei os_ou neut 
+:ns:Hippodamium *(ippodami os_ou neut 
+:ns:Hippola *(ippol a_hs fem 
+:ns:Hippola *(ippol h_hs fem doric
+:ns:Hipposthenes *(ipposqen hs_eos masc 
+:ns:Hippothoetis *(ippoqoit is_ews fem  stem_acc
+:ns:Hippothoetis *(ippoqoit is_idos fem  stem_acc
+:ns:Hippothoon *(ippoqow n_ntos masc 
+:ns:Hippothus *(ippoq os_ou masc 
+:ns:Hippothus *(ippoqou s_tos  
+:ns:Hippus *(ipp os_ou masc 
+:ns:Hippus *(ipp os_ou masc  suff_acc
+:ns:Historis *(istor is_idos fem  suff_acc
+:ns:Holaeas *(olai as_antos masc 
+:ns:Holaeas *(olai hs_ou masc doric
+:ns:Homagyrian *(omaguri os_h_on 
+:ns:Homole *(omol h_hs fem 
+:ns:Hopladamus *(opladam os_ou masc 
+:ns:Hopoleas *(opole hs_ou masc doric
+:ns:Hyamia *(uami h_hs fem doric
+:ns:Hyamus *(uam os_ou masc 
+:ns:Hyanthidas *(uanqid hs_ou masc doric
+:ns:Hyblaea *(ublai a_hs fem 
+:ns:Hyblaea *(ublai h_hs fem doric
+:ns:Hyblaeans *(ublai os_h_on 
+:ns:Hybrilides *(ubrilid hs_ou masc 
+:ns:Hydarnes *(udarn hs_ou masc 
+:ns:Hydna *(udn a_hs fem 
+:ns:Hydna *(udn h_hs fem doric
+:ns:Hyettus *(uhtt os_ou masc 
+:ns:Hyllicus *(ullik os_ou masc  suff_acc
+:ns:Hymettian *(umhtt os_h_on  suff_acc
+:ns:Hymettian *(umhtti os_h_on 
+:ns:Hymettus *(umhtt os_ou masc  suff_acc
+:ns:Hymnia *(umni a_hs fem 
+:ns:Hymnia *(umni h_hs fem doric
+:ns:Hypatodorus *(upatodwr os_ou masc 
+:ns:Hypatodorus *(upatodwrou s_tos  
+:ns:Hypatus *(upat os_ou masc 
+:ns:Hypenus *(uphn os_ou masc 
+:ns:Hyperes *(uperh s_tos  
+:ns:Hyperides *(upereid hs_ou masc 
+:ns:Hypermenides *(upermenid hs_ou masc 
+:ns:Hyperochus *(uperox os_ou masc 
+:ns:Hyperteleatum *(uperteleat os_ou neut 
+:ns:Hypocnemidian *(upoknhmidi os_h_on 
+:ns:Hypsistan *(uyist os_h_on 
+:ns:Hypsistus *(uyist os_ou masc 
+:ns:Hypsus *(uy os_ou masc 
+:ns:Hyraeus *(urai os_ou masc 
+:ns:Hyrieus *(uri eus_ews masc  suff_acc
+:ns:Hyrnethium *(urnhqi os_ou neut 
+:ns:Hysmon *(usm wn_onos masc 
+:ns:Hysmon *(usm wn_ontos masc 
+:ns:Hysmon *(usmw n_nos masc 
+:ns:Hysmon *(usmw n_ntos masc 
+:ns:Hysmon *(usmwn hs_ou masc 
+:ns:Ialysus *)ialus os_ou masc  suff_acc
+:ns:Iamid *)iamid hs_ou masc 
+:ns:Iamus *)iam os_ou masc 
+:ns:Ianiscus *)ianisk os_ou masc 
+:ns:Ianiscus *)ianisk os_ou masc  stem_acc
+:ns:Ianthe *)ianq h_hs fem 
+:ns:Iaseus *)ias eus_ews masc  suff_acc
+:ns:Iasis *)ias is_ews fem 
+:ns:Iasis *)ias is_idos fem 
+:ns:Iasius *)iasi os_ou masc 
+:ns:Iberian *)ibhr os_h_on 
+:ns:Ibycus *)ibuk os_ou masc 
+:ns:Icasius *ei)kasi os_ou masc 
+:ns:Iccus *)ikk os_ou masc 
+:ns:Imbrasus *)imbras os_ou masc 
+:ns:Immaradus *)immarad os_ou masc 
+:ns:Inopus *)inwp os_ou masc  suff_acc
+:ns:Inycus *)inuk os_ou masc 
+:ns:Iodama *)iodam a_hs fem 
+:ns:Iodama *)iodam h_hs fem doric
+:ns:Iops *)io y_pos masc 
+:ns:Ios *)io s_tos  
+:ns:Iphicrates *)ifikrat hs_eos masc 
+:ns:Ira *)ir h_hs fem doric
+:ns:Ira *ei)r a_hs fem 
+:ns:Ira *ei)r h_hs fem doric
+:ns:Irbus *)irb os_ou masc 
+:ns:Ischepolis *)isxepol is_ews fem 
+:ns:Isis *)is is_idos fem 
+:ns:Issorian *)isswri eus_ews masc 
+:ns:Issorian *)isswri os_h_on 
+:ns:Isthmiades *)isqmiad hs_eos masc 
+:ns:Isthmiades *)isqmiad hs_ou masc 
+:ns:Isthmian *)isqmi os_h_on 
+:ns:Isthmius *)isqmi os_ou masc 
+:ns:Ithomae *)iqwmai hs_ou masc  stem_acc
+:ns:Ithomaean *)iqwmai os_h_on 
+:ns:Ithomaean *)iqwmai os_h_on  stem_acc
+:ns:Ithomatian *)iqwmat eus_ews masc 
+:ns:Ithomatian *)iqwmat os_h_on 
+:ns:Itonian *)itwni eus_ews masc 
+:ns:Itonian *)itwni os_h_on 
+:ns:Labax *laba c_kos masc 
+:ns:Labax *laba c_ktos masc 
+:ns:Labotas *labwt as_antos masc 
+:ns:Labotas *labwt hs_ou masc doric
+:ns:Lacedas *lakhd hs_ou masc doric
+:ns:Lacestades *lakestad hs_eos masc 
+:ns:Lacestades *lakestad hs_ou masc 
+:ns:Lacestades *lakestadh s_tos  
+:ns:Lachares *laxar hs_eos masc 
+:ns:Lachares *laxar hs_ou masc 
+:ns:Lachares *laxarh s_tos  
+:ns:Laciadae *lakiad h_hs fem pl
+:ns:Laciadae *lakiad hs_ou masc pl
+:ns:Lacinian *lakini os_h_on 
+:ns:Lacius *laki os_ou masc 
+:ns:Lacrates *lakrat hs_eos masc 
+:ns:Ladocus *ladok os_ou masc 
+:ns:Laeas *lai as_antos masc 
+:ns:Laeas *lai hs_ou masc doric
+:ns:Laeas *lai+ as_antos masc 
+:ns:Laeas *lai+ as_antos masc  stem_acc
+:ns:Laeas *lai+ hs_ou masc doric
+:ns:Lagus *lag os_ou masc 
+:ns:Lais *la is_ews fem  suff_acc
+:ns:Lais *la is_idos fem  suff_acc
+:ns:Lalichmium *lalixmi os_ou neut 
+:ns:Lamedon *lamed wn_onos masc 
+:ns:Lamedon *lamed wn_ontos masc 
+:ns:Lamedon *lamedo n_ntos masc 
+:ns:Lamedon *lamedw n_nos masc 
+:ns:Lamedon *lamedw n_ntos masc 
+:ns:Lampis *lamp is_ews fem 
+:ns:Lampis *lamp is_idos fem 
+:ns:Lampsacenian *lamyakhn os_h_on  suff_acc
+:ns:Laoetas *laoit hs_ou masc doric
+:ns:Laonice *laonik h_hs fem 
+:ns:Laphaes *lafa hs_eos masc 
+:ns:Laphaes *lafa hs_ou masc 
+:ns:Laphria *lafri a_hs fem 
+:ns:Laphria *lafri h_hs fem doric
+:ns:Laphrius *lafri os_ou masc 
+:ns:Laphystian *lafusti os_h_on 
+:ns:Laphystius *lafusti os_ou masc 
+:ns:Lapithaeum *lapiqai os_ou neut 
+:ns:Larisian *laris os_h_on 
+:ns:Larisus *laris os_ou masc 
+:ns:Larymna *larumn a_hs fem 
+:ns:Larymna *larumn h_hs fem doric
+:ns:Larysium *larusi os_ou neut 
+:ns:Las *l hs_ou masc doric
+:ns:Lasius *lasi os_ou masc 
+:ns:Lastratidas *lastratid hs_ou masc doric
+:ns:Lathria *laqri a_hs fem 
+:ns:Lathria *laqri h_hs fem doric
+:ns:Latmus *latm os_ou masc 
+:ns:Laurium *lauri os_ou neut 
+:ns:Leaena *leain a_hs fem 
+:ns:Leandris *leandr is_ews fem  suff_acc
+:ns:Leandris *leandr is_idos fem  suff_acc
+:ns:Lebadus *lebad os_ou masc 
+:ns:Lebene *lebhn h_hs fem 
+:ns:Lechaeum *lexai os_ou neut 
+:ns:Lecheates *lexeat hs_ou masc 
+:ns:Leches *lex hs_eos masc 
+:ns:Leches *lex hs_ou masc 
+:ns:Leches *lexh s_tos  
+:ns:Lelegia *lelegi a_hs fem 
+:ns:Lelegia *lelegi h_hs fem doric
+:ns:Leochares *lewxar hs_eos masc 
+:ns:Leochares *lewxar hs_ou masc 
+:ns:Leochares *lewxarh s_tos  
+:ns:Leocritus *lewkrit os_ou masc 
+:ns:Leocydes *lewkud hs_eos masc 
+:ns:Leocydes *lewkud hs_ou masc 
+:ns:Leocydes *lewkudh s_tos  
+:ns:Leogorus *lewgor os_ou masc 
+:ns:Leonidaeum *lewnidai os_ou neut 
+:ns:Leonnatus *leonnat os_ou masc 
+:ns:Leontichus *leontix os_ou masc 
+:ns:Leontinian *leontin os_h_on 
+:ns:Leontiscus *leontisk os_ou masc  stem_acc
+:ns:Leontomenes *leontomen hs_eos masc 
+:ns:Leonymus *lewnum os_ou masc 
+:ns:Leos *lew s_tos   suff_acc
+:ns:Leosthenes *lewsqen hs_eos masc 
+:ns:Leprea *lepre a_hs fem 
+:ns:Leprea *lepre h_hs fem doric
+:ns:Leprean *lepre os_h_on 
+:ns:Leprean *lepre os_h_on  stem_acc
+:ns:Lepreans *lepre os_h_on 
+:ns:Lepreans *lepre os_h_on  stem_acc
+:ns:Lepreus *lepr eus_ews masc 
+:ns:Lepreus *lepr eus_ews masc  suff_acc
+:ns:Lepreus *lepre os_ou masc 
+:ns:Lepreus *lepre os_ou masc  stem_acc
+:ns:Lesche *lesx h_hs fem 
+:ns:Lessa *lhss a_hs fem 
+:ns:Lessa *lhss h_hs fem doric
+:ns:Lethaeus *lhqai os_ou masc 
+:ns:Letreus *letr eus_ews masc  suff_acc
+:ns:Leucaeus *leukai os_ou masc 
+:ns:Leucasia *leukasi a_hs fem 
+:ns:Leucasia *leukasi h_hs fem doric
+:ns:Leucasium *leukasi os_ou neut 
+:ns:Leucasium *leukasi os_ou neut  stem_acc
+:ns:Leuconian *leukwni os_h_on 
+:ns:Leucophryenian *leukofruhn eus_ews masc 
+:ns:Leucophryenian *leukofruhn os_h_on 
+:ns:Leuctra *leuktr a_hs fem 
+:ns:Leuctrum *leuktr os_ou neut 
+:ns:Leucyanias *leukuani as_antos masc 
+:ns:Leucyanias *leukuani hs_ou masc doric
+:ns:Leucyanites *leukuanit hs_ou masc 
+:ns:Libethra *libhqr a_hs fem 
+:ns:Libethrian *libhqr os_h_on 
+:ns:Libethrian *libhqri os_h_on 
+:ns:Libethrius *libhqri os_ou masc 
+:ns:Libon *lib wn_onos masc 
+:ns:Libon *lib wn_ontos masc 
+:ns:Libon *libw n_nos masc 
+:ns:Libon *libw n_ntos masc 
+:ns:Limera *limhr a_hs fem  suff_acc
+:ns:Limera *limhr h_hs fem doric suff_acc
+:ns:Limnaeum *limnai os_ou neut  stem_acc
+:ns:Limon *leim wn_onos masc  suff_acc
+:ns:Limon *leim wn_ontos masc  suff_acc
+:ns:Limon *leimw n_nos masc  stem_acc
+:ns:Limon *leimw n_nos masc  suff_acc
+:ns:Limon *leimw n_ntos masc  suff_acc
+:ns:Limon *leimwn hs_ou masc  stem_acc
+:ns:Lixitae *licit h_hs fem pl
+:ns:Lixitae *licit hs_ou masc pl
+:ns:Lochaeus *loxai os_ou masc 
+:ns:Locrian *lokr os_h_on 
+:ns:Locrus *lokr os_ou masc 
+:ns:Lophis *lof is_ews fem 
+:ns:Lophis *lof is_idos fem 
+:ns:Lupiae *loupi h_hs fem pl
+:ns:Lupiae *loupi hs_ou masc pl
+:ns:Lusi *lousi hs_ou masc 
+:ns:Lusia *lousi a_hs fem 
+:ns:Lusia *lousi h_hs fem doric
+:ns:Lusius *lousi os_ou masc 
+:ns:Lyca *luk a_hs fem 
+:ns:Lyca *luk h_hs fem doric
+:ns:Lycaean *lukai os_h_on 
+:ns:Lycaeus *lukai os_ou masc 
+:ns:Lycas *luk as_antos masc 
+:ns:Lycas *luk hs_ou masc doric
+:ns:Lycastidas *lukastid hs_ou masc doric
+:ns:Lycean *luke eus_ews masc 
+:ns:Lycean *luke os_h_on 
+:ns:Lyceas *luke hs_ou masc doric
+:ns:Lycia *lukei a_hs fem 
+:ns:Lycia *lukei h_hs fem doric
+:ns:Lycian *luk eus_ews masc 
+:ns:Lycian *luk os_h_on 
+:ns:Lycian *lukei eus_ews masc 
+:ns:Lycian *lukei os_h_on 
+:ns:Lycians *lukei os_h_on 
+:ns:Lycinus *lukin os_ou masc 
+:ns:Lyciscus *lukisk os_ou masc 
+:ns:Lyciscus *lukisk os_ou masc  stem_acc
+:ns:Lycoa *luko a_hs fem 
+:ns:Lycoa *luko h_hs fem doric
+:ns:Lycoan *luko eus_ews masc 
+:ns:Lycoan *luko os_h_on 
+:ns:Lycone *lukwn h_hs fem 
+:ns:Lycortas *lukort as_antos masc 
+:ns:Lycortas *lukort as_antos masc  stem_acc
+:ns:Lycortas *lukort hs_ou masc doric
+:ns:Lycorus *lukwr os_ou masc 
+:ns:Lycosura *lukosour a_hs fem 
+:ns:Lycosura *lukosour h_hs fem doric
+:ns:Lycuria *lukouri a_hs fem 
+:ns:Lycuria *lukouri h_hs fem doric
+:ns:Lydiades *ludiad hs_eos masc 
+:ns:Lydiades *ludiad hs_ou masc 
+:ns:Lydiades *ludiadh s_tos  
+:ns:Lydian *lud eus_ews masc  suff_acc
+:ns:Lydian *lud os_h_on  suff_acc
+:ns:Lygdamis *lugdam is_idos fem 
+:ns:Lygodesma *lugodesm h_hs fem doric
+:ns:Lymax *luma c_kos masc 
+:ns:Lymax *luma c_ktos masc 
+:ns:Lyrcus *lurk os_ou masc 
+:ns:Lysandra *lusandr a_hs fem 
+:ns:Lysandra *lusandr h_hs fem doric
+:ns:Lysianax *lusiana c_ktos masc 
+:ns:Lysimachia *lusimaxei a_hs fem 
+:ns:Lysimachides *lusimaxid hs_ou masc 
+:ns:Lysinus *lusin os_ou masc 
+:ns:Lysippus *lusipp os_ou masc 
+:ns:Lysis *lus is_ews fem 
+:ns:Lyson *lusw n_nos masc 
+:ns:Macareae *makare h_hs fem pl
+:ns:Macareae *makare hs_ou masc pl
+:ns:Macareus *makar eus_ews masc  suff_acc
+:ns:Macareus *makare os_ou masc  suff_acc
+:ns:Macaria *makari a_hs fem 
+:ns:Macaria *makari h_hs fem doric
+:ns:Macartatus *makartat os_ou masc 
+:ns:Maceris *makhr is_idos fem 
+:ns:Machaerion *maxairi wn_onos masc 
+:ns:Machaerion *maxairi wn_ontos masc 
+:ns:Machaerion *maxairiw n_nos masc 
+:ns:Machaerion *maxairiw n_ntos masc 
+:ns:Machaerion *maxairiwn hs_ou masc 
+:ns:Machanidas *maxanid hs_ou masc doric
+:ns:Macria *makri a_hs fem 
+:ns:Macria *makri h_hs fem doric
+:ns:Maenalian *mainal eus_ews masc 
+:ns:Maenalian *mainal os_h_on 
+:ns:Maenalus *mainal os_ou masc 
+:ns:Maera *mair a_hs fem  suff_acc
+:ns:Maera *mair h_hs fem doric suff_acc
+:ns:Maesis *mais is_ews fem 
+:ns:Maesis *mais is_idos fem 
+:ns:Magas *mag as_antos masc 
+:ns:Magas *mag hs_ou masc doric
+:ns:Magas *maga s_tos  
+:ns:Magnes *magnh s_tos   suff_acc
+:ns:Maleatian *maleat eus_ews masc 
+:ns:Maleatian *maleat os_h_on 
+:ns:Malgis *malg is_idos fem 
+:ns:Malian *mali eus_ews masc 
+:ns:Malian *mali eus_ews masc  suff_acc
+:ns:Mallus *mall os_ou masc  suff_acc
+:ns:Maloetas *maloit hs_ou masc doric
+:ns:Maltho *malq w_oos fem  suff_acc
+:ns:Man *m os_h_on 
+:ns:Maniae *mani h_hs fem pl
+:ns:Maniae *mani hs_ou masc pl
+:ns:Manius *mani os_ou masc 
+:ns:Manius *mani os_ou masc  suff_acc
+:ns:Manticlus *mantikl os_ou masc 
+:ns:Maratha *maraq a_hs fem 
+:ns:Mares *mar hs_eos masc 
+:ns:Marion *mari wn_onos masc 
+:ns:Marion *mari wn_ontos masc 
+:ns:Marion *mariw n_nos masc 
+:ns:Marion *mariw n_ntos masc 
+:ns:Marius *mari os_ou masc 
+:ns:Marius *mari os_ou masc  suff_acc
+:ns:Marmax *marma c_kos masc 
+:ns:Marpessus *marphss os_ou masc 
+:ns:Mathia *maqi a_hs fem 
+:ns:Mathia *maqi h_hs fem doric
+:ns:Median *mhdei os_h_on 
+:ns:Medon *mhdw n_nos masc 
+:ns:Medontid *medontid hs_ou masc 
+:ns:Megalophanes *megalofan hs_eos masc 
+:ns:Megalopolis *megalopol is_ews fem 
+:ns:Megalopolitan *megalopolit eus_ews masc 
+:ns:Megalopolitan *megalopolit os_h_on 
+:ns:Megalopolitan *megalopolit os_h_on  suff_acc
+:ns:Megalopolitans *megalopolit os_h_on 
+:ns:Megalopolitans *megalopolit os_h_on  suff_acc
+:ns:Megarian *megar os_h_on 
+:ns:Megarus *megar os_ou masc 
+:ns:Melaena *melain a_hs fem 
+:ns:Melaeneus *melain eus_ews masc  suff_acc
+:ns:Melaeneus *melaine os_ou masc  suff_acc
+:ns:Melampodid *melampodid hs_ou masc 
+:ns:Melas *mel hs_ou masc doric
+:ns:Melete *melet h_hs fem 
+:ns:Melobosis *mhlobos is_ews fem 
+:ns:Melobosis *mhlobos is_idos fem 
+:ns:Meltas *melt as_antos masc 
+:ns:Meltas *melt hs_ou masc doric
+:ns:Menaechmus *menaixm os_ou masc 
+:ns:Menalcidas *menalkid hs_ou masc doric
+:ns:Menephylus *meneful os_ou masc 
+:ns:Menodorus *mhnodwr os_ou masc 
+:ns:Menophanes *mhnofan hs_eos masc 
+:ns:Menophanes *mhnofan hs_ou masc 
+:ns:Menophanes *mhnofanh s_tos  
+:ns:Mesate *mesat h_hs fem 
+:ns:Mesateus *mesat eus_ews masc 
+:ns:Mesateus *mesat eus_ews masc  suff_acc
+:ns:Mesatis *mesat is_ews fem 
+:ns:Mesatis *mesat is_ews fem  stem_acc
+:ns:Mesatis *mesat is_idos fem  stem_acc
+:ns:Mesoa *meso a_hs fem 
+:ns:Mesoa *meso h_hs fem doric
+:ns:Mesoboa *mesobo a_hs fem 
+:ns:Messapian *messap eus_ews masc 
+:ns:Metanastes *metanast hs_eos masc 
+:ns:Metanastes *metanast hs_ou masc 
+:ns:Metapontines *metapontin hs_eos masc 
+:ns:Metellus *metell os_ou masc 
+:ns:Methana *meqan a_hs fem 
+:ns:Methapus *meqap os_ou masc 
+:ns:Metioche *mhtiox h_hs fem 
+:ns:Micon *mik wn_onos masc 
+:ns:Micon *mik wn_ontos masc 
+:ns:Micon *mikw n_nos masc 
+:ns:Micon *mikw n_ntos masc 
+:ns:Micon *mikwn hs_ou masc 
+:ns:Midea *mide h_hs fem doric
+:ns:Midias *meidi as_antos masc 
+:ns:Midias *meidi hs_ou masc doric
+:ns:Midias *midei hs_ou masc doric
+:ns:Miganitas *meiganit as_antos masc 
+:ns:Miganitas *meiganit hs_ou masc doric
+:ns:Migonitis *migwnit is_idos fem 
+:ns:Migonium *migwni os_ou neut 
+:ns:Milichus *meilix os_ou masc 
+:ns:Mimnermus *mimnerm os_ou masc 
+:ns:Minyad *minuad hs_ou masc 
+:ns:Minyae *minu h_hs fem pl suff_acc
+:ns:Minyae *minu hs_ou masc pl suff_acc
+:ns:Minyan *minu os_h_on  suff_acc
+:ns:Minyans *minu os_h_on  suff_acc
+:ns:Minyas *minu as_antos masc  suff_acc
+:ns:Minyas *minu hs_ou masc doric suff_acc
+:ns:Minyas *minua s_tos   suff_acc
+:ns:Mithridates *miqridat hs_eos masc 
+:ns:Mithridates *miqridat hs_ou masc 
+:ns:Mithridates *miqridath s_tos  
+:ns:Mitylene *mitulhn h_hs fem 
+:ns:Mitylenian *mitulhn os_h_on 
+:ns:Mnaseas *mnase hs_ou masc doric
+:ns:Mnaseus *mnas eus_ews masc 
+:ns:Mnaseus *mnase os_ou masc 
+:ns:Mnasinus *mnasin os_ou masc 
+:ns:Mnasinus *mnasinou s_tos  
+:ns:Mneme *mnhm h_hs fem 
+:ns:Mnesibulus *mnhsiboul os_ou masc 
+:ns:Mnesitheus *mnhsiqe os_ou masc 
+:ns:Moerocles *moiro klehs_kleous masc
+:ns:Moline *molin h_hs fem 
+:ns:Molpadia *molpadi a_hs fem 
+:ns:Molpadia *molpadi h_hs fem doric
+:ns:Molpia *molpi a_hs fem 
+:ns:Molpia *molpi h_hs fem doric
+:ns:Molpion *molpi wn_onos masc 
+:ns:Molpion *molpi wn_ontos masc 
+:ns:Molpion *molpiw n_nos masc 
+:ns:Molpion *molpiw n_ntos masc 
+:ns:Molurian *molour os_h_on 
+:ns:Molurus *molour os_ou masc 
+:ns:Molycria *molukri h_hs fem doric
+:ns:Molycrium *molukri os_ou neut 
+:ns:Morpho *morf w_oos fem  suff_acc
+:ns:Moschion *mosxiw n_nos masc 
+:ns:Mothon *moq wn_onos masc 
+:ns:Mothon *moq wn_ontos masc 
+:ns:Mothon *moqw n_nos masc 
+:ns:Mothon *moqw n_ntos masc 
+:ns:Mothon *moqwn hs_ou masc 
+:ns:Mothone *moqwn h_hs fem 
+:ns:Motye *motu h_hs fem 
+:ns:Musaeus *mousai os_ou masc  stem_acc
+:ns:Muses *mous hs_ou masc 
+:ns:Musus *mous os_ou masc 
+:ns:Mycene *mukhne hs_ou masc 
+:ns:Mycenea *mukhne a_hs fem 
+:ns:Mycenea *mukhne h_hs fem doric
+:ns:Myceneus *mukhn eus_ews masc 
+:ns:Mycon *muk wn_onos masc 
+:ns:Mycon *muk wn_ontos masc 
+:ns:Mycon *mukw n_nos masc 
+:ns:Mycon *mukw n_ntos masc 
+:ns:Mylaon *mula wn_ontos masc 
+:ns:Mylaon *mulao n_ntos masc 
+:ns:Mylasa *mulas a_hs fem 
+:ns:Myles *mul hs_eos masc 
+:ns:Myles *mul hs_ou masc 
+:ns:Myles *mulh s_tos  
+:ns:Myndian *mund os_h_on 
+:ns:Myndian *mundi os_h_on 
+:ns:Myndus *mund os_ou masc 
+:ns:Myonia *muoni a_hs fem 
+:ns:Myonia *muoni h_hs fem doric
+:ns:Myonians *muoni os_h_on 
+:ns:Myro *mur w_oos fem  suff_acc
+:ns:Myropolis *muropwl is_ews fem 
+:ns:Myropolis *muropwl is_idos fem 
+:ns:Myrto *murt w_oos fem  suff_acc
+:ns:Myrtoessa *murtwess a_hs fem 
+:ns:Myrtoessa *murtwess h_hs fem doric
+:ns:Mysaeum *musai os_ou neut 
+:ns:Myson *musw n_nos masc 
+:ns:Myson *muswn hs_ou masc 
+:ns:Nabis *nab is_ews fem 
+:ns:Nabis *nab is_idos fem 
+:ns:Nais *na is_idos fem 
+:ns:Nais *na is_idos fem  suff_acc
+:ns:Naliphus *nalif os_ou masc 
+:ns:Naoclus *naokl os_ou masc 
+:ns:Narcaea *narkai a_hs fem 
+:ns:Narcaea *narkai h_hs fem doric
+:ns:Narcaeus *narkai os_ou masc 
+:ns:Narcaeus *narkai os_ou masc  stem_acc
+:ns:Narcissus *narkiss os_ou masc 
+:ns:Narycidas *narukid hs_ou masc doric
+:ns:Naucydes *naukud hs_eos masc 
+:ns:Naucydes *naukud hs_ou masc 
+:ns:Naucydes *naukudh s_tos  
+:ns:Naus *na os_ou masc  suff_acc
+:ns:Neda *ned a_hs fem 
+:ns:Neda *ned h_hs fem doric
+:ns:Neistan *nhist eus_ews masc 
+:ns:Neistan *nhist os_h_on 
+:ns:Neistan *nhist os_h_on  suff_acc
+:ns:Neocles *neo klehs_kleous masc
+:ns:Neon *new n_nos masc  stem_acc
+:ns:Neon *newn hs_ou masc  stem_acc
+:ns:Neotheus *neoq eus_ews masc  suff_acc
+:ns:Neris *nhr is_ews fem  suff_acc
+:ns:Neris *nhr is_idos fem  suff_acc
+:ns:Nestane *nestan h_hs fem 
+:ns:Nestians *nesti os_h_on 
+:ns:Nicagora *nikagor h_hs fem doric
+:ns:Nicasylus *nikasul os_ou masc 
+:ns:Nicasylus *nikasul os_ou masc  stem_acc
+:ns:Nicator *nikat wr_oros masc 
+:ns:Nicodamus *nikodam os_ou masc 
+:ns:Nicomedes *nikomhd hs_eos masc  suff_acc
+:ns:Nicopolis *nikopol is_ews fem 
+:ns:Nileus *neil eus_ews masc 
+:ns:Nileus *neil eus_ews masc  suff_acc
+:ns:Nileus *neile os_ou masc 
+:ns:Nomia *nomi a_hs fem 
+:ns:Nomia *nomi h_hs fem doric
+:ns:Nomian *nomi eus_ews masc 
+:ns:Nomian *nomi os_h_on 
+:ns:Nora *nwr a_hs fem 
+:ns:Nora *nwr h_hs fem doric
+:ns:Norax *nwra c_kos masc 
+:ns:Nymphaeum *numfai os_ou neut 
+:ns:Nymphas *numf as_antos masc 
+:ns:Nymphas *numf as_antos masc  suff_acc
+:ns:Nymphas *numf hs_ou masc doric
+:ns:Nymphas *numf hs_ou masc doric suff_acc
+:ns:Nymphas *numfa s_tos   suff_acc
+:ns:Nymphasia *numfasi a_hs fem 
+:ns:Nymphasia *numfasi h_hs fem doric
+:ns:Nymphon *numfw n_nos masc  stem_acc
+:ns:Nymphon *numfwn hs_ou masc  stem_acc
+:ns:Ocyroe *)wkuro h_hs fem 
+:ns:Oeatae *oi)at h_hs fem pl
+:ns:Oeatae *oi)at hs_ou masc pl
+:ns:Oebotas *oi)bwt as_antos masc 
+:ns:Oebotas *oi)bwt hs_ou masc doric
+:ns:Oedipodia *oi)dipodi a_hs fem 
+:ns:Oedipodia *oi)dipodi h_hs fem doric
+:ns:Oenias *oi)ni as_antos masc  stem_acc
+:ns:Oenias *oi)ni hs_ou masc doric
+:ns:Oenobius *oi)nobi os_ou masc 
+:ns:Oenotria *oi)nwtri a_hs fem 
+:ns:Oenotria *oi)nwtri h_hs fem doric
+:ns:Oenotrus *oi)nwtr os_ou masc 
+:ns:Oenussian *oi)nouss os_h_on  stem_acc
+:ns:Oeoclus *oi)okl os_ou masc 
+:ns:Oeonus *oi)wn os_ou masc  suff_acc
+:ns:Oetolinus *oi)tolin os_ou masc 
+:ns:Ogryle *)ogrul h_hs fem 
+:ns:Ogrylus *)ogrul os_ou masc  stem_acc
+:ns:Ogygian *)wgug os_h_on 
+:ns:Ogygus *)wgug os_ou masc 
+:ns:Olbia *)olbi h_hs fem doric
+:ns:Olbiades *)olbiad hs_eos masc 
+:ns:Olbiades *)olbiad hs_ou masc 
+:ns:Olbiades *)olbiadh s_tos  
+:ns:Olbius *)olbi os_ou masc 
+:ns:Olenian *)wleni os_h_on 
+:ns:Olenius *)wleni os_ou masc 
+:ns:Olidas *)olid hs_ou masc doric
+:ns:Olmones *)olmwn hs_eos masc 
+:ns:Olmones *)olmwn hs_ou masc 
+:ns:Olmones *)olmwne s_tos  
+:ns:Olmus *)olm os_ou masc 
+:ns:Olympiosthenes *)olumpiosqen hs_eos masc 
+:ns:Omphace *)omfak h_hs fem 
+:ns:Omphalion *)omfali wn_onos masc 
+:ns:Omphalion *)omfali wn_ontos masc 
+:ns:Omphalion *)omfaliw n_nos masc 
+:ns:Omphalion *)omfaliw n_ntos masc 
+:ns:Omphalos *)omfalo s_tos   suff_acc
+:ns:Onaethus *)onaiq os_ou masc 
+:ns:Onasias *)onasi as_antos masc 
+:ns:Onasias *)onasi as_antos masc  stem_acc
+:ns:Onasias *)onasi hs_ou masc doric
+:ns:Onasimedes *)onasimhd hs_eos masc 
+:ns:Onasimedes *)onasimhd hs_ou masc 
+:ns:Onasimedes *)onasimhdh s_tos  
+:ns:Onatas *)onat as_antos masc 
+:ns:Onatas *)onat as_antos masc  stem_acc
+:ns:Onatas *)onat hs_ou masc doric
+:ns:Onchestian *)ogxhsti os_h_on 
+:ns:Oncius *)ogkei os_ou masc 
+:ns:Oncius *)ogki os_ou masc 
+:ns:Oncus *)ogk os_ou masc 
+:ns:Onga *)ogg a_hs fem 
+:ns:Onga *)ogg h_hs fem doric
+:ns:Onomarchus *)onomarx os_ou masc 
+:ns:Ophioneus *)ofion eus_ews masc 
+:ns:Ophioneus *)ofion eus_ews masc  suff_acc
+:ns:Ophioneus *)ofione os_ou masc 
+:ns:Ophis *)of is_ews fem 
+:ns:Ophis *)of is_idos fem 
+:ns:Ophthalmitis *)ofqalmit is_idos fem 
+:ns:Oraea *)wrai h_hs fem doric
+:ns:Oresthasian *)oresqasi os_h_on 
+:ns:Oresthasium *)oresqasi os_ou neut 
+:ns:Orestheus *)oresq eus_ews masc 
+:ns:Orestheus *)oresq eus_ews masc  suff_acc
+:ns:Orestheus *)oresqe os_ou masc 
+:ns:Orestorius *)orestori os_ou masc 
+:ns:Oreus *)wre os_ou masc  suff_acc
+:ns:Orion *)orei wn_onos masc 
+:ns:Orion *)orei wn_ontos masc 
+:ns:Orion *)oreio n_nos masc 
+:ns:Orion *)oreio n_ntos masc 
+:ns:Ornea *)orne a_hs fem 
+:ns:Ornea *)orne a_hs fem  suff_acc
+:ns:Ornea *)orne h_hs fem doric
+:ns:Ornea *)orne h_hs fem doric suff_acc
+:ns:Orneae *)orne h_hs fem pl
+:ns:Orneae *)orne h_hs fem pl suff_acc
+:ns:Orneae *)orne hs_ou masc pl
+:ns:Orneae *)orne hs_ou masc pl suff_acc
+:ns:Orneus *)orn eus_ews masc 
+:ns:Orneus *)orne os_ou masc 
+:ns:Orneus *)orne os_ou masc  suff_acc
+:ns:Ornytion *)ornuti wn_onos masc 
+:ns:Ornytion *)ornuti wn_ontos masc 
+:ns:Ornytion *)ornutiw n_nos masc 
+:ns:Ornytion *)ornutiw n_ntos masc 
+:ns:Ornytus *)ornut os_ou masc 
+:ns:Orontes *)oront hs_eos masc 
+:ns:Orontes *)oront hs_ou masc 
+:ns:Orphondas *)orfwnd hs_ou masc doric
+:ns:Orsippus *)orsipp os_ou masc 
+:ns:Orsobia *)orsobi a_hs fem 
+:ns:Orsobia *)orsobi h_hs fem doric
+:ns:Orthopolis *)orqopol is_ews fem 
+:ns:Orus *)wr os_ou masc 
+:ns:Oryxis *)oruc is_ews fem 
+:ns:Oryxis *)oruc is_idos fem 
+:ns:Osroes *)osro hs_ou masc 
+:ns:Ostracina *)ostrakin a_hs fem 
+:ns:Ostracina *)ostrakin h_hs fem doric
+:ns:Otilius *)otili os_ou masc 
+:ns:Oxyartes *)ocuart hs_ou masc 
+:ns:Oxyntes *)ocunt hs_ou masc 
+:ns:Pachynum *paxun os_ou neut 
+:ns:Paeanius *paiani os_ou masc 
+:ns:Paedize *paidiz h_hs fem  suff_acc
+:ns:Paeonaeus *paiwnai os_ou masc 
+:ns:Paeonaeus *paiwnai os_ou masc  stem_acc
+:ns:Pagae *pag h_hs fem pl suff_acc
+:ns:Pagae *pag hs_ou masc pl suff_acc
+:ns:Pagasus *pagas os_ou masc  suff_acc
+:ns:Pagondas *pagwnd as_antos masc 
+:ns:Pagondas *pagwnd hs_ou masc doric
+:ns:Pagus *pag os_ou masc 
+:ns:Palaea *palai a_hs fem  suff_acc
+:ns:Palaea *palai h_hs fem doric suff_acc
+:ns:Palamaon *palama wn_onos masc 
+:ns:Palamaon *palamao n_nos masc 
+:ns:Paliscius *paliski os_ou masc 
+:ns:Pallantium *pallanti os_ou neut 
+:ns:Pammenes *pammen hs_eos masc 
+:ns:Pammerope *pammerop h_hs fem 
+:ns:Pamphos *pamfw s_tos  
+:ns:Panachaean *panaxai eus_ews masc  suff_acc
+:ns:Panachaean *panaxai os_h_on  suff_acc
+:ns:Panactum *panakt os_ou neut 
+:ns:Panaenus *panain os_ou masc 
+:ns:Pantarces *pantark hs_eos masc 
+:ns:Pantarces *pantark hs_ou masc 
+:ns:Pantarces *pantarkh s_tos  
+:ns:Panthalis *panqal is_ews fem  suff_acc
+:ns:Panthalis *panqal is_idos fem  suff_acc
+:ns:Pantias *panti as_antos masc 
+:ns:Pantias *panti hs_ou masc doric
+:ns:Paraballon *paraball wn_ontos masc 
+:ns:Paraballon *paraballo n_ntos masc 
+:ns:Paraebasium *paraibasi os_ou neut 
+:ns:Paraebasium *paraibasi os_ou neut  stem_acc
+:ns:Parammon *paramm wn_onos masc 
+:ns:Parammon *paramm wn_ontos masc 
+:ns:Parammon *parammw n_nos masc 
+:ns:Parammon *parammw n_ntos masc 
+:ns:Parnon *parn wn_onos masc 
+:ns:Parnon *parn wn_ontos masc 
+:ns:Parnon *parnw n_nos masc 
+:ns:Parnon *parnw n_ntos masc 
+:ns:Paroreus *parwr eus_ews masc  suff_acc
+:ns:Paroria *parwrei a_hs fem 
+:ns:Paroria *parwri a_hs fem 
+:ns:Paroria *parwri h_hs fem doric
+:ns:Parphorus *parfor os_ou masc 
+:ns:Parrhasian *parrasi os_h_on 
+:ns:Parrhasians *parrasi os_h_on 
+:ns:Parrhasius *parrasi os_ou masc 
+:ns:Parthaon *parqa wn_onos masc 
+:ns:Parthaon *parqao n_nos masc 
+:ns:Parthenia *parqeni a_hs fem 
+:ns:Parthenia *parqeni h_hs fem doric
+:ns:Parthenias *parqeni as_antos masc 
+:ns:Parthenias *parqeni as_antos masc  stem_acc
+:ns:Parthenias *parqeni hs_ou masc doric
+:ns:Parthenon *parqen wn_onos masc  stem_acc
+:ns:Parthenon *parqen wn_ontos masc  stem_acc
+:ns:Parthenon *parqenw n_nos masc  stem_acc
+:ns:Parthenon *parqenwn hs_ou masc  stem_acc
+:ns:Paseas *pase hs_ou masc doric
+:ns:Pasiteles *pasitel hs_eos masc 
+:ns:Pasiteles *pasitel hs_ou masc 
+:ns:Patron *patr wn_onos masc 
+:ns:Patron *patr wn_ontos masc 
+:ns:Patron *patrw n_nos masc 
+:ns:Patron *patrw n_ntos masc 
+:ns:Paus *pa os_ou masc 
+:ns:Pausias *pausi hs_ou masc doric
+:ns:Pedium *pedi os_ou neut  stem_acc
+:ns:Pegaea *phgai a_hs fem 
+:ns:Pegaea *phgai h_hs fem doric
+:ns:Pelagaeus *pelagai os_ou masc  stem_acc
+:ns:Pelagus *pelag os_ou masc 
+:ns:Pelagus *pelagou s_tos  
+:ns:Pelarge *pelarg h_hs fem  suff_acc
+:ns:Pelias *pelei hs_ou masc doric
+:ns:Pelis *phl is_ews fem 
+:ns:Pelis *phl is_idos fem 
+:ns:Pellana *pellan a_hs fem 
+:ns:Pellana *pellan h_hs fem doric
+:ns:Pellanian *pellan eus_ews masc 
+:ns:Pellanian *pellan os_h_on 
+:ns:Pellen *pellh n_nos masc 
+:ns:Pellen *pellhn hs_ou masc  suff_acc
+:ns:Pelopium *pelopi os_ou neut 
+:ns:Pencalas *pegkal as_antos masc 
+:ns:Pencalas *pegkal hs_ou masc doric
+:ns:Pentathlum *pentaql os_ou neut 
+:ns:Pentathlus *pentaql os_ou masc 
+:ns:Pentelicus *pentelik os_ou masc  suff_acc
+:ns:Penthilus *penqil os_ou masc 
+:ns:Penthilus *penqil os_ou masc  stem_acc
+:ns:Pephnus *pefn os_ou masc 
+:ns:Peraethus *peraiq os_ou masc 
+:ns:Perantas *perant as_antos masc 
+:ns:Perantas *perant hs_ou masc doric
+:ns:Peratus *perat os_ou masc 
+:ns:Pereus *per eus_ews masc  suff_acc
+:ns:Periclus *perikl os_ou masc 
+:ns:Periclytus *periklut os_ou masc 
+:ns:Perilaus *perila os_ou masc 
+:ns:Persaeus *persai os_ou masc  stem_acc
+:ns:Petrachus *petrax os_ou masc  suff_acc
+:ns:Petroma *petrwm a_hs fem 
+:ns:Petrosaca *petrosak a_hs fem 
+:ns:Petrosaca *petrosak h_hs fem doric
+:ns:Phaedrias *faidri as_antos masc  stem_acc
+:ns:Phaedrias *faidri hs_ou masc doric
+:ns:Phaenna *faenn a_hs fem 
+:ns:Phaenna *faenn h_hs fem doric
+:ns:Phaennis *faenn is_ews fem  suff_acc
+:ns:Phaennis *faenn is_idos fem  suff_acc
+:ns:Phaeno *fain w_oos fem  suff_acc
+:ns:Phalaecus *falaik os_ou masc 
+:ns:Phalaesiae *falaisi h_hs fem pl
+:ns:Phalaesiae *falaisi h_hs fem pl stem_acc
+:ns:Phalaesiae *falaisi hs_ou masc pl
+:ns:Phalaesiae *falaisi hs_ou masc pl stem_acc
+:ns:Phalanthus *falanq os_ou masc 
+:ns:Phalareus *falar eus_ews masc  suff_acc
+:ns:Phalarus *falar os_ou masc 
+:ns:Phalerum *falhr os_ou neut  suff_acc
+:ns:Phallen *fallh n_nos masc  stem_acc
+:ns:Phallen *fallhn hs_ou masc  stem_acc
+:ns:Phalysius *falusi os_ou masc 
+:ns:Phamenoph *famenwf hs_ou masc 
+:ns:Phanostratus *fanostrat os_ou masc 
+:ns:Pharae *far h_hs fem pl
+:ns:Pharae *far h_hs fem pl suff_acc
+:ns:Pharae *far hs_ou masc pl
+:ns:Pharae *far hs_ou masc pl suff_acc
+:ns:Pharax *fara c_kos masc 
+:ns:Phares *far hs_eos masc 
+:ns:Phares *far hs_eos masc  suff_acc
+:ns:Phares *far hs_ou masc 
+:ns:Phares *far hs_ou masc  suff_acc
+:ns:Pharis *far is_ews fem  suff_acc
+:ns:Phegia *fhgi a_hs fem 
+:ns:Phegia *fhgi h_hs fem doric
+:ns:Phegian *fhgi os_h_on 
+:ns:Phellia *felli a_hs fem 
+:ns:Phellia *felli h_hs fem doric
+:ns:Phelloe *fello h_hs fem 
+:ns:Phemonoe *fhmono h_hs fem 
+:ns:Pheneatian *feneat eus_ews masc 
+:ns:Pheneatian *feneat os_h_on 
+:ns:Pheneatian *feneat os_h_on  suff_acc
+:ns:Pheno *fhn w_oos fem  suff_acc
+:ns:Pherenice *ferenik h_hs fem 
+:ns:Pherenicus *ferenik os_ou masc 
+:ns:Pherepolis *ferepol is_ews fem 
+:ns:Pherias *feri as_antos masc 
+:ns:Pherias *feri hs_ou masc doric
+:ns:Phialia *fiali a_hs fem 
+:ns:Phialia *fiali h_hs fem doric
+:ns:Phialo *fial w_oos fem 
+:ns:Phialo *fial w_oos fem  suff_acc
+:ns:Phialus *fial os_ou masc 
+:ns:Phidias *feidi as_antos masc 
+:ns:Phidias *feidi as_antos masc  stem_acc
+:ns:Phidias *feidi hs_ou masc doric
+:ns:Phiditia *feiditi a_hs fem 
+:ns:Phidolas *feidwl hs_ou masc doric
+:ns:Phigalia *figalei a_hs fem 
+:ns:Phigalia *figali a_hs fem 
+:ns:Phigalia *figali h_hs fem doric
+:ns:Phigalian *figal eus_ews masc 
+:ns:Phigalian *figal eus_ews masc  suff_acc
+:ns:Phigalian *figal os_h_on 
+:ns:Phigalian *figaleia n_nos masc 
+:ns:Phigalian *figaleia n_ntos masc 
+:ns:Phigalian *figali eus_ews masc 
+:ns:Phigalian *figali os_h_on 
+:ns:Phigalians *figali os_h_on 
+:ns:Phigalus *figal os_ou masc 
+:ns:Philadelphus *filadelf os_ou masc 
+:ns:Philandrides *filandrid hs_ou masc 
+:ns:Philanor *filan wr_oros masc 
+:ns:Philanorium *filanori os_ou neut 
+:ns:Philanthus *filanq os_ou masc 
+:ns:Philesius *filhsi os_ou masc 
+:ns:Philetaerus *filetair os_ou masc 
+:ns:Philippi *filippei hs_ou masc 
+:ns:Philippian *filippei os_h_on 
+:ns:Philippian *filippei os_h_on  stem_acc
+:ns:Philippian *filippi os_h_on 
+:ns:Philippides *filippid hs_ou masc 
+:ns:Philles *fill hs_eos masc 
+:ns:Philles *fill hs_ou masc 
+:ns:Philocles *filo klehs_kleous masc
+:ns:Philocles *filokl hs_ou masc  suff_acc
+:ns:Philogenes *filogen hs_eos masc 
+:ns:Philogenes *filogen hs_ou masc 
+:ns:Philogenes *filogenh s_tos  
+:ns:Philometor *filomht wr_oros masc 
+:ns:Philometor *filomhtor hs_ou masc 
+:ns:Philomirax *filomeira c_kos masc 
+:ns:Philonides *filwnid hs_ou masc 
+:ns:Philopoemen *filopoime n_nos masc 
+:ns:Philopoemen *filopoimh n_nos masc 
+:ns:Philopoemen *filopoimh n_ntos masc 
+:ns:Philostratus *filostrat os_ou masc 
+:ns:Philotas *filwt hs_ou masc doric
+:ns:Philotimus *filotim os_ou masc 
+:ns:Philoxenus *filocen os_ou masc 
+:ns:Philys *fil us_uos  
+:ns:Philys *filu s_tos   stem_acc
+:ns:Phintas *fint as_antos masc 
+:ns:Phintas *fint hs_ou masc doric
+:ns:Phintas *finta s_tos  
+:ns:Phlegyantis *fleguant is_idos fem  suff_acc
+:ns:Phlias *fli as_antos masc 
+:ns:Phlias *fli hs_ou masc doric
+:ns:Phlias *flia s_tos  
+:ns:Phlygonium *flugoni os_ou neut 
+:ns:Phlyus *flu os_ou masc 
+:ns:Phoebaean *foibai eus_ews masc 
+:ns:Phoebaean *foibai os_h_on 
+:ns:Phoebaean *foibai os_h_on  stem_acc
+:ns:Phoebaeum *foibai os_ou neut 
+:ns:Phoebaeum *foibai os_ou neut  stem_acc
+:ns:Phoebia *foibi h_hs fem doric
+:ns:Phoezon *foiz wn_onos masc 
+:ns:Phoezon *foiz wn_ontos masc 
+:ns:Phoezon *foizw n_nos masc 
+:ns:Phoezon *foizw n_ntos masc 
+:ns:Phormis *form is_ews fem 
+:ns:Phormis *form is_idos fem 
+:ns:Phoronicum *forwnik os_ou neut  suff_acc
+:ns:Phoronid *forwneid hs_ou masc 
+:ns:Phradmon *fradm wn_onos masc 
+:ns:Phradmon *fradm wn_ontos masc 
+:ns:Phradmon *fradmw n_nos masc 
+:ns:Phradmon *fradmw n_ntos masc 
+:ns:Phrasiclides *frasikleid hs_ou masc 
+:ns:Phreattys *freatt us_uos   suff_acc
+:ns:Phreattys *freattu s_tos   suff_acc
+:ns:Phrixa *fric a_hs fem 
+:ns:Phrixa *fric h_hs fem doric
+:ns:Phrurarchidas *frourarxid hs_ou masc doric
+:ns:Phryne *frun h_hs fem 
+:ns:Phylactris *fulaktr is_idos fem  suff_acc
+:ns:Phylodamia *fulodamei a_hs fem 
+:ns:Phylodamia *fulodamei h_hs fem doric
+:ns:Physcoa *fusko a_hs fem 
+:ns:Physcoa *fusko h_hs fem doric
+:ns:Phytalus *futal os_ou masc 
+:ns:Pielus *piel os_ou masc 
+:ns:Piera *pier a_hs fem 
+:ns:Piera *pier h_hs fem doric
+:ns:Pindasus *pindas os_ou masc 
+:ns:Pion *pi wn_onos masc 
+:ns:Pion *pio n_nos masc 
+:ns:Pioniae *pioni h_hs fem pl stem_acc
+:ns:Pioniae *pioni hs_ou masc pl stem_acc
+:ns:Pionis *pion is_ews fem 
+:ns:Pionis *pion is_idos fem 
+:ns:Pirae *peir h_hs fem pl suff_acc
+:ns:Pirae *peir hs_ou masc pl suff_acc
+:ns:Piras *peir as_antos masc  suff_acc
+:ns:Piras *peir hs_ou masc doric suff_acc
+:ns:Piras *peira s_tos   suff_acc
+:ns:Piras *peiras hs_ou masc 
+:ns:Pirasus *peiras os_ou masc 
+:ns:Pisan *pis os_h_on 
+:ns:Pisans *pis os_h_on 
+:ns:Pisias *peisi hs_ou masc doric
+:ns:Pisirodus *peisirod os_ou masc 
+:ns:Pisis *peis is_ews fem 
+:ns:Pisis *peis is_idos fem 
+:ns:Pison *pis wn_onos masc 
+:ns:Pison *pis wn_ontos masc 
+:ns:Pison *piso n_nos masc 
+:ns:Pison *piso n_ntos masc 
+:ns:Pison *pisw n_nos masc 
+:ns:Pison *pisw n_ntos masc 
+:ns:Pistocrates *pistokrat hs_eos masc 
+:ns:Pisus *pis os_ou masc 
+:ns:Pitanaean *pitanai os_h_on 
+:ns:Pityreus *pitur eus_ews masc 
+:ns:Pityreus *piture os_ou masc 
+:ns:Plastene *plasthn h_hs fem 
+:ns:Plataniston *platanist wn_onos masc  suff_acc
+:ns:Plataniston *platanist wn_ontos masc  suff_acc
+:ns:Plataniston *platanistw n_nos masc  stem_acc
+:ns:Plataniston *platanistw n_nos masc  suff_acc
+:ns:Plataniston *platanistw n_ntos masc  suff_acc
+:ns:Plataniston *platanistwn hs_ou masc  stem_acc
+:ns:Platanius *platani os_ou masc 
+:ns:Plemnaeus *plhmnai os_ou masc 
+:ns:Plemnaeus *plhmnai os_ou masc  stem_acc
+:ns:Plethrium *pleqri os_ou neut 
+:ns:Pleuronian *pleurwni os_h_on 
+:ns:Plistaenus *pleistain os_ou masc 
+:ns:Plistus *pleist os_ou masc 
+:ns:Pluto *plout w_oos fem  suff_acc
+:ns:Podares *podar hs_eos masc 
+:ns:Podares *podar hs_ou masc 
+:ns:Polemocrates *polemokrat hs_eos masc 
+:ns:Poliarchus *poliarx os_ou masc 
+:ns:Poliatis *poliat is_idos fem 
+:ns:Polieus *poli eus_ews masc 
+:ns:Polieus *poli eus_ews masc  suff_acc
+:ns:Polieus *polie os_ou masc 
+:ns:Polus *pol os_ou masc 
+:ns:Polus *pwl os_ou masc 
+:ns:Polyanthes *poluanq hs_eos masc 
+:ns:Polyanthes *poluanq hs_ou masc 
+:ns:Polyanthes *poluanqh s_tos  
+:ns:Polyarchus *poluarx os_ou masc 
+:ns:Polybius *polubi os_ou masc 
+:ns:Polyboea *poluboi a_hs fem 
+:ns:Polycaon *poluka wn_onos masc 
+:ns:Polycaon *poluka wn_ontos masc 
+:ns:Polycaon *polukao n_nos masc 
+:ns:Polycaon *polukaon hs_ou masc 
+:ns:Polycaon *polukaw n_nos masc 
+:ns:Polycaon *polukaw n_ntos masc 
+:ns:Polychalcus *poluxalk os_ou masc 
+:ns:Polychares *poluxar hs_eos masc 
+:ns:Polychares *poluxar hs_ou masc 
+:ns:Polychares *poluxarh s_tos  
+:ns:Polyclitus *polukleit os_ou masc 
+:ns:Polydeucia *poludeukei a_hs fem 
+:ns:Polygius *polugi os_ou masc 
+:ns:Polygnotus *polugnwt os_ou masc 
+:ns:Polymestor *polumhst wr_oros masc 
+:ns:Polymnastus *polumnast os_ou masc 
+:ns:Polymnis *polumn is_idos fem 
+:ns:Polymnus *polumn os_ou masc 
+:ns:Polyphradmon *polufradm wn_onos masc 
+:ns:Polyphradmon *polufradmo n_nos masc 
+:ns:Polyphron *polufr wn_onos masc 
+:ns:Polyphron *polufr wn_ontos masc 
+:ns:Polyphron *polufrw n_nos masc 
+:ns:Polyphron *polufrw n_ntos masc 
+:ns:Polypithes *polupeiq hs_eos masc 
+:ns:Polysperchon *polusperx wn_ontos masc 
+:ns:Polysperchon *polusperxo n_ntos masc 
+:ns:Pompus *pomp os_ou masc 
+:ns:Pontinus *pontin os_ou masc 
+:ns:Pontis *pont is_ews fem 
+:ns:Pontis *pont is_ews fem  suff_acc
+:ns:Porinas *pwrin as_antos masc 
+:ns:Porinas *pwrin hs_ou masc doric
+:ns:Poroselene *poroselhn h_hs fem 
+:ns:Porus *pwr os_ou masc 
+:ns:Posidium *poseidi os_ou neut 
+:ns:Possicrates *possikrat hs_eos masc 
+:ns:Potachidae *pwtaxid h_hs fem pl
+:ns:Potachidae *pwtaxid hs_ou masc pl
+:ns:Pothaeus *poqai os_ou masc 
+:ns:Pratinas *pratin hs_ou masc doric
+:ns:Prax *pra c_kos masc 
+:ns:Praxias *praci as_antos masc 
+:ns:Praxias *praci as_antos masc  stem_acc
+:ns:Praxias *praci hs_ou masc doric
+:ns:Praxidamas *pracidam as_antos masc 
+:ns:Praxidica *pracidik a_hs fem 
+:ns:Praxidica *pracidik h_hs fem doric
+:ns:Praxidicae *pracidik h_hs fem pl
+:ns:Praxidicae *pracidik hs_ou masc pl
+:ns:Praxilla *pracill a_hs fem 
+:ns:Praxilla *pracill h_hs fem doric
+:ns:Praxis *prac is_ews fem  suff_acc
+:ns:Praxiteles *pracitel hs_eos masc 
+:ns:Praxiteles *pracitel hs_ou masc 
+:ns:Praxiteles *pracitelh s_tos  
+:ns:Praxonides *pracwnid hs_ou masc 
+:ns:Presbon *presbw n_nos masc 
+:ns:Presbon *presbwn hs_ou masc 
+:ns:Preugenes *preugen hs_eos masc 
+:ns:Preugenes *preugen hs_ou masc 
+:ns:Preugenes *preugenh s_tos  
+:ns:Prias *pri as_antos masc 
+:ns:Prinus *prin os_ou masc 
+:ns:Proconnesians *prokonnhsi os_h_on 
+:ns:Procrustes *prokroust hs_eos masc 
+:ns:Procrustes *prokroust hs_ou masc 
+:ns:Prodicus *prodik os_ou masc 
+:ns:Prolaus *prola os_ou masc 
+:ns:Promedon *promed wn_onos masc 
+:ns:Promedon *promed wn_ontos masc 
+:ns:Promedon *promedo n_ntos masc 
+:ns:Promedon *promedw n_nos masc 
+:ns:Promedon *promedw n_ntos masc 
+:ns:Promethus *promhq os_ou masc 
+:ns:Promne *prwmn h_hs fem 
+:ns:Pron *prw n_nos masc 
+:ns:Pron *prwn hs_ou masc 
+:ns:Propodas *propod as_antos masc 
+:ns:Propodas *propod as_antos masc  stem_acc
+:ns:Propodas *propod hs_ou masc doric
+:ns:Propylaea *propulai a_hs fem 
+:ns:Propylaea *propulai h_hs fem doric
+:ns:Prorus *prwr os_ou masc 
+:ns:Prosymna *prosumn a_hs fem 
+:ns:Prosymna *prosumn h_hs fem doric
+:ns:Prothus *proq os_ou masc 
+:ns:Prothus *proqou s_tos  
+:ns:Protogenes *prwtogen hs_eos masc 
+:ns:Protogenes *prwtogen hs_ou masc 
+:ns:Protogenes *prwtogenh s_tos  
+:ns:Protolaus *prwtola os_ou masc 
+:ns:Protophanes *prwtofan hs_eos masc 
+:ns:Protophanes *prwtofan hs_ou masc 
+:ns:Protophanes *prwtofanh s_tos  
+:ns:Prumnis *proumn is_idos fem 
+:ns:Prusias *prousi as_antos masc  stem_acc
+:ns:Prusias *prousi hs_ou masc doric
+:ns:Prymnessus *prumnhss os_ou masc  suff_acc
+:ns:Psilax *yila c_kos masc 
+:ns:Psiphaean *yifai os_h_on 
+:ns:Psophidian *ywfid os_h_on 
+:ns:Psophis *ywf is_idos fem 
+:ns:Pteras *pter hs_ou masc doric
+:ns:Pteras *pter hs_ou masc doric suff_acc
+:ns:Ptolederma *ptolederm a_hs fem 
+:ns:Ptolichus *ptolix os_ou masc 
+:ns:Ptoliporthes *ptoliporq hs_eos masc 
+:ns:Ptoliporthes *ptoliporq hs_ou masc 
+:ns:Ptolis *ptol is_ews fem 
+:ns:Ptolis *ptol is_idos fem 
+:ns:Pulytion *poulutiw n_nos masc 
+:ns:Pylenor *pulhn wr_oros masc 
+:ns:Pylenor *pulhnor hs_ou masc 
+:ns:Pyleus *pul eus_ews masc 
+:ns:Pyleus *pule os_ou masc 
+:ns:Pyraea *purai a_hs fem 
+:ns:Pyraea *purai h_hs fem doric
+:ns:Pyrcon *purk wn_onos masc 
+:ns:Pyrcon *purk wn_ontos masc 
+:ns:Pyrcon *purkw n_nos masc 
+:ns:Pyrcon *purkw n_ntos masc 
+:ns:Pyrcon *purkwn hs_ou masc 
+:ns:Pyrgeus *purg eus_ews masc 
+:ns:Pyrgeus *purge os_ou masc 
+:ns:Pyrgo *purg w_oos fem  suff_acc
+:ns:Pyronian *purwni eus_ews masc 
+:ns:Pyronian *purwni os_h_on 
+:ns:Pyrrhias *purri as_antos masc 
+:ns:Pyrrhias *purri hs_ou masc doric
+:ns:Pyrrhichus *purrix os_ou masc 
+:ns:Pytharatus *puqarat os_ou masc 
+:ns:Pytharchus *puqarx os_ou masc 
+:ns:Pythocles *puqo klehs_kleous masc
+:ns:Pythocles *puqokl hs_ou masc  suff_acc
+:ns:Pythocritus *puqokrit os_ou masc 
+:ns:Pythodotus *puqodot os_ou masc 
+:ns:Pyttalus *puttal os_ou masc 
+:ns:Pyttius *putti os_ou masc  stem_acc
+:ns:Rhacius *(raki os_ou masc 
+:ns:Rhacotis *(rakwt is_ews fem  stem_acc
+:ns:Rhacotis *(rakwt is_idos fem  stem_acc
+:ns:Rhadine *(radin h_hs fem 
+:ns:Rhaeteae *(raite h_hs fem pl
+:ns:Rhaeteae *(raite hs_ou masc pl
+:ns:Rhantes *(rant hs_eos masc 
+:ns:Rhantes *(rant hs_ou masc 
+:ns:Rhantes *(ranth s_tos  
+:ns:Rhegnidas *(rhgnid hs_ou masc doric
+:ns:Rheunus *(reun os_ou masc 
+:ns:Rhexibius *(rhcibi os_ou masc 
+:ns:Rhianus *(rian os_ou masc  suff_acc
+:ns:Rhoeus *(roi os_ou masc 
+:ns:Rhopalus *(ropal os_ou masc 
+:ns:Sabbe *sabb h_hs fem 
+:ns:Sacadas *sakad as_antos masc 
+:ns:Sacadas *sakad as_antos masc  stem_acc
+:ns:Sacadas *sakad hs_ou masc doric
+:ns:Sacaea *sakai h_hs fem doric
+:ns:Saesara *saisar a_hs fem 
+:ns:Saesara *saisar h_hs fem doric
+:ns:Saloe *salo h_hs fem 
+:ns:Samicum *samik os_ou neut  suff_acc
+:ns:Samolas *samol as_antos masc 
+:ns:Samolas *samol hs_ou masc doric
+:ns:Sandion *sandi wn_onos masc 
+:ns:Sandion *sandio n_nos masc 
+:ns:Saon *sa wn_onos masc 
+:ns:Saon *sa wn_ontos masc 
+:ns:Saon *saw n_nos masc 
+:ns:Saon *saw n_ntos masc 
+:ns:Saon *sawn hs_ou masc 
+:ns:Sapaeans *sapai os_h_on 
+:ns:Sarapammon *sarapamm wn_onos masc 
+:ns:Sarapammon *sarapamm wn_ontos masc 
+:ns:Sarapammon *sarapammw n_nos masc 
+:ns:Sarapammon *sarapammw n_ntos masc 
+:ns:Sarapion *sarapiw n_nos masc 
+:ns:Sarapion *sarapiwn hs_ou masc 
+:ns:Sardes *sard hs_ou masc 
+:ns:Sardus *sard os_ou masc 
+:ns:Saron *sar wn_onos masc 
+:ns:Saron *sar wn_ontos masc 
+:ns:Saron *sarw n_nos masc 
+:ns:Saron *sarw n_ntos masc 
+:ns:Saron *sarwn hs_ou masc 
+:ns:Saronia *sarwni a_hs fem 
+:ns:Saronia *sarwni h_hs fem doric
+:ns:Saronian *sarwn os_h_on 
+:ns:Saronian *sarwni eus_ews masc 
+:ns:Saronian *sarwni os_h_on 
+:ns:Satrap *satrap hs_ou masc 
+:ns:Saunium *sauni os_ou neut 
+:ns:Saurus *saur os_ou masc 
+:ns:Scambonidae *skambwnid h_hs fem pl
+:ns:Scambonidae *skambwnid hs_ou masc pl
+:ns:Scedasus *skedas os_ou masc 
+:ns:Scephrus *skefr os_ou masc 
+:ns:Schoeneus *sxoin eus_ews masc  suff_acc
+:ns:Sciadis *skiad is_ews fem 
+:ns:Sciadis *skiad is_idos fem  stem_acc
+:ns:Scias *ski as_antos masc  suff_acc
+:ns:Scias *ski hs_ou masc doric suff_acc
+:ns:Scias *skia s_tos   suff_acc
+:ns:Sciathis *skiaq is_ews fem 
+:ns:Sciathis *skiaq is_idos fem 
+:ns:Scieria *skierei a_hs fem 
+:ns:Scirtonium *skirtwni os_ou neut 
+:ns:Scius *ski os_ou masc 
+:ns:Scolitas *skoleit as_antos masc 
+:ns:Scolitas *skoleit hs_ou masc doric
+:ns:Scopas *skop as_antos masc 
+:ns:Scopas *skop hs_ou masc doric
+:ns:Scopas *skop hs_ou masc doric suff_acc
+:ns:Scopas *skopa s_tos  
+:ns:Scope *skop h_hs fem 
+:ns:Scope *skop h_hs fem  suff_acc
+:ns:Scopius *skopi os_ou masc 
+:ns:Scotane *skotan h_hs fem 
+:ns:Scotitas *skotit as_antos masc 
+:ns:Scotitas *skotit as_antos masc  stem_acc
+:ns:Scotitas *skotit hs_ou masc doric
+:ns:Scyllaeum *skullai os_ou neut 
+:ns:Scyllaeum *skullai os_ou neut  stem_acc
+:ns:Scyllis *skull is_ews fem 
+:ns:Scyllis *skull is_idos fem 
+:ns:Scyppium *skuppi os_ou neut 
+:ns:Scyras *skur as_antos masc 
+:ns:Scyras *skur hs_ou masc doric
+:ns:Scyras *skura s_tos  
+:ns:Sebrium *sebri os_ou neut 
+:ns:Sebrus *sebr os_ou masc  suff_acc
+:ns:Seleadas *selead hs_ou masc doric
+:ns:Selemnus *selemn os_ou masc 
+:ns:Seleucia *seleukei a_hs fem 
+:ns:Seleucus *seleuk os_ou masc 
+:ns:Sellasia *sellasi a_hs fem 
+:ns:Sellasia *sellasi h_hs fem doric
+:ns:Sepia *shpi a_hs fem 
+:ns:Sepia *shpi h_hs fem doric
+:ns:Serambus *shramb os_ou masc 
+:ns:Seria *shri a_hs fem 
+:ns:Seria *shri h_hs fem doric
+:ns:Sidectus *sidekt os_ou masc 
+:ns:Silanion *silani wn_onos masc 
+:ns:Silanion *silani wn_ontos masc 
+:ns:Silanion *silaniw n_nos masc 
+:ns:Silanion *silaniw n_ntos masc 
+:ns:Sillus *sill os_ou masc 
+:ns:Simangelus *simaggel os_ou masc 
+:ns:Simylus *simul os_ou masc  stem_acc
+:ns:Sipte *sipt h_hs fem 
+:ns:Sirae *seir h_hs fem pl
+:ns:Sirae *seir hs_ou masc pl
+:ns:Sithnidian *siqnid eus_ews masc 
+:ns:Sithnidian *siqnid os_h_on 
+:ns:Smenus *smhn os_ou masc 
+:ns:Smilis *smil is_idos fem 
+:ns:Sodamas *swdam as_antos masc 
+:ns:Sodamas *swdam as_antos masc  stem_acc
+:ns:Sodamas *swdam hs_ou masc doric
+:ns:Sogdius *sogdi os_ou masc 
+:ns:Somis *swm is_ews fem 
+:ns:Somis *swm is_idos fem 
+:ns:Sophius *sofi os_ou masc 
+:ns:Sophroniscus *swfronisk os_ou masc 
+:ns:Soron *sor wn_onos masc 
+:ns:Soron *sor wn_ontos masc 
+:ns:Soron *sorw n_nos masc 
+:ns:Soron *sorw n_ntos masc 
+:ns:Soron *sorwn hs_ou masc 
+:ns:Sosigenes *swsigen hs_eos masc 
+:ns:Sosipolis *swsipol is_ews fem 
+:ns:Sotades *swtad hs_eos masc 
+:ns:Sotades *swtad hs_ou masc 
+:ns:Sotades *swtadh s_tos  
+:ns:Soter *swthr hs_ou masc  stem_acc
+:ns:Sous *so os_ou masc 
+:ns:Spartan *spart os_h_on 
+:ns:Spartans *spart os_h_on 
+:ns:Sparton *spart wn_onos masc 
+:ns:Sparton *spart wn_ontos masc 
+:ns:Sparton *spartw n_nos masc 
+:ns:Sparton *spartw n_ntos masc 
+:ns:Sparton *spartwn hs_ou masc 
+:ns:Sphacteria *sfakthri a_hs fem 
+:ns:Sphacteria *sfakthri h_hs fem doric
+:ns:Sphaeria *sfairi a_hs fem 
+:ns:Sphaeria *sfairi h_hs fem doric
+:ns:Sphaerus *sfair os_ou masc 
+:ns:Sphettus *sfhtt os_ou masc 
+:ns:Sphragidium *sfragidi os_ou neut 
+:ns:Spintharus *spinqar os_ou masc 
+:ns:Stadieus *stadi eus_ews masc 
+:ns:Stadieus *stadie os_ou masc 
+:ns:Stemmatian *stemmati os_h_on 
+:ns:Stenyclerian *stenuklhri os_h_on 
+:ns:Steunos *steuno s_tos  
+:ns:Sthenias *sqeni hs_ou masc doric
+:ns:Sthennis *sqenn is_idos fem 
+:ns:Stirian *stir eus_ews masc 
+:ns:Stirian *stir os_h_on 
+:ns:Stiris *stir is_ews fem 
+:ns:Stiris *stir is_ews fem  suff_acc
+:ns:Stomium *stomi os_ou neut 
+:ns:Stomius *stomi os_ou masc 
+:ns:Strongylion *strogguli wn_onos masc 
+:ns:Strongylion *strogguli wn_ontos masc 
+:ns:Strongylion *strogguliw n_nos masc 
+:ns:Strongylion *strogguliw n_ntos masc 
+:ns:Sulpicius *soulpiki os_ou masc 
+:ns:Sumateus *soumat eus_ews masc 
+:ns:Sumateus *soumate os_ou masc 
+:ns:Sumatia *soumati a_hs fem 
+:ns:Sumatia *soumati h_hs fem doric
+:ns:Syadras *suadr as_antos masc  stem_acc
+:ns:Syadras *suadr hs_ou masc doric
+:ns:Sybariades *subariad hs_eos masc 
+:ns:Sybariades *subariad hs_ou masc 
+:ns:Sybariades *subariadh s_tos  
+:ns:Sybotas *subot as_antos masc 
+:ns:Sybotas *subot as_antos masc  stem_acc
+:ns:Sybotas *subot hs_ou masc doric
+:ns:Syene *suhn h_hs fem 
+:ns:Syllis *sull is_idos fem  suff_acc
+:ns:Symbola *sumbol a_hs fem 
+:ns:Symmachus *summax os_ou masc 
+:ns:Sympathes *sumpaq hs_eos masc  suff_acc
+:ns:Sympathes *sumpaq hs_ou masc  suff_acc
+:ns:Syrnus *surn os_ou masc 
+:ns:Sythas *suq as_antos masc 
+:ns:Sythas *suq hs_ou masc doric
+:ns:Sythas *suqa s_tos  
+:ns:Taenarian *tainari os_h_on 
+:ns:Taletum *talet os_ou neut  suff_acc
+:ns:Talus *tal os_ou masc 
+:ns:Tanaus *tana os_ou masc 
+:ns:Taraxippus *taracipp os_ou masc 
+:ns:Tarrha *tarr a_hs fem 
+:ns:Tarrha *tarr h_hs fem doric
+:ns:Taurians *tauri os_h_on 
+:ns:Tauric *taurik hs_ou masc  suff_acc
+:ns:Taurius *tauri os_ou masc 
+:ns:Tauropolis *tauropol is_ews fem 
+:ns:Taurosthenes *taurosqen hs_eos masc 
+:ns:Taxilus *tacil os_ou masc 
+:ns:Taxilus *tacil os_ou masc  stem_acc
+:ns:Teaspis *teasp is_idos fem 
+:ns:Tectaeus *tektai os_ou masc 
+:ns:Tectaeus *tektai os_ou masc  stem_acc
+:ns:Telchinian *telxini eus_ews masc 
+:ns:Telchinian *telxini os_h_on 
+:ns:Telchinians *telxini os_h_on 
+:ns:Teledamus *teledam os_ou masc 
+:ns:Telegone *thlegon h_hs fem 
+:ns:Telephanes *thlefan hs_eos masc 
+:ns:Telesphorus *telesfor os_ou masc  stem_acc
+:ns:Telete *telet h_hs fem  suff_acc
+:ns:Tellon *tellw n_nos masc 
+:ns:Tellon *tellwn hs_ou masc 
+:ns:Telondes *thlwnd hs_eos masc 
+:ns:Telondes *thlwnd hs_ou masc 
+:ns:Telondes *thlwndh s_tos  
+:ns:Telycrates *thlukrat hs_eos masc 
+:ns:Temenium *thmeni os_ou neut 
+:ns:Temnus *thmn os_ou masc 
+:ns:Ten *ten hs_ou masc  suff_acc
+:ns:Tenea *tene a_hs fem 
+:ns:Tenea *tene h_hs fem doric
+:ns:Tenerus *thner os_ou masc 
+:ns:Tenians *tenei os_h_on  stem_acc
+:ns:Tennes *tenn hs_eos masc 
+:ns:Tennes *tenn hs_ou masc 
+:ns:Tennes *tennh s_tos  
+:ns:Termilae *termil h_hs fem pl
+:ns:Termilae *termil hs_ou masc pl
+:ns:Teuthis *teuq is_ews fem 
+:ns:Teuthis *teuq is_idos fem 
+:ns:Teuthrone *teuqrwn h_hs fem 
+:ns:Thalamae *qalam h_hs fem pl
+:ns:Thalamae *qalam h_hs fem pl stem_acc
+:ns:Thalamae *qalam hs_ou masc pl
+:ns:Thalamae *qalam hs_ou masc pl stem_acc
+:ns:Thales *qalh s_tos  
+:ns:Thalia *qali h_hs fem doric
+:ns:Thaliades *qaliad hs_eos masc 
+:ns:Thaliades *qaliad hs_ou masc 
+:ns:Thallo *qall w_oos fem  suff_acc
+:ns:Tharypas *qarup hs_ou masc doric
+:ns:Tharyx *qaru c_kos masc 
+:ns:Thaumasius *qaumasi os_ou masc 
+:ns:Theantus *qeant os_ou masc 
+:ns:Theares *qear hs_eos masc 
+:ns:Theares *qear hs_ou masc 
+:ns:Theares *qearh s_tos  
+:ns:Thearian *qear eus_ews masc 
+:ns:Thearian *qear os_h_on 
+:ns:Thearian *qeari os_h_on 
+:ns:Thearidas *qearid hs_ou masc doric
+:ns:Theecoleon *qehkolew n_nos masc  stem_acc
+:ns:Thelpusa *qelpous a_hs fem 
+:ns:Thelpusa *qelpous h_hs fem doric
+:ns:Themisonium *qemiswni os_ou neut 
+:ns:Theochrestus *qeoxrhst os_ou masc 
+:ns:Theocles *qeo klehs_kleous masc
+:ns:Theocles *qeokl hs_ou masc 
+:ns:Theoclus *qeokl os_ou masc 
+:ns:Theocosmus *qeokosm os_ou masc 
+:ns:Theodamus *qeodam os_ou masc 
+:ns:Theodectes *qeodekt hs_ou masc 
+:ns:Theognetus *qeognht os_ou masc 
+:ns:Theogonus *qeogon os_ou masc 
+:ns:Theomelida *qeomhlid a_hs fem 
+:ns:Theomelida *qeomhlid h_hs fem doric
+:ns:Theophrastus *qeofrast os_ou masc 
+:ns:Theopropus *qeoprop os_ou masc 
+:ns:Theoxenia *qeoceni a_hs fem 
+:ns:Theoxenus *qeocen os_ou masc 
+:ns:Theraephone *qhraifon h_hs fem 
+:ns:Theritas *qhrit as_antos masc 
+:ns:Theritas *qhrit as_antos masc  stem_acc
+:ns:Theritas *qhrit hs_ou masc doric
+:ns:Thermius *qermi os_ou masc 
+:ns:Thero *qhr w_oos fem  suff_acc
+:ns:Theronice *qhronik h_hs fem 
+:ns:Thersilium *qersili os_ou neut 
+:ns:Thersius *qersi os_ou masc 
+:ns:Thesmia *qesmi a_hs fem 
+:ns:Thesmia *qesmi h_hs fem doric
+:ns:Thespia *qespi a_hs fem 
+:ns:Thespia *qespi a_hs fem  suff_acc
+:ns:Thespia *qespi h_hs fem doric suff_acc
+:ns:Thespiae *qespi h_hs fem pl suff_acc
+:ns:Thespiae *qespi hs_ou masc pl suff_acc
+:ns:Thespian *qespi os_h_on 
+:ns:Thespian *qespi os_h_on  suff_acc
+:ns:Thespian *qespia n_nos masc 
+:ns:Thespian *qespia n_ntos masc 
+:ns:Thespians *qespi os_h_on 
+:ns:Thespians *qespi os_h_on  suff_acc
+:ns:Thesprotia *qesprwti a_hs fem 
+:ns:Thesprotia *qesprwti h_hs fem doric
+:ns:Thesprotian *qesprwt os_h_on 
+:ns:Thesprotian *qesprwti os_h_on 
+:ns:Thessalian *qessal os_h_on  suff_acc
+:ns:Thessalonice *qessalonik h_hs fem 
+:ns:Thisoa *qeiso a_hs fem 
+:ns:Thisoa *qeiso h_hs fem doric
+:ns:Thocnia *qwkni h_hs fem doric
+:ns:Thocnus *qwkn os_ou masc 
+:ns:Thorsus *qors os_ou masc 
+:ns:Thrasis *qras is_idos fem 
+:ns:Thrasyanor *qrasuan wr_oros masc 
+:ns:Thuria *qouri a_hs fem 
+:ns:Thuria *qouri h_hs fem doric
+:ns:Thurian *qouri eus_ews masc 
+:ns:Thurian *qouri os_h_on 
+:ns:Thurimachus *qourimax os_ou masc 
+:ns:Thurius *qouri os_ou masc 
+:ns:Thurius *qouriou s_tos  
+:ns:Thyia *qui h_hs fem doric
+:ns:Thymilus *qumil os_ou masc  stem_acc
+:ns:Thyraeum *qurai os_ou neut 
+:ns:Thyraeum *qurai os_ou neut  stem_acc
+:ns:Thyraeus *qurai os_ou masc 
+:ns:Thyraeus *qurai os_ou masc  stem_acc
+:ns:Thyreatis *qureat is_ews fem 
+:ns:Thyrxeus *qurc eus_ews masc 
+:ns:Thyrxeus *qurce os_ou masc 
+:ns:Tiasa *tias a_hs fem 
+:ns:Tilphusa *tilfous a_hs fem 
+:ns:Tilphusa *tilfous h_hs fem doric
+:ns:Tilphusius *tilfousi os_ou masc 
+:ns:Timaenetus *timainet os_ou masc 
+:ns:Timalcus *timalk os_ou masc 
+:ns:Timarchides *timarxid hs_ou masc 
+:ns:Timarchus *timarx os_ou masc 
+:ns:Timasitheus *timasiq eus_ews masc 
+:ns:Timasitheus *timasiqe os_ou masc 
+:ns:Timeas *time hs_ou masc doric
+:ns:Timocles *timo klehs_kleous masc
+:ns:Timoclidas *timokleid hs_ou masc doric
+:ns:Timolaus *timola os_ou masc 
+:ns:Timoptolis *timoptol is_ews fem 
+:ns:Timoptolis *timoptol is_idos fem 
+:ns:Timosthenes *timosqen hs_eos masc 
+:ns:Tipha *tif a_hs fem 
+:ns:Tipha *tif h_hs fem doric
+:ns:Tisagoras *tisagor hs_ou masc doric
+:ns:Tisicrates *tisikrat hs_eos masc 
+:ns:Tissaphernes *tissafern hs_eos masc 
+:ns:Tissaphernes *tissafern hs_ou masc 
+:ns:Titan *tit os_h_on 
+:ns:Titans *tit os_h_on 
+:ns:Titaresius *titarhsi os_ou masc 
+:ns:Tithoreans *tiqore os_h_on 
+:ns:Tithraustes *tiqraust hs_eos masc 
+:ns:Tithraustes *tiqraust hs_ou masc 
+:ns:Tithrone *tiqrwn h_hs fem  suff_acc
+:ns:Tithronium *tiqrwni os_ou neut 
+:ns:Titthium *titqi os_ou neut 
+:ns:Titus *tit os_ou masc 
+:ns:Tleptolemus *tlhptolem os_ou masc 
+:ns:Tlesias *tlhsi as_antos masc 
+:ns:Tlesias *tlhsi hs_ou masc doric
+:ns:Tlesimenes *tlhsimen hs_eos masc 
+:ns:Trachis *trax is_ews fem  suff_acc
+:ns:Tragus *trag os_ou masc 
+:ns:Trapezeus *trapez eus_ews masc  suff_acc
+:ns:Trapezuntians *trapezounti os_h_on 
+:ns:Tretus *trht os_ou masc  suff_acc
+:ns:Triclaria *triklari a_hs fem 
+:ns:Triclaria *triklari h_hs fem doric
+:ns:Tricolonus *trikolwn os_ou masc 
+:ns:Tricolonus *trikolwnou s_tos  
+:ns:Tricrana *trikran a_hs fem 
+:ns:Trinasus *trinas os_ou masc  suff_acc
+:ns:Triopas *triop as_antos masc 
+:ns:Triopas *triop as_antos masc  stem_acc
+:ns:Triopas *triop hs_ou masc doric
+:ns:Triphylia *trifuli a_hs fem 
+:ns:Triphylia *trifuli h_hs fem doric
+:ns:Triphylus *triful os_ou masc 
+:ns:Tripolis *tripol is_ews fem 
+:ns:Trisaules *trisaul hs_eos masc 
+:ns:Trisaules *trisaul hs_ou masc 
+:ns:Trisaules *trisaulh s_tos  
+:ns:Tritaean *tritai eus_ews masc 
+:ns:Tritaean *tritai eus_ews masc  suff_acc
+:ns:Tritaean *tritai os_h_on 
+:ns:Tritaeus *tritai os_ou masc 
+:ns:Tritia *tritei a_hs fem 
+:ns:Tritia *tritei h_hs fem doric
+:ns:Tritonia *tritwni a_hs fem 
+:ns:Tritonia *tritwni h_hs fem doric
+:ns:Tritonian *tritwni eus_ews masc 
+:ns:Tritonian *tritwni os_h_on 
+:ns:Tritonis *tritwn is_ews fem  suff_acc
+:ns:Trochilus *troxil os_ou masc  stem_acc
+:ns:Tronis *trwn is_ews fem  suff_acc
+:ns:Tronis *trwn is_idos fem  suff_acc
+:ns:Tropaea *tropai a_hs fem 
+:ns:Tropaean *tropai os_h_on 
+:ns:Trygon *trug wn_onos masc  suff_acc
+:ns:Trygon *trugo n_nos masc  stem_acc
+:ns:Trygon *trugon hs_ou masc 
+:ns:Tuthoa *touqo a_hs fem 
+:ns:Tuthoa *touqo h_hs fem doric
+:ns:Typaeum *tupai os_ou neut  stem_acc
+:ns:Typhon *tuf wn_onos masc 
+:ns:Typhon *tuf wn_ontos masc 
+:ns:Typhon *tufw n_nos masc 
+:ns:Typhon *tufw n_ntos masc 
+:ns:Tyrbe *turb h_hs fem 
+:ns:Tyronidas *turwnid hs_ou masc doric
+:ns:Tyrtaeus *turtai os_ou masc 
+:ns:Tyrtaeus *turtai os_ou masc  stem_acc
+:ns:Xenias *ceni as_antos masc 
+:ns:Xenias *ceni as_antos masc  stem_acc
+:ns:Xenias *ceni hs_ou masc doric
+:ns:Xenius *ceni os_ou masc 
+:ns:Xenocles *ceno klehs_kleous masc
+:ns:Xenocrates *cenokrat hs_eos masc 
+:ns:Xenocritus *cenokrit os_ou masc 
+:ns:Xenodicus *cenodik os_ou masc 
+:ns:Xenodocus *cenodok os_ou masc  stem_acc
+:ns:Xenombrotus *cenombrot os_ou masc 
+:ns:Xenon *cen wn_onos masc 
+:ns:Xenon *cen wn_ontos masc 
+:ns:Xenon *cenw n_nos masc 
+:ns:Xenon *cenw n_ntos masc 
+:ns:Xenon *cenwn hs_ou masc 
+:ns:Xenophanes *cenofan hs_eos masc 
+:ns:Xenophilus *cenofil os_ou masc 
+:ns:Xystus *cust os_ou masc  suff_acc
+:ns:Zarax *zara c_kos masc 
+:ns:Zarax *zara c_ktos masc 
+:ns:Zephyrium *zefuri os_ou neut 
+:ns:Zeugma *zeugm a_hs fem 
+:ns:Zeuxippus *zeucipp os_ou masc 
+:ns:Zoeteus *zoit eus_ews masc 
+:ns:Zoetia *zoiti a_hs fem 
+:ns:Zoetia *zoiti h_hs fem doric
+:ns:Zoetium *zoiti os_ou neut 
+:ns:Zotes *zwt hs_ou masc 
+:ns:Zypoetes *zupoit hs_ou masc 

@@ -1,0 +1,34 @@
+o/-w pres ind act parad_form
+o/-omai pres ind mp parad_form
+w=n ww_pr pres act inf  
+ou=n ww_pr pres act inf  
+ou=sqai ww_pr pres mp inf  
+w=sqai ww_pr pres mp inf  
+w@pr_ind_act ww_pr pres ind act
+o@pr_ind_act ww_pr pres ind act
+w@imp_ind_a ww_pr imperf ind act
+o@imp_ind_a ww_pr imperf ind act
+w@pr_sub_act ww_pr pres subj act
+o@pr_sub_act ww_pr pres subj act
+w@pr_opt_act ww_pr  pres opt act
+w/|h ww_pr pres opt act 3rd sg
+o@pr_opt_act ww_pr pres opt act
+w@ihn_opt ww_pr pres opt act
+o@ihn_opt ww_pr pres opt act
+w@pr_imp_act ww_pr pres imperat act
+o@pr_imp_act ww_pr pres imperat act
+w-@wn_ousa_on ww_pr pres part act needs_acc epic
+o@wn_ousa_on ww_pr pres part act needs_acc
+w@pr_ind_mp ww_pr pres ind mp
+o@pr_ind_mp ww_pr pres ind mp
+w@imp_ind_mp ww_pr imperf ind mp
+o@imp_ind_mp ww_pr imperf ind mp
+w@pr_sub_mp ww_pr pres subj mp
+o@pr_sub_mp ww_pr pres subj mp
+o@imhn_opt ww_pr pres opt mp
+w@pr_imp_mp ww_pr pres imperat mp
+o@pr_imp_mp ww_pr pres imperat mp
+women@adj1 ww_pr pres part mp
+oomen@adj1 ww_pr pres part mp
+o@iterat_act ww_pr imperf ind act 
+o@iterat_mp ww_pr imperf ind mp

@@ -1,0 +1,11 @@
+pt w_stem 
+y reg_fut 
+y aor1 
+f perf_act 
+* perfp_p  
+fq aor_pass 
+f aor2_pass 
+b aor2_pass 
+p aor2_pass 
+y fut_perf 
+pt os_on

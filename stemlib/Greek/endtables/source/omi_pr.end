@@ -1,0 +1,30 @@
+o/nai omi_pr pres act inf  
+o@ath_inf_act omi_pr pres inf act needs_acc
+ou=nai omi_pr pres inf act epic
+osqai omi_pr pres mp inf  
+w@ath_act_1 omi_pr pres ind act sg
+o/twsan omi_pr pres imperat act 3rd pl attic
+o-@ath_act_1 omi_pr pres ind act  not sg
+ou@ath_act_2 omi_pr imperf ind act sg
+w omi_pr 3rd sg imperf ind act epic 
+w omi_pr 2nd sg pres imperat mp epic
+oi omi_pr 2nd sg pres imperat act poetic
+w@ath_imp_a omi_pr 2nd sg pres imperat act epic
+o@ath_act_2 omi_pr imperf ind act  not sg
+o@pr_sub_act omi_pr pres subj act  not 2nd 3rd sg
+w=|s omi_pr pres act subj sing pers2  
+w=| omi_pr pres act subj sing pers3  
+o@ihn_opt omi_pr pres act opt needs_acc
+w/|h omi_pr 3rd sg pres opt act
+oi=sqa omi_pr 2nd sg pres ind act epic
+ou omi_pr pres act imperat sing pers2  
+w@ath_imp_a omi_pr 2nd sg pres imperat act epic 
+w@ath_imp_a omi_pr pres imperat act 2nd sg
+o@ath_imp_a omi_pr pres imperat act not 2nd sg
+o@s_sa_n omi_pr pres part act needs_acc
+o@ath_mp_1 omi_pr pres ind mp 
+o@ath_mp_2 omi_pr imperf ind mp 
+o@pr_sub_mp omi_pr pres subj mp 
+o@imhn_opt omi_pr pres opt mp suff_acc
+o@ath_imp_mp omi_pr pres imperat mp
+omen@adj1 omi_pr pres part mp

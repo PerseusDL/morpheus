@@ -1,0 +1,22 @@
+ou=nai omi_aor aor act inf  
+o@ath_inf_act omi_aor aor inf act epic needs_acc
+o/sqai omi_aor aor mid inf  
+o@pr_sub_act omi_aor aor subj act needs_acc  not 2nd 3rd sg
+w=|s omi_aor aor act subj sing pers2  
+w=| omi_aor aor act subj sing pers3  
+w=|si omi_aor aor act subj sing pers3  epic
+w-@pr_sub_act omi_aor aor subj act epic
+o@pr_sub_mp omi_aor aor subj mid needs_acc  not 2nd sg
+w=| omi_aor aor mid subj sing pers2  
+o@pr_opt_mp omi_aor aor opt mid 
+@pr_opt_mp omi_aor aor opt mid 3rd sg attic
+o@ihn_opt omi_aor aor act opt needs_acc
+os omi_aor aor act imperat sing pers2  
+o/twsan omi_aor aor imperat act 3rd pl attic
+o@ath_imp_a omi_aor aor imperat act  not 2nd sg
+ou omi_aor aor mid imperat sing pers2  
+o@ath_imp_mp omi_aor aor imperat mid  not 2nd sg
+o@s_sa_n omi_aor aor act part needs_acc
+omen@adj1 omi_aor aor part mid
+o@ath_act_2 omi_aor aor act ind  not sg
+o@ath_mp_2 omi_aor aor mid ind

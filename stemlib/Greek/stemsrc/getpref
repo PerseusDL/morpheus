@@ -1,0 +1,11 @@
+echo "dus-" > /tmp/$$pat
+echo "dus_prev" >> /tmp/$$pat
+echo "a)-" >> /tmp/$$pat
+echo "a_priv" >> /tmp/$$pat
+echo "eu)-" >> /tmp/$$pat
+echo "e)u-" >> /tmp/$$pat
+echo ":no:" > /tmp/$$noms
+echo ":aj:" >> /tmp/$$noms
+echo "a_copul" > /tmp/$$skip
+cat nom0[1-6] | fgrep -f /tmp/$$pat | fgrep -f /tmp/$$noms | fgrep -v -f /tmp/$$skip | stripref | sort +1d > /tmp/prefs.1
+rm -f /tmp/$$pat /tmp/$$noms /tmp/$$skip

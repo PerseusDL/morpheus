@@ -1,0 +1,19 @@
+@imp_ind_a aor2 aor act ind
+esk@imp_ind_a aor2 aor act ind iterative epic ionic
+@imp_ind_mp aor2 aor mid ind
+esk@imp_ind_mp aor2 aor mid ind iterative epic ionic
+e@pr_inf_act aor2 aor act inf 
+en aor2 aor inf act doric needs_acc
+@pr_inf_ath aor2 aor inf act epic
+@pr_inf_mp aor2 aor mid inf needs_acc
+@pr_sub_act aor2 aor subj act
+@pr_sub_mp aor2 aor subj mp
+@pr_opt_act aor2 aor opt act
+@pr_opt_mp aor2 aor opt mid
+o@ihn_opt aor2 aor opt act poetic
+@pr_imp_act aor2 aor imperat act
+@pr_imp_mp aor2 aor imperat mid  not 2nd sg
+eo aor2 aor mid imperat sing 2nd attic ionic   needs_acc  
+eo aor2 aor mid imperat sing 2nd     not attic
+@wn_ousa_on aor2 aor act part needs_acc
+omen@adj1 aor2 aor mid part

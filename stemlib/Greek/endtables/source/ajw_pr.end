@@ -1,0 +1,21 @@
+a/-w pres ind act 1st sg  parad_form
+a/-omai pres ind mp 1st sg  parad_form
+aj@pr_inf_act ajw_pr pres act inf
+h/menai ajw_pr pres inf act epic
+aj@pr_inf_mp ajw_pr pres mp inf
+aj@pr_ind_act ajw_pr pres act ind
+aj@pr_ind_mp ajw_pr pres mp ind
+aj@wn_ousa_on ajw_pr pres act part needs_acc
+ajomen@adj1 ajw_pr pres mp part
+aj@pr_sub_mp ajw_pr pres mp subj
+aj@pr_sub_act ajw_pr pres act subj
+aj@pr_opt_act ajw_pr pres act opt
+aj@ihn_opt ajw_pr pres act opt
+aj@imen_opt ajw_pr pres opt act needs_acc
+aj@pr_opt_mp ajw_pr pres mp opt
+aj@imp_ind_a ajw_pr imperf ind act
+aj-e@iterat_act ajw_pr imperf ind act
+aj@imp_ind_mp ajw_pr imperf ind mp
+aj-e@iterat_mp ajw_pr imperf ind mp 
+aj@pr_imp_act ajw_pr pres imperat act
+aj@pr_imp_mp ajw_pr pres imperat mp

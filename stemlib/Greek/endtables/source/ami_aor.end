@@ -1,0 +1,24 @@
+h=nai ami_aor aor act inf  
+a@ath_inf_act ami_aor aor inf act epic needs_acc
+h@ath_inf_act ami_aor aor inf act epic needs_acc
+asqai ami_aor aor mid inf  stem_acc
+e@pr_sub_act ami_aor aor act subj 
+a-@pr_sub_act ami_aor aor ind act poetic
+h-@pr_sub_act ami_aor aor subj act epic
+ei-@pr_sub_act ami_aor aor subj act epic
+e@pr_sub_mp ami_aor aor mid subj 
+a@ihn_opt ami_aor aor act opt needs_acc
+a@imhn_opt ami_aor aor mid opt needs_acc
+hqi ami_aor aor act imperat 2nd sg
+a_qi ami_aor aor act imperat 2nd sg
+h@ath_imp_a ami_aor aor imperat act  not 2nd sg
+h@ath_imp_a ami_aor aor imperat act dual pl  not 3rd pl
+a@ath_imp_a ami_aor aor imperat act 3rd pl
+a@ath_imp_mp ami_aor aor imperat mid
+ao ami_aor 2nd sg aor imperat mid
+amen@adj1 ami_aor aor mid part
+a@s_sa_n ami_aor aor act part needs_acc
+h@ath_act_2 ami_aor aor act ind
+a_@ath_act_2 ami_aor aor act ind doric
+a@iterat_act ami_aor aor ind act
+@a1_ind_mp ami_aor aor mid ind

@@ -1,0 +1,693 @@
+
+#new verbs not in middle liddell
+:le:a)rguro/w
+:de:a)rgu_r ow_denom
+
+:le:au)tarxe/w
+:de:au)tarx ew_denom
+
+:le:barbiti/zw
+:de:barbit izw
+
+:le:e)laio/w
+:de:e)lai ow_denom
+
+:le:i)po/w
+:de:i)_p ow_denom comp_only
+
+:le:e)re/xqw
+:vs:e)rexq w_stem
+
+:le:oi)=da
+:vs:i)s ami_pr pres part act
+
+:le:fullorroe/w
+:de:fullo-ro ew_denom poetic
+
+:le:ktileu/w
+:de:kti_l euw
+
+:le:marmaru/zw
+:de:marmar uzw
+
+:le:mede/wn
+:vs:mede w_stem pres part act
+
+:le:mormoru/zw
+:de:mormor uzw
+
+:le:ni/fw
+:de:neif reg_conj
+;pr
+;fu
+;ao
+
+:le:cenodoke/w
+:de:ceinodok ew_denom poetic
+
+:le:fateu/w
+:de:fat euw comp_only
+
+:le:peparei=n
+:vs:pepar aor2 poetic
+
+#verbs entered for pindar in pass2
+
+:le:a)/gamai
+:de:a)g azw pres mp
+
+#verbs entered for herod
+
+:le:loxhge/w
+:de:loxhg ew_denom
+:dnum	[0]	&3to lead a $lo/xos&, i.e. &3company.&
+
+:le:meqi/hmi
+:vs:memetei perfp_vow ionic
+:vs:memeti perfp_vow ionic
+
+:le:nome/w
+:de:nom ew_denom comp_only
+:vs:h)nomhs aor1 ind double_augment
+:vs:h)nom ew_pr imperf double_augment
+:vs:h)nomhq aor_pass double_augment
+
+:le:qume/w
+:de:qu_m ew_denom comp_only
+
+:le:sakeu/w
+:de:sak euw
+:de:sakk ew_denom
+:dnum	[0]	&3to strain, filter&.
+
+:le:kumbalia/zw
+:de:kumbali azw
+
+#verbs entered to fill out compounds
+
+:le:krani/zw
+:de:kra_n izw comp_only
+
+:le:a)lfito/w
+:de:a)lfit ow_denom comp_only
+
+:le:fau/skw
+:vs:fausk w_stem
+:vs:fwsk w_stem ionic
+
+:le:o)rqoboa/w
+:de:o)rqo-bo aw_denom comp_only
+
+:le:prhno/w
+:de:prhn ow_denom comp_only
+
+:le:a)rgi/zw
+:de:a)rg izw comp_only
+
+:le:sikeli/zw
+:de:sikel izw comp_only
+
+:le:smikri/zw
+:de:smikr izw comp_only
+
+:le:stilbo/w
+:de:stilb ow_denom comp_only
+
+:le:fqate/omai
+:de:fqa^t ew_denom mid pres comp_only
+
+:le:xreio/w
+:de:xrei ow_denom comp_only
+:vs:h)xreiw perfp_vow poetic
+
+:le:eu)stoxe/w
+:de:eu)stox ew_denom comp_only
+
+:le:h)pia/w
+:de:h)pi aw_denom comp_only
+
+:le:kathfe/w
+:de:kathf ew_denom
+
+:le:kathfia/w
+:de:kathfi aw_denom
+
+:le:i)lu/w
+:de:i)lu reg_conj comp_only
+;pr
+;ap
+
+:le:o)ptri/zw
+:de:o)ptr izw comp_only
+
+:le:o)rgani/zw
+:de:o)rgan izw comp_only
+
+:le:ou)lo/w
+:de:ou)l ow_denom comp_only
+
+:le:puppa/zw
+:de:pupp azw comp_only
+
+:le:h)gore/w
+:de:h)gor ew_denom comp_only
+
+:le:a)kratopoie/w
+:de:a)krato-poi ew_denom
+
+:le:eu)ripidi/zw
+:de:eu)ripid izw comp_only
+#add to comp table?
+
+#added for sophocles
+
+:le:kataktei/nw
+:vb:ka/ktanon aor2 1st sg aor ind act apocope rpb:kata/
+
+#added for pausanias
+
+:le:au)topte/w
+:de:au)topt ew_denom
+
+:le:boiwtarxe/w
+:de:boiwtarx ew_denom
+
+:le:kui/skw
+:vs:kui+sk w_stem
+
+:le:e(llanodike/w
+:de:e(lla_no-di^k ew_denom
+
+:le:e)xuro/w
+:de:e)xu^r ow_denom
+
+:le:o(plitodrome/w
+:de:o(pli_to-drom ew_denom
+
+:le:pentaqle/w
+:de:pentaql ew_denom
+
+:le:prokaqarieu/w
+:de:prokaqari euw
+
+:le:e)rinu/w
+:de:e)rinu reg_conj
+;pr
+
+:le:i(ppotrofe/w
+:de:i(ppo-trof ew_denom
+
+#added for aeschylus
+:le:a)ga/zw
+:de:a)g azw pres
+
+:le:ai(mati/zw
+:de:ai(mat izw
+
+:le:a)mala/ptw
+:de:a)mala ptw pres part poetic
+
+:le:a)nqonome/w
+:de:a)nqonom ew_denom
+
+:le:a)strabi/zw
+:de:a)strab izw
+
+:le:a)stugeitone/w
+:de:a)stugeiton ew_denom
+
+:le:brua/zw
+:de:bru azw
+
+:le:dwmato/w
+:de:dwmat ow_denom
+
+:le:delto/w
+:de:delt ow_denom
+
+:le:qetoskuqrwpe/w
+:de:qetoskuqrwp ew_denom
+
+:le:labrostome/w
+:de:labrostom ew_denom
+
+:le:pessonome/w
+:de:pessonom ew_denom
+
+:le:polustome/w
+:de:polustom ew_denom
+
+:le:podouxe/w
+:de:podoux ew_denom
+
+#verbs for plutarch lives
+
+:le:a)sbolo/w
+:de:a)sbol ow_denom
+
+:le:kexlide/nai
+:vs:kexlid perf_act comp_only
+
+:le:duskolai/nw
+:de:duskol ainw
+;pr
+;fu
+
+:le:qaumasto/w
+:de:qaumast ow_denom
+
+:le:karhbare/w
+:de:karhbar ew_denom
+
+:le:klasauxeneu/w
+:de:klasauxen euw
+
+:le:krhti/zw
+:de:krht izw
+
+:le:kroki/zw
+:de:krok izw
+
+:le:lipoqume/w
+:de:lipoqum ew_denom
+
+:le:o(rkiatome/w
+:de:o(rkiatom ew_denom
+
+:le:o(mopaqei=n
+:de:o(mopaq ew_denom
+
+:le:xrewlutei=n
+:de:xrewlut ew_denom
+
+:le:yuxroloute/w
+:de:yuxrolout ew_denom
+
+:le:o)nquleu/w
+:de:o)nqul euw
+
+#verbs added for apollodorus
+
+:le:tartaro/w
+:de:tartar ow_denom
+
+:le:pursofore/w
+:de:pursofor ew_denom
+
+:le:o(plomaxe/w
+:de:o(plomax ew_denom
+
+:le:gnwmone/w
+:de:gnwmon ew_denom comp_only
+
+:le:bohlate/w
+:de:bohlat ew_denom
+
+:le:lafuragwge/w
+:de:lafuragwg ew_denom
+
+:le:katasteri/zw
+:de:kataster izw
+
+:le:a(rmatodrome/w
+:de:a(rmatodrom ew_denom
+
+:le:sunousia/zw
+:de:sunousi azw
+
+:le:o)rneo/w
+:de:o)rne ow_denom
+
+:le:e)gkumone/w
+:de:e)gkumon ew_denom
+
+:le:eu)stoxe/w
+:de:eu)stox ew_denom
+
+:le:pelio/w
+:de:peli ow_denom
+
+:le:gunaikokrate/w
+:de:gunaikokrat ew_denom
+
+:le:summaxe/w
+:de:max ew_denom pb:su/n
+
+:le:cifoulke/w
+:de:cifoulk ew_denom
+
+:le:eu)ploe/w
+:de:eu)plo ew_denom
+
+:le:qanati/zw
+:de:qanat izw comp_only
+
+:le:lafuragwge/w
+:de:lafuragwg ew_denom
+
+:le:podhgei=n
+:de:podhg ew_denom
+
+#words added for lysias
+:le:draska/zein
+:de:drask azw
+
+:le:fruktwreu/w
+:de:fruktwr euw
+
+:le:sitopwle/w
+:de:sitopwl ew_denom
+
+:le:dhmoteu/omai
+:de:dhmot euw
+
+:le:kakonoe/w
+:de:kakono ew_denom
+
+:le:misoponhre/w
+:de:misoponhr ew_denom
+
+#verbs for isocrates
+
+:le:ei(lwteu/w
+:de:ei(lwt euw
+
+:le:skeleteu/w
+:de:skelet euw
+
+:le:a)delfi/zw
+:de:a)delf izw
+
+:le:o)ligoyuxe/w
+:de:o)ligoyux ew_denom
+
+:le:skarifa/omai
+:de:skarif aw_denom
+
+:le:a)dhfage/w
+:de:a)dhfag ew_denom
+
+#verbs added for aeschines
+
+:le:paroine/w
+:de:paroin ew_denom
+:vs:peparw|nhk perf_act rpb:para/
+
+#verbs added for isaeus
+
+:le:ui(opoie/w
+:de:ui(opoi ew_denom
+
+:le:o)stologe/w
+:de:o)stolog ew_denom
+
+:le:o(pologhqe/w
+:de:o(pologhq ew_denom
+
+:le:zeugotrofe/w
+:de:zeugotrof ew_denom
+
+:le:eu)poie/w
+:de:eu)poi ew_denom
+
+#verbs added for andocides
+:le:eu)qarse/w
+:de:eu)qars ew_denom
+
+#hyperides
+:le:nwqreu/omai
+:de:nwqr euw mp
+
+:le:karpeu/w
+:de:karp euw
+
+#hesiod
+:le:qumbore/w
+:de:qumbor ew_denom
+
+#homerica
+:le:fqeiri/zw
+:de:fqeir izw
+
+#Dinarchus
+:le:klima/zw
+:de:klim azw
+
+:le:klimaki/zw
+:de:klimak izw
+
+:le:a)smene/w
+:de:a)smen ew_denom
+
+:le:a)rguri/zw
+:de:a)rgur izw
+
+:le:a)kuro/w
+:de:a)kur ow_denom
+
+:le:eu)hkohe/w
+:de:eu)hko ew_denom
+
+#thucydides
+
+#this *is* there --its the doric of eu)la/zw
+#:le:eu)lacei=n
+#:vs:eu)lac reg_fut doric
+
+:le:proe/xw
+:vb:prou=xon w_stem pres part act neut nom acc sg
+
+#second pass on homer
+:le:o(mostixa/w
+:vs:o(mostixa w_stem
+
+#demosthenes
+:le:a)rxeqewre/w
+:de:a)rxeqewr ew_denom
+
+:le:dusmenai/nw
+:de:dusmen ainw
+
+:le:dwrotele/w
+:de:dwrotel ew_denom
+
+:le:premni/zw
+:de:premn izw
+
+:le:kalistre/w
+:de:kalistr ew_denom
+
+:le:e)llebori/zw
+:de:e)llebor izw
+
+:le:e)mmenete/os
+:aj:e)mmenet verb_adj1
+
+:le:paidotrofe/w
+:de:paidotrof ew_denom
+
+:le:fagedai/nw
+:de:faged ainw
+
+:le:kakaggele/w
+:de:kakaggel ew_denom
+
+:le:parh/kw
+:vs:poqik w_stem doric
+
+:le:dekadi/zw
+:de:dekad izw
+
+:le:a)norqo/w
+:vs:a)nwrqws aor1 ind act attic
+
+#verbs added for xenophon
+
+:le:ai)simo/w
+:de:ai)sim ow_denom
+
+:le:skiro/w
+:de:skir ow_denom
+
+:le:karteru/nw
+:de:karter unw
+
+:le:a)rgoli/zw
+:de:a)rgol izw
+
+#verbs added for aristoph
+#birds
+:le:o)rxipedi/zw
+:de:o)rxiped izw
+
+:le:pippi/zw
+:de:pipp izw
+
+:le:stu/w
+:de:stu_ reg_conj
+;pr
+;pf
+
+:le:mhri/zw
+:de:mhr izw
+
+:le:i)di/w
+:de:i)_di reg_conj
+;ao comp_only
+
+:le:forbeio/w
+:de:forbei ow_denom
+
+:le:a)kolastai/nw
+:de:a)kolast ainw 
+;fu ew_fut
+
+:le:lakwnomane/w
+:de:lakwnoman ew_denom
+
+:le:swkrate/w
+:de:swkrat ew_denom
+
+:le:blima/zw
+:de:blim azw
+
+:le:sibullia/w
+:de:sibull iaw_denom
+
+:le:kobalikeu/w
+:de:kobalik euw
+
+:le:yhni/zw
+:de:yhn izw
+
+:le:pudari/zw
+:de:pudar izw
+
+:le:cifi/zw
+:de:ci^f izw 
+
+:le:krousidhme/w
+:de:krousidhm ew_denom
+
+:le:prwktothre/w
+:de:prwktothr ew_denom
+
+:le:a)patu/llw
+:de:a)pat ullw
+
+:le:tritwni/zw
+:de:tri_twn izw
+
+:le:triakontouti/zw
+:de:triakontout izw
+
+:le:lou/trion
+:no:loutri os_ou neut
+
+#plato
+:le:a)llodoce/w
+:de:a)llodoc ew_denom
+
+:le:a)llotrionome/w
+:de:a)llotrionom ew_denom
+
+:le:sxinduleu/w
+:de:sxindul euw
+
+:le:a)nikma/w
+:de:a)nikm aw_denom
+
+:le:a)nohtai/nw
+:de:a)noht ainw
+;pr
+
+:le:a)nosiourge/w
+:de:a)nosiourg ew_denom
+
+:le:ai)ole/w
+:de:ai)ol ew_denom
+
+:le:ai)wre/w
+:de:ai)wr ew_denom
+
+:le:brenqu/omai
+:de:brenqu reg_conj
+;pr
+:de:brenq unw
+;pr
+
+:le:diaskeuwre/w
+:de:diaskeuwr ew_denom
+
+:le:diatta/w
+:de:diatt aw_denom
+
+:le:dusklhre/w
+:de:dusklhr ew_denom
+
+:le:dusupne/w
+:de:dusupn ew_denom
+
+:le:e(terodoce/w
+:de:e(terodoc ew_denom
+
+:le:i)kma/zw
+:de:i)km azw
+
+:le:e)leuqeria/zw
+:de:e)leuqeri azw
+
+:le:a)ntiologe/w
+:de:a)ntiolog ew_denom
+
+:le:polianome/w
+:de:polianom ew_denom
+
+:le:ei)liggia/w
+:de:ei)ligg iaw_denom
+
+:le:eu)qhmone/w
+:de:eu)qhmon ew_denom
+
+:le:eu)sxhmone/w
+:de:eu)sxhmon ew_denom
+
+:le:filostorge/w
+:de:filostorg ew_denom
+
+:le:filoxrhmone/w
+:de:filoxrhmon ew_denom
+
+:le:h(gemone/w
+:de:h(gemon ew_denom
+
+:le:metewropore/w
+:de:metewropor ew_denom
+
+:le:o(malu/nw
+:de:o(mal unw
+
+:le:o(mopole/w
+:de:o(mopol ew_denom
+
+:le:o)dontofue/w
+:de:o)dontofu ew_denom
+
+:le:o)neirw/ssw
+:de:o)neirw ss
+
+:le:poludike/w
+:de:poludik ew_denom
+
+:le:polumaqe/w
+:de:polumaq ew_denom
+
+:le:qeopole/w
+:de:qeopol ew_denom
+
+:le:r(umbe/w
+:de:r(umb ew_denom
+
+:le:sfairomaxe/w
+:de:sfairomax ew_denom
+

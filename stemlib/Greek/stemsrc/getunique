@@ -1,0 +1,4 @@
+awk '{print $1}' $1.nstem | sort | uniq -c | fgrep " 1 " | awk '{print $2}' > $1.u
+join $1.u $1.nstem | sort +1 > $1.good
+zapfirstf < $1.good | sort -u > $1.pn
+awk '{print $1}' $1.pn l sort | uniq -c | sort -rn > $1.doub

@@ -1,0 +1,5 @@
+is is_itos_adj gen sg masc fem
+i is_itos_adj nom voc acc sg neut
+i is_itos_adj voc sg masc fem
+it@decl3 is_itos_adj masc fem
+in is_itos_adj acc sg masc fem
