@@ -220,257 +220,276 @@ printf("rval %d raw [%s] work [%s]\n", rval , rawword_of(Gkword) , workword_of(G
 
 #define Has_apostr(S) (*(S+Xstrlen(S)-1) == '\'')
 
+/* 
+   DAS 3 Dec 2001
+   These enclitic suffixes should really only work with 
+   certain word classes.
+   I just can't seem to stop the analyses from showing up.
+*/
+
+typedef struct {
+  char enclitic[MAXWORDSIZE];
+  Stemtype stemtype;
+} enclitic_word;
+
+enclitic_word GreekSuff[] = {
+  "per", NOUNSTEM,
+  "", 0				/* sentinel */
+};
+
+enclitic_word LatinSuff[] = {
+  "que", 0,
+  "ne", 0,
+  "cumque", 0,
+  "ve", 0,
+  "ue", 0,
+  "", 0				/* sentinel */
+};
+
+/* these should only work with verbs, excluding participles */
+enclitic_word ItalianSuff[] = {
+  "mi", VERBSTEM,
+  "ci", VERBSTEM,
+  "ti", VERBSTEM,
+  "vi", VERBSTEM,
+  "lo", VERBSTEM,
+  "li", VERBSTEM,
+  "la", VERBSTEM,
+  "le", VERBSTEM,
+  "gli", VERBSTEM,
+  "loro", VERBSTEM,
+  "", 0				/* sentintel */
+};
+
 
 checkstring3(gk_word *Gkword)
 {
-	char saveword[MAXWORDSIZE];
-	char workword[MAXWORDSIZE];
-	char * string = workword_of(Gkword);
-	int rval = 0;
+  char saveword[MAXWORDSIZE];
+  char workword[MAXWORDSIZE];
+  char * string = workword_of(Gkword);
+  int rval = 0;
+  
+  enclitic_word *EnclitArr;
+  
+  switch (cur_lang()) {
+    
+  case LATIN:
+    EnclitArr = LatinSuff;
+    break;
+    
+  case ITALIAN:
+    EnclitArr = ItalianSuff;
+    break;
+    
+  default:
+    EnclitArr = GreekSuff;
+  }
 
-	Xstrncpy(saveword,workword_of(Gkword),(int)sizeof saveword);
-/*
-	if( (rval=checkstring4(Gkword)) > 0 && (prntflags_of(Gkword)&STRICT_CASE) ) 
-		return(rval);
-*/
-	rval=checkstring4(Gkword);
+  Xstrncpy(saveword,workword_of(Gkword),(int)sizeof saveword);
+  /*
+    if( (rval=checkstring4(Gkword)) > 0 && (prntflags_of(Gkword)&STRICT_CASE) ) 
+    return(rval);
+  */
+  rval=checkstring4(Gkword);
 
 
-	if(  (isupper(*string) || *string == BETA_UCASE_MARKER) && !(prntflags_of(Gkword)&STRICT_CASE) ) {
-/*
- * check to see if we failed because we 
- * have a word that is upper case
- * because it stands at the beginning of a sentence
- * or paragraph.
- *
- * In Perseus, the only upper case words should be proper nouns -- so you want to
- * be able to set STRICT_CASE
- * grc -- 8/14/93
- */
-		if( cur_lang() == LATIN || cur_lang() == ITALIAN ) {
-			*string = tolower(*string);
-		/*
-		 * 12/18/97 grc
- 	 	 * Vbi --> ubi
- 		 * Vt --> ut
-  		 * Vtinam --> utinam etc.
-		 */
-			if(*string == 'v' && isalpha(*(string+1)) &&
-				! strchr("aeiou",*(string+1)) ) {
-					*string = 'u';
-			}
-		} else
-			beta_tolower(string);
+  if(  (isupper(*string) || *string == BETA_UCASE_MARKER) && !(prntflags_of(Gkword)&STRICT_CASE) ) {
+    /*
+     * check to see if we failed because we 
+     * have a word that is upper case
+     * because it stands at the beginning of a sentence
+     * or paragraph.
+     *
+     * In Perseus, the only upper case words should be proper nouns -- so you want to
+     * be able to set STRICT_CASE
+     * grc -- 8/14/93
+     */
+    if( cur_lang() == LATIN || cur_lang() == ITALIAN ) {
+      *string = tolower(*string);
+      /*
+       * 12/18/97 grc
+       * Vbi --> ubi
+       * Vt --> ut
+       * Vtinam --> utinam etc.
+       */
+      if(*string == 'v' && isalpha(*(string+1)) &&
+	 ! strchr("aeiou",*(string+1)) ) {
+	*string = 'u';
+      }
+    } else
+      beta_tolower(string);
 
-		if( (rval=checkstring4(Gkword)) > 0 ) {
-			set_workword(Gkword,saveword);
-			return(rval);
-		}
-		Xstrncpy(string,saveword,MAXWORDSIZE);
- 	}
+    if( (rval=checkstring4(Gkword)) > 0 ) {
+      set_workword(Gkword,saveword);
+      return(rval);
+    }
+    Xstrncpy(string,saveword,MAXWORDSIZE);
+  }
 
-	if( Has_apostr(workword_of(Gkword)) ) {
-		if( (rval+=checkapostr(Gkword))) {
-			set_workword(Gkword,saveword);
-			return(rval);
-		}
-	}
+  if( Has_apostr(workword_of(Gkword)) ) {
+    if( (rval+=checkapostr(Gkword))) {
+      set_workword(Gkword,saveword);
+      return(rval);
+    }
+  }
 	 
-/*
- * try strippping a "per" off of it, as in "oi(=o/sper"
- *
- * grc 7/10/89 -- commented this out. this really belongs in the dictionary
- * rather than in the parser
- *
- * grc 7/15/89 -- put it back in for now.  i am not at all sure anymore that this
- * doesn't belong in the parser.  
- */
-/*
- * grc 12/24/90
- * have added o(/sper to the dictionary and will use the dictionary for any other
- * problems that come up
- *
- * grc 5/9/92
- * have put this back in yet again -- there are just too many damn words that have
- * per attached to them for now.
- */
-	if( cur_lang() != LATIN && cmpend(workword_of(Gkword),"per",workword)) {
-		set_workword(Gkword,workword);
-		rval += checkstring3(Gkword);
-		if( rval ) {
-			set_workword(Gkword,saveword);
-			return(rval);
-		}
-	}
+  /*
+   * try strippping a "per" off of it, as in "oi(=o/sper"
+   *
+   * grc 7/10/89 -- commented this out. this really belongs in the dictionary
+   * rather than in the parser
+   *
+   * grc 7/15/89 -- put it back in for now.  i am not at all sure anymore that this
+   * doesn't belong in the parser.  
+   */
+  /*
+   * grc 12/24/90
+   * have added o(/sper to the dictionary and will use the dictionary for any other
+   * problems that come up
+   *
+   * grc 5/9/92
+   * have put this back in yet again -- there are just too many damn words that have
+   * per attached to them for now.
+   */
 
-/*
- * grc 1/21/97 added this for latin
- */
-	if( cur_lang() == LATIN && cmpend(workword_of(Gkword),"que",workword)) {
-		set_workword(Gkword,workword);
-		rval += checkstring3(Gkword);
-		if( rval ) {
-			set_workword(Gkword,saveword);
-			return(rval);
-		}
-		set_workword(Gkword,saveword);
-	}
+  while ( !totanal_of(Gkword) && (*EnclitArr->enclitic != '\0') ) {
+    if ( cmpend(workword_of(Gkword), EnclitArr->enclitic, workword) ) {
+      set_workword(Gkword, workword);
+      rval += checkstring3(Gkword);
 
-	if( cur_lang() == LATIN && cmpend(workword_of(Gkword),"ne",workword)) {
-		set_workword(Gkword,workword);
-		rval = checkstring3(Gkword);
-		if( rval ) {
-			set_workword(Gkword,saveword);
-			return(rval);
-		}
-		set_workword(Gkword,saveword);
-	}
+      if ( rval ) {
+	set_workword(Gkword, saveword);
+	return rval;
+      }
+    }
+    EnclitArr++;
+  }
 
-	if( cur_lang() == LATIN && cmpend(workword_of(Gkword),"cumque",workword)) {
-		set_workword(Gkword,workword);
-		rval = checkstring3(Gkword);
-		if( rval ) {
-			set_workword(Gkword,saveword);
-			return(rval);
-		}
-	}
+  /*
+   * 12/8/97 
+   */
+  if( cur_lang() == LATIN && 
+      (cmpend(workword_of(Gkword),"ast",workword) ||
+       cmpend(workword_of(Gkword),"est",workword) ||
+       cmpend(workword_of(Gkword),"umst",workword))) {
+    strcpy(workword,workword_of(Gkword));
+    workword[strlen(workword)-2] = 0;
+    set_workword(Gkword,workword);
+    rval = checkstring3(Gkword);
+    if( rval ) {
+      set_workword(Gkword,saveword);
+      return(rval);
+    }
+  }
 
-	if( cur_lang() == LATIN && 
-		(cmpend(workword_of(Gkword),"ve",workword) ||
-		cmpend(workword_of(Gkword),"ue",workword))) {
-		set_workword(Gkword,workword);
-		rval = checkstring3(Gkword);
-		if( rval ) {
-			set_workword(Gkword,saveword);
-			return(rval);
-		}
-	}
-
-/*
- * 12/8/97 
- */
-	if( cur_lang() == LATIN && 
-	   (cmpend(workword_of(Gkword),"ast",workword) ||
-		cmpend(workword_of(Gkword),"est",workword) ||
-		cmpend(workword_of(Gkword),"umst",workword))) {
-		strcpy(workword,workword_of(Gkword));
-		workword[strlen(workword)-2] = 0;
-		set_workword(Gkword,workword);
-		rval = checkstring3(Gkword);
-		if( rval ) {
-			set_workword(Gkword,saveword);
-			return(rval);
-		}
-	}
-
-	if( cur_lang() == LATIN && cmpend(workword_of(Gkword),"ne",workword)) {
-		set_workword(Gkword,workword);
-		rval = checkstring3(Gkword);
-		if( rval ) {
-			set_workword(Gkword,saveword);
-			return(rval);
-		}
-	}
+  if( cur_lang() == LATIN && cmpend(workword_of(Gkword),"ne",workword)) {
+    set_workword(Gkword,workword);
+    rval = checkstring3(Gkword);
+    if( rval ) {
+      set_workword(Gkword,saveword);
+      return(rval);
+    }
+  }
 
 
-/* grc 8/26/93
- * am going to try to add o(/de at last to clean this up
-	if( cmpend(workword_of(Gkword),"de",workword)) {
-		set_workword(Gkword,workword);
-		rval = checkstring3(Gkword);
-		if( rval ) {
-			set_workword(Gkword,saveword);
-			return(rval);
-		}
-	}
-*/
-/*
- * grc 12/24/90
- * have likewise added o(/sge and o(/ste
+  /* grc 8/26/93
+   * am going to try to add o(/de at last to clean this up
+   if( cmpend(workword_of(Gkword),"de",workword)) {
+   set_workword(Gkword,workword);
+   rval = checkstring3(Gkword);
+   if( rval ) {
+   set_workword(Gkword,saveword);
+   return(rval);
+   }
+   }
+  */
+  /*
+   * grc 12/24/90
+   * have likewise added o(/sge and o(/ste
  
-	if( cmpend(workword_of(Gkword),"ge",workword)) {
-		set_workword(Gkword,workword);
-		rval = checkstring3(Gkword);
-		if( rval ) {
-			set_workword(Gkword,saveword);
-			return(rval);
-		}
-	}
+   if( cmpend(workword_of(Gkword),"ge",workword)) {
+   set_workword(Gkword,workword);
+   rval = checkstring3(Gkword);
+   if( rval ) {
+   set_workword(Gkword,saveword);
+   return(rval);
+   }
+   }
 
-	if( cmpend(workword_of(Gkword),"te",workword)) {
-		set_workword(Gkword,workword);
-		rval = checkstring3(Gkword);
-		if( rval ) {
-			set_workword(Gkword,saveword);
-			return(rval);
-		}
-	}
-*/
+   if( cmpend(workword_of(Gkword),"te",workword)) {
+   set_workword(Gkword,workword);
+   rval = checkstring3(Gkword);
+   if( rval ) {
+   set_workword(Gkword,saveword);
+   return(rval);
+   }
+   }
+  */
 
-/*
- * uenio and venio
- *
- * grc 12/12/97
- *
- */
-	if( cur_lang() == LATIN ) {
-		char * a = workword;
-		strcpy(workword,saveword);
-		if( u2v(workword) ) {
-			set_workword(Gkword,workword);
-			rval = checkstring3(Gkword);
-			if( rval ) {
-				set_workword(Gkword,saveword);
-				return(rval);
-			}
-		}
-		strcpy(workword,saveword);
-	}
-
-/*
- * Lewis and Short stores "jubeo" rather than "iubeo".
- *
- * grc 1/28/97
- *
- * grc 2/7/97
- *
- * also, deal with sub-iectus --> sub-jectus, i.e., 'i'-'j' in middle of word
-
- */
-	if( cur_lang() == LATIN ) {
-		char * a = workword;
-		strcpy(workword,saveword);
-
-		if( *a == 'I' ) {
-			*a = 'J';
-			set_workword(Gkword,workword);
-			rval = checkstring3(Gkword);
-			if( rval ) {
-				set_workword(Gkword,saveword);
-				return(rval);
-			}
-		}
-
-		while(*a) {
-/*
- * don't look for "cupjo"
- */
-			if( *a == 'i' && *(a+2) && strchr("aeiou",*(a+1)) ) {
-				*a = 'j';
-
-				set_workword(Gkword,workword);
-				rval = checkstring3(Gkword);
-				if( rval ) {
-					set_workword(Gkword,saveword);
-					return(rval);
-				}
-			}
-			a++;
-		}
-	}
-
+  /*
+   * uenio and venio
+   *
+   * grc 12/12/97
+   *
+   */
+  if( cur_lang() == LATIN ) {
+    char * a = workword;
+    strcpy(workword,saveword);
+    if( u2v(workword) ) {
+      set_workword(Gkword,workword);
+      rval = checkstring3(Gkword);
+      if( rval ) {
 	set_workword(Gkword,saveword);
 	return(rval);
+      }
+    }
+    strcpy(workword,saveword);
+  }
+
+  /*
+   * Lewis and Short stores "jubeo" rather than "iubeo".
+   *
+   * grc 1/28/97
+   *
+   * grc 2/7/97
+   *
+   * also, deal with sub-iectus --> sub-jectus, i.e., 'i'-'j' in middle of word
+
+   */
+  if( cur_lang() == LATIN ) {
+    char * a = workword;
+    strcpy(workword,saveword);
+
+    if( *a == 'I' ) {
+      *a = 'J';
+      set_workword(Gkword,workword);
+      rval = checkstring3(Gkword);
+      if( rval ) {
+	set_workword(Gkword,saveword);
+	return(rval);
+      }
+    }
+
+    while(*a) {
+      /*
+       * don't look for "cupjo"
+       */
+      if( *a == 'i' && *(a+2) && strchr("aeiou",*(a+1)) ) {
+	*a = 'j';
+
+	set_workword(Gkword,workword);
+	rval = checkstring3(Gkword);
+	if( rval ) {
+	  set_workword(Gkword,saveword);
+	  return(rval);
+	}
+      }
+      a++;
+    }
+  }
+
+  set_workword(Gkword,saveword);
+  return(rval);
 }
 
 static
