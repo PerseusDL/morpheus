@@ -211,6 +211,10 @@
 :le:consul
 :no:consul	0_is masc
 
+:le:contra
+:wd:contra_	adverb
+:wd:contra_	prep
+
 :le:cottidianus
 :aj:coti_di^a_n        us_a_um
 
@@ -466,6 +470,9 @@
 :le:Idus
 :no:I_d		us_us fem pl
 :no:Eid		us_us fem pl
+
+:le:jam
+:wd:jam	adverb
 
 :le:imperator
 :no:impe^ra_t	or_oris masc
@@ -1023,7 +1030,7 @@
 :no:tigr	is_is masc fem
 
 :le:tot
-:wd:tot		adverb
+:wd:tot		indecl
 
 :le:totiens
 :wd:totiens	adverb
