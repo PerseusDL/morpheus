@@ -1,9 +1,9 @@
 #include <gkstring.h>
 #include <stdlib.h>
+#include <string.h>
 #include <modes.h>
 #define SKIPLINE  100
 static  AddWdEndings( gk_word * , gk_string * , gk_word * , int );
-extern char     *strcpy(char *s1, const char *s2);
 
 #define NextStem(f,stem,stemkeys) NextDictLine(f,stem,stemkeys,":")
 #define NextLemma(f,lemma,lemmakeys) NextDictLine(f,lemma,lemmakeys,":le:")

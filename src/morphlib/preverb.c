@@ -7,6 +7,8 @@
  * Harvard University 1987
  */
 
+#include <string.h>
+
 #include <gkstring.h>
 #include <preverb.h>
 
@@ -436,7 +438,7 @@ rstprevb(char *word, char *prevb, gk_string *gstr)
 static
 comp_preverb(char *pb, int unasp, MorphFlags *oddpb)
 {
-	char * s, *strchr();
+	char *s;
 	gk_string  Gstr;
 	int added_aug = 0;
 

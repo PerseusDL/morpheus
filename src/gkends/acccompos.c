@@ -1,3 +1,5 @@
+#include <string.h>
+
 #include <gkstring.h> 
 
 #include "acccompos.proto.h"
@@ -7,7 +9,7 @@ AccComposForm(gk_string *gstr)
 {
 	gk_word * gkform;
 	char * p = gkstring_of(gstr);
-	char * strchr(), *s;
+	char *s;
 	char word[MAXWORDSIZE];
 	char prefword[MAXWORDSIZE];
 	char saveword[MAXWORDSIZE];

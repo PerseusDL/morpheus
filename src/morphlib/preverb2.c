@@ -1,3 +1,5 @@
+#include <string.h>
+
 #include <gkstring.h>
 
 #include "preverb2.proto.h"
@@ -427,7 +429,6 @@ exp_preverb(char *rawpb, char *fullpb, gk_string *gstr)
 {
   char savepb[MAXWORDSIZE];
   char tmppb[MAXWORDSIZE];
-  char * strchr();
   int rval = 0;
   
   if( ! * rawpb ) return(0);
