@@ -108903,6 +108903,8 @@ la_ni^fi^ca
 
 
 la_ni^ger		<itype>ge^ra, ge^rum</itype>	<pos>adj.</pos>	<pos>Subst.</pos>
+la_ni^ger
+:aj:la_ni^g er_era_erum
 la_ni^ger		<itype>ge^ri</itype>	<gen>m.</gen>
 la_ni^ge^ra		
 :le:lanigera
@@ -189042,7 +189044,9 @@ si^nus#1
 
 si^on#1		
 :le:sion#1
-:no:s	ios_i neut
+:no:si^on	irreg_nom2	neut nom/voc/acc sg
+:no:si^i	irreg_nom2	neut gen sg
+:no:si^o	irreg_nom2	neut dat/abl sg
 
 
 Si_on#2		
