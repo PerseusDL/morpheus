@@ -7565,6 +7565,10 @@
 :vs:e)dhd perf_act attic_redupl epic perf part act
 :vs:e)dhde perfp_s,attic_redupl
 :vs:e)dhdo perfp_vow attic_redupl 3rd sg perf ind pass epic
+:vs:fa^g aor2
+:vb:e)fa/gamen aor2 1st pl aor ind act late
+:vs:fa^g reg_fut mid late
+:vb:fa/gesai reg_fut 2nd sg fut ind mid late
 
 :le:e)/sqw
 :vs:e)sq w_stem,epic
@@ -21563,11 +21567,11 @@
 ;pp,perfp_s
 
 
-:le:fagei=n
-:vs:fa^g aor2  inf
-@
-:vs:fa^g w_stem late
-:vb:fa/gesai w_stem 2nd sg pres ind mp late
+#:le:fagei=n
+#:vs:fa^g aor2  inf
+#@
+#:vs:fa^g w_stem late
+#:vb:fa/gesai w_stem 2nd sg pres ind mp late
 
 :le:fae/qw
 :vs:faeq w_stem
