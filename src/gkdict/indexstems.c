@@ -468,7 +468,7 @@ printf("numovable is [%s]\n", gkstring_of(&TmpGstr));
 		strcat(tmp,notbuf);
 	}
 
-	if( ! add_newstemkey(tmp) ) return(0);
+	return (add_newstemkey(tmp));
 }
 
 clear_globs(char *s)
