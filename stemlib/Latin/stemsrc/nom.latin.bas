@@ -461,6 +461,10 @@
 :le:fides#2
 :no:fid is_is fem
 
+:le:flos
+:no:fl	or_oLris masc
+:wd:flo_s	irreg_nom3 masc nom sg
+
 :le:foris#1
 :no:for is_is fem
 

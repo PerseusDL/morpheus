@@ -54927,6 +54927,10 @@ de^cemvi^ra_tus
 
 
 de^cem-vi^ri		<gen>m.</gen>
+:le:decemviri
+:no:de^cemvi^r	0_i masc pl
+:no:de^cemui^r	0_i masc pl orth
+
 de^cenna_lis		
 :le:decennalis
 :aj:de^cenna_l	is_e
@@ -63290,7 +63294,11 @@ du^o^de^cenni^um
 
 
 du^o^de^ci^es		<pos>adv. num.</pos>
+
 du^o^de^cim		<orth type=alt>XII.</orth>
+:le:duodecim
+:wd:du^o^de^ci^m	numeral
+
 du^o^-de^ci^mus		
 :le:duodecimus
 :aj:du^o^-de^ci^m	us_a_um
@@ -63349,6 +63357,9 @@ du^o^-de_-vi_ce_si^mus
 
 
 du^o^-de_-vi_ginti	
+:le:duodeviginti
+:wd:du^o^de_vi_ginti	numeral
+
 du^o^-et-vi_ce_si^ma_ni		
 :le:duoetvicesimani
 :no:du^o^-et-vi_ce_si^ma_n	us_i masc pl
@@ -84328,6 +84339,9 @@ Ha_dra_num		<orth>Adr-</orth>
 
 Ha_dra_ni^ta_ni	
 Ha_^dri^a		<orth type=alt>Adria</orth>	<orth>Hadri^a_nus</orth>	<itype>a, um</itype>	<pos>adj.</pos>
+:le:Hadria
+:no:Hadri	a_ae fem masc
+
 Hadria_nus		
 :le:Hadrianus
 :no:Hadria_n	us_i masc
@@ -85281,7 +85295,7 @@ Hate^ri^a_nus
 haud		<orth>haut</orth>	<orth>hau</orth>	<itype>before consonants</itype>	
 :le:haud
 :wd:haud	adverb
-
+:wd:haut	adverb orth
 
 haud dum		<itype>or, as one word</itype>
 haud-dum		<itype>an intensive nondum</itype>
@@ -86435,6 +86449,9 @@ hercu^la_ri^a
 
 
 Hercu^les		<itype>is and i</itype>	<gen>m.</gen>
+:le:Hercules
+:no:Hercul	es_is masc
+
 hercu^les		<orth>hercu^le</orth>	<orth>hercle</orth>	<orth>me^-hercu^les</orth>	<orth type=alt>mehercu^le</orth>	<orth>me hercule</orth>	<orth>me^hercle</orth>	<itype>as an oath or asseveration</itype>
 Hercu^le^us		
 :le:Herculeus
@@ -89612,6 +89629,9 @@ Hy_lo^no^me_
 
 
 Hy_^men		<itype>e^nis</itype>
+:le:Hymen
+:no:Hy^men	0_is masc
+
 Hy^me^naeus		<orth>-os</orth>	
 :le:Hymenaeus
 :no:Hy^me^nae	us_i masc
@@ -104219,7 +104239,7 @@ in-vulne^ra_tus
 
 
 :le:io#1
-:wd:i^o_#1	exclam
+:wd:i^o_	exclam
 I_o_#2		<itype>Iu_s</itype>
 I_o_n		<itype>Io_nis</itype>	<gen>f.</gen>
 Io_b		<itype>is</itype>
@@ -109298,6 +109318,9 @@ La_renta_-lia
 La_renti_nal	
 La^res#1		<orth>La^ses</orth>	<gen>m.</gen>
 Lar		<itype>Laris</itype>	<gen>m.</gen>
+:le:lar
+:no:lar	0_is masc
+
 La^res#2		
 :le:Lares#2
 :no:La^r	is_is fem pl
@@ -126538,8 +126561,10 @@ mo^dus
 :le:modus
 :no:mo^d	us_i masc
 
-
 &dagger;moecha		<itype>ae</itype>	<gen>f.</gen>
+:le:moecha
+:no:moech	a_ae fem
+
 &dagger;moechi_a		<itype>ae</itype>	<gen>f.</gen>
 moechi_le		
 :le:moechile
@@ -126562,6 +126587,9 @@ moecho^-ci^naedus
 
 
 &dagger;moechus		
+:le:moechus
+:no:moech	us_i masc
+
 :le:moechocinaedus
 :no:moecho^-ci^naed	us_i masc
 
@@ -138390,6 +138418,9 @@ Octo_ber
 
 
 octo_de^cim	
+:le:octodecim
+:wd:octo_de^cim	numeral
+
 Octo_du_rus		
 :le:Octodurus
 :no:Octo_du_r	us_i masc
@@ -171530,6 +171561,9 @@ qua_^tri^sexti^um
 quattu^or		<orth>qua_tu^or</orth>	<orth>quattor</orth>	<pos>num. adj.</pos>
 quattu^orde^ci^ens		<orth type=alt>quat-</orth>
 quattu^orde^cim		<orth type=alt>quat-</orth>	<pos>num. adj.</pos>
+:le:quattuordecim
+:wd:quattu^orde^cim	numeral
+
 quattu^or-pri_mi		<orth type=alt>quat-</orth>	
 :le:quattuorprimi
 :no:quattu^or-pri_m	us_i masc pl
@@ -171748,6 +171782,9 @@ quinde^ci^es		<orth type=alt>-de^ci^ens</orth>
 
 
 quinde^cim		<pos>num. adj.</pos>
+:le:quindecim
+:wd:quinde^ci^m	numeral
+
 quinde^cim-pri_mi		
 :le:quindecimprimi
 :no:quinde^cim-pri_m	us_i masc pl
@@ -184105,6 +184142,9 @@ se_de^cennis
 
 se_-de^ci^es	
 se_de^cim		<orth>sexde^cim</orth>	<pos>num. adj.</pos>
+:le:sedecim
+:wd:se_de^cim	numeral
+
 se_de_cu^la		
 :le:sedecula
 :no:se_de_cu^l	a_ae fem
@@ -186051,6 +186091,9 @@ septe_na_ri^us
 
 
 septende^cim		<orth>sep-temde^cim</orth>	<pos>num. adj.</pos>
+:le:septendecim
+:wd:septende^cim	numeral
+
 septe_ni		<itype>ae, a</itype>
 septentri^o_na_lis		
 :le:septentrionalis
@@ -188977,10 +189020,9 @@ Si^nu^essa
 :no:Si^nu^ess	a_ae fem
 
 
-Si^nu^essua_nus		
-:le:Sinuessuanus
-:aj:Si^nu^essua_n	us_a_um
-
+Si^nu^essa_nus		
+:le:Sinuessanus
+:aj:Si^nu^essa_n	us_a_um
 
 si_num		
 :le:sinum
@@ -196072,7 +196114,7 @@ subtel
 subte_men		<orth type=alt>subtegmen</orth>	
 :le:subtemen
 :no:subte_	men_minis neut
-
+:no:subteg	men_minis neut orth
 
 sub-te^nu^is		
 :le:subtenuis
@@ -208229,6 +208271,9 @@ tre^che^di_pnum
 
 
 tre^de^cim		<orth>tresd-</orth>	<pos>num. adj.</pos>
+:le:tredecim
+:wd:tre^de^cim	numeral
+
 tre^me^bundus		<orth type=alt>tre^mi^b-</orth>	
 :le:tremebundus
 :aj:tre^me^bund	us_a_um
@@ -212256,7 +212301,11 @@ unde_cente_si^mus
 	<pos>num. adj.</pos>
 unde_centum		<pos>num. adj.</pos>
 unde^ci^es	
+
 unde^ci^m		<pos>num. adj.</pos>
+:le:undecim
+:wd:unde^ci^m	numeral
+
 unde^ci^mus		
 :le:undecimus
 :aj:unde^ci^m	us_a_um
@@ -212334,6 +212383,9 @@ unde_vi_ce_si^mus		<orth>unde_vi_ge_si^-mus</orth>
 
 
 unde_vi_ginti		<pos>num. adj.</pos>
+:le:undevigniti
+:wd:unde_vi_ginti	numeral
+
 undi^co^la		
 :le:undicola
 :no:undi^co^l	a_ae masc fem
@@ -220641,5 +220693,3 @@ zy^gosta^tes
 zythum		
 :le:zythum
 :no:zyth	us_i neut
-
-
