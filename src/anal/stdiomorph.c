@@ -108,6 +108,7 @@ char *argv[];
 	strcpy(outname,optarg);
 	sprintf(failedname,"%s.failed",outname);
 	sprintf(statsname,"%s.stats",outname);
+printf("outname [%s]\n", outname );
       }
       break;
     default:
@@ -178,8 +179,8 @@ char *argv[];
     
     trimwhite(line);
 
-    if( isspace(line[0]) || ! line[0] ) continue;
-    if(!isalpha(line[0]) && line[0] !='*' ) {
+    if( isspace(line[0]) && ! line[0] ) continue;
+    if(!isalpha(line[0]) && line[0] !='*' && line[0] != '!' ) {
 	fprintf(foutput,"%s\n", line );
 	continue;
     }

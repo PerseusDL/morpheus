@@ -434,6 +434,12 @@
 :wd:materfamilias	irreg_decl3 nom fem sg
 :wd:matresfamilias	irreg_decl3 nom fem pl
 
+:le:famulus
+:no:fa^mu^l	us_i masc
+
+:le:famula
+:no:fa^mu^l	a_ae fem
+
 :le:fas
 :wd:fas	indecl
 
@@ -472,11 +478,8 @@
 :le:Frugi
 :wd:Frugi	irreg_nom3 masc nom sg pers_name
 
-:le:funis#1
+:le:funis
 :no:fun is_is	masc
-
-:le:funis#2
-:no:fun	is_eris masc
 
 :le:Furfanius
 :no:Furfan	ius_i masc pers_name

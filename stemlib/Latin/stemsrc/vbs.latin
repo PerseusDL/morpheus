@@ -1170,8 +1170,6 @@
 :vs:a-scisc	conj3
 :vs:a-scisps perfstem
 :vs:a-scispt pp4
-:le:aspargo#1
-:vs:asparg	conj3
 :le:aspecto
 :vs:aspect	conj1
 :vs:aspectLachmann perfstem
@@ -1587,8 +1585,6 @@
 :vs:bull	conj4
 :vs:bulli_v perfstem
 :vs:bulli_t pp4
-:le:butio#2
-:de:but	ire_vb
 :le:cacabo
 :de:ca_ca^b	are_vb
 :le:cacaturio
@@ -3365,8 +3361,6 @@
 :de:consult	are_vb
 :le:consultor
 :de:consult	are_vb dep
-:le:consultor#2
-:de:consult	are_vb dep
 :le:consummo
 :de:con-summ	are_vb
 :le:consumo
@@ -4406,8 +4400,6 @@
 :vs:de_-po^si^t pp4
 :le:deponto
 :de:de_pont	are_vb
-:le:depopulo
-:de:de_po^pu^l	are_vb
 :le:depopulor
 :de:de_-po^pu^l	are_vb dep
 :le:deporto
@@ -5229,8 +5221,6 @@
 :vs:do^l	conj2
 :vs:do^lu^ perfstem
 :vs:do^li^t pp4
-:le:dolio
-:de:do^l	ire_vb
 :le:dolito
 :de:do^li^t	are_vb
 :le:dolo#1
@@ -7718,8 +7708,6 @@
 :le:incolo#1
 :vs:in-co^l	conj3
 :vs:in-co^lu^ perfstem
-:le:incolo#2
-:de:inco^l	are_vb
 :le:incomitio
 :de:in-co^mi^ti	are_vb
 :le:incommodo
@@ -9065,6 +9053,10 @@
 :vs:ju_t pp4
 :le:labasco
 :vs:la^basc	conj3
+:le:labefacio
+:vs:la^be^fa^c	conj3_io
+:vs:la^be^fe_c perfstem
+:vs:la^be^fact pp4
 :le:labefacto
 :de:la^be^fact	are_vb
 :le:labo
@@ -9340,6 +9332,10 @@
 :vs:lu_cesc	conj3
 :le:lucifico
 :de:lu_ci^fi^c	are_vb
+:le:lucrifacio
+:vs:lu_^cri^fa^c	conj3_io
+:vs:lu_^cri^fe_c perfstem
+:vs:lu_^cri^fact pp4
 :le:lucrifio
 :vs:lu_^cri^fi_	conj3
 :vs:lu_^cri^fact pp4
@@ -9788,8 +9784,6 @@
 :vs:mortu^ pp4
 :le:moriturio
 :de:mo^ri^tu^r	ire_vb
-:le:moro
-:de:mo^r	are_vb
 :le:moror#1
 :de:mo^r	are_vb dep
 :le:moror#2
@@ -9828,8 +9822,6 @@
 :vs:mulgs pp4
 :le:muliero
 :de:mu^li^e^r	are_vb
-:le:mullo
-:de:mull	are_vb
 :le:multifacio
 :vs:multi^-fa^c	conj3_io
 :vs:multi^-fe_c perfstem
@@ -12871,8 +12863,6 @@
 :le:prolicio
 :vs:pro_-li^c	conj3_io
 :vs:pro_-lix perfstem
-:le:prolicito
-:de:prolicit	are_vb
 :le:prolixo
 :de:pro_lix	are_vb
 :le:prolongo
@@ -14212,8 +14202,6 @@
 :vs:re^-ti^cu^ perfstem
 :le:retinnio
 :de:re^-tinn	ire_vb
-:le:reto
-:de:re^t	are_vb
 :le:retollo
 :vs:re^-toll	conj3
 :le:retono
@@ -14506,8 +14494,6 @@
 :vs:sa^l/ityp pp4
 :le:salivo
 :de:sa^li_v	are_vb
-:le:sallio
-:de:sall	ire_vb
 :le:sallo
 :vs:sall	conj3
 :le:salo#1
@@ -16558,8 +16544,6 @@
 :de:turp	are_vb
 :le:tussio
 :de:tuss	ire_vb
-:le:tuto#2
-:de:tu_t	are_vb
 :le:tutor#2
 :de:tu_t	are_vb dep
 :le:tuto
@@ -16841,8 +16825,6 @@
 :de:vi^go_r	are_vb
 :le:vilico#1
 :de:vi_li^c	are_vb
-:le:vilicor
-:de:vi_li^c	are_vb dep
 :le:vilifico
 :de:vi_li^fi^c	are_vb
 :le:vilipendo

@@ -132,6 +132,29 @@ h@decl2 demonstr neut abl pl
 haec	demonstr neut nom/acc pl
 hosce	demonstr masc acc pl
 
+:le:illic
+:wd:illi_c demonstr masc nom sg
+:wd:illaec demonstr fem nom sg
+:wd:illoc demonstr neut nom/acc sg
+:wd:illuius	demonstr masc/fem/neut gen sg
+:wd:illuiusce	demonstr masc/fem/neut gen sg
+:wd:illuic	demonstr masc/fem/neut dat sg
+:wd:illunc demonstr masc acc sg
+:wd:illanc demonstr fem acc sg
+:wd:illo_c demonstr masc neut abl sg
+:wd:illa_c demonstr fem abl sg
+:wd:illi_sce	demonstr masc fem neut dat pl
+:wd:illi_sce	demonstr masc fem neut abl pl
+ill@decl1	demonstr fem pl
+ill@decl2	demonstr masc pl
+ill@decl2 demonstr neut gen pl
+ill@decl2 demonstr neut dat pl
+ill@decl2 demonstr neut abl pl
+illaec	demonstr neut nom/acc pl
+illosce	demonstr masc acc pl
+illuc adverb
+illic adverb
+
 :le:honorificus
 :aj:ho^no_rifi^c ens_adj comp
 :aj:ho^no_rifi^c ens_adj superl

@@ -34,6 +34,7 @@ char *spectypes[] = {
 "<itype>ortus, 4</itype>",
 "<itype>ui, u_tum, 3</itype>",
 "<itype>fe_ci, factum, 3</itype>",
+"<itype>fe_ci, factum</itype>",
 "<itype>e_mi, emptum, 3</itype>",
 "<itype>du^i, 3</itype>",
 "<itype>nxi, nctum, 3</itype>",
@@ -138,6 +139,7 @@ if( !strcmp(yytext,"<itype>ve_ni, ventum</itype>") )	return( do_vstems("conj4",'
 if( !strcmp(yytext,"<itype>cu_tus, 3</itype>") )	return( do_vstems("conj3",'q'));
 if( !strcmp(yytext,"<itype>mpsi</itype>") )	return( do_vstems("conj3",yytext[7]));
 if( !strcmp(yytext,"<itype>ui, u_tum, 3</itype>") )	return( do_vstems("conj3",yytext[7]));
+if( !strcmp(yytext,"<itype>fe_ci, factum</itype>") )	return( do_vstems("conj3_io",yytext[7]));
 
 if( (rval=is_spectype()) ) {
 	char tmp[BUFSIZ];

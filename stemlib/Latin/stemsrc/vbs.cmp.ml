@@ -533,16 +533,7 @@ in-ducto inductor
 in-eo#1 ineo
 in-fateor infiteri
 in-fatigo infatigo
-in-ferio inferi
-in-ferio inferior
-in-ferior inferior
-in-fero infer
-in-fero inferne
 in-fero infero
-in-fero infertor
-in-fio infimus
-in-fio infio
-in-fio infit
 in-flecto inflecto
 in-fligo infligo
 in-for infandus
@@ -611,6 +602,7 @@ inter-eo#1 intereo
 inter-facio interfacio
 inter-fio interfio
 inter-fugio interfugio
+inter-fundo interfundo
 inter-lucesco interlucesco
 inter-mino intermino
 inter-neo#1 interne
