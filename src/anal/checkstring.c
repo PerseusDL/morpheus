@@ -143,7 +143,6 @@ printf("raw [%s] work [%s]\n", rawword_of(Gkword) , workword_of(Gkword) );
 
 	if( ! rval && ! totanal_of(Gkword) ) {
 		rval=checkcrasis(Gkword);
-printf("rval %d\n", rval  );
 	}
 
 /*
@@ -227,7 +226,6 @@ checkstring3(gk_word *Gkword)
 		return(rval);
 */
 	rval=checkstring4(Gkword);
-printf("saveword [%s] rval %d\n", saveword, rval );
 
 
 	if(  (isupper(*string) || *string == BETA_UCASE_MARKER) && !(prntflags_of(Gkword)&STRICT_CASE) ) {
@@ -264,7 +262,7 @@ printf("saveword [%s] rval %d\n", saveword, rval );
  	}
 
 	if( Has_apostr(workword_of(Gkword)) ) {
-		if( (rval=checkapostr(Gkword))) {
+		if( (rval+=checkapostr(Gkword))) {
 			set_workword(Gkword,saveword);
 			return(rval);
 		}
@@ -290,7 +288,7 @@ printf("saveword [%s] rval %d\n", saveword, rval );
  */
 	if( cur_lang() != LATIN && cmpend(workword_of(Gkword),"per",workword)) {
 		set_workword(Gkword,workword);
-		rval = checkstring3(Gkword);
+		rval += checkstring3(Gkword);
 		if( rval ) {
 			set_workword(Gkword,saveword);
 			return(rval);
@@ -302,7 +300,7 @@ printf("saveword [%s] rval %d\n", saveword, rval );
  */
 	if( cur_lang() == LATIN && cmpend(workword_of(Gkword),"que",workword)) {
 		set_workword(Gkword,workword);
-		rval = checkstring3(Gkword);
+		rval += checkstring3(Gkword);
 		if( rval ) {
 			set_workword(Gkword,saveword);
 			return(rval);
@@ -464,7 +462,7 @@ printf("saveword [%s] rval %d\n", saveword, rval );
 	}
 
 	set_workword(Gkword,saveword);
-	return(0);
+	return(rval);
 }
 
 static
@@ -478,7 +476,7 @@ checkstring4(gk_word *Gkword)
 	int rval = 0; 
 
 	rval=checkword(Gkword);
-printf("string4 rval %d\n", rval );
+
 	if( rval > 0 ) {
 		return(rval);
 	}

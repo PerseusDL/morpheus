@@ -158,7 +158,9 @@ fprintf(stderr,"onwards\n");
 
 			if( AddAnalysis(Gkword,gkforms+i) )
 				hits++;
+/*
 printf("liked [%s] hits [%d]\n", checks , hits);
+*/
 
 			continue;
 		} 

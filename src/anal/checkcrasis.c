@@ -233,7 +233,6 @@ checkcrasis(gk_word *Gkword)
 			*/
 		}
 	}
-printf("returning %d\n", rval );
 	return(rval);
 }
 
@@ -265,7 +264,6 @@ testcrasis(gk_word *Gkword, char *mungedword, char *wordstart, char *preword,Dia
 	add_dialect(&tmpGkword,possdial);
 	add_dialect(stem_gstr_of(&tmpGkword),possdial);
 	rval = checkstring3(&tmpGkword);
-printf("rval %d\n", rval );
 
 	if( rval ) {
 		gk_analysis * curanal = analysis_of(&tmpGkword);
