@@ -5,6 +5,9 @@ LSJDIR=/local/text/lsj
 STEMPROG= stemsrc/stripref stemsrc/zapfirstf stemsrc/headnolen \
 	stemsrc/goodstem stemsrc/flatlems
 
+# Get all noms files, but without emacs backups
+nomsrc= $(filter-out %~,$(wildcard stemsrc/nom.* stemsrc/nom[0-9]*))
+
 all: $(STEMPROG) ends noms vbs deriv
 
 ends: nends vends
@@ -18,7 +21,7 @@ vends:
 	indendtables verb
 
 compnoms:
-	cat stemsrc/nom.* stemsrc/nom[0-9]* > /tmp/nommorph
+	cat $(nomsrc) > /tmp/nommorph
 	indexcomps < /tmp/nommorph | sort | compcomps > /tmp/nom.heads
 
 deriv:
@@ -43,12 +46,12 @@ stemsrc/vbs.irreg:	stemsrc/irreg.vbs.src
 	buildword < stemsrc/irreg.vbs.src > stemsrc/vbs.irreg
 
 stemsrc/lemlist:
-	cat stemsrc/nom.* stemsrc/nom[0-9]* stemsrc/vbs.irreg \
+	cat $(nomsrc) stemsrc/vbs.irreg \
 	    stemsrc/vbs.simp.ml stemsrc/vbs.simp.02.new | fgrep ":le:" | \
 	    cut -d":" -f 3 | sort | awk '{print $$1 " "}' > stemsrc/lemlist
 
 stemind/nomind:	stemsrc/lsj.nom
-	cat stemsrc/nom.* stemsrc/nom[0-9]*  stemsrc/lsj.nom \
+	cat $(nomsrc) stemsrc/lsj.nom \
 	    stemsrc/lsj.byhand > /tmp/nommorph
 	indexnoms
 
