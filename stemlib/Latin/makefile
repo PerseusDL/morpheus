@@ -54,7 +54,9 @@ ia.noms:
 
 ls.morph: ${LSDIR}/lemmata
 	fgrep ":le:" stemsrc/vbs.latin.bas | cut -d: -f3 | sort > stemsrc/lemmata
-	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | latvb > ls.vbs
+#	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | latvb > ls.vbs
+#	cat ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | latvb | perl -pe 's/(^\:le\:[A-Za-z]+)\-([A-Za-z])/$1$2/g' > ls.vbs
+	cat ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | latvb > ls.vbs
 	splitlems < ${LSDIR}/lemmata |  fixhesc | fgrep -v -f vtags | fgrep -v "<pos>P. a.</pos>" |  latnom > /usr/tmp/ls.morph
 	egrep -e "^:" ls.vbs > stemsrc/vbs.latin
 	fgrep -v "0:" /usr/tmp/ls.morph > stemsrc/ls.nom

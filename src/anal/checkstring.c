@@ -235,9 +235,19 @@ checkstring3(gk_word *Gkword)
  * be able to set STRICT_CASE
  * grc -- 8/14/93
  */
-		if( cur_lang() == LATIN ) 
+		if( cur_lang() == LATIN ) {
 			*string = tolower(*string);
-		else
+		/*
+		 * 12/18/97 grc
+ 	 	 * Vbi --> ubi
+ 		 * Vt --> ut
+  		 * Vtinam --> utinam etc.
+		 */
+			if(*string == 'v' && isalpha(*(string+1)) &&
+				! strchr("aeiou",*(string+1)) ) {
+					*string = 'u';
+			}
+		} else
 			beta_tolower(string);
 
 		if( (rval=checkstring4(Gkword)) > 0 ) {
@@ -285,6 +295,16 @@ checkstring3(gk_word *Gkword)
  * grc 1/21/97 added this for latin
  */
 	if( cur_lang() == LATIN && cmpend(workword_of(Gkword),"que",workword)) {
+		set_workword(Gkword,workword);
+		rval = checkstring3(Gkword);
+		if( rval ) {
+			set_workword(Gkword,saveword);
+			return(rval);
+		}
+		set_workword(Gkword,saveword);
+	}
+
+	if( cur_lang() == LATIN && cmpend(workword_of(Gkword),"ne",workword)) {
 		set_workword(Gkword,workword);
 		rval = checkstring3(Gkword);
 		if( rval ) {

@@ -194,6 +194,8 @@ typedef struct {
 "copt",			"coopt",	"",	 (Dialect)0,	/* cooptari --> coptari  */
 "der",			"deer",	"",	 (Dialect)0,	/* deest --> dest  */
 "des",			"dees",	"",	 (Dialect)0,	/* deest --> dest  */
+"adeon",			"adeo",	"ne",	 (Dialect)0,	/* adeo +ne --> adeon  */
+"ain",			"ais",	"ne",	 (Dialect)0,	/* ais +ne --> ain  */
  };
 
 int nocrasis = 0;
