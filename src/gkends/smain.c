@@ -31,4 +31,5 @@ char * argv[];
 		exit(-1);
 	}
 	indexendtables(stype,is_deriv);
+	return(0);
 }
