@@ -3470,14 +3470,18 @@
 
 :le:e(/
 :wd:e(/ pron3 masc fem acc sg
+:wd:e(e/ pron3 masc fem acc sg epic
 :wd:e( pron3 masc fem acc sg epic enclitic
 :wd:e(o pron3 masc fem gen sg enclitic
 :wd:eu( pron3 masc fem gen sg enclitic
 :wd:e(/qen pron3 masc fem gen sg poetic
 :wd:e(qen pron3 masc fem gen sg poetic enclitic
 :wd:ei(=o pron3 masc fem gen sg poetic
+:wd:ou(= pron3 masc fem gen sg
 :wd:e(oi= pron3 masc fem dat sg epic
 :wd:i(n pron3 masc fem dat sg poetic enclitic epic
+:wd:oi( pron3 masc fem dat sg enclitic epic ionic
+:wd:oi(= pron3 masc fem dat sg
 
 :le:e)/a
 :wd:e)/a_ exclam
