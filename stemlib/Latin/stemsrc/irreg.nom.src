@@ -85,6 +85,9 @@ farr@decl3	irreg_nom3	neut
 :le:frons#2
 :no:fron	s_tis fem
 
+:le:instar
+:wd:instar	neut indecl
+
 :le:iste
 :wd:iste demonstr masc nom voc sg
 :wd:istud demonstr neut nom acc sg

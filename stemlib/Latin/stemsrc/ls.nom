@@ -16114,6 +16114,9 @@ armi^fer
 
 
 armi^ger		<itype>ge^ra, ge^rum</itype>	<pos>adj.</pos>	<pos>Subst.</pos>
+:le:armiger
+:aj:armi^g	er_era_erum
+
 armi^lausa		
 :le:armilausa
 :no:armi^laus	a_ae fem
@@ -27681,8 +27684,11 @@ caeli^ba_tus		<orth type=alt>coel-</orth>
 :no:coeli^ba_t	us_us masc orth
 
 
-
 caeli^co^la		<orth type=alt>coel-</orth>	<itype>ae</itype>	<pos>adj.</pos>
+:le:caelicola
+:no:caeli^co^l	a_ae fem
+
+
 caeli^cus		<orth type=alt>coel-</orth>	
 :le:caelicus
 :aj:caeli^c	us_a_um
@@ -144486,7 +144492,7 @@ Palla^di^um
 Pallas#2		
 :le:Pallas#2
 :no:Pall	as_antis masc
-
+:wd:Pallanta	irreg_nom3 masc acc sg
 
 Pallante_us		
 :le:Pallanteus
@@ -144864,6 +144870,9 @@ pa_lum
 
 
 pa^lus#2		<itype>u_dis</itype>	<gen>f.</gen>
+:le:palus#2
+:no:palu_	s_dis	fem
+
 palusca		<itype>ficus</itype>
 pa^luster		<itype>tris, tre</itype>	<pos>adj.</pos>
 pa^-lustri^a		
@@ -157047,6 +157056,10 @@ pinsor
 
 
 pi_nus		<itype>u_s and i</itype>	<gen>f.</gen>
+:le:pinus
+:no:pi_n	us_us fem
+:no:pi_n	us_i fem
+
 pi_pa_ti^o		
 :le:pipatio
 :no:pi_pa_ti^	o_oLnis fem
@@ -203188,7 +203201,7 @@ Te^renti_nus
 
 te^re^s		<itype>e^tis</itype>	<pos>adj.</pos>	
 :le:teres
-:wd:te^re^s	adverb
+:aj:te^re^	s_tis_adj
 
 
 Tereses		
@@ -219496,7 +219509,7 @@ vo^lu^cer		<itype>u_^cris, u_^cre</itype>	<pos>adj.</pos>
 vo^lu_^cris		
 :le:volucris
 :no:vo^lu_^cr	is_is fem
-
+:wd:vo^lu_crum	irreg_nom3 fem gen pl
 
 vo^lu^cri^ter	
 :le:volucriter
