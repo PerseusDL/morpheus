@@ -181,6 +181,34 @@
 :vb:fatti	irreg_pp1 perf part masc pl
 :vb:fatte	irreg_pp1 perf part fem pl
 
+:le:nascere
+:vb:nacqui	irreg_pp1 pastabs ind 1st sg
+:vb:nacque	irreg_pp1 pastabs ind 3rd sg
+:vb:nacquero	irreg_pp1 pastabs ind 3rd pl
+:vb:nato	irreg_pp1 perf part masc sg
+:vb:nati	irreg_pp1 perf part masc pl
+:vb:nata	irreg_pp1 perf part fem sg
+:vb:nate	irreg_pp1 perf part fem pl
+:de:nasc	ere_vb
+
+:le:sapere
+:vb:so		irreg_pp1 pres indic 1st sg
+:vb:sai		irreg_pp1 pres indic 2nd sg
+:vb:sa		irreg_pp1 pres indic 3rd sg
+:vb:sappiamo	irreg_pp1 pres indic 1st pl
+:vb:sanno	irreg_pp1 pres indic 3rd pl
+:de:sap		ere_vb
+
+:le:scrivere
+:vb:scrissi	irreg_pp1 pastabs ind 1st sg
+:vb:scrisse	irreg_pp1 pastabs ind 3rd sg
+:vb:scrissero	irreg_pp1 pastabs ind 3rd pl
+:vb:scritto	irreg_pp1 perf part masc sg
+:vb:scritti	irreg_pp1 perf part masc pl
+:vb:scritta	irreg_pp1 perf part fem sg
+:vb:scritte	irreg_pp1 perf part fem pl
+:de:scriv	ere_vb
+
 :le:volere
 :vb:voglio	irreg_pp1 pres indic 1st sg
 :vb:vuoi	irreg_pp1 pres indic 2nd sg
