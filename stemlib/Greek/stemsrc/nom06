@@ -9694,7 +9694,10 @@
 @ end:eos
 @ end:ei dat sg
 @ end:ea nom acc pl epic
-:no:fw s_tos,neut,attic,contr
+:wd:fw=s irreg_decl3 neut nom voc acc sg attic contr
+:wd:fwto/s irreg_decl3 neut gen sg attic contr
+:wd:fwti/ irreg_decl3 neut dat sg attic contr
+:no:fw s_tos neut pl attic contr
 
 :le:fa/ragc
 :no:fa^rag c_gos fem
