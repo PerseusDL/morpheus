@@ -303,7 +303,9 @@ checkstring3(gk_word *Gkword)
 		}
 	}
 
-	if( cur_lang() == LATIN && cmpend(workword_of(Gkword),"ve",workword)) {
+	if( cur_lang() == LATIN && 
+		(cmpend(workword_of(Gkword),"ve",workword) ||
+		cmpend(workword_of(Gkword),"ue",workword))) {
 		set_workword(Gkword,workword);
 		rval = checkstring3(Gkword);
 		if( rval ) {
