@@ -8,6 +8,17 @@ while (<>) {
     s#^\s*key=[^>]+>\s*##s;
     s#<entryFree$##;
 
+    while (s/^<orth[^>]*>([^<]+)<\/orth>[,\s]*<orth[^>]*>([^<]+)<\/orth>[,\s]*<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>s\.<\/pos>\s*<gen>([mf])\.<\/gen>/ /s)
+    {
+	my $lem1 = $1;
+	my $lem2 = $2;
+	my $lem3 = $3;
+	my $gen = $4;
+	donom($lem1, $gen);
+	donom($lem2, $gen);
+	donom($lem3, $gen);
+    }
+
     while (s/^<orth[^>]*>([^<]+)<\/orth>[,\s]*<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>s\.<\/pos>\s*<gen>([mf])\.<\/gen>/ /s)
     {
 	my $lem1 = $1;
@@ -25,7 +36,7 @@ while (<>) {
 	doverb($lem2);
     }
 
-    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>adj\.<\/pos>/ /s)
+    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>(?:adj|pron)\.<\/pos>/ /s)
     {
 	my $lem1 = $1;
 	my $lem2 = $2;
@@ -54,14 +65,14 @@ while (<>) {
 	donom($lem,$gen);
     }
 
-    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*(?:<pos>pron\.<\/pos>\s*)?<gen>([mf])\.<\/gen>/ /s) {
+    ## Baretti has entries for some regularly declined pronouns
+    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>pron\.<\/pos>\s*<gen>([mf])\.<\/gen>/ /s) {
 	my $lem = $1;
 	my $gen = $2;
-
 	donom($lem,$gen);
     }
 
-    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>adj\.<\/pos>/ /s
+    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>(?:adj|pron)\.<\/pos>/ /s
 	   or s/<pos>adj\.<\/pos>\s*<orth[^>]*>([^<]+)<\/orth>/ /s) {
 	my $lem = $1;
 
@@ -76,6 +87,15 @@ while (<>) {
 
 	print "\n:le:$lem\n";
 	print ":wd:$lem\tadverb\n";
+    }
+
+    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>prep\.<\/pos>/ /s) {
+	my $lem = $1;
+
+	next unless $lem = fixlem($lem);
+
+	print "\n:le:$lem\n";
+	print ":wd:$lem\tprep\n";
     }
 
     while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>v\.<\/pos>/ /s) {
@@ -94,7 +114,7 @@ sub donom {
 
     $gen = $gen eq 'f' ? 'fem' : 'masc';
     
-    my $class = 'indecl';
+    my $class = 'irreg_nom';
     my $stem = $lem;
 
     if ($stem =~ s/io$//) {
@@ -116,8 +136,11 @@ sub donom {
 	$class = 'u_acc';
     }
 
+    my $label = 'no';
+    $label = 'wd' if $class eq 'irreg_nom';
+
     print "\n:le:$lem\n";
-    print ":no:$stem\t$class $gen\n";
+    print ":$label:$stem\t$class $gen\n";
 }
 
 sub doadj {
@@ -152,9 +175,10 @@ sub doadj {
 
     if ($class eq '')
     {
-	print STDERR "adj $lem\n";
+	print "\n:le:$lem\n";
+	print ":wd:$lem\tirreg_nom\n";
+	return;
     }
-    return if $class eq '';
 
     print "\n:le:$lem\n";
     print ":aj:$stem\t$class\n";
@@ -194,7 +218,7 @@ sub fixlem {
 
     return undef if ($lem =~ /\s/);
 
-    $lem =~ tr/\-//d;
+    $lem =~ tr/Jj\-/Ii/d;
     $lem =~ s/\&([A-Za-z])(uml|acute);/$1/g;
     $lem =~ s/\&([A-Za-z])grave;/$1\\/g;
 
