@@ -176,6 +176,36 @@
 :vb:faceste   irreg_pp1 imperf subj 2nd pl
 :vb:facessero   irreg_pp1 imperf subj 3rd pl
 
+:le:andare
+:vb:vo\		irreg_pp1 pres ind 1st sg
+:vb:vado	irreg_pp1 pres ind 1st sg
+:vb:vai		irreg_pp1 pres ind 2nd sg
+:vb:va		irreg_pp1 pres ind 3rd sg
+:vb:vanno	irreg_pp1 pres ind 3rd pl
+:vb:vada	irreg_pp1 pres subj 1st sg
+:vb:vada	irreg_pp1 pres subj 2nd sg
+:vb:vada	irreg_pp1 pres subj 3rd sg
+:vb:vadano	irreg_pp1 pres subj 3rd pl
+:vb:va\		irreg_pp1 pres imperat 2nd sg
+:vb:vada	irreg_pp1 pres imperat 3rd sg
+:vb:vadano	irreg_pp1 pres imperat 3rd pl
+:de:and		are_vb
+:vb:andrei   irreg_pp1 pres cond 1st sg
+:vb:andria   irreg_pp1 pres cond 1st sg
+:vb:andresti   irreg_pp1 pres cond 2nd sg
+:vb:andrebbe   irreg_pp1 pres cond 3rd sg
+:vb:andria   irreg_pp1 pres cond 3rd sg
+:vb:andremmo   irreg_pp1 pres cond 1st pl
+:vb:andreste   irreg_pp1 pres cond 2nd pl
+:vb:andrebbero   irreg_pp1 pres cond 3rd pl
+:vb:andriano   irreg_pp1 pres cond 3rd pl
+:vb:andro\   irreg_pp1 fut ind 1st sg
+:vb:andrai   irreg_pp1 fut ind 2nd sg
+:vb:andra\   irreg_pp1 fut ind 3rd sg
+:vb:andremo   irreg_pp1 fut ind 1st pl
+:vb:andrete   irreg_pp1 fut ind 2nd pl
+:vb:andranno   irreg_pp1 fut ind 3rd pl
+
 :le:nascere
 :vb:nacqui	irreg_pp1 pastabs ind 1st sg
 :vb:nacque	irreg_pp1 pastabs ind 3rd sg
