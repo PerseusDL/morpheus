@@ -86,7 +86,10 @@ sub donom {
     my $class = 'indecl';
     my $stem = $lem;
 
-    if ($stem =~ s/o$//) {
+    if ($stem =~ s/io//) {
+	$class = 'io_i';
+    }
+    elsif ($stem =~ s/o$//) {
 	$class = 'o_i';
     }
     elsif ($stem =~ s/a$//) {
