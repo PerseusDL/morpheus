@@ -460,28 +460,32 @@ checkstring3(gk_word *Gkword)
       }
     }
 
-/* now as for final n, this could be tacked on or could be hiding an s */
-    if (cmpend(workword_of(Gkword), "n", workword))
+/* now as for final n, this could be tacked on or could be hiding an s,
+   but not if there is an analysis that includes that n  */
+    if (! totanal_of(Gkword))
     {
-      strcpy(workword, workword_of(Gkword));
-      workword[strlen(workword) - 1] = 's';	/* ...s-ne -> ...n */
-      set_workword(Gkword, workword);
-      workval = checkstring3(Gkword);
-      if (workval)
+      if (cmpend(workword_of(Gkword), "n", workword))
       {
-	rval += workval;
-      }
-      workword[strlen(workword) - 1] = 0;	/* ...Vne -> ...Vn */
-      set_workword(Gkword,workword);
-      workval = checkstring3(Gkword);
-      if (workval)
-      {
-	rval += workval;
-      }
-      if (rval)
-      {
-        set_workword(Gkword, saveword);
-	return(rval);
+        strcpy(workword, workword_of(Gkword));
+        workword[strlen(workword) - 1] = 's';	/* ...s-ne -> ...n */
+        set_workword(Gkword, workword);
+        workval = checkstring3(Gkword);
+        if (workval)
+        {
+	  rval += workval;
+        }
+        workword[strlen(workword) - 1] = 0;	/* ...Vne -> ...Vn */
+        set_workword(Gkword,workword);
+        workval = checkstring3(Gkword);
+        if (workval)
+        {
+	  rval += workval;
+        }
+        if (rval)
+        {
+          set_workword(Gkword, saveword);
+	  return(rval);
+        }
       }
     }
   }

@@ -213,15 +213,21 @@ checkcrasis(gk_word *Gkword)
 {
 	int i;
 	char saveword[MAXWORDSIZE];
-	char word1[MAXWORDSIZE];
-	char word2[MAXWORDSIZE];
-	char * string = workword_of(Gkword);
-	char * mungedword;
+	char* string = workword_of(Gkword);
+	char* mungedword;
 	int rval = 0;
 	
 	if( nocrasis ) return(0);
 	
-	if( cur_lang() == LATIN ) {
+	if( cur_lang() == LATIN )
+	{
+		Xstrncpy(saveword, string, MAXWORDSIZE);
+		for (i = 0; i < MAXWORDSIZE;  i ++)
+		{
+			if (string[i] == 0)
+				break;
+			string[i] = tolower(string[i]);
+		}
 		for(i=0;i<LENGTH_OF(LatSync);i++) {
 			mungedword = LatSync[i].mungedword;
 		
