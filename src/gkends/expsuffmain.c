@@ -17,8 +17,11 @@ main(int argc, char * argv[])
 	int formcode = DODERIV;
 	int c, errflg = 0;
 	
-	while (!errflg && (c = getopt(argc,argv,"L")) != -1) {
+	while (!errflg && (c = getopt(argc,argv,"IL")) != -1) {
 		switch (c) {
+			case 'I':
+				set_lang(ITALIAN);
+				break;
 			case 'L':
 				set_lang(LATIN);
 				break;

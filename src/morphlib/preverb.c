@@ -191,7 +191,7 @@ rstprevb(char *word, char *prevb, gk_string *gstr)
 	fullpb[0] = 0;
 	if( Is_indeclform(oddpb) ) return;
 
-	if( cur_lang() == LATIN ) {
+	if( cur_lang() == LATIN || cur_lang() == ITALIAN ) {
 	   if( !has_morphflag(oddpb,RAW_PREVERB) ) {
 		char * t;
 

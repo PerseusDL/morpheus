@@ -466,7 +466,7 @@ add_augment(gk_word *gkform, MorphFlags *mf, int maxaugs)
 		return(0);
 	}
 
-	if( cur_lang() == LATIN ) return(0);
+	if( cur_lang() == LATIN || cur_lang() == ITALIAN ) return(0);
 
 	if( ! needs_augment2(gkform,res) ) {
 		zap_morphflag(morphflags_of(stem_gstr_of(gkform)),SYLL_AUGMENT);

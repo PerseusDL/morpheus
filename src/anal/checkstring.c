@@ -41,7 +41,7 @@ checkstring0(char *string, PrntFlags prntflags, FILE *fout)
 	set_workword(Gkword,string);
 	set_prntflags(Gkword,prntflags);
 	set_rawword(Gkword,workword_of(Gkword));
-	standword(workword_of(Gkword));
+	if( cur_lang() != ITALIAN ) standword(workword_of(Gkword));
 	stand_phonetics(Gkword);
 	
 	checkstring1(Gkword);

@@ -52,7 +52,7 @@ checkforredupderiv(char *stemstr, char *stemkeys)
 {
 	char noredup[MAXWORDSIZE];
 		
-	if( Is_cons(*stemstr) && cur_lang() != LATIN ) {
+	if( Is_cons(*stemstr) && cur_lang() != LATIN  && cur_lang() != ITALIAN ) {
 		if( ! un_redupl(stemstr,noredup,'e')) return(0);
 /*
 		return(checkforderiv2(noredup,stemkeys,stemstr,""));
@@ -414,7 +414,7 @@ checkcomderiv2(char *asuffkeys, char *dstem, char *dstemkeys, char *suffix, char
 			 */
 
 			tmp1[0] = 0;
-			if( cur_lang() != LATIN ) {
+			if( cur_lang() != LATIN && cur_lang() != ITALIAN ) {
 				if( ! (*had_redupl) &&  (Is_perfect(stemtype_of(gstr) )) ) {
 					continue;
 				}

@@ -33,7 +33,7 @@ printf("half1 stem preverb [%s] stem [%s] end [%s]\n", preverb_of(Gkword) , stem
 	}
 
 
-	if( cur_lang() != LATIN && Is_vowel(*stem) && getbreath(stem) == NOBREATH  ) {
+	if( cur_lang() != LATIN && cur_lang() != ITALIAN && Is_vowel(*stem) && getbreath(stem) == NOBREATH  ) {
 
 		Xstrncpy(savestem,stem_of(Gkword),(int)sizeof savestem );
 /*

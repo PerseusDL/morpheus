@@ -60,6 +60,8 @@ MorphPathName(char *shorts, char *full)
 	
 	if( cur_lang() == LATIN ) 
 		sprintf(full,"%s/Latin/%s", s , shorts );
+	else if ( cur_lang() == ITALIAN ) 
+		sprintf(full,"%s/Italian/%s", s , shorts );
 	else
 		sprintf(full,"%s/Greek/%s", s , shorts );
 	

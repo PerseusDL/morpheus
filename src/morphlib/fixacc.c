@@ -10,7 +10,7 @@ putsimpleacc(char *s)
 	MorphFlags * mflags;
 	char tmpw[MAXWORDSIZE];
 	
-	if( cur_lang() == LATIN ) return;
+	if( cur_lang() == LATIN || cur_lang() == ITALIAN ) return;
 
 	gkword = (gk_word *) CreatGkword(1);
 
@@ -33,7 +33,7 @@ FixRecAcc(gk_word *gkform, MorphFlags *mflags, char *word)
 	word_form form_info;
 
 
-	if( cur_lang() == LATIN ) return;
+	if( cur_lang() == LATIN || cur_lang() == ITALIAN ) return;
 	form_info = forminfo_of(gkform);
 
 	/* if accent's already there, forget it */
@@ -115,7 +115,7 @@ FixPersAcc2(gk_string *gstring, MorphFlags *mflags, gk_string *stemgstr, char *e
 
 	*word = 0;
 
-	if( cur_lang() == LATIN ) {
+	if( cur_lang() == LATIN || cur_lang() == ITALIAN ) {
 		Xstrncpy(word,stem,MAXWORDSIZE);
 		Xstrncat(word,endstring,MAXWORDSIZE);
 		return;
@@ -335,7 +335,7 @@ fixnacc2(char *targstring, gk_string *gstring, word_form form_info, int is_endin
 	is_contr = has_morphflag(mflags,CONTRACTED);
 
 
-	if( cur_lang() == LATIN ) return;
+	if( cur_lang() == LATIN || cur_lang() == ITALIAN ) return;
 	/* if accent's already there, forget it */
 	for (p=targstring;*p;p++)
 		if (Is_accent(*p))

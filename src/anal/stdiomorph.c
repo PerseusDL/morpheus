@@ -21,7 +21,7 @@ double string_time = 0;
 char long_string[BUFSIZ];
 int timeit = 1;
 
-#define ARGS "LalmnbckidsxSVpPeTo:"
+#define ARGS "ILalmnbckidsxSVpPeTo:"
 #define PATH_SEP '/'
 
 main(argc,argv)
@@ -59,6 +59,9 @@ char *argv[];
       break;
     case 'c':
       flags |= CHECK_PREVERB;
+      break;
+    case 'I':
+      set_lang(ITALIAN);
       break;
     case 'L':
       set_lang(LATIN);

@@ -225,6 +225,8 @@ Morph_args arg_tense[] = {
 	"pluperfect",		PLUPERF,	new_tense,
 	"futperf",		FUTPERF,	new_tense,
 	"futperfect",		FUTPERF,	new_tense,
+	"pastabs",		PASTABSOLUTE,	new_tense,
+	"pastabsolute",		PASTABSOLUTE,	new_tense,
 	0,
 };
 
@@ -262,6 +264,8 @@ Morph_args arg_mood[] = {
 	"infinitive",		INFINITIVE,			new_mood,
 	"gerundive",		GERUNDIVE,			new_mood,
 	"supine",		SUPINE,				new_mood,
+	"cond",		CONDITIONAL,				new_mood,
+	"conditional",		CONDITIONAL,				new_mood,
 	0,
 
 };

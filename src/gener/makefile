@@ -16,11 +16,11 @@ LINTFLAGS= -I${INCLUDE} -DDEBUG
 RM=/bin/rm
 CONJOBJ= conjmain.o conjsys.o combconj.o ppasstype.o
 
-ALL= do_conj gener checkstype ${GENERLIB}
+ALL=do_conj gener checkstype ${GENERLIB}
 
 all: ${ALL}
 
-install:
+install: all
 	cp ${ALL} ../../bin
 
 ${GENERLIB}: ${GENEROBJ}

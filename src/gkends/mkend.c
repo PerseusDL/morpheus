@@ -82,7 +82,7 @@ static gk_string BlankGstr;
 printf("no contr in: "); PrntGkStr(Have,stdout);
 
 */
-		if( takes_nu_movable(Have) ) {
+		if( takes_nu_movable(Have) && cur_lang() != ITALIAN && cur_lang() != LATIN ) {
 			gk_string TmpGstr;
 			TmpGstr = * Have;
 			
@@ -224,7 +224,7 @@ printf("saw_vowel on [%s]\n", gkstring_of(Have) );
  * now. I will fix this for latin for now.
  * grc 8/12/96
  */
-	 if( Is_breath(lastc) && *ep == HARDLONG && cur_lang() != LATIN ) {
+	 if( Is_breath(lastc) && *ep == HARDLONG && cur_lang() != LATIN && cur_lang() != ITALIAN ) {
 	 		*ep = lastc;
 	 		lastc = *(stem+strlen(stem)-2);
 	 		ep = stem+strlen(stem)-1;
@@ -242,7 +242,7 @@ printf("gks [%s] lastc [%c] stem [%s] endstr [%s]\n", gkstring_of(gstr), lastc ,
  * grc 8/12/96
  */
 
-   if( cur_lang() != LATIN ) {
+   if( cur_lang() != LATIN && cur_lang() != ITALIAN ) {
 	/*
 	 * if you have "e" + "_s", convert this to "eis".
 	 *

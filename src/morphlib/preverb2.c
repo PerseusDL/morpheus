@@ -30,7 +30,7 @@ static exp_prevb2(char *, char *, gk_string *);
 CombPbStem(char *curpb, char *restofs, Dialect dial, MorphFlags *pbflags)
 {
   if( ! * restofs ) return(YES);
-  if( cur_lang() == LATIN ) 
+  if( cur_lang() == LATIN || cur_lang() == ITALIAN ) 
 	return(CombPbStemL(curpb,restofs, dial,pbflags));
   else
 	return(CombPbStemG(curpb,restofs, dial,pbflags));

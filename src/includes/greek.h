@@ -134,6 +134,7 @@ replaced with something in <gkstring.h> grc 2/1/87
 #define	PERFECT	05
 #define	PLUPERF	06
 #define	FUTPERF	(07|SECONDARY)
+#define PASTABSOLUTE	010
 
 /* verb voices */
 #define	NVOICES	5
@@ -153,6 +154,7 @@ replaced with something in <gkstring.h> grc 2/1/87
 #define	PARTICIPLE	6
 #define	GERUNDIVE	7
 #define	SUPINE		8
+#define	CONDITIONAL		9
 /*
 #define TOS_VADJ	7
 #define TEOS_VADJ	8

@@ -19,6 +19,7 @@
 #define LATIN		0100000
 #define LEMCOUNT	0200000
 #define VERBS_ONLY	0400000
+#define ITALIAN		01000000
 
 typedef int PrntFlags;
 

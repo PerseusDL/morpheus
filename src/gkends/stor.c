@@ -131,7 +131,7 @@ LPrntGstr(gk_string *gstr, FILE *f)
 		fprintf(f,"%s", line );
 	} else {
 		SprintGkFlags(gstr,tmp," ",0);
-		if( cur_lang() == LATIN )
+		if( cur_lang() == LATIN  || cur_lang() == ITALIAN )
 			sprintf(line,"%s%s\n", gkstring_of(gstr), tmp );
 		else
 			sprintf(line,"<G>%s</G>%s\n", gkstring_of(gstr), tmp );
