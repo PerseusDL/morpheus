@@ -1054,21 +1054,16 @@
 :wd:pai/sa_s   irreg_adj3 fem acc pl doric aeolic
 
 :le:path/r
-:wd:path/r irreg_decl3 masc nom sg
 :wd:pa/ter irreg_decl3 masc voc sg
 :wd:patra/si irreg_decl3 masc dat pl
 :wd:pate/ros irreg_decl3 masc gen sg poetic
 :wd:pate/ri irreg_decl3 masc dat sg poetic
 :wd:patrw=n irreg_decl3 masc gen pl epic
-:wd:patro/s   irreg_decl3 masc gen sg
-:wd:patri/   irreg_decl3 masc dat sg
-:wd:pa/tera   irreg_decl3 masc acc sg
+:no:pat irreg_decl3 masc hr_eros suff_acc masc
 :wd:pate/roin   irreg_decl3 masc dat dual
 :wd:pate/roii+n   irreg_decl3 masc dat dual epic
-:wd:pa/tere   irreg_decl3 masc acc dual
 :wd:pa/teres   irreg_decl3 masc nom pl
 :wd:pate/rwn   irreg_decl3 masc gen pl
-:wd:pa/teras   irreg_decl3 masc acc pl
 
 :le:plei/wn
 :wd:pleu=n   wn_on_comp neut nom/voc/acc sg doric ionic

@@ -446,17 +446,17 @@ p@as_asa_an irreg_adj3  masc neut gen dat dual needs_acc
 p@as_asa_an irreg_adj3  masc needs_acc pl 
 
 :le:path/r
-:wd:path/r irreg_decl3 masc nom sg
+#:wd:path/r irreg_decl3 masc nom sg
 :wd:pa/ter irreg_decl3 masc voc sg
 :wd:patra/si irreg_decl3 masc dat pl
 :wd:pate/ros irreg_decl3 masc gen sg poetic
 :wd:pate/ri irreg_decl3 masc dat sg poetic
 :wd:patrw=n irreg_decl3 masc gen pl epic
-patr@decl3 irreg_decl3 masc  gen dat sg needs_acc
+:no:pat irreg_decl3 masc hr_eros suff_acc masc
+#patr@decl3 irreg_decl3 masc  gen dat sg needs_acc
 pater@decl3 irreg_decl3 masc  nom dual pl needs_acc
 pater@decl3 irreg_decl3 masc  gen dual pl needs_acc
 pater@decl3 irreg_decl3 masc  dat dual needs_acc
-pater@decl3 irreg_decl3 masc  acc  needs_acc
 
 :le:plei/wn
 pleu=n wn_on_comp doric ionic neut nom voc acc sg
