@@ -353,6 +353,7 @@ er@ofut		irreg_pp1 fut ind act
 #
 :vb:esse	irreg_pp1 pres inf act
 :vb:fore	irreg_pp1 fut inf act
+fore@basvb2	irreg_pp1 imperf subj act early
 :vs:fut		pp4 fut part
 e_ns    	irreg_pp1 pres part masc/fem/neut nom/voc sg comp_only
 e_ns    	irreg_pp1 pres part neut acc sg comp_only

@@ -730,11 +730,17 @@
 :vb:era_tis   irreg_pp1 imperf ind act 2nd pl
 :vb:erant   irreg_pp1 imperf ind act 3rd pl
 :vb:essem   irreg_pp1 imperf subj act 1st sg
+:vb:forem   irreg_pp1 imperf subj act 1st sg early
 :vb:esse_s   irreg_pp1 imperf subj act 2nd sg
+:vb:fore_s   irreg_pp1 imperf subj act 2nd sg early
 :vb:esset   irreg_pp1 imperf subj act 3rd sg
+:vb:foret   irreg_pp1 imperf subj act 3rd sg early
 :vb:esse_mus   irreg_pp1 imperf subj act 1st pl
+:vb:fore_mus   irreg_pp1 imperf subj act 1st pl early
 :vb:esse_tis   irreg_pp1 imperf subj act 2nd pl
+:vb:fore_tis   irreg_pp1 imperf subj act 2nd pl early
 :vb:essent   irreg_pp1 imperf subj act 3rd pl
+:vb:forent   irreg_pp1 imperf subj act 3rd pl early
 
 :le:prosum
 :vb:pro_sum		irreg_pp1 1st sg pres ind act
