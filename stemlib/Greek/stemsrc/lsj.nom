@@ -45472,6 +45472,9 @@
 :le:e)ndi/plwma
 :no:e)ndiplw ma_matos neut
 
+:le:e
+:no:e is_ews fem
+
 :le:e)ndogenh/s
 :aj:e)ndogen hs_es suff_acc
 
@@ -83311,6 +83314,9 @@
 :le:limnei/a
 :no:limnei h_hs fem
 
+:le:limnei
+:no:limn is_ews fem
+
 :le:li/mnhqen
 :wd:li/mnhqen adverb
 
@@ -93438,6 +93444,9 @@
 
 :le:*neme/sion
 :no:*nemesi os_ou neut
+
+:le:ne
+:no: is_ews fem
 
 :le:nemesi/ths
 :no:nemesi_t hs_ou masc stem_acc
@@ -110088,6 +110097,9 @@
 
 :le:peri/sswma
 :no:perissw ma_matos neut
+
+:le:peri
+:no:pe ma_matos neut
 
 :le:perisswmatiko/s
 :aj:perisswmatik os_h_on suff_acc
@@ -154725,6 +154737,9 @@
 
 :le:w)rugmo/s
 :no:w)rugm os_ou suff_acc masc
+
+:le:w
+:no:w ma_matos neut
 
 :le:w)rudo/n
 :wd:w)rudo/n adverb
