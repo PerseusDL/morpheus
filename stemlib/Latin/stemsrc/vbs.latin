@@ -4582,8 +4582,9 @@
 :de:de_-spo^li	are_vb
 :le:despondeo
 :vs:de_-spond	conj2
-:vs:de_-sponspond perfstem
-:vs:de_-sponspons pp4
+:vs:de_-spond	perfstem
+:vs:de_-spopond	perfstem
+:vs:de_-spons	pp4
 :le:despumo
 :de:de_-spu_m	are_vb
 :le:despuo
@@ -13445,6 +13446,7 @@
 :vs:re^-ci^n	conj3
 :le:recipero
 :de:re^-ci^pe^r	are_vb
+:de:re^-cu^p^er are_vb orth
 :le:recipio
 :vs:re^-ci^p	conj3_io
 :vs:re^-ce_p perfstem

@@ -12147,6 +12147,10 @@ anti_quum
 
 	<pos>adv.</pos>
 anti_que_		<orth>an-ti_qui^tu^s</orth>	<orth>anti_qui^-tu^s</orth>	<orth>anti_qui^tu^s</orth>	<orth>anti_que_</orth>
+:le:antique
+:wd:anti_que_	adverb
+:wd:anti_quitus	adverb
+
 antirrhi_non		<orth type=alt>-um</orth>	
 :le:antirrhinon
 :no:antirrhi_n	os_i neut
@@ -61935,6 +61939,9 @@ do_dra_lis
 
 
 do_drans		<itype>antis</itype>	<gen>m.</gen>
+:le:dodrans
+:no:do_dran	s_tis masc
+
 do_dranta_lis		
 :le:dodrantalis
 :aj:do_dranta_l	is_e
@@ -70253,7 +70260,7 @@ excellentia
 :no:excellenti	us_i neut pl
 
 :le:excellenter
-:wd:excellenter	adv
+:wd:excellenter	adverb
 
 excelsum		
 :le:excelsum
@@ -209819,6 +209826,9 @@ tri^umvi^ra_tus
 
 
 triumvi^ri		<orth>tresvi^ri</orth>	<orth>IIIvi^ri</orth>	<itype>o_rum or u_m</itype>	<gen>m.</gen>
+:le:triumviri
+:no:triumvi^r	us_i masc pl
+
 tri^uncis		
 :le:triuncis
 :aj:tri^unc	is_e
