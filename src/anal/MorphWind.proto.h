@@ -1,0 +1,32 @@
+
+/* MorphWind.c */
+int UncheckMenu(MenuHandle);
+int SetTextMenus(Boolean);
+int SetNonTextMenus(void);
+int Activate(Boolean);
+int Key(void);
+int Close(void);
+int MakeWind(Boolean, StringPtr, AppFile *);
+int MakeDWindow(Boolean);
+int DoFileMenu(int);
+int DoFontMenu(int);
+int DoSizeMenu(int);
+int DoFormatMenu(int);
+int DoFiltMenu(int);
+int DoDictMenu(int);
+int LOGFILE(char *);
+int EnableDialects(void);
+int DisableDialects(void);
+int toggle_quickflag(void);
+int CheckQuickFlag(void);
+int ZapWindowDialect(WindowPtr);
+Dialect GetWindowDialect(WindowPtr);
+int SetWindowDialect(WindowPtr, Dialect);
+int SetDialectMenu(WindowPtr);
+int SetNewDialect(int);
+int CheckDialects(Dialect);
+int GetDictWindow(void);
+int DoAbout(void);
+int CheckFront(void);
+int main(void);
+int SKErrMess(void);

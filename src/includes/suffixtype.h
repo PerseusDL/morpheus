@@ -1,0 +1,4 @@
+
+
+typedef Stemtype Suffixtype;
+
