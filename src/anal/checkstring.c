@@ -276,6 +276,7 @@ checkstring3(gk_word *Gkword)
   char workword[MAXWORDSIZE];
   char * string = workword_of(Gkword);
   int rval = 0;
+  int workval = 0;
   gk_analysis *oldanal, *newanal;
   int totanal, acount;
 
@@ -396,19 +397,69 @@ checkstring3(gk_word *Gkword)
   /*
    * 12/8/97 
    */
-  if( cur_lang() == LATIN && 
-      (cmpend(workword_of(Gkword),"ast",workword) ||
+/* Latin prodelision:  this may be too simplistic */
+  if (cur_lang() == LATIN)
+  {
+    if (cmpend(workword_of(Gkword),"ast",workword) ||
        cmpend(workword_of(Gkword),"est",workword) ||
-       cmpend(workword_of(Gkword),"umst",workword))) {
-    strcpy(workword,workword_of(Gkword));
-    workword[strlen(workword)-2] = 0;
-    set_workword(Gkword,workword);
-    rval = checkstring3(Gkword);
-    if( rval ) {
-      set_workword(Gkword,saveword);
-      return(rval);
+       cmpend(workword_of(Gkword),"umst",workword) ||
+       cmpend(workword_of(Gkword),"amst",workword) ||
+       cmpend(workword_of(Gkword),"emst",workword) ||
+       cmpend(workword_of(Gkword),"omst",workword))
+    {
+      strcpy(workword,workword_of(Gkword));
+      workword[strlen(workword)-2] = 0;
+      set_workword(Gkword,workword);
+      rval = checkstring3(Gkword);
+      if (rval)
+      {
+        set_workword(Gkword,saveword);
+        return(rval);
+      }
+    }
+
+/* ...us + est written as ...ust */
+    if (cmpend(workword_of(Gkword), "ust", workword))
+    {
+      strcpy(workword, workword_of(Gkword));
+      workword[strlen(workword) - 1] = 0;
+      set_workword(Gkword,workword);
+      rval = checkstring3(Gkword);
+      if (rval)
+      {
+        set_workword(Gkword,saveword);
+        return(rval);
+      }
+    }
+
+/* ...ist could be from either i+est (usual) or is+est (3rd decl genitives esp),
+   and ...ost could be from os+est (old nominative) or o+st */
+    if (cmpend(workword_of(Gkword), "ist", workword) ||
+	cmpend(workword_of(Gkword), "ost", workword))
+    {
+      strcpy(workword, workword_of(Gkword));
+      workword[strlen(workword) - 1] = 0;	/* try -is first */
+      set_workword(Gkword,workword);
+      workval = checkstring3(Gkword);
+      if (workval)
+      {
+	rval += workval;
+      }
+      workword[strlen(workword) - 1] = 0;	/* now try -i */
+      set_workword(Gkword,workword);
+      workval = checkstring3(Gkword);
+      if (workval)
+      {
+	rval += workval;
+      }
+      if (rval)
+      {
+        set_workword(Gkword, saveword);
+	return(rval);
+      }
     }
   }
+
 
 /* why is this still here?  not obvious */
 /*
