@@ -6,11 +6,7 @@ aer@decl3	irreg_nom3 masc
 alter 	irreg_nom2 masc nom/voc sg
 altera 	irreg_nom2 gen nom/voc sg
 alterum 	irreg_nom2 neut nom/voc sg
-:wd:alteri_us	irreg_nom2 masc fem neut gen sg
-alter@decl2 irreg_nom2 gen pl
-alter@decl2 irreg_nom2 dat
-alter@decl2 irreg_nom2 acc
-alter@decl2 irreg_nom2 abl
+alter@ille	irreg_nom2
 
 :le:alius#2
 :wd:alius irreg_nom2 neut nom acc sg
@@ -474,9 +470,10 @@ mei_	pron1 masc fem gen sg
 mihi	pron1 masc fem dat sg
 me_	pron1 masc fem acc sg
 me_me_	pron1 masc fem acc sg
-me_d	pron1 masc fem acc sg
+me_d	pron1 masc fem acc sg archaic
 me_met	pron1 masc fem acc sg
 me_	pron1 masc fem abl sg
+me_d	pron1 masc fem abl sg archaic
 
 :le:nos
 no_s	pron1 masc fem nom pl
@@ -498,7 +495,9 @@ tu_	pron2 masc fem nom voc sg
 tui_	pron2 masc fem gen sg
 tibi	pron2 masc fem dat sg
 te_	pron2 masc fem acc sg
+te_d	pron2 masc fem acc sg archaic
 te_	pron2 masc fem abl sg
+te_d	pron2 masc fem abl sg archaic
 tutemet	pron2 masc fem nom sg
 vo_s	pron2 masc fem nom voc pl
 vostrum	pron2 masc fem gen pl
@@ -612,32 +611,13 @@ tr@decl3_i	numeral masc fem neut abl pl
 alter-uter 	irreg_adj2 masc nom/voc sg
 alter-utra 	irreg_adj2 gen nom/voc sg
 alter-utrum 	irreg_adj2 neut nom/voc sg
-:wd:alter-utri_us	irreg_adj2 masc fem neut gen sg
-alter-utr@decl2 irreg_adj2 gen pl masc neut
-alter-utr@decl2 irreg_adj2 dat masc neut
-alter-utr@decl2 irreg_adj2 acc masc neut
-alter-utr@decl2 irreg_adj2 abl masc neut
-
-alter-utr@decl1 irreg_adj2 gen pl fem
-alter-utr@decl1 irreg_adj2 dat fem
-alter-utr@decl1 irreg_adj2 acc fem
-alter-utr@decl1 irreg_adj2 abl fem
-
+alter-utr@ille	irreg_adj2
 
 :le:uter
 uter 	irreg_adj2 masc nom/voc sg
 utra 	irreg_adj2 gen nom/voc sg
 utrum 	irreg_adj2 neut nom/voc sg
-:wd:utri_us	irreg_adj2 masc fem neut gen sg
-utr@decl2 irreg_adj2 gen pl masc neut
-utr@decl2 irreg_adj2 dat masc neut
-utr@decl2 irreg_adj2 acc masc neut
-utr@decl2 irreg_adj2 abl masc neut
-
-utr@decl1 irreg_adj2 gen pl fem
-utr@decl1 irreg_adj2 dat fem
-utr@decl1 irreg_adj2 acc fem
-utr@decl1 irreg_adj2 abl fem
+utr@ille	irreg_adj2
 
 :le:vetus
 :wd:vetus	irreg_adj3 masc fem nom voc sg

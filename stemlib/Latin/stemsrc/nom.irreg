@@ -12,24 +12,30 @@
 :wd:aeribus   irreg_nom3 masc abl pl
 
 :le:alter
-:wd:alteri_us	irreg_nom2 masc fem neut gen sg
-:wd:altere_   irreg_nom2 adverbial dat
-:wd:altere_   irreg_nom2 adverbial acc
-:wd:altere_   irreg_nom2 adverbial abl
 :wd:altera   irreg_nom2 sg
 :wd:alter   irreg_nom2 masc nom/voc sg
+:wd:altera   irreg_nom2 fem nom sg
 :wd:alterum   irreg_nom2 neut nom/voc sg
-:wd:altero_   irreg_nom2 dat sg
-:wd:alterum   irreg_nom2 masc/fem acc sg
-:wd:alterum   irreg_nom2 neut acc sg
-:wd:altero_   irreg_nom2 abl sg
-:wd:altero_rum   irreg_nom2 gen pl
-:wd:alteru_m   irreg_nom2 gen pl poetic
-:wd:altere_   irreg_nom2 adverbial gen pl
-:wd:alteri_s   irreg_nom2 dat pl
-:wd:altero_s   irreg_nom2 masc/fem acc pl
-:wd:altera   irreg_nom2 neut acc pl
-:wd:alteri_s   irreg_nom2 abl pl
+:wd:alterius   irreg_nom2 masc/fem/neut gen sg
+:wd:alteri_   irreg_nom2 masc/fem/neut dat sg
+:wd:altero_   irreg_nom2 masc/neut dat sg
+:wd:alterae   irreg_nom2 fem dat sg
+:wd:alterum   irreg_nom2 masc acc sg
+:wd:alteram   irreg_nom2 fem acc sg
+:wd:altero_   irreg_nom2 masc/neut abl sg
+:wd:altera_   irreg_nom2 fem abl sg
+:wd:alteri_   irreg_nom2 masc nom/voc pl
+:wd:alterae   irreg_nom2 fem nom/voc pl
+:wd:altera   irreg_nom2 neut nom/voc/acc pl
+:wd:altero_rum   irreg_nom2 masc/neut gen pl
+:wd:alteru_m   irreg_nom2 masc/neut gen pl poetic
+:wd:altera_rum   irreg_nom2 fem gen pl
+:wd:alteri_s   irreg_nom2 masc/neut dat pl
+:wd:alteri_s   irreg_nom2 fem dat pl
+:wd:altero_s   irreg_nom2 masc acc pl
+:wd:altera_s   irreg_nom2 fem acc pl
+:wd:alteri_s   irreg_nom2 masc/neut abl pl
+:wd:alteri_s   irreg_nom2 fem abl pl
 
 :le:alius#2
 :wd:alius irreg_nom2 neut nom acc sg
@@ -748,6 +754,7 @@
 :wd:eius   pron3 masc/fem/neut gen sg
 :wd:eo_   pron3 masc/fem/neut dat sg
 :wd:eum   pron3 masc acc sg
+:wd:eom   pron3 masc acc sg
 :wd:eam   pron3 fem acc sg
 :wd:eo_   pron3 masc/neut abl sg
 :wd:ea_   pron3 fem abl sg
@@ -793,10 +800,10 @@
 :wd:mihi   pron1 masc/fem dat sg
 :wd:me_   pron1 masc/fem acc sg
 :wd:me_me_   pron1 masc/fem acc sg
-:wd:me_d   pron1 masc/fem acc sg archaic
+:wd:me_d   pron1 masc/fem acc sg
 :wd:me_met   pron1 masc/fem acc sg
 :wd:me_   pron1 masc/fem abl sg
-:wd:me_d   pron1 masc/fem abl sg archaic
+:wd:me_d   pron1 masc/fem abl sg
 
 :le:nos
 :wd:egomet   pron1 masc/fem nom sg
@@ -818,9 +825,9 @@
 :wd:tui_   pron2 masc/fem gen sg
 :wd:tibi   pron2 masc/fem dat sg
 :wd:te_   pron2 masc/fem acc sg
-:wd:te_d   pron2 masc/fem acc sg archaic
+:wd:te_d   pron2 masc/fem acc sg
 :wd:te_   pron2 masc/fem abl sg
-:wd:te_d   pron2 masc/fem abl sg archaic
+:wd:te_d   pron2 masc/fem abl sg
 :wd:vo_s   pron2 masc/fem nom/voc pl
 :wd:vo_smet   pron2 masc/fem nom/acc pl
 :wd:vostrum   pron2 masc/fem gen pl
@@ -1010,17 +1017,21 @@
 :wd:tribus   numeral masc/fem/neut abl pl
 
 :le:alteruter
-:wd:alter-utri_us	irreg_adj2 masc fem neut gen sg
 :wd:alterutra   irreg_adj1 sg
 :wd:alteruter   irreg_adj1 masc nom/voc sg
+:wd:alterutra   irreg_adj1 fem nom sg
 :wd:alterutrum   irreg_adj1 neut nom/voc sg
+:wd:alterutrius   irreg_adj1 masc/fem/neut gen sg
+:wd:alterutri_   irreg_adj1 masc/fem/neut dat sg
 :wd:alterutro_   irreg_adj1 masc/neut dat sg
 :wd:alterutrae   irreg_adj1 fem dat sg
 :wd:alterutrum   irreg_adj1 masc acc sg
 :wd:alterutram   irreg_adj1 fem acc sg
-:wd:alterutrum   irreg_adj1 neut acc sg
 :wd:alterutro_   irreg_adj1 masc/neut abl sg
 :wd:alterutra_   irreg_adj1 fem abl sg
+:wd:alterutri_   irreg_adj1 masc nom/voc pl
+:wd:alterutrae   irreg_adj1 fem nom/voc pl
+:wd:alterutra   irreg_adj1 neut nom/voc/acc pl
 :wd:alterutro_rum   irreg_adj1 masc/neut gen pl
 :wd:alterutru_m   irreg_adj1 masc/neut gen pl poetic
 :wd:alterutra_rum   irreg_adj1 fem gen pl
@@ -1028,22 +1039,25 @@
 :wd:alterutri_s   irreg_adj1 fem dat pl
 :wd:alterutro_s   irreg_adj1 masc acc pl
 :wd:alterutra_s   irreg_adj1 fem acc pl
-:wd:alterutra   irreg_adj1 neut acc pl
 :wd:alterutri_s   irreg_adj1 masc/neut abl pl
 :wd:alterutri_s   irreg_adj1 fem abl pl
 
 :le:uter
-:wd:utri_us	irreg_adj2 masc fem neut gen sg
 :wd:utra   irreg_adj1 sg
 :wd:uter   irreg_adj1 masc nom/voc sg
+:wd:utra   irreg_adj1 fem nom sg
 :wd:utrum   irreg_adj1 neut nom/voc sg
+:wd:utrius   irreg_adj1 masc/fem/neut gen sg
+:wd:utri_   irreg_adj1 masc/fem/neut dat sg
 :wd:utro_   irreg_adj1 masc/neut dat sg
 :wd:utrae   irreg_adj1 fem dat sg
 :wd:utrum   irreg_adj1 masc acc sg
 :wd:utram   irreg_adj1 fem acc sg
-:wd:utrum   irreg_adj1 neut acc sg
 :wd:utro_   irreg_adj1 masc/neut abl sg
 :wd:utra_   irreg_adj1 fem abl sg
+:wd:utri_   irreg_adj1 masc nom/voc pl
+:wd:utrae   irreg_adj1 fem nom/voc pl
+:wd:utra   irreg_adj1 neut nom/voc/acc pl
 :wd:utro_rum   irreg_adj1 masc/neut gen pl
 :wd:utru_m   irreg_adj1 masc/neut gen pl poetic
 :wd:utra_rum   irreg_adj1 fem gen pl
@@ -1051,7 +1065,6 @@
 :wd:utri_s   irreg_adj1 fem dat pl
 :wd:utro_s   irreg_adj1 masc acc pl
 :wd:utra_s   irreg_adj1 fem acc pl
-:wd:utra   irreg_adj1 neut acc pl
 :wd:utri_s   irreg_adj1 masc/neut abl pl
 :wd:utri_s   irreg_adj1 fem abl pl
 
