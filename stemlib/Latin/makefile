@@ -27,7 +27,7 @@ vbs:	stemsrc/vbs.irreg stemind/vbind
 VBFILES=stemsrc/vbs.latin.bas stemsrc/vbs.latin.irreg stemsrc/vbs.latin \
 	stemsrc/vbs.irreg
 
-stemind/vbind:	vbs.latin
+stemind/vbind:	stemsrc/vbs.latin
 	cat ${VBFILES} | \
 	    perl -pe 's/([a-z])([aei])_v[ \t]+perfstem/$$1\t$$2vperf/g;' > \
 	    conjfile
@@ -46,7 +46,7 @@ stemsrc/lemlist:
 	    stemsrc/vbs.simp.ml stemsrc/vbs.simp.02.new | fgrep ":le:" | \
 	    cut -d":" -f 3 | sort | awk '{print $$1 " "}' > stemsrc/lemlist
 
-stemind/nomind:	ls.nom
+stemind/nomind:	stemsrc/ls.nom
 	cat stemsrc/nom.* stemsrc/ls.nom > /tmp/nommorph
 	indexnoms -L
 
@@ -59,7 +59,7 @@ ia.noms:
 	fgrep 0 /tmp/ia.base | awk '{print $$1}' | rev | sort -d | \
 	    rev > /tmp/ia.failed
 
-ls.nom vbs.latin:
+stemsrc/ls.nom stemsrc/vbs.latin:
 	-[ -f ${LSDIR}/lemmata ] && ${MAKE} ls.morph
 
 ls.morph:	${LSDIR}/lemmata
