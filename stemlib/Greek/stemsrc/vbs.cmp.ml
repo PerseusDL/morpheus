@@ -363,7 +363,7 @@ a)na/-stomo/w a)nastomo/w
 a)na/-stre/fw a)nastre/fw
 a)na/-strwfa/w a)nastrwfa/w
 a)na/-su/rw a)nasu/romai
-a)na/-sw/zw a)nasw/zw
+a)na/-sw/zw a)nasw/|zw
 a)na/-sxi/zw a)nasxi/zw
 a)na/-tara/ssw a)natara/ssw
 a)na/-te/llw a)nate/llw
@@ -1242,7 +1242,7 @@ a)po/-su/rw a)posu/rw
 a)po/-suka/zw a)posuka/zw
 a)po/-sula/w a)posula/w
 a)po/-suri/zw a)posuri/zw
-a)po/-sw/zw a)posw/zw
+a)po/-sw/zw a)posw/|zw
 a)po/-sxi/zw a)posxi/zw
 a)po/-sxoini/zw a)posxoini/zw
 a)po/-ta/ssw a)pota/ssw
@@ -1737,7 +1737,7 @@ dia/-strathge/w diastrathge/w
 dia/-stre/fw diastre/fw
 dia/-streblo/w diastreblo/w
 dia/-su/rw diasu/rw
-dia/-sw/zw diasw/zw
+dia/-sw/zw diasw/|zw
 dia/-sxhmati/zw diasxhmati/zw
 dia/-sxi/zw diasxi/zw
 dia/-ta/ssw diata/ssw
@@ -2028,10 +2028,10 @@ e)k-ei)/lw e)ceile/w
 e)k-ei)/rw e)cei/rw
 e)k-ei)=don e)cei=don
 e)k-ei)=mi e)/ceimi1
+e)k-ei)=mi e)/ceimi2
 e)k-ei)=pon e)cei=pon
 e)k-ei)ka/zw e)ceika/zw
 e)k-ei)lu/w e)ceilu/w
-e)k-ei)=mi e)/ceimi2
 e)k-ei)mi/ e)/cesti
 e)k-eu(ri/skw e)ceuri/skw
 e)k-eu)/xomai e)ceu/xomai
@@ -2355,8 +2355,7 @@ e)k-strateu/w e)kstrateu/w
 e)k-stratopedeu/w e)kstratopedeu/omai
 e)k-stre/fw e)kstre/fw
 e)k-suri/zw e)ksuri/ssw
-e)k-sw/zw e)ksao/w
-e)k-sw/zw e)ksw/zw
+e)k-sw/zw e)ksw/|zw
 e)k-swreu/w e)kswreu/w
 e)k-ta/ssw e)kta/ssw
 e)k-tanu/w e)ktanu/w
@@ -3903,6 +3902,7 @@ kata/-gohteu/w katagohteu/w
 kata/-gra/fw katagra/fw
 kata/-gumna/zw katagumna/zw
 kata/-h(/kw kaqh/kw
+kata/-h(=mai ka/qhmai
 kata/-h(dupaqe/w kaqhdupaqe/w
 kata/-h(ge/omai kaqhge/omai
 kata/-h(lia/zomai kaqhlia/zw
@@ -5925,7 +5925,7 @@ su/n,dia/-poleme/w sundiapoleme/w
 su/n,dia/-pra/ssw sundiapra/ssw
 su/n,dia/-skope/w sundiaskope/w
 su/n,dia/-stre/fw sundiastre/fw
-su/n,dia/-sw/zw sundiasw/zw
+su/n,dia/-sw/zw sundiasw/|zw
 su/n,dia/-talaipwre/w sundiatalaipwre/w
 su/n,dia/-tele/w sundiatele/w
 su/n,dia/-thre/w sundiathre/w
@@ -6640,7 +6640,7 @@ su/n-strateu/w sustrateu/w
 su/n-strathge/w sustrathge/w
 su/n-stratopedeu/w sustratopedeu/omai
 su/n-stre/fw sustre/fw
-su/n-sw/zw sussw/zw
+su/n-sw/zw sussw|/zw
 su/n-swfrone/w susswfrone/w
 su/n-sxhmati/zw susxhmati/zw
 su/n-sxola/zw susxola/zw
@@ -6890,7 +6890,7 @@ u(po/,e)k-qe/w u(pekqe/w
 u(po/,e)k-r(e/w u(pekre/w
 u(po/,e)k-r(h/gnumi u(pekrh/gnumai
 u(po/,e)k-r(i/ptw u(pekri/ptw
-u(po/,e)k-sw/zw u(peksw/zw
+u(po/,e)k-sw/zw u(peksw/|zw
 u(po/,e)k-ti/qhmi u(pekti/qemai
 u(po/,e)k-tre/pw u(pektre/pw
 u(po/,e)k-tre/xw u(pektre/xw
