@@ -19,10 +19,15 @@ RM=/bin/rm -f
 
 ALL=gkdict.a indexcomps indexnoms indexvbs  newlems newlems2 setquant splitlems splitlat latvb conj1 combitype latnom fixhesc 
 
+lexer= combitype fixhesc latnom setquant splitlems conj1 getitype latvb splitlat
+
 all: ${ALL}
 
 install: ${ALL}
 	cp  ${ALL} ../../bin
+
+$(lexer):	%: %.o
+	$(CC) -o $@ $< -lfl
 
 indexcomps:  indcomps.o  ${MORPHLIB} ${GREEKLIB}
 	${CC} -o indexcomps  indcomps.o  ${MORPHLIB} ${GREEKLIB}
