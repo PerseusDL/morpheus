@@ -1364,6 +1364,9 @@ a^cer#1
 	<gen>f.</gen>
 a_cer#2		<itype>cris, cre</itype>	<pos>adj.</pos>	<gen>c.</gen>
 a_cri^ter		<orth>a_cre</orth>
+:le:acriter
+:wd:a_cri^ter	adverb
+
 a^ce^ra_tus#1		
 :le:aceratus#1
 :aj:a^ce^ra_t	us_a_um
@@ -76167,7 +76170,10 @@ fla_^grum
 :no:fla_^gr	us_i neut
 
 
-fla_men#1		<itype>mis</itype>	<gen>m.</gen>
+fla_men#1
+:le:flamen#1
+:no:fla_	men_minis masc
+
 fla_men#2		
 :le:flamen#2
 :no:fla_	men_minis neut
@@ -133661,7 +133667,11 @@ Neveri^ta
 
 
 ne_vo^lo		<orth type=alt>ne_vi_s</orth>
+
 nex		<itype>ne^cis</itype>	<gen>f.</gen>
+:le:nex
+:no:ne	x_cis	fem
+
 nexa_bunde_		
 :le:nexabunde
 :wd:nexa_bunde_	adverb
@@ -154018,6 +154028,9 @@ Petta^lus
 
 
 pe^tu^lans		<itype>antis</itype>	<pos>adj.</pos>
+:le:petulans
+:aj:petulan	s_tis_adj
+
 pe^tu^lanter	
 :le:petulanter
 :wd:pe^tu^lanter		adverb
@@ -172328,6 +172341,9 @@ Qui^ri_nus#2
 Qui^ri_na	
 qui^ris#1		<orth>cu^ris</orth>
 Qui^ri_s#2		<itype>i_tis</itype>
+:le:Quiris
+:no:Qui^ri_	s_tis	masc
+
 Qui^-ri_tes		<itype>ti^um</itype>	<orth type=alt>tum, Aus. Prof. 22, 9</orth>	<gen>m.</gen>
 qui^ri_ta_ti^o		
 :le:quiritatio

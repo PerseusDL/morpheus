@@ -935,10 +935,6 @@
 :vs:vi_d 	perfstem
 :vs:vi_s	pp4
 
-:le:vinculum
-:no:vincul	us_i neut
-:no:vincl	us_i neut
-
 :le:vindico
 :de:vindic	are_vb
 :de:vendic	are_vb

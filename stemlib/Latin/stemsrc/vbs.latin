@@ -639,6 +639,7 @@
 :vs:ad-fl	conj2 orth
 :le:afflicto
 :de:afflict	are_vb
+:de:ad-flict	are_vb orth
 :le:afflo
 :de:af-fl	are_vb
 :le:affluo
@@ -2291,6 +2292,15 @@
 :le:cogo
 :vs:co_g	conj3
 :vs:co^e_g perfstem
+:vb:cogno_sti_	perfstem 2nd sg perf ind act contr	
+:vb:cogno_stis	perfstem 2nd pl perf ind act contr
+:vb:cogno_runt	perfstem 3rd pl perf ind act contr
+:vb:cogno_rim	perfstem 1st sg perf subj act contr
+:vb:cogno_rit	perfstem 3rd sg perf subj act contr
+:vb:cogno_ris	perfstem 2nd sg futperf ind act contr
+:vb:cogno_ras	perfstem 2nd sg plup ind act contr
+:vb:cogno_runt	perfstem 3rd pl futperf ind act contr
+:vb:cogno_sse	perfstem perf inf act contr
 :vs:co^act pp4
 :le:cohabito
 :de:co^-ha^bi^t	are_vb
@@ -13630,8 +13640,8 @@
 :vs:re^-fell perfstem
 :le:refercio
 :vs:re^-ferc	conj4
-:vs:re^-fercs perfstem
-:vs:re^-ferct pp4
+:vs:re^-fers perfstem
+:vs:re^-fert pp4
 :le:referio
 :de:re^-fe^r	ire_vb
 :le:referveo
@@ -16084,6 +16094,10 @@
 :vs:sur-rump	conj3
 :le:surrutilo
 :de:sur-ru^ti^l	are_vb
+:le:suscenseo
+:vs:suscens	conj2
+:vs:suscensu^ perfstem
+:vs:suscens pp4
 :le:suscepto
 :de:suscept	are_vb
 :le:suscipio

@@ -183,6 +183,12 @@
 @	comp
 :aj:celer		0_adj3 
 
+:le:celeriter
+:wd:celeriter	adverb
+
+:le:celere
+:wd:celere	adverb
+
 :le:celsus#1
 :aj:cels	us_a_um
 
@@ -490,6 +496,9 @@
 
 :le:gens
 :no:g	ens_entis fem
+
+:le:Graecia
+:no:Graeci	a_ae fem
 
 :le:grex
 :no:gre x_gis masc
@@ -1318,6 +1327,10 @@
 
 :le:viginti
 :wd:vi_ginti	numeral
+
+:le:vinculum
+:no:vincul	us_i neut
+:no:vincl	us_i neut
 
 :le:vir
 :no:vir	0_i masc
