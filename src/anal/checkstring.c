@@ -323,6 +323,25 @@ checkstring3(gk_word *Gkword)
 		}
 	}
 */
+
+/*
+ * Lewis and Short stores "jubeo" rather than "iubeo".
+ *
+ * grc 1/28/97
+ */
+	if( cur_lang() == LATIN && workword_of(Gkword)[0] == 'i' && 
+		strchr("aeou",workword_of(Gkword)[1]) ) {
+		strcpy(workword,saveword);
+		workword[0] = 'j';
+
+		set_workword(Gkword,workword);
+		rval = checkstring3(Gkword);
+		if( rval ) {
+			set_workword(Gkword,saveword);
+			return(rval);
+		}
+	}
+
 	set_workword(Gkword,saveword);
 	return(0);
 }
