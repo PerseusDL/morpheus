@@ -535,6 +535,7 @@ te_d	pron2 masc fem acc sg early
 te_	pron2 masc fem abl sg
 te_d	pron2 masc fem abl sg early
 te_cum	pron2 masc fem abl sg
+tute	pron2 masc fem nom sg
 tutemet	pron2 masc fem nom sg
 vo_s	pron2 masc fem nom voc pl
 vostrum	pron2 masc fem gen pl
