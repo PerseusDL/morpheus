@@ -50531,11 +50531,7 @@ contra_
 :le:contra
 :wd:contra_	adverb
 
-	<pos>prep.</pos>	
-:le:contra
-:no:contr	us_i neut pl
-
-
+	<pos>prep.</pos>	<itype>dicta, o_rum</itype>	<gen>n.</gen>
 contra^bi^um		
 :le:contrabium
 :no:contra^b	ius_i neut
@@ -86440,9 +86436,9 @@ Garga_nus
 
 
 Garga^phi^e		<itype>e_s</itype>
--ia		
-:le:ia
-:no:-i	a_ae fem
+Garga^phia		
+:le:Gargaphia
+:no:Garga^phi	a_ae fem
 
 
 Garga^ra		

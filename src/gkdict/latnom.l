@@ -155,6 +155,7 @@ dump_ent(int trimn,char *etag,char * stype,char *glab,char * nlab)
 {
 
 	unsigned char * s;
+	char tmp[BUFSIZ];
 	int i;
 	
 
@@ -167,6 +168,7 @@ dump_ent(int trimn,char *etag,char * stype,char *glab,char * nlab)
  * want to truncate!
  */
 
+	strcpy(tmp,curstem);
 	trimstem(curstem,trimn);
 /*
 	if( trimn > 0 ) {
@@ -186,6 +188,7 @@ dump_ent(int trimn,char *etag,char * stype,char *glab,char * nlab)
 		printf(":%s:%s\t%s%s%s orth\n\n",etag, orthtab[i], stype, glab, nlab );
 	}
 	putchar('\n');
+	strcpy(curstem,tmp);
 }
 
 dump_form(int gend)

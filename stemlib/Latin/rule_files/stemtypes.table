@@ -110,6 +110,7 @@ exclam 017 indecl
 expletive  02 indecl
 indecl 020 indecl
 indecl_noun 073 indecl3
+indecl_adj 074 indecl3
 indef 07 indecl3
 indef_pron 07 indecl3
 indef_rel_pron 012 indecl3
