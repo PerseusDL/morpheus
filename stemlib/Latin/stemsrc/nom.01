@@ -10,7 +10,7 @@
 :le:puer
 :no:puer 0_i masc
 
-:le:magnus
+:le:magnus#1
 :aj:magn us_a_um
 
 :le:liber
@@ -85,6 +85,7 @@
 :le:multus
 :aj:mult us_a_um no_comp
 :aj:maxim us_a_um irreg_superl
+:aj:plu_rim us_a_um irreg_superl
 
 :le:parvus
 :aj:parv us_a_um no_comp

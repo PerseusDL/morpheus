@@ -125,6 +125,8 @@
 :wd:at-qui	conj
 :wd:ad-qui	conj
 
+:le:aula#1
+:no:aul	a_ae fem
 :le:Aulis
 :no:Aul	is_is fem
 :no:Aul	is_idis fem
@@ -334,6 +336,9 @@
 :no:Di	o_oLnis masc
 :le:dioecesis
 :no:dioeces	is_eos fem
+
+:le:Dis#2
+:no:Di_	s_tis masc sg
 
 :le:disjunctio
 :aj:disjuncti	o_oLnis fem

@@ -240,6 +240,13 @@
 :vs:exper	conj3_io
 :vs:expert	pp4
 
+:le:exstinguo
+:vs:ex-stingu	conj3
+:vs:ex-stinx	perfstem
+:vs:ex-stinct	perfstem
+:vb:extinxem	perfstem 1st sg plup subj act contr
+:vb:exstinxti	perfstem 2nd sg perf ind act contr
+
 :le:implico
 :vs:implic	are_vb
 :vs:implicu	perfstem
@@ -357,6 +364,10 @@
 :vb:inque	irreg_pp1	2nd sg pres imperat act 
 :vb:inquito_	irreg_pp1	2nd sg fut imperat act 
 
+:le:irrito#1
+:vs:ir-rit	are_vb
+:vs:inrit	are_vb 
+
 :le:intellego
 :vs:intelleg	conj3
 :vs:intelli^g	conj3
@@ -437,6 +448,7 @@
 :vs:mo^v conj2
 :vs:mo_v perfstem
 :vs:mo_t pp4
+:vb:mo_runt perfstem 3rd pl perf ind act contr
 
 :le:mitto
 :vs:mitt conj3
@@ -490,6 +502,9 @@
 :vs:nosc	conj3
 :vs:no_v	perfstem
 :vs:no_t	pp4
+:vb:no_ris	perfstem 2nd sg futperf ind act contr
+:vb:no_ras	perfstem 2nd sg plup ind act contr
+:vb:no_runt	perfstem 3rd pl futperf ind act contr
 :vs:gnosc	conj3 comp_only
 :vs:gno_v	perfstem comp_only
 :vs:gno_t	pp4 comp_only
@@ -699,6 +714,9 @@
 :vs:sta^tu^t	pp4 no_comp
 :vs:sti^tu^t	pp4 comp_only
 
+:le:stinguo
+:vs:stingu	conj3
+
 :le:sto
 :vs:st 		conj1
 :vs:ste_t 	perfstem no_comp
@@ -797,10 +815,14 @@
 
 :le:vello
 :vs:vell	conj3
-:vs:vell	perfstem
 :vs:vuls	perfstem
+:vs:vols	perfstem
 :vs:vuls	pp4
+:vs:vols	pp4
 
+:le:ulciscor
+:vs:ulcisc	conj3 dep
+:vs:ult	pp4
 :le:utor
 :vs:ut	conj3 dep
 :vs:us	pp4
