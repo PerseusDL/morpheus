@@ -12211,6 +12211,12 @@
 :le:avvedutamente
 :wd:avvedutamente	adverb
 
+:le:avvegnache\
+:wd:avvegnache\	adverb
+
+:le:avvegnadioche\
+:wd:avvegnadioche\	adverb
+
 :le:avvengache\
 :wd:avvengache\	adverb
 
@@ -38101,6 +38107,12 @@
 :le:denaro
 :no:denar	o_i masc
 
+:le:denante
+:wd:denante	adverb
+
+:le:denanti
+:wd:denanti	adverb
+
 :le:denanzi
 :wd:denanzi	adverb
 
@@ -40684,6 +40696,9 @@
 :le:dinante
 :no:dinant	e_i masc
 
+:le:dinante
+:wd:dinante	prep
+
 :le:dinanti
 :wd:dinanti	prep
 
@@ -40965,6 +40980,9 @@
 
 :le:direzione
 :no:direzion	e_i fem
+
+:le:dirieto
+:wd:dirieto	prep
 
 :le:dirietro
 :wd:dirietro	prep
@@ -51010,6 +51028,12 @@
 :le:extempore
 :wd:extempore	adverb
 
+:le:eziam
+:wd:eziam	adverb
+
+:le:eziamdio
+:wd:eziamdio	adverb
+
 :le:eziandio
 :wd:eziandio	adverb
 
@@ -57843,6 +57867,12 @@
 
 :le:fuocoso
 :aj:fuocos	o_a
+
+:le:fuora
+:wd:fuora	prep
+
+:le:fuori
+:wd:fuori	prep
 
 :le:fuore
 :wd:fuore	prep
@@ -66826,6 +66856,12 @@
 :le:imprigionante
 :aj:imprigionant	e_i
 
+:le:imprima
+:wd:imprima	adverb
+
+:le:imprimamente
+:wd:imprimamente	adverb
+
 :le:imprimante
 :wd:imprimante	adverb
 
@@ -72256,6 +72292,9 @@
 :le:innante
 :wd:innante	adverb
 
+:le:innanti
+:wd:innanti	prep
+
 :le:innante
 :wd:innante	prep
 
@@ -73212,6 +73251,9 @@
 
 :le:insinche\
 :wd:insinche\	adverb
+
+:le:insino
+:wd:insino	prep
 
 :le:insinoche\
 :wd:insinoche\	prep
@@ -86488,6 +86530,9 @@
 :le:mediano
 :aj:median	o_a
 
+:le:mediante
+:wd:mediante	prep
+
 :le:medianti
 :wd:medianti	prep
 
@@ -91962,6 +92007,12 @@
 
 :le:nano
 :aj:nan	o_a
+
+:le:nante
+:wd:nante	adverb
+
+:le:nanti
+:wd:nanti	adverb
 
 :le:nanzi
 :wd:nanzi	adverb
@@ -98106,6 +98157,9 @@
 
 :le:ovveramente
 :wd:ovveramente	adverb
+
+:le:overo
+:wd:overo	conj
 
 :le:ovvero
 :wd:ovvero	conj
@@ -144264,6 +144318,12 @@
 
 :le:stamaiuolo
 :no:stamaiuol	o_i masc
+
+:le:stamane
+:wd:stamane	adverb
+
+:le:stamani
+:wd:stamani	adverb
 
 :le:stamattina
 :wd:stamattina	adverb
