@@ -5388,6 +5388,7 @@ pro/-tei/nw protei/nw
 pro/-tele/w protele/w
 pro/-teli/zw proteli/zw
 pro/-teu/xw proteu/xw
+pro/-ti/nw proti/w
 pro/-ti/qhmi proqe/w2
 pro/-ti/qhmi proti/qhmi
 pro/-ti/w proti/w
