@@ -361,6 +361,13 @@ ec@quis	interrog
 @quis	interrog
 :wd:quidni	interrog neut nom acc sg
 
+:le:quis
+:wd:quis	indef masc fem nom sg
+:wd:quid	indef neut nom/acc sg
+:wd:quo		indef masc fem neut abl sg
+@quis	indef
+:wd:quidni	indef neut nom acc sg
+
 :le:siquis
 :wd:si_quis	interrog masc fem nom sg
 :wd:si_quid	interrog neut nom/acc sg

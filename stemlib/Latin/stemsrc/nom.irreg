@@ -587,6 +587,25 @@
 :wd:qua_s   interrog fem acc pl
 :wd:quibus   interrog masc/fem/neut abl pl
 
+:le:quis
+:wd:quis	indef masc fem nom sg
+:wd:quid	indef neut nom/acc sg
+:wd:quo		indef masc fem neut abl sg
+:wd:quidni	indef neut nom acc sg
+:wd:cuius   indef masc/fem/neut gen sg
+:wd:cui   indef masc/fem/neut dat sg
+:wd:quei_   indef masc/fem/neut dat sg
+:wd:quem   indef masc/fem acc sg
+:wd:qui_   indef masc nom pl
+:wd:quae   indef fem nom pl
+:wd:quae   indef neut nom/acc pl
+:wd:quo_rum   indef masc gen pl
+:wd:qua_rum   indef fem gen pl
+:wd:quibus   indef masc/fem/neut dat pl
+:wd:quo_s   indef masc acc pl
+:wd:qua_s   indef fem acc pl
+:wd:quibus   indef masc/fem/neut abl pl
+
 :le:siquis
 :wd:si_quis	interrog masc fem nom sg
 :wd:si_quid	interrog neut nom/acc sg
