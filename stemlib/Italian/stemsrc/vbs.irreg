@@ -119,6 +119,19 @@
 :vb:avuta	irreg_pp1 perf part fem sg
 :vb:avute	irreg_pp1 perf part fem pl
 
+:le:distinguere
+:vb:distinsi		irreg_pp1 pastabs ind 1st sg
+:vb:distinguesti	irreg_pp1 pastabs ind 2nd sg
+:vb:distinsi		irreg_pp1 pastabs ind 3rd sg
+:vb:distinguemmo	irreg_pp1 pastabs ind 1st pl
+:vb:distingueste	irreg_pp1 pastabs ind 2nd pl
+:vb:distinsero		irreg_pp1 pastabs ind 3rd pl
+:vb:distinto	irreg_pp1 perf part masc sg
+:vb:distinti	irreg_pp1 perf part masc pl
+:vb:distinta	irreg_pp1 perf part fem sg
+:vb:distinte	irreg_pp1 perf part fem pl
+:de:distingu	ere_vb
+
 :le:fare
 :vb:faccio	irreg_pp1 pres indic 1st sg
 :vb:fo		irreg_pp1 pres indic 1st sg
