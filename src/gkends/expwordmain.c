@@ -52,5 +52,5 @@ char * argv[];
 	}
 	PrntNewGstrings(stdout,0);
 	ResetGstrBuf();
-
+	return (0);
 }
