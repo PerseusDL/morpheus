@@ -79,6 +79,20 @@ while (<>) {
 	doadj($lem);
     }
 
+    while (s/^<orth[^>]*>([^<]+)<\/orth>[,\s]*<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>adv\.<\/pos>/ /s) {
+	my $lem1 = $1;
+	my $lem2 = $2;
+
+	next unless $lem1 = fixlem($lem1);
+	next unless $lem2 = fixlem($lem2);
+
+	print "\n:le:$lem1\n";
+	print ":wd:$lem1\tadverb\n";
+
+	print "\n:le:$lem2\n";
+	print ":wd:$lem2\tadverb\n";
+    }
+
     while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>adv\.<\/pos>/ /s
 	   or s/<pos>adv\.<\/pos>\s*<orth[^>]*>([^<]+)<\/orth>/ /s) {
 	my $lem = $1;
@@ -96,6 +110,15 @@ while (<>) {
 
 	print "\n:le:$lem\n";
 	print ":wd:$lem\tprep\n";
+    }
+
+    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>conj\.<\/pos>/ /s) {
+	my $lem = $1;
+
+	next unless $lem = fixlem($lem);
+
+	print "\n:le:$lem\n";
+	print ":wd:$lem\tconj\n";
     }
 
     while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>v\.<\/pos>/ /s) {
