@@ -16,6 +16,7 @@
 #define ENDING_INDEX	010000
 #define IGNORE_ACCENTS	020000
 #define LEXICON_OUTPUT	040000
+#define GREEK		0		/* default language */
 #define LATIN		0100000
 #define LEMCOUNT	0200000
 #define VERBS_ONLY	0400000
