@@ -88,7 +88,9 @@ printf("rval %d poss stem [%s] endkeys {%s] curstem [%s]\n", rval, poss_stem,end
 
 	for(i=0;i<poss_augs;i++) {
 
+/*
 fprintf(stderr,"%d) %s\n", i , gkstring_of(tstemtab[i]) );
+*/
 
 		*curstemkeys = 0;
 		if( stemexists(gkstring_of(tstemtab[i]),endkeys,curstemkeys,0) ) {

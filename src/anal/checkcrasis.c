@@ -39,7 +39,7 @@ typedef struct {
  	"tou=",	"o(",	NEUTER|MASCULINE,	DATIVE, SINGULAR,	0,
 */
  };
- 
+
  
  typedef struct {
  	char mungedword[MAXCRASIS];
@@ -186,6 +186,14 @@ typedef struct {
 
 };
 
+ poss_crasis LatSync[] = {
+"cognor",		"cognover",	"",	 (Dialect)0,	
+"cognoss",		"cognoviss",	"",	 (Dialect)0,	
+"nosse",		"novisse",	"",	 (Dialect)0,	
+"copt",			"coopt",	"",	 (Dialect)0,	/* cooptari --> coptari  */
+"des",			"dees",	"",	 (Dialect)0,	/* deest --> dest  */
+ };
+
 int nocrasis = 0;
 
 checkcrasis(gk_word *Gkword)
@@ -200,6 +208,17 @@ checkcrasis(gk_word *Gkword)
 	
 	if( nocrasis ) return(0);
 	
+	if( cur_lang() == LATIN ) {
+		for(i=0;i<LENGTH_OF(LatSync);i++) {
+			mungedword = LatSync[i].mungedword;
+		
+			if( *string == * mungedword && !Xstrncmp(mungedword , string , Xstrlen(mungedword) ) ) {
+				rval += testcrasis(Gkword,mungedword,LatSync[i].wordstart,LatSync[i].preword, LatSync[i].possdial);
+			}
+		}
+		return(rval);
+	}
+
 	for(i=0;i<LENGTH_OF(PossCras);i++) {
 		mungedword = PossCras[i].mungedword;
 		

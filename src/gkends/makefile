@@ -2,6 +2,7 @@ INCLUDE=../includes
 CFLAGS= -O -I${INCLUDE}  
 RM=rm
 ENDLIB=gkends.a
+CC=cc
 CC=gcc
 
 
@@ -26,7 +27,7 @@ retrends.o \
 stor.o 
 
 ${ENDLIB}: ${ENDOBJ}
-	ar rv ${ENDLIB} ${ENDOBJ}
+	ar -rv ${ENDLIB} ${ENDOBJ}
 	ranlib ${ENDLIB}
 
 ALL=buildword buildend indderivtables indendtables buildderiv ${ENDLIB}

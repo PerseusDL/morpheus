@@ -44,6 +44,11 @@ CombPbStemL(char *curpb, char *restofs, Dialect dial, MorphFlags *pbflags)
 		return(YES);
 	}
 
+	if( !strcmp("red",curpb) ) {
+		add_morphflag(pbflags,RE_TO_RED);
+		return(YES);
+	}
+
 
 	lastc = *(curpb + strlen(curpb) - 1);
 	

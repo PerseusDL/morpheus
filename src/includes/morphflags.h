@@ -94,6 +94,7 @@ typedef unsigned char MorphFlags;
 #define A_PRIV			79
 #define A_COPUL			80
 #define METRICAL_LONG		81
+#define RE_TO_RED		82
 
 #define morphflags_of( X ) (X)->gs_morphflags
 

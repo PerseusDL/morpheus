@@ -2,8 +2,8 @@ INCLUDE=../includes
 CFLAGS= -O   -I${INCLUDE} -g
 MORPHLIB=morphlib.a
 RM=rm
+CC=cc
 CC=gcc
-#CC=cc
 
 MORPHOBJ= adddomain.o \
 addninfix.o \

@@ -60,8 +60,9 @@ ls.morph: ${LSDIR}/lemmata
 	cp /usr/tmp/ls.morph .
 
 simp.vbs:
-	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | fgrep -f hyph -v | latvb > ls.simp.vbs
-	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | fgrep -f hyph | latvb > ls.comp.vbs
+#	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | fgrep -f hyph -v | latvb > ls.simp.vbs
+#	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | fgrep -f hyph | latvb > ls.comp.vbs
+	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | awk '{print $$1}' > lslem.words
 
 /tmp/nt: latnom splitlems
 	splitlems < /local/text/ls/lemmata | latnom > /tmp/lat

@@ -4,6 +4,7 @@ LEXLIB = -lfl
 INCLUDE=../includes
 CFLAGS= -O -I${INCLUDE}  -g
 RM=rm
+CC=cc
 CC=gcc
 LEX=flex
 

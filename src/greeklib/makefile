@@ -2,6 +2,7 @@ INCLUDE=../includes
 CFLAGS= -O -I${INCLUDE} -g 
 LIB=greeklib.a
 RM=rm
+CC=cc
 CC=gcc
 
 GRKLIBOBJ = Fclose.o \

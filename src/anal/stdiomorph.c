@@ -2,7 +2,7 @@
 #include <string.h>
 #include <ctype.h>
 #include <unistd.h>
-#include "prntflags.h"
+#include <prntflags.h>
 #include "stdiomorph.proto.h"
 #ifndef CLOCKS_PER_SEC
 #define CLOCKS_PER_SEC  1000000         /* ANSI C clock ticks per sec */

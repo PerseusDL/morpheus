@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "prntflags.h"
+#include <prntflags.h>
 int quickflag = 0;
 
 main()

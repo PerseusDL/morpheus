@@ -188,7 +188,8 @@ rstprevb(char *word, char *prevb, gk_string *gstr)
 	fullpb[0] = 0;
 	if( Is_indeclform(oddpb) ) return;
 
-	if( cur_lang() == LATIN && !has_morphflag(oddpb,RAW_PREVERB) ) {
+	if( cur_lang() == LATIN ) {
+	   if( !has_morphflag(oddpb,RAW_PREVERB) ) {
 		char * t;
 
 		strcpy(work,prevb);
@@ -196,6 +197,10 @@ rstprevb(char *word, char *prevb, gk_string *gstr)
 
 		if( !strcmp(prevb,"circum") && *word == 'i' ) {
 			*t = 0;
+		}
+
+		if( has_morphflag(oddpb,RE_TO_RED) && !strcmp(prevb,"re")) {
+			strcpy(work,"red");
 		}
 
 		if( !strcmp(prevb,"sub") || !strcmp(prevb,"ob") ) {
@@ -330,6 +335,7 @@ rstprevb(char *word, char *prevb, gk_string *gstr)
 		strcat(work,word);
 		strcpy(word,work);
 		return;
+	   }
 	}
 	
 

@@ -302,6 +302,22 @@ checkstring3(gk_word *Gkword)
 		}
 	}
 
+/*
+ * 12/8/97 
+ */
+	if( cur_lang() == LATIN && 
+	   (cmpend(workword_of(Gkword),"ast",workword) ||
+		cmpend(workword_of(Gkword),"est",workword))) {
+		strcpy(workword,workword_of(Gkword));
+		workword[strlen(workword)-2] = 0;
+		set_workword(Gkword,workword);
+		rval = checkstring3(Gkword);
+		if( rval ) {
+			set_workword(Gkword,saveword);
+			return(rval);
+		}
+	}
+
 	if( cur_lang() == LATIN && cmpend(workword_of(Gkword),"ne",workword)) {
 		set_workword(Gkword,workword);
 		rval = checkstring3(Gkword);

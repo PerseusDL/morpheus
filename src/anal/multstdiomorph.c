@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <ctype.h>
-#include "prntflags.h"
+#include <prntflags.h>
 
 #include "stdiomorph.proto.h"
 int quickflag = 0;

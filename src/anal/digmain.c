@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <ctype.h>
-#include "prntflags.h"
+#include <prntflags.h>
 #include <gkdict.h>
 FILE * MorphFopen();
 #include "stdiomorph.proto.h"

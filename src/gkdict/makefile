@@ -9,7 +9,7 @@ DICTOBJ=dictio.o derivio.o compnoun.o
 
 #use hc on RT
 #CC=hc
-#CC=cc
+CC=cc
 CC=gcc
 #CFLAGS= -O -I${INCLUDE}   -g
 #CFLAGS= -O -I${INCLUDE}   -Wstrict-prototypes   -Wmissing-prototypes

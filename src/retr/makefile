@@ -4,6 +4,7 @@
 RM=/bin/rm
 #use hc on RT
 #CC=hc
+CC=cc
 CC=gcc
 INSTALL=cp
 TLGBIN=../../bin

@@ -71,6 +71,7 @@ try_irregvb(gk_word *Gkword)
 	add_morphflags(&Workword,morphflags_of(prvb_gstr_of(&Workword)));
 */
 
+
 	if( *rawprvb && ! CombPbStem(rawprvb,irrform,dialect_of(&Workword),morphflags_of(prvb_gstr_of(&Workword))) ) {
 
 		rval = 0;
