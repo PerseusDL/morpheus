@@ -506,6 +506,11 @@
 :vs:pu_l	perfstem comp_only
 :vs:puls	pp4
 
+:le:pertaedet
+:vs:pertaed	conj2 3rd sg
+@ inf
+:vs:pertaes	pp4
+
 :le:pleo
 :vs:pl		conj2
 :vs:ple_v	perfstem comp_only
