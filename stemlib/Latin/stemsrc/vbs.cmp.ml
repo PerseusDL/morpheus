@@ -107,9 +107,9 @@ ad-facio afficio
 ad-fero affero
 ad-figo affigo
 ad-finio affinis
-ad-flato afflator
 ad-flecto afflecto
 ad-fligo affligo
+ad-flo afflo
 ad-fluento affluenter
 ad-for affor
 ad-frico affrico

@@ -582,6 +582,13 @@
 :vs:po_ta_v	perfstem
 :vs:po_t	pp4 comp_only
 
+:le:prehendo
+:vs:pre^hend	conj3
+:vs:prae^hend	conj3
+:vs:prend	conj3
+:vs:pre^hend perfstem
+:vs:pre^hens pp4
+
 :le:pudeo
 :vs:pud		conj2
 :vs:pudu	perfstem
