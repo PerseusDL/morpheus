@@ -360,7 +360,7 @@ DumpPerseusAnalysis(
      *
      * only english words are upper case
      */
-    if( isupper(lemma_of(anal)[0]) && cur_lang() != LATIN )
+    if( isupper(lemma_of(anal)[0]) && cur_lang() == GREEK )
       fprintf(fout,"E ");
     else
       fprintf(fout,"N ");
