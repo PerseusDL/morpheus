@@ -82,6 +82,9 @@
 :le:abbandonante
 :aj:abbandonant	e_i
 
+:le:abbandonevolmente
+:wd:abbandonevolmente	adverb
+
 :le:abbandonatamente
 :wd:abbandonatamente	adverb
 
@@ -870,6 +873,9 @@
 
 :le:accattone
 :no:accatton	e_i masc
+
+:le:accavalcione
+:wd:accavalcione	adverb
 
 :le:accavalcioni
 :wd:accavalcioni	adverb
@@ -2592,6 +2598,9 @@
 
 :le:adunghiatrice
 :no:adunghiatric	e_i fem
+
+:le:adunque
+:wd:adunque	conj
 
 :le:adustezza
 :no:adustezz	a_e fem
@@ -4783,6 +4792,9 @@
 :le:almanacco
 :no:almanacc	o_i masc
 
+:le:almanco
+:wd:almanco	adverb
+
 :le:almeno
 :wd:almeno	adverb
 
@@ -4980,6 +4992,9 @@
 
 :le:alto
 :no:alt	o_i masc
+
+:le:alto
+:wd:alto	adverb
 
 :le:altamente
 :wd:altamente	adverb
@@ -5842,6 +5857,9 @@
 :le:amperlo
 :no:amperl	o_i masc
 
+:le:ampiamente
+:wd:ampiamente	adverb
+
 :le:amplamente
 :wd:amplamente	adverb
 
@@ -6120,6 +6138,9 @@
 
 :le:ancora
 :wd:ancora	adverb
+
+:le:ancorquando
+:wd:ancorquando	conj
 
 :le:ancoraggio
 :no:ancoragg	io_i masc
@@ -7833,6 +7854,9 @@
 
 :le:appiccolamento
 :no:appiccolament	o_i masc
+
+:le:appie\
+:wd:appie\	adverb
 
 :le:appiede
 :wd:appiede	adverb
@@ -15010,6 +15034,9 @@
 :le:benplacito
 :no:benplacit	o_i masc
 
+:le:bensai
+:wd:bensai	adverb
+
 :le:bensi\
 :wd:bensi\	adverb
 
@@ -16354,6 +16381,9 @@
 :le:boccone
 :no:boccon	e_i masc
 
+:le:boccone
+:wd:boccone	adverb
+
 :le:bocconi
 :wd:bocconi	adverb
 
@@ -17178,6 +17208,9 @@
 
 :le:branco
 :no:branc	o_i masc
+
+:le:brancolone
+:wd:brancolone	adverb
 
 :le:brancoloni
 :wd:brancoloni	adverb
@@ -20878,6 +20911,9 @@
 :le:capopiede
 :no:capopied	e_i masc
 
+:le:capopiede
+:wd:capopiede	adverb
+
 :le:capopie\
 :wd:capopie\	adverb
 
@@ -20901,6 +20937,9 @@
 
 :le:caporione
 :no:caporion	e_i masc
+
+:le:caporiverso
+:wd:caporiverso	adverb
 
 :le:caporovescio
 :wd:caporovescio	adverb
@@ -21753,6 +21792,9 @@
 
 :le:carpobalsamo
 :no:carpobalsam	o_i masc
+
+:le:carpone
+:wd:carpone	adverb
 
 :le:carponi
 :wd:carponi	adverb
@@ -24270,6 +24312,9 @@
 
 :le:chetezza
 :no:chetezz	a_e fem
+
+:le:chetichella
+:wd:chetichella	adverb
 
 :le:chetichelli
 :wd:chetichelli	adverb
@@ -27346,6 +27391,9 @@
 :le:cola
 :no:col	a_e fem
 
+:le:colaggiu\
+:wd:colaggiu\	adverb
+
 :le:colaggiuso
 :wd:colaggiuso	adverb
 
@@ -27357,6 +27405,9 @@
 
 :le:colascione
 :no:colascion	e_i masc
+
+:le:colassu\
+:wd:colassu\	adverb
 
 :le:colassuso
 :wd:colassuso	adverb
@@ -36946,6 +36997,9 @@
 :le:davantaggio
 :wd:davantaggio	adverb
 
+:le:davante
+:wd:davante	adverb
+
 :le:davanti
 :wd:davanti	adverb
 
@@ -45034,6 +45088,9 @@
 :le:domandagione
 :no:domandagion	e_i fem
 
+:le:domane
+:wd:domane	adverb
+
 :le:domani
 :wd:domani	adverb
 
@@ -46057,6 +46114,9 @@
 :le:duna
 :no:dun	a_e fem
 
+:le:dunque
+:wd:dunque	conj
+
 :le:duo
 :aj:du	o_a
 
@@ -46530,6 +46590,9 @@
 
 :le:ecumenico
 :aj:ecumeni	co_ca
+
+:le:ed
+:wd:ed	conj
 
 :le:edace
 :aj:edac	e_i
@@ -47809,6 +47872,9 @@
 :le:encrinite
 :no:encrinit	e_i fem
 
+:le:ende
+:wd:ende	conj
+
 :le:endecagono
 :no:endecagon	o_i masc
 
@@ -48351,6 +48417,9 @@
 
 :le:epopeia
 :no:epopei	a_e fem
+
+:le:eppure
+:wd:eppure	conj
 
 :le:epsilon
 :wd:epsilon	irreg_nom fem
@@ -50527,6 +50596,9 @@
 :le:esustorio
 :aj:esustori	o_a
 
+:le:et
+:wd:et	conj
+
 :le:eta\
 :no:et	a_acc fem
 
@@ -50670,6 +50742,9 @@
 
 :le:etrurio
 :aj:etruri	o_a
+
+:le:etsi
+:wd:etsi	conj
 
 :le:ettacordo
 :no:ettacord	o_i masc
@@ -54435,6 +54510,9 @@
 
 :le:firmano
 :no:firman	o_i masc
+
+:le:fisamente
+:wd:fisamente	adverb
 
 :le:fisatamente
 :wd:fisatamente	adverb
@@ -59974,6 +60052,9 @@
 :le:giaculatoria
 :no:giaculatori	a_e fem
 
+:le:giafossecosache\
+:wd:giafossecosache\	adverb
+
 :le:giafosseche\
 :wd:giafosseche\	adverb
 
@@ -60297,6 +60378,9 @@
 
 :le:ginocchio
 :no:ginocch	io_i masc
+
+:le:ginocchione
+:wd:ginocchione	adverb
 
 :le:ginocchioni
 :wd:ginocchioni	adverb
@@ -61686,6 +61770,9 @@
 
 :le:gomitolo
 :no:gomitol	o_i masc
+
+:le:gomitone
+:wd:gomitone	adverb
 
 :le:gomitoni
 :wd:gomitoni	adverb
@@ -68629,6 +68716,9 @@
 :le:inconformabile
 :aj:inconformabil	e_i
 
+:le:inconfusamente
+:wd:inconfusamente	adverb
+
 :le:inconfuso
 :wd:inconfuso	adverb
 
@@ -68742,6 +68832,9 @@
 
 :le:incontaminatamente
 :wd:incontaminatamente	adverb
+
+:le:incontanente
+:wd:incontanente	adverb
 
 :le:incontinente
 :wd:incontinente	adverb
@@ -69982,6 +70075,9 @@
 :le:indragonito
 :aj:indragonit	o_a
 
+:le:indrieto
+:wd:indrieto	adverb
+
 :le:indreto
 :wd:indreto	adverb
 
@@ -70471,6 +70567,9 @@
 :le:infagonato
 :aj:infagonat	o_a
 
+:le:infallante
+:wd:infallante	adverb
+
 :le:infallantemente
 :wd:infallantemente	adverb
 
@@ -70875,6 +70974,9 @@
 
 :le:infintanto
 :wd:infintanto	adverb
+
+:le:infinche\
+:wd:infinche\	adverb
 
 :le:infineche\
 :wd:infineche\	adverb
@@ -71352,6 +71454,9 @@
 
 :le:infuocamento
 :no:infuocament	o_i masc
+
+:le:infuori
+:wd:infuori	adverb
 
 :le:infuora
 :wd:infuora	adverb
@@ -82378,6 +82483,9 @@
 :le:m
 :wd:m	irreg_nom fem
 
+:le:ma
+:wd:ma	conj
+
 :le:macaco
 :no:macac	o_i masc
 
@@ -82624,6 +82732,9 @@
 :le:maderno
 :aj:madern	o_a
 
+:le:madesi\
+:wd:madesi\	adverb
+
 :le:madie\
 :wd:madie\	adverb
 
@@ -82701,6 +82812,9 @@
 
 :le:matrone
 :no:matron	e_i masc
+
+:le:mae
+:wd:mae	conj
 
 :le:maesta\
 :no:maest	a_acc fem
@@ -86385,6 +86499,9 @@
 
 :le:mediante
 :aj:mediant	e_i
+
+:le:mediatamente
+:wd:mediatamente	adverb
 
 :le:mediate
 :wd:mediate	adverb
@@ -92308,6 +92425,9 @@
 :le:nazione
 :no:nazion	e_i fem
 
+:le:ne\
+:wd:ne\	conj
+
 :le:ne
 :wd:ne	adverb
 
@@ -92382,6 +92502,9 @@
 
 :le:neente
 :no:neent	e_i masc
+
+:le:neentemeno
+:wd:neentemeno	adverb
 
 :le:neentedimeno
 :wd:neentedimeno	adverb
@@ -93013,6 +93136,9 @@
 :le:niente
 :no:nient	e_i masc
 
+:le:nientemanco
+:wd:nientemanco	adverb
+
 :le:nientemeno
 :wd:nientemeno	adverb
 
@@ -93541,6 +93667,9 @@
 :le:nondevozione
 :no:nondevozion	e_i fem
 
+:le:nondimanco
+:wd:nondimanco	adverb
+
 :le:nondimeno
 :wd:nondimeno	adverb
 
@@ -93579,6 +93708,9 @@
 
 :le:nono
 :aj:non	o_a
+
+:le:nonostante
+:wd:nonostante	adverb
 
 :le:nonostanteche\
 :wd:nonostanteche\	adverb
@@ -94113,6 +94245,9 @@
 
 :le:nulladimeno
 :wd:nulladimeno	adverb
+
+:le:nullamanco
+:wd:nullamanco	adverb
 
 :le:nullameno
 :wd:nullameno	adverb
@@ -94945,6 +95080,9 @@
 :le:oculista
 :no:oculist	a_e masc
 
+:le:od
+:wd:od	conj
+
 :le:oda
 :no:od	a_e fem
 
@@ -95296,6 +95434,9 @@
 :le:ogniveggente
 :aj:ogniveggent	e_i
 
+:le:ognora
+:wd:ognora	adverb
+
 :le:ognotta
 :wd:ognotta	adverb
 
@@ -95586,6 +95727,9 @@
 
 :le:oltremontano
 :aj:oltremontan	o_a
+
+:le:oltremonte
+:wd:oltremonte	adverb
 
 :le:oltremonti
 :wd:oltremonti	adverb
@@ -97957,8 +98101,14 @@
 :le:overa
 :no:over	a_e fem
 
+:le:overamente
+:wd:overamente	adverb
+
 :le:ovveramente
 :wd:ovveramente	adverb
+
+:le:ovvero
+:wd:ovvero	conj
 
 :le:ovidutto
 :no:ovidutt	o_i masc
@@ -103129,6 +103279,9 @@
 :le:pero
 :no:per	o_i masc
 
+:le:pero\
+:wd:pero\	conj
+
 :le:perocche\
 :wd:perocche\	adverb
 
@@ -105237,6 +105390,9 @@
 
 :le:piamente
 :wd:piamente	adverb
+
+:le:pio\
+:wd:pio\	adverb
 
 :le:pioe
 :wd:pioe	adverb
@@ -107619,6 +107775,9 @@
 
 :le:posdiluviano
 :aj:posdiluvian	o_a
+
+:le:posdomane
+:wd:posdomane	adverb
 
 :le:posdomani
 :wd:posdomani	adverb
@@ -112960,6 +113119,9 @@
 :le:puranzi
 :wd:puranzi	adverb
 
+:le:pure
+:wd:pure	conj
+
 :le:purezza
 :no:purezz	a_e fem
 
@@ -113428,6 +113590,9 @@
 :le:quaentro
 :wd:quaentro	adverb
 
+:le:quaggiu\
+:wd:quaggiu\	adverb
+
 :le:quaggiuso
 :wd:quaggiuso	adverb
 
@@ -113547,6 +113712,9 @@
 
 :le:quandunche
 :wd:quandunche	adverb
+
+:le:quandunqua
+:wd:quandunqua	adverb
 
 :le:quandunque
 :wd:quandunque	adverb
@@ -113737,6 +113905,9 @@
 :le:quasco
 :no:quasc	o_i masc
 
+:le:quasi
+:wd:quasi	adverb
+
 :le:quasimente
 :wd:quasimente	adverb
 
@@ -113748,6 +113919,9 @@
 
 :le:quassia
 :no:quassi	a_e fem
+
+:le:quassu
+:wd:quassu	adverb
 
 :le:quassuso
 :wd:quassuso	adverb
@@ -114300,6 +114474,9 @@
 
 :le:quitanza
 :no:quitanz	a_e fem
+
+:le:quivi
+:wd:quivi	adverb
 
 :le:quive
 :wd:quive	adverb
@@ -116166,6 +116343,9 @@
 
 :le:rattacconamento
 :no:rattacconament	o_i masc
+
+:le:rattaccone
+:wd:rattaccone	adverb
 
 :le:rattaccono
 :wd:rattaccono	adverb
@@ -119697,6 +119877,9 @@
 
 :le:riddone
 :no:riddon	e_i masc
+
+:le:riddone
+:wd:riddone	adverb
 
 :le:riddoni
 :wd:riddoni	adverb
@@ -124345,6 +124528,9 @@
 :le:rotolo
 :no:rotol	o_i masc
 
+:le:rotolone
+:wd:rotolone	adverb
+
 :le:rotoloni
 :wd:rotoloni	adverb
 
@@ -124440,6 +124626,9 @@
 
 :le:rovescione
 :no:rovescion	e_i masc
+
+:le:rovescione
+:wd:rovescione	adverb
 
 :le:rovescioni
 :wd:rovescioni	adverb
@@ -125880,6 +126069,9 @@
 
 :le:saltazione
 :no:saltazion	e_i fem
+
+:le:saltellone
+:wd:saltellone	adverb
 
 :le:saltelloni
 :wd:saltelloni	adverb
@@ -131708,6 +131900,9 @@
 :aj:sdutt	o_a
 
 :le:se
+:wd:se	conj
+
+:le:se
 :aj:s	e_i
 
 :le:sebaceo
@@ -131946,6 +132141,9 @@
 
 :le:secuzione
 :no:secuzion	e_i fem
+
+:le:sed
+:wd:sed	conj
 
 :le:sedano
 :no:sedan	o_i masc
@@ -139939,6 +140137,9 @@
 :le:sottarco
 :no:sottarc	o_i masc
 
+:le:sottecchi
+:wd:sottecchi	adverb
+
 :le:sottecco
 :wd:sottecco	adverb
 
@@ -140082,6 +140283,9 @@
 
 :le:sottocausa
 :no:sottocaus	a_e fem
+
+:le:sottocchi
+:wd:sottocchi	adverb
 
 :le:sottocchio
 :wd:sottocchio	adverb
@@ -141735,6 +141939,9 @@
 
 :le:spenzolone
 :aj:spenzolon	e_i
+
+:le:spenzolone
+:wd:spenzolone	adverb
 
 :le:spenzoloni
 :wd:spenzoloni	adverb
@@ -146362,6 +146569,9 @@
 :le:striscio
 :no:strisc	io_i masc
 
+:le:striscione
+:wd:striscione	adverb
+
 :le:striscioni
 :wd:striscioni	adverb
 
@@ -148588,6 +148798,9 @@
 :le:suveroso
 :aj:suveros	o_a
 
+:le:suvi
+:wd:suvi	adverb
+
 :le:suvvi
 :wd:suvvi	adverb
 
@@ -149416,6 +149629,9 @@
 :le:talmudista
 :no:talmudist	a_e masc
 
+:le:talora
+:wd:talora	adverb
+
 :le:talotta
 :wd:talotta	adverb
 
@@ -149892,6 +150108,9 @@
 
 :le:tastullo
 :no:tastull	o_i masc
+
+:le:tastone
+:wd:tastone	adverb
 
 :le:tastoni
 :wd:tastoni	adverb
@@ -154555,6 +154774,9 @@
 :le:trasi\
 :wd:trasi\	adverb
 
+:le:trasicuramente
+:wd:trasicuramente	adverb
+
 :le:trasicuratamente
 :wd:trasicuratamente	adverb
 
@@ -156892,6 +157114,9 @@
 :le:u
 :wd:u	irreg_nom masc
 
+:le:u
+:wd:u	conj
+
 :le:ubbia
 :no:ubbi	a_e fem
 
@@ -158343,6 +158568,9 @@
 
 :le:uvero
 :no:uver	o_i masc
+
+:le:uvero
+:wd:uvero	conj
 
 :le:uvizzolo
 :no:uvizzol	o_i masc
@@ -160162,6 +160390,9 @@
 :le:verbena
 :no:verben	a_e fem
 
+:le:verbicausa
+:wd:verbicausa	adverb
+
 :le:verbigrazia
 :wd:verbigrazia	adverb
 
@@ -161563,6 +161794,9 @@
 :le:vilmente
 :wd:vilmente	adverb
 
+:le:vile
+:wd:vile	adverb
+
 :le:vilmente
 :wd:vilmente	adverb
 
@@ -162769,6 +163003,9 @@
 :le:volenterosamente
 :wd:volenterosamente	adverb
 
+:le:volentieri
+:wd:volentieri	adverb
+
 :le:volentiere
 :wd:volentiere	adverb
 
@@ -162895,6 +163132,9 @@
 :le:volonterosamente
 :wd:volonterosamente	adverb
 
+:le:volontieri
+:wd:volontieri	adverb
+
 :le:volontiera
 :wd:volontiera	adverb
 
@@ -162990,6 +163230,9 @@
 
 :le:voltolamento
 :no:voltolament	o_i masc
+
+:le:voltolone
+:wd:voltolone	adverb
 
 :le:voltoloni
 :wd:voltoloni	adverb
@@ -164100,6 +164343,9 @@
 
 :le:zoppicatura
 :no:zoppicatur	a_e fem
+
+:le:zoppicone
+:wd:zoppicone	adverb
 
 :le:zoppiconi
 :wd:zoppiconi	adverb
