@@ -1,12 +1,118 @@
 #!/usr/bin/perl
 
+use strict;
+
 $/ = '<entryFree';
 
 while (<>) {
-    s#^\s*key=[^>]+>##;
+    s#^\s*key=[^>]+>\s*##s;
     s#<entryFree$##;
 
-#    if (s#<gen>([mf])\.</gen>\s+
+    while (s/^<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>s\.<\/pos>\s*<gen>([mf])\.<\/gen>/ /s) {
+	my $lem = $1;
+	my $gen = $2;
 
-    print $_, "\n\n";
+	donom($lem,$gen);
+    }
+
+    while (s/<gen>([mf])\.<\/gen>\s+<orth[^>]*>([^<]+)<\/orth>/ /s) {
+	my $gen = $1;
+	my $lem = $2;
+
+	donom($lem,$gen);
+    }
+
+    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*(?:<pos>s\.<\/pos>\s*)?<gen>([mf])\.<\/gen>/ /s) {
+	my $lem = $1;
+	my $gen = $2;
+
+	donom($lem,$gen);
+    }
+
+    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>adj\.<\/pos>/ /s
+	   or s/<pos>adj\.<\/pos>\s*<orth[^>]*>([^<]+)<\/orth>/ /s) {
+	my $lem = $1;
+
+	next unless $lem = fixlem($lem);
+
+	my $stem = $lem;
+	$stem =~ s/[o]$//;
+
+	print "\n:le:$lem\n";
+	print ":aj:$stem\to_i\n";
+    }
+
+    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>adv\.<\/pos>/ /s
+	   or s/<pos>adv\.<\/pos>\s*<orth[^>]*>([^<]+)<\/orth>/ /s) {
+	my $lem = $1;
+
+	next unless $lem = fixlem($lem);
+
+	print "\n:le:$lem\n";
+	print ":wd:$lem\tadverb\n";
+    }
+
+    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>v\.<\/pos>/ /s) {
+	my $lem = $1;
+
+	doverb($lem);
+    }
+}
+
+sub donom {
+    my($lem,$gen) = @_;
+
+    $lem = fixlem($lem);
+
+    return unless defined($lem);
+
+    $gen = $gen eq 'f' ? 'fem' : 'masc';
+    
+    my $class = 'indecl';
+    my $stem = $lem;
+
+    if ($stem =~ s/o$//) {
+	$class = 'o_i';
+    }
+    elsif ($stem =~ s/a$//) {
+	$class = 'a_e';
+    }
+    elsif ($stem =~ s/e$//) {
+	$class = 'e_i';
+    }
+
+    print "\n:le:$lem\n";
+    print ":no:$stem\t$class $gen\n";
+}
+
+sub doverb {
+    my($lem) = @_;
+
+    $lem = fixlem($lem);
+
+    return unless defined($lem);
+
+    my $class = '';
+    my $stem = $lem;
+
+    if ($stem =~ s/(care|gare|ciare|giare|are|ere|ire)$//) {
+	$class = $1 . "_vb";
+    }
+
+    return if $class eq '';
+    
+    print "\n:le:$lem\n";
+    print ":de:$stem $class\n";
+}
+
+sub fixlem {
+    my($lem) = @_;
+
+    return undef if ($lem =~ /\s/);
+
+    $lem =~ tr/\-//d;
+    $lem =~ s/\&([A-Za-z])(uml|acute);/$1/g;
+    $lem =~ s/\&([A-Za-z])grave;/$1\\/g;
+
+    lc($lem);
 }
