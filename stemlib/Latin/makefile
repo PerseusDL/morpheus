@@ -13,8 +13,8 @@ vends:
 	indendtables -L verb
 
 compnoms:
-	cat stemsrc/nom.* stemsrc/nom[0-9]* > /usr/tmp/nommorph
-	indexcomps < /usr/tmp/nommorph | sort | compcomps > /usr/tmp/nom.heads
+	cat stemsrc/nom.* stemsrc/nom[0-9]* > /tmp/nommorph
+	indexcomps < /tmp/nommorph | sort | compcomps > /tmp/nom.heads
 
 deriv:
 	buildderiv -L all
@@ -28,7 +28,7 @@ VBFILES=stemsrc/vbs.latin.bas  stemsrc/vbs.latin.irreg stemsrc/vbs.latin stemsrc
 stemind/vbind:
 	cat ${VBFILES} |  perl -pe 's/([a-z])([aei])_v[ \t]+perfstem/$$1\t$$2vperf/g;' > conjfile
 	do_conj -L
-	mv conjfile.short /usr/tmp/vbmorph
+	mv conjfile.short /tmp/vbmorph
 	indexvbs -L
 
 stemsrc/nom.irreg: stemsrc/irreg.nom.src
@@ -42,25 +42,25 @@ stemsrc/lemlist:
 	
 
 stemind/nomind:	
-	cat stemsrc/nom.* stemsrc/ls.nom > /usr/tmp/nommorph
+	cat stemsrc/nom.* stemsrc/ls.nom > /tmp/nommorph
 	indexnoms -L
 
 ia.noms:
-	echo "[aehuwo]i h_hs" > /usr/tmp/skip.ia
-	echo ":wd:" >> /usr/tmp/skip.ia
-	cat stemsrc/nom0[1-6] | fgrep "i h_hs" | egrep -v -f /usr/tmp/skip.ia > /usr/tmp/ia.noms
-	findbase < /usr/tmp/ia.noms > /usr/tmp/ia.base
-	fgrep 0 /usr/tmp/ia.base | awk '{print $$1}' | rev | sort -d | rev > /usr/tmp/ia.failed
+	echo "[aehuwo]i h_hs" > /tmp/skip.ia
+	echo ":wd:" >> /tmp/skip.ia
+	cat stemsrc/nom0[1-6] | fgrep "i h_hs" | egrep -v -f /tmp/skip.ia > /tmp/ia.noms
+	findbase < /tmp/ia.noms > /tmp/ia.base
+	fgrep 0 /tmp/ia.base | awk '{print $$1}' | rev | sort -d | rev > /tmp/ia.failed
 
 ls.morph: ${LSDIR}/lemmata
 	fgrep ":le:" stemsrc/vbs.latin.bas | cut -d: -f3 | sort > stemsrc/lemmata
 #	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | latvb > ls.vbs
 #	cat ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | latvb | perl -pe 's/(^\:le\:[A-Za-z]+)\-([A-Za-z])/$1$2/g' > ls.vbs
 	cat ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | latvb > ls.vbs
-	splitlems < ${LSDIR}/lemmata |  fixhesc | fgrep -v -f vtags | fgrep -v "<pos>P. a.</pos>" |  fixgend | latnom > /usr/tmp/ls.morph
+	splitlems < ${LSDIR}/lemmata |  fixhesc | fgrep -v -f vtags | fgrep -v "<pos>P. a.</pos>" |  fixgend | latnom > /tmp/ls.morph
 	egrep -e "^:" ls.vbs > stemsrc/vbs.latin
-	fgrep -v "0:" /usr/tmp/ls.morph > stemsrc/ls.nom
-	cp /usr/tmp/ls.morph .
+	fgrep -v "0:" /tmp/ls.morph > stemsrc/ls.nom
+	cp /tmp/ls.morph .
 
 simp.vbs:
 #	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | fgrep -f hyph -v | latvb > ls.simp.vbs
