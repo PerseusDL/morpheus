@@ -194,8 +194,17 @@ typedef struct {
 "copt",			"coopt",	"",	 (Dialect)0,	/* cooptari --> coptari  */
 "der",			"deer",	"",	 (Dialect)0,	/* deest --> dest  */
 "des",			"dees",	"",	 (Dialect)0,	/* deest --> dest  */
+"abin",			"abis",		"ne",	(Dialect)0,	/* abis +ne --> abin */
 "adeon",			"adeo",	"ne",	 (Dialect)0,	/* adeo +ne --> adeon  */
 "ain",			"ais",	"ne",	 (Dialect)0,	/* ais +ne --> ain  */
+"eccam",		"ecce",		"eam",	(Dialect)0,	/* ecce + pronouns */
+"eccum",		"ecce",		"eum",	(Dialect)0,
+"eccas",		"ecce",		"eas",	(Dialect)0,
+"eccos",		"ecce",		"eos",	(Dialect)0,
+"eccillum",		"ecce",		"illum",	(Dialect)0,
+"eccillam",		"ecce",		"illam",	(Dialect)0,
+"eccistum",		"ecce",		"istum",	(Dialect)0,
+"eccistam",		"ecce",		"istam",	(Dialect)0,
  };
 
 int nocrasis = 0;
