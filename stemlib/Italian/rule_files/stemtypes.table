@@ -19,6 +19,8 @@ conj2 06 pp_pr
 conj3 07 pp_pr
 irreg_pp1 010 pp_pr
 conj_u 011 pp_pr
+conj_a 012 pp_pr
+conj_o 013 pp_pr
 
 adverb 015 indecl
 conj 014 indecl
