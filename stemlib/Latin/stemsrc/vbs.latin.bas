@@ -421,11 +421,14 @@
 :le:mitto
 :vs:mitt conj3
 :vs:mi_s perfstem
-:vs:pp4 miss
+:vs:miss pp4
 
 
 :le:munio
 :de:mun	ire_vb
+
+:le:nascor
+:vs:nasc	conj3
 
 :le:neco
 :vs:nec	 	conj1
@@ -553,6 +556,11 @@
 :vs:po_t	conj1
 :vs:po_ta_v	perfstem
 :vs:po_t	pp4 comp_only
+
+:le:pudeo
+:vs:pud		conj2
+:vs:pudu	perfstem
+:vs:pudit	pp4
 
 :le:quaero
 :vs:quaer 	conj3

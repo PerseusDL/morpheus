@@ -3,6 +3,7 @@
 
 ^[A-Za-z\^\_\-]+o[#1-9]* 	set_lemma();
 ^[A-Za-z\^\_\-]+or[#1-9]* 	set_lemma();
+^[A-Za-z\^\_\-]+[ei]t[#1-9]* 	set_lemma();
 
 "<itype>"[^<]+"</itype>"	do_itype();
 "<orth>"[^<]+"</orth>"	set_orth();
@@ -203,6 +204,7 @@ set_lemma()
 	*t = 0;
 	
 	t = stem+strlen(stem) - 4;
+
 	if( ! strcmp(t,"i^or")  ) {
 		sawi = 1;
 		*t = 0;
@@ -225,6 +227,8 @@ set_lemma()
 		*t = 0;
 		sawpass = 1;
 	} else if( ! strcmp(t,"eo") ) {
+		*t = 0;
+	} if ( ! strcmp(t,"it") || ! strcmp(t,"et") ) {
 		*t = 0;
 	} if ( ! strcmp(t,"io") ) {
 		sawi = 1;

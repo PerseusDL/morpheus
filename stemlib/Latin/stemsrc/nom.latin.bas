@@ -614,6 +614,10 @@
 :le:Luscius
 :no:Lusci	us_i masc
 
+:le:lux
+:no:lu_	x_cis fem
+:no:lu_	x_cis masc
+
 :le:Lyso
 :no:Lys	o_oLnis masc
 
@@ -688,6 +692,10 @@
 
 :le:natis
 :no:nat	is_is fem
+
+:le:nascor
+:vs:nat	us_i masc
+:vs:gnat	us_i masc
 
 :le:ne#1
 :wd:ne_	adverb

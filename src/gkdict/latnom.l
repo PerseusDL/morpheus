@@ -186,9 +186,7 @@ dump_ent(int trimn,char *etag,char * stype,char *glab,char * nlab)
 	
 	for(i=0;i<MAXORTH;i++) {
 		if( ! orthtab[i][0] ) break;
-printf("trimn %d otab [%s]\n", trimn, orthtab[i] );
 		trimstem(orthtab[i],trimn);
-printf("b:trimn %d otab [%s]\n", trimn, orthtab[i] );
 		printf(":%s:%s\t%s%s%s orth\n\n",etag, orthtab[i], stype, glab, nlab );
 	}
 	putchar('\n');
@@ -501,6 +499,19 @@ trimstem(unsigned char * curs, int trimn)
 	if( trimn > 0 ) {
 		s = curs;
 		while(*s) s++; s--;
+		
+/*
+ * kludge! 7/28/98
+ * variation of is and es.
+ */
+		if(trimn=='e'&&!strcmp((s-1),"is")) {
+			*(s-1) = 0; 
+			return;
+		}
+		if(trimn=='o'&&!strcmp((s-1),"us")) {
+			*(s-1) = 0; 
+			return;
+		}
 		while(s>=curs && *s != trimn ) {
 			s--;
 		}

@@ -487,7 +487,7 @@
 :wd:ecqua_s   relative fem acc pl
 :wd:ecquibus   relative masc/fem/neut abl pl
 
-:le:qui
+:le:qui#2
 :wd:qui_ rel_pron masc nom sg
 :wd:quei rel_pron masc nom sg
 :wd:quae rel_pron fem nom sg
@@ -513,7 +513,7 @@
 :wd:qua_s   relative fem acc pl
 :wd:quibus   relative masc/fem/neut abl pl
 
-:le:qui
+:le:qui#1
 :wd:qui_ interrog masc nom sg
 :wd:quei interrog masc nom sg
 :wd:quae interrog fem nom sg
@@ -606,7 +606,7 @@
 :wd:ecqua_s   interrog fem acc pl
 :wd:ecquibus   interrog masc/fem/neut abl pl
 
-:le:quis
+:le:quis#1
 :wd:quis	interrog masc fem nom sg
 :wd:quid	interrog neut nom/acc sg
 :wd:quo		interrog masc fem neut abl sg
@@ -626,7 +626,7 @@
 :wd:qua_s   interrog fem acc pl
 :wd:quibus   interrog masc/fem/neut abl pl
 
-:le:quis
+:le:quis#2
 :wd:quis	indef masc fem nom sg
 :wd:quid	indef neut nom/acc sg
 :wd:quo		indef masc fem neut abl sg

@@ -325,8 +325,8 @@
 :vs:ad-bi_t	conj3
 :le:adblatero
 :de:ad-bla^te^r	are_vb
-:le:adblatero
-:vs:ad-bla^te^r	conj2
+:le:addecet
+:vs:ad-de^c	conj2
 :le:addecimo
 :de:ad-de^ci^m	are_vb
 :le:addenseo
@@ -731,8 +731,6 @@
 :de:al-la^bo_r	are_vb
 :le:allacrimo
 :de:al-la_^cri^m	are_vb
-:le:or
-:de:-	are_vb dep
 :le:allambo
 :vs:al-lamb	conj2
 :le:allatro
@@ -2415,9 +2413,9 @@
 :de:col-lax	are_vb
 :le:collevo
 :de:col-le_v	are_vb
-:le:co
-:vs:c	conj2
-:vs:cbuit perfstem
+:le:collibet
+:vs:col-li^b	conj2
+:vs:col-li^buit perfstem
 :le:collibro
 :de:col-li_br	are_vb
 :le:collido
@@ -2777,8 +2775,8 @@
 :vs:com-plo_s pp4
 :le:comploro
 :de:com-plo_r	are_vb
-:le:co
-:vs:c	conj3
+:le:compluit
+:vs:complu^	conj3
 :le:compono
 :vs:com-po_n	conj3
 :vs:com-po^su^ perfstem
@@ -2979,8 +2977,8 @@
 :vs:con-cuss pp4
 :le:condecerno
 :vs:con-de_cern	conj3
-:le:co
-:vs:c	conj2
+:le:condecet
+:vs:con-de^c	conj2
 :le:condeclino
 :de:con-de_cli_n	are_vb
 :le:condecoro
@@ -3976,9 +3974,9 @@
 :vs:de_-cerpt pp4
 :le:decerto
 :de:de_-cert	are_vb
-:le:decerto
-:vs:de_-cert	conj2
-:vs:de_-cuit perfstem
+:le:decet
+:vs:de^c	conj2
+:vs:de^cuit perfstem
 :le:decharmido
 :de:de_charmi^d	are_vb
 :le:decido#1
@@ -4060,7 +4058,7 @@
 :de:de_-damn	are_vb
 :le:dedeceo
 :vs:de_-de^c	conj2
-:le:dedeceo
+:le:dedecet
 :vs:de_-de^c	conj2
 :vs:de_-de^cuit perfstem
 :le:dedecoro
@@ -5176,9 +5174,9 @@
 :de:dis-pli^c	are_vb
 :le:dispolio
 :de:di-spo^li	are_vb
-:le:dispolio
-:vs:di-spo^l	conj2
-:vs:di-spuduit perfstem
+:le:dispudet
+:vs:dis-pu^d	conj2
+:vs:dis-puduit perfstem
 :le:dispulvero
 :de:dis-pulve^r	are_vb
 :le:dispungo
@@ -9116,8 +9114,8 @@
 :vs:in-vert	conj3
 :vs:in-vert perfstem
 :vs:in-vers pp4
-:le:inverto
-:vs:in-vert	conj3
+:le:invesperascit
+:vs:in-vespe^rasc	conj3
 :le:investigo
 :de:in-vesti_g	are_vb
 :le:investio
@@ -9480,8 +9478,8 @@
 :de:le_v	are_vb
 :le:libero
 :de:li_be^r	are_vb
-:le:libero
-:vs:li_be^r	conj2
+:le:libet
+:vs:li^b	conj2
 :vs:libuit perfstem
 :le:libidinor
 :de:li^bi_di^n	are_vb dep
@@ -9496,7 +9494,7 @@
 :le:liceor
 :vs:li^c	conj2
 :vs:li^ci^t pp4
-:le:liceor
+:le:licet
 :vs:li^c	conj2
 :vs:li^cu^it perfstem
 :le:licinio
@@ -10241,8 +10239,8 @@
 :de:ni^ti^d	are_vb
 :le:nivesco
 :vs:ni^vesc	conj3
-:le:nivesco
-:vs:ni^vesc	conj3
+:le:nivit
+:vs:ni^v	conj3
 :le:nixor
 :de:nix	are_vb dep
 :le:nixurio
@@ -11354,7 +11352,7 @@
 :vs:per-curr	conj3
 :vs:percu^curr perfstem
 :vs:percurr perfstem
-:vs:curs pp4
+:vs:percurs pp4
 :le:percurso
 :de:percurs	are_vb
 :le:percutio
@@ -11567,12 +11565,12 @@
 :vs:per-le^g	conj3
 :vs:per-le_g perfstem
 :vs:per-lect pp4
-:le:perlego
-:vs:per-le^g	conj2
+:le:perlibet
+:vs:per-li^b	conj2
 :le:perlibro
 :de:per-li_br	are_vb
-:le:perlibro
-:vs:per-li_br	conj2
+:le:perlicet
+:vs:per-li^c	conj2
 :le:perlicio
 :vs:perli^c	conj3_io
 :le:perlimo
@@ -11928,9 +11926,9 @@
 :le:pertaedesco
 :vs:pertaedesc	conj3
 :vs:pertaedu^ perfstem
-:le:pertaedesco
-:vs:pertaedesc	conj2
-:vs:pertaes pp4
+:le:pertaedet
+:vs:per-taed	conj2
+:vs:per-taes pp4
 :le:pertango
 :vs:per-tang	conj3
 :le:pertego
@@ -12879,8 +12877,8 @@
 :vs:prae-surex perfstem
 :le:praesuspecto
 :de:prae-suspect	are_vb
-:le:praesuspecto
-:vs:prae-suspect	conj3
+:le:praetaedescit
+:vs:prae-taedesc	conj3
 :le:praetango
 :vs:prae-tang	conj3
 :vs:prae-tact pp4
@@ -13517,8 +13515,8 @@
 :vs:pu_bu^ perfstem
 :le:publico
 :de:pu_bli^c	are_vb
-:le:pudeo
-:vs:pu^d	conj3
+:le:pudescit
+:vs:pu^desc	conj3
 :le:puellasco
 :vs:pu^ellasc	conj3
 :le:puellitor
@@ -16444,8 +16442,8 @@
 :vs:sup-plo_s perfstem
 :le:suppo
 :de:supp	are_vb
-:le:suppo
-:vs:sup-p	conj2
+:le:suppoenitet
+:vs:sup-poeni^t	conj2
 :le:suppono
 :vs:sup-po_n	conj3
 :vs:sup-po^su^ perfstem
@@ -16456,8 +16454,8 @@
 :vs:sup-pri^m	conj3
 :vs:sup-press perfstem
 :vs:sup-press pp4
-:le:supprimo
-:vs:sup-pri^m	conj2
+:le:suppudet
+:vs:sup-pu^d	conj2
 :le:suppuro
 :de:sup-pu_r	are_vb
 :le:supputo
@@ -16522,7 +16520,7 @@
 :le:suspicio#1
 :vs:suspi^c	conj3_io
 :vs:suspex perfstem
-:vs:suct pp4
+:vs:suspect pp4
 :le:suspico
 :de:suspi^c	are_vb
 :le:suspicor
@@ -16563,9 +16561,9 @@
 :de:ta^ci^tu_r	ire_vb
 :le:taedeo
 :vs:taed	conj2
-:le:taedeo
-:vs:taed	conj3
-:le:taedeo
+:le:taedescit
+:vs:taedesc	conj3
+:le:taedet
 :vs:taed	conj2
 :vs:taedu^it perfstem
 :le:taedio
