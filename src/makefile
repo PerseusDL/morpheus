@@ -1,28 +1,28 @@
 all:
-	cd greeklib; make greeklib.a
-	cd morphlib; make morphlib.a
-	cd gkdict; make all
-	cd gkends; make all
-	cd gener; make all
-	cd anal; make all
+	cd greeklib; $(MAKE) greeklib.a
+	cd morphlib; $(MAKE) morphlib.a
+	cd gkdict; $(MAKE) all
+	cd gkends; $(MAKE) all
+	cd gener; $(MAKE) all
+	cd anal; $(MAKE) all
 
 install:
-	cd gkdict; make install
-	cd gkends; make install
-	cd gener; make install
-	cd anal; make install
+	cd gkdict; $(MAKE) install
+	cd gkends; $(MAKE) install
+	cd gener; $(MAKE) install
+	cd anal; $(MAKE) install
 
 clean:
-	cd anal; make clean
-	cd gener; make clean
-	cd gkdict; make clean
-	cd gkends; make clean
-	cd greeklib; make clean
-	cd morphlib; make clean
+	cd anal; $(MAKE) clean
+	cd gener; $(MAKE) clean
+	cd gkdict; $(MAKE) clean
+	cd gkends; $(MAKE) clean
+	cd greeklib; $(MAKE) clean
+	cd morphlib; $(MAKE) clean
 
 libs:
-	cd gener; make gener.a
-	cd gkdict; make gkdict.a
-	cd gkends; make gkends.a
-	cd greeklib; make greeklib.a
-	cd morphlib; make morphlib.a
+	cd gener; $(MAKE) gener.a
+	cd gkdict; $(MAKE) gkdict.a
+	cd gkends; $(MAKE) gkends.a
+	cd greeklib; $(MAKE) greeklib.a
+	cd morphlib; $(MAKE) morphlib.a
