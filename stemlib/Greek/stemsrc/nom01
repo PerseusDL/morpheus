@@ -2144,12 +2144,10 @@
 :aj:*ai)gupto-gen hs_es suff_acc
 :aj:ai)gupto-gen hs_es suff_acc
 
-:le:*ai)/guptonde
+:le:*ai)/guptos
+:no:*ai)gupt os_ou fem
 :wd:*ai)/guptonde adverb
 :wd:*ai)/gupto/nde adverb
-
-:le:*ai)/guptos
-:no:*ai)gupt os_ou masc
 
 :le:ai)gw=nuc
 :no:ai)g-w_nu c_xos masc fem ant_acc
@@ -17218,7 +17216,7 @@
 :aj:deisi-daim wn_on stem_acc
 
 :le:de/ka
-:wd:de/ka numeral pl
+:wd:de/ka numeral
 
 :le:deka/boios
 :aj:deka-boi os_on

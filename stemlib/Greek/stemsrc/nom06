@@ -4608,8 +4608,8 @@
 :wd:tei/ws	adverb
 
 :le:te/kmar
-:wd:te/kmar indecl neut sg
-:wd:te/kmwr indecl neut sg epic
+:wd:te/kmar indecl neut nom/voc/acc sg
+:wd:te/kmwr indecl neut nom/voc/acc sg epic
 
 :le:te/kmarsis
 :no:tekmars is_ews fem
@@ -4984,9 +4984,9 @@
 @ neut pl
 
 :le:tessareskai/deka
-:wd:tessa^res-kai/-deka  numeral
-:wd:tesseres-kai/-deka  numeral ionic
-:wd:tessa^ra^-kai/-deka numeral
+:wd:tessa^res-kai/-deka  numeral pl masc fem
+:wd:tesseres-kai/-deka  numeral pl masc fem ionic
+:wd:tessa^ra^-kai/-deka numeral pl neut
 
 :le:tessareskaide/katos
 :aj:tessa^reskaideka^t os_h_on
@@ -7312,7 +7312,7 @@
 
 :le:*trw/s
 :no:*trw s_os masc
-@ gen  pl contr
+@ gen masc pl contr
 
 :le:trwto/s
 :aj:trwt os_h_on suff_acc
@@ -9533,8 +9533,8 @@
 :aj:faes-for os_on stem_acc
 
 :le:*fai/ac
-:no:*faia_ c_kos   	fem
-:no:*faih c_kos fem
+:no:*faia_ c_kos   	masc
+:no:*faih c_kos masc
 
 :le:fai/dimos
 :aj:faidim os_on
@@ -11072,7 +11072,7 @@
 :no:floi_sb os_ou masc
 
 :le:flo/c
-:no:flo c_gos,masc
+:no:flo c_gos,fem
 
 :le:flo/os
 :no:fl oos_oou masc

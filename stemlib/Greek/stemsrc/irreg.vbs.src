@@ -61,7 +61,7 @@ h)@ath_act_2 irreg_mi pl imperf ind act has_augment
 e)@ath_act_2 irreg_mi pl imperf ind act 3rd pl epic ionic 
 :vb:ei)/ato irreg_mi imperf ind mid  irreg_mi 3rd pl imperf ind mid epic
 h)@ath_mp_2 irreg_mi imperf ind mid  1st sg ntest
-e)@iterat_act irreg_mi imperf ind mid   ionic epic
+e)@iterat_act irreg_mi imperf ind act   ionic epic
 :vs:e)s reg_fut fut mid  1st sg
 :vs:e)s reg_fut fut mid  2nd sg
 :vs:e)s reg_fut fut mid  3rd sg epic
@@ -265,6 +265,7 @@ fa@ath_mp_2 ath_secondary aor ind mid aor ind mid epic
 #fa_@ath_act_2 ath_primary imperf ind act doric 3rd sg
 #fa^@ath_act_2 ath_primary imperf ind act dual pl
 e)fa@ath_mp_2 ath_primary imperf ind mp sg
+fa@ath_mp_2 ath_primary imperf ind mp sg epic
 fa@s_sa_n irreg_mi pres part act needs_acc 
 :vs:faq aor_pass 
 

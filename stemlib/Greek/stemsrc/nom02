@@ -2304,8 +2304,8 @@
 :wd:dusi/ numeral dat pl masc fem neut attic
 
 :le:duokai/deka
-:wd:duo-kai/-deka numeral pl
-:wd:duo/-deka numeral pl
+:wd:duo-kai/-deka numeral
+:wd:duo/-deka numeral
 
 :le:duokaideka/mhnos
 :aj:duokaideka-mhn os_on
@@ -3295,7 +3295,7 @@
 :aj:duw-kai-eikosi-phx us_eia_u
 
 :le:dw/deka
-:wd:dw/-deka numeral pl masc fem neut
+:wd:dw/-deka numeral
 
 :le:dwdeka/gnamptos
 :aj:dwdeka-gnampt os_on
@@ -3542,7 +3542,7 @@
 :aj:e(bdomat os_h_on
 
 :le:e(bdomh/konta
-:wd:e(bdomh/konta  numeral pl masc fem neut
+:wd:e(bdomh/konta  numeral
 
 :le:e(bdomhkontou/ths
 :no:e(bdomhkont-out hs_ou stem_acc   masc
@@ -4637,7 +4637,7 @@
 :aj:e(ka^tom-pu^l os_on
 
 :le:e(kato/n
-:wd:e(ka^to/n numeral pl
+:wd:e(ka^to/n numeral
 
 :le:e(katontaethri/s
 :no:e(ka^tonta-ethr is_idos suff_acc fem
@@ -5415,6 +5415,7 @@
 
 :le:e)/leos
 :no:e)le os_ou masc
+:no:e)le hs_eos neut
 
 :le:e(le/polis
 :aj:e(le-pol is_ews 	fem
@@ -6215,7 +6216,7 @@
 :no:e)ndeic is_ews fem
 
 :le:e(/ndeka
-:wd:e(/n-deka numeral pl
+:wd:e(/n-deka numeral
 
 :le:e(ndeka/phxus
 :aj:e(ndeka-phx us_eia_u
@@ -6333,8 +6334,8 @@
 :wd:ei(/neken prep epic ionic poetic
 
 :le:e)nenh/konta
-:wd:e)nenh/konta numeral pl
-:wd:e)nnenh/konta numeral pl epic
+:wd:e)nenh/konta numeral
+:wd:e)nnenh/konta numeral epic
 
 :le:e)nenhkontaeth/s
 :aj:e)nenhkonta-et hs_es suff_acc
@@ -6816,12 +6817,13 @@
 
 :le:e)nw/pios
 :aj:e)n-wpi os_on
+:wd:e)nw/pion prep
 
 :le:e)c
 :wd:e)c prep
 
 :le:e(/c
-:wd:e(/c numeral pl
+:wd:e(/c numeral
 
 :le:e)caggeli/a
 :no:e)c-aggeli h_hs stem_acc fem
@@ -7096,7 +7098,7 @@
 :aj:e)chghtik os_h_on suff_acc
 
 :le:e(ch/konta
-:wd:e(ch/konta numeral pl
+:wd:e(ch/konta numeral
 
 :le:e(chkontae/ths
 :aj:e(chkonta-et hs_es stem_acc
@@ -9112,7 +9114,7 @@
 :no:e)p-oy is_ews fem
 
 :le:e(pta/
-:wd:e(pta/ numeral pl
+:wd:e(pta/ numeral
 
 :le:e(ptabo/eios
 :aj:e(pta-boei os_on
@@ -9132,7 +9134,7 @@
 :aj:e(ptaet hs_es
 
 :le:e(ptakai/deka
-:wd:e(pta^-kai/-deka numeral pl
+:wd:e(pta^-kai/-deka numeral
 
 :le:e(ptakaideka/pous
 :aj:e(ptakaideka pous_podos	stem_acc

@@ -535,7 +535,7 @@
 :wd:kre/as irreg_decl3 neut nom voc acc sg
 :wd:krh=s irreg_decl3 neut nom voc acc sg doric
 :no:kre as_aos,neut attic gen sg end:ws
-:no:kre s_os,neut nom voc pl end:a
+:no:kre s_os,neut nom voc acc pl end:a
 @ gen pl
 :wd:kreiw=n irreg_decl3 neut gen pl epic
 :wd:krea/wn irreg_decl3 neut gen pl epic

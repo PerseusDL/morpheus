@@ -1111,6 +1111,7 @@
 
 :le:e)uknh/mis
 :no:e)u+-knhm is_iCdos  fem stem_acc
+:no:e)u+-knhm is_iCdos  masc pl stem_acc
 
 :le:eu)/knhmos
 :aj:eu)-knhm os_on
@@ -6863,6 +6864,8 @@
 :aj:i)q us_eia_u,suff_acc
 @ end:ea
 :aj:i)quter os_h_on irreg_comp
+:wd:i)qu/s adverb
+:wd:i)qu/ adverb
 
 :le:i)qu/s2
 :wd:i)qu/n us_ews acc sg fem
@@ -10930,7 +10933,7 @@
 :no:khp-our os_ou suff_acc    masc
 
 :le:kh/r
-:no:kh r_ros,masc
+:no:kh r_ros,fem
 @ acc
 
 :le:kh=r
