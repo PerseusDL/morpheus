@@ -224,6 +224,11 @@ fiant	irreg_pp1 pres subj act 3rd pl
 #
 si@basvb2	irreg_pp1 pres subj act
 sie@basvb2	irreg_pp1 pres subj act archaic
+:vb:fuam	irreg_pp1 1st sg pres subj act archaic
+:vb:fua_s	irreg_pp1 2nd sg pres subj act archaic
+:vb:fuat	irreg_pp1 3rd sg pres subj act archaic
+:vb:fuant	irreg_pp1 3rd pl pres subj act archaic
+#
 era@basvb2	irreg_pp1 imperf ind act
 esse@basvb2	irreg_pp1 imperf subj act
 er@ofut		irreg_pp1 fut ind act
@@ -295,3 +300,15 @@ pote_ns			irreg_pp1 pres part masc/fem/neut nom/voc sg
 pote_ns			irreg_pp1 pres part neut acc sg
 potent@decl3_i		irreg_pp1 pres part
 
+:le:lubet
+:vs:lub	conj2
+
+:le:contundo
+:vs:contund	conj3
+:vs:contud	perfstem
+:vs:contu_s	pp4
+
+:le:rettundo
+:vs:rettund	conj3
+:vs:rettud	perfstem
+:vs:rettu_s	pp4

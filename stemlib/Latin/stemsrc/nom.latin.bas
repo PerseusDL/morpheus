@@ -811,6 +811,7 @@
 
 :le:nox
 :no:no x_ctis fem
+:wd:noctu	x_ctis loc fem sg
 
 :le:numquam
 :wd:numquam	adverb

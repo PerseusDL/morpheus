@@ -336,6 +336,10 @@
 :vb:sumus	irreg_pp1 1st pl pres ind act
 :vb:estis	irreg_pp1 2nd pl pres ind act
 :vb:sunt	irreg_pp1 3rd pl pres ind act
+:vb:fuam	irreg_pp1 1st sg pres subj act archaic
+:vb:fua_s	irreg_pp1 2nd sg pres subj act archaic
+:vb:fuat	irreg_pp1 3rd sg pres subj act archaic
+:vb:fuant	irreg_pp1 3rd pl pres subj act archaic
 :vs:fu		perfstem
 :vb:es		irreg_pp1 2nd sg pres imperat act
 :vb:este	irreg_pp1 2nd pl pres imperat act
@@ -491,3 +495,16 @@
 :vb:posse_mur   irreg_pp1 imperf subj pass 1st pl
 :vb:posse_mini   irreg_pp1 imperf subj pass 2nd pl
 :vb:possentur   irreg_pp1 imperf subj pass 3rd pl
+
+:le:lubet
+:vs:lub	conj2
+
+:le:contundo
+:vs:contund	conj3
+:vs:contud	perfstem
+:vs:contu_s	pp4
+
+:le:rettundo
+:vs:rettund	conj3
+:vs:rettud	perfstem
+:vs:rettu_s	pp4

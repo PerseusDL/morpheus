@@ -23,11 +23,23 @@
 :wd:I^e_su	irreg_nom2 masc abl sg
 :wd:I^e_su	irreg_nom2 masc voc sg
 
+:le:insons
+:aj:inson	s_tis
+
 :le:mus
 :no:m		uLs_uLris masc fem
 
+:le:peregre
+:wd:peregre	adverb
+
+:le:perenne
+:wd:perenne	adverb
+
 :le:pontifex
 :no:pontif	ex_icis masc
+
+:le:rursum
+:wd:rursum	adverb
 
 :le:Teloboae
 :no:Te_lo^bo^	a_ae masc pl
@@ -43,9 +55,3 @@
 
 :le:tragicomoedia
 :no:tragicomoedi	a_ae fem
-
-:le:perenne
-:wd:perenne	adverb
-
-:le:rursum
-:wd:rursum	adverb
