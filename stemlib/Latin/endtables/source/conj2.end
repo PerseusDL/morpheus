@@ -1,0 +1,70 @@
+eo_	pres ind act 1st sg
+e_s	pres ind act 2nd sg
+e_t	pres ind act 3rd sg
+e_mus	pres ind act 1st pl
+e_tis	pres ind act 2nd pl
+ent	pres ind act 3rd pl
+#
+e_@imperf imperf ind act
+#
+e_@future fut ind act
+#
+eam	pres subj act 1st sg
+ea_s	pres subj act 2nd sg
+ea_t	pres subj act 3rd sg
+ea_mus	pres subj act 1st pl
+ea_tis	pres subj act 2nd pl
+eant	pres subj act 3rd pl
+#
+e_@imperf	imperf subj act 
+#
+e_to_	fut imperat act 2nd sg
+e_to_	fut imperat act 3rd sg
+e_to_te	fut imperat act 2nd pl
+ento_	fut imperat act 3rd pl
+#
+e_	pres imperat act 2nd sg
+e_te	pres imperat act 2nd pl
+#
+e_re	pres inf act
+
+# passives
+eor	pres ind pass 1st sg
+e_ris	pres ind pass 2nd sg
+e_re	pres ind pass 2nd sg
+e_tur	pres ind pass 3rd sg
+e_mur	pres ind pass 1st pl
+e_mini	pres ind pass 2nd pl
+entur	pres ind pass 3rd pl
+#
+e_@imperf imperf ind pass
+#
+e_@future fut ind pass
+#
+ear	pres subj pass 1st sg
+ea_ris	pres subj pass 2nd sg
+ea_re	pres subj pass 2nd sg
+ea_tur	pres subj pass 3rd sg
+ea_mur	pres subj pass 1st pl
+ea_mini	pres subj pass 2nd pl
+eantur	pres subj pass 3rd pl
+#
+e_@imperf	imperf subj pass 
+#
+e_re	pres imperat pass 2nd sg
+e_mini	pres imperat pass 2nd pl
+#
+e_ri	pres inf pass
+#
+e_ns	pres part masc/fem/neut nom/voc sg
+e_ns	pres part neut acc sg
+ent@superl_adj 	superl
+ent@comp_adj 	comp
+ente	pres part masc/fem/neut abl sg
+ent@decl3_i pres part 
+#
+end@decl1 gerundive fem 
+end@decl2 gerundive masc 
+end@decl2 gerundive neut 
+endus	gerundive masc nom sg
+endum	gerundive neut nom sg

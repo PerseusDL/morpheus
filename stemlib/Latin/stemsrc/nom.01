@@ -1,0 +1,107 @@
+:le:porta
+:no:port a_ae fem
+
+:le:amicus
+:no:ami_c us_i masc
+
+:le:ager
+:no:ag er_ri masc
+
+:le:puer
+:no:puer 0_i masc
+
+:le:donum
+:no:don us_i neut
+
+:le:magnus
+:aj:magn us_a_um
+
+:le:liber
+:aj:li_ber 0_a_um
+
+:le:pulcher
+:no:pulch er_ra_rum
+
+:le:rex
+:no:re_ x_gis masc
+
+:le:corpus
+:no:corp or_oris neut
+
+:le:civis
+:no:civ is_is masc
+
+:le:urbs
+:no:urb s_is fem
+
+:le:mare
+:no:mar e_is neut
+
+:le:fluctus
+:no:fluct us_us masc
+
+:le:cornu
+:no:corn  us_us neut
+
+:le:dies
+:no:di es_ei fem
+
+:le:acer
+:aj:ac er_ris_re
+
+:le:fortis
+:aj:fort is_e
+
+:le:potens
+:aj:pot ens_adj
+
+:le:solus
+:aj:so_l us_ius_adj
+
+:le:totus
+:aj:to_t us_ius_adj
+
+:le:unus
+:aj:u_n us_ius_adj
+
+:le:ullus
+:aj:u_ll us_ius_adj
+
+:le:nullus
+:aj:nu_ll us_ius_adj
+
+:le:bonus
+:aj:bon us_a_um no_comp
+:aj:mel ior_ius_comp 
+:aj:optim us_a_um irreg_superl
+
+:le:magnus
+:aj:magn us_a_um no_comp
+:aj:ma	ior_ius_comp
+:aj:maxim	us_a_um irreg_superl
+
+:le:malus
+:aj:mal us_a_um no_comp
+:aj:pe	ior_us_comp
+:aj:pessim	us_a_um irreg_superl
+
+:le:multus
+:aj:mult us_a_um no_comp
+:aj:maxim us_a_um irreg_superl
+
+:le:parvus
+:aj:parv us_a_um no_comp
+:aj:min  or_us_comp
+:aj:minim us_a_um irreg_superl
+
+:le:prior
+:aj:pr ior_ius_comp
+
+:le:primus
+:aj:pri_m us_a_um irreg_superl
+
+:le:superus
+:aj:super us_a_um no_comp
+:aj:super ior_ius_comp
+:aj:summ us_a_um irreg_superl
+:aj:suprem us_a_um irreg_superl

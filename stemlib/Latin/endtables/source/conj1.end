@@ -1,0 +1,79 @@
+o_	pres ind act 1st sg
+a_s	pres ind act 2nd sg
+a_t	pres ind act 3rd sg
+a_mus	pres ind act 1st pl
+a_tis	pres ind act 2nd pl
+ant	pres ind act 3rd pl
+#
+a_@imperf imperf ind act
+#
+a_@future fut ind act
+#
+em	pres subj act 1st sg
+e_s	pres subj act 2nd sg
+e_t	pres subj act 3rd sg
+e_mus	pres subj act 1st pl
+e_tis	pres subj act 2nd pl
+ent	pres subj act 3rd pl
+#
+a_@imperf	imperf subj act 
+#
+a_to_	fut imperat act 2nd sg
+a_to_	fut imperat act 3rd sg
+a_to_te	fut imperat act 2nd pl
+anto_	fut imperat act 3rd pl
+#
+a_	pres imperat act 2nd sg
+a_te	pres imperat act 2nd pl
+#
+a_re	pres inf act
+
+# passives
+or	pres ind pass 1st sg
+a_ris	pres ind pass 2nd sg
+a_re	pres ind pass 2nd sg
+a_tur	pres ind pass 3rd sg
+a_mur	pres ind pass 1st pl
+a_mini	pres ind pass 2nd pl
+antur	pres ind pass 3rd pl
+#
+a_@imperf imperf ind pass
+#
+a_@future fut ind pass
+#
+er	pres subj pass 1st sg
+e_ris	pres subj pass 2nd sg
+e_re	pres subj pass 2nd sg
+e_tur	pres subj pass 3rd sg
+e_mur	pres subj pass 1st pl
+e_mini	pres subj pass 2nd pl
+entur	pres subj pass 3rd pl
+#
+a_@imperf	imperf subj pass 
+#
+a_re	pres imperat pass 2nd sg
+a_mini	pres imperat pass 2nd pl
+#
+a_ri	pres inf pass
+#
+a_ns	pres part masc/fem/neut nom/voc sg
+a_ns	pres part neut acc sg
+ante	pres part masc/fem/neut abl sg
+ant@superl_adj 	superl
+ant@comp_adj 	comp
+ant@decl3_i pres part 
+#
+and@decl1 gerundive fem 
+and@decl2 gerundive masc 
+and@decl2 gerundive neut 
+andus	gerundive masc nom sg
+andum	gerundive neut nom sg
+#
+#this is *not* the way to do this, but it will work for now
+asti	are_vb 2nd sg perf ind act contr
+a_runt	are_vb 3rd pl perf ind act contr
+a_r@past	are_vb plup ind act contr
+a_ri@basvb2	are_vb perf subj act contr
+ass@emsub	are_vb plup subj act contr
+
+asse	are_vb perf inf act contr

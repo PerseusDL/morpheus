@@ -1,0 +1,1 @@
+vi rawprev.src; sort -r rawprev.src -o raw_preverbs.table

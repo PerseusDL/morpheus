@@ -1,0 +1,583 @@
+:le:aer
+ae_r	irreg_nom3 masc nom sg
+aer@decl3	irreg_nom3 masc
+
+:le:alter
+alter 	irreg_nom2 masc nom/voc sg
+altera 	irreg_nom2 gen nom/voc sg
+alterum 	irreg_nom2 neut nom/voc sg
+:wd:alteri_us	irreg_nom2 masc fem neut gen sg
+alter@decl2 irreg_nom2 gen pl
+alter@decl2 irreg_nom2 dat
+alter@decl2 irreg_nom2 acc
+alter@decl2 irreg_nom2 abl
+
+:le:alius
+:wd:alius irreg_nom2 neut nom acc sg
+:wd:aliud irreg_nom2 neut nom acc sg
+ali@ille irreg_nom2
+
+:le:ambo
+ambo_	numeral masc neut pl
+ambo	numeral masc neut pl
+ambo	numeral neut pl acc
+ambae	numeral	fem pl nom
+ambas	numeral	fem pl acc
+ambos	numeral	masc pl acc
+
+:le:bos
+:wd:bo_s	irreg_nom3 masc fem nom sg
+bov@decl3 	irreg_nom3 sg masc fem
+bov@decl3	irreg_nom3 nom pl masc fem
+:wd:boum	irreg_nom3 gen pl masc fem
+:wd:bo_bus	irreg_nom3 dat pl masc fem
+:wd:bu_bus	irreg_nom3 dat pl masc fem
+:wd:bo_bus	irreg_nom3 abl pl masc fem
+:wd:bu_bus	irreg_nom3 abl pl masc fem
+bov@decl3	irreg_nom3 acc pl masc fem
+
+:le:caput
+ca^pu^t		irreg_nom3 neut nom/voc/acc sg
+ca^pi^t@decl3	irreg_nom3 neut
+ca^pi^ti	irreg_nom3 neut abl sg
+
+:le:caro
+caro_		irreg_nom3 fem nom sg
+carn@decl3_i	irreg_nom3  fem
+
+:le:Ceres
+Cere_s		irreg_nom3 fem nom sg
+Cere^r@decl3	irreg_nom3 fem sg
+
+:le:duo
+duo	irreg_adj3 masc neut nom pl
+duae	irreg_adj3 fem nom pl
+dua_s	irreg_adj3 fem acc pl
+duo_s	irreg_adj3 masc acc pl
+duo_rum	irreg_adj3 masc neut gen pl
+dua_rum	irreg_adj3 fem gen pl
+duo_bus	irreg_adj3 masc neut dat pl
+dua_bus	irreg_adj3 fem dat pl
+duo_bus	irreg_adj3 masc neut abl pl
+dua_bus	irreg_adj3 fem abl pl
+
+:le:falx
+:no:fal		x_cis fem
+
+:le:far
+far	irreg_nom3	neut nom voc acc sg
+farr@decl3	irreg_nom3	neut
+
+:le:fons
+:no:fon		s_tis fem
+
+:le:frons#1
+:no:fron	s_dis fem
+
+:le:frons#2
+:no:fron	s_tis fem
+
+:le:iste
+:wd:iste demonstr neut nom acc sg
+:wd:istud demonstr neut nom acc sg
+:wd:istunc	demonstr masc acc sg
+:wd:istanc	demonstr fem acc sg
+ist@ille demonstr
+
+
+:le:iter
+iter	irreg_nom3 neut nom/voc/acc sg
+itiner@decl3	irreg_nom3 neut
+
+:le:Iuppiter
+Iuppiter	irreg_nom3 masc nom sg
+Iov@decl3	irreg_nom3 masc sg
+
+
+:le:ius
+ius		irreg_nom3 neut nom/voc/acc sg
+iur@decl3	irreg_nom3 neut
+
+:le:nemo
+nemo		irreg_nom3 masc fem nom sg
+nemin@decl3	irreg_nom3 masc fem
+
+:le:nix
+nix	irreg_nom3 fem nom sg
+niv@decl3_i 	irreg_nom3 fem
+
+:le:hic
+:wd:hic demonstr masc nom sg
+:wd:haec demonstr fem nom sg
+:wd:hoc demonstr neut nom/acc sg
+:wd:huius	demonstr masc/fem/neut gen sg
+:wd:huiusce	demonstr masc/fem/neut gen sg
+:wd:huic	demonstr masc/fem/neut dat sg
+:wd:hunc demonstr masc acc sg
+:wd:hanc demonstr fem acc sg
+:wd:hi_sce	demonstr masc fem neut dat pl
+:wd:hi_sce	demonstr masc fem neut abl pl
+h@decl1	demonstr fem pl
+h@decl2	demonstr masc pl
+h@decl2 demonstr neut gen pl
+h@decl2 demonstr neut dat pl
+h@decl2 demonstr neut abl pl
+haec	demonstr neut nom/acc pl
+hosce	demonstr masc acc pl
+
+:le:honorificus
+:aj:ho^no_rifi^c ens_adj comp
+:aj:ho^no_rifi^c ens_adj superl
+
+:le:ille
+:wd:ille demonstr neut nom acc sg
+:wd:illud demonstr neut nom acc sg
+ill@ille demonstr
+:wd:olle demonstr neut nom acc sg archaic
+:wd:ollud demonstr neut nom acc sg archaic
+oll@ille demonstr archaic
+
+:le:aliqui
+:wd:aliquis indef masc nom sg
+:wd:aliqui_ indef masc nom sg
+:wd:aliquae indef fem nom sg
+:wd:aliquod indef neut nom/acc sg
+:wd:aliquem indef masc acc sg
+:wd:aliquam indef fem acc sg
+:wd:aliqua_ indef fem abl sg
+ali@quis indef
+
+:le:cuicuimodi
+:wd:cuicuimodi	conj
+
+:le:quidam
+:wd:qui_dam indef masc nom sg
+:wd:quaedam indef fem nom sg
+:wd:quoddam indef neut nom/acc sg
+:wd:quiddam indef neut nom/acc sg
+:wd:quemdam indef masc acc sg
+:wd:quendam indef masc acc sg
+:wd:quamdam indef fem acc sg
+:wd:quandam indef fem acc sg
+:wd:qua_dam indef fem abl sg
+:wd:cuiusdam   indef masc/fem/neut gen sg
+:wd:cuidam   indef masc/fem/neut dat sg
+:wd:qui_dam   indef masc nom pl
+:wd:quaedam   indef fem nom pl
+:wd:quaedam   indef neut nom/acc pl
+:wd:quo_rumdam   indef masc gen pl
+:wd:qua_rumdam   indef fem gen pl
+:wd:quibusdam   indef masc/fem/neut dat pl
+:wd:quo_sdam   indef masc acc pl
+:wd:qua_sdam   indef fem acc pl
+:wd:quibusdam   indef masc/fem/neut abl pl
+
+
+:le:quisnam
+:wd:quisnam indef masc nom sg
+:wd:quaenam indef fem nom sg
+:wd:quodnam indef neut nom/acc sg
+:wd:quidnam indef neut nom/acc sg
+:wd:quemnam indef masc acc sg
+:wd:quamnam indef fem acc sg
+:wd:qua_nam indef fem abl sg
+:wd:cuiusnam   indef masc/fem/neut gen sg
+:wd:cuinam   indef masc/fem/neut dat sg
+:wd:qui_nam   indef masc nom pl
+:wd:quaenam   indef fem nom pl
+:wd:quaenam   indef neut nom/acc pl
+:wd:quo_rumnam   indef masc gen pl
+:wd:qua_rumnam   indef fem gen pl
+:wd:quibusnam   indef masc/fem/neut dat pl
+:wd:quo_snam   indef masc acc pl
+:wd:qua_snam   indef fem acc pl
+:wd:quibusnam   indef masc/fem/neut abl pl
+
+:le:quisque
+:wd:quisque indef masc nom sg
+:wd:quaeque indef fem nom sg
+:wd:quodque indef neut nom/acc sg
+:wd:quidque indef neut nom/acc sg
+:wd:quemque indef masc acc sg
+:wd:quamque indef fem acc sg
+:wd:qua_que indef fem abl sg
+:wd:cuiusque   indef masc/fem/neut gen sg
+:wd:cuique   indef masc/fem/neut dat sg
+:wd:qui_que   indef masc nom pl
+:wd:quaeque   indef fem nom pl
+:wd:quaeque   indef neut nom/acc pl
+:wd:quo_rumque   indef masc gen pl
+:wd:qua_rumque   indef fem gen pl
+:wd:quibusque   indef masc/fem/neut dat pl
+:wd:quo_sque   indef masc acc pl
+:wd:qua_sque   indef fem acc pl
+:wd:quibusque   indef masc/fem/neut abl pl
+
+
+:le:qualiscumque
+:wd:qualiscumque	indef masc fem nom sg
+:wd:qualemcumque	indef masc fem acc sg
+:wd:qualiacumque	indef neut nom acc pl
+
+:le:quicumque
+:wd:qui_cumque indef masc nom sg
+:wd:quaecumque indef fem nom sg
+:wd:quodcumque indef neut nom/acc sg
+:wd:quidcumque indef neut nom/acc sg
+:wd:quemcumque indef masc acc sg
+:wd:quencumque indef masc acc sg
+:wd:quamcumque indef fem acc sg
+:wd:quancumque indef fem acc sg
+:wd:quo_cumque indef masc neut abl sg
+:wd:qua_cumque indef fem abl sg
+:wd:cuiuscumque   indef masc/fem/neut gen sg
+:wd:cuicumque   indef masc/fem/neut dat sg
+:wd:qui_cumque   indef masc nom pl
+:wd:quaecumque   indef fem nom pl
+:wd:quaecumque   indef neut nom/acc pl
+:wd:quo_rumcumque   indef masc gen pl
+:wd:qua_rumcumque   indef fem gen pl
+:wd:quibuscumque   indef masc/fem/neut dat pl
+:wd:quo_scumque   indef masc acc pl
+:wd:qua_scumque   indef fem acc pl
+:wd:quibuscumque   indef masc/fem/neut abl pl
+
+:wd:qui_cunque indef masc nom sg
+:wd:quaecunque indef fem nom sg
+:wd:quodcunque indef neut nom/acc sg
+:wd:quidcunque indef neut nom/acc sg
+:wd:quemcunque indef masc acc sg
+:wd:quencunque indef masc acc sg
+:wd:quamcunque indef fem acc sg
+:wd:quancunque indef fem acc sg
+:wd:qua_cunque indef fem abl sg
+:wd:cuiuscunque   indef masc/fem/neut gen sg
+:wd:cuicunque   indef masc/fem/neut dat sg
+:wd:qui_cunque   indef masc nom pl
+:wd:quaecunque   indef fem nom pl
+:wd:quaecunque   indef neut nom/acc pl
+:wd:quo_rumcunque   indef masc gen pl
+:wd:qua_rumcunque   indef fem gen pl
+:wd:quibuscunque   indef masc/fem/neut dat pl
+:wd:quo_scunque   indef masc acc pl
+:wd:qua_scunque   indef fem acc pl
+:wd:quibuscunque   indef masc/fem/neut abl pl
+
+:le:quispiam
+:wd:quispiam	indef masc fem nom sg
+:wd:quoipiam	indef masc fem neut dat sg
+:wd:quippiam	indef neut nom acc sg
+
+:le:quivis
+:wd:qui_vis indef masc nom sg
+:wd:quaevis indef fem nom sg
+:wd:quodvis indef neut nom/acc sg
+:wd:quidvis indef neut nom/acc sg
+:wd:quemvis indef masc acc sg
+:wd:quamvis indef fem acc sg
+:wd:qua_vis indef fem abl sg
+:wd:cuiusvis   indef masc/fem/neut gen sg
+:wd:cuivis   indef masc/fem/neut dat sg
+:wd:qui_vis   indef masc nom pl
+:wd:quaevis   indef fem nom pl
+:wd:quaevis   indef neut nom/acc pl
+:wd:quo_rumvis   indef masc gen pl
+:wd:qua_rumvis   indef fem gen pl
+:wd:quibusvis   indef masc/fem/neut dat pl
+:wd:quo_svis   indef masc acc pl
+:wd:qua_svis   indef fem acc pl
+:wd:quibusvis   indef masc/fem/neut abl pl
+
+:le:ecqui
+:wd:ecqui_ rel_pron masc nom sg
+:wd:ecquei rel_pron masc nom sg
+:wd:ecquae rel_pron fem nom sg
+:wd:ecquod rel_pron neut nom/acc sg
+:wd:ecquem rel_pron masc acc sg
+:wd:ecquam rel_pron fem acc sg
+:wd:ecqua_ rel_pron fem abl sg
+:wd:ecqui_cum rel_pron masc abl sg
+:wd:ecqui_buscum rel_pron masc fem neut abl dat pl
+ec@quis rel_pron
+
+:le:qui
+:wd:qui_ rel_pron masc nom sg
+:wd:quei rel_pron masc nom sg
+:wd:quae rel_pron fem nom sg
+:wd:quod rel_pron neut nom/acc sg
+:wd:quem rel_pron masc acc sg
+:wd:quam rel_pron fem acc sg
+:wd:qua_ rel_pron fem abl sg
+:wd:qui_cum rel_pron masc abl sg
+:wd:qui_buscum rel_pron masc fem neut abl dat pl
+:wd:quoi rel_pron masc fem neut dat sg
+@quis rel_pron
+
+:le:quisquis
+:wd:quisquis	relative masc fem nom sg
+:wd:quidquid	relative neut nom/acc sg
+:wd:quicquid	relative neut nom/acc sg
+:wd:quemquem	relative masc acc sg
+:wd:quamquam	relative fem acc sg
+:wd:quibusquibus	relative masc fem neut abl/dat pl
+:wd:qua_qua_	relative fem abl sg late rare
+:wd:cui_cui_	relative masc fem neut gen sg rare
+:wd:qui_qui_	relative masc fem neut abl sg late rare
+:wd:quoquo	relative masc fem neut abl sg
+
+:le:quisquam
+:wd:quisquam	indef masc fem  nom sg
+:wd:quiquam	indef masc nom sg
+:wd:quaequam	indef fem nom sg
+:wd:quidquam	indef neut nom/acc sg
+:wd:quicquam	indef neut nom/acc sg
+:wd:cuiusquam	indef masc fem neut gen sg
+:wd:quemquam	indef masc acc sg
+:wd:quamquam	indef fem acc sg
+:wd:quibusam	indef masc fem neut abl/dat pl
+:wd:qua_quam	indef fem abl sg late rare
+:wd:cui_quam	indef masc fem neut gen sg rare
+:wd:qui_quam	indef masc fem neut abl sg late rare
+:wd:qua_quam	indef fem neut abl sg
+:wd:quo_quam	indef masc neut abl sg
+
+:le:aliquis
+:wd:aliquis	indef masc fem nom sg
+:wd:aliquid	indef neut nom/acc sg
+:wd:aliquo	indef masc fem neut abl sg
+a^li^@quis	indef
+
+:le:ecquis
+:wd:ecquis	interrog masc fem nom sg
+:wd:ecquid	interrog neut nom/acc sg
+:wd:ecquo		interrog masc fem neut abl sg
+ec@quis	interrog
+:wd:ecquidni	interrog neut nom acc sg
+
+:le:quis
+:wd:quis	interrog masc fem nom sg
+:wd:quid	interrog neut nom/acc sg
+:wd:quo		interrog masc fem neut abl sg
+@quis	interrog
+:wd:quidni	interrog neut nom acc sg
+
+:le:siquis
+:wd:si_quis	interrog masc fem nom sg
+:wd:si_quid	interrog neut nom/acc sg
+:wd:si_quo	interrog masc fem neut abl sg
+:wd:siqua_ rel_pron fem abl sg
+si_@quis	interrog
+
+
+
+:le:ipse
+:wd:ipse demonstr neut nom acc sg
+:wd:ipsum demonstr neut nom acc sg
+ips@ille demonstr
+
+:le:is
+e@decl1 pron3 fem nom sg
+eius	pron3 masc fem neut gen sg
+e@decl2	pron3 masc fem neut dat sg
+e@decl1 pron3 fem acc sg
+e@decl1 pron3 fem abl sg
+
+e@decl1 pron3 fem pl
+ii_s	pron3 masc fem neut dat pl
+
+:wd:is 	pron3 masc nom sg
+:wd:id 	pron3 neut nom/acc sg
+e@decl2	pron3 masc neut abl sg
+e@decl2	pron3 masc acc sg
+
+e@decl2 pron3 masc neut pl
+
+:le:idem
+:wd:i_dem 	pron3 masc nom sg
+:wd:idem 	pron3 neut nom/acc sg
+:wd:eadem	pron3 fem nom sg
+:wd:eiusdem	pron3 masc/fem/neut gen sg
+:wd:eo_dem	pron3 masc/fem/neut dat sg
+:wd:eundem	pron3 masc acc sg
+:wd:eandem	pron3 fem acc sg
+:wd:eo_dem	pron3 masc/neut abl sg
+:wd:ea_dem	pron3 fem abl sg
+:wd:ei_dem	pron3 masc nom pl
+:wd:eaedem	pron3 fem nom/voc pl
+:wd:eadem	pron3 neut nom/voc/acc pl
+:wd:eo_rundem	pron3 masc/neut gen pl
+:wd:ea_rumdem	pron3 fem gen pl
+:wd:ii_sdem	pron3 masc/fem/neut dat pl
+:wd:i_sdem	pron3 masc/fem/neut dat pl
+:wd:ei_sdem	pron3 masc/fem/neut dat pl
+:wd:eo_sdem	pron3 masc acc pl
+:wd:ea_sdem	pron3 fem acc pl
+:wd:ei_sdem	pron3 masc/fem/neut abl pl
+
+:le:ego
+ego	pron1 masc fem nom sg
+mei_	pron1 masc fem gen sg
+mihi	pron1 masc fem dat sg
+me_	pron1 masc fem acc sg
+me_me_	pron1 masc fem acc sg
+me_d	pron1 masc fem acc sg
+me_met	pron1 masc fem acc sg
+me_	pron1 masc fem abl sg
+no_s	pron1 masc fem nom pl
+nostrum	pron1 masc fem gen pl
+nostri_	pron1 masc fem gen pl
+no_s	pron1 masc fem acc pl
+no_bis	pron1 masc fem abl pl
+no_bis	pron1 masc fem dat pl
+
+egomet	pron1 masc fem nom sg
+mei_met	pron1 masc fem gen sg
+mihimet	pron1 masc fem dat sg
+no_bismet	pron1 masc fem abl pl
+no_bismet	pron1 masc fem dat pl
+no_smet	pron1 masc fem nom acc pl
+
+:le:tu_
+tu_	pron2 masc fem nom sg
+tui_	pron2 masc fem gen sg
+tibi	pron2 masc fem dat sg
+te_	pron2 masc fem acc sg
+te_	pron2 masc fem abl sg
+vo_s	pron2 masc fem nom pl
+vostrum	pron2 masc fem gen pl
+vestri_	pron2 masc fem gen pl
+vo_s	pron2 masc fem acc pl
+vo_bis	pron2 masc fem abl pl
+vo_bis	pron2 masc fem dat pl
+
+:le:sui_
+sui_	pron1 masc fem gen sg
+sibi	pron1 masc fem dat sg
+se_	pron1 masc fem acc sg
+se_se_	pron1 masc fem acc sg
+se_	pron1 masc fem abl sg
+se_se_	pron1 masc fem abl sg
+
+sui_	pron1 masc fem gen pl
+sibi	pron1 masc fem dat pl
+se_	pron1 masc fem acc pl
+se_se_	pron1 masc fem acc pl
+se_	pron1 masc fem abl pl
+se_se_	pron1 masc fem abl pl
+
+:le:mel
+:wd:mel		irreg_decl3 neut nom/voc/acc sg
+mell@decl3	irreg_decl3 neut
+
+:le:mille
+mille		numeral masc fem nom pl
+mil@decl3_i	numeral neut nom pl
+mil@decl3_i	numeral masc fem neut gen pl
+mil@decl3_i	numeral masc fem neut dat pl
+mil@decl3_i	numeral masc fem neut acc pl
+mil@decl3_i	numeral masc fem neut abl pl
+
+
+:le:complures
+complur@decl3_i irreg_adj3 pl
+
+:le:multus
+plus	irreg_adj3 nom/acc sg irreg_comp
+plu_r@decl3 irreg_adj3 neut gen sg irreg_comp
+plu_r@decl3 irreg_adj3 neut abl sg irreg_comp
+plur@decl3_i irreg_adj3 masc fem pl irreg_comp
+plur@decl3 irreg_adj3 neut nom pl irreg_comp
+plur@decl3_i irreg_adj3 neut gen pl irreg_comp
+plur@decl3 irreg_adj3 neut dat pl irreg_comp
+plur@decl3 irreg_adj3 neut abl pl irreg_comp
+plur@decl3 irreg_adj3 neut nom/acc pl irreg_comp
+
+:le:os#1
+o_s		irreg_nom3 neut neut/nom/voc/acc 
+o_r@decl3	irreg_nom3 neut sg
+o_r@decl3	irreg_nom3 neut pl nom/voc/acc
+o_r@decl3	irreg_nom3 neut pl dat
+o_r@decl3	irreg_nom3 neut pl abl
+
+:le:os#2
+os	irreg_nom3 neut nom/voc/acc sg
+oss@decl3_i	irreg_nom3 neut
+
+:le:pelagus
+pelagus		irreg_nom2 neut nom voc acc sg
+pelag@decl2	irreg_nom2 neut sg
+pelage_		irreg_nom2 neut nom voc acc pl
+
+:le:senex
+senex	irreg_nom3 masc nom sg
+sen@decl3	irreg_nom3 masc
+sen@comp_adj  	irreg_nom3
+
+:le:sus
+su_s		irreg_nom3 masc fem nom sg
+su_@decl3	irreg_nom3 masc fem sg
+sue_s		irreg_nom3 masc fem nom pl
+sue_s		irreg_nom3 masc fem acc pl
+su_bus		irreg_nom3 masc fem dat pl
+su^bus		irreg_nom3 masc fem dat pl
+suibus		irreg_nom3 masc fem dat pl
+su_bus		irreg_nom3 masc fem abl pl
+su^bus		irreg_nom3 masc fem abl pl
+suibus		irreg_nom3 masc fem abl pl
+
+:le:tres
+tre_s		numeral masc fem nom pl
+tr@decl3_i	numeral neut nom pl
+tr@decl3_i	numeral masc fem neut gen pl
+tr@decl3_i	numeral masc fem neut dat pl
+tr@decl3_i	numeral masc fem neut acc pl
+tr@decl3_i	numeral masc fem neut abl pl
+
+:le:alteruter
+alter-uter 	irreg_adj2 masc nom/voc sg
+alter-utra 	irreg_adj2 gen nom/voc sg
+alter-utrum 	irreg_adj2 neut nom/voc sg
+:wd:alter-utri_us	irreg_adj2 masc fem neut gen sg
+alter-utr@decl2 irreg_adj2 gen pl masc neut
+alter-utr@decl2 irreg_adj2 dat masc neut
+alter-utr@decl2 irreg_adj2 acc masc neut
+alter-utr@decl2 irreg_adj2 abl masc neut
+
+alter-utr@decl1 irreg_adj2 gen pl fem
+alter-utr@decl1 irreg_adj2 dat fem
+alter-utr@decl1 irreg_adj2 acc fem
+alter-utr@decl1 irreg_adj2 abl fem
+
+
+:le:uter
+uter 	irreg_adj2 masc nom/voc sg
+utra 	irreg_adj2 gen nom/voc sg
+utrum 	irreg_adj2 neut nom/voc sg
+:wd:utri_us	irreg_adj2 masc fem neut gen sg
+utr@decl2 irreg_adj2 gen pl masc neut
+utr@decl2 irreg_adj2 dat masc neut
+utr@decl2 irreg_adj2 acc masc neut
+utr@decl2 irreg_adj2 abl masc neut
+
+utr@decl1 irreg_adj2 gen pl fem
+utr@decl1 irreg_adj2 dat fem
+utr@decl1 irreg_adj2 acc fem
+utr@decl1 irreg_adj2 abl fem
+
+:le:virus
+vi_rus		irreg_nom2 neut nom voc acc sg
+vi_r@decl2	irreg_nom2 neut sg
+
+:le:vis
+vi_s		irreg_nom3 fem nom sg
+vi_s		irreg_nom3 fem gen sg
+vi_		irreg_nom3 fem dat sg
+vim		irreg_nom3 fem acc sg
+vi_r@decl3_i	irreg_nom3 fem pl
+
+:le:vulgus
+vulgus		irreg_nom2 neut nom voc acc sg
+vulg@decl2	irreg_nom2 neut sg
+volgus		irreg_nom2 neut nom voc acc sg orth
+volg@decl2	irreg_nom2 neut sg orth
+:no:vulg	irreg_nom2 us_i masc rare

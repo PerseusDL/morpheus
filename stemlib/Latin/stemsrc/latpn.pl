@@ -1,0 +1,9 @@
+#!/usr/bin/perl -p
+s#^([A-Z][a-z]+)(ius)$#:le:$1$2\n:no:$1\tius_i masc\n\n#g;
+s#^([A-Z][a-z]+)(us)$#:le:$1$2\n:no:$1\tus_i masc\n\n#g;
+s#^([A-Z][a-z]+)(ium)$#:le:$1$2\n:no:$1\tius_i neut\n\n#g;
+s#^([A-Z][a-z]+)(um)$#:le:$1$2\n:no:$1\tus_i neut\n\n#g;
+s#^([A-Z][a-z]+)(a)$#:le:$1$2\n:no:$1\ta_ae fem\n\n#g;
+s#^([A-Z][a-z]+)(o)$#:le:$1$2\n:no:$1\to_oLnis masc\n\n#g;
+s#^([A-Z][a-z]+)(ix)$#:le:$1$2\n:no:$1\tix_igis masc\n\n#g;
+s#^([A-Z][a-z]+)(is)$#:le:$1$2\n:no:$1\tis_e \n\n#g;

@@ -1,0 +1,14 @@
+#file shared by alius, ille and ipse
+a	fem nom sg
+#leave out neuter
+ius	masc fem neut gen sg
+i_	masc fem neut dat sg
+um	masc acc sg
+am	masc acc sg
+#leave out neuter
+@decl1	fem pl
+@decl2  masc neut pl
+@decl1	fem dat sg
+@decl1	fem abl sg
+@decl2	masc neut dat sg
+@decl2	masc neut abl sg

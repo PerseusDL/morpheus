@@ -1,0 +1,70 @@
+io_	pres ind act 1st sg
+is	pres ind act 2nd sg
+it	pres ind act 3rd sg
+imus	pres ind act 1st pl
+itis	pres ind act 2nd pl
+iunt	pres ind act 3rd pl
+#
+ie_@imperf imperf ind act
+#
+i@future2 fut ind act
+#
+iam	pres subj act 1st sg
+ia_s	pres subj act 2nd sg
+ia_t	pres subj act 3rd sg
+ia_mus	pres subj act 1st pl
+ia_tis	pres subj act 2nd pl
+iant	pres subj act 3rd pl
+#
+e@imperf	imperf subj act 
+#
+ito_	fut imperat act 2nd sg
+ito_	fut imperat act 3rd sg
+ito_te	fut imperat act 2nd pl
+iunto_	fut imperat act 3rd pl
+#
+e	pres imperat act 2nd sg
+ite	pres imperat act 2nd pl
+#
+ere	pres inf act
+
+# passives
+ior	pres ind pass 1st sg
+eris	pres ind pass 2nd sg
+ere	pres ind pass 2nd sg
+itur	pres ind pass 3rd sg
+imur	pres ind pass 1st pl
+imini	pres ind pass 2nd pl
+iuntur	pres ind pass 3rd pl
+#
+e_@imperf imperf ind pass
+#
+i@future2 fut ind pass
+#
+iar	pres subj pass 1st sg
+ia_ris	pres subj pass 2nd sg
+ia_re	pres subj pass 2nd sg
+ia_tur	pres subj pass 3rd sg
+ia_mur	pres subj pass 1st pl
+ia_mini	pres subj pass 2nd pl
+iantur	pres subj pass 3rd pl
+#
+e@imperf	imperf subj pass 
+#
+ere	pres imperat pass 2nd sg
+imini	pres imperat pass 2nd pl
+#
+i_	pres inf pass
+#
+ie_ns	pres part masc/fem/neut nom/voc sg
+ie_ns	pres part neut acc sg
+ient@superl_adj 	superl
+ient@comp_adj 	comp
+iente	pres part masc/fem/neut abl sg
+ient@decl3_i pres part 
+#
+iend@decl1 gerundive fem 
+iend@decl2 gerundive masc 
+iend@decl2 gerundive neut 
+iendus	gerundive masc nom sg
+iendum	gerundive neut nom sg

@@ -1,0 +1,254 @@
+:le:aio
+a_io	irreg_pp1 1st sg pres ind act
+a^is	irreg_pp1 2nd sg pres ind act
+a^it	irreg_pp1 3rd sg pres ind act
+aiunt	irreg_pp1 3rd pl pres ind act
+a^ias	irreg_pp1 2nd sg pres subj act
+a^iat	irreg_pp1 3rd sg pres subj act
+aiant	irreg_pp1 3rd pl pres subj act
+aie@imperf	irreg_pp1 ind act imperf
+
+:le:eo
+:vs:i		perfstem
+:vs:i_v		perfstem
+:vs:it		pp4 supine
+:vs:it		pp4 fut part
+#
+:vb:eo_		irreg_pp1 1st sg pres ind act
+:vb:i_s		irreg_pp1 2nd sg pres ind act
+:vb:it		irreg_pp1 3rd sg pres ind act
+:vb:i_mus	irreg_pp1 1st pl pres ind act
+:vb:i_tis	irreg_pp1 2nd pl pres ind act
+:vb:eunt	irreg_pp1 3rd pl pres ind act
+#
+:vb:eo_r	irreg_pp1 1st sg pres ind pass comp_only
+:vb:i_ris	irreg_pp1 2nd sg pres ind pass comp_only
+:vb:i_tur	irreg_pp1 3rd sg pres ind pass comp_only
+:vb:i_mur	irreg_pp1 1st pl pres ind pass comp_only
+:vb:i_mini	irreg_pp1 2nd pl pres ind pass comp_only
+:vb:euntur	irreg_pp1 3rd pl pres ind pass comp_only
+#
+ea@basvb2	irreg_pp1 pres subj act
+i_re@basvb2	irreg_pp1 imperf subj act
+#
+ea@basvb2	irreg_pp1 pres subj pass comp_only
+i_re@basvb2	irreg_pp1 imperf subj pass comp_only
+#
+i_b@ofut	irreg_pp1 fut ind act
+i_ba@basvb2	irreg_pp1 imperf ind act
+#
+i_b@ofut	irreg_pp1 fut ind pass comp_only
+i_ba@basvb2	irreg_pp1 imperf ind pass comp_only
+#
+:vb:i_		irreg_pp1 2nd sg pres imperat act
+:vb:i_te	irreg_pp1 2nd sg pres imperat act
+#
+:vb:i_to_	irreg_pp1 2nd sg fut imperat act
+:vb:i_to_	irreg_pp1 3rd sg fut imperat act
+:vb:i_to_te	irreg_pp1 2nd pl fut imperat act
+:vb:eunto_	irreg_pp1 3rd pl fut imperat act
+#
+:vb:i_re	irreg_pp1 pres inf act
+:vb:i_ri_	irreg_pp1 pres inf pass 
+:vb:i_sse	irreg_pp2 perf inf act syncop
+ieri@basvb2	irreg_pp2 perf subj act
+i_sse@basvb2	irreg_pp2 plup subj act
+#
+:vb:iens	irreg_pp1 pres part act masc fem nom voc
+:vb:iens	irreg_pp1 pres part act neut nom voc acc
+eunt@decl3_i	irreg_pp1 pres part act 
+eunte		irreg_pp1 pres part act abl sg masc fem neut
+#
+eundus		irreg_pp1 gerundive masc nom sg
+eunda		irreg_pp1 gerundive fem nom sg
+eundum		irreg_pp1 gerundive neut nom sg
+eund@decl1	irreg_pp1 gerundive fem
+eund@decl2	irreg_pp1 gerundive masc neut
+
+:le:aufero
+:vb:aufe^ro_	irreg_pp1 1st sg pres ind act
+:vb:aufe^rs	irreg_pp1 2nd sg pres ind act
+:vb:aufe^rt	irreg_pp1 3rd sg pres ind act
+:vb:aufe^rimus	irreg_pp1 1st pl pres ind act
+:vb:aufe^rtis	irreg_pp1 2nd pl pres ind act
+:vb:aufe^runt	irreg_pp1 3rd pl pres ind act
+
+:vb:aufe^ror	irreg_pp1 1st sg pres ind pass
+:vb:aufe^rris	irreg_pp1 2nd sg pres ind pass
+:vb:aufe^rtur	irreg_pp1 3rd sg pres ind pass
+:vb:aufe^rimur	irreg_pp1 1st pl pres ind pass
+:vb:aufe^rimini_	irreg_pp1 2nd pl pres ind pass
+:vb:aufe^runtur	irreg_pp1 3rd pl pres ind pass
+:vb:aufe^r	irreg_pp1 2nd sg pres imperat act
+:vb:aufe^rte	irreg_pp1 2nd pl pres imperat act
+
+:vb:aufe^rto_	irreg_pp1 2nd sg fut imperat act
+:vb:aufe^rto_	irreg_pp1 3rd sg fut imperat act
+:vb:aufe^rto_te	irreg_pp1 2nd pl fut imperat act
+:vb:aufe^runto_	irreg_pp1 3rd pl fut imperat act
+
+:vb:aufe^rre	irreg_pp1 2nd sg pres imperat pass
+:vb:aufe^rimini_	irreg_pp1 2nd pl pres imperat pass
+
+:vb:aufe^rtor	irreg_pp1 2nd sg fut imperat pass
+:vb:aufe^rtor	irreg_pp1 3rd sg fut imperat pass
+:vb:aufe^runtor	irreg_pp1 3rd pl fut imperat pass
+
+:vs:aufer	conj3 gerundive
+:vs:aufe^r conj3 imperf ind
+auferr@emsub	irreg_pp1 imperf
+:vs:aufe^r conj3 fut
+:vs:aufe^r conj3 subj pres
+:vs:auferr conj3 subj imperf
+:vs:aufe^r conj3 part
+:vb:auferre irreg_pp1 pres inf act
+:vb:auferri_ irreg_pp1 pres inf pass
+:vs:
+:vs:abs-tul	perfstem
+:vs:ab-lat	pp4
+
+:le:fero
+:vb:fe^ro_	irreg_pp1 1st sg pres ind act
+:vb:fe^rs	irreg_pp1 2nd sg pres ind act
+:vb:fe^rt	irreg_pp1 3rd sg pres ind act
+:vb:fe^rimus	irreg_pp1 1st pl pres ind act
+:vb:fe^rtis	irreg_pp1 2nd pl pres ind act
+:vb:fe^runt	irreg_pp1 3rd pl pres ind act
+
+:vb:fe^ror	irreg_pp1 1st sg pres ind pass
+:vb:fe^rris	irreg_pp1 2nd sg pres ind pass
+:vb:fe^rtur	irreg_pp1 3rd sg pres ind pass
+:vb:fe^rimur	irreg_pp1 1st pl pres ind pass
+:vb:fe^rimini_	irreg_pp1 2nd pl pres ind pass
+:vb:fe^runtur	irreg_pp1 3rd pl pres ind pass
+
+:vb:fe^r	irreg_pp1 2nd sg pres imperat act
+:vb:fe^rte	irreg_pp1 2nd pl pres imperat act
+
+:vb:fe^rto_	irreg_pp1 2nd sg fut imperat act
+:vb:fe^rto_	irreg_pp1 3rd sg fut imperat act
+:vb:fe^rto_te	irreg_pp1 2nd pl fut imperat act
+:vb:fe^runto_	irreg_pp1 3rd pl fut imperat act
+
+:vb:fe^rre	irreg_pp1 2nd sg pres imperat pass
+:vb:fe^rimini_	irreg_pp1 2nd pl pres imperat pass
+
+:vb:fe^rtor	irreg_pp1 2nd sg fut imperat pass
+:vb:fe^rtor	irreg_pp1 3rd sg fut imperat pass
+:vb:fe^runtor	irreg_pp1 3rd pl fut imperat pass
+
+:vs:fer	conj3 gerundive
+:vs:fe^r conj3 imperf ind
+ferr@emsub	irreg_pp1 imperf
+:vs:fe^r conj3 fut
+:vs:fe^r conj3 subj pres
+:vs:ferr conj3 subj imperf
+:vs:fe^r conj3 part
+:vb:ferre irreg_pp1 pres inf act
+:vb:ferri_ irreg_pp1 pres inf pass
+:vs:tu^l perfstem
+:vs:tetu^l perfstem old has_redupl
+:vs:la^t pp4
+
+
+:le:fio
+fi_o_	irreg_pp1 1st sg pres ind act
+fi_s	irreg_pp1 2nd sg pres ind act
+fi_t	irreg_pp1 3rd sg pres ind act
+fi_mus	irreg_pp1 1st pl pres ind act
+fi_tis	irreg_pp1 2nd pl pres ind act
+fi_unt	irreg_pp1 3rd pl pres ind act
+fi_e@imperf irreg_pp1 ind act
+fi_e@imperf irreg_pp1 subj act
+fi_@future2	irreg_pp1 fut ind act
+fi_	irreg_pp1 2nd sg pres imperat act
+fi_te	irreg_pp1 2nd pl pres imperat act
+fi_to_	irreg_pp1 3rd sg pres imperat act
+fieri_	irreg_pp1 pres inf pass
+fiam	irreg_pp1 pres subj act 1st sg
+fia_s	irreg_pp1 pres subj act 2nd sg
+fia_t	irreg_pp1 pres subj act 3rd sg
+fia_mus	irreg_pp1 pres subj act 1st pl
+fia_tis	irreg_pp1 pres subj act 2nd pl
+fiant	irreg_pp1 pres subj act 3rd pl
+
+:le:sum
+#
+:vb:sum		irreg_pp1 1st sg pres ind act
+:vb:es		irreg_pp1 2nd sg pres ind act
+:vb:est		irreg_pp1 3rd sg pres ind act
+:vb:sumus	irreg_pp1 1st pl pres ind act
+:vb:estis	irreg_pp1 2nd pl pres ind act
+:vb:sunt	irreg_pp1 3rd pl pres ind act
+#
+si@basvb2	irreg_pp1 pres subj act
+era@basvb2	irreg_pp1 imperf ind act
+esse@basvb2	irreg_pp1 imperf subj act
+er@ofut		irreg_pp1 fut ind act
+:vs:fu		perfstem
+#
+:vb:es		irreg_pp1 2nd sg pres imperat act
+:vb:este	irreg_pp1 2nd pl pres imperat act
+
+#
+:vb:esto_	irreg_pp1 2nd sg fut imperat act
+:vb:esto_	irreg_pp1 3rd sg fut imperat act
+:vb:esto_te	irreg_pp1 2nd pl fut imperat act
+:vb:sunto_	irreg_pp1 3rd pl fut imperat act
+#
+:vb:esse	irreg_pp1 pres inf act
+:vb:fore	irreg_pp1 fut inf act
+:vs:fut		pp4 fut part
+e_ns    	irreg_pp1 pres part masc/fem/neut nom/voc sg comp_only
+e_ns    	irreg_pp1 pres part neut acc sg comp_only
+ente    	irreg_pp1 pres part masc/fem/neut abl sg comp_only
+
+
+:le:prosum
+#
+:vb:pro_sum		irreg_pp1 1st sg pres ind act
+:vb:pro_des		irreg_pp1 2nd sg pres ind act
+:vb:pro_dest		irreg_pp1 3rd sg pres ind act
+:vb:pro_sumus		irreg_pp1 1st pl pres ind act
+:vb:pro_destis		irreg_pp1 2nd pl pres ind act
+:vb:pro_sunt		irreg_pp1 3rd pl pres ind act
+#
+pro_si@basvb2		irreg_pp1 pres subj act
+pro_dera@basvb2		irreg_pp1 imperf ind act
+pro_desse@basvb2	irreg_pp1 imperf subj ct
+pro_der@ofut		fut ind act
+:vs:pro_fu		perfstem
+#
+:vb:pro_des		irreg_pp1 2nd sg pres imperat act
+:vb:pro_deste		irreg_pp1 2nd pl pres imperat act
+
+#
+:vb:pro_desto_		irreg_pp1 2nd sg fut imperat act
+:vb:pro_desto_		irreg_pp1 3rd sg fut imperat act
+:vb:pro_desto_te	irreg_pp1 2nd pl fut imperat act
+:vb:pro_sunto_		irreg_pp1 3rd pl fut imperat act
+#
+:vb:pro_desse		irreg_pp1 pres inf act
+:vs:pro_fut		pp4 fut part
+
+:le:possum
+#
+:vb:possum		irreg_pp1 1st sg pres ind act
+:vb:posses		irreg_pp1 2nd sg pres ind act
+:vb:potest		irreg_pp1 3rd sg pres ind act
+:vb:possumus		irreg_pp1 1st pl pres ind act
+:vb:potestis		irreg_pp1 2nd pl pres ind act
+:vb:possunt		irreg_pp1 3rd pl pres ind act
+#
+possi@basvb2		irreg_pp1 pres subj act
+potera@basvb2		irreg_pp1 imperf ind act
+posse@basvb2		irreg_pp1 imperf subj ct
+poter@ofut		irreg_pp1 fut ind act
+:vs:potu		perfstem
+#
+:vb:posse		irreg_pp1 pres inf act
+:vs:pro_fut		pp4 fut part
+pote_ns			irreg_pp1 pres part masc/fem/neut nom/voc sg
+pote_ns			irreg_pp1 pres part neut acc sg
+potent@decl3_i		irreg_pp1 pres part
+

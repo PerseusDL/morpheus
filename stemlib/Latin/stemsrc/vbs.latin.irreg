@@ -1,0 +1,115 @@
+
+:le:edo
+:vs:ed 		conj3
+:vs:e_d		perfstem
+:vs:e_s		pp4
+#
+:vb:e_s		irreg_pp1 2nd sg pres ind act archaic
+:vb:e_st	irreg_pp1 3rd sg pres ind act archaic
+:vb:e_stis	irreg_pp1 2nd pl pres ind act archaic
+#
+:vb:edim	irreg_pp1 1st sg pres subj act archaic
+:vb:edis	irreg_pp1 2nd sg pres subj act archaic
+:vb:edit	irreg_pp1 3rd sg pres subj act archaic
+:vb:edimus	irreg_pp1 1st pl pres subj act archaic
+:vb:editis	irreg_pp1 2nd pl pres subj act archaic
+:vb:edint	irreg_pp1 3rd pl pres subj act archaic
+#
+:vb:e_sse_s	irreg_pp1 2nd sg imperf subj act archaic
+:vb:e_sset	irreg_pp1 3rd sg imperf subj act archaic
+:vb:e_sse_mus	irreg_pp1 1st pl imperf subj act archaic
+:vb:e_sse_tis	irreg_pp1 2nd pl imperf subj act archaic
+:vb:e_ssent	irreg_pp1 3rd pl imperf subj act archaic
+#
+:vb:e_s		irreg_pp1 2nd sg pres imperat act archaic
+:vb:e_ste	irreg_pp1 2nd pl pres imperat act archaic
+#
+:vb:e_sto	irreg_pp1 2nd sg pres imperat act archaic
+:vb:e_sto	irreg_pp1 3rd sg pres imperat act archaic
+:vb:e_stote	irreg_pp1 2nd pl pres imperat act archaic
+#
+:vb:e_sse	irreg_pp1 pres inf act
+
+
+:le:volo
+:vb:volo_	irreg_pp1 pres ind act 1st sg
+:vb:vi_s	irreg_pp1 pres ind act 2nd sg
+:vb:vult	irreg_pp1 pres ind act 3rd sg
+:vb:volt	irreg_pp1 pres ind act 3rd sg
+:vb:volumus	irreg_pp1 pres ind act 1st pl
+:vb:vultis	irreg_pp1 pres ind act 2nd pl
+:vb:voltis	irreg_pp1 pres ind act 2nd pl
+:vb:volunt	irreg_pp1 pres ind act 3rd pl
+:vb:velle	irreg_pp1 pres inf act
+:vs:vol		conj3 imperf ind act
+:vs:vol		conj3 fut ind act
+:vs:vol		conj3 part
+:vs:volu^	perfstem
+
+:vb:velim	irreg_pp1 pres subj act 1st sg
+:vb:veli_s	irreg_pp1 pres subj act 2nd sg
+:vb:velit	irreg_pp1 pres subj act 3rd sg
+:vb:velimus	irreg_pp1 pres subj act 1st pl
+:vb:veli_tis	irreg_pp1 pres subj act 2nd pl
+:vb:velint	irreg_pp1 pres subj act 3rd pl
+
+:vb:vellem	irreg_pp1 imperf subj act 1st sg
+:vb:velle_s	irreg_pp1 imperf subj act 2nd sg
+:vb:vellet	irreg_pp1 imperf subj act 3rd sg
+:vb:velle_mus	irreg_pp1 imperf subj act 1st pl
+:vb:velle_tis	irreg_pp1 imperf subj act 2nd pl
+:vb:vellent	irreg_pp1 imperf subj act 3rd pl
+
+:le:nolo
+:vb:no_lo_	irreg_pp1 pres ind act 1st sg
+:vb:no_lumus	irreg_pp1 pres ind act 1st pl
+:vb:no_lunt	irreg_pp1 pres ind act 3rd pl
+:vb:nolle	irreg_pp1 pres inf act
+:vs:no_l		conj3 imperf ind act
+:vs:no_l		conj3 fut ind act
+:vs:no_l		conj3 part
+:vs:no_lu^	perfstem
+
+:vb:no_lim	irreg_pp1 pres subj act 1st sg
+:vb:no_li_s	irreg_pp1 pres subj act 2nd sg
+:vb:no_lit	irreg_pp1 pres subj act 3rd sg
+:vb:no_limus	irreg_pp1 pres subj act 1st pl
+:vb:no_li_tis	irreg_pp1 pres subj act 2nd pl
+:vb:no_lint	irreg_pp1 pres subj act 3rd pl
+
+:vb:no_llem	irreg_pp1 imperf subj act 1st sg
+:vb:no_lle_s	irreg_pp1 imperf subj act 2nd sg
+:vb:no_llet	irreg_pp1 imperf subj act 3rd sg
+:vb:no_lle_mus	irreg_pp1 imperf subj act 1st pl
+:vb:no_lle_tis	irreg_pp1 imperf subj act 2nd pl
+:vb:no_llent	irreg_pp1 imperf subj act 3rd pl
+
+:vb:no_li_	irreg_pp1 pres imperat act 2nd sg
+:vb:no_li_te	irreg_pp1 pres imperat act 2nd pl
+
+:le:malo
+:vb:ma_lo_	irreg_pp1 pres ind act 1st sg
+:vb:ma_vis	irreg_pp1 pres ind act 2nd sg
+:vb:ma_vult	irreg_pp1 pres ind act 3rd sg
+:vb:ma_lumus	irreg_pp1 pres ind act 1st pl
+:vb:ma_vultis	irreg_pp1 pres ind act 2nd pl
+:vb:ma_lunt	irreg_pp1 pres ind act 3rd pl
+:vb:malle	irreg_pp1 pres inf act
+:vs:ma_l		conj3 imperf ind act
+:vs:ma_l		conj3 fut ind act
+:vs:ma_l		conj3 part
+:vs:ma_lu^	perfstem
+
+:vb:ma_lim	irreg_pp1 pres subj act 1st sg
+:vb:ma_li_s	irreg_pp1 pres subj act 2nd sg
+:vb:ma_lit	irreg_pp1 pres subj act 3rd sg
+:vb:ma_limus	irreg_pp1 pres subj act 1st pl
+:vb:ma_li_tis	irreg_pp1 pres subj act 2nd pl
+:vb:ma_lint	irreg_pp1 pres subj act 3rd pl
+
+:vb:ma_llem	irreg_pp1 imperf subj act 1st sg
+:vb:ma_lle_s	irreg_pp1 imperf subj act 2nd sg
+:vb:ma_llet	irreg_pp1 imperf subj act 3rd sg
+:vb:ma_lle_mus	irreg_pp1 imperf subj act 1st pl
+:vb:ma_lle_tis	irreg_pp1 imperf subj act 2nd pl
+:vb:ma_llent	irreg_pp1 imperf subj act 3rd pl

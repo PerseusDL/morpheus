@@ -1,0 +1,7 @@
+@decl1 fem
+@decl2 masc
+@decl2 neut
+us	masc nom sg
+um	neut nom sg
+@comp_adj comp
+@superl_adj superl

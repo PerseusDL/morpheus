@@ -1,0 +1,15 @@
+cuius       	masc fem neut gen sg
+cui         	masc fem neut dat sg
+quei_	masc fem neut dat sg
+
+quae		neut nom/acc pl
+qu@decl1        fem nom pl
+qu@decl2        masc nom pl
+qu@decl1        fem gen pl
+qu@decl2        masc gen pl
+qu@decl1        fem acc pl
+qu@decl2        masc acc pl
+
+qu@decl3	masc fem neut dat pl
+qu@decl3	masc fem neut abl pl
+

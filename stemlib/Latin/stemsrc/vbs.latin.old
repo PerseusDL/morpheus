@@ -1,0 +1,3933 @@
+:le:ambulo
+:de:ambul are_vb
+
+:le:laudo
+#:vs:laud conj1
+#:vs:lauda_v perfstem
+:de:laud are_vb
+;pr
+
+:le:opto
+:vs:opt conj1
+
+:le:debeo
+:vs:deb conj2
+:vs:debu perfstem
+
+:le:moneo
+:vs:mon conj2
+:vs:monu perfstem
+
+:le:duco
+:vs:du_c conj3
+:vs:du_x perfstem
+
+:le:finio
+:vs:fin conj4
+:vs:fini_v perfstem
+
+:le:audio
+:vs:aud conj4
+:vs:audi_v perfstem
+
+:le:capio
+:vs:cap conj3_io
+:vs:ce_p perfstem
+
+
+:le:abaestuo
+:de:a^b-aestu^	are_vb
+:le:absento
+:de:absent	are_vb
+:le:absto
+:de:ab-st	are_vb
+:le:abundo
+:de:a^b-und	are_vb
+:le:accanto
+:de:ac-cant	are_vb
+:le:accelero
+:de:ac-ce^le^r	are_vb
+:le:accepto
+:de:accept	are_vb
+:le:accipitro
+:de:acci^pi^tr	are_vb
+:le:acclamo
+:de:ac-cla_m	are_vb
+:le:acclaro
+:de:ac-cla_r	are_vb
+:le:acclino
+:de:ac-cli_n	are_vb
+:le:accommodo
+:de:ac-commo^d	are_vb
+:le:accubo
+:de:ac-cu^b	are_vb
+:le:accumulo
+:de:ac-cu^mu^l	are_vb
+:le:accuro
+:de:ac-cu_r	are_vb
+:le:accusito
+:de:accu_si^t	are_vb
+:le:acedior
+:de:a^ce_di^	are_vb dep
+:le:acerbo
+:de:a^cerb	are_vb
+:le:acervo
+:de:a^cerv	are_vb
+:le:acumino
+:de:a^cu_mi^n	are_vb
+a^cu^o		<itype>ui, u_tum, 3</itype>	<pos>v. a.</pos>	<orth>a^cu_tus</orth>	<itype>a, um</itype>	<orth>a^cu_te</orth>	<orth>a^cu_tum:</orth>	<itype>cernis</itype>	<orth>a^cu_ta:</orth>	<itype>canis ululat</itype>
+:le:adaequo
+:de:a^d-aequ	are_vb
+:le:adaero
+:de:a^d-aer	are_vb
+:le:adaggero
+:de:a^d-agge^r	are_vb
+:le:adalligo
+:de:a^d-alli^g	are_vb
+:le:adambulo
+:de:a^d-ambu^l	are_vb
+:le:adamo
+:de:a^d-a^m	are_vb
+:le:adamplio
+:de:a^d-ampli^	are_vb
+:le:adapto
+:de:a^d-apt	are_vb
+:le:adaquo
+:de:a^d-a^qu	are_vb
+:le:adaquor
+:de:a^d-a^qu	are_vb dep
+:le:adaro
+:de:a^d-a^r	are_vb
+:le:adaucto
+:de:a^d-auct	are_vb
+:le:adblatero
+:de:ad-bla^te^r	are_vb
+:le:addivino
+:de:ad-di_vi_n	are_vb
+:le:addubito
+:de:ad-du^bi^t	are_vb
+:le:adequito
+:de:a^d-e^qui^t	are_vb
+:le:aderro
+:de:a^d-err	are_vb
+:le:adesco
+:de:a^d-esc	are_vb
+:le:adhamo
+:de:a^dha_m	are_vb
+:le:adhortor
+:de:a^d-hort	are_vb dep
+:le:adjudico
+:de:ad-ju_di^c	are_vb
+:le:adjugo
+:de:ad-ju^g	are_vb
+:le:adjuro
+:de:ad-ju_r	are_vb
+:le:adjuto
+:de:adju_t	are_vb
+:le:adjutor
+:de:adju_t	are_vb dep
+:le:admigro
+:de:ad-mi_^gr	are_vb
+:le:adminiculo
+:de:admi^ni^cu^l	are_vb
+:le:adminiculor
+:de:admi^ni^cu^l	are_vb dep
+:le:administro
+:de:ad-mi^nistr	are_vb
+:le:admiror
+:de:ad-mi_r	are_vb dep
+:le:admoderor
+:de:ad-mo^de^r	are_vb dep
+:le:admodulor
+:de:ad-mo^du^l	are_vb dep
+:le:admurmuro
+:de:ad-murmu^r	are_vb
+:le:admutilo
+:de:ad-mu^ti^l	are_vb
+:le:adopto
+:de:a^d-opt	are_vb
+:le:adorno
+:de:a^d-orn	are_vb
+:le:adoro
+:de:a^d-o_r	are_vb
+:le:adremigo
+:de:ad-re_mi^g	are_vb
+:le:adroro
+:de:ad-ro_r	are_vb
+:le:adulo
+:de:a^du_l	are_vb
+:le:adultero
+:de:a^dulte^r	are_vb
+:le:adumbro
+:de:a^d-umbr	are_vb
+:le:aduno
+:de:a^d-u_n	are_vb
+:le:advelo
+:de:ad-ve_l	are_vb
+:le:adveneror
+:de:ad-ve^ne^r	are_vb dep
+:le:advento
+:de:advent	are_vb
+:le:adversor
+:de:advers	are_vb dep
+:le:advigilo
+:de:ad-vi^gi^l	are_vb
+:le:advoco
+:de:ad-vo^c	are_vb
+:le:advolo
+:de:ad-vo^l	are_vb
+:le:aedifico
+:de:aedi^fi^c	are_vb
+:le:aegroto
+:de:aegro_t	are_vb
+:le:aemulor
+:de:aemu^l	are_vb dep
+:le:aequiparo
+:de:aequi^pa^r	are_vb
+:le:aequo
+:de:aequ	are_vb
+:le:aestimo
+:de:aesti^m	are_vb
+:le:aestivo
+:de:aesti_v	are_vb
+:le:aestuo
+:de:aestu^	are_vb
+:le:affiguro
+:de:af-fi^gu_r	are_vb
+:le:affirmo
+:de:af-firm	are_vb
+:le:afflicto
+:de:afflict	are_vb
+:le:afflo
+:de:af-fl	are_vb
+:le:affor
+:de:af-f	are_vb dep
+:le:aggero
+:de:agge^r	are_vb
+:le:agglomero
+:de:ag-glo^me^r	are_vb
+:le:aggravo
+:de:ag-gra^v	are_vb
+:le:aggrego
+:de:ag-gre^g	are_vb
+:le:agguberno
+:de:ag-gu^bern	are_vb
+:le:agito
+:de:a^gi^t	are_vb
+:le:alieno
+:de:a^li^e_n	are_vb
+:le:allaboro
+:de:al-la^bo_r	are_vb
+:le:allatro
+:de:al-la_^tr	are_vb
+:le:allego
+:de:al-le_g	are_vb
+:le:allevio
+:de:al-le^vi	are_vb
+:le:allevo
+:de:al-le^v	are_vb
+:le:alligo
+:de:al-li^g	are_vb
+:le:altercor
+:de:alterc	are_vb dep
+:le:alterno
+:de:altern	are_vb
+:le:alucinor
+:de:a_lu_ci^n	are_vb dep
+:le:ambulo
+:de:ambu^l	are_vb
+:le:amento
+:de:a_ment	are_vb
+:le:amo
+:de:a^m	are_vb
+:le:amplexor
+:de:amplex	are_vb dep
+:le:amplifico
+:de:ampli^fi^c	are_vb
+:le:amplio
+:de:ampli^	are_vb
+:le:ampullor
+:de:ampull	are_vb dep
+:le:amputo
+:de:am-pu^t	are_vb
+:le:ancillor
+:de:ancill	are_vb dep
+:le:angustio
+:de:angusti^	are_vb
+:le:angusto
+:de:angust	are_vb
+:le:anhelo
+:de:a^nhe_l	are_vb
+:le:animo
+:de:a^ni^m	are_vb
+:le:annodo
+:de:an-no_d	are_vb
+:le:annoto
+:de:an-no^t	are_vb
+:le:annullo
+:de:an-null	are_vb
+:le:antestor
+:de:antest	are_vb dep
+:le:anticipo
+:de:anti^-ci^p	are_vb
+:le:antiquo
+:de:anti_qu	are_vb
+:le:apologo
+:de:a^po^lo^g	are_vb
+:le:apparo
+:de:ap-pa^r	are_vb
+:le:apploro
+:de:ap-plo_r	are_vb
+:le:apporto
+:de:ap-port	are_vb
+:le:appretio
+:de:ap-pre^ti^	are_vb
+:le:approbo
+:de:ap-pro^b	are_vb
+:le:appropero
+:de:ap-pro^pe^r	are_vb
+:le:appropinquo
+:de:ap-pro^pinqu	are_vb
+:le:apto
+:de:apt	are_vb
+:le:aquor
+:de:a^qu	are_vb dep
+:le:arbitror
+:de:arbi^tr	are_vb dep
+:le:arcuo
+:de:arcu^	are_vb
+:le:argumentor
+:de:argu_ment	are_vb dep
+:le:argutor
+:de:argu_t	are_vb dep
+:le:armo
+:de:arm	are_vb
+:le:aro
+:de:a^r	are_vb
+:le:arrogo
+:de:ar-ro^g	are_vb
+:le:articulo
+:de:arti^cu^l	are_vb
+:le:arto
+:de:art	are_vb
+:le:aspecto
+:de:aspect	are_vb
+:le:aspero
+:de:aspe^r	are_vb
+:le:aspiro
+:de:a-spi_r	are_vb
+:le:asporto
+:de:as-port	are_vb
+:le:assellor
+:de:as-sell	are_vb dep
+:le:assero
+:de:as-se^r	are_vb
+:le:assevero
+:de:as-se^ve_r	are_vb
+	<pos>v. a.</pos>	<orth>adse^ve_ranter</orth>	<orth>adse^ve_ra_te_</orth>	<orth>adse^ve_ranter:</orth>	<itype>loqui valde adseveranter</itype>	<orth>adse^ve_ra_te_:</orth>	<itype>tragoedias scite atque adseverate actitavit</itype>
+:le:assigno
+:de:assign	are_vb
+:le:assimulo
+:de:as-si^mu^l	are_vb
+:le:asso
+:de:ass	are_vb
+:le:associo
+:de:as-so^ci^	are_vb
+:le:assolo
+:de:as-so^l	are_vb
+:le:astipulor
+:de:a-sti^pu^l	are_vb dep
+:le:attento
+:de:at-tent	are_vb
+:le:attenuo
+:de:at-te^nu^	are_vb
+:le:attestor
+:de:at-test	are_vb dep
+:le:attrecto
+:de:at-trect	are_vb
+:le:auctionor
+:de:aucti^o_n	are_vb dep
+:le:auctoro
+:de:aucto_r	are_vb
+:le:auctoro
+:de:aucto_r	are_vb dep
+:le:aucupor
+:de:aucu^p	are_vb dep
+:le:ausculto
+:de:auscult	are_vb
+:le:auspicor
+:de:auspi^c	are_vb dep
+:le:autumo
+:de:autu^m	are_vb
+:le:auxilior
+:de:auxi^li^	are_vb dep
+:le:aversor
+:de:a_vers	are_vb dep
+:le:avoco
+:de:a_-vo^c	are_vb
+:le:avolo
+:de:a_-vo^l	are_vb
+:le:balo
+:de:ba_l	are_vb
+:le:baptizo
+:de:bapti_z	are_vb
+:le:basio
+:de:ba_si^	are_vb
+:le:belligero
+:de:belli^ge^r	are_vb
+:le:belligero
+:de:belli^ge^r	are_vb dep
+:le:bellor
+:de:bell	are_vb dep
+:le:benignor
+:de:be^nign	are_vb dep
+:le:beo
+:de:be^	are_vb
+:le:bitumino
+:de:bi^tu_mi^n	are_vb
+:le:blatero
+:de:bla^te^r	are_vb
+:le:brevio
+:de:bre^vi^	are_vb
+:le:bucino
+:de:bu_ci^n	are_vb
+:le:cachinno
+:de:ca^chinn	are_vb
+:le:cacumino
+:de:ca^cu_mi^n	are_vb
+:le:caeco
+:de:caec	are_vb
+:le:caelo
+:de:cael	are_vb
+:le:caerimonior
+:de:caeri^mo_n	are_vb dep
+:le:calceo
+:de:calc	are_vb
+:le:calco
+:de:calc	are_vb
+:le:camino
+:de:ca^mi_n	are_vb
+:le:cancello
+:de:cancell	are_vb
+:le:candido
+:de:candi^d	are_vb
+:le:cantillo
+:de:cantill	are_vb
+:le:cantito
+:de:canti^t	are_vb
+:le:canto
+:de:cant	are_vb
+:le:capero
+:de:ca^pe^r	are_vb
+:le:capistro
+:de:ca^pistr	are_vb
+:le:captito
+:de:capti^t	are_vb
+:le:capto
+:de:capt	are_vb
+:le:carino
+:de:ca^ri_n	are_vb
+:le:carmino
+:de:carmi^n	are_vb
+:le:casso
+:de:cass	are_vb
+:le:castigo
+:de:casti_g	are_vb
+:le:castrametor
+:de:castra^-me_t	are_vb dep
+:le:castro
+:de:castr	are_vb
+:le:cateno
+:de:ca^te_n	are_vb dep
+:le:causor
+:de:caus	are_vb dep
+:le:cavillor
+:de:ca^vill	are_vb dep
+:le:cavo
+:de:ca^v	are_vb
+:le:celero
+:de:ce^le^r	are_vb
+:le:celo
+:de:ce_l	are_vb
+:le:ceno
+:de:ce_n	are_vb
+:le:centurio
+:de:centu^ri^	are_vb
+:le:cernuo
+:de:cernu^	are_vb
+:le:cero
+:de:ce_r	are_vb
+:le:certioro
+:de:certi^o_r	are_vb
+:le:certo
+:de:cert	are_vb
+:le:cesso
+:de:cess	are_vb
+:le:chalo
+:de:cha^l	are_vb
+:le:charaxo
+:de:cha^rax	are_vb
+:le:cibo
+:de:ci^b	are_vb
+:le:cicatricor
+:de:ci^ca_tri_c	are_vb dep
+:le:circino
+:de:circi^n	are_vb
+:le:circito
+:de:circi^t	are_vb
+:le:circo
+:de:circ	are_vb
+:le:circulor
+:de:circu^l	are_vb dep
+:le:circumaggero
+:de:circum-agge^r	are_vb
+:le:circumcumulo
+:de:circum-cu^mu^l	are_vb
+:le:circumgelo
+:de:circum-ge^l	are_vb
+:le:circumligo
+:de:circum-li^g	are_vb
+:le:circumlustro
+:de:circum-lustr	are_vb
+:le:circumnoto
+:de:circum-no^t	are_vb
+:le:circumputo
+:de:circum-pu^t	are_vb
+:le:circumsisto
+:de:circum-sist	are_vb
+:le:circumtermino
+:de:circum-termi^n	are_vb
+:le:circumvallo
+:de:circum-vall	are_vb
+:le:circumvectitor
+:de:circumvecti^t	are_vb dep
+:le:circumvolito
+:de:circum-vo^li^t	are_vb
+:le:circumvolo
+:de:circum-vo^l	are_vb
+:le:cito
+:de:ci^t	are_vb
+:le:clamo
+:de:cla_m	are_vb
+:le:clarico
+:de:cla_ri^c	are_vb
+:le:claro
+:de:cla_r	are_vb
+:le:clathro
+:de:cla_thr	are_vb
+claudo#1		<orth>clo_do:</orth>	<itype>clodunt ita</itype>	<orth>clu_do</orth>	<itype>si, sum, 3</itype>	<pos>v. a.</pos>	<orth>clausum</orth>	<orth>clu_sum</orth>	<itype>i</itype>	<gen>n.</gen>
+:le:clavo
+:de:cla_v	are_vb
+:le:clipeo
+:de:cli^pe^	are_vb
+:le:coacervo
+:de:co^-a^cerv	are_vb
+:le:coaduno
+:de:co^-a^du_n	are_vb
+:le:coaedifico
+:de:co^-aedi^fi^c	are_vb
+:le:coaequo
+:de:co^-aequ	are_vb
+:le:coaggero
+:de:co^-agge^r	are_vb
+:le:coagito
+:de:co^-a^gi^t	are_vb
+:le:coagmento
+:de:co^agment	are_vb
+:le:coagulo
+:de:co^a_gu^l	are_vb
+:le:coapto
+:de:co^-apt	are_vb
+:le:coarto
+:de:co^-art	are_vb
+:le:coepto
+:de:coept	are_vb
+:le:coepulor
+:de:co^-e^pu^l	are_vb dep
+:le:cogito
+:de:co_gi^t	are_vb
+:le:cognomino
+:de:cogno_mi^n	are_vb
+:le:cohonesto
+:de:co^-ho^nest	are_vb
+:le:cohorto
+:de:co^hort	are_vb
+:le:cohortor
+:de:co^-hort	are_vb dep
+:le:coinquino
+:de:co^-inqui^n	are_vb
+:le:collabello
+:de:col-la^bell	are_vb
+:le:collacrimo
+:de:col-la_^cri^m	are_vb
+:le:collaudo
+:de:col-laud	are_vb
+:le:colligo
+:de:col-li^g	are_vb
+:le:colloco
+:de:col-lo^c	are_vb
+:le:collocupleto
+:de:col-lo^cu^ple_t	are_vb
+:le:collustro
+:de:col-lustr	are_vb
+:le:coloro
+:de:co^lo_r	are_vb
+:le:combino
+:de:com-bi_n	are_vb
+:le:comissor
+:de:co_miss	are_vb dep
+:le:comito
+:de:co^mi^t	are_vb
+:le:comitor
+:de:co^mi^t	are_vb dep
+:le:commaculo
+:de:com-ma^cu^l	are_vb
+:le:commanduco
+:de:com-mandu_c	are_vb
+:le:commanduco
+:de:com-mandu_c	are_vb dep
+:le:commastico
+:de:com-masti^c	are_vb
+:le:commemoro
+:de:com-me^mo^r	are_vb
+:le:commendo
+:de:com-mend	are_vb
+:le:commento
+:de:comment	are_vb
+:le:commeo
+:de:com-me^	are_vb
+:le:commercior
+:de:commerci^	are_vb dep
+:le:commercor
+:de:com-merc	are_vb dep
+:le:commigro
+:de:com-mi_^gr	are_vb
+:le:comminor
+:de:com-mi^n	are_vb dep
+:le:commiseror
+:de:com-mi^se^r	are_vb dep
+:le:commodo
+:de:commo^d	are_vb
+:le:commundo
+:de:com-mund	are_vb
+:le:communico
+:de:commu_ni^c	are_vb
+:le:commurmuro
+:de:com-murmu^r	are_vb
+:le:commurmuro
+:de:com-murmu^r	are_vb dep
+:le:commuto
+:de:com-mu_t	are_vb
+:le:como
+:de:co^m	are_vb
+:le:compagino
+:de:compa_gi^n	are_vb
+:le:comparo
+:de:compa^r	are_vb
+:le:compello
+:de:compell	are_vb
+:le:compendio
+:de:compendi^	are_vb
+:le:compenso
+:de:com-pens	are_vb
+:le:comperendino
+:de:compe^rendi^n	are_vb
+:le:compilo
+:de:com-pi_l	are_vb
+:le:complano
+:de:com-pla_n	are_vb
+:le:complanto
+:de:com-plant	are_vb
+:le:complexo
+:de:complex	are_vb
+:le:complexor
+:de:complex	are_vb dep
+:le:comploro
+:de:com-plo_r	are_vb
+:le:comporto
+:de:com-port	are_vb
+:le:compresso
+:de:compress	are_vb
+:le:comprobo
+:de:com-pro^b	are_vb
+:le:computo
+:de:com-pu^t	are_vb
+:le:concaco
+:de:con-ca^c	are_vb
+:le:concamero
+:de:con-ca^me^r	are_vb
+:le:concavo
+:de:conca^v	are_vb
+:le:concelebro
+:de:con-ce^le_^br	are_vb
+:le:concelo
+:de:con-ce_l	are_vb
+:le:concerto
+:de:con-cert	are_vb
+:le:concertor
+:de:concert	are_vb dep
+:le:concesso
+:de:con-cess	are_vb
+:le:concilio
+:de:conci^li^	are_vb
+:le:concipilo
+:de:conci^pi^l	are_vb
+:le:concito
+:de:conci^t	are_vb
+:le:conclamo
+:de:con-cla_m	are_vb
+:le:concordo
+:de:concord	are_vb
+:le:concorporo
+:de:con-corpo^r	are_vb
+:le:concremo
+:de:con-cre^m	are_vb
+:le:concriminor
+:de:con-cri_mi^n	are_vb dep
+:le:concrispo
+:de:con-crisp	are_vb
+:le:conculco
+:de:con-culc	are_vb
+:le:concurvo
+:de:con-curv	are_vb
+:le:condecoro
+:de:con-de^co^r	are_vb
+:le:condemno
+:de:con-demn	are_vb
+:le:condono
+:de:con-do_n	are_vb
+:le:conduplico
+:de:con-du_^pli^c	are_vb
+:le:confarreo
+:de:con-farre^	are_vb
+:le:confirmo
+:de:con-firm	are_vb
+:le:confisco
+:de:confisc	are_vb
+:le:conflagro
+:de:con-fla_^gr	are_vb
+:le:conflicto
+:de:conflict	are_vb
+:le:conflo
+:de:con-fl	are_vb
+:le:conformo
+:de:con-form	are_vb
+:le:confrico
+:de:con-fri^c	are_vb
+:le:confuto
+:de:con-fu_t	are_vb
+:le:congelo
+:de:con-ge^l	are_vb
+:le:congemino
+:de:con-ge^mi^n	are_vb
+:le:congenero
+:de:con-ge^ne^r	are_vb
+:le:congesto
+:de:con-gest	are_vb
+:le:conglacio
+:de:con-gla^ci^	are_vb
+:le:conglobo
+:de:con-glo^b	are_vb
+:le:conglomero
+:de:con-glo^me^r	are_vb
+:le:conglutino
+:de:con-glu_ti^n	are_vb
+:le:congrego
+:de:con-gre^g	are_vb
+:le:conjecto
+:de:conject	are_vb
+:le:conjugo
+:de:con-ju^g	are_vb
+:le:conjuro
+:de:conju_r	are_vb
+:le:conor
+:de:co_n	are_vb dep
+:le:conquadro
+:de:con-qua_^dr	are_vb
+:le:conquasso
+:de:con-quass	are_vb
+:le:consaluto
+:de:con-sa^lu_t	are_vb
+:le:consaucio
+:de:con-sauci^	are_vb
+:le:conscelero
+:de:con-sce^le^r	are_vb
+:le:conscribillo
+:de:conscri_bill	are_vb
+:le:consecro
+:de:conse_^cr	are_vb
+:le:consector
+:de:con-sect	are_vb dep
+:le:considero
+:de:con-si_de^r	are_vb
+:le:consigno
+:de:con-sign	are_vb
+:le:consilior
+:de:consi^li^	are_vb dep
+:le:consocio
+:de:con-so^ci^	are_vb
+:le:consolo
+:de:con-so_l	are_vb
+:le:consolor
+:de:con-so_l	are_vb dep
+:le:consomnio
+:de:con-somni^	are_vb
+:le:conspicor
+:de:conspi^c	are_vb dep
+:le:conspiro
+:de:con-spi_r	are_vb
+:le:conspiro
+:de:con-spi_r	are_vb
+:le:conspolio
+:de:con-spo^li^	are_vb
+:le:consputo
+:de:con-spu_t	are_vb
+:le:consterno
+:de:constern	are_vb
+:le:constipo
+:de:con-sti_p	are_vb
+:le:constupro
+:de:con-stu_^pr	are_vb
+:le:consuavio
+:de:con-su^a_vi^	are_vb dep
+:le:consudo
+:de:con-su_d	are_vb
+:le:consulto
+:de:consult	are_vb
+:le:consulto
+:de:consult	are_vb dep
+:le:consummo
+:de:con-summ	are_vb
+:le:contabulo
+:de:con-ta^bu^l	are_vb
+:le:contamino
+:de:con-ta_mi^n	are_vb
+:le:contechnor
+:de:con-techn	are_vb dep
+:le:contempero
+:de:con-tempe^r	are_vb
+:le:contemplo
+:de:contempl	are_vb
+:le:contenebro
+:de:con-te^ne_^br	are_vb
+:le:conterno
+:de:con-tern	are_vb
+:le:contestor
+:de:con-test	are_vb dep
+:le:contigno
+:de:con-tign	are_vb
+:le:continuo
+:de:conti^nu^	are_vb
+:le:contionor
+:de:conti^o_n	are_vb dep
+:le:contrecto
+:de:con-trect	are_vb
+:le:contristo
+:de:con-trist	are_vb
+:le:contrucido
+:de:con-tru^ci_d	are_vb
+:le:contrunco
+:de:con-trunc	are_vb
+:le:conturbo
+:de:con-turb	are_vb
+:le:convador
+:de:con-va_d	are_vb dep
+:le:convallo
+:de:con-vall	are_vb
+:le:convaso
+:de:con-va_s	are_vb
+:le:convelo
+:de:con-ve_l	are_vb
+:le:convento
+:de:convent	are_vb
+:le:converbero
+:de:con-verbe^r	are_vb
+:le:converso
+:de:con-vers	are_vb
+:le:convexo
+:de:con-vex	are_vb
+:le:convibro
+:de:con-vi_^br	are_vb
+:le:convicior
+:de:convi_ci^	are_vb dep
+:le:conviolo
+:de:con-vi^o^l	are_vb
+:le:convivifico
+:de:convi_vi^fi^c	are_vb
+:le:convivor
+:de:convi_v	are_vb dep
+:le:convoco
+:de:con-vo^c	are_vb
+:le:convolo
+:de:con-vo^l	are_vb
+:le:convoluto
+:de:convo^lu_t	are_vb
+:le:corono
+:de:co^ro_n	are_vb
+:le:corporo
+:de:corpo^r	are_vb
+:le:correpto
+:de:corrept	are_vb
+:le:crassifico
+:de:crassi^fi^c	are_vb
+:le:crasso
+:de:crass	are_vb
+:le:cremo
+:de:cre^m	are_vb
+:le:creo
+:de:cre^	are_vb
+:le:cribello
+:de:cri_bell	are_vb
+:le:cribro
+:de:cri_br	are_vb
+:le:crimino
+:de:cri_mi^n	are_vb
+:le:criminor
+:de:cri_mi^n	are_vb dep
+:le:criso
+:de:cri_s	are_vb
+:le:crispo
+:de:crisp	are_vb
+:le:crotalisso
+:de:cro^ta^liss	are_vb
+:le:crucio
+:de:cru^ci^	are_vb
+:le:cruento
+:de:cru^ent	are_vb
+:le:crusto
+:de:crust	are_vb
+:le:cubito
+:de:cu^bi^t	are_vb
+:le:culpo
+:de:culp	are_vb
+:le:cultello
+:de:cultell	are_vb
+:le:cumulo
+:de:cu^mu^l	are_vb
+:le:cuncto
+:de:cunct	are_vb
+:le:cuneo
+:de:cu^ne^	are_vb
+:le:curto
+:de:curt	are_vb
+:le:curvo
+:de:curv	are_vb
+:le:cuspido
+:de:cuspi^d	are_vb
+:le:damno
+:de:damn	are_vb
+:le:dealbo
+:de:de^-alb	are_vb
+:le:deamo
+:de:de^-a^m	are_vb
+:le:deascio
+:de:de^-asci^	are_vb
+:le:deauro
+:de:de^-aur	are_vb
+:le:debacchor
+:de:de_-bacch	are_vb dep
+:le:debello
+:de:de_-bell	are_vb
+:le:debilito
+:de:de_bi^li^t	are_vb
+:le:deblatero
+:de:de_-bla^te^r	are_vb
+:le:decalvo
+:de:de_-calv	are_vb
+:le:decanto
+:de:de_-cant	are_vb
+:le:decerto
+:de:de_-cert	are_vb
+:le:decharmido
+:de:de_charmi^d	are_vb
+:le:decimo
+:de:de^ci^m	are_vb
+:le:declamito
+:de:de_cla_mi^t	are_vb
+:le:declamo
+:de:de_-cla_m	are_vb
+:le:declaro
+:de:de_-cla_r	are_vb
+:le:declino
+:de:de_-cli_n	are_vb
+:le:decollo
+:de:de_-coll	are_vb
+:le:decoloro
+:de:de_-co^lo_r	are_vb
+:le:decorio
+:de:de_-co^ri^	are_vb
+:le:decoro
+:de:de^co^r	are_vb
+:le:decortico
+:de:de_-corti^c	are_vb
+:le:decrusto
+:de:de_-crust	are_vb
+:le:decurio
+:de:de^cu^ri^	are_vb
+:le:decusso
+:de:de^cuss	are_vb
+:le:dedamno
+:de:de_-damn	are_vb
+:le:dedecoro
+:de:de_-de^co^r	are_vb
+:le:dedigno
+:de:de_-dign	are_vb
+:le:dedignor
+:de:de_-dign	are_vb dep
+:le:dedolo
+:de:de_-do^l	are_vb
+:le:dedomo
+:de:de_-do^m	are_vb
+:le:defaeco
+:de:de_-faec	are_vb
+:le:defatigo
+:de:de_-fa^ti_g	are_vb
+:le:defenero
+:de:de_-fe_ne^r	are_vb
+:le:defensito
+:de:de_fensi^t	are_vb
+:le:defenso
+:de:de_fens	are_vb
+:le:deflagro
+:de:de_fla_^gr	are_vb
+:le:defoedo
+:de:de_-foed	are_vb
+:le:deformo
+:de:de_-form	are_vb
+:le:deformo
+:de:de_-form	are_vb
+:le:defrusto
+:de:de_-frust	are_vb
+:le:degenero
+:de:de_ge^ne^r	are_vb
+:le:degulo
+:de:de_-gu^l	are_vb
+:le:degusto
+:de:de_-gust	are_vb
+:le:dehonoro
+:de:de^-ho^no_r	are_vb
+:le:deintegro
+:de:de^-inte_^gr	are_vb
+:le:dejero
+:de:de_je^r	are_vb
+:le:delacero
+:de:de_-la^ce^r	are_vb
+:le:delasso
+:de:de_-lass	are_vb
+:le:delecto
+:de:de_lect	are_vb
+:le:delego
+:de:de_-le_g	are_vb
+:le:delibero
+:de:de_-li_be^r	are_vb
+:le:delibo
+:de:de_-li_b	are_vb
+:le:deligo
+:de:de_-li^g	are_vb
+:le:delimito
+:de:de_-li_mi^t	are_vb
+:le:delineo
+:de:de_-li_ne^	are_vb
+:le:delucto
+:de:de_-luct	are_vb
+:le:deludifico
+:de:de_-lu_di^fi^c	are_vb
+:le:delumbo
+:de:de_-lumb	are_vb
+:le:demando
+:de:de_-mand	are_vb
+:le:demano
+:de:de_-ma_n	are_vb
+:le:demento
+:de:de_ment	are_vb
+:le:demigro
+:de:de_-mi_^gr	are_vb
+:le:demiror
+:de:de_-mi_r	are_vb dep
+:le:demoror
+:de:de_mo^r	are_vb dep
+:le:demuneror
+:de:de_-mu_ner	are_vb dep
+:le:demuto
+:de:de_-mu_t	are_vb
+:le:denego
+:de:de_-ne^g	are_vb
+:le:denomino
+:de:de_-no_mi^n	are_vb
+:le:denormo
+:de:de_-norm	are_vb
+:le:denoto
+:de:de_-no^t	are_vb
+:le:denso
+:de:dens	are_vb
+:le:denudo
+:de:de_-nu_d	are_vb
+:le:denuntio
+:de:de_-nunti^	are_vb
+:le:deonero
+:de:de^-o^ne^r	are_vb
+:le:deosculor
+:de:de^-oscu^l	are_vb dep
+:le:depalo
+:de:de_-pa_l	are_vb
+:le:depilo
+:de:de_-pi^l	are_vb
+:le:deplaco
+:de:de_-pla_c	are_vb
+:le:deplano
+:de:de_-pla_n	are_vb
+:le:deplanto
+:de:de_-plant	are_vb
+:le:deponto
+:de:de_pont	are_vb
+:le:depopulor
+:de:de_-po^pu^l	are_vb dep
+:le:depraedor
+:de:de_-praed	are_vb dep
+:le:depravo
+:de:de_-pra_v	are_vb
+:le:deprecor
+:de:de_-pre^c	are_vb dep
+:le:depretio
+:de:de_pre^ti^	are_vb
+:le:deproelior
+:de:de_-proeli^	are_vb dep
+:le:depropitio
+:de:de_-pro^pi^ti^	are_vb
+:le:depugno
+:de:de_-pugn	are_vb
+:le:deputo
+:de:de_-pu^t	are_vb
+:le:derivo
+:de:de_-ri_v	are_vb
+:le:derogo
+:de:de_-ro^g	are_vb
+:le:deruncino
+:de:de_-runci^n	are_vb
+:le:desacro
+:de:de_-sa_^cr	are_vb
+:le:descobino
+:de:de_-sco^bi_n	are_vb
+:le:desidero
+:de:de_-si_de^r	are_vb
+:le:desolo
+:de:de_-so_l	are_vb
+:le:despero
+:de:de_-spe_r	are_vb
+:le:despicor
+:de:de_spi^c	are_vb dep
+:le:despolio
+:de:de_-spo^li^	are_vb
+:le:despumo
+:de:de_-spu_m	are_vb
+:le:destillo
+:de:de_-still	are_vb
+:le:destino
+:de:de_-sti^n	are_vb
+:le:destrangulo
+:de:de_-strangu^l	are_vb
+:le:desudo
+:de:de_-su_d	are_vb
+:le:deterioro
+:de:de_te^ri^o_r	are_vb
+:le:determino
+:de:de_-termi^n	are_vb
+:le:detesto
+:de:de_test	are_vb
+:le:detestor
+:de:de_-test	are_vb dep
+:le:detriumpho
+:de:de_-tri^umph	are_vb
+:le:detrunco
+:de:de_-trunc	are_vb
+:le:deturbo
+:de:de_-turb	are_vb
+:le:deveneror
+:de:de_-ve^ne^r	are_vb dep
+:le:devenusto
+:de:de_-ve^nust	are_vb
+:le:deverbero
+:de:de_-verbe^r	are_vb
+:le:devio
+:de:de_-vi^	are_vb
+:le:devirgino
+:de:de_-virgi^n	are_vb
+:le:devito
+:de:de_-vi_t	are_vb
+:le:devoco
+:de:de_-vo^c	are_vb
+:le:devoro
+:de:de_-vo^r	are_vb
+:le:devoto
+:de:de_-vo_t	are_vb
+:le:dictito
+:de:dicti^t	are_vb
+:le:dicto
+:de:dict	are_vb
+:le:diffamo
+:de:dif-fa_m	are_vb
+:le:difflo
+:de:dif-fl	are_vb
+:le:diffugo
+:de:dif-fu^g	are_vb
+:le:digno
+:de:dign	are_vb
+:le:dignor
+:de:dign	are_vb dep
+:le:dijudico
+:de:di_-ju_di^c	are_vb
+:le:dilacero
+:de:di_-la^ce^r	are_vb
+:le:dilanio
+:de:di_-la^ni^	are_vb
+:le:dilato
+:de:di_la_t	are_vb
+:le:dimeto
+:de:di_-me_t	are_vb
+:le:dimeto
+:de:di_-me_t	are_vb dep
+:le:dimico
+:de:di_-mi^c	are_vb
+:le:dimidio
+:de:di_mi^di^	are_vb
+:le:dinumero
+:de:di_-nu^me^r	are_vb
+:le:discapedino
+:de:dis-ca^pe_di^n	are_vb
+:le:discepto
+:de:discept	are_vb
+:le:discobino
+:de:disco^bi_n	are_vb
+:le:discrimino
+:de:discri_mi^n	are_vb
+:le:disculcio
+:de:dis-culci^	are_vb
+:le:dispalor
+:de:dis-pa_l	are_vb dep
+:le:disparo
+:de:dis-pa^r	are_vb
+:le:dispenso
+:de:dis-pens	are_vb
+:le:displico
+:de:dis-pli^c	are_vb
+:le:dispolio
+:de:di-spo^li^	are_vb
+:le:disputo
+:de:dis-pu^t	are_vb
+:le:dissemino
+:de:dis-se_mi^n	are_vb
+:le:disseparo
+:de:dis-se_pa^r	are_vb
+:le:disserto
+:de:dissert	are_vb
+:le:dissimulo
+:de:dissi^mu^l	are_vb
+:le:dissipo
+:de:dis-si^p	are_vb
+:le:dissocio
+:de:dis-so^ci^	are_vb
+:le:distermino
+:de:dis-termi^n	are_vb
+di-stringo		<itype>nxi, ctum, 3</itype>	<pos>v. a.</pos>	<pos>P. a.</pos>	<orth>districtus</orth>	<itype>a, um</itype>	<pos>P. a.</pos>	<orth>districte</orth>	<orth>des-</orth>	<orth>districtim:</orth>	<itype>innocens</itype>
+:le:disturbo
+:de:dis-turb	are_vb
+:le:divarico
+:de:di_-va_ri^c	are_vb
+:le:diventilo
+:de:di_-venti^l	are_vb
+:le:diverbero
+:de:di_-verbe^r	are_vb
+:le:divino
+:de:di_vi_n	are_vb
+:le:divulgo
+:de:di_vulg	are_vb
+:le:dono
+:de:do_n	are_vb
+:le:dormito
+:de:dormi_t	are_vb
+:le:doto
+:de:do_t	are_vb
+:le:dubito
+:de:du^bi^t	are_vb
+:le:ducto
+:de:duct	are_vb
+:le:dulcifico
+:de:dulci^fi^c	are_vb
+:le:dulcoro
+:de:dulco_r	are_vb
+:le:duro
+:de:du_r	are_vb
+:le:ebrio
+:de:e_bri^	are_vb
+:le:ecragino
+:de:ecra_gi_n	are_vb
+:le:edecimo
+:de:e_-de^ci^m	are_vb
+:le:edento
+:de:e_-dent	are_vb
+:le:edicto
+:de:e_dict	are_vb
+:le:edisserto
+:de:e_-dissert	are_vb
+:le:edolo
+:de:e_-do^l	are_vb
+:le:edolo
+:de:e_-do^l	are_vb
+:le:educo
+:de:e_du^c	are_vb
+:le:eduro
+:de:e_-du_r	are_vb
+:le:effecundo
+:de:ef-fe_cund	are_vb
+:le:effemino
+:de:ef-fe_mi^n	are_vb
+:le:effero
+:de:ef-fe^r	are_vb
+:le:effigio
+:de:effi^gi^	are_vb
+:le:efflagito
+:de:ef-fla_gi^t	are_vb
+:le:efflo
+:de:ef-fl	are_vb
+:le:effor
+:de:ef-f	are_vb dep
+:le:effreno
+:de:ef-fre_n	are_vb
+:le:effrico
+:de:ef-fri^c	are_vb
+:le:effugo
+:de:ef-fu^g	are_vb
+:le:egelo
+:de:e_-ge^l	are_vb dep
+:le:egermino
+:de:e_-germi^n	are_vb
+:le:ejaculor
+:de:e_-ja^cu^l	are_vb dep
+:le:ejecto
+:de:e_ject	are_vb
+:le:ejulito
+:de:e_ju^li^t	are_vb
+:le:ejuro
+:de:e_-ju_r	are_vb
+:le:elaboro
+:de:e_-la^bo_r	are_vb
+:le:elaqueo
+:de:e_-la^que^	are_vb
+:le:elego
+:de:e_-le_g	are_vb
+:le:elevo
+:de:e_-le^v	are_vb
+:le:elimino
+:de:e_-li_mi^n	are_vb
+:le:elimo
+:de:e_-li_m	are_vb
+:le:elimpido
+:de:e_-limpi^d	are_vb
+:le:eliquo
+:de:e_-li^qu	are_vb
+:le:elixo
+:de:e_lix	are_vb
+:le:eloco
+:de:e_-lo^c	are_vb
+:le:elogio
+:de:e_lo^gi^	are_vb
+:le:elonginquo
+:de:e_-longinqu	are_vb
+:le:elongo
+:de:e_long	are_vb
+:le:eluctor
+:de:e_-luct	are_vb dep
+:le:elucubro
+:de:e_-lu_cubr	are_vb
+:le:elusco
+:de:e_-lusc	are_vb
+:le:elutrio
+:de:e_lu_tri^	are_vb
+:le:emacio
+:de:e_-ma^ci^	are_vb
+:le:emaculo
+:de:e_-ma^cu^l	are_vb
+:le:emancipo
+:de:e_-manci^p	are_vb
+:le:emanco
+:de:e_-manc	are_vb
+:le:emano
+:de:e_-ma_n	are_vb
+:le:emendico
+:de:e_-mendi_c	are_vb
+:le:emendo
+:de:e_-mend	are_vb
+:le:emeo
+:de:e_-me^	are_vb
+:le:emercor
+:de:e_-merc	are_vb dep
+:le:emigro
+:de:e_-mi_^gr	are_vb
+:le:emplastro
+:de:emplastr	are_vb
+:le:emptito
+:de:empti^t	are_vb
+:le:emundo
+:de:e_-mund	are_vb
+:le:emuto
+:de:e_-mu_t	are_vb
+:le:enarro
+:de:e_-narr	are_vb
+:le:enato
+:de:e_-na^t	are_vb
+:le:enavigo
+:de:e_-na_vi^g	are_vb
+:le:eno
+:de:e_-n	are_vb
+:le:enodo
+:de:e_-no_d	are_vb
+:le:enoto
+:de:e_-no^t	are_vb
+:le:enubilo
+:de:e_-nu_bi^l	are_vb
+:le:enucleo
+:de:e_-nu_cle^	are_vb
+:le:enumero
+:de:e_-nu^me^r	are_vb
+:le:enuntio
+:de:e_-nunti^	are_vb
+:le:epitomo
+:de:e^pi^to^m	are_vb
+:le:epulor
+:de:e^pu^l	are_vb dep
+:le:equito
+:de:e^qui^t	are_vb
+:le:eremigo
+:de:e_-re_mi^g	are_vb
+:le:erogo
+:de:e_-ro^g	are_vb
+:le:erro
+:de:err	are_vb
+:le:erudero
+:de:e_-ru_de^r	are_vb
+:le:esito
+:de:e_si^t	are_vb
+:le:evacuo
+:de:e_-va^cu^	are_vb
+:le:evagino
+:de:e_-va_gi_n	are_vb
+:le:evagor
+:de:e_-va^g	are_vb dep
+:le:evallo
+:de:e_-vall	are_vb
+:le:evangelizo
+:de:e_vange^li_z	are_vb
+:le:evasto
+:de:e_-vast	are_vb
+:le:eventilo
+:de:e_-venti^l	are_vb
+:le:everbero
+:de:e_-verbe^r	are_vb
+:le:evigilo
+:de:e_-vi^gi^l	are_vb
+:le:eviolo
+:de:e_vi^o^l	are_vb
+:le:eviro
+:de:e_-vi^r	are_vb
+:le:eviscero
+:de:e_-visce^r	are_vb
+:le:evito
+:de:e_-vi_t	are_vb
+:le:evoco
+:de:e_-vo^c	are_vb
+:le:evolo
+:de:e_-vo^l	are_vb
+:le:evulgo
+:de:e_-vulg	are_vb
+:le:exacerbo
+:de:ex-a^cerb	are_vb
+:le:exaedifico
+:de:ex-aedi^fi^c	are_vb
+:le:exaequo
+:de:ex-aequ	are_vb
+:le:exaestuo
+:de:ex-aestu^	are_vb
+:le:exaggero
+:de:ex-agge^r	are_vb
+:le:exagito
+:de:ex-a^gi^t	are_vb
+:le:exalapo
+:de:ex-a^la^p	are_vb
+:le:exalbo
+:de:ex-alb	are_vb
+:le:exalto
+:de:ex-alt	are_vb
+:le:examarico
+:de:ex-a^ma_ri^c	are_vb
+:le:examino
+:de:exa_mi^n	are_vb
+:le:exanclo
+:de:ex-ancl	are_vb
+:le:exanimo
+:de:ex-a^ni^m	are_vb
+:le:exarmo
+:de:ex-arm	are_vb
+:le:exaro
+:de:ex-a^r	are_vb
+:le:exaspero
+:de:ex-aspe^r	are_vb
+:le:exauctoro
+:de:ex-aucto_r	are_vb
+:le:exauguro
+:de:ex-augu^r	are_vb
+:le:exauspico
+:de:ex-auspi^c	are_vb
+:le:excaeco
+:de:ex-caec	are_vb
+:le:excalceo
+:de:ex-calce^	are_vb
+:le:excaldo
+:de:ex-cald	are_vb
+:le:excanto
+:de:ex-cant	are_vb
+:le:excarnifico
+:de:ex-carni^fi^c	are_vb
+:le:excavo
+:de:ex-ca^v	are_vb
+:le:excepto
+:de:except	are_vb
+:le:excito
+:de:exci^t	are_vb
+:le:exclamo
+:de:ex-cla_m	are_vb
+:le:excogito
+:de:ex-co_gi^t	are_vb
+:le:excommunico
+:de:ex-commu_ni^c	are_vb
+:le:excurso
+:de:excurs	are_vb
+:le:excuso
+:de:ex-cu_s	are_vb
+:le:exemplo
+:de:exempl	are_vb
+:le:exercito
+:de:exerci^t	are_vb
+:le:exfilo
+:de:exfi_l	are_vb
+:le:exhalo
+:de:ex-ha_l	are_vb
+:le:exheredo
+:de:exhe_re_d	are_vb
+:le:exhilaro
+:de:ex-hi^la^r	are_vb
+:le:exhortor
+:de:ex-hort	are_vb dep
+:le:exintero
+:de:exinte^r	are_vb
+:le:existimo
+:de:ex-isti^m	are_vb
+:le:exjuro
+:de:ex-ju_r	are_vb
+:le:exoccupo
+:de:ex-occu^p	are_vb
+:le:exoculo
+:de:ex-o^cu^l	are_vb
+:le:exonero
+:de:ex-o^ne^r	are_vb
+:le:exopto
+:de:ex-opt	are_vb
+:le:exorbito
+:de:ex-orbi^t	are_vb
+:le:exorcizo
+:de:exorci_z	are_vb
+:le:exorno
+:de:ex-orn	are_vb
+:le:exosculor
+:de:ex-oscu^l	are_vb dep
+:le:exosso
+:de:exoss	are_vb
+:le:expalmo
+:de:ex-palm	are_vb
+:le:expatro
+:de:ex-pa_^tr	are_vb
+:le:expectoro
+:de:ex-pecto^r	are_vb
+:le:expenso
+:de:expens	are_vb
+:le:expilo
+:de:ex-pi_l	are_vb
+:le:expio
+:de:ex-pi^	are_vb
+:le:expiscor
+:de:ex-pisc	are_vb dep
+:le:explano
+:de:ex-pla_n	are_vb
+:le:exploro
+:de:ex-plo_r	are_vb
+:le:exporto
+:de:ex-port	are_vb
+:le:expostulo
+:de:ex-postu^l	are_vb
+:le:exprobro
+:de:ex-pro_^br	are_vb
+:le:expulso
+:de:expuls	are_vb
+:le:expurgo
+:de:ex-purg	are_vb
+:le:exputo
+:de:ex-pu^t	are_vb
+:le:exsatio
+:de:ex-sa^ti	are_vb
+:le:exsaturo
+:de:ex-sa^tu^r	are_vb
+:le:exsequior
+:de:exse^qui^	are_vb dep
+:le:exsibilo
+:de:ex-si_bi^l	are_vb
+:le:exsicco
+:de:ex-sicc	are_vb
+:le:exsigno
+:de:ex-sign	are_vb
+:le:exsinuo
+:de:ex-si^nu^	are_vb
+:le:exspecto
+:de:ex-spect	are_vb
+:le:exspiro
+:de:ex-spi_r	are_vb
+:le:exspolio
+:de:ex-spo^li^	are_vb
+:le:exsterno
+:de:ex-stern	are_vb
+:le:exstillo
+:de:ex-still	are_vb
+:le:exstimulo
+:de:ex-sti^mu^l	are_vb
+:le:exstirpo
+:de:ex-stirp	are_vb
+:le:exsudo
+:de:ex-su_d	are_vb
+:le:exsulo
+:de:exsu^l	are_vb
+:le:exsurdo
+:de:ex-surd	are_vb
+:le:exsuscito
+:de:ex-susci^t	are_vb
+:le:extenuo
+:de:ex-te^nu^	are_vb
+:le:exterebro
+:de:ex-te^re^br	are_vb
+:le:extermino
+:de:ex-termi^n	are_vb
+:le:extraneo
+:de:extra_ne^	are_vb
+:le:extrico
+:de:ex-tri_c	are_vb
+:le:extubero
+:de:ex-tu_be^r	are_vb
+:le:exturbo
+:de:ex-turb	are_vb
+:le:exubero
+:de:ex-u_be^r	are_vb
+:le:exulcero
+:de:ex-ulce^r	are_vb
+:le:exululo
+:de:ex-u^lu^l	are_vb
+:le:exundo
+:de:ex-und	are_vb
+:le:exungulo
+:de:ex-ungu^l	are_vb
+:le:fabricor
+:de:fa_^bri^c	are_vb
+:le:factito
+:de:facti^t	are_vb
+:le:faeneror
+:de:faene^r	are_vb
+:le:famelico
+:de:fa^me_li^c	are_vb
+:le:famulor
+:de:fa^mu^l	are_vb dep
+:le:fascio
+:de:fasci^	are_vb
+:le:fastigo
+:de:fasti_g	are_vb
+:le:fatigo
+:de:fa^ti_g	are_vb
+:le:febricito
+:de:fe_^bri_ci^t	are_vb
+:le:februo
+:de:febru^	are_vb
+:le:fello
+:de:fell	are_vb
+:le:femino
+:de:fe_mi^n	are_vb
+:le:fenestro
+:de:fe^nestr	are_vb
+:le:ferior
+:de:fe_ri^	are_vb dep
+:le:fermento
+:de:ferment	are_vb
+:le:ferruumino
+:de:ferru_umi^n	are_vb
+:le:festino
+:de:festi_n	are_vb
+:le:fibulo
+:de:fi_bu^l	are_vb
+:le:fiducio
+:de:fi_du_ci^	are_vb
+:le:figulo
+:de:fi^gu^l	are_vb
+:le:figuro
+:de:fi^gu_r	are_vb
+:le:firmo
+:de:firm	are_vb
+:le:fissiculo
+:de:fissi^cu^l	are_vb
+:le:fistuco
+:de:fistu_c	are_vb
+:le:flagello
+:de:fla^gell	are_vb
+:le:flagro
+:de:fla_^gr	are_vb
+:le:flammo
+:de:flamm	are_vb
+:le:focillo
+:de:fo^cill	are_vb
+:le:focillo
+:de:fo^cill	are_vb dep
+:le:foedero
+:de:foede^r	are_vb
+:le:foedo
+:de:foed	are_vb
+:le:follico
+:de:folli^c	are_vb
+:le:formido
+:de:formi_d	are_vb
+:le:formo
+:de:form	are_vb
+:le:fornicor
+:de:forni^c	are_vb dep
+:le:foro
+:de:fo^r	are_vb
+:le:fosso
+:de:foss	are_vb
+:le:fragro
+:de:fra_gr	are_vb
+:le:frequento
+:de:fre^quent	are_vb
+:le:frio
+:de:fri^	are_vb
+:le:frumentor
+:de:fru_ment	are_vb dep
+:le:frustror
+:de:frustr	are_vb dep
+:le:frustror
+:de:frustr	are_vb
+:le:fuco
+:de:fu_c	are_vb
+:le:fugito
+:de:fu^gi^t	are_vb
+:le:fugo
+:de:fu^g	are_vb
+:le:fumigo
+:de:fu_mi^g	are_vb
+:le:fundo
+:de:fund	are_vb
+:le:funero
+:de:fu_ne^r	are_vb
+:le:funesto
+:de:fu_nest	are_vb
+:le:furio
+:de:fu^ri^	are_vb
+:le:furor
+:de:fu_r	are_vb dep
+:le:fusco
+:de:fusc	are_vb
+:le:galeo
+:de:ga^le^	are_vb
+:le:gargarizo
+:de:garga^ri_z	are_vb
+:le:gelo
+:de:ge^l	are_vb
+:le:gemino
+:de:ge^mi^n	are_vb
+:le:gemmo
+:de:gemm	are_vb
+:le:genero
+:de:ge^ne^r	are_vb
+:le:geniculo
+:de:ge^ni^cu^l	are_vb
+:le:germino
+:de:germi^n	are_vb
+:le:gesticulor
+:de:gesti^cu^l	are_vb dep
+:le:gestito
+:de:gesti^t	are_vb
+:le:gesto
+:de:gest	are_vb
+:le:glacio
+:de:gla^ci^	are_vb
+:le:globo
+:de:glo^b	are_vb
+:le:glomero
+:de:glo^me^r	are_vb
+	<pos>v. a.</pos>	<pos>adv.</pos>	<orth>glo^me^ra_te:</orth>
+:le:glorifico
+:de:glo_ri^fi^c	are_vb
+:le:glorior
+:de:glo_ri^	are_vb dep
+:le:glutino
+:de:glu_ti^n	are_vb
+:le:graecor
+:de:graec	are_vb dep
+:le:grandino
+:de:grandi^n	are_vb
+:le:grator
+:de:gra_t	are_vb dep
+:le:gratulor
+:de:gra_tu^l	are_vb dep
+:le:gravido
+:de:gra^vi^d	are_vb
+:le:gravo
+:de:gra^v	are_vb
+:le:grego
+:de:gre^g	are_vb
+:le:groco
+:de:groc	are_vb
+:le:guberno
+:de:gu^bern	are_vb
+:le:gurgito
+:de:gurgi^t	are_vb
+:le:gusto
+:de:gust	are_vb
+:le:gypso
+:de:gyps	are_vb
+:le:gyro
+:de:gy_r	are_vb
+:le:haesito
+:de:haesi^t	are_vb
+:le:halo
+:de:ha_l	are_vb
+:le:harpago
+:de:harpa^g	are_vb
+:le:hebeto
+:de:he^be^t	are_vb
+:le:herbido
+:de:herbi^d	are_vb
+:le:heredito
+:de:he_re_di^t	are_vb
+:le:hiberno
+:de:hi_bern	are_vb
+:le:hiemo
+:de:hi^e^m	are_vb
+:le:hilaro
+:de:hi^la^r	are_vb
+:le:hio
+:de:hi^	are_vb
+:le:hiulco
+:de:hi^ulc	are_vb
+:le:holero
+:de:ho^le^r	are_vb
+:le:honesto
+:de:ho^nest	are_vb
+:le:honorifico
+:de:ho^no_ri^fi^c	are_vb
+:le:honoro
+:de:ho^no_r	are_vb
+:le:horrifico
+:de:horri^fi^c	are_vb
+:le:hospitor
+:de:hospi^t	are_vb dep
+:le:humilio
+:de:hu^mi^li^	are_vb
+:le:humilito
+:de:hu^mi^li^t	are_vb
+:le:humo
+:de:hu^m	are_vb
+:le:hymnizo
+:de:hymni_z	are_vb
+:le:illacrimo
+:de:illa^cri^m	are_vb
+:le:illacrimo
+:de:illa^cri^m	are_vb dep
+:le:illaqueo
+:de:illa^que^	are_vb
+:le:illecto
+:de:illect	are_vb
+:le:illumino
+:de:illu_mi^n	are_vb
+:le:illustro
+:de:illustr	are_vb
+:le:imagino
+:de:i^ma_gi^n	are_vb
+:le:imaginor
+:de:i^ma_gi^n	are_vb dep
+:le:imbracteo
+:de:imbracte^	are_vb
+:le:imbrico
+:de:imbri^c	are_vb
+:le:immadido
+:de:imma^di^d	are_vb
+:le:immendo
+:de:immend	are_vb
+:le:immigro
+:de:immi_^gr	are_vb
+:le:immolo
+:de:immo^l	are_vb
+:le:immundo
+:de:immund	are_vb
+:le:impinguo
+:de:impingu	are_vb
+:le:impio
+:de:impi^	are_vb
+:le:implano
+:de:impla_n	are_vb
+:le:implumbo
+:de:implumb	are_vb
+:le:imporco
+:de:imporc	are_vb
+:le:importo
+:de:import	are_vb
+:le:impraegno
+:de:impraegn	are_vb
+:le:improbito
+:de:impro^bi^t	are_vb
+:le:improbo
+:de:impro^b	are_vb
+:le:impropero
+:de:impro^pe^r	are_vb
+:le:impugno
+:de:impugn	are_vb
+:le:imputo
+:de:impu^t	are_vb
+:le:inaedifico
+:de:i^n-aedi^fi^c	are_vb
+:le:inaltero
+:de:i^n-alte^r	are_vb
+:le:inalto
+:de:i^n-alt	are_vb
+:le:inamarico
+:de:i^n-a^ma_ri^c	are_vb
+:le:inarcto
+:de:i^narct	are_vb
+:le:inargento
+:de:i^n-argent	are_vb
+:le:inarmo
+:de:i^n-arm	are_vb
+:le:inaro
+:de:i^n-a^r	are_vb
+:le:inauguro
+:de:i^n-augu^r	are_vb
+:le:inauro
+:de:i^n-aur	are_vb
+:le:incanto
+:de:in-cant	are_vb
+:le:incapistro
+:de:in-ca^pistr	are_vb
+:le:incarno
+:de:incarn	are_vb
+:le:inceno
+:de:in-ce_n	are_vb
+:le:incero
+:de:in-ce_r	are_vb
+:le:incesto
+:de:incest	are_vb
+:le:incito
+:de:in-ci^t	are_vb
+:le:inclamo
+:de:in-cla_m	are_vb
+:le:inclino
+:de:in-cli_n	are_vb
+:le:incoho
+:de:incoh	are_vb
+:le:incommodo
+:de:incommo^d	are_vb
+:le:inconcilio
+:de:in-conci^li^	are_vb
+:le:incorporo
+:de:in-corpo^r	are_vb
+:le:incoxo
+:de:incox	are_vb
+:le:incrasso
+:de:in-crass	are_vb
+:le:increbro
+:de:in-cre_br	are_vb
+:le:increpito
+:de:incre^pi^t	are_vb
+:le:incrusto
+:de:in-crust	are_vb
+:le:incurso
+:de:incurs	are_vb
+:le:indigeto
+:de:indi^ge^t	are_vb
+:le:indubito
+:de:in-du^bi^t	are_vb
+:le:indulco
+:de:in-dulc	are_vb
+:le:induro
+:de:in-du_r	are_vb
+:le:inebrio
+:de:i^n-e_bri^	are_vb
+:le:inesco
+:de:i^n-esc	are_vb
+:le:infamo
+:de:in-fa_m	are_vb
+:le:infatuo
+:de:infa^tu^	are_vb
+:le:infelicito
+:de:infe_li_ci^t	are_vb
+:le:infesto
+:de:infest	are_vb
+:le:infibulo
+:de:in-fi_bu^l	are_vb
+:le:infimo
+:de:infi^m	are_vb
+:le:infirmo
+:de:infirm	are_vb
+:le:infirmo
+:de:in-firm	are_vb
+:le:inflagro
+:de:in-fla_gr	are_vb
+:le:inflammo
+:de:in-flamm	are_vb
+:le:inflo
+:de:in-fl	are_vb
+:le:informo
+:de:in-form	are_vb
+:le:infreno
+:de:in-fre_n	are_vb
+:le:infrigido
+:de:in-fri_gi^d	are_vb
+:le:infrio
+:de:in-fri^	are_vb
+:le:infumo
+:de:in-fu_m	are_vb
+:le:infusco
+:de:in-fusc	are_vb
+:le:ingemino
+:de:in-ge^mi^n	are_vb
+:le:ingenero
+:de:in-ge^ne^r	are_vb
+:le:ingeniculo
+:de:in-ge^ni^cu^l	are_vb
+:le:ingravo
+:de:in-gra^v	are_vb
+:le:ingurgito
+:de:ingurgi^t	are_vb
+:le:ingusto
+:de:in-gust	are_vb
+:le:inhabito
+:de:i^n-ha^bi^t	are_vb
+:le:inhalo
+:de:i^n-ha_l	are_vb
+:le:inhio
+:de:i^n-hi^	are_vb
+:le:inhonesto
+:de:i^nho^nest	are_vb
+:le:inhonoro
+:de:i^n-ho^no_r	are_vb
+:le:initio
+:de:i^ni^ti^	are_vb
+:le:injecto
+:de:inject	are_vb
+:le:injuro
+:de:in-ju_r	are_vb
+:le:innato
+:de:in-na^t	are_vb
+:le:inno
+:de:in-n	are_vb
+:le:innodo
+:de:in-no_d	are_vb
+:le:innoto
+:de:in-no^t	are_vb
+:le:innovo
+:de:in-no^v	are_vb
+:le:inocco
+:de:i^n-occ	are_vb
+:le:inoculo
+:de:i^n-o^cu^l	are_vb
+:le:inoro
+:de:i^n-o_r	are_vb
+:le:inquieto
+:de:in-qui^e_t	are_vb
+:le:inquino
+:de:inqui^n	are_vb
+:le:insecto
+:de:insect	are_vb
+:le:insector
+:de:insect	are_vb dep
+:le:insidio
+:de:insi^di^	are_vb
+:le:insidior
+:de:insi^di^	are_vb dep
+:le:insimulo
+:de:in-si^mu^l	are_vb
+:le:insinuo
+:de:in-si^nu^	are_vb
+:le:insolo
+:de:in-so_l	are_vb
+:le:inspecto
+:de:inspect	are_vb
+:le:inspico
+:de:in-spi_c	are_vb
+:le:inspiro
+:de:in-spi_r	are_vb
+:le:inspurco
+:de:in-spurc	are_vb
+:le:insputo
+:de:in-spu_t	are_vb
+:le:instauro
+:de:in-staur	are_vb
+:le:instigo
+:de:insti_g	are_vb
+:le:instillo
+:de:instill	are_vb
+:le:instimulo
+:de:in-sti^mu^l	are_vb
+:le:insuco
+:de:insu_c	are_vb
+:le:insudo
+:de:in-su_d	are_vb
+:le:insufflo
+:de:in-suffl	are_vb
+:le:insulto
+:de:insult	are_vb
+:le:insupero
+:de:in-su^pe^r	are_vb
+:le:insusurro
+:de:in-su^surr	are_vb
+:le:intardo
+:de:in-tard	are_vb
+:le:integro
+:de:inte_^gr	are_vb
+:le:intento
+:de:intent	are_vb
+:le:intercalo
+:de:inter-ca^l	are_vb
+:le:intercurso
+:de:inter-curs	are_vb
+:le:intermeo
+:de:inter-me^	are_vb
+:le:interminor
+:de:inter-mi^n	are_vb dep
+:le:interneco
+:de:inter-ne^c	are_vb
+:le:interpello
+:de:inter-pell	are_vb
+:le:interpolo
+:de:interpo^l	are_vb
+:le:interpurgo
+:de:inter-purg	are_vb
+:le:interrogo
+:de:inter-ro^g	are_vb
+:le:interspiro
+:de:inter-spi_r	are_vb
+:le:intervigilo
+:de:inter-vi^gi^l	are_vb
+:le:intervolo
+:de:inter-vo^l	are_vb
+:le:intimo
+:de:inti^m	are_vb
+:le:intitulo
+:de:in-ti^tu^l	are_vb
+:le:intrepido
+:de:in-tre^pi^d	are_vb
+:le:intrico
+:de:in-tri_c	are_vb
+:le:intro
+:de:intr	are_vb
+:le:inumbro
+:de:i^n-umbr	are_vb
+:le:inunco
+:de:i^n-unc	are_vb
+:le:inundo
+:de:i^n-und	are_vb
+:le:investigo
+:de:in-vesti_g	are_vb
+:le:invetero
+:de:in-ve^te^r	are_vb
+:le:invigilo
+:de:in-vi^gi^l	are_vb
+:le:invio
+:de:in-vi^	are_vb
+:le:inviscero
+:de:in-visce^r	are_vb
+:le:invoco
+:de:in-vo^c	are_vb
+:le:involito
+:de:invo^li^t	are_vb
+:le:involo
+:de:in-vo^l	are_vb
+:le:invulgo
+:de:in-vulg	are_vb
+:le:irrigo
+:de:irri^g	are_vb
+:le:irroro
+:de:irro_r	are_vb
+:le:irrufo
+:de:irru_f	are_vb
+:le:irrumo
+:de:irru^m	are_vb
+:le:irrutilo
+:de:irru^ti^l	are_vb
+:le:itero
+:de:i^te^r	are_vb
+:le:itineror
+:de:i^ti^ne^r	are_vb dep
+:le:ito
+:de:i^t	are_vb
+:le:jacto
+:de:jact	are_vb
+:le:jento
+:de:jent	are_vb
+:le:jocor
+:de:jo^c	are_vb dep
+:le:jubilo
+:de:ju_bi^l	are_vb
+:le:jugo
+:de:ju^g	are_vb
+:le:jugulo
+:de:ju^gu^l	are_vb
+:le:jurgo
+:de:jurg	are_vb
+:le:juro
+:de:ju_r	are_vb
+:le:juro
+:de:ju_r	are_vb dep
+:le:labefacto
+:de:la^be^fact	are_vb
+:le:labo
+:de:la^b	are_vb
+:le:laboro
+:de:la^bo_r	are_vb
+:le:lacero
+:de:la^ce^r	are_vb
+:le:lacrimo
+:de:la_^cri^m	are_vb
+:le:lacrimo
+:de:la_^cri^m	are_vb dep
+:le:lacto
+:de:lact	are_vb
+:le:lacto
+:de:lact	are_vb
+:le:lacuno
+:de:la^cu_n	are_vb
+:le:laetifico
+:de:laeti^fi^c	are_vb
+:le:laeto
+:de:laet	are_vb
+:le:laetor
+:de:laet	are_vb dep
+:le:lallo
+:de:lall	are_vb
+:le:lamento
+:de:la_ment	are_vb
+:le:lamentor
+:de:la_ment	are_vb dep
+:le:lampo
+:de:lamp	are_vb
+:le:lancino
+:de:lanci^n	are_vb
+:le:lanio
+:de:la^ni^	are_vb
+:le:lanugino
+:de:la_nu_gi^n	are_vb
+:le:lapido
+:de:la^pi^d	are_vb
+:le:laqueo
+:de:la^que^	are_vb
+:le:laqueo
+:de:la^que^	are_vb
+:le:lasso
+:de:lass	are_vb
+:le:latito
+:de:la^ti^t	are_vb
+:le:latro
+:de:la_tr	are_vb
+:le:latrocinor
+:de:la_^tro_ci^n	are_vb dep
+:le:laudo
+:de:laud	are_vb
+:le:laxo
+:de:lax	are_vb
+:le:lectito
+:de:lecti^t	are_vb
+:le:lecto
+:de:lect	are_vb
+:le:lego
+:de:le_g	are_vb
+:le:leno
+:de:le_n	are_vb
+:le:lenocinor
+:de:le_no_ci^n	are_vb dep
+:le:lento
+:de:lent	are_vb
+:le:leto
+:de:le_t	are_vb
+:le:levigo
+:de:le_vi^g	are_vb
+:le:levigo
+:de:le^vi^g	are_vb
+:le:levo
+:de:le_v	are_vb
+:le:libo
+:de:li_b	are_vb
+:le:libro
+:de:li_br	are_vb
+:le:licinio
+:de:li_ci^ni^	are_vb
+:le:licitor
+:de:li^ci^t	are_vb dep
+:le:lignor
+:de:lign	are_vb dep
+:le:ligo
+:de:li^g	are_vb
+:le:limito
+:de:li_mi^t	are_vb
+:le:limo
+:de:li_m	are_vb
+:le:lineo
+:de:li_ne^	are_vb
+:le:liquo
+:de:li^qu	are_vb
+:le:liro
+:de:li_r	are_vb
+:le:litigo
+:de:li_ti^g	are_vb
+:le:lito
+:de:li^t	are_vb
+:le:lituro
+:de:li^tu_r	are_vb
+:le:locupleto
+:de:lo^cu_^ple_t	are_vb
+:le:loquitor
+:de:lo^qui^t	are_vb dep
+:le:lorico
+:de:lo_ri_c	are_vb
+:le:lubrico
+:de:lu_bri^c	are_vb
+:le:lucror
+:de:lu_^cr	are_vb dep
+:le:lucubro
+:de:lu_cu_^br	are_vb
+:le:ludifico
+:de:lu_di^fi^c	are_vb
+:le:lumino
+:de:lu_mi^n	are_vb
+:le:luno
+:de:lu_n	are_vb
+:le:lustro
+:de:lustr	are_vb
+:le:lutito
+:de:lu_ti^t	are_vb
+:le:luto
+:de:lu^t	are_vb
+:le:luxo
+:de:lux	are_vb
+:le:luxurio
+:de:luxu^ri^	are_vb
+:le:luxurio
+:de:luxu^ri^	are_vb dep
+:le:lympho
+:de:lymph	are_vb
+:le:lyo
+:de:ly^	are_vb
+:le:macero
+:de:ma_ce^r	are_vb
+:le:machinor
+:de:ma_chi^n	are_vb dep
+:le:maculo
+:de:ma^cu^l	are_vb
+:le:madido
+:de:ma^di^d	are_vb
+:le:maestifico
+:de:maesti^fi^c	are_vb
+:le:magistero
+:de:ma^giste^r	are_vb
+:le:magnifico
+:de:magni^fi^c	are_vb
+:le:malaxo
+:de:ma^lax	are_vb
+:le:maligno
+:de:ma^lign	are_vb dep
+:le:maltho
+:de:malth	are_vb
+:le:mammo
+:de:mamm	are_vb
+:le:mancipo
+:de:manci^p	are_vb
+:le:mando
+:de:mand	are_vb
+:le:manduco
+:de:mandu_c	are_vb
+:le:mangonico
+:de:mango_nic	are_vb
+:le:manifesto
+:de:ma^ni^fest	are_vb
+:le:mano
+:de:ma_n	are_vb
+:le:manto
+:de:mant	are_vb
+:le:margino
+:de:margi^n	are_vb
+:le:marito
+:de:ma^ri_t	are_vb
+:le:marmoro
+:de:marmo^r	are_vb
+:le:materio
+:de:ma_te^ri^	are_vb
+:le:maturo
+:de:ma_tu_r	are_vb
+:le:medico
+:de:me^di^c	are_vb
+:le:medicor
+:de:me^di^c	are_vb dep
+:le:meditor
+:de:me^di^t	are_vb dep
+:le:melioro
+:de:me^li^o_r	are_vb
+:le:memoro
+:de:me^mo^r	are_vb
+:le:mendico
+:de:mendic	are_vb
+:le:meo
+:de:me^	are_vb
+:le:merito
+:de:me^ri^t	are_vb
+:le:merso
+:de:mers	are_vb
+:le:metor
+:de:me_t	are_vb dep
+:le:milito
+:de:mi_li^t	are_vb
+:le:minio
+:de:mi^ni^	are_vb
+:le:ministro
+:de:mi^nistr	are_vb
+:le:mino
+:de:mi^n	are_vb
+:le:minor
+:de:mi^n	are_vb dep
+:le:minoro
+:de:mi^no_r	are_vb
+:le:mirifico
+:de:mi_ri^fi^c	are_vb
+:le:miro
+:de:mi_r	are_vb
+:le:misero
+:de:mi^se^r	are_vb
+:le:miseror
+:de:mi^se^r	are_vb dep
+:le:missito
+:de:missi^t	are_vb
+:le:mitifico
+:de:mi_ti^fi^c	are_vb
+:le:mitigo
+:de:mi_ti^g	are_vb
+:le:modero
+:de:mo^de^r	are_vb
+:le:modifico
+:de:mo^di^fi^c	are_vb
+:le:modificor
+:de:mo^di^fi^c	are_vb dep
+:le:modulor
+:de:mo^du^l	are_vb dep
+:le:moechor
+:de:moech	are_vb dep
+:le:monstro
+:de:monstr	are_vb
+:le:morbifico
+:de:morbi^fi^c	are_vb
+:le:morigeror
+:de:mo_ri^ge^r	are_vb dep
+:le:moror
+:de:mo^r	are_vb dep
+:le:moto
+:de:mo_t	are_vb
+:le:muliero
+:de:mu^li^e^r	are_vb
+:le:multiplico
+:de:multi^pli^c	are_vb
+:le:multo
+:de:mult	are_vb
+:le:munero
+:de:mu_ne^r	are_vb
+:le:murmuro
+:de:murmu^r	are_vb
+:le:murmuro
+:de:murmu^r	are_vb dep
+:le:muro
+:de:mu_r	are_vb
+:le:musso
+:de:muss	are_vb
+:le:mussor
+:de:muss	are_vb dep
+:le:mutilo
+:de:mu^ti^l	are_vb
+:le:muto
+:de:mu_t	are_vb
+:le:mutuor
+:de:mu_tu^	are_vb dep
+:le:narro
+:de:narr	are_vb
+:le:nato
+:de:na^t	are_vb
+:le:naufrago
+:de:naufra^g	are_vb
+:le:nauseo
+:de:nause^	are_vb
+:le:navigo
+:de:na_vi^g	are_vb
+:le:navo
+:de:na_v	are_vb
+:le:neco
+:de:ne^c	are_vb
+:le:nepotor
+:de:ne^po_t	are_vb dep
+:le:nigro
+:de:ni_^gr	are_vb
+:le:nitido
+:de:ni^ti^d	are_vb
+:le:nobilito
+:de:no_bi^li^t	are_vb
+:le:nodo
+:de:no_d	are_vb
+:le:nominito
+:de:no_mi^ni^t	are_vb
+:le:nomino
+:de:no_mi^n	are_vb
+:le:normo
+:de:norm	are_vb
+:le:noscito
+:de:nosci^t	are_vb
+:le:notifico
+:de:no_ti^fi^c	are_vb
+:le:noto
+:de:no^t	are_vb
+:le:novello
+:de:no^vell	are_vb
+:le:novo
+:de:no^v	are_vb
+:le:nudo
+:de:nu_d	are_vb
+:le:nugor
+:de:nu_g	are_vb dep
+:le:numero
+:de:nu^me^r	are_vb
+:le:nundinor
+:de:nundi^n	are_vb dep
+:le:nuntio
+:de:nunti^	are_vb
+:le:nuto
+:de:nu_t	are_vb
+:le:nutrico
+:de:nu_tri_c	are_vb dep
+:le:obambulo
+:de:o^b-ambu^l	are_vb
+:le:obarmo
+:de:o^b-arm	are_vb
+:le:obaro
+:de:o^b-a^r	are_vb
+:le:obduro
+:de:ob-du_r	are_vb
+:le:obequito
+:de:o^b-e^qui^t	are_vb
+:le:oberro
+:de:o^b-err	are_vb
+:le:objecto
+:de:object	are_vb
+:le:oblecto
+:de:ob-lect	are_vb
+:le:obligo
+:de:ob-li^g	are_vb
+:le:oblimo
+:de:obli_m	are_vb
+:le:obliquo
+:de:obli_qu	are_vb
+:le:oblittero
+:de:oblitte^r	are_vb
+:le:obluctor
+:de:ob-luct	are_vb dep
+:le:obmurmuro
+:de:ob-murmu^r	are_vb
+:le:obnubilo
+:de:ob-nu_bi^l	are_vb
+:le:obnuntio
+:de:ob-nunti	are_vb
+:le:obrepto
+:de:obrept	are_vb
+:le:obrogo
+:de:ob-ro^g	are_vb
+:le:obscaevo
+:de:obscaev	are_vb
+:le:obscuro
+:de:obscu_r	are_vb
+:le:obsecundo
+:de:ob-se^cund	are_vb
+:le:obsero
+:de:obse^r	are_vb
+:le:obsigno
+:de:ob-sign	are_vb
+:le:obsoleto
+:de:obso^le_t	are_vb
+:le:obsolido
+:de:obso^li^d	are_vb
+:le:obsonito
+:de:obso_ni^t	are_vb
+:le:obsono
+:de:obso_n	are_vb
+:le:obsono
+:de:obso_n	are_vb dep
+:le:obstino
+:de:obsti^n	are_vb
+:le:obstrigillo
+:de:obstri^gill	are_vb
+:le:obtempero
+:de:ob-tempe^r	are_vb
+:le:obtestor
+:de:ob-test	are_vb dep
+:le:obtrecto
+:de:ob-trect	are_vb
+:le:obtrunco
+:de:ob-trunc	are_vb
+:le:obturbo
+:de:ob-turb	are_vb
+:le:obumbro
+:de:o^b-umbr	are_vb
+:le:obvallo
+:de:ob-vall	are_vb
+:le:obversor
+:de:ob-vers	are_vb dep
+:le:obvigilo
+:de:ob-vi^gi^l	are_vb
+:le:obvio
+:de:ob-vi^	are_vb
+:le:occaeco
+:de:occaec	are_vb
+:le:occanto
+:de:occant	are_vb
+:le:occelo
+:de:occe_l	are_vb
+:le:occento
+:de:occent	are_vb
+:le:occo
+:de:occ	are_vb
+:le:occubo
+:de:occu^b	are_vb
+:le:occulco
+:de:occulc	are_vb
+:le:occurso
+:de:occurs	are_vb
+:le:odoro
+:de:o^do_r	are_vb
+:le:odoror
+:de:o^do_r	are_vb dep
+:le:offenso
+:de:offens	are_vb
+:le:offirmo
+:de:offirm	are_vb
+:le:olfacto
+:de:olfact	are_vb
+:le:ominor
+:de:o_mi^n	are_vb dep
+:le:onero
+:de:o^ne^r	are_vb
+:le:onusto
+:de:o^nust	are_vb
+:le:opaco
+:de:o^pa_c	are_vb
+:le:operculo
+:de:o^percu^l	are_vb
+:le:opero
+:de:o^pe^r	are_vb
+:le:opimo
+:de:o^pi_m	are_vb
+:le:opinor
+:de:o^pi_n	are_vb dep
+:le:oppignero
+:de:oppigne^r	are_vb
+:le:oppilo
+:de:oppi_l	are_vb
+:le:opprobro
+:de:oppro_^br	are_vb
+:le:oppugno
+:de:oppugn	are_vb
+:le:orbo
+:de:orb	are_vb
+:le:ordino
+:de:ordi^n	are_vb
+:le:ostento
+:de:ostent	are_vb
+:le:otior
+:de:o_ti^	are_vb dep
+:le:pabulor
+:de:pa_bu^l	are_vb dep
+:le:pacifico
+:de:pa_ci^fi^c	are_vb
+:le:palmo
+:de:palm	are_vb
+:le:palo
+:de:pa_l	are_vb
+:le:palo
+:de:pa_l	are_vb
+:le:palpebro
+:de:palpe_^br	are_vb
+:le:palpito
+:de:palpi^t	are_vb
+:le:palpo
+:de:palp	are_vb
+:le:pampino
+:de:pampi^n	are_vb
+:le:pando
+:de:pand	are_vb
+:le:paregorizo
+:de:pa^re_go^riz	are_vb
+:le:parento
+:de:pa^rent	are_vb
+:le:pario
+:de:pa^ri^	are_vb
+:le:paro
+:de:pa^r	are_vb
+:le:participo
+:de:parti^ci^p	are_vb
+:le:pastino
+:de:pasti^n	are_vb
+:le:patro
+:de:pa_^tr	are_vb
+:le:patrocinor
+:de:pa_^tro_ci^n	are_vb dep
+:le:paupero
+:de:paupe^r	are_vb
+:le:pauso
+:de:paus	are_vb
+:le:pavimento
+:de:pa^vi^ment	are_vb
+:le:pecco
+:de:pecc	are_vb
+:le:pectino
+:de:pecti^n	are_vb
+:le:peculio
+:de:pe^cu_li^	are_vb
+:le:pedo
+:de:pe^d	are_vb
+:le:pejero
+:de:pe_je^r	are_vb
+:le:penetro
+:de:pe^ne_^tr	are_vb
+:le:pensito
+:de:pensi^t	are_vb
+:le:penso
+:de:pens	are_vb
+:le:peraequo
+:de:pe^r-aequ	are_vb
+:le:peragito
+:de:pe^r-a^gi^t	are_vb
+:le:perambulo
+:de:pe^r-ambu^l	are_vb
+:le:peranno
+:de:pe^rann	are_vb
+:le:perarmo
+:de:pe^r-arm	are_vb
+:le:peraro
+:de:pe^r-a^r	are_vb
+:le:perbacchor
+:de:per-bacch	are_vb dep
+:le:percelebro
+:de:per-ce^le^br	are_vb
+:le:percito
+:de:per-ci^t	are_vb
+:le:percolo
+:de:per-co_l	are_vb
+:le:perconto
+:de:percont	are_vb
+:le:percribro
+:de:per-cri_br	are_vb
+:le:percuro
+:de:per-cu_r	are_vb
+:le:perdolo
+:de:per-do^l	are_vb
+:le:perducto
+:de:perduct	are_vb
+:le:perduro
+:de:per-du_r	are_vb
+:le:perefflo
+:de:per-effl	are_vb
+:le:peregrinor
+:de:pe^re^gri_n	are_vb dep
+:le:perelixo
+:de:pe^r-e_lix	are_vb
+:le:perenno
+:de:pe^renn	are_vb
+:le:perequito
+:de:pe^r-e^qui^t	are_vb
+:le:pererro
+:de:pe^r-err	are_vb
+:le:perfabrico
+:de:per-fabri^c	are_vb
+:le:perflo
+:de:per-fl	are_vb
+:le:performido
+:de:per-formi_d	are_vb
+:le:perfreto
+:de:perfre^t	are_vb
+:le:perfrigero
+:de:per-fri_ge^r	are_vb
+:le:perlibro
+:de:per-li_br	are_vb
+:le:perlito
+:de:per-li^t	are_vb
+:le:perlustro
+:de:per-lustr	are_vb
+:le:permano
+:de:per-ma_n	are_vb
+:le:permeo
+:de:per-me^	are_vb
+:le:permilito
+:de:per-mi_li^t	are_vb
+:le:permuto
+:de:per-mu_t	are_vb
+:le:perneco
+:de:per-ne^c	are_vb
+:le:pernego
+:de:per-ne^g	are_vb
+:le:pernocto
+:de:per-noct	are_vb
+:le:pernubilo
+:de:per-nu_bi^l	are_vb
+:le:pernumero
+:de:per-nu^me^r	are_vb
+:le:perorno
+:de:pe^r-orn	are_vb
+:le:peroro
+:de:pe^r-o_r	are_vb
+:le:perpaco
+:de:per-pa_c	are_vb
+:le:perpetro
+:de:per-pe^tr	are_vb
+:le:perpetuo
+:de:perpe^tu^	are_vb
+:le:perpopulor
+:de:per-po^pu^l	are_vb dep
+:le:perpoto
+:de:per-po_t	are_vb
+:le:perpurgo
+:de:per-purg	are_vb
+:le:perrepto
+:de:perrept	are_vb
+:le:perrogo
+:de:per-ro^g	are_vb
+:le:persaluto
+:de:per-sa^lu_t	are_vb
+:le:persano
+:de:per-sa_n	are_vb
+:le:perscrutor
+:de:per-scru_t	are_vb dep
+:le:perservo
+:de:per-serv	are_vb
+:le:persevero
+:de:perse^ve_r	are_vb
+:le:perspecto
+:de:perspect	are_vb
+:le:perspeculor
+:de:per-spe^cu^l	are_vb dep
+:le:perstipo
+:de:per-sti_p	are_vb
+:le:persulco
+:de:per-sulc	are_vb
+:le:persulto
+:de:per-sult	are_vb
+:le:pertento
+:de:per-tent	are_vb
+:le:perterebro
+:de:per-te^re^br	are_vb
+:le:pertolero
+:de:per-to^le^r	are_vb
+:le:pertracto
+:de:per-tract	are_vb
+:le:perturbo
+:de:per-turb	are_vb
+:le:pervagor
+:de:per-va^g	are_vb dep
+:le:pervaporo
+:de:per-va^po_r	are_vb
+:le:pervasto
+:de:per-vast	are_vb
+:le:pervestigo
+:de:per-vesti_g	are_vb
+:le:pervigilo
+:de:pervi^gi^l	are_vb
+:le:pervolo
+:de:per-vo^l	are_vb
+:le:pervulgo
+:de:pervulg	are_vb
+:le:philosophor
+:de:phi^lo^so^ph	are_vb dep
+:le:phlebotomo
+:de:phle^bo^to^m	are_vb
+:le:pico
+:de:pi^c	are_vb
+:le:pignero
+:de:pigne^r	are_vb
+:le:pigneror
+:de:pigne^r	are_vb dep
+:le:pigritor
+:de:pi_^gri^t	are_vb dep
+:le:pigro
+:de:pi_^gr	are_vb
+:le:pigror
+:de:pi_^gr	are_vb dep
+:le:pilleo
+:de:pille^	are_vb
+:le:pilo
+:de:pi_l	are_vb
+:le:pilo
+:de:pi^l	are_vb
+:le:pio
+:de:pi^	are_vb
+:le:piscor
+:de:pisc	are_vb dep
+:le:pisto
+:de:pist	are_vb
+:le:placo
+:de:pla_c	are_vb
+:le:plagio
+:de:pla^gi^	are_vb
+:le:plasmo
+:de:plasm	are_vb
+:le:plasso
+:de:plass	are_vb
+:le:ploro
+:de:plo_r	are_vb
+:le:plumbo
+:de:plumb	are_vb
+:le:plumo
+:de:plu_m	are_vb
+:le:pollicitor
+:de:polli^ci^t	are_vb dep
+:le:pompo
+:de:pomp	are_vb
+:le:pondero
+:de:ponde^r	are_vb
+:le:postero
+:de:poste^r	are_vb
+:le:posticipo
+:de:posti^ci^p	are_vb
+:le:postputo
+:de:post-pu^t	are_vb
+:le:postulo
+:de:postu^l	are_vb
+:le:potiono
+:de:po_ti^o_n	are_vb
+:le:praecaeco
+:de:prae-caec	are_vb
+:le:praecanto
+:de:prae-cant	are_vb
+:le:praecipito
+:de:praeci^pi^t	are_vb
+:le:praeclamo
+:de:prae-cla_m	are_vb
+:le:praecogito
+:de:prae-co_gi^t	are_vb
+:le:praedamno
+:de:prae-damn	are_vb
+:le:praedemonstro
+:de:prae-de_monstr	are_vb
+:le:praedestino
+:de:prae-desti^n	are_vb
+:le:praedetermino
+:de:prae-de_termi^n	are_vb
+:le:praedico
+:de:prae-di^c	are_vb
+:le:praeduro
+:de:prae-du_r	are_vb
+:le:praefestino
+:de:prae-festi_n	are_vb
+:le:praefiguro
+:de:prae-fi^gu_r	are_vb
+:le:praefloro
+:de:prae-flo_r	are_vb
+:le:praefoco
+:de:prae-fo_c	are_vb
+:le:praeformido
+:de:prae-formi_d	are_vb
+:le:praeformo
+:de:prae-form	are_vb
+:le:praegno
+:de:praegn	are_vb
+:le:praegravo
+:de:prae-gra^v	are_vb
+:le:praegusto
+:de:prae-gust	are_vb
+:le:praejudico
+:de:prae-ju_di^c	are_vb
+:le:praelego
+:de:prae-le_g	are_vb
+:le:praeligo
+:de:prae-li^g	are_vb
+:le:praeloco
+:de:prae-lo^c	are_vb
+:le:praelongo
+:de:praelong	are_vb
+:le:praemando
+:de:prae-mand	are_vb
+:le:praemeditor
+:de:prae-me^di^t	are_vb dep
+:le:praemercor
+:de:prae-merc	are_vb dep
+:le:praemetor
+:de:prae-me_t	are_vb dep
+:le:praemonstro
+:de:prae-monstr	are_vb
+:le:praenarro
+:de:prae-narr	are_vb
+:le:praenavigo
+:de:prae-na_vi^g	are_vb
+:le:praenomino
+:de:praeno_mi^n	are_vb
+:le:praenoto
+:de:prae-no^t	are_vb
+:le:praenuntio
+:de:prae-nunti^	are_vb
+:le:praeoccupo
+:de:prae-occu^p	are_vb
+:le:praeopto
+:de:prae-opt	are_vb
+:le:praeordino
+:de:prae-ordi^n	are_vb
+:le:praeparo
+:de:prae-pa^r	are_vb
+:le:praepilo
+:de:praepi^l	are_vb
+:le:praepostero
+:de:praeposte^r	are_vb
+:le:praerogo
+:de:prae-ro^g	are_vb
+:le:praesago
+:de:praesa_g	are_vb
+:le:praesano
+:de:prae-sa_n	are_vb
+:le:praesemino
+:de:prae-se_mi^n	are_vb
+:le:praesento
+:de:praesent	are_vb
+:le:praesicco
+:de:prae-sicc	are_vb
+:le:praespeculor
+:de:prae-spe^cu^l	are_vb dep
+:le:praespero
+:de:prae-spe_r	are_vb
+:le:praestino
+:de:praesti^n	are_vb
+:le:praesulor
+:de:praesu^l	are_vb dep
+:le:praetento
+:de:prae-tent	are_vb
+:le:praevaporo
+:de:prae-va^po_r	are_vb
+:le:praevaricor
+:de:prae-va_ri^c	are_vb dep
+:le:praevitio
+:de:prae-vi^ti^	are_vb
+:le:praevolo
+:de:prae-vo^l	are_vb
+:le:pransito
+:de:pransi^t	are_vb
+:le:prehenso
+:de:pre^hens	are_vb
+:le:privo
+:de:pri_v	are_vb
+:le:proclamo
+:de:pro-cla_m	are_vb
+:le:proclino
+:de:pro_-cli_n	are_vb
+:le:procrastino
+:de:pro_crasti^n	are_vb
+:le:procreo
+:de:pro_-cre^	are_vb
+:le:procubo
+:de:pro_-cu^b	are_vb
+:le:proculco
+:de:pro_-culc	are_vb
+:le:procuro
+:de:pro_-cu_r	are_vb
+:le:procurvo
+:de:pro_-curv	are_vb
+:le:proelio
+:de:proeli^	are_vb
+:le:profano
+:de:pro_fa_n	are_vb
+:le:profligo
+:de:pro_-fli_g	are_vb
+:le:proflo
+:de:pro_-fl	are_vb
+:le:prolato
+:de:pro_la_t	are_vb
+:le:prolecto
+:de:pro_lect	are_vb
+:le:prolongo
+:de:prolong	are_vb
+:le:promulgo
+:de:pro_mulg	are_vb
+:le:prono
+:de:pro_n	are_vb
+:le:pronuntio
+:de:pro_-nunti^	are_vb
+:le:propagino
+:de:pro_^pa_gi^n	are_vb
+:le:propalo
+:de:pro_pa^l	are_vb
+:le:propero
+:de:pro^pe^r	are_vb
+:le:propino
+:de:pro^pi_n	are_vb
+:le:propinquo
+:de:pro^pinqu	are_vb
+:le:propio
+:de:pro^pi^	are_vb
+:le:propugno
+:de:pro_-pugn	are_vb
+:le:propulso
+:de:pro_puls	are_vb
+:le:proquirito
+:de:pro_-qui^ri_t	are_vb
+:le:prorogo
+:de:pro_-ro^g	are_vb
+:le:prosecro
+:de:pro_-se^cr	are_vb
+:le:prosemino
+:de:pro_-se_mi^n	are_vb
+:le:prospecto
+:de:prospect	are_vb
+:le:prospero
+:de:prospe^r	are_vb
+:le:prospiro
+:de:pro_-spi_r	are_vb
+:le:protelo
+:de:pro_-te_l	are_vb
+:le:protestor
+:de:pro_-test	are_vb dep
+:le:proturbo
+:de:pro_-turb	are_vb
+:le:provoco
+:de:pro_-vo^c	are_vb
+:le:provolo
+:de:pro_-vo^l	are_vb
+:le:provulgo
+:de:pro-vulg	are_vb
+:le:publico
+:de:pu_bli^c	are_vb
+:le:pugno
+:de:pugn	are_vb
+:le:pullulo
+:de:pullu^l	are_vb
+:le:pulso
+:de:puls	are_vb
+:le:pumico
+:de:pu_mi^c	are_vb
+:le:purgo
+:de:purg	are_vb
+:le:purifico
+:de:pu_ri^fi^c	are_vb
+:le:purpuro
+:de:purpu^r	are_vb
+:le:pustulo
+:de:pustu^l	are_vb
+:le:puto
+:de:pu^t	are_vb
+:le:quadro
+:de:qua_^dr	are_vb
+:le:quadruplico
+:de:qua_^dru^pli^c	are_vb
+:le:quadruplo
+:de:qua_^dru^pl	are_vb
+:le:quaerito
+:de:quaeri^t	are_vb
+:le:quaestiono
+:de:quaesti^o_n	are_vb
+:le:quasso
+:de:quass	are_vb
+:le:queror
+:de:que^r	are_vb dep
+:le:radico
+:de:ra_di_c	are_vb
+:le:radico
+:de:ra_di_c	are_vb dep
+:le:rapto
+:de:rapt	are_vb
+:le:rasito
+:de:ra_si^t	are_vb
+:le:rebello
+:de:re^-bell	are_vb
+:le:recepto
+:de:re^cept	are_vb
+:le:recipero
+:de:re^-ci^pe^r	are_vb
+:le:reciproco
+:de:re^ci_^pro^c	are_vb
+:le:recito
+:de:re^-ci^t	are_vb
+:le:reclamo
+:de:re_^-cla_m	are_vb
+:le:reclino
+:de:re_^-cli_n	are_vb
+:le:recordor
+:de:re^-cord	are_vb dep
+:le:recremo
+:de:re_^-cre^m	are_vb
+:le:recrepo
+:de:re^-cre^p	are_vb
+:le:recuro
+:de:re^-cu_r	are_vb
+:le:recurvo
+:de:re^-curv	are_vb
+:le:redadopto
+:de:re^d-a^dopt	are_vb
+:le:redanimo
+:de:re^d-a^ni^m	are_vb
+:le:redemptito
+:de:re^dempti^t	are_vb
+:le:redintegro
+:de:re^d-inte^gr	are_vb
+:le:redono
+:de:re^-do_n	are_vb
+:le:redulcero
+:de:re^d-ulce^r	are_vb
+:le:redundo
+:de:red-und	are_vb
+:le:reexpecto
+:de:re^-expect	are_vb
+:le:refibulo
+:de:re^-fi_bu^l	are_vb
+:le:reflo
+:de:re^-fl	are_vb
+:le:refocillo
+:de:re^-fo^cill	are_vb
+:le:reformido
+:de:re^-formi_d	are_vb
+:le:reformo
+:de:re^-form	are_vb
+:le:refragor
+:de:re_^-fra_g	are_vb dep
+:le:refreno
+:de:re_^-fre_n	are_vb
+:le:refrigero
+:de:re_^-fri_ge^r	are_vb
+:le:refuto
+:de:re^fu_t	are_vb
+:le:regelo
+:de:re^ge^l	are_vb
+:le:regenero
+:de:re^-ge^ne^r	are_vb
+:le:reglutino
+:de:re^-glu_ti^n	are_vb
+:le:regno
+:de:regn	are_vb
+:le:regrado
+:de:re^-gra^d	are_vb
+re^-gre^di^or		<itype>gressus, 3</itype>	<orth>regre^do:</orth>	<itype>gradum regredere</itype>
+:le:regusto
+:de:re^-gust	are_vb
+:le:regyro
+:de:re^-gy_r	are_vb
+:le:reitero
+:de:re^-i^te^r	are_vb
+:le:rejecto
+:de:re_ject	are_vb
+:le:relaxo
+:de:re^-lax	are_vb
+:le:relego
+:de:re^-le_g	are_vb
+:le:relevo
+:de:re^-le^v	are_vb
+:le:religo
+:de:re^-li^g	are_vb
+:le:reliquor
+:de:re^li^qu	are_vb dep
+:le:reloco
+:de:re^-lo^c	are_vb
+:le:remancipo
+:de:re^-manci^p	are_vb
+:le:remedio
+:de:re^me^di^	are_vb
+:le:remedio
+:de:re^me^di^	are_vb dep
+:le:remeo
+:de:re^-me^	are_vb
+:le:remoror
+:de:re^-mo^r	are_vb dep
+:le:remuneror
+:de:re^-mu_ne^r	are_vb dep
+:le:renascor
+:de:re^-nasc	are_vb
+:le:reno
+:de:re^-n	are_vb
+:le:renodo
+:de:re^-no_d	are_vb
+:le:renovo
+:de:re^-no^v	are_vb
+:le:renudo
+:de:re^-nu_d	are_vb
+:le:renumero
+:de:re^-nu^me^r	are_vb
+:le:renuntio
+:de:re^-nunti^	are_vb
+:le:reparo
+:de:re^-pa^r	are_vb
+:le:repastino
+:de:re^-pasti^n	are_vb
+:le:repatrio
+:de:re^-patri^	are_vb
+:le:repedo
+:de:re^-pe^d	are_vb
+:le:repenso
+:de:re^pens	are_vb
+:le:repigro
+:de:re^-pigr	are_vb
+:le:replumbo
+:de:re^-plumb	are_vb
+:le:reporto
+:de:re^-port	are_vb
+:le:repraesento
+:de:re^-praesent	are_vb
+:le:reprobo
+:de:re^-pro^b	are_vb
+:le:repto
+:de:rept	are_vb
+:le:repudio
+:de:re^pu^di^	are_vb
+:le:repugno
+:de:re^-pugn	are_vb
+:le:repulso
+:de:re^-puls	are_vb
+:le:repurgo
+:de:re^-purg	are_vb
+:le:reputo
+:de:re^-pu^t	are_vb
+:le:resaluto
+:de:re^-sa^lu_t	are_vb
+:le:resero
+:de:re^-se^r	are_vb
+:le:reservo
+:de:re^-serv	are_vb
+:le:resigno
+:de:re^-sign	are_vb
+:le:respiro
+:de:re_-spi_r	are_vb
+:le:responsito
+:de:re_sponsi^t	are_vb
+:le:restauro
+:de:re_-staur	are_vb
+:le:restillo
+:de:re_-still	are_vb
+:le:resupino
+:de:re^-su^pi_n	are_vb
+:le:retardo
+:de:re^-tard	are_vb
+:le:retento
+:de:re^tent	are_vb
+:le:retento
+:de:re^-tent	are_vb
+:le:retracto
+:de:re_^-tract	are_vb
+:le:revecto
+:de:re^-vect	are_vb
+:le:revelo
+:de:re^-ve_l	are_vb
+:le:reverbero
+:de:re^-verbe^r	are_vb
+:le:revibro
+:de:re^-vi_^br	are_vb
+:le:revindico
+:de:re^-vindi^c	are_vb
+:le:revoco
+:de:re^-vo^c	are_vb
+:le:rigo
+:de:ri^g	are_vb
+:le:rimor
+:de:ri_m	are_vb dep
+:le:rixor
+:de:rix	are_vb dep
+:le:roboro
+:de:ro_bo^r	are_vb
+:le:rogito
+:de:ro^gi^t	are_vb
+:le:roro
+:de:ro_r	are_vb
+:le:roto
+:de:ro^t	are_vb
+:le:rotundo
+:de:ro^tund	are_vb
+:le:rubrico
+:de:ru^bri_c	are_vb
+:le:ructo
+:de:ruct	are_vb
+:le:rudero
+:de:ru_de^r	are_vb
+:le:rugo
+:de:ru_g	are_vb
+:le:rusticor
+:de:rusti^c	are_vb dep
+:le:rutilo
+:de:ru^ti^l	are_vb
+:le:saburro
+:de:sa^burr	are_vb
+:le:sacco
+:de:sacc	are_vb
+:le:sacrifico
+:de:sa^_cri^fi^c	are_vb
+:le:sacrifico
+:de:sa^_cri^fi^c	are_vb dep
+:le:sacro
+:de:sa^_cr	are_vb
+:le:sagino
+:de:sa^gi_n	are_vb
+:le:sagitto
+:de:sa^gitt	are_vb
+:le:salivo
+:de:sa^li_v	are_vb
+:le:saluto
+:de:sa^lu_t	are_vb
+:le:salvo
+:de:salv	are_vb
+:le:samio
+:de:sa^mi^	are_vb
+:le:sanctifico
+:de:sancti^fi^c	are_vb
+:le:sano
+:de:sa_n	are_vb
+:le:sarculo
+:de:sarcu^l	are_vb
+:le:satio
+:de:sa^ti^	are_vb
+:le:saturo
+:de:sa^tu^r	are_vb
+:le:saucio
+:de:sauci^	are_vb
+:le:scandalizo
+:de:scanda^liz	are_vb
+:le:scarifo
+:de:sca^ri_f	are_vb
+:le:scelero
+:de:sce^le^r	are_vb
+:le:scintillo
+:de:scintill	are_vb
+:le:scirpo
+:de:scirp	are_vb
+:le:sciscitor
+:de:scisci^t	are_vb dep
+:le:scriptito
+:de:scripti^t	are_vb
+:le:sedo
+:de:se_d	are_vb
+:le:sejugo
+:de:se_-ju^g	are_vb
+:le:semigro
+:de:se_-mi^_gr	are_vb
+:le:semino
+:de:se_mi^n	are_vb
+:le:semustulo
+:de:se_mustu^l	are_vb
+:le:separo
+:de:se_-pa^r	are_vb
+:le:sequestro
+:de:se^questr	are_vb
+:le:sereno
+:de:se^re_n	are_vb
+:le:sermocino
+:de:sermo_ci^n	are_vb
+:le:sermocinor
+:de:sermo_ci^n	are_vb dep
+:le:sero
+:de:se_r	are_vb
+:le:sessito
+:de:sessi^t	are_vb
+:le:sevoco
+:de:se_-vo^c	are_vb
+:le:sicco
+:de:sicc	are_vb
+:le:sideror
+:de:si_de^r	are_vb dep
+:le:signo
+:de:sign	are_vb
+:le:simo
+:de:si_m	are_vb
+:le:simplo
+:de:simpl	are_vb
+:le:simulo
+:de:si^mu^l	are_vb
+:le:sincero
+:de:since_r	are_vb
+:le:singulto
+:de:singult	are_vb
+:le:sinuo
+:de:si^nu^	are_vb
+:le:socio
+:de:so^ci^	are_vb
+:le:solido
+:de:so^li^d	are_vb
+:le:solito
+:de:so^li^t	are_vb
+:le:sollicito
+:de:solli^ci^t	are_vb
+:le:solo
+:de:so_l	are_vb
+:le:solor
+:de:so_l	are_vb dep
+:le:somnio
+:de:somni^	are_vb
+:le:soporo
+:de:so^po_r	are_vb
+:le:spatior
+:de:spa^ti^	are_vb dep
+:le:specto
+:de:spect	are_vb
+:le:speculor
+:de:spe^cu^l	are_vb dep
+:le:spero
+:de:spe_r	are_vb
+:le:spico
+:de:spi_c	are_vb
+:le:spiculo
+:de:spi_cu^l	are_vb
+:le:spiro
+:de:spi_r	are_vb
+:le:spisso
+:de:spiss	are_vb
+:le:spolio
+:de:spo^li^	are_vb
+:le:sportulo
+:de:sportu^l	are_vb
+:le:spumo
+:de:spu_m	are_vb
+:le:spurco
+:de:spurc	are_vb
+:le:stabulor
+:de:sta^bu^l	are_vb dep
+:le:stagno
+:de:stagn	are_vb
+:le:stagno
+:de:stagn	are_vb
+:le:stello
+:de:stell	are_vb
+:le:stercoro
+:de:sterco^r	are_vb
+:le:sternuto
+:de:sternu_t	are_vb
+:le:stigmo
+:de:stigm	are_vb
+:le:stillo
+:de:still	are_vb
+:le:stilo
+:de:sti^l	are_vb
+:le:stimulo
+:de:sti^mu^l	are_vb
+:le:stipendior
+:de:sti_pendi^	are_vb dep
+:le:stipo
+:de:sti_p	are_vb
+:le:stipulo
+:de:sti^pu^l	are_vb
+:le:stomachor
+:de:sto^ma^ch	are_vb dep
+:le:strangulo
+:de:strangu^l	are_vb
+:le:strio
+:de:stri^	are_vb
+:le:stupro
+:de:stu_^pr	are_vb
+:le:subaemulor
+:de:su^b-aemu^l	are_vb dep
+:le:subaro
+:de:su^b-a^r	are_vb
+:le:subasso
+:de:su^b-ass	are_vb
+:le:subausculto
+:de:su^b-auscult	are_vb
+:le:subenarro
+:de:su^b-e_narr	are_vb
+:le:subexcuso
+:de:su^b-excu_s	are_vb
+:le:subhasto
+:de:su^b-hast	are_vb
+:le:subindico
+:de:su^b-indi^c	are_vb
+:le:subinflo
+:de:su^b-infl	are_vb
+:le:subintro
+:de:su^b-intr	are_vb
+:le:subinvito
+:de:su^b-invi_t	are_vb
+:le:subjugo
+:de:subju^g	are_vb
+:le:sublevo
+:de:sub-le^v	are_vb
+:le:subligo
+:de:sub-li^g	are_vb
+:le:sublimo
+:de:subli_m	are_vb
+:le:subluco
+:de:sub-lu_c	are_vb
+:le:subnego
+:de:sub-ne^g	are_vb
+:le:subnervo
+:de:subnerv	are_vb
+:le:subnoto
+:de:sub-no^t	are_vb
+:le:suborno
+:de:su^b-orn	are_vb
+:le:subsarcino
+:de:subsarci^n	are_vb
+:le:subsigno
+:de:sub-sign	are_vb
+:le:subsummo
+:de:sub-summ	are_vb
+:le:subvecto
+:de:subvect	are_vb
+:le:subvelo
+:de:sub-ve_l	are_vb
+:le:succeno
+:de:suc-ce_n	are_vb
+:le:succenturio
+:de:suc-centu^ri^	are_vb
+:le:succlamo
+:de:suc-cla_m	are_vb
+:le:succlino
+:de:succli_n	are_vb
+:le:succollo
+:de:suc-coll	are_vb
+:le:succrepo
+:de:suc-cre^p	are_vb
+:le:succultro
+:de:suc-cultr	are_vb
+:le:sucido
+:de:su_ci^d	are_vb
+:le:sudo
+:de:su_d	are_vb
+:le:suffarcino
+:de:suf-farci^n	are_vb
+:le:sufflo
+:de:suf-fl	are_vb
+:le:suffoco
+:de:suf-fo_c	are_vb
+:le:suffrago
+:de:suffra_g	are_vb
+:le:suffragor
+:de:suffra_g	are_vb dep
+:le:sugillo
+:de:su_gill	are_vb
+:le:suifico
+:de:su^i^fi^c	are_vb
+:le:sulco
+:de:sulc	are_vb
+:le:summerso
+:de:summers	are_vb
+:le:sumministro
+:de:sum-mi^nistr	are_vb
+:le:summurmuro
+:de:sum-murmu^r	are_vb
+:le:sumptito
+:de:sumpti^t	are_vb
+:le:superabundo
+:de:su^pe^r-a^bund	are_vb
+:le:superadmiro
+:de:su^pe^radmi_r	are_vb
+:le:superasto
+:de:su^pe^r-ast	are_vb
+:le:supercerto
+:de:su^per-cert	are_vb
+:le:supercubo
+:de:su^per-cu^b	are_vb
+:le:superdestillo
+:de:su^per-destill	are_vb
+:le:supererogo
+:de:su^pe^r-e_ro^g	are_vb
+:le:superevolo
+:de:su^pe^r-e_vo^l	are_vb
+:le:superexalto
+:de:su^pe^r-exalt	are_vb
+:le:superexcedo
+:de:su^pe^r-exce_d	are_vb
+:le:superforo
+:de:su^per-fo^r	are_vb
+:le:supergenero
+:de:su^per-ge^ne^r	are_vb
+:le:superlucror
+:de:su^per-lucr	are_vb dep
+:le:supernumero
+:de:su^per-nu^me^r	are_vb
+:le:supero
+:de:su^pe^r	are_vb
+:le:superobumbro
+:de:su^pe^r-o^bumbr	are_vb
+:le:superordino
+:de:su^pe^r-ordi^n	are_vb
+:le:supersemino
+:de:su^per-se_mi^n	are_vb
+:le:superspero
+:de:su^per-spe_r	are_vb
+:le:superstagno
+:de:su^per-stagn	are_vb
+:le:supervagor
+:de:su^per-va^g	are_vb dep
+:le:supervolito
+:de:su^per-vo^li^t	are_vb
+:le:supino
+:de:su^pi_n	are_vb
+:le:suppilo
+:de:sup-pi_l	are_vb
+:le:supplanto
+:de:sup-plant	are_vb
+:le:supporto
+:de:sup-port	are_vb
+:le:suppuro
+:de:sup-pu_r	are_vb
+:le:supputo
+:de:sup-pu^t	are_vb
+:le:suscepto
+:de:suscept	are_vb
+:le:suscito
+:de:susci^t	are_vb
+:le:suspecto
+:de:suspect	are_vb
+:le:suspiro
+:de:suspi_r	are_vb
+:le:sustento
+:de:sustent	are_vb
+:le:syncopo
+:de:synco^p	are_vb
+:le:tabifico
+:de:ta_bi^fi^c	are_vb
+:le:taedio
+:de:taedi^	are_vb
+:le:taetro
+:de:taetr	are_vb
+:le:tardo
+:de:tard	are_vb
+:le:taxo
+:de:tax	are_vb
+:le:temero
+:de:te^me^r	are_vb
+:le:tenebrico
+:de:te^ne_^bri^c	are_vb
+:le:tenuo
+:de:te^nu^	are_vb
+:le:termino
+:de:termi^n	are_vb
+:le:tertio
+:de:terti^	are_vb
+:le:testificor
+:de:testi^fi^c	are_vb dep
+:le:testor
+:de:test	are_vb dep
+:le:tineo
+:de:ti^ne^	are_vb
+:le:titillo
+:de:ti_till	are_vb
+:le:titubo
+:de:ti^tu^b	are_vb
+:le:titulo
+:de:ti^tu^l	are_vb
+:le:tolero
+:de:to^le^r	are_vb
+:le:tolero
+:de:to^le^r	are_vb dep
+:le:tonitruo
+:de:to^ni_^tru^	are_vb
+:le:torno
+:de:torn	are_vb
+:le:torporo
+:de:torpo_r	are_vb
+:le:torrido
+:de:torri^d	are_vb
+:le:toxico
+:de:toxi^c	are_vb
+:le:tracto
+:de:tract	are_vb
+:le:trano
+:de:tra_n	are_vb
+:le:tranquillo
+:de:tranquill	are_vb
+:le:transfiguro
+:de:trans-fi^gu_r	are_vb
+:le:transformo
+:de:trans-form	are_vb
+:le:transfreto
+:de:trans-fre^t	are_vb
+:le:transmeo
+:de:trans-me^	are_vb
+:le:transmigro
+:de:trans-mi_^gr	are_vb
+:le:transnato
+:de:trans-na^t	are_vb
+:le:transnomino
+:de:trans-no_mi^n	are_vb
+:le:transplanto
+:de:trans-plant	are_vb
+:le:transporto
+:de:trans-port	are_vb
+:le:transverbero
+:de:trans-verbe^r	are_vb
+:le:transvolo
+:de:trans-vo^l	are_vb
+:le:transvoro
+:de:trans-vo^r	are_vb
+:le:trepido
+:de:tre^pi^d	are_vb
+:le:tribulo
+:de:tri_bu^l	are_vb
+:le:tricor
+:de:tri_c	are_vb dep
+:le:triplico
+:de:tri_^pli^c	are_vb
+:le:triumpho
+:de:tri^umph	are_vb
+:le:trucido
+:de:tru^ci_d	are_vb
+:le:trunco
+:de:trunc	are_vb
+:le:trutino
+:de:tru^ti^n	are_vb
+:le:trutino
+:de:tru^ti^n	are_vb dep
+:le:tuburcinor
+:de:tuburci^n	are_vb dep
+:le:tudiculo
+:de:tu^di^cu^l	are_vb
+:le:tumido
+:de:tu^mi^d	are_vb
+:le:tumulo
+:de:tu^mu^l	are_vb
+:le:tumultuor
+:de:tu^multu^	are_vb dep
+:le:tunico
+:de:tu^ni^c	are_vb
+:le:turbido
+:de:turbi^d	are_vb
+:le:turbo
+:de:turb	are_vb
+:le:turifico
+:de:tu_ri^fi^c	are_vb
+:le:turpo
+:de:turp	are_vb
+:le:ulcero
+:de:ulce^r	are_vb
+:le:ululo
+:de:u^lu^l	are_vb
+:le:umbro
+:de:umbr	are_vb
+:le:umifico
+:de:u_mi^fi^c	are_vb
+:le:undo
+:de:und	are_vb
+:le:unguento
+:de:unguent	are_vb
+:le:usitor
+:de:u_si^t	are_vb dep
+:le:ustulo
+:de:ustu^l	are_vb
+:le:usurpo
+:de:usurp	are_vb
+:le:vacillo
+:de:va^cill	are_vb
+:le:vacuo
+:de:va^cu^	are_vb
+:le:vago
+:de:va^g	are_vb
+:le:vagor
+:de:va^g	are_vb dep
+:le:vallo
+:de:vall	are_vb
+:le:vaporo
+:de:va^po_r	are_vb
+:le:vapulo
+:de:va_pu^l	are_vb
+:le:varico
+:de:va_ri^c	are_vb
+:le:variego
+:de:va^ri^e^g	are_vb
+:le:vario
+:de:va^ri^	are_vb
+:le:vasto
+:de:vast	are_vb
+:le:vaticinor
+:de:va_ti^ci^n	are_vb dep
+:le:vecto
+:de:vect	are_vb
+:le:vegeto
+:de:ve^ge^t	are_vb
+:le:velitor
+:de:ve_li^t	are_vb dep
+:le:vellico
+:de:velli^c	are_vb
+:le:velo
+:de:ve_l	are_vb
+:le:vendito
+:de:vendi^t	are_vb
+:le:veneno
+:de:ve^ne_n	are_vb
+:le:veneror
+:de:ve^ne^r	are_vb dep
+:le:ventilo
+:de:venti^l	are_vb
+:le:ventrigo
+:de:ventri^g	are_vb
+:le:verbigero
+:de:verbi^ge^r	are_vb
+:le:vermiculor
+:de:vermi^cu^l	are_vb dep
+:le:versifico
+:de:versi^fi^c	are_vb
+:le:vestigo
+:de:ve-sti_g	are_vb
+:le:vetero
+:de:ve^te^r	are_vb
+:le:vexo
+:de:vex	are_vb
+:le:vibro
+:de:vi_^br	are_vb
+:le:vicinor
+:de:vi_ci_n	are_vb dep
+:le:viduo
+:de:vi^du^	are_vb
+:le:vigilo
+:de:vi^gi^l	are_vb
+:le:vigoro
+:de:vi^go_r	are_vb
+:le:vilico
+:de:vi_li^c	are_vb
+:le:vinculo
+:de:vincu^l	are_vb
+:le:violo
+:de:vi^o^l	are_vb
+:le:virido
+:de:vi^ri^d	are_vb
+:le:visco
+:de:visc	are_vb
+:le:visito
+:de:vi_si^t	are_vb
+:le:vitio
+:de:vi^ti^	are_vb
+:le:vito
+:de:vi_t	are_vb
+:le:vitupero
+:de:vi^tu^pe^r	are_vb
+:le:vivido
+:de:vi_vi^d	are_vb
+:le:vivifico
+:de:vi_vi^fi^c	are_vb
+:le:vocifero
+:de:vo_ci^fe^r	are_vb
+:le:vociferor
+:de:vo_ci^fe^r	are_vb dep
+:le:vocito
+:de:vo^ci^t	are_vb
+:le:voco
+:de:vo^c	are_vb
+:le:volito
+:de:vo^li^t	are_vb
+:le:volo
+:de:vo^l	are_vb
+:le:voluto
+:de:vo^lu_t	are_vb
+:le:voro
+:de:vo^r	are_vb
+:le:vulgo
+:de:vulg	are_vb
+:le:vulnero
+:de:vulne^r	are_vb
+:le:vulnifico
+:de:vulni^fi^c	are_vb

@@ -1,0 +1,14 @@
+@decl1 perf part pass fem
+@decl2 perf part pass masc
+@decl2 perf part pass neut
+us	perf part pass masc nom sg
+um	perf part pass neut nom sg
+um	supine neut nom sg
+u_	supine neut dat sg
+ur@decl1 fut part act fem
+ur@decl2 fut part act masc
+ur@decl2 fut part act neut
+urus	fut part act masc nom sg
+urum	fut part act neut nom sg
+@superl_adj superl
+@comp_adj comp

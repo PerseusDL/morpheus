@@ -1,0 +1,12 @@
+r@decl1 fem
+er	nom/voc sg masc
+rum	nom/voc sg neut
+r@decl2 masc
+r@decl2 neut
+errimus	masc nom sg superl
+errima	fem nom sg superl
+errimum	neut nom sg superl
+errim@decl1 fem superl
+errim@decl2 masc neut superl
+err@superl_adj superl
+err@comp_adj	comp

@@ -1,0 +1,8 @@
+ents	masc fem nom/voc sg
+ents	neut nom/voc/acc sg
+ent@decl3_i masc fem 
+ent@decl3_i neut
+enti_	masc fem neut abl sg
+ente	masc fem neut abl sg
+ent@comp_adj comp
+ent@superl_adj superl
