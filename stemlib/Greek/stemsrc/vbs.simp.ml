@@ -7495,6 +7495,7 @@
 @ end:e/men aor inf epic
 :vb:e)lqe/ aor2 aor imperat act 2nd sg
 :vs:e)nq aor2 doric
+:vs:e)lq aor1 late
 :vs:e)lhluq perf_act,attic_redupl
 @ plup unaugmented end:ein ionic attic_redupl
 @ plup unaugmented end:ee ionic
