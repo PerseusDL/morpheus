@@ -66,4 +66,6 @@ char * argv[];
 	}
 printf("stype %o\n", stype );
 	indexendtables(stype,is_suffix);
+	return(0);
 }
+
