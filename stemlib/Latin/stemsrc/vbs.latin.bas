@@ -508,7 +508,7 @@
 :vs:ors		pp4
 
 :le:orior
-:vs:or		conj4
+:vs:or		conj4 dep
 :vs:ort		pp4
 
 :le:ostendo

@@ -441,9 +441,12 @@
 :le:fessus
 :aj:fess	us_a_um
 
-:le:fides
+:le:fides#1
 :no:fid	es_ei	fem
 :no:fid is_is	fem poetic
+
+:le:fides#2
+:no:fid is_is fem
 
 :le:foris#1
 :no:for is_is fem

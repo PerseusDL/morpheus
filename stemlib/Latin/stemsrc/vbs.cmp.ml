@@ -128,6 +128,7 @@ ad-indo adindo
 ad-ito adito
 ad-jacio adicio
 ad-jubeo adjubeo
+ad-labor#1 allabor
 ad-lambo allambo
 ad-livesco allivescit
 ad-loquor alloquor
