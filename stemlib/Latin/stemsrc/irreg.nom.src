@@ -458,19 +458,19 @@ vo_bis	pron2 masc fem abl pl
 vo_bis	pron2 masc fem dat pl
 
 :le:sui_
-sui_	pron1 masc fem gen sg
-sibi	pron1 masc fem dat sg
-se_	pron1 masc fem acc sg
-se_se_	pron1 masc fem acc sg
-se_	pron1 masc fem abl sg
-se_se_	pron1 masc fem abl sg
+sui_	pron3 masc fem gen sg
+sibi	pron3 masc fem dat sg
+se_	pron3 masc fem acc sg
+se_se_	pron3 masc fem acc sg
+se_	pron3 masc fem abl sg
+se_se_	pron3 masc fem abl sg
 
-sui_	pron1 masc fem gen pl
-sibi	pron1 masc fem dat pl
-se_	pron1 masc fem acc pl
-se_se_	pron1 masc fem acc pl
-se_	pron1 masc fem abl pl
-se_se_	pron1 masc fem abl pl
+sui_	pron3 masc fem gen pl
+sibi	pron3 masc fem dat pl
+se_	pron3 masc fem acc pl
+se_se_	pron3 masc fem acc pl
+se_	pron3 masc fem abl pl
+se_se_	pron3 masc fem abl pl
 
 :le:mel
 :wd:mel		irreg_decl3 neut nom/voc/acc sg
@@ -570,6 +570,12 @@ utr@decl1 irreg_adj2 gen pl fem
 utr@decl1 irreg_adj2 dat fem
 utr@decl1 irreg_adj2 acc fem
 utr@decl1 irreg_adj2 abl fem
+
+:le:vetus
+:wd:vetus	irreg_adj3 masc fem nom voc sg
+veter@decl3	irreg_adj3 masc fem neut
+:aj:vetust	or_us_comp irreg_comp
+:aj:vet	er_ris_re superl
 
 :le:virus
 vi_rus		irreg_nom2 neut nom voc acc sg

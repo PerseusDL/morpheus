@@ -210,9 +210,9 @@
 :no:cohor	s_tis fem
 
 :le:conjunx
-:wd:conjunx	irreg_nom3 fem nom sg
-:no:conju^	x_gis	fem
-:no:conju^g	a_ae fem
+:wd:conjunx	irreg_nom3 fem nom sg masc
+:no:conju^	x_gis	fem masc
+:no:conju^g	a_ae fem masc
 
 :le:collegium
 :no:colle_g     ius_i neut
@@ -1169,11 +1169,6 @@
 
 :le:vestis
 :no:vest	is_is fem
-
-:le:vetus
-:aj:vet	er_era_erum
-:wd:vetus	irreg_adj3 masc fem nom voc sg
-:aj:vetust	or_us_comp irreg_comp
 
 :le:vicesimus
 :aj:vi_ce_sim us_a_um

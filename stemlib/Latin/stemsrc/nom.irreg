@@ -730,18 +730,18 @@
 :wd:vo_bis   pron2 masc/fem abl pl
 
 :le:sui_
-:wd:sui_   pron1 masc/fem gen sg
-:wd:sibi   pron1 masc/fem dat sg
-:wd:se_   pron1 masc/fem acc sg
-:wd:se_se_   pron1 masc/fem acc sg
-:wd:se_   pron1 masc/fem abl sg
-:wd:se_se_   pron1 masc/fem abl sg
-:wd:sui_   pron1 masc/fem gen pl
-:wd:sibi   pron1 masc/fem dat pl
-:wd:se_   pron1 masc/fem acc pl
-:wd:se_se_   pron1 masc/fem acc pl
-:wd:se_   pron1 masc/fem abl pl
-:wd:se_se_   pron1 masc/fem abl pl
+:wd:sui_   pron3 masc/fem gen sg
+:wd:sibi   pron3 masc/fem dat sg
+:wd:se_   pron3 masc/fem acc sg
+:wd:se_se_   pron3 masc/fem acc sg
+:wd:se_   pron3 masc/fem abl sg
+:wd:se_se_   pron3 masc/fem abl sg
+:wd:sui_   pron3 masc/fem gen pl
+:wd:sibi   pron3 masc/fem dat pl
+:wd:se_   pron3 masc/fem acc pl
+:wd:se_se_   pron3 masc/fem acc pl
+:wd:se_   pron3 masc/fem abl pl
+:wd:se_se_   pron3 masc/fem abl pl
 
 :le:mel
 :wd:mel		irreg_decl3 neut nom/voc/acc sg
@@ -908,6 +908,21 @@
 :wd:utra   irreg_adj1 neut acc pl
 :wd:utri_s   irreg_adj1 masc/neut abl pl
 :wd:utri_s   irreg_adj1 fem abl pl
+
+:le:vetus
+:wd:vetus	irreg_adj3 masc fem nom voc sg
+:aj:vetust	or_us_comp irreg_comp
+:aj:vet	er_ris_re superl
+:wd:veteris   irreg_adj3 masc/fem/neut gen sg
+:wd:veteri_   irreg_adj3 masc/fem/neut dat sg
+:wd:veterem   irreg_adj3 masc/fem acc sg
+:wd:vetere   irreg_adj3 masc/fem/neut abl sg
+:wd:vetere_s   irreg_adj3 masc/fem nom/voc pl
+:wd:vetera   irreg_adj3 neut nom/voc/acc pl
+:wd:veterum   irreg_adj3 masc/fem/neut gen pl
+:wd:veteribus   irreg_adj3 masc/fem/neut dat pl
+:wd:vetere_s   irreg_adj3 masc/fem acc pl
+:wd:veteribus   irreg_adj3 masc/fem/neut abl pl
 
 :le:virus
 :wd:vi_rus   irreg_nom2 neut nom/voc/acc sg
