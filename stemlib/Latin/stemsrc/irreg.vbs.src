@@ -13,6 +13,7 @@ aie@imperf	irreg_pp1 ind act imperf
 :vs:i_v		perfstem
 :vs:it		pp4 supine
 :vs:it		pp4 fut part
+:vs:it		pp4 comp_only
 #
 :vb:eo_		irreg_pp1 1st sg pres ind act
 :vb:i_s		irreg_pp1 2nd sg pres ind act

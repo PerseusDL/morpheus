@@ -88,6 +88,7 @@ ab-horreo abhorreo
 ab-jacio abicio
 ab-luto#1 ablutor
 ab-oleo#1 aboleo
+ab-repo arrepo
 ab-rumpo abrumpo
 ab-struo abstruo
 ab-sum abfore
@@ -126,6 +127,7 @@ ad-fundo#1 affundo
 ad-fundo#2 affundo
 ad-gestio#2 aggestio
 ad-gnosco agnosco
+ad-gradior aggredior
 ad-habito adhabito
 ad-horreo adhorreo
 ad-indo adindo
@@ -144,7 +146,7 @@ ad-navigo adnavigo
 ad-necto adnecto
 ad-neo#1 anne
 ad-niteo adnitendus
-ad-nitor#1 adnitendus
+ad-nitor#1 annitor
 ad-no#1 adnato
 ad-opino adopinor
 ad-opinor adopinor

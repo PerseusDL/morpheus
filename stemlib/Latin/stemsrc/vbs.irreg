@@ -19,6 +19,7 @@
 :vs:i_v		perfstem
 :vs:it		pp4 supine
 :vs:it		pp4 fut part
+:vs:it		pp4 comp_only
 :vb:eo_		irreg_pp1 1st sg pres ind act
 :vb:i_s		irreg_pp1 2nd sg pres ind act
 :vb:it		irreg_pp1 3rd sg pres ind act
@@ -56,7 +57,7 @@
 :vb:eunde   irreg_pp1 gerundive masc/neut voc sg
 :vb:eundo_   irreg_pp1 gerundive masc/neut abl sg
 :vb:eunda_   irreg_pp1 gerundive fem abl sg
-:vb:eundi_   irreg_pp1 gerundive masc nom pl
+:vb:eundi_   irreg_pp1 gerundive masc nom/voc pl
 :vb:eundae   irreg_pp1 gerundive fem nom/voc pl
 :vb:eunda   irreg_pp1 gerundive neut nom/voc/acc pl
 :vb:eundu_m   irreg_pp1 gerundive masc/neut gen pl poetic

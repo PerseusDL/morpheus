@@ -66,6 +66,7 @@ e_ns	pres part neut acc sg
 ent@superl_adj 	superl 
 ent@comp_adj 	comp 
 ente	pres part masc/fem/neut abl sg
+enti_	pres part masc/fem/neut abl sg
 ent@decl3_i pres part  masc fem neut
 #
 end@decl1 gerundive fem 

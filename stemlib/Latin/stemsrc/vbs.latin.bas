@@ -120,6 +120,10 @@
 :vs:caru_	perfstem
 :vs:carit	pp4
 
+:le:celebro
+:de:cele_br	are_vb
+:de:celebr	are_vb
+
 :le:censeo#1
 :vs:cens	conj2
 :vs:censu	perfstem
@@ -317,6 +321,10 @@
 :de:imper	are_vb
 :de:in-per	are_vb orth
 
+:le:impertio
+:de:im-pert	ire_vb
+:de:in-pert	ire_vb
+
 :le:impetro
 :de:impetr	are_vb
 :de:in-petr	are_vb orth
@@ -432,6 +440,11 @@
 
 :le:munio
 :de:mun	ire_vb
+
+:le:nanciscor
+:vs:nancisc	conj3
+:vs:nanct	pp4
+:vs:nact	pp4
 
 :le:nascor
 :vs:nasc	conj3

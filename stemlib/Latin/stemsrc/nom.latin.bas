@@ -339,6 +339,7 @@
 :no:dom	us_i fem abl sg
 :no:dom	us_i fem acc sg
 :no:dom	us_i fem acc pl
+:wd:domi	adverb locative
 
 :le:donec
 :wd:donec	conj
@@ -863,7 +864,7 @@
 :le:pecus#1
 :no:pec 	or_oris	neut
 
-:le:pecus2
+:le:pecus#2
 :no:pecu 	s_dis masc fem
 
 :le:Penates
@@ -1154,6 +1155,10 @@
 :le:stirps
 :no:stirp	s_is fem
 
+:le:super#2
+:wd:super	prep
+:wd:super	adverb
+
 :le:supra
 :wd:su_pra_	prep
 :wd:su_pra_	adverb
@@ -1243,6 +1248,11 @@
 :le:ubi
 :wd:ubi	conj
 :wd:ubinam	adverb
+
+:le:ulter
+:aj:ult	er_ra_rum no_comp
+:aj:ulter	ior_ius_comp irreg_comp
+:aj:ultim	us_a_um irreg_superl
 
 :le:umquam
 :wd:umquam	adverb

@@ -762,6 +762,9 @@ absti^nenti^a
 
 
 absti^nenter	
+:le:abstinenter
+:wd:absti^nenter		adverb
+
 abstracti^o		
 :le:abstractio
 :no:abstracti^	o_oLnis fem
@@ -830,6 +833,9 @@ a^bunde_
 
 
 a^bundanter	
+:le:abundanter
+:wd:a^bundanter		adverb
+
 a^bundus		
 :le:abundus
 :aj:a^bund	us_a_um
@@ -1937,7 +1943,11 @@ a^conti^as
 :no:a^conti^	as_ae masc
 
 
-a^conti^ae		<itype>a_rum</itype>
+a^conti^ae		
+:le:acontiae
+:no:a^conti^	a_ae fem pl
+
+
 A^conti^us		
 :le:Acontius
 :no:A^cont	ius_i masc
@@ -2335,6 +2345,9 @@ actu^a_lis
 
 
 ac-tu^a_li^ter	
+:le:actualiter
+:wd:ac-tu^a_li^ter		adverb
+
 actu^a_ri^a		
 :le:actuaria
 :no:actu^a_ri^	a_ae fem
@@ -3051,6 +3064,9 @@ admi_ra_bi^lis
 
 
 admi_ra_bi^li^ter	
+:le:admirabiliter
+:wd:admi_ra_bi^li^ter		adverb
+
 admi_ra_bi^li^tas		
 :le:admirabilitas
 :no:admi_ra_bi^li^	tas_tatis fem
@@ -3462,6 +3478,9 @@ a^du^lescentu^lus		<orth>a^do^l-</orth>
 
 
 a^du_lanter	
+:le:adulanter
+:wd:a^du_lanter		adverb
+
 a^d-ulter#1		
 :le:adulter#1
 :no:a^d-ult	er_ri masc
@@ -4501,6 +4520,9 @@ aequa_lis
 
 
 aequa_li^ter	
+:le:aequaliter
+:wd:aequa_li^ter		adverb
+
 aequa_li^tas		
 :le:aequalitas
 :no:aequa_li^	tas_tatis fem
@@ -4523,6 +4545,9 @@ Aequa_na
 
 aequa^ni^mis		<pos>adj.</pos>
 aequa^ni^mi^ter	
+:le:aequanimiter
+:wd:aequa^ni^mi^ter		adverb
+
 aequa^ni^mi^tas		
 :le:aequanimitas
 :no:aequa^ni^mi^	tas_tatis fem
@@ -4742,6 +4767,9 @@ aeque_
 
 
 aequi^ter	
+:le:aequiter
+:wd:aequi^ter		adverb
+
 a_e_r		<orth type=alt>a_e^ris</orth>	<gen>m.</gen>	<pos>adj.</pos>
 aera		<orth type=alt>dissyl.</orth>	
 :le:aera
@@ -5204,6 +5232,9 @@ aeterna_lis
 
 
 aeterna_li^ter	
+:le:aeternaliter
+:wd:aeterna_li^ter		adverb
+
 aeterni^tas		
 :le:aeternitas
 :no:aeterni^	tas_tatis fem
@@ -5385,6 +5416,9 @@ affa_bi^lis		<orth>adf-</orth>
 
 
 adfa_bi^li^ter	
+:le:adfabiliter
+:wd:adfa_bi^li^ter		adverb
+
 affa_bi^li^tas		<orth>adf-</orth>	
 :le:affabilitas
 :no:affa_bi^li^	tas_tatis fem
@@ -5648,7 +5682,11 @@ Afri^ca_nus
 :aj:Afri^ca_n	us_a_um
 
 
-Afri^ca_nae		<itype>a_rum</itype>
+Afri^ca_nae		
+:le:Africanae
+:no:Afri^ca_n	a_ae fem pl
+
+
 Afri^ca_-nus		<orth>Afri^cus</orth>	
 :le:Africanus
 :aj:Afri^ca_-n	us_a_um
@@ -5891,6 +5929,9 @@ agi^lis
 
 
 a^gi^li^ter	
+:le:agiliter
+:wd:a^gi^li^ter		adverb
+
 a^gi^li^tas		
 :le:agilitas
 :no:a^gi^li^	tas_tatis fem
@@ -6407,6 +6448,9 @@ A^la^bis
 
 a^la^cer		<itype>cris, e</itype>	<pos>adj.</pos>	<gen>comm.</gen>
 a^la^cri^ter	
+:le:alacriter
+:wd:a^la^cri^ter		adverb
+
 a^la^cri^tas		
 :le:alacritas
 :no:a^la^cri^	tas_tatis fem
@@ -6706,7 +6750,11 @@ Albu^la
 :no:Albu^l	a_ae fem
 
 
-Albu^lae		<itype>a_rum</itype>
+Albu^lae		
+:le:Albulae
+:no:Albu^l	a_ae fem pl
+
+
 albu^lus		
 :le:albulus
 :aj:albu^l	us_a_um
@@ -7647,7 +7695,11 @@ alli^a_tum
 :no:alli^a_t	us_i neut
 
 	<pos>adj.</pos>
-Alli_fae		<orth type=alt>Ali_phae</orth>	<orth type=alt>Alli_phae</orth>	<itype>a_rum</itype>
+Alli_fae		<orth type=alt>Ali_phae</orth>	<orth type=alt>Alli_phae</orth>	
+:le:Allifae
+:no:Alli_f	a_ae fem pl
+
+
 Ali_fa		
 :le:Alifa
 :no:Ali_f	a_ae fem
@@ -8337,6 +8389,9 @@ a^ma_bi^lis
 
 
 a^ma_bi^li^ter	
+:le:amabiliter
+:wd:a^ma_bi^li^ter		adverb
+
 a^ma_bi^li^tas		
 :le:amabilitas
 :no:a^ma_bi^li^	tas_tatis fem
@@ -8975,6 +9030,9 @@ a^mi_ca_bi^lis
 
 
 a^mi_ca_bi^li^ter	
+:le:amicabiliter
+:wd:a^mi_ca_bi^li^ter		adverb
+
 a^mi_ca_lis		
 :le:amicalis
 :aj:a^mi_ca_l	is_e
@@ -10721,7 +10779,11 @@ anguste_
 :wd:anguste_	adverb
 
 
-angusti^ae		<itype>a_rum</itype>
+angusti^ae		
+:le:angustiae
+:no:angusti^	a_ae fem pl
+
+
 angusti^a		
 :le:angustia
 :no:angusti^	a_ae fem
@@ -10847,6 +10909,9 @@ a^ni_lis
 
 
 a^ni_li^ter	
+:le:aniliter
+:wd:a^ni_li^ter		adverb
+
 a^ni_li^tas		
 :le:anilitas
 :no:a^ni_li^	tas_tatis fem
@@ -10888,6 +10953,9 @@ a^ni^ma_lis
 
 
 a^ni^ma_li^ter	
+:le:animaliter
+:wd:a^ni^ma_li^ter		adverb
+
 a^ni^ma_ti^o		
 :le:animatio
 :no:a^ni^ma_ti^	o_oLnis fem
@@ -14812,6 +14880,9 @@ arde^li^o
 
 
 ardenter	
+:le:ardenter
+:wd:ardenter		adverb
+
 arde^o^la		
 :le:ardeola
 :no:arde^o^l	a_ae fem
@@ -15250,6 +15321,9 @@ argu_menta_lis
 
 
 argu_menta_li^ter	
+:le:argumentaliter
+:wd:argu_menta_li^ter		adverb
+
 argu_menta_ti^o		
 :le:argumentatio
 :no:argu_menta_ti^	o_oLnis fem
@@ -16383,6 +16457,9 @@ arti^fi^-ci^a_lia
 
 
 arti^-fi^ci^a_li^ter	
+:le:artificialiter
+:wd:arti^-fi^ci^a_li^ter		adverb
+
 arti^fi^ci^o_sus		
 :le:artificiosus
 :aj:arti^fi^ci^o_s	us_a_um
@@ -18712,6 +18789,9 @@ a_^trox
 
 
 atro_ci^ter	
+:le:atrociter
+:wd:atro_ci^ter		adverb
+
 atrusca		
 :le:atrusca
 :no:atrusc	a_ae fem
@@ -19859,6 +19939,9 @@ auspi^ca_lis
 
 
 auspi^-ca_li^ter	
+:le:auspicaliter
+:wd:auspi^-ca_li^ter		adverb
+
 auspi^ca_tus#2		
 :le:auspicatus#2
 :no:auspi^ca_t	us_us masc
@@ -23437,7 +23520,11 @@ bi^furcum
 :no:bi^furc	us_i neut
 
 
-bi_gae		<itype>a_rum</itype>
+bi_gae		
+:le:bigae
+:no:bi_g	a_ae fem pl
+
+
 bi_ga		
 :le:biga
 :no:bi_g	a_ae fem
@@ -24304,7 +24391,13 @@ ble_chon
 :no:ble_ch	oLn_oLnis masc
 
 
-Blemmy^ae		<orth>Ble^my^ae</orth>	<itype>a_rum</itype>
+Blemmy^ae		<orth>Ble^my^ae</orth>	
+:le:Blemmyae
+:no:Blemmy^	a_ae fem pl
+:no:Ble^my^	a_ae fem pl orth
+
+
+
 Blemyes		<orth>Blemyi</orth>	<itype>o_rum</itype>	<gen>m.</gen>
 blendi^us		<orth>blenni^us</orth>	
 :le:blendius
@@ -24762,7 +24855,11 @@ Bo^rysthe^ni^dae
 :no:Bo^rysthe^ni^d	a_ae masc pl
 
 
-Bo^rysthe^-ni_tae		<itype>a_rum</itype>
+Bo^rysthe^-ni_tae		
+:le:Borysthenitae
+:no:Bo^rysthe^-ni_t	a_ae fem pl
+
+
 bo_s		<itype>bo^vis</itype>
 bo^-vis		<itype>like bovare for boare</itype>	<gen>comm.</gen>
 boscis		
@@ -25011,7 +25108,13 @@ brabyla
 :no:brabyl	a_ae fem
 
 
-bra_cae		<orth>braccae</orth>	<itype>a_rum</itype>
+bra_cae		<orth>braccae</orth>	
+:le:bracae
+:no:bra_c	a_ae fem pl
+:no:bracc	a_ae fem pl orth
+
+
+
 bra_ca		
 :le:braca
 :no:bra_c	a_ae fem
@@ -25172,7 +25275,11 @@ Brana
 
 
 brance_	
-branchi^ae		<itype>a_rum</itype>
+branchi^ae		
+:le:branchiae
+:no:branchi^	a_ae fem pl
+
+
 branchia		
 :le:branchia
 :no:branchi	a_ae fem
@@ -27028,6 +27135,9 @@ ca^du_cum
 
 	<pos>adv.</pos>
 ca^du_-ci^ter	
+:le:caduciter
+:wd:ca^du_-ci^ter		adverb
+
 Ca^durci		
 :le:Cadurci
 :no:Ca^durc	us_i masc pl
@@ -28520,6 +28630,9 @@ calla^ri^as
 
 
 callenter	
+:le:callenter
+:wd:callenter		adverb
+
 calli^ble^pha^rum		<orth>calli^ble^pha^ri^-um</orth>	
 :le:calliblepharum
 :no:calli^ble^pha^r	us_i neut
@@ -29392,6 +29505,9 @@ Ca^na_ri^a insula		<orth>Ca^na_rii</orth>
 
 
 ca_naster	
+:le:canaster
+:wd:ca_naster		adverb
+
 ca^na_tim		
 :le:canatim
 :wd:ca^na_tim	adverb
@@ -30094,6 +30210,9 @@ ca^pax
 
 
 ca^pa_ci^ter	
+:le:capaciter
+:wd:ca^pa_ci^ter		adverb
+
 ca^pe_do		<orth type=alt>ca^pu_do</orth>	
 :le:capedo
 :no:ca^pe_d	o_inis fem
@@ -30277,6 +30396,9 @@ ca^pi^tal		<orth>ca^pi^ta_le</orth>
 
 
 ca^pi^ta_li^ter	
+:le:capitaliter
+:wd:ca^pi^ta_li^ter		adverb
+
 ca^pi^ta_ne^us		
 :le:capitaneus
 :aj:ca^pi^ta_ne^	us_a_um
@@ -31258,6 +31380,9 @@ carna_li^a
 
 
 carna_li^ter	
+:le:carnaliter
+:wd:carna_li^ter		adverb
+
 carna_li^tas		
 :le:carnalitas
 :no:carna_li^	tas_tatis fem
@@ -31905,7 +32030,11 @@ Caspi^us
 :no:Casp	ius_i masc
 
 
-Caspi^ae		<itype>a_rum</itype>
+Caspi^ae		
+:le:Caspiae
+:no:Caspi^	a_ae fem pl
+
+
 Caspii		
 :le:Caspii
 :no:Caspi	us_i masc pl
@@ -32325,6 +32454,9 @@ ca_su^a_lis
 
 
 ca_su^a_li^ter	
+:le:casualiter
+:wd:ca_su^a_li^ter		adverb
+
 ca^su^la		
 :le:casula
 :no:ca^su^l	a_ae fem
@@ -33572,7 +33704,11 @@ Ce_cro^pi^des
 :no:Ce_cro^pi^d	es_ae masc
 
 
-Ce_-cro^pi^dae		<itype>a_rum</itype>
+Ce_-cro^pi^dae		
+:le:Cecropidae
+:no:Ce_-cro^pi^d	a_ae fem pl
+
+
 Ce_cro^pi^s		
 :le:Cecropis
 :no:Ce_cro^p	is_idis fem
@@ -36254,7 +36390,11 @@ chi_ri^do_tus
 :aj:chi_ri^do_t	us_a_um
 
 
-chi_ri^do_tae		<itype>a_rum</itype>
+chi_ri^do_tae		
+:le:chiridotae
+:no:chi_ri^do_t	a_ae fem pl
+
+
 Chi_rocme_ta		<itype>o_n or o_rum</itype>	<gen>n.</gen>
 chi_ro^gra^pha_ri^us		
 :le:chirographarius
@@ -38678,6 +38818,9 @@ ci_vi_le
 
 	<pos>adv.</pos>
 ci_vi_li^ter	
+:le:civiliter
+:wd:ci_vi_li^ter		adverb
+
 Ci_vi_lis#2		
 :le:Civilis#2
 :no:Ci_vi_l	is_is masc
@@ -38782,7 +38925,11 @@ Clampe^ti^a
 :no:Clampe^ti^	a_ae fem
 
 
-Clampe^ti^ae		<itype>a_rum</itype>
+Clampe^ti^ae		
+:le:Clampetiae
+:no:Clampe^ti^	a_ae fem pl
+
+
 clancu^la_ri^us		
 :le:clancularius
 :aj:clancu^la_r	ius_ia_ium
@@ -39179,6 +39326,9 @@ cle_mens#1
 
 
 cle_-menter	
+:le:clementer
+:wd:cle_-menter		adverb
+
 Cle_mens#2		
 :le:Clemens#2
 :no:Cle_m	ens_entis masc
@@ -39205,7 +39355,11 @@ Cle^ombro^tus
 
 
 Cle^on		<itype>o_nis</itype>
-Cle^o_nae		<itype>a_rum</itype>
+Cle^o_nae		
+:le:Cleonae
+:no:Cle^o_n	a_ae fem pl
+
+
 Cle^o_na		
 :le:Cleona
 :no:Cle^o_n	a_ae fem
@@ -40476,6 +40630,9 @@ cogni^ti^o_na_lis
 
 
 co-gni^ti^o_na_li^ter	
+:le:cognitionaliter
+:wd:co-gni^ti^o_na_li^ter		adverb
+
 cogni^tor		
 :le:cognitor
 :no:cogni^t	or_oLris masc
@@ -40527,6 +40684,9 @@ cognosci^bi^lis
 
 
 cogno-sci^bi^li^ter	
+:le:cognoscibiliter
+:wd:cogno-sci^bi^li^ter		adverb
+
 coactum		
 :le:coactum
 :no:coact	us_i neut
@@ -40568,6 +40728,9 @@ co^hi^bi^lis
 
 
 co^hi^bi^li^ter	
+:le:cohibiliter
+:wd:co^hi^bi^li^ter		adverb
+
 co^hi^bi^ti^o		
 :le:cohibitio
 :no:co^hi^bi^ti^	o_oLnis fem
@@ -41871,6 +42034,9 @@ co_mis
 
 	<pos>adv.</pos>
 co_mi^ter	
+:le:comiter
+:wd:co_mi^ter		adverb
+
 co_missa_bundus		<orth type=alt>co_mess-</orth>	
 :le:comissabundus
 :aj:co_missa_bund	us_a_um
@@ -41922,6 +42088,9 @@ co^mi^ti^a_lis
 
 
 co^mi^ti^a_li^ter	
+:le:comitialiter
+:wd:co^mi^ti^a_li^ter		adverb
+
 co^mi^ti^a_nus		
 :le:comitianus
 :aj:co^mi^ti^a_n	us_a_um
@@ -43819,6 +43988,9 @@ concinne_		<pos>adj.</pos>
 
 
 concinni^ter	
+:le:concinniter
+:wd:concinni^ter		adverb
+
 conci^nens		<itype>entis</itype>
 conci^o#2		<orth>conci^o_-na_bundus</orth>	<orth type=alt>conci^o_na_lis</orth>
 con-cepta		
@@ -44033,6 +44205,9 @@ concorpo^ri^fi^ca_tus
 
 con-cors		<orth>concordis</orth>	<itype>e</itype>	<pos>adj.</pos>
 concordi^ter	
+:le:concorditer
+:wd:concordi^ter		adverb
+
 con-cre^a_tus		
 :le:concreatus
 :aj:con-cre^a_t	us_a_um
@@ -44166,6 +44341,9 @@ concu^piscenti^a_lis
 
 	<pos>adv.</pos>
 concu^pi-scenti^a_li^ter	
+:le:concupiscentialiter
+:wd:concu^pi-scenti^a_li^ter		adverb
+
 concu^piscenti_vus		
 :le:concupiscentivus
 :aj:concu^piscenti_v	us_a_um
@@ -44326,6 +44504,9 @@ condi^ci^o_na_lis		<orth type=alt>condit-</orth>
 
 
 condi^ci^o_na_li^ter	
+:le:condicionaliter
+:wd:condi^ci^o_na_li^ter		adverb
+
 condicti_ci^us-		<orth>ti^us</orth>	
 :le:condicticius
 :aj:condicti_c	ius_ia_ium
@@ -44485,6 +44666,9 @@ conductum
 
 
 condu_center	
+:le:conducenter
+:wd:condu_center		adverb
+
 conducti_ci^us		<orth>-ti^us</orth>	
 :le:conducticius
 :aj:conducti_c	ius_ia_ium
@@ -44710,6 +44894,9 @@ confi_denti^lo^quus
 
 
 confi_denter	
+:le:confidenter
+:wd:confi_denter		adverb
+
 confi^gu_ra_ti^o		
 :le:configuratio
 :no:confi^gu_ra_ti^	o_oLnis fem
@@ -45243,6 +45430,9 @@ congru^enti^a
 
 
 congru^enter	
+:le:congruenter
+:wd:congru^enter		adverb
+
 congru^us		
 :le:congruus
 :aj:congru^	us_a_um
@@ -45331,6 +45521,9 @@ con-jectu_ra_li^a
 
 
 conjec-tu_ra_li^ter	
+:le:conjecturaliter
+:wd:conjec-tu_ra_li^ter		adverb
+
 conjectus#2		
 :le:conjectus#2
 :no:conject	us_us masc
@@ -45342,6 +45535,9 @@ conju^ga_lis
 
 
 con-ju^ga_li^ter	
+:le:conjugaliter
+:wd:con-ju^ga_li^ter		adverb
+
 conju^ga_ti^o		
 :le:conjugatio
 :no:conju^ga_ti^	o_oLnis fem
@@ -45433,6 +45629,9 @@ conna_tus
 connexi^oconnexi_vusconnex-us	
 conni_tor		<orth type=alt>conni_ve^o</orth>
 connu_bi^a_lisconnu_bi^umcon-nu_bi^a_li^ter	
+:le:connubialisconnubiumconnubialiter
+:wd:connu_bi^a_lisconnu_bi^umcon-nu_bi^a_li^ter		adverb
+
 connu_da_tus		
 :le:connudatus
 :aj:connu_da_t	us_a_um
@@ -46085,6 +46284,9 @@ conso^na_ti^o
 
 
 conso^nanter	
+:le:consonanter
+:wd:conso^nanter		adverb
+
 con-so^nus		
 :le:consonus
 :aj:con-so^n	us_a_um
@@ -46340,6 +46542,9 @@ consti^tu_to_ri^us
 
 
 constanter	
+:le:constanter
+:wd:constanter		adverb
+
 con-stra_tor		
 :le:constrator
 :no:con-stra_t	or_oLris masc
@@ -46431,6 +46636,9 @@ consu^la_ris
 
 	<pos>adj.</pos>
 consu^la_ri^ter	
+:le:consulariter
+:wd:consu^la_ri^ter		adverb
+
 consu^la_ri^tas		
 :le:consularitas
 :no:consu^la_ri^	tas_tatis fem
@@ -46640,6 +46848,9 @@ conta_tus#2
 
 
 contemnenter	
+:le:contemnenter
+:wd:contemnenter		adverb
+
 contemni^-fi^cus		
 :le:contemnificus
 :aj:contemni^-fi^c	us_a_um
@@ -46656,6 +46867,9 @@ contempla_bi^lis
 
 
 contempla_bi^li^ter	
+:le:contemplabiliter
+:wd:contempla_bi^li^ter		adverb
+
 contempla_bundus		
 :le:contemplabundus
 :aj:contempla_bund	us_a_um
@@ -47217,6 +47431,9 @@ con-tu^max
 
 	<pos>adv.</pos>
 contu^ma_ci^ter	
+:le:contumaciter
+:wd:contu^ma_ci^ter		adverb
+
 con-tu^me_li^a		<orth>contu^mi^a</orth>	
 :le:contumelia
 :no:con-tu^me_li^	a_ae fem
@@ -47288,6 +47505,9 @@ co_nu_bi^a_lis		<orth>connu_-bi^a_lis</orth>
 
 
 co_-nu_bi^a_li^ter	
+:le:conubialiter
+:wd:co_-nu_bi^a_li^ter		adverb
+
 co_nu_bi^um		<orth>connu_-bi^um</orth>	
 :le:conubium
 :no:co_nu_bi^	us_i neut
@@ -47351,7 +47571,11 @@ conve^na
 :no:conve^n	a_ae fem
 
 
-conve^nae		<itype>a_rum</itype>
+conve^nae		
+:le:convenae
+:no:conve^n	a_ae fem pl
+
+
 Conve^nae		
 :le:Convenae
 :no:Conve^n	a_ae masc pl
@@ -47429,6 +47653,9 @@ converti^bi^lis		<orth type=alt>convers-</orth>
 
 
 con-verti^bi^li^ter	
+:le:convertibiliter
+:wd:con-verti^bi^li^ter		adverb
+
 con-vescor		<itype>vesci</itype>
 con-ve^te^ra_nus		
 :le:conveteranus
@@ -48546,6 +48773,9 @@ corpo^ra_lis
 
 
 corpo^ra_li^ter	
+:le:corporaliter
+:wd:corpo^ra_li^ter		adverb
+
 corpo^ra_li^tas		
 :le:corporalitas
 :no:corpo^ra_li^	tas_tatis fem
@@ -48596,7 +48826,11 @@ corpu^lentus
 :aj:corpu^lent	us_a_um
 
 
-corpus		<itype>o^is</itype>	<gen>n.</gen>
+corpus		
+:le:corpus
+:no:corp	us_oris neut
+
+
 corpuscu^lum		
 :le:corpusculum
 :no:corpuscu^l	us_i neut
@@ -49807,6 +50041,9 @@ cre_di^bi^lis
 
 
 cre_di^bi^li^ter	
+:le:credibiliter
+:wd:cre_di^bi^li^ter		adverb
+
 cre_di^tor		
 :le:creditor
 :no:cre_di^t	or_oLris masc
@@ -50214,6 +50451,9 @@ cri_mi^na_lis
 
 
 cri_mi^na_li^ter	
+:le:criminaliter
+:wd:cri_mi^na_li^ter		adverb
+
 cri_mi^na_ti^o		
 :le:criminatio
 :no:cri_mi^na_ti^	o_oLnis fem
@@ -50642,6 +50882,9 @@ cru^ci^a_bi^lis
 
 
 cru^ci^a_bi^li^ter	
+:le:cruciabiliter
+:wd:cru^ci^a_bi^li^ter		adverb
+
 cru^ci^a_bi^li^tas		
 :le:cruciabilitas
 :no:cru^ci^a_bi^li^	tas_tatis fem
@@ -50702,6 +50945,9 @@ cru_de_lis
 
 cru_de_le^		<pos>adj.</pos>
 cru_de_li^ter	
+:le:crudeliter
+:wd:cru_de_li^ter		adverb
+
 cru_de_li^tas		
 :le:crudelitas
 :no:cru_de_li^	tas_tatis fem
@@ -51311,6 +51557,9 @@ culpa_bi^lis
 
 
 culpa_bi^li^ter	
+:le:culpabiliter
+:wd:culpa_bi^li^ter		adverb
+
 culpa_ti^o		
 :le:culpatio
 :no:culpa_ti^	o_oLnis fem
@@ -51385,7 +51634,11 @@ cu_lus
 cum#1		<orth>quom</orth>	<orth>quum</orth>	<pos>prep.</pos>
 cumpri_mis	
 Cum#2		<orth>quom</orth>	<orth>quum</orth>	<orth type=alt>historical present</orth>	<itype>both clauses denoting points of time</itype>
-Cu_mae		<itype>a_rum</itype>
+Cu_mae		
+:le:Cumae
+:no:Cu_m	a_ae fem pl
+
+
 Cy_me_		
 :le:Cyme
 :no:Cy_m	e_es fem
@@ -51494,7 +51747,11 @@ cu_na_bu^la
 :no:cu_na_bu^l	us_i neut pl
 
 
-cu_nae		<itype>a_rum</itype>
+cu_nae		
+:le:cunae
+:no:cu_n	a_ae fem pl
+
+
 cu_na		
 :le:cuna
 :no:cu_n	a_ae fem
@@ -51556,6 +51813,9 @@ cuncti^-po^tens
 
 	<pos>adj.</pos>
 cunctanter	
+:le:cunctanter
+:wd:cunctanter		adverb
+
 cunctus		
 :le:cunctus
 :aj:cunct	us_a_um
@@ -51724,6 +51984,9 @@ Cu^pi^enni^us
 
 cu^pi^ens		<itype>entis</itype>
 cu^pi^enter	
+:le:cupienter
+:wd:cu^pi^enter		adverb
+
 cu^pi_tor		
 :le:cupitor
 :no:cu^pi_t	or_oLris masc
@@ -52319,7 +52582,11 @@ Cu^ti^li^a
 :no:Cu^ti^li^	a_ae fem
 
 
-Cu^ti^li^ae		<itype>a_rum</itype>
+Cu^ti^li^ae		
+:le:Cutiliae
+:no:Cu^ti^li^	a_ae fem pl
+
+
 Cu^ti^li^ensis		
 :le:Cutiliensis
 :aj:Cu^ti^li^ens	is_e
@@ -52979,7 +53246,11 @@ Cy^pa^rissa		<orth type=alt>-ia</orth>
 :no:Cy^pa^riss	a_ae fem
 
 
-Cy^pa^rissae		<itype>a_rum</itype>
+Cy^pa^rissae		
+:le:Cyparissae
+:no:Cy^pa^riss	a_ae fem pl
+
+
 Cy^pa^rissi^us		
 :le:Cyparissius
 :aj:Cy^pa^riss	ius_ia_ium
@@ -53707,6 +53978,9 @@ damna_bi^lis
 
 
 damna_bi^li^ter	
+:le:damnabiliter
+:wd:damna_bi^li^ter		adverb
+
 damnas		<itype>indecl.</itype>
 damna_tici^us		
 :le:damnaticius
@@ -54207,6 +54481,9 @@ de_bi^lis
 
 
 de_bi^li^ter	
+:le:debiliter
+:wd:de_bi^li^ter		adverb
+
 de_bi^li^tas		
 :le:debilitas
 :no:de_bi^li^	tas_tatis fem
@@ -54394,6 +54671,9 @@ de^cemvi^ra_lis
 
 
 de^cemvi^ra_li^ter	
+:le:decemviraliter
+:wd:de^cemvi^ra_li^ter		adverb
+
 de^cemvi^ra_tus		
 :le:decemviratus
 :no:de^cemvi^ra_t	us_us masc
@@ -54521,6 +54801,9 @@ de_cessus
 
 
 decenter	
+:le:decenter
+:wd:decenter		adverb
+
 De^cetia		
 :le:Decetia
 :no:De^ceti	a_ae fem
@@ -54723,6 +55006,9 @@ declive
 
 
 de_cli_vi^ter	
+:le:decliviter
+:wd:de_cli_vi^ter		adverb
+
 de_cli_vi^tas		
 :le:declivitas
 :no:de_cli_vi^	tas_tatis fem
@@ -54789,6 +55075,9 @@ de^co^ris
 
 de^co^r		<pos>adj.</pos>
 de^co^ri^ter	
+:le:decoriter
+:wd:de^co^ri^ter		adverb
+
 de^-co^ra_tus		
 :le:decoratus
 :aj:de^-co^ra_t	us_a_um
@@ -55188,6 +55477,9 @@ de_fensi^bi^lis
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 de_fensi^bi^li^ter	
+:le:defensibiliter
+:wd:de_fensi^bi^li^ter		adverb
+
 de_fensi^o		
 :le:defensio
 :no:de_fensi^	o_oLnis fem
@@ -55332,12 +55624,18 @@ de_-formis
 
 
 de_formi^-ter	
+:le:deformiter
+:wd:de_formi^-ter		adverb
+
 de_formi^tas		
 :le:deformitas
 :no:de_formi^	tas_tatis fem
 
 
 de_formi^ter	
+:le:deformiter
+:wd:de_formi^ter		adverb
+
 de_frauda_ti^o		
 :le:defraudatio
 :no:de_frauda_ti^	o_oLnis fem
@@ -55627,6 +55925,9 @@ de_lecta_bi^lis
 
 
 delec-tabiliter	
+:le:delectabiliter
+:wd:delec-tabiliter		adverb
+
 de_lecta_mentum		
 :le:delectamentum
 :no:de_lecta_ment	us_i neut
@@ -56090,6 +56391,9 @@ de_me^a_cu^lum
 de-meio	
 de_-mens		<itype>entis</itype>
 de_menter	
+:le:dementer
+:wd:de_menter		adverb
+
 de_mensi^o		
 :le:demensio
 :no:de_mensi^	o_oLnis fem
@@ -57184,6 +57488,9 @@ de_si_de^ra_bi^lis
 
 
 de_si_-de^ra_bi^li^ter	
+:le:desiderabiliter
+:wd:de_si_-de^ra_bi^li^ter		adverb
+
 de_si_de^ra_ti^o		
 :le:desideratio
 :no:de_si_de^ra_ti^	o_oLnis fem
@@ -57628,6 +57935,9 @@ de_testa_bi^lis
 
 
 de_testa_bi^li^ter	
+:le:detestabiliter
+:wd:de_testa_bi^li^ter		adverb
+
 de_testa_ti^o#1		
 :le:detestatio#1
 :no:de_testa_ti^	o_oLnis fem
@@ -58835,6 +59145,9 @@ diffe^ri^tas
 
 diffe^-rens		<itype>entis</itype>
 diffe^ren-ter	
+:le:differenter
+:wd:diffe^ren-ter		adverb
+
 dif-fertus		
 :le:differtus
 :aj:dif-fert	us_a_um
@@ -58848,12 +59161,18 @@ dif-fi^ci^lis
 	<pos>adv.</pos>
 diffi^ci^le_		<orth>diffi^culter</orth>	<orth>diffi^ci^l-i^ter</orth>
 diffi^ci^li^ter	
+:le:difficiliter
+:wd:diffi^ci^li^ter		adverb
+
 diffi^cultas		
 :le:difficultas
 :no:diffi^cul	tas_tatis fem
 
 
 diffi^culter	
+:le:difficulter
+:wd:diffi^culter		adverb
+
 diffi_denti^a		
 :le:diffidentia
 :no:diffi_denti^	a_ae fem
@@ -58862,6 +59181,9 @@ diffi_denti^a
 dif-fi_do		<itype>fi_sus</itype>
 diffi_dens		<itype>entis</itype>
 diffi_denter	
+:le:diffidenter
+:wd:diffi_denter		adverb
+
 dif-findo		<itype>fi^di, fissum</itype>
 diffissi^o		
 :le:diffissio
@@ -59068,6 +59390,9 @@ digni^to_sus
 
 
 dignanter	
+:le:dignanter
+:wd:dignanter		adverb
+
 di_gno_rant		<itype>signa imponunt, ut fieri solet in pecoribus</itype>
 di_gnoscenti^a		
 :le:dignoscentia
@@ -59887,6 +60212,9 @@ disci_^pli_na_bi^lis
 
 	<pos>adv.</pos>
 disci_^pli_na_-bi^li^ter	
+:le:disciplinabiliter
+:wd:disci_^pli_na_-bi^li^ter		adverb
+
 disci_^pli_na_tus		
 :le:disciplinatus
 :aj:disci_^pli_na_t	us_a_um
@@ -60221,6 +60549,9 @@ dis-pa^ri^lis
 
 
 dispa^ri^li^ter	
+:le:dispariliter
+:wd:dispa^ri^li^ter		adverb
+
 dispa^ri^li^tas		
 :le:disparilitas
 :no:dispa^ri^li^	tas_tatis fem
@@ -61140,6 +61471,9 @@ do^ci^lis
 
 
 do^ci^li^ter	
+:le:dociliter
+:wd:do^ci^li^ter		adverb
+
 do^ci^li^tas		
 :le:docilitas
 :no:do^ci^li^	tas_tatis fem
@@ -61349,6 +61683,9 @@ do^lentu^lus
 
 
 do^len-ter	
+:le:dolenter
+:wd:do^len-ter		adverb
+
 do_li^a_ris		
 :le:doliaris
 :aj:do_li^a_r	is_e
@@ -62285,6 +62622,9 @@ du^ca_lis
 
 
 du^ca_li^ter	
+:le:ducaliter
+:wd:du^ca_li^ter		adverb
+
 du^ca_tor		
 :le:ducator
 :no:du^ca_t	or_oLris masc
@@ -62699,6 +63039,9 @@ du_^plex
 
 
 du_^-pli^ci^ter	
+:le:dupliciter
+:wd:du_^-pli^ci^ter		adverb
+
 du_^pli^ca_ri^us		
 :le:duplicarius
 :no:du_^pli^ca_r	ius_i masc
@@ -62772,6 +63115,9 @@ du_ra_bi^lis
 
 
 du_ra_bi^li^ter	
+:le:durabiliter
+:wd:du_ra_bi^li^ter		adverb
+
 du_ra_bi^li^tas		
 :le:durabilitas
 :no:du_ra_bi^li^	tas_tatis fem
@@ -63853,6 +64199,9 @@ effi^cax
 
 	<pos>adv.</pos>
 effi^ca_ci^ter	
+:le:efficaciter
+:wd:effi^ca_ci^ter		adverb
+
 effi^ci^enti^a		
 :le:efficientia
 :no:effi^ci^enti^	a_ae fem
@@ -64419,6 +64768,9 @@ e_le^gantes
 
 	<pos>adv.</pos>
 e_le^ganter	
+:le:eleganter
+:wd:e_le^ganter		adverb
+
 e_le^ganter		
 :le:eleganter
 :wd:e_le^ganter	adverb
@@ -65172,6 +65524,9 @@ e_mi^nenti^a
 
 
 e_mi^nenter	
+:le:eminenter
+:wd:e_mi^nenter		adverb
+
 e_mi^nu^lus		
 :le:eminulus
 :aj:e_mi^nu^l	us_a_um
@@ -65686,6 +66041,9 @@ e_-nervis
 
 
 enervi^ter	
+:le:enerviter
+:wd:enervi^ter		adverb
+
 e_nervus		
 :le:enervus
 :aj:e_nerv	us_a_um
@@ -66659,6 +67017,9 @@ e^pi_sco^pa_lis
 
 
 e^pi_sco^pa_li^ter	
+:le:episcopaliter
+:wd:e^pi_sco^pa_li^ter		adverb
+
 e^pi_sco^pa_tus		
 :le:episcopatus
 :no:e^pi_sco^pa_t	us_us masc
@@ -69035,6 +69396,9 @@ e_-vi^dens
 
 
 e_vi^denter	
+:le:evidenter
+:wd:e_vi^denter		adverb
+
 e_vi^denti^a		
 :le:evidentia
 :no:e_vi^denti^	a_ae fem
@@ -69794,6 +70158,9 @@ excu_sa_bi^lis		<orth type=alt>excuss-</orth>
 
 
 excu_sa_bi^li^ter	
+:le:excusabiliter
+:wd:excu_sa_bi^li^ter		adverb
+
 excu_sa_bundus		<orth type=alt>excuss-</orth>	
 :le:excusabundus
 :aj:excu_sa_bund	us_a_um
@@ -70127,6 +70494,9 @@ exi_lis
 
 	<pos>adv.</pos>
 exi_li^ter	
+:le:exiliter
+:wd:exi_li^ter		adverb
+
 exi_li^tas		
 :le:exilitas
 :no:exi_li^	tas_tatis fem
@@ -70184,12 +70554,18 @@ exi^ti^a_bi^lis
 
 
 exi^ti^a_-bi^li^ter	
+:le:exitiabiliter
+:wd:exi^ti^a_-bi^li^ter		adverb
+
 exi^ti^a_lis		
 :le:exitialis
 :aj:exi^ti^a_l	is_e
 
 
 exi^ti^a_li^ter	
+:le:exitialiter
+:wd:exi^ti^a_li^ter		adverb
+
 exi^ti^o		
 :le:exitio
 :no:exi^ti^	o_oLnis fem
@@ -70637,6 +71013,9 @@ expli^ca_bi^lis
 
 
 ex-pli^ca_bi^li^ter	
+:le:explicabiliter
+:wd:ex-pli^ca_bi^li^ter		adverb
+
 expli^canter		
 :le:explicanter
 :wd:expli^canter	adverb
@@ -70953,6 +71332,9 @@ exse_^cra_bi^lis		<orth type=alt>execr-</orth>
 
 
 exse_^cra_bi^li^ter	
+:le:exsecrabiliter
+:wd:exse_^cra_bi^li^ter		adverb
+
 exse_^cra_bi^li^tas		<orth type=alt>execr-</orth>	
 :le:exsecrabilitas
 :no:exse_^cra_bi^li^	tas_tatis fem
@@ -71269,6 +71651,9 @@ exsultim		<orth type=alt>exult-</orth>
 
 
 exsultanter	
+:le:exsultanter
+:wd:exsultanter		adverb
+
 exsu^pe^ra_bi^lis		<orth type=alt>exup-</orth>	
 :le:exsuperabilis
 :aj:exsu^pe^ra_bi^l	is_e
@@ -71345,6 +71730,9 @@ extempo^ra_lis
 
 
 extempo^ra_li^ter	
+:le:extemporaliter
+:wd:extempo^ra_li^ter		adverb
+
 extempo^ra_li^tas		
 :le:extemporalitas
 :no:extempo^ra_li^	tas_tatis fem
@@ -71823,6 +72211,9 @@ fa_^bri_lis
 
 fabri_li^a		<itype>ium</itype>
 fa_^bri_li^ter	
+:le:fabriliter
+:wd:fa_^bri_li^ter		adverb
+
 fa_bu^la#1		
 :le:fabula#1
 :no:fa_bu^l	a_ae fem
@@ -72417,6 +72808,9 @@ fallax
 
 	<pos>adv.</pos>
 falla_ci^ter	
+:le:fallaciter
+:wd:falla_ci^ter		adverb
+
 falsus		
 :le:falsus
 :no:fals	us_i masc
@@ -73665,6 +74059,9 @@ fe_ra_lis	<itype>Hence</itype>
 
 
 fe_ra_li^ter	
+:le:feraliter
+:wd:fe_ra_li^ter		adverb
+
 feratrina	
 fe^rax		
 :le:ferax
@@ -73672,6 +74069,9 @@ fe^rax
 
 	<pos>adv.</pos>
 fe^ra_ci^ter	
+:le:feraciter
+:wd:fe^ra_ci^ter		adverb
+
 fercu^lum		
 :le:ferculum
 :no:fercu^l	us_i neut
@@ -73805,6 +74205,9 @@ fe^rox
 
 	<pos>adv.</pos>
 fe^ro_ci^ter	
+:le:ferociter
+:wd:fe^ro_ci^ter		adverb
+
 ferra_menta_ri^us		
 :le:ferramentarius
 :no:ferra_menta_r	ius_i masc
@@ -73923,6 +74326,9 @@ ferti^lis
 
 	<pos>adv.</pos>
 ferti^li^ter	
+:le:fertiliter
+:wd:ferti^li^ter		adverb
+
 ferti^li^tas		
 :le:fertilitas
 :no:ferti^li^	tas_tatis fem
@@ -73996,6 +74402,9 @@ fe^ra
 
 
 ferventer	
+:le:ferventer
+:wd:ferventer		adverb
+
 fervi^dus		
 :le:fervidus
 :aj:fervi^d	us_a_um
@@ -74136,7 +74545,11 @@ Festus#2
 :no:Fest	us_i masc
 
 
-Fe_su^lae		<itype>a_rum</itype>
+Fe_su^lae		
+:le:Fesulae
+:no:Fe_su^l	a_ae fem pl
+
+
 Fe_su^la_nus		
 :le:Fesulanus
 :aj:Fe_su^la_n	us_a_um
@@ -74473,7 +74886,11 @@ fi^de_li^tas
 :no:fi^de_li^	tas_tatis fem
 
 
-Fi_de_nae		<itype>a_rum</itype>
+Fi_de_nae		
+:le:Fidenae
+:no:Fi_de_n	a_ae fem pl
+
+
 Fi_de_na		
 :le:Fidena
 :no:Fi_de_n	a_ae fem
@@ -74521,7 +74938,11 @@ fi^di^ci^nus
 :aj:fi^di^ci^n	us_a_um
 
 
-fi^di^cu^lae		<itype>a_rum</itype>
+fi^di^cu^lae		
+:le:fidiculae
+:no:fi^di^cu^l	a_ae fem pl
+
+
 fidicula		
 :le:fidicula
 :no:fidicul	a_ae fem
@@ -74549,6 +74970,9 @@ Fi^di^us
 
 fi_dens		<itype>entis</itype>
 fi_denter	
+:le:fidenter
+:wd:fi_denter		adverb
+
 fi_du_ci^a		
 :le:fiducia
 :no:fi_du_ci^	a_ae fem
@@ -74794,6 +75218,9 @@ fi_na_lis
 
 
 fi_-na_li^ter	
+:le:finaliter
+:wd:fi_-na_li^ter		adverb
+
 fi_na_li^tas		
 :le:finalitas
 :no:fi_na_li^	tas_tatis fem
@@ -75444,6 +75871,9 @@ fle_bi^lis
 
 	<pos>adv.</pos>
 fle_bi^li^ter	
+:le:flebiliter
+:wd:fle_bi^li^ter		adverb
+
 fle_mi^na		
 :le:flemina
 :no:fle_mi^n	0_is neut pl
@@ -75592,6 +76022,9 @@ Flo_-renti_ni
 florens		<itype>ntis</itype>	<gen>f.</gen>
 flo_rentes		<itype>um</itype>
 flo_renter	
+:le:florenter
+:wd:flo_renter		adverb
+
 flo_re^us		
 :le:floreus
 :aj:flo_re^	us_a_um
@@ -76528,6 +76961,9 @@ fortis
 
 	<pos>adv.</pos>
 forti^ter	
+:le:fortiter
+:wd:forti^ter		adverb
+
 forti^tu_do		
 :le:fortitudo
 :no:forti^tu_d	o_inis fem
@@ -76753,6 +77189,9 @@ fra_granti^a
 
 
 fra_granter	
+:le:fragranter
+:wd:fra_granter		adverb
+
 fra_gum		
 :le:fragum
 :no:fra_g	us_i neut
@@ -76873,6 +77312,9 @@ fraudu^lentus
 
 
 fraudu^lenter	
+:le:fraudulenter
+:wd:fraudu^lenter		adverb
+
 fraudu^lo_sus		
 :le:fraudulosus
 :aj:fraudu^lo_s	us_a_um
@@ -76980,6 +77422,9 @@ fre^quens
 
 	<pos>adv.</pos>
 fre^-quenter	
+:le:frequenter
+:wd:fre^-quenter		adverb
+
 fre^quenta_mentum		
 :le:frequentamentum
 :no:fre^quenta_ment	us_i neut
@@ -77378,6 +77823,9 @@ fru_ga_lis
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 fru_ga_li^ter	
+:le:frugaliter
+:wd:fru_ga_li^ter		adverb
+
 fru_ga_li^tas		<itype>ta_tis</itype>	<gen>f.</gen>
 fru_ga_menta		<itype>a frugibus appellata</itype>
 fru_gi^fer		
@@ -77659,6 +78107,9 @@ fu^gax
 
 	<pos>adv.</pos>
 fu^ga_ci^-ter	
+:le:fugaciter
+:wd:fu^ga_ci^-ter		adverb
+
 fu^ge_la		
 :le:fugela
 :no:fu^ge_l	a_ae fem
@@ -77720,6 +78171,9 @@ Fulgenti^us
 
 
 fulgenter	
+:le:fulgenter
+:wd:fulgenter		adverb
+
 fulge_^trum		
 :le:fulgetrum
 :no:fulge_^tr	us_i neut
@@ -78236,6 +78690,9 @@ fu_rax
 
 
 fu_ra_ci^ter	
+:le:furaciter
+:wd:fu_ra_ci^ter		adverb
+
 furca		
 :le:furca
 :no:furc	a_ae fem
@@ -78318,6 +78775,9 @@ fu^ri^a_lis
 
 
 fu^ri^a_li^ter	
+:le:furialiter
+:wd:fu^ri^a_li^ter		adverb
+
 fu^ri^a_ti^lis		
 :le:furiatilis
 :aj:fu^ri^a_ti^l	is_e
@@ -78748,7 +79208,11 @@ Ga_di_ta_ni
 :no:Ga_di_ta_n	us_i masc pl
 
 
-Ga_di_ta_nae		<itype>a_rum</itype>
+Ga_di_ta_nae		
+:le:Gaditanae
+:no:Ga_di_ta_n	a_ae fem pl
+
+
 Ga_di_ta_nus		<itype>i</itype>
 gaesa_ti		
 :le:gaesati
@@ -79292,7 +79756,11 @@ Gallus
 :no:Gall	us_i masc
 
 
-Gallae		<itype>a_rum</itype>
+Gallae		
+:le:Gallae
+:no:Gall	a_ae fem pl
+
+
 Galli^cus		
 :le:Gallicus
 :aj:Galli^c	us_a_um
@@ -79566,6 +80034,9 @@ gassinades
 
 gaster		<itype>te^ris, and tri</itype>	<gen>f.</gen>
 gauden-ter	
+:le:gaudenter
+:wd:gauden-ter		adverb
+
 gaudi^a_lis		
 :le:gaudialis
 :aj:gaudi^a_l	is_e
@@ -80047,6 +80518,9 @@ ge^ne^ra_lis
 
 	<pos>adv.</pos>
 ge^ne^ra_li^ter	
+:le:generaliter
+:wd:ge^ne^ra_li^ter		adverb
+
 ge^ne^ra_li^tas		
 :le:generalitas
 :no:ge^ne^ra_li^	tas_tatis fem
@@ -80160,6 +80634,9 @@ ge^ni^a_li^a
 
 	<pos>adv.</pos>
 ge^ni^a_li^ter	
+:le:genialiter
+:wd:ge^ni^a_li^ter		adverb
+
 ge^ni^a_li^tas		
 :le:genialitas
 :no:ge^ni^a_li^	tas_tatis fem
@@ -80236,6 +80713,9 @@ ge^-ni^ta_le
 
 	<pos>adv.</pos>
 ge^ni^ta_li^ter	
+:le:genitaliter
+:wd:ge^ni^ta_li^ter		adverb
+
 ge^ni^tor		
 :le:genitor
 :no:ge^ni^t	or_oLris masc
@@ -80291,6 +80771,9 @@ genti_les		<orth>genti_lis</orth>
 
 	<pos>adv.</pos>
 genti_li^ter	
+:le:gentiliter
+:wd:genti_li^ter		adverb
+
 genti_li^tas		
 :le:gentilitas
 :no:genti_li^	tas_tatis fem
@@ -81344,6 +81827,9 @@ glo_ria_tus
 
 
 glo_rian-ter	
+:le:glorianter
+:wd:glo_rian-ter		adverb
+
 glo_ri^o_sus		
 :le:gloriosus
 :aj:glo_ri^o_s	us_a_um
@@ -81924,6 +82410,9 @@ gra^ci^lus
 
 	<pos>adv.</pos>
 gra^ci^li^ter	
+:le:graciliter
+:wd:gra^ci^li^ter		adverb
+
 gra^ci^li^tas		
 :le:gracilitas
 :no:gra^ci^li^	tas_tatis fem
@@ -82164,6 +82653,9 @@ gramma^ti^ca_lis
 
 
 gramma^ti^-ca_li^ter	
+:le:grammaticaliter
+:wd:gramma^ti^-ca_li^ter		adverb
+
 gramma^ti^ce#1	
 gramma^ti^ce_#2		
 :le:grammatice#2
@@ -82602,7 +83094,14 @@ gra^vis
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 gra^vi^ter	
-Gra^viscae		<itype>a_rum</itype>
+:le:graviter
+:wd:gra^vi^ter		adverb
+
+Gra^viscae		
+:le:Graviscae
+:no:Gra^visc	a_ae fem pl
+
+
 Gra^visca		
 :le:Gravisca
 :no:Gra^visc	a_ae fem
@@ -83245,6 +83744,9 @@ ha^bi^lis
 
 	<pos>adv.</pos>
 ha^bi^li^ter	
+:le:habiliter
+:wd:ha^bi^li^ter		adverb
+
 ha^bi^li^tas		
 :le:habilitas
 :no:ha^bi^li^	tas_tatis fem
@@ -86399,7 +86901,11 @@ Hi_lo_tae
 :no:Hi_lo_t	a_ae masc pl
 
 
-Ilotae		<itype>a_rum</itype>
+Ilotae		
+:le:Ilotae
+:no:Ilot	a_ae fem pl
+
+
 hi_lum		
 :le:hilum
 :no:hi_l	us_i neut
@@ -86906,7 +87412,11 @@ Hispa_ne_		<orth>Hispa_-ni^a</orth>
 :no:Hispa_n	a_ae fem
 
 
-Hispa_niae		<itype>a_rum</itype>
+Hispa_niae		
+:le:Hispaniae
+:no:Hispa_ni	a_ae fem pl
+
+
 Hispa_ni^ensis		
 :le:Hispaniensis
 :aj:Hispa_ni^ens	is_e
@@ -87367,6 +87877,9 @@ ho^no_ra_bi^lis
 
 
 ho^no_ra_bi^li^ter	
+:le:honorabiliter
+:wd:ho^no_ra_bi^li^ter		adverb
+
 ho^no_ra_ri^us		
 :le:honorarius
 :aj:ho^no_ra_r	ius_ia_ium
@@ -87445,7 +87958,11 @@ ho_ra#1
 :no:ho_r	a_ae fem
 
 
-ho_rae		<itype>a_rum</itype>
+ho_rae		
+:le:horae
+:no:ho_r	a_ae fem pl
+
+
 Ho_rae		
 :le:Horae
 :no:Ho_r	a_ae fem pl
@@ -87661,6 +88178,9 @@ horri^bi^lis
 
 	<pos>adv.</pos>
 horri^bi^li^ter	
+:le:horribiliter
+:wd:horri^bi^li^ter		adverb
+
 horri^co^mis		
 :le:horricomis
 :aj:horri^co^m	is_e
@@ -87872,6 +88392,9 @@ hospi^ta_lia
 
 	<pos>adv.</pos>
 hospi^ta_li^ter	
+:le:hospitaliter
+:wd:hospi^ta_li^ter		adverb
+
 hospi^ta_li^tas		
 :le:hospitalitas
 :no:hospi^ta_li^	tas_tatis fem
@@ -87948,6 +88471,9 @@ hosti_le
 
 	<pos>adv.</pos>
 hosti_-li^ter	
+:le:hostiliter
+:wd:hosti_-li^ter		adverb
+
 hosti_li^tas		
 :le:hostilitas
 :no:hosti_li^	tas_tatis fem
@@ -88059,6 +88585,9 @@ hu^mi^le
 
 	<pos>adv.</pos>
 hu^mi^li^ter	
+:le:humiliter
+:wd:hu^mi^li^ter		adverb
+
 hu^mi^li^tas		
 :le:humilitas
 :no:hu^mi^li^	tas_tatis fem
@@ -89920,6 +90449,9 @@ igno_bi^lis
 
 
 igno_bi^li^ter	
+:le:ignobiliter
+:wd:igno_bi^li^ter		adverb
+
 igno_bi^li^tas		
 :le:ignobilitas
 :no:igno_bi^li^	tas_tatis fem
@@ -89952,6 +90484,9 @@ igno_ra_bi^lis
 
 
 igno_ra_bi^li^ter	
+:le:ignorabiliter
+:wd:igno_ra_bi^li^ter		adverb
+
 igno_ranti^a		
 :le:ignorantia
 :no:igno_ranti^	a_ae fem
@@ -89963,6 +90498,9 @@ igno_ra_ti^o
 
 
 igno_-ranter	
+:le:ignoranter
+:wd:igno_-ranter		adverb
+
 ignoscenti^a		
 :le:ignoscentia
 :no:ignoscenti^	a_ae fem
@@ -90436,6 +90974,9 @@ illi_be^ra_lis		<orth type=alt>inl-</orth>
 
 
 illi_be^ra_li^ter	
+:le:illiberaliter
+:wd:illi_be^ra_li^ter		adverb
+
 illi_be^ra_li^tas		<orth type=alt>inl-</orth>	
 :le:illiberalitas
 :no:illi_be^ra_li^	tas_tatis fem
@@ -90588,6 +91129,9 @@ illo^ca_lis
 
 	<pos>adv.</pos>
 illo^-ca_li^ter	
+:le:illocaliter
+:wd:illo^-ca_li^ter		adverb
+
 illo_tus		<orth>inl-</orth>	<orth type=alt>illautus</orth>	<orth>illu_tus</orth>	
 :le:illotus
 :aj:illo_t	us_a_um
@@ -90773,7 +91317,11 @@ Illy^ri^a
 :no:Illy^ri^	a_ae fem
 
 
-Illy^ri^ae		<itype>a_rum</itype>
+Illy^ri^ae		
+:le:Illyriae
+:no:Illy^ri^	a_ae fem pl
+
+
 Illy^ri^cus		<orth>Illuricus</orth>	
 :le:Illyricus
 :aj:Illy^ri^c	us_a_um
@@ -90851,6 +91399,9 @@ i^ma_gi^na_lis
 
 
 i^ma_gi^na_li^-ter	
+:le:imaginaliter
+:wd:i^ma_gi^na_li^-ter		adverb
+
 i^ma_gi^na_ri^us		
 :le:imaginarius
 :aj:i^ma_gi^na_r	ius_ia_ium
@@ -91333,6 +91884,9 @@ immi^se^ri^cordi^a		<orth type=alt>inm-</orth>
 
 immi^se^ri^cors		<orth type=alt>inm-</orth>	<itype>ordis</itype>	<pos>adj.</pos>
 immi^se^ri^cordi^ter	
+:le:immisericorditer
+:wd:immi^se^ri^cordi^ter		adverb
+
 immissa_ri^um		<orth type=alt>inm-</orth>	
 :le:immissarium
 :no:immissa_r	ius_i neut
@@ -91490,6 +92044,9 @@ immorta_les
 
 	<pos>adv.</pos>
 immorta_-li^ter	
+:le:immortaliter
+:wd:immorta_-li^ter		adverb
+
 immorta_li^tas		<orth type=alt>inm-</orth>	
 :le:immortalitas
 :no:immorta_li^	tas_tatis fem
@@ -91587,6 +92144,9 @@ immu_ta_bi^lis#1		<orth type=alt>inm-</orth>
 
 
 immu_ta_bi^li^ter	
+:le:immutabiliter
+:wd:immu_ta_bi^li^ter		adverb
+
 immu_ta_bi^lis#2		<orth type=alt>inm-</orth>	
 :le:immutabilis#2
 :aj:immu_ta_bi^l	is_e
@@ -91695,6 +92255,9 @@ impalpe^bra_ti^o		<orth type=alt>inp-</orth>
 
 impar		<orth type=alt>inp-</orth>	<itype>a^ris</itype>	<pos>adj.</pos>
 impa^ri^ter	
+:le:impariter
+:wd:impa^ri^ter		adverb
+
 impa^ra_ti^o		<orth type=alt>inp-</orth>	
 :le:imparatio
 :no:impa^ra_ti^	o_oLnis fem
@@ -91723,6 +92286,9 @@ impa^ri^lis		<orth type=alt>inp-</orth>
 
 	<pos>adv.</pos>
 impa^ri^li^ter	
+:le:impariliter
+:wd:impa^ri^li^ter		adverb
+
 impa^ri^li^tas		<orth type=alt>inp-</orth>	
 :le:imparilitas
 :no:impa^ri^li^	tas_tatis fem
@@ -91746,6 +92312,9 @@ impassi^bi^lis		<orth type=alt>inp-</orth>
 
 
 impassi^bi^-li^ter	
+:le:impassibiliter
+:wd:impassi^bi^-li^ter		adverb
+
 impassi^bi^li^tas		<orth type=alt>inp-</orth>	
 :le:impassibilitas
 :no:impassi^bi^li^	tas_tatis fem
@@ -91768,6 +92337,9 @@ impa^ti^ens		<orth type=alt>inp-</orth>
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 impa^ti^enter	
+:le:impatienter
+:wd:impa^ti^enter		adverb
+
 impa^ti^enti^a		<orth type=alt>inp-</orth>	
 :le:impatientia
 :no:impa^ti^enti^	a_ae fem
@@ -91783,6 +92355,9 @@ impausa_bi^lis		<orth type=alt>inp-</orth>
 
 
 impausa_bi^li^ter	
+:le:impausabiliter
+:wd:impausa_bi^li^ter		adverb
+
 impa^vi^dus		<orth type=alt>inp-</orth>	
 :le:impavidus
 :aj:impa^vi^d	us_a_um
@@ -91993,6 +92568,9 @@ impe^ri^a_lis		<orth type=alt>inp-</orth>
 
 
 impe^ri^a_li^ter	
+:le:imperialiter
+:wd:impe^ri^a_li^ter		adverb
+
 impe^ri^o_sus		<orth>inp-</orth>	
 :le:imperiosus
 :aj:impe^ri^o_s	us_a_um
@@ -92078,6 +92656,9 @@ imperso_na_lis		<orth type=alt>inp-</orth>
 
 
 imperso_na_li^ter	
+:le:impersonaliter
+:wd:imperso_na_li^ter		adverb
+
 imperso_na_ti_vus		<orth type=alt>inp-</orth>	
 :le:impersonativus
 :no:imperso_na_ti_v	us_i masc
@@ -92188,6 +92769,9 @@ impe^tra_bi^lis		<orth type=alt>inp-</orth>
 
 
 impe^tra_bi^li^ter	
+:le:impetrabiliter
+:wd:impe^tra_bi^li^ter		adverb
+
 impe^tra_ti^o		<orth type=alt>inp-</orth>	
 :le:impetratio
 :no:impe^tra_ti^	o_oLnis fem
@@ -92314,6 +92898,9 @@ impla_ca_bi^lis		<orth type=alt>inpl-</orth>
 
 
 impla_ca_bi^li^ter	
+:le:implacabiliter
+:wd:impla_ca_bi^li^ter		adverb
+
 impla_ca_bi^li^tas		<orth type=alt>inpl-</orth>	
 :le:implacabilitas
 :no:impla_ca_bi^li^	tas_tatis fem
@@ -92485,6 +93072,9 @@ importa_bi^lis		<orth type=alt>inp-</orth>
 
 
 importa_bi^li^ter	
+:le:importabiliter
+:wd:importa_bi^li^ter		adverb
+
 importa_ti_ci^us		<orth type=alt>inp-</orth>	<orth>-ti^us</orth>	
 :le:importaticius
 :aj:importa_ti_c	ius_ia_ium
@@ -92591,6 +93181,9 @@ impo^tens		<orth type=alt>inp-</orth>
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 impo^tenter	
+:le:impotenter
+:wd:impo^tenter		adverb
+
 impo^tenti^a		<orth type=alt>inp-</orth>	
 :le:impotentia
 :no:impo^tenti^	a_ae fem
@@ -92720,6 +93313,9 @@ impro^ba_bi^lis		<orth type=alt>inpr-</orth>
 
 
 impro^ba_bi^li^ter	
+:le:improbabiliter
+:wd:impro^ba_bi^li^ter		adverb
+
 impro^ba_ti^o		<orth type=alt>inpr-</orth>	
 :le:improbatio
 :no:impro^ba_ti^	o_oLnis fem
@@ -92956,6 +93552,9 @@ impu^dens		<orth type=alt>inp-</orth>
 
 
 impu^denter	
+:le:impudenter
+:wd:impu^denter		adverb
+
 impu^denti^a		<orth type=alt>inp-</orth>	
 :le:impudentia
 :no:impu^denti^	a_ae fem
@@ -93130,6 +93729,9 @@ imputri^bi^lis		<orth type=alt>inp-</orth>
 
 
 imputri^bi^-li^ter	
+:le:imputribiliter
+:wd:imputri^bi^-li^ter		adverb
+
 i^mu^lus		
 :le:imulus
 :aj:i^mu^l	us_a_um
@@ -93239,6 +93841,9 @@ i^n-aequa_bi^lis
 
 
 i^naequa_bi^li^ter	
+:le:inaequabiliter
+:wd:i^naequa_bi^li^ter		adverb
+
 i^naequa_bi^li^tas		
 :le:inaequabilitas
 :no:i^naequa_bi^li^	tas_tatis fem
@@ -93250,6 +93855,9 @@ i^n-aequa_lis
 
 
 i^naequa_li^ter	
+:le:inaequaliter
+:wd:i^naequa_li^ter		adverb
+
 i^naequa_li^tas		
 :le:inaequalitas
 :no:i^naequa_li^	tas_tatis fem
@@ -93402,6 +94010,9 @@ i^na_ne
 
 	<pos>adv.</pos>
 i^na_ni^ter	
+:le:inaniter
+:wd:i^na_ni^ter		adverb
+
 i^na_ni^tas		
 :le:inanitas
 :no:i^na_ni^	tas_tatis fem
@@ -93475,6 +94086,9 @@ i^n-arti^fi^ci^a_lis
 
 
 i^narti^fi^-ci^a_li^ter	
+:le:inartificialiter
+:wd:i^narti^fi^-ci^a_li^ter		adverb
+
 i^n-ascensus		
 :le:inascensus
 :aj:i^n-ascens	us_a_um
@@ -93839,8 +94453,14 @@ incessa_bi^lis
 
 
 in-cessa_bi^li^ter	
+:le:incessabiliter
+:wd:in-cessa_bi^li^ter		adverb
+
 incessans		<itype>antis</itype>	<pos>adj.</pos>
 incessan-ter	
+:le:incessanter
+:wd:incessan-ter		adverb
+
 incessus		
 :le:incessus
 :no:incess	us_us masc
@@ -94040,6 +94660,9 @@ in-ci_vi_li^a
 
 
 inci_vi_li^ter	
+:le:inciviliter
+:wd:inci_vi_li^ter		adverb
+
 inci_vi_li^tas		
 :le:incivilitas
 :no:inci_vi_li^	tas_tatis fem
@@ -94061,6 +94684,9 @@ in-cle_mens
 
 	<pos>adj.</pos>
 incle_menter	
+:le:inclementer
+:wd:incle_menter		adverb
+
 incle_menti^a		
 :le:inclementia
 :no:incle_menti^	a_ae fem
@@ -94259,6 +94885,9 @@ in-co_mis
 
 
 inco_mi^ter	
+:le:incomiter
+:wd:inco_mi^ter		adverb
+
 in-co^mi^ta_tus		
 :le:incomitatus
 :aj:in-co^mi^ta_t	us_a_um
@@ -94349,6 +94978,9 @@ in-commu_ta_bi^lis
 
 
 in-commu_ta_bi^li^ter	
+:le:incommutabiliter
+:wd:in-commu_ta_bi^li^ter		adverb
+
 incommu_ta_bi^li^tas		
 :le:incommutabilitas
 :no:incommu_ta_bi^li^	tas_tatis fem
@@ -94365,6 +94997,9 @@ in-compa^ra_bi^lis
 
 
 incompa^ra_bi^li^ter	
+:le:incomparabiliter
+:wd:incompa^ra_bi^li^ter		adverb
+
 incompa^ra_tus		
 :le:incomparatus
 :aj:incompa^ra_t	us_a_um
@@ -94391,6 +95026,9 @@ in-compe^tens
 
 
 in-compe^tenter	
+:le:incompetenter
+:wd:in-compe^tenter		adverb
+
 incomple_bi^lis	
 in-comple_tus		
 :le:incompletus
@@ -94411,6 +95049,9 @@ incompre^hensi^bi^lis
 
 
 in-compre^hensi^bi^li^ter	
+:le:incomprehensibiliter
+:wd:in-compre^hensi^bi^li^ter		adverb
+
 in-compre^hensus		
 :le:incomprehensus
 :aj:in-compre^hens	us_a_um
@@ -94498,6 +95139,9 @@ inconfu_si^bi^lis
 
 
 inconfu_si^bi^li^ter	
+:le:inconfusibiliter
+:wd:inconfu_si^bi^li^ter		adverb
+
 inconfu_sus		
 :le:inconfusus
 :aj:inconfu_s	us_a_um
@@ -94515,6 +95159,9 @@ incongressi^bi^lis
 
 in-congru^ens		<itype>tis</itype>	<pos>adj.</pos>
 incongru^enter	
+:le:incongruenter
+:wd:incongru^enter		adverb
+
 in-congru^enti^a		
 :le:incongruentia
 :no:in-congru^enti^	a_ae fem
@@ -94562,6 +95209,9 @@ in-consenta_ne^us
 
 in-conse^quens		<itype>tis</itype>	<pos>adj.</pos>
 inconse^-quenter	
+:le:inconsequenter
+:wd:inconse^-quenter		adverb
+
 inconse^quenti^a		
 :le:inconsequentia
 :no:inconse^quenti^	a_ae fem
@@ -94569,6 +95219,9 @@ inconse^quenti^a
 
 in-consi_de^rans		<itype>tis</itype>	<pos>adj.</pos>
 in-consi_de^ranter	
+:le:inconsideranter
+:wd:in-consi_de^ranter		adverb
+
 inconsi_de^ranti^a		
 :le:inconsiderantia
 :no:inconsi_de^ranti^	a_ae fem
@@ -94607,6 +95260,9 @@ inconso_la_bi^lis
 
 in-conso^nans		<itype>antis</itype>	<pos>adj.</pos>
 in-conso^nanter	
+:le:inconsonanter
+:wd:in-conso^nanter		adverb
+
 in-conspectus		
 :le:inconspectus
 :aj:in-conspect	us_a_um
@@ -94629,6 +95285,9 @@ inconsta_bi^li_ti^o
 
 in-constans		<itype>antis</itype>	<pos>adj.</pos>
 inconstanter	
+:le:inconstanter
+:wd:inconstanter		adverb
+
 inconstanti^a		
 :le:inconstantia
 :no:inconstanti^	a_ae fem
@@ -94687,6 +95346,9 @@ inconta_mi^na_bi^lis
 
 
 inconta_mi^na_bi^li^ter	
+:le:incontaminabiliter
+:wd:inconta_mi^na_bi^li^ter		adverb
+
 in-conta_mi^na_tus		
 :le:incontaminatus
 :aj:in-conta_mi^na_t	us_a_um
@@ -94719,6 +95381,9 @@ in-conti^nens		<itype>tis</itype>	<pos>adj.</pos>
 
 
 incon-ti^nenter	
+:le:incontinenter
+:wd:incon-ti^nenter		adverb
+
 inconti^nenti^a		
 :le:incontinentia
 :no:inconti^nenti^	a_ae fem
@@ -94740,6 +95405,9 @@ in-conve^ni^ens
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 inconve^ni^enter	
+:le:inconvenienter
+:wd:inconve^ni^enter		adverb
+
 inconve^ni^enti^a		
 :le:inconvenientia
 :no:inconve^ni^enti^	a_ae fem
@@ -94817,6 +95485,9 @@ incorpo^ra_lis	<itype>Hence</itype>
 
 
 incorpo^ra_li^ter	
+:le:incorporaliter
+:wd:incorpo^ra_li^ter		adverb
+
 incorpo^ra_li^tas		
 :le:incorporalitas
 :no:incorpo^ra_li^	tas_tatis fem
@@ -94862,6 +95533,9 @@ in-corrupti^bi^lis		<orth type=alt>inconrupt-</orth>
 
 
 incorrupti^bi^li^ter	
+:le:incorruptibiliter
+:wd:incorrupti^bi^li^ter		adverb
+
 incorrupti^bi^li^tas		<orth type=alt>inconrupt-</orth>	
 :le:incorruptibilitas
 :no:incorrupti^bi^li^	tas_tatis fem
@@ -94915,6 +95589,9 @@ incre_di^bi^lis
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 incre_di^bi^li^ter	
+:le:incredibiliter
+:wd:incre_di^bi^li^ter		adverb
+
 incre_di^bi^li^tas		
 :le:incredibilitas
 :no:incre_di^bi^li^	tas_tatis fem
@@ -95068,6 +95745,9 @@ in-culpa_bi^lis
 
 
 inculpa_bi^li^ter	
+:le:inculpabiliter
+:wd:inculpa_bi^li^ter		adverb
+
 inculpa_tim		
 :le:inculpatim
 :wd:inculpa_tim	adverb
@@ -95116,6 +95796,9 @@ incuncta_bi^lis
 
 	<pos>adv.</pos>
 incuncta_bi^li^ter	
+:le:incunctabiliter
+:wd:incuncta_bi^li^ter		adverb
+
 in-cunctans		<itype>antis</itype>	<pos>adj.</pos>
 in-cunctan-ter		<orth type=alt>incont-</orth>
 incuncta_tus		<orth>inconta_tus</orth>	
@@ -95394,6 +96077,9 @@ in-de_fi^ci^ens
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 inde_fi^ci^enter	
+:le:indeficienter
+:wd:inde_fi^ci^enter		adverb
+
 inde_fi^ci^enti^a		
 :le:indeficientia
 :no:inde_fi^ci^enti^	a_ae fem
@@ -95486,6 +96172,9 @@ inde_mu_ta_bi^lis
 
 
 inde_-mu_ta_bi^li^ter	
+:le:indemutabiliter
+:wd:inde_-mu_ta_bi^li^ter		adverb
+
 in-de_nunti^a_tus		
 :le:indenuntiatus
 :aj:in-de_nunti^a_t	us_a_um
@@ -95540,6 +96229,9 @@ inde_si^nens
 
 
 inde_si^nenter	
+:le:indesinenter
+:wd:inde_si^nenter		adverb
+
 in-despectus		
 :le:indespectus
 :aj:in-despect	us_a_um
@@ -95714,6 +96406,9 @@ indiffe^rens		<itype>ntis</itype>	<gen>n.</gen>
 
 
 in-diffe^renter	
+:le:indifferenter
+:wd:in-diffe^renter		adverb
+
 in-diffe^renti^a		
 :le:indifferentia
 :no:in-diffe^renti^	a_ae fem
@@ -95802,6 +96497,9 @@ indigni^tas
 
 
 indignanter	
+:le:indignanter
+:wd:indignanter		adverb
+
 in-dignus		
 :le:indignus
 :aj:in-dign	us_a_um
@@ -95820,6 +96518,9 @@ indi^gu^us
 
 in-di_li^gens		<itype>tis</itype>	<pos>adj.</pos>
 indi_li^-genter	
+:le:indiligenter
+:wd:indi_li^-genter		adverb
+
 in-di_li^genti^a		
 :le:indiligentia
 :no:in-di_li^genti^	a_ae fem
@@ -95956,6 +96657,9 @@ in-disso^ci^a_bi^lis
 
 
 indisso^ci^a_bi^li^ter	
+:le:indissociabiliter
+:wd:indisso^ci^a_bi^li^ter		adverb
+
 indisso^ci^a_lus		
 :le:indissocialus
 :aj:indisso^ci^a_l	us_a_um
@@ -95967,6 +96671,9 @@ in-disso^lu_bi^lis
 
 
 in-disso^lu_bi^li^-ter	
+:le:indissolubiliter
+:wd:in-disso^lu_bi^li^-ter		adverb
+
 in-distanter		
 :le:indistanter
 :wd:in-distanter	adverb
@@ -95999,6 +96706,9 @@ indi_vi_si^bi^lis
 
 
 in-di_vi_si^bi^li^ter	
+:le:indivisibiliter
+:wd:in-di_vi_si^bi^li^ter		adverb
+
 in-di_vi_sus		
 :le:indivisus
 :aj:in-di_vi_s	us_a_um
@@ -96109,6 +96819,9 @@ in-du^bi^ta_bi^lis
 
 	<pos>adv.</pos>
 in-du^-bi^ta_bi^li^ter	
+:le:indubitabiliter
+:wd:in-du^-bi^ta_bi^li^ter		adverb
+
 in-du^bi^tandus		
 :le:indubitandus
 :aj:in-du^bi^tand	us_a_um
@@ -96197,6 +96910,9 @@ indulgenti^a
 
 
 indulgenter	
+:le:indulgenter
+:wd:indulgenter		adverb
+
 indulgi^tas		
 :le:indulgitas
 :no:indulgi^	tas_tatis fem
@@ -96352,12 +97068,18 @@ i^n-effa_bi^lis
 
 
 i^neffa_bi^li^ter	
+:le:ineffabiliter
+:wd:i^neffa_bi^li^ter		adverb
+
 i^n-effa_bi^li^tas		
 :le:ineffabilitas
 :no:i^n-effa_bi^li^	tas_tatis fem
 
 
 i^n-effa_bi^li^ter	
+:le:ineffabiliter
+:wd:i^n-effa_bi^li^ter		adverb
+
 i^neffectus		
 :le:ineffectus
 :aj:i^neffect	us_a_um
@@ -96374,6 +97096,9 @@ i^n-effi^cax
 
 
 i^neffi^ca_ci^ter	
+:le:inefficaciter
+:wd:i^neffi^ca_ci^ter		adverb
+
 i^n-effi^gi^a_bi^lis		
 :le:ineffigiabilis
 :aj:i^n-effi^gi^a_bi^l	is_e
@@ -96401,6 +97126,9 @@ i^n-e_la^bo_ra_tus
 
 i^n-e_le^gans		<itype>antis</itype>	<pos>adj.</pos>
 i^ne_le^ganter	
+:le:ineleganter
+:wd:i^ne_le^ganter		adverb
+
 i^n-e_le^ganti^a		
 :le:inelegantia
 :no:i^n-e_le^ganti^	a_ae fem
@@ -96502,7 +97230,11 @@ i^nepti^a
 :no:i^nepti^	a_ae fem
 
 
-i^nepti^ae		<itype>a_rum</itype>
+i^nepti^ae		
+:le:ineptiae
+:no:i^nepti^	a_ae fem pl
+
+
 i^nepti^o^la		
 :le:ineptiola
 :no:i^nepti^o^l	a_ae fem
@@ -96547,6 +97279,9 @@ i^ners		<itype>ertis</itype>	<pos>adj.</pos>	<itype>Hence</itype>
 
 
 i^nerter	
+:le:inerter
+:wd:i^nerter		adverb
+
 i^nersi^tu_do		
 :le:inersitudo
 :no:i^nersi^tu_d	o_inis fem
@@ -96737,6 +97472,9 @@ i^n-expi^a_bi^lis
 
 
 i^n-expi^a_bi^li^ter	
+:le:inexpiabiliter
+:wd:i^n-expi^a_bi^li^ter		adverb
+
 i^n-expi^a_tus		
 :le:inexpiatus
 :aj:i^n-expi^a_t	us_a_um
@@ -96773,6 +97511,9 @@ i^n-expli^ca_bi^lis
 
 
 i^nexpli^ca_bi^li^ter	
+:le:inexplicabiliter
+:wd:i^nexpli^ca_bi^li^ter		adverb
+
 i^n-expli^ca_tus		
 :le:inexplicatus
 :aj:i^n-expli^ca_t	us_a_um
@@ -96875,6 +97616,9 @@ i^n-extri_ca_bi^lis
 
 
 i^nextri_ca_bi^li^ter	
+:le:inextricabiliter
+:wd:i^nextri_ca_bi^li^ter		adverb
+
 i^n-extri_ca_tus		
 :le:inextricatus
 :aj:i^n-extri_ca_t	us_a_um
@@ -96940,6 +97684,9 @@ in-fa_mis
 
 
 infa_mi^-ter	
+:le:infamiter
+:wd:infa_mi^-ter		adverb
+
 in-fandus		
 :le:infandus
 :aj:in-fand	us_a_um
@@ -96983,6 +97730,9 @@ infanti^lis
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 infanti^li^ter	
+:le:infantiliter
+:wd:infanti^li^ter		adverb
+
 infantu^la		
 :le:infantula
 :no:infantu^l	a_ae fem
@@ -97019,6 +97769,9 @@ in-fa^ti_ga_bi^lis
 
 
 in-fa^ti_ga_bi^li^ter	
+:le:infatigabiliter
+:wd:in-fa^ti_ga_bi^li^ter		adverb
+
 in-fa^ti_ga_tus		
 :le:infatigatus
 :aj:in-fa^ti_ga_t	us_a_um
@@ -97046,6 +97799,9 @@ in-fa^vo_ra_bi^lis
 
 
 in-fa^vo_ra_bi^li^ter	
+:le:infavorabiliter
+:wd:in-fa^vo_ra_bi^li^ter		adverb
+
 infecti^o#1		
 :le:infectio#1
 :no:infecti^	o_oLnis fem
@@ -97118,6 +97874,9 @@ in-fe_lix
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 infe_li_ci^ter	
+:le:infeliciter
+:wd:infe_li_ci^ter		adverb
+
 infende^re	
 infendi^tor	
 infensus		
@@ -97267,6 +98026,9 @@ in-festi_vus
 
 
 infesti_vi^ter	
+:le:infestiviter
+:wd:infesti_vi^ter		adverb
+
 in-festus		
 :le:infestus
 :aj:in-fest	us_a_um
@@ -97285,6 +98047,9 @@ in-fi^de_lis
 
 
 in-fi^de_li^ter	
+:le:infideliter
+:wd:in-fi^de_li^ter		adverb
+
 infi^de_li^tas		
 :le:infidelitas
 :no:infi^de_li^	tas_tatis fem
@@ -97448,6 +98213,9 @@ inflam-ma_tus
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 inflammanter	
+:le:inflammanter
+:wd:inflammanter		adverb
+
 infla_ti^lis		
 :le:inflatilis
 :aj:infla_ti^l	is_e
@@ -97555,6 +98323,9 @@ informis
 
 
 infor-mi^ter	
+:le:informiter
+:wd:infor-mi^ter		adverb
+
 informi^tas		
 :le:informitas
 :no:informi^	tas_tatis fem
@@ -97636,6 +98407,9 @@ in-fre^quens		<itype>tis</itype>	<pos>adj.</pos>	<itype>Hence</itype>
 
 
 infre^quenter	
+:le:infrequenter
+:wd:infre^quenter		adverb
+
 in-fre^quenta_tus		
 :le:infrequentatus
 :aj:in-fre^quenta_t	us_a_um
@@ -98072,6 +98846,9 @@ i^n-hospi^ta_lis
 
 
 inhospi^ta_li^ter	
+:le:inhospitaliter
+:wd:inhospi^ta_li^ter		adverb
+
 i^nhospi^ta_li^tas		
 :le:inhospitalitas
 :no:i^nhospi^ta_li^	tas_tatis fem
@@ -98427,6 +99204,9 @@ inno^cens
 
 	<pos>adv.</pos>
 inno^center	
+:le:innocenter
+:wd:inno^center		adverb
+
 in-no^centi^a		
 :le:innocentia
 :no:in-no^centi^	a_ae fem
@@ -98501,6 +99281,9 @@ in-nu^me^ra_bi^lis
 
 
 innu^me^ra_bi^li^ter	
+:le:innumerabiliter
+:wd:innu^me^ra_bi^li^ter		adverb
+
 innu^me^ra_bi^li^tas		
 :le:innumerabilitas
 :no:innu^me^ra_bi^li^	tas_tatis fem
@@ -98579,6 +99362,9 @@ i^n-o^boedi^enti^a
 
 i^no^baudi^enti^a	
 i^no^boedi^enter	
+:le:inoboedienter
+:wd:i^no^boedi^enter		adverb
+
 i^no^boedus		
 :le:inoboedus
 :aj:i^no^boed	us_a_um
@@ -98713,12 +99499,18 @@ i^n-o^pi_na_bi^lis
 
 
 ino^pi_na_bi^li^ter	
+:le:inopinabiliter
+:wd:ino^pi_na_bi^li^ter		adverb
+
 i^n-o^pi_nans		<itype>antis</itype>	<pos>adj.</pos>	<itype>Hence</itype>	
 :le:inopinans
 :wd:i^n-o^pi_nans	adverb
 
 
 i^no^pi_nanter	
+:le:inopinanter
+:wd:i^no^pi_nanter		adverb
+
 i^n-o^pi_na_tus		
 :le:inopinatus
 :aj:i^n-o^pi_na_t	us_a_um
@@ -98928,6 +99720,9 @@ in-sa^lu_bris
 
 
 insa^lu_bri^ter	
+:le:insalubriter
+:wd:insa^lu_bri^ter		adverb
+
 in-sa^lu_ta_ris		
 :le:insalutaris
 :aj:in-sa^lu_ta_r	is_e
@@ -98944,6 +99739,9 @@ in-sa_na_bi^lis
 
 
 insa_na_bi^li^ter	
+:le:insanabiliter
+:wd:insa_na_bi^li^ter		adverb
+
 in-sanctus		
 :le:insanctus
 :aj:in-sanct	us_a_um
@@ -98977,6 +99775,9 @@ in-sa^ti^a_bi^lis
 
 
 insa^ti^a_bi^li^ter	
+:le:insatiabiliter
+:wd:insa^ti^a_bi^li^ter		adverb
+
 insa^ti^a_bi^li^tas		
 :le:insatiabilitas
 :no:insa^ti^a_bi^li^	tas_tatis fem
@@ -98998,6 +99799,9 @@ in-sa^tu^ra_bi^lis
 
 
 in-sa^tu^ra_bi^li^ter	
+:le:insaturabiliter
+:wd:in-sa^tu^ra_bi^li^ter		adverb
+
 in-sa^tu^ra_tus		
 :le:insaturatus
 :aj:in-sa^tu^ra_t	us_a_um
@@ -99030,6 +99834,9 @@ in-sci^ens
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 insci^enter	
+:le:inscienter
+:wd:insci^enter		adverb
+
 in-sci^enti^a		
 :le:inscientia
 :no:in-sci^enti^	a_ae fem
@@ -99161,6 +99968,9 @@ in-se_da_bi^lis
 
 
 inse_da_bi^li^ter	
+:le:insedabiliter
+:wd:inse_da_bi^li^ter		adverb
+
 inse_du_ci^bi^lis		
 :le:inseducibilis
 :aj:inse_du_ci^bi^l	is_e
@@ -99208,6 +100018,9 @@ insensi^bi^li^a
 
 
 insensi^bi^li^ter	
+:le:insensibiliter
+:wd:insensi^bi^li^ter		adverb
+
 insensi^bi^li^tas		
 :le:insensibilitas
 :no:insensi^bi^li^	tas_tatis fem
@@ -99234,6 +100047,9 @@ in-se_pa^ra_bi^lis
 
 
 inse_pa^ra_-bi^li^ter	
+:le:inseparabiliter
+:wd:inse_pa^ra_-bi^li^ter		adverb
+
 inse_pa^ra_bi^li^tas		
 :le:inseparabilitas
 :no:inse_pa^ra_bi^li^	tas_tatis fem
@@ -99256,6 +100072,9 @@ in-se^quenter#2
 
 
 inse^quenter	
+:le:insequenter
+:wd:inse^quenter		adverb
+
 in-se^ra_bi^li^ter		
 :le:inserabiliter
 :wd:in-se^ra_bi^li^ter	adverb
@@ -99412,6 +100231,9 @@ insignis
 
 
 insigni^ter	
+:le:insigniter
+:wd:insigni^ter		adverb
+
 insigni_tor		
 :le:insignitor
 :no:insigni_t	or_oLris masc
@@ -99479,6 +100301,9 @@ in-si^pi^ens		<orth>insa^p-</orth>
 
 
 insi^pi^en-ter	
+:le:insipienter
+:wd:insi^pi^en-ter		adverb
+
 insi^pi^enti^a		
 :le:insipientia
 :no:insi^pi^enti^	a_ae fem
@@ -99555,6 +100380,9 @@ in-so^lens
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 inso^lenter	
+:le:insolenter
+:wd:inso^lenter		adverb
+
 in-so^lenti^a		
 :le:insolentia
 :no:in-so^lenti^	a_ae fem
@@ -99582,6 +100410,9 @@ in-so^lu_bi^lis
 
 
 inso^lu_bi^li^ter	
+:le:insolubiliter
+:wd:inso^lu_bi^li^ter		adverb
+
 in-so^lu_bi^li^tas		
 :le:insolubilitas
 :no:in-so^lu_bi^li^	tas_tatis fem
@@ -99764,6 +100595,9 @@ in-sta^bi^lis
 
 
 insta^-bi^li^ter	
+:le:instabiliter
+:wd:insta^-bi^li^ter		adverb
+
 insta^bi^li^tas		
 :le:instabilitas
 :no:insta^bi^li^	tas_tatis fem
@@ -99887,6 +100721,9 @@ insti^tu_tum
 
 
 instanter	
+:le:instanter
+:wd:instanter		adverb
+
 instra_gu^lum		
 :le:instragulum
 :no:instra_gu^l	us_i neut
@@ -99998,6 +100835,9 @@ in-subti_lis
 
 
 insubti_li^ter	
+:le:insubtiliter
+:wd:insubti_li^ter		adverb
+
 insu^bu^lum		
 :le:insubulum
 :no:insu^bu^l	us_i neut
@@ -100173,6 +101013,9 @@ in-su^pe^ra_bi^lis
 
 
 insu^pe^ra_bi^-li^ter	
+:le:insuperabiliter
+:wd:insu^pe^ra_bi^-li^ter		adverb
+
 insu^pe^ra_tus		
 :le:insuperatus
 :aj:insu^pe^ra_t	us_a_um
@@ -100311,6 +101154,9 @@ intellectu^a_lis
 
 
 intellectu^a_-li^ter	
+:le:intellectualiter
+:wd:intellectu^a_-li^ter		adverb
+
 intellectu^a_li^tas		
 :le:intellectualitas
 :no:intellectu^a_li^	tas_tatis fem
@@ -100334,7 +101180,13 @@ intelle^gi^bi^lis
 
 
 intelle^gi^li^ter	
+:le:intellegiliter
+:wd:intelle^gi^li^ter		adverb
+
 intelle^genter	
+:le:intellegenter
+:wd:intelle^genter		adverb
+
 Inte^me^li^i		<orth type=alt>Inti^m-</orth>	
 :le:Intemelii
 :no:Inte^me^li^	us_i masc pl
@@ -100365,6 +101217,9 @@ in-tempe^ra_bi^lis
 
 in-tempe^rans		<itype>antis</itype>	<pos>adj.</pos>
 intempe^ranter	
+:le:intemperanter
+:wd:intempe^ranter		adverb
+
 intempe^ranti^a		
 :le:intemperantia
 :no:intempe^ranti^	a_ae fem
@@ -100408,6 +101263,9 @@ in-tempo^ra_lis
 
 
 intempo^ra_li^ter	
+:le:intemporaliter
+:wd:intempo^ra_li^ter		adverb
+
 intempo^ra_li^tas		
 :le:intemporalitas
 :no:intempo^ra_li^	tas_tatis fem
@@ -101766,6 +102624,9 @@ in-to^le^ra_bi^lis
 
 
 into^le^ra_bi^li^ter	
+:le:intolerabiliter
+:wd:into^le^ra_bi^li^ter		adverb
+
 into^le^ra_bi^li^tas		
 :le:intolerabilitas
 :no:into^le^ra_bi^li^	tas_tatis fem
@@ -101779,6 +102640,9 @@ in-to^le^randus
 into^le^randum		<itype>adverbially</itype>
 in-to^le^rans		<itype>antis</itype>	<pos>adj.</pos>
 into^le^ranter	
+:le:intoleranter
+:wd:into^le^ranter		adverb
+
 into^le^ranti^a		
 :le:intolerantia
 :no:into^le^ranti^	a_ae fem
@@ -101880,6 +102744,9 @@ in-tre^mu^lus#2
 
 intre^pi^dans		<itype>antis</itype>	<pos>adj.</pos>
 intre^pi^dan-ter	
+:le:intrepidanter
+:wd:intre^pi^dan-ter		adverb
+
 in-tre^pi^dus		
 :le:intrepidus
 :aj:in-tre^pi^d	us_a_um
@@ -102067,6 +102934,9 @@ i^n-u_ti^lis
 
 
 i^nu_-ti^li^ter	
+:le:inutiliter
+:wd:i^nu_-ti^li^ter		adverb
+
 i^nu_ti^li^tas		
 :le:inutilitas
 :no:i^nu_ti^li^	tas_tatis fem
@@ -102356,6 +103226,9 @@ in-vinci^bi^lis
 
 
 invin-ci^bi^li^ter	
+:le:invincibiliter
+:wd:invin-ci^bi^li^ter		adverb
+
 invinctus		
 :le:invinctus
 :aj:invinct	us_a_um
@@ -102372,6 +103245,9 @@ in-vi^o^la_bi^lis
 
 
 invi^o^la_bi^li^ter	
+:le:inviolabiliter
+:wd:invi^o^la_bi^li^ter		adverb
+
 in-vi^o^la_bi^li^tas		
 :le:inviolabilitas
 :no:in-vi^o^la_bi^li^	tas_tatis fem
@@ -102399,6 +103275,9 @@ in-vi_si^bi^lis
 
 
 in-vi_si^bi^li^ter	
+:le:invisibiliter
+:wd:in-vi_si^bi^li^ter		adverb
+
 invi_si^bi^li^tas		
 :le:invisibilitas
 :no:invi_si^bi^li^	tas_tatis fem
@@ -102914,6 +103793,9 @@ irra^ti^o_na_bi^li^a
 
 
 irra^ti^o_na_bi^li^ter	
+:le:irrationabiliter
+:wd:irra^ti^o_na_bi^li^ter		adverb
+
 irra^ti^o_na_bi^li^tas		<orth type=alt>inr-</orth>	
 :le:irrationabilitas
 :no:irra^ti^o_na_bi^li^	tas_tatis fem
@@ -102934,6 +103816,9 @@ irra^ti^o_na_li^a
 
 
 irra^-ti^o_na_li^ter	
+:le:irrationaliter
+:wd:irra^-ti^o_na_li^ter		adverb
+
 irraucesco		<orth type=alt>inr-</orth>	<itype>rausi, e^re</itype>
 irraucus		
 :le:irraucus
@@ -102974,6 +103859,9 @@ irre^cu_sa_bi^lis		<orth type=alt>inr-</orth>
 
 	<pos>adv.</pos>
 irre^cu_sa_bi^li^ter	
+:le:irrecusabiliter
+:wd:irre^cu_sa_bi^li^ter		adverb
+
 irre^di^vi_vus		<orth type=alt>inr-</orth>	
 :le:irredivivus
 :aj:irre^di^vi_v	us_a_um
@@ -102997,6 +103885,9 @@ irre^fra_ga_bi^lis		<orth type=alt>inr-</orth>
 
 	<pos>adv.</pos>
 irre^fra_ga_bi^li^ter	
+:le:irrefragabiliter
+:wd:irre^fra_ga_bi^li^ter		adverb
+
 irre^fu_ta_bi^lis		<orth type=alt>inr-</orth>	
 :le:irrefutabilis
 :aj:irre^fu_ta_bi^l	is_e
@@ -103005,6 +103896,9 @@ irre^fu_ta_bi^lis		<orth type=alt>inr-</orth>
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 irre^fu_ta_bi^li^ter	
+:le:irrefutabiliter
+:wd:irre^fu_ta_bi^li^ter		adverb
+
 irre^fu_ta_tus		<orth type=alt>inr-</orth>	
 :le:irrefutatus
 :aj:irre^fu_ta_t	us_a_um
@@ -103141,6 +104035,9 @@ irre^pre^hensi^bi^lis		<orth type=alt>inr-</orth>
 
 
 irre^pre^hensi^bi^li^ter	
+:le:irreprehensibiliter
+:wd:irre^pre^hensi^bi^li^ter		adverb
+
 irre^pre^hensus		<orth type=alt>inr-</orth>	
 :le:irreprehensus
 :aj:irre^pre^hens	us_a_um
@@ -103234,6 +104131,9 @@ irre^tracta_bi^lis		<orth type=alt>inr-</orth>
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 irre^tracta_bi^li^-ter	
+:le:irretractabiliter
+:wd:irre^tracta_bi^li^-ter		adverb
+
 irre^ve^rens		<orth type=alt>inr-</orth>	
 :le:irreverens
 :aj:irre^ve^r	ens_adj
@@ -103242,6 +104142,9 @@ irre^ve^rens		<orth type=alt>inr-</orth>
 
 
 irre^ve^renter	
+:le:irreverenter
+:wd:irre^ve^renter		adverb
+
 irre^ve^renti^a		<orth type=alt>inr-</orth>	
 :le:irreverentia
 :no:irre^ve^renti^	a_ae fem
@@ -103257,6 +104160,9 @@ irre^vo^ca_bi^lis		<orth type=alt>inr-</orth>
 
 
 irre^vo^ca_bi^li^ter	
+:le:irrevocabiliter
+:wd:irre^vo^ca_bi^li^ter		adverb
+
 irre^vo^candus		<orth type=alt>inr-</orth>	
 :le:irrevocandus
 :aj:irre^vo^cand	us_a_um
@@ -104198,7 +105104,11 @@ Ixi_o^ni^des
 :no:Ixi_o^ni^d	es_ae masc
 
 
-Ixi_o^ni^dae		<itype>a_rum</itype>
+Ixi_o^ni^dae		
+:le:Ixionidae
+:no:Ixi_o^ni^d	a_ae fem pl
+
+
 Ixor		
 :le:Ixor
 :no:Ix	or_oLris masc
@@ -104280,6 +105190,9 @@ jacti^ta_bundus
 
 jactans		<itype>antis</itype>
 jactanter	
+:le:jactanter
+:wd:jactanter		adverb
+
 jactu_ra		
 :le:jactura
 :no:jactu_r	a_ae fem
@@ -104546,6 +105459,9 @@ jo^cu^la_ri^a
 
 
 jo^cu^la_-ri^ter	
+:le:joculariter
+:wd:jo^cu^la_-ri^ter		adverb
+
 jo^cu^la_ri^us		
 :le:jocularius
 :aj:jo^cu^la_r	ius_ia_ium
@@ -104562,6 +105478,9 @@ jo^cu^la_tor
 
 
 jo^cu^lanter	
+:le:joculanter
+:wd:jo^cu^lanter		adverb
+
 jo^cu^lus		
 :le:joculus
 :no:jo^cu^l	us_i masc
@@ -104759,6 +105678,9 @@ ju_di^ci^a_lis
 
 
 ju_di^-ci^a_li^ter	
+:le:judicialiter
+:wd:ju_di^-ci^a_li^ter		adverb
+
 ju_di^ci^a_ri^us		
 :le:judiciarius
 :aj:ju_di^ci^a_r	ius_ia_ium
@@ -105407,6 +106329,9 @@ ju^ve^na_li^a
 
 
 ju^ve^na_li^-ter	
+:le:juvenaliter
+:wd:ju^ve^na_li^-ter		adverb
+
 Ju^ve^na_lis#2		
 :le:Juvenalis#2
 :no:Ju^ve^na_l	is_is masc
@@ -105715,6 +106640,9 @@ la_bi^lis
 
 
 la_bi^li^ter	
+:le:labiliter
+:wd:la_bi^li^ter		adverb
+
 la_bi_na		
 :le:labina
 :no:la_bi_n	a_ae fem
@@ -105747,7 +106675,11 @@ la^bo_ra_tus#2
 :aj:la^bo_ra_t	us_a_um
 
 
-La^bo_ri^ae		<itype>a_rum</itype>
+La^bo_ri^ae		
+:le:Laboriae
+:no:La^bo_ri^	a_ae fem pl
+
+
 la^bo_ri^fer		<itype>a, um</itype>	<pos>adj.</pos>
 La^bo_ri_nuscampus		<itype>i</itype>
 La^bo_-ri^a_ni campi		
@@ -106067,6 +106999,9 @@ la^cri^ma_bi^lis		<orth type=alt>lacru^m-</orth>
 
 
 la^cri^ma_bi^li^ter	
+:le:lacrimabiliter
+:wd:la^cri^ma_bi^li^ter		adverb
+
 la^cri^ma_bundus		<orth type=alt>lacru^m-</orth>	
 :le:lacrimabundus
 :aj:la^cri^ma_bund	us_a_um
@@ -106471,6 +107406,9 @@ laeti^tu_do
 
 laetans		<itype>antis</itype>
 laetanter	
+:le:laetanter
+:wd:laetanter		adverb
+
 Laeto_ri^us		
 :le:Laetorius
 :aj:Laeto_r	ius_ia_ium
@@ -107886,6 +108824,9 @@ la^tens		<itype>entis</itype>
 
 
 la^tenter	
+:le:latenter
+:wd:la^tenter		adverb
+
 la^ter		
 :le:later
 :no:la^t	er_eris masc
@@ -108235,7 +109176,11 @@ La_to^i^des
 :no:La_to^i^d	es_ae masc
 
 
-La_to^i^dae		<itype>a_rum</itype>
+La_to^i^dae		
+:le:Latoidae
+:no:La_to^i^d	a_ae fem pl
+
+
 La_to_i^s		<orth type=alt>Le_to_is</orth>	<itype>i^dis or i^dos</itype>	<gen>f.</gen>	<pos>adj.</pos>
 La_to_is		<itype>i^dis or i^dos</itype>	<gen>f.</gen>
 la_tor		
@@ -108311,6 +109256,9 @@ la_^tro_ci^na_lis
 
 	<pos>adv.</pos>
 la^-tro_ci^na_li^ter	
+:le:latrocinaliter
+:wd:la^-tro_ci^na_li^ter		adverb
+
 la_^tro_ci^na_ti^o		
 :le:latrocinatio
 :no:la_^tro_ci^na_ti^	o_oLnis fem
@@ -108322,6 +109270,9 @@ la_^tro_ci^ni^um
 
 
 la_^tro_ci^nanter	
+:le:latrocinanter
+:wd:la_^tro_ci^nanter		adverb
+
 La_^tro_ni^a_nus		
 :le:Latronianus
 :aj:La_^tro_ni^a_n	us_a_um
@@ -108447,7 +109398,11 @@ laure^a_tus
 :aj:laure^a_t	us_a_um
 
 
-laure^a_tae		<itype>a_rum</itype>
+laure^a_tae		
+:le:laureatae
+:no:laure^a_t	a_ae fem pl
+
+
 Laurentum		
 :le:Laurentum
 :no:Laurent	us_i neut
@@ -108921,6 +109876,9 @@ le_ga_lis
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 le_ga_li^ter	
+:le:legaliter
+:wd:le_ga_li^ter		adverb
+
 le^ga_ri^um		
 :le:legarium
 :no:le^ga_r	ius_i neut
@@ -109648,7 +110606,11 @@ le_^pra
 :no:le_^pr	a_ae fem
 
 
-leprae		<itype>a_rum</itype>
+leprae		
+:le:leprae
+:no:lepr	a_ae fem pl
+
+
 Lepre^um		<orth>Lepre^on</orth>	<orth>Lepri^on</orth>	<orth>Lepri^um</orth>	
 :le:Lepreum
 :no:Lepre^	us_i neut
@@ -109820,6 +110782,9 @@ le_ta_li^a		<itype>ium</itype>
 
 
 le_ta_li^ter	
+:le:letaliter
+:wd:le_ta_li^ter		adverb
+
 Le_thaea		
 :le:Lethaea
 :no:Le_thae	a_ae fem
@@ -110306,6 +111271,9 @@ le^vis#1
 
 	<pos>adv.</pos>
 le^-vi^ter	
+:le:leviter
+:wd:le^-vi^ter		adverb
+
 le_vis#2		<orth>laevis</orth>	
 :le:levis#2
 :aj:le_v	is_e
@@ -110566,6 +111534,9 @@ li_be^ra_lis#1
 
 	<pos>adv.</pos>
 li_be^ra_li^ter	
+:le:liberaliter
+:wd:li_be^ra_li^ter		adverb
+
 Li_be^ra_lis#2		
 :le:Liberalis#2
 :aj:Li_be^ra_l	is_e
@@ -111662,6 +112633,9 @@ li_ne^a_lis
 
 	<pos>adv.</pos>
 li_ne^a_li^ter	
+:le:linealiter
+:wd:li_ne^a_li^ter		adverb
+
 li_ne^a_mentum		<orth type=alt>li_ni^a_-</orth>	
 :le:lineamentum
 :no:li_ne^a_ment	us_i neut
@@ -111675,6 +112649,9 @@ li_ne^a_ris
 
 
 li_ne^a_ri^ter	
+:le:lineariter
+:wd:li_ne^a_ri^ter		adverb
+
 li_ne^a_ri^us		
 :le:linearius
 :aj:li_ne^a_r	ius_ia_ium
@@ -111889,7 +112866,11 @@ Li^pa^ra#1
 
 
 Li^pa^re_		<itype>e_s</itype>
-Li^pa^rae		<itype>a_rum</itype>
+Li^pa^rae		
+:le:Liparae
+:no:Li^pa^r	a_ae fem pl
+
+
 Li^pa^raeus		
 :le:Liparaeus
 :aj:Li^pa^rae	us_a_um
@@ -112388,6 +113369,9 @@ li_ve_do
 
 
 li_venter	
+:le:liventer
+:wd:li_venter		adverb
+
 li_vi^dinans		<itype>antis</itype>	<pos>adj.</pos>
 li_vi^du^lus		
 :le:lividulus
@@ -112491,6 +113475,9 @@ lo^ca_lis
 
 	<pos>adv.</pos>
 lo^ca_li^ter	
+:le:localiter
+:wd:lo^ca_li^ter		adverb
+
 lo^ca_li^tas		
 :le:localitas
 :no:lo^ca_li^	tas_tatis fem
@@ -113009,6 +113996,9 @@ lo^quax
 
 	<pos>adv.</pos>
 lo^qua_ci^ter	
+:le:loquaciter
+:wd:lo^qua_ci^ter		adverb
+
 lo^que_la		<orth>lo^quel-la</orth>	
 :le:loquela
 :no:lo^que_l	a_ae fem
@@ -116151,6 +117141,9 @@ magni^fi^cus
 	<pos>adv.</pos>	<pos>adv.</pos>
 magni^fi^ce_		<itype>and</itype>
 magni^fi^center	
+:le:magnificenter
+:wd:magni^fi^center		adverb
+
 magni^lo^quax	
 magni^lo^quenti^a		
 :le:magniloquentia
@@ -118094,6 +119087,9 @@ ma^ri_ta_lis
 
 
 ma^ri_ta_li^ter	
+:le:maritaliter
+:wd:ma^ri_ta_li^ter		adverb
+
 ma^ri_ta_tus		
 :le:maritatus
 :aj:ma^ri_ta_t	us_a_um
@@ -118624,6 +119620,9 @@ massa_lis
 
 	<pos>adv.</pos>
 massa_li^ter	
+:le:massaliter
+:wd:massa_li^ter		adverb
+
 massa^ris		
 :le:massaris
 :no:massa^r	is_is fem
@@ -118830,6 +119829,9 @@ ma_te^ri^a_lis
 
 	<pos>adv.</pos>
 ma_-te^ri^a_li^ter	
+:le:materialiter
+:wd:ma_-te^ri^a_li^ter		adverb
+
 ma_te^ri^a_ri^us		
 :le:materiarius
 :aj:ma_te^ri^a_r	ius_ia_ium
@@ -119029,6 +120031,9 @@ Ma_tro_na_-li^a
 
 	<pos>adv.</pos>
 ma_tro_na_li^ter	
+:le:matronaliter
+:wd:ma_tro_na_li^ter		adverb
+
 ma_tro_na_tus		
 :le:matronatus
 :no:ma_tro_na_t	us_us masc
@@ -119482,6 +120487,9 @@ me^di^ca_bi^lis
 
 	<pos>adv.</pos>
 me^-di^ca_bi^li^ter	
+:le:medicabiliter
+:wd:me^-di^ca_bi^li^ter		adverb
+
 me^di^ca_bu^lum		
 :le:medicabulum
 :no:me^di^ca_bu^l	us_i neut
@@ -119603,6 +120611,9 @@ me^di^o_^cris
 
 	<pos>adv.</pos>
 me^di^o_^cri^-ter	
+:le:mediocriter
+:wd:me^di^o_^cri^-ter		adverb
+
 me^di^o_^cri^tas		
 :le:mediocritas
 :no:me^di^o_^cri^	tas_tatis fem
@@ -120922,6 +121933,9 @@ me^mo^-ra_bi^le
 
 
 me^mo^ra_bi^li^ter	
+:le:memorabiliter
+:wd:me^mo^ra_bi^li^ter		adverb
+
 me^mo^ra_cu^lum		
 :le:memoraculum
 :no:me^mo^ra_cu^l	us_i neut
@@ -121147,6 +122161,9 @@ mendax		<itype>da_cis</itype>	<gen>m.</gen>
 
 
 menda_ci^ter	
+:le:mendaciter
+:wd:menda_ci^ter		adverb
+
 Mende_s		
 :le:Mendes
 :no:Mend	es_eLtis masc
@@ -121456,6 +122473,9 @@ mensu_ra_bi^lis
 
 
 men-su_ra_bi^li^ter	
+:le:mensurabiliter
+:wd:men-su_ra_bi^li^ter		adverb
+
 mensu_ra_lis		
 :le:mensuralis
 :aj:mensu_ra_l	is_e
@@ -121472,6 +122492,9 @@ mensu_ra_lis	<itype>Hence</itype>
 
 
 mensu_ra_li^ter	
+:le:mensuraliter
+:wd:mensu_ra_li^ter		adverb
+
 mensu_ra_ti^o		
 :le:mensuratio
 :no:mensu_ra_ti^	o_oLnis fem
@@ -122295,6 +123318,9 @@ me_ta_lis
 
 	<pos>adv.</pos>
 me_ta_li^-ter	
+:le:metaliter
+:wd:me_ta_li^-ter		adverb
+
 me^talla_ri^us		
 :le:metallarius
 :no:me^talla_r	ius_i masc
@@ -122688,7 +123714,11 @@ me_tro^-po^li_ta
 :no:me_tro^-po^li_t	a_ae masc
 
 
-Me_tro^po^li_tae		<itype>a_rum</itype>
+Me_tro^po^li_tae		
+:le:Metropolitae
+:no:Me_tro^po^li_t	a_ae fem pl
+
+
 me_tro^po^li_ta_nus#1		
 :le:metropolitanus#1
 :aj:me_tro^po^li_ta_n	us_a_um
@@ -123105,6 +124135,9 @@ mi_li^ta_ris
 
 	<pos>adv.</pos>
 mi_li^ta_ri^ter	
+:le:militariter
+:wd:mi_li^ta_ri^ter		adverb
+
 mi_li^ta_ri^us		
 :le:militarius
 :aj:mi_li^ta_r	ius_ia_ium
@@ -123387,6 +124420,9 @@ mi^nax
 
 	<pos>adv.</pos>
 mi^na_ci^ter	
+:le:minaciter
+:wd:mi^na_ci^ter		adverb
+
 Minci^a^des		
 :le:Minciades
 :no:Minci^a^d	es_ae masc
@@ -123610,6 +124646,9 @@ Mi_no_i^us
 
 
 mi^nanter	
+:le:minanter
+:wd:mi^nanter		adverb
+
 mi^nor#2		<itype>us</itype>
 mi^no_ra_ti^o		<itype>nis</itype>	<gen>f.</gen>
 mi^no_ra_tus		
@@ -123804,6 +124843,9 @@ mi_ra_bi^le
 
 
 mi_ra_bi^li^ter	
+:le:mirabiliter
+:wd:mi_ra_bi^li^ter		adverb
+
 mi_ra_bi^li^tas		
 :le:mirabilitas
 :no:mi_ra_bi^li^	tas_tatis fem
@@ -124004,6 +125046,9 @@ mi^se^ra_-bi^le_
 
 
 mi^-se^ra_bi^li^ter	
+:le:miserabiliter
+:wd:mi^-se^ra_bi^li^ter		adverb
+
 mi^se^ra_men		
 :le:miseramen
 :no:mi^se^ra_	men_minis neut
@@ -124042,6 +125087,9 @@ mi^se^ri^cors		<itype>cordis</itype>	<pos>adj.</pos>	<itype>Hence</itype>
 
 
 mi^se^ri^cordi^ter	
+:le:misericorditer
+:wd:mi^se^ri^cordi^ter		adverb
+
 mi^se^ri^mo_ni^um		<orth type=alt>-mu_ni^um</orth>	
 :le:miserimonium
 :no:mi^se^ri^mo_n	ius_i neut
@@ -124058,6 +125106,9 @@ mi^se^randus
 
 
 mi^se^-ranter	
+:le:miseranter
+:wd:mi^se^-ranter		adverb
+
 mi^sertor		
 :le:misertor
 :no:mi^sert	or_oLris masc
@@ -124250,6 +125301,9 @@ mi_ti^ga_to_ri^us
 
 
 mi_ti^ganter	
+:le:mitiganter
+:wd:mi_ti^ganter		adverb
+
 mi_tis		
 :le:mitis
 :aj:mi_t	is_e
@@ -124866,6 +125920,9 @@ molle
 
 	<pos>adv.</pos>
 molli^ter	
+:le:molliter
+:wd:molli^ter		adverb
+
 molli^ti^a		<orth type=alt>molli^ci^a</orth>	
 :le:mollitia
 :no:molli^ti^	a_ae fem
@@ -125129,6 +126186,9 @@ mo^naules
 
 
 mo^nauli^ter	
+:le:monauliter
+:wd:mo^nauli^ter		adverb
+
 mo^naulos		<orth>mo^naulus</orth>	
 :le:monaulos
 :no:mo^naul	os_i masc
@@ -125697,6 +126757,9 @@ mo_ra_lis
 
 	<pos>adv.</pos>
 mo_ra_li^ter	
+:le:moraliter
+:wd:mo_ra_li^ter		adverb
+
 mo_ra_li^tas		
 :le:moralitas
 :no:mo_ra_li^	tas_tatis fem
@@ -125780,6 +126843,9 @@ mordax
 
 	<pos>adv.</pos>
 morda_ci^ter	
+:le:mordaciter
+:wd:morda_ci^ter		adverb
+
 mordex		
 :le:mordex
 :aj:mord	ex_icis_adj
@@ -126003,6 +127069,9 @@ morta_lis	<itype>Hence</itype>
 
 
 morta_li^ter	
+:le:mortaliter
+:wd:morta_li^ter		adverb
+
 morta_li^tas		
 :le:mortalitas
 :no:morta_li^	tas_tatis fem
@@ -126462,6 +127531,9 @@ mu^li^e^bri^a
 
 	<pos>adv.</pos>
 mu^li^e^-bri^ter	
+:le:muliebriter
+:wd:mu^li^e^-bri^ter		adverb
+
 mu^li^e_^bri^tas		
 :le:muliebritas
 :no:mu^li^e_^bri^	tas_tatis fem
@@ -126727,6 +127799,9 @@ multi^-formis
 
 	<pos>adv.</pos>
 mul-ti^formi^ter	
+:le:multiformiter
+:wd:mul-ti^formi^ter		adverb
+
 multi^formi^tas		
 :le:multiformitas
 :no:multi^formi^	tas_tatis fem
@@ -126866,6 +127941,9 @@ multi^-plex
 
 	<gen>n.</gen>	<pos>adv.</pos>
 multi^pli^ci^ter	
+:le:multipliciter
+:wd:multi^pli^ci^ter		adverb
+
 multi^pli^ca_bi^li^s		
 :le:multiplicabilis
 :aj:multi^pli^ca_bi^l	is_e
@@ -127085,6 +128163,9 @@ mundi^a_lis
 
 	<pos>adv.</pos>
 mundi^a_li^ter	
+:le:mundialiter
+:wd:mundi^a_li^ter		adverb
+
 mundi^ci_na		
 :le:mundicina
 :no:mundi^ci_n	a_ae fem
@@ -127205,6 +128286,9 @@ mu_ni^-ci^pa_lis
 
 	<pos>adv.</pos>
 mu_ni^ci^pa_-li^ter	
+:le:municipaliter
+:wd:mu_ni^ci^pa_-li^ter		adverb
+
 mu_ni^ci^pa_tim		
 :le:municipatim
 :wd:mu_ni^ci^pa_tim	adverb
@@ -127975,6 +129059,9 @@ mu_ta_bi^lis
 
 	<pos>adv.</pos>
 mu_-ta_bi^li^ter	
+:le:mutabiliter
+:wd:mu_-ta_bi^li^ter		adverb
+
 mu_ta_bi^li^tas		
 :le:mutabilitas
 :no:mu_ta_bi^li^	tas_tatis fem
@@ -128252,7 +129339,11 @@ my^ce_ma^ti^as
 :no:my^ce_ma^ti^	as_ae masc
 
 
-My^ce_nae		<itype>a_rum</itype>
+My^ce_nae		
+:le:Mycenae
+:no:My^ce_n	a_ae fem pl
+
+
 My^ce_na		
 :le:Mycena
 :no:My^ce_n	a_ae fem
@@ -128359,7 +129450,11 @@ my^iscus
 :no:my^isc	us_i masc
 
 
-My_lae		<itype>a_rum</itype>
+My_lae		
+:le:Mylae
+:no:My_l	a_ae fem pl
+
+
 My_le_		
 :le:Myle
 :no:My_l	e_es fem
@@ -129615,6 +130710,9 @@ na_tu_ra_li^a
 
 	<pos>adv.</pos>
 na_tu_ra_li^ter	
+:le:naturaliter
+:wd:na_tu_ra_li^ter		adverb
+
 na_tu_ra_li^tas		
 :le:naturalitas
 :no:na_tu_ra_li^	tas_tatis fem
@@ -130088,6 +131186,9 @@ Navi^us
 
 
 na_-vanter	
+:le:navanter
+:wd:na_-vanter		adverb
+
 na_vus		<orth type=alt>gna_vus</orth>	
 :le:navus
 :aj:na_v	us_a_um
@@ -130310,6 +131411,9 @@ ne^c-o^pi_nans		<orth>ne^c o^pi_nans</orth>	<itype>antis</itype>
 
 
 ne^co^pi_nanter	
+:le:necopinanter
+:wd:ne^co^pi_nanter		adverb
+
 ne^c-o^pi_na_tus		<orth>ne^c o^pi_na_tus</orth>	
 :le:necopinatus
 :aj:ne^c-o^pi_na_t	us_a_um
@@ -131014,6 +132118,9 @@ ne_quam		<orth>ne_-quam</orth>
 
 
 ne_qui^ter	
+:le:nequiter
+:wd:ne_qui^ter		adverb
+
 ne_qua_quam		
 :le:nequaquam
 :wd:ne_qua_quam	adverb
@@ -131283,6 +132390,9 @@ nesci^ens		<itype>entis</itype>
 
 
 nesci^enter	
+:le:nescienter
+:wd:nesci^enter		adverb
+
 nesci^us		
 :le:nescius
 :aj:nesc	ius_ia_ium
@@ -131427,6 +132537,9 @@ neutra_lis
 
 	<pos>adv.</pos>
 neutra_li^ter	
+:le:neutraliter
+:wd:neutra_li^ter		adverb
+
 neutru^bi		
 :le:neutrubi
 :wd:neutru^bi	adverb
@@ -132249,6 +133362,9 @@ no_bi^lis
 
 	<pos>adv.</pos>
 no_bi^li^ter	
+:le:nobiliter
+:wd:no_bi^li^ter		adverb
+
 no_bi^li^tas		
 :le:nobilitas
 :no:no_bi^li^	tas_tatis fem
@@ -132265,6 +133381,9 @@ no^cens		<itype>entis</itype>
 
 
 no^center	
+:le:nocenter
+:wd:no^center		adverb
+
 no^ci_vus		
 :le:nocivus
 :aj:no^ci_v	us_a_um
@@ -132491,7 +133610,11 @@ no^me_
 :no:no^m	e_es fem
 
 
-no^mae		<itype>a_rum</itype>
+no^mae		
+:le:nomae
+:no:no^m	a_ae fem pl
+
+
 no_men		
 :le:nomen
 :no:no_	men_minis neut
@@ -132550,6 +133673,9 @@ no_mi^na_li^a
 
 	<pos>adv.</pos>
 no_mi^na_li^ter	
+:le:nominaliter
+:wd:no_mi^na_li^ter		adverb
+
 no_mi^na_tim		
 :le:nominatim
 :wd:no_mi^na_tim	adverb
@@ -132840,6 +133966,9 @@ norma_lis
 
 	<pos>adv.</pos>
 norma_li^ter	
+:le:normaliter
+:wd:norma_li^ter		adverb
+
 norma_ti^o		
 :le:normatio
 :no:norma_ti^	o_oLnis fem
@@ -132938,6 +134067,9 @@ no^ta_bi^lis
 
 	<pos>adv.</pos>
 no^ta_bi^li^ter	
+:le:notabiliter
+:wd:no^ta_bi^li^ter		adverb
+
 no^ta_cu^lum		
 :le:notaculum
 :no:no^ta_cu^l	us_i neut
@@ -133835,7 +134967,11 @@ Nu^mi^da
 :no:Nu^mi^d	a_ae masc
 
 
-Nu^mi^-dae		<itype>a_rum</itype>
+Nu^mi^-dae		
+:le:Numidae
+:no:Nu^mi^-d	a_ae fem pl
+
+
 Nu^mi^di^a		
 :le:Numidia
 :no:Nu^mi^di^	a_ae fem
@@ -134012,7 +135148,11 @@ Nundi^na
 :no:Nundi^n	a_ae fem
 
 
-nundi^nae		<itype>a_rum</itype>
+nundi^nae		
+:le:nundinae
+:no:nundi^n	a_ae fem pl
+
+
 nundi^na		
 :le:nundina
 :no:nundi^n	a_ae fem
@@ -134090,6 +135230,9 @@ nupti^a_lis
 
 	<pos>adv.</pos>
 nupti^a_-li^ter	
+:le:nuptialiter
+:wd:nupti^a_-li^ter		adverb
+
 nupti^a_tor		
 :le:nuptiator
 :no:nupti^a_t	or_oLris masc
@@ -134176,6 +135319,9 @@ nu_tri_-bi^lia
 
 	<pos>adv.</pos>
 nu_tri_bi^li^-ter	
+:le:nutribiliter
+:wd:nu_tri_bi^li^-ter		adverb
+
 nu_tri_ca_ti^o		
 :le:nutricatio
 :no:nu_tri_ca_ti^	o_oLnis fem
@@ -134630,6 +135776,9 @@ o^bi_ra_ti^o
 
 
 o^b-i^ter	
+:le:obiter
+:wd:o^b-i^ter		adverb
+
 o^bi^tus#2		
 :le:obitus#2
 :no:o^bi^t	us_us masc
@@ -134962,6 +136111,9 @@ o^boedi^enti^a		<orth type=alt>obed-</orth>
 
 
 o^boedi^-enter	
+:le:oboedienter
+:wd:o^boedi^-enter		adverb
+
 o^boedi_ti^o		<orth type=alt>obed-</orth>	
 :le:oboeditio
 :no:o^boedi_ti^	o_oLnis fem
@@ -135126,6 +136278,9 @@ obse^cunda_tor
 
 
 obse^cundanter	
+:le:obsecundanter
+:wd:obse^cundanter		adverb
+
 obse^cu_ti^o		<orth type=alt>obse^quu_ti^o</orth>	
 :le:obsecutio
 :no:obse^cu_ti^	o_oLnis fem
@@ -135174,6 +136329,9 @@ ob-se^qui^um
 
 
 obse^quenter	
+:le:obsequenter
+:wd:obse^quenter		adverb
+
 observa_bi^lis		
 :le:observabilis
 :aj:observa_bi^l	is_e
@@ -136358,6 +137516,9 @@ o^cu^la_re
 
 
 o^cu^la_ri^ter	
+:le:oculariter
+:wd:o^cu^la_ri^ter		adverb
+
 o^cu^la_ri^us		
 :le:ocularius
 :aj:o^cu^la_r	ius_ia_ium
@@ -137994,6 +139155,9 @@ Omni^po^tens		<itype>ntis</itype>	<gen>m.</gen>
 
 
 om-ni^po^tenter	
+:le:omnipotenter
+:wd:om-ni^po^tenter		adverb
+
 omni^po^tenti^a		
 :le:omnipotentia
 :no:omni^po^tenti^	a_ae fem
@@ -139098,6 +140262,9 @@ opta_bi^lis
 
 
 opta_bi^li^ter	
+:le:optabiliter
+:wd:opta_bi^li^ter		adverb
+
 opta_ti^o		
 :le:optatio
 :no:opta_ti^	o_oLnis fem
@@ -139809,6 +140976,9 @@ o^ri_gi^na_lis
 
 	<pos>adv.</pos>
 o^ri_gi^na_li^-ter	
+:le:originaliter
+:wd:o^ri_gi^na_li^-ter		adverb
+
 o^ri_gi^na_ri^us		
 :le:originarius
 :aj:o^ri_gi^na_r	ius_ia_ium
@@ -140373,6 +141543,9 @@ osci^ta_ti^o
 
 
 osci^tanter	
+:le:oscitanter
+:wd:osci^tanter		adverb
+
 oscu^la_bundus		
 :le:osculabundus
 :aj:oscu^la_bund	us_a_um
@@ -143609,6 +144782,9 @@ pa_r		<itype>pa^ris</itype>	<gen>n.</gen>
 
 
 pa^ri^ter	
+:le:pariter
+:wd:pa^ri^ter		adverb
+
 pa^ra_bi^lis		
 :le:parabilis
 :aj:pa^ra_bi^l	is_e
@@ -144235,6 +145411,9 @@ pa^ri^lis
 
 
 pa^ri^li^ter	
+:le:pariliter
+:wd:pa^ri^li^ter		adverb
+
 pa^ri^li^tas		
 :le:parilitas
 :no:pa^ri^li^	tas_tatis fem
@@ -144517,6 +145696,9 @@ parri^ci_di^a_lis		<orth>parri^ci_da_lis</orth>	<orth type=alt>pari^c-</orth>
 
 
 parri^ci_di^a_li^ter	
+:le:parricidialiter
+:wd:parri^ci_di^a_li^ter		adverb
+
 parri^ci_di^um		
 :le:parricidium
 :no:parri^ci_d	ius_i neut
@@ -144749,6 +145931,9 @@ parti^cu^la_ris
 
 
 parti^cu^la_ri^ter	
+:le:particulariter
+:wd:parti^cu^la_ri^ter		adverb
+
 parti^cu^la_tim		
 :le:particulatim
 :wd:parti^cu^la_tim	adverb
@@ -144770,6 +145955,9 @@ parti^lis
 
 
 parti^li^ter	
+:le:partiliter
+:wd:parti^li^ter		adverb
+
 parti^o#1		
 :le:partio#1
 :no:parti^	o_oLnis fem
@@ -145031,6 +146219,9 @@ passi^bi^lis
 
 
 passi^bi^li^ter	
+:le:passibiliter
+:wd:passi^bi^li^ter		adverb
+
 passi^bi^li^tas		
 :le:passibilitas
 :no:passi^bi^li^	tas_tatis fem
@@ -145185,6 +146376,9 @@ pasto_ra_lis
 
 
 pasto_ra_li^ter	
+:le:pastoraliter
+:wd:pasto_ra_li^ter		adverb
+
 pasto_ri_ci^us		<orth>-ti^us</orth>	
 :le:pastoricius
 :aj:pasto_ri_c	ius_ia_ium
@@ -145298,6 +146492,9 @@ pa^tella_ri^us
 
 pa^te^na	
 pa^tenter	
+:le:patenter
+:wd:pa^tenter		adverb
+
 pa^ter		<itype>tris</itype>	<gen>m.</gen>
 pa^te^ra		
 :le:patera
@@ -145389,6 +146586,9 @@ pa^ti^na_ri^us
 
 
 pa^ti^enter	
+:le:patienter
+:wd:pa^ti^enter		adverb
+
 Patmos		<orth>-us</orth>	
 :le:Patmos
 :no:Patm	os_i fem
@@ -146011,6 +147211,9 @@ pecca_tus
 
 peccans		<itype>antis</itype>	<gen>comm.</gen>
 peccanter	
+:le:peccanter
+:wd:peccanter		adverb
+
 pe^co^ra_lis		
 :le:pecoralis
 :aj:pe^co^ra_l	is_e
@@ -146150,6 +147353,9 @@ pe^cu_li^a_ris
 
 
 pe^cu_li^a_ri^-ter	
+:le:peculiariter
+:wd:pe^cu_li^a_ri^-ter		adverb
+
 pe^cu_li^a_ri^us		
 :le:peculiarius
 :aj:pe^cu_li^a_r	ius_ia_ium
@@ -146191,6 +147397,9 @@ pe^cu_ni^a_ris
 
 	<pos>adv.</pos>
 pe^cu_ni^a_ri^ter	
+:le:pecuniariter
+:wd:pe^cu_ni^a_ri^ter		adverb
+
 pe^cu_ni^a_ri^us		
 :le:pecuniarius
 :aj:pe^cu_ni^a_r	ius_ia_ium
@@ -147210,6 +148419,9 @@ pe^ne_^tra_le		<itype>is</itype>
 pe^ne_^tral		<gen>n.</gen>
 pe^ne_^tra_li^a		<itype>ium</itype>
 pe^ne_^tra_li^ter	
+:le:penetraliter
+:wd:pe^ne_^tra_li^ter		adverb
+
 pe^ne^tra_ti^o		
 :le:penetratio
 :no:pe^ne^tra_ti^	o_oLnis fem
@@ -147790,6 +149002,9 @@ pe^r-albus
 
 pe^r-a^mans		<itype>antis</itype>
 pe^r-a^manter	
+:le:peramanter
+:wd:pe^r-a^manter		adverb
+
 pe^r-a^ma_rus		
 :le:peramarus
 :aj:pe^r-a^ma_r	us_a_um
@@ -147922,6 +149137,9 @@ per-bre^vis
 
 
 perbre^-vi^ter	
+:le:perbreviter
+:wd:perbre^-vi^ter		adverb
+
 perca		
 :le:perca
 :no:perc	a_ae fem
@@ -147947,6 +149165,9 @@ perce_do		<itype>cessi, e^re</itype>
 per-ce^le^ber		<itype>bris, bre</itype>	<pos>adj.</pos>
 per-ce^ler		<itype>cele^ris</itype>	<pos>adj.</pos>
 perce^leri^ter	
+:le:perceleriter
+:wd:perce^leri^ter		adverb
+
 percensi^o		
 :le:percensio
 :no:percensi^	o_oLnis fem
@@ -148184,6 +149405,9 @@ per-diffi^ci^lis
 
 
 perdiffi^ci^li^ter	
+:le:perdifficiliter
+:wd:perdiffi^ci^li^ter		adverb
+
 per-dignus		
 :le:perdignus
 :aj:per-dign	us_a_um
@@ -148195,6 +149419,9 @@ per-di_li^gens
 
 
 perdi_li^genter	
+:le:perdiligenter
+:wd:perdi_li^genter		adverb
+
 per-di^sertus		
 :le:perdisertus
 :aj:per-di^sert	us_a_um
@@ -148357,6 +149584,9 @@ pe^re^gri_na
 	<pos>Subst.</pos>	<pos>adj.</pos>
 pe^r-e_le^gans		<itype>antis</itype>	<pos>adj.</pos>
 pe^r-e_le^ganter	
+:le:pereleganter
+:wd:pe^r-e_le^ganter		adverb
+
 pe^r-e_lo^quens		
 :le:pereloquens
 :aj:pe^r-e_lo^qu	ens_adj
@@ -148861,6 +150091,9 @@ per-gra^vis
 
 
 pergra^vi^ter	
+:le:pergraviter
+:wd:pergra^vi^ter		adverb
+
 pergu^la		
 :le:pergula
 :no:pergu^l	a_ae fem
@@ -148904,6 +150137,9 @@ pe^r-hu_ma_nus
 
 
 pe^rhu_ma_ni^ter	
+:le:perhumaniter
+:wd:pe^rhu_ma_ni^ter		adverb
+
 Pe^ri^a^lo^gos		
 :le:Perialogos
 :no:Pe^ri^a^lo^g	os_i masc
@@ -149433,12 +150669,18 @@ per-le^vis
 
 
 per-le^vi^ter	
+:le:perleviter
+:wd:per-le^vi^ter		adverb
+
 per-li_be^ra_lis		
 :le:perliberalis
 :aj:per-li_be^ra_l	is_e
 
 
 per-li_be^ra_li^ter	
+:le:perliberaliter
+:wd:per-li_be^ra_li^ter		adverb
+
 perli^benter		<orth type=alt>per-lu^benter</orth>
 perli_bra_ti^o		
 :le:perlibratio
@@ -149779,6 +151021,9 @@ pernix
 
 	<pos>adv.</pos>
 perni_ci^ter	
+:le:perniciter
+:wd:perni_ci^ter		adverb
+
 per-no_bi^lis		
 :le:pernobilis
 :aj:per-no_bi^l	is_e
@@ -150033,6 +151278,9 @@ perpe^tu^a_lis
 
 	<pos>adv.</pos>
 perpe^tu^a_li^ter	
+:le:perpetualiter
+:wd:perpe^tu^a_li^ter		adverb
+
 perpe^tu^a_ri^us		
 :le:perpetuarius
 :aj:perpe^tu^a_r	ius_ia_ium
@@ -150080,6 +151328,9 @@ perplexa_bi^lis
 
 
 perplexa_bi^li^ter	
+:le:perplexabiliter
+:wd:perplexa_bi^li^ter		adverb
+
 perplexim		
 :le:perplexim
 :wd:perplexim	adverb
@@ -150320,6 +151571,9 @@ per-sa^pi^ens
 
 	<pos>adv.</pos>
 persa^pi^enter	
+:le:persapienter
+:wd:persa^pi^enter		adverb
+
 per-sce^le^ra_tus		
 :le:persceleratus
 :aj:per-sce^le^ra_t	us_a_um
@@ -150331,6 +151585,9 @@ per-sci^ens		<itype>entis</itype>
 
 
 per-sci^enter	
+:le:perscienter
+:wd:per-sci^enter		adverb
+
 per-sci_tus		
 :le:perscitus
 :aj:per-sci_t	us_a_um
@@ -150461,6 +151718,9 @@ perse^ve_ra_ti^o
 
 
 perse^ve_ranter	
+:le:perseveranter
+:wd:perse^ve_ranter		adverb
+
 per-se^ve_rus		
 :le:perseverus
 :aj:per-se^ve_r	us_a_um
@@ -150546,6 +151806,9 @@ perso_na_lis
 
 
 perso_na_li^ter	
+:le:personaliter
+:wd:perso_na_li^ter		adverb
+
 perso_na_ta		
 :le:personata
 :no:perso_na_t	a_ae fem
@@ -150607,6 +151870,9 @@ perspi^cax
 
 
 perspi^ca_ci^ter	
+:le:perspicaciter
+:wd:perspi^ca_ci^ter		adverb
+
 perspi^ci^bi^lis		
 :le:perspicibilis
 :aj:perspi^ci^bi^l	is_e
@@ -150651,6 +151917,9 @@ persua_si^bi^lis
 
 
 persua_-si^bi^li^ter	
+:le:persuasibiliter
+:wd:persua_-si^bi^li^ter		adverb
+
 persua_si^o		
 :le:persuasio
 :no:persua_si^	o_oLnis fem
@@ -150673,6 +151942,9 @@ per-sua_vis
 
 
 persua_-vi^ter	
+:le:persuaviter
+:wd:persua_-vi^ter		adverb
+
 per-subti_lis		
 :le:persubtilis
 :aj:per-subti_l	is_e
@@ -150735,6 +152007,9 @@ per-ti^nax
 	<pos>adv.</pos>
 perti^na_ci^ter		<orth>Perti^nax</orth>	<itype>a_cis</itype>	<gen>m.</gen>
 perti^nenter	
+:le:pertinenter
+:wd:perti^nenter		adverb
+
 pertracta_ti^o		<orth>pertrecta_ti^o</orth>	
 :le:pertractatio
 :no:pertracta_ti^	o_oLnis fem
@@ -151014,6 +152289,9 @@ pervi^cax
 
 	<pos>adv.</pos>
 pervi^-ca_ci^ter	
+:le:pervicaciter
+:wd:pervi^-ca_ci^ter		adverb
+
 pervi^cus		
 :le:pervicus
 :aj:pervi^c	us_a_um
@@ -151597,6 +152875,9 @@ Petta^lus
 
 pe^tu^lans		<itype>antis</itype>	<pos>adj.</pos>
 pe^tu^lanter	
+:le:petulanter
+:wd:pe^tu^lanter		adverb
+
 pe^tu^lanti^a		
 :le:petulantia
 :no:pe^tu^lanti^	a_ae fem
@@ -153885,6 +155166,9 @@ pi^a_cu^la_ris
 
 
 pi^a_cu^la_ri^-ter	
+:le:piaculariter
+:wd:pi^a_cu^la_ri^-ter		adverb
+
 pi^a_cu^lum		<orth>pi^a_-clum</orth>	
 :le:piaculum
 :no:pi^a_cu^l	us_i neut
@@ -154516,6 +155800,9 @@ pinguis	<itype>Hence</itype>
 
 
 pingui^ter	
+:le:pinguiter
+:wd:pingui^ter		adverb
+
 pingui^ti^a		
 :le:pinguitia
 :no:pingui^ti^	a_ae fem
@@ -155206,6 +156493,9 @@ pla_ca_bi^lis
 
 
 pla_ca_bi^li^ter	
+:le:placabiliter
+:wd:pla_ca_bi^li^ter		adverb
+
 pla_ca_bi^li^tas		
 :le:placabilitas
 :no:pla_ca_bi^li^	tas_tatis fem
@@ -155759,6 +157049,9 @@ plausi^bi^lis
 
 	<pos>adv.</pos>
 plau-si^bi^li^ter	
+:le:plausibiliter
+:wd:plau-si^bi^li^ter		adverb
+
 plausi^lis		
 :le:plausilis
 :aj:plausi^l	is_e
@@ -156304,6 +157597,9 @@ plu_ra_lis
 
 
 plu_ra_li^-ter	
+:le:pluraliter
+:wd:plu_ra_li^-ter		adverb
+
 plu_ra_li^tas		
 :le:pluralitas
 :no:plu_ra_li^	tas_tatis fem
@@ -156613,6 +157909,9 @@ poena_les
 
 
 poena_li^ter	
+:le:poenaliter
+:wd:poena_li^ter		adverb
+
 poena_ri^us		
 :le:poenarius
 :aj:poena_r	ius_ia_ium
@@ -156881,6 +158180,9 @@ Pollenti_-nus		<orth type=alt>Po_lent-</orth>
 
 
 pollenter	
+:le:pollenter
+:wd:pollenter		adverb
+
 pollex#1		
 :le:pollex#1
 :no:poll	ex_icis masc
@@ -156951,6 +158253,9 @@ pollu_ci^bi^lis
 
 
 pollu_ci^bi^li^ter	
+:le:pollucibiliter
+:wd:pollu_ci^bi^li^ter		adverb
+
 pollu_ci^bi^li^tas		
 :le:pollucibilitas
 :no:pollu_ci^bi^li^	tas_tatis fem
@@ -157415,6 +158720,9 @@ pompa_lis
 
 
 pompa_li^ter	
+:le:pompaliter
+:wd:pompa_li^ter		adverb
+
 pompa_li^tas		
 :le:pompalitas
 :no:pompa_li^	tas_tatis fem
@@ -157569,6 +158877,9 @@ ponde^ra_bi^lis
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 ponde^ra_bi^li^ter	
+:le:ponderabiliter
+:wd:ponde^ra_bi^li^ter		adverb
+
 ponde^ra_ri^um		
 :le:ponderarium
 :no:ponde^ra_r	ius_i neut
@@ -157637,7 +158948,11 @@ Pontia#2
 :no:Ponti	a_ae fem
 
 
-Pontiae		<itype>a_rum</itype>
+Pontiae		
+:le:Pontiae
+:no:Ponti	a_ae fem pl
+
+
 ponti^cu^lus		
 :le:ponticulus
 :no:ponti^cu^l	us_i masc
@@ -157874,6 +159189,9 @@ popu^la_ris
 
 	<pos>adv.</pos>
 po^pu^la_ri^ter	
+:le:populariter
+:wd:po^pu^la_ri^ter		adverb
+
 po^pu^la_ri^tas		
 :le:popularitas
 :no:po^pu^la_ri^	tas_tatis fem
@@ -158514,6 +159832,9 @@ possi^bi^lis
 
 	<pos>adv.</pos>
 possi^-bi^li^ter	
+:le:possibiliter
+:wd:possi^-bi^li^ter		adverb
+
 possi^bi^li^tas		
 :le:possibilitas
 :no:possi^bi^li^	tas_tatis fem
@@ -158521,6 +159842,9 @@ possi^bi^li^tas
 
 possum		<itype>po^tu^i, posse</itype>
 po^tenter	
+:le:potenter
+:wd:po^tenter		adverb
+
 post		
 :le:post
 :wd:post	adverb
@@ -159445,6 +160769,9 @@ praeco_ni^a_lis
 
 	<pos>adv.</pos>
 praeco_ni^a_li^ter	
+:le:praeconialiter
+:wd:praeco_ni^a_li^ter		adverb
+
 praeco_ni^a_ti^o		
 :le:praeconiatio
 :no:praeco_ni^a_ti^	o_oLnis fem
@@ -159928,6 +161255,9 @@ praefectus
 
 prae-fi_dens		<itype>entis</itype>
 praefi_denter	
+:le:praefidenter
+:wd:praefi_denter		adverb
+
 praefi^gu_ra_ti^o		
 :le:praefiguratio
 :no:praefi^gu_ra_ti^	o_oLnis fem
@@ -160259,6 +161589,9 @@ praeme_ta_tus
 
 
 praeme^tu^enter	
+:le:praemetuenter
+:wd:praeme^tu^enter		adverb
+
 praemi^a_lis		
 :le:praemialis
 :aj:praemi^a_l	is_e
@@ -160794,6 +162127,9 @@ praesci^enti^a
 
 
 praesci^-enter	
+:le:praescienter
+:wd:praesci^-enter		adverb
+
 praesci_ti^o		
 :le:praescitio
 :no:praesci_ti^	o_oLnis fem
@@ -161035,6 +162371,9 @@ prae-stus
 
 	<pos>adv.</pos>
 praestanter	
+:le:praestanter
+:wd:praestanter		adverb
+
 praesto_la_tio		
 :le:praestolatio
 :no:praesto_la_ti	o_oLnis fem
@@ -162146,6 +163485,9 @@ pri_mordi^a_lis
 
 
 pri_mordi^a_li^ter	
+:le:primordialiter
+:wd:pri_mordi^a_li^ter		adverb
+
 pri_mordi^us		
 :le:primordius
 :aj:pri_mord	ius_ia_ium
@@ -162222,6 +163564,9 @@ princi^pa_lis
 
 
 princi^pa_li^ter	
+:le:principaliter
+:wd:princi^pa_li^ter		adverb
+
 princi^pa_li^tas		
 :le:principalitas
 :no:princi^pa_li^	tas_tatis fem
@@ -162472,6 +163817,9 @@ pro^ba_bi^lis
 
 	<pos>adv.</pos>
 pro^-ba_bi^li^ter	
+:le:probabiliter
+:wd:pro^-ba_bi^li^ter		adverb
+
 pro^ba_bi^li^tas		
 :le:probabilitas
 :no:pro^ba_bi^li^	tas_tatis fem
@@ -162633,6 +163981,9 @@ pro^cax
 
 	<pos>adv.</pos>
 pro^ca_ci^ter	
+:le:procaciter
+:wd:pro^ca_ci^ter		adverb
+
 pro^ce^leusma^ti^cus		
 :le:proceleusmaticus
 :no:pro^ce^leusma^ti^c	us_i masc
@@ -162985,6 +164336,9 @@ pro_di^gi^a_lis
 
 
 pro_di^gi^a_-li^ter	
+:le:prodigialiter
+:wd:pro_di^gi^a_-li^ter		adverb
+
 pro_di^gi^a_tor		
 :le:prodigiator
 :no:pro_di^gi^a_t	or_oLris masc
@@ -163284,6 +164638,9 @@ pro_-flu^o	<itype>Hence</itype>
 
 
 pro_flu^enter	
+:le:profluenter
+:wd:pro_flu^enter		adverb
+
 pro_flu^us		
 :le:profluus
 :aj:pro_flu^	us_a_um
@@ -163744,6 +165101,9 @@ pro_mi^nens
 
 
 pro_mi^nenter	
+:le:prominenter
+:wd:pro_mi^nenter		adverb
+
 pro_mi^nu^lus		
 :le:prominulus
 :aj:pro_mi^nu^l	us_a_um
@@ -165297,6 +166657,9 @@ pro_verbi^a_lis
 
 
 pro_verbi^a_li^ter	
+:le:proverbialiter
+:wd:pro_verbi^a_li^ter		adverb
+
 pro_verbi^um		
 :le:proverbium
 :no:pro_verb	ius_i neut
@@ -165438,6 +166801,9 @@ pru_dens	<itype>Hence</itype>
 
 
 pru_denter	
+:le:prudenter
+:wd:pru_denter		adverb
+
 pru_denti^a		
 :le:prudentia
 :no:pru_denti^	a_ae fem
@@ -166338,6 +167704,9 @@ pu^ella_ris
 
 	<pos>adv.</pos>
 pu^ella_ri^ter	
+:le:puellariter
+:wd:pu^ella_ri^ter		adverb
+
 pu^ella_ri^us		
 :le:puellarius
 :no:pu^ella_r	ius_i masc
@@ -166550,6 +167919,9 @@ pugnax
 
 	<pos>adv.</pos>
 pugna_ci^ter	
+:le:pugnaciter
+:wd:pugna_ci^ter		adverb
+
 pugne^us		
 :le:pugneus
 :aj:pugne^	us_a_um
@@ -167121,6 +168493,9 @@ pu_pilla_ris
 
 
 pu_pilla_-ri^ter	
+:le:pupillariter
+:wd:pu_pilla_-ri^ter		adverb
+
 pu_pilla_tus		
 :le:pupillatus
 :no:pu_pilla_t	us_us masc
@@ -167361,6 +168736,9 @@ pu_-rum
 
 pu_re_		<itype>and</itype>
 pu_ri^-ter	
+:le:puriter
+:wd:pu_ri^-ter		adverb
+
 pu_s		<itype>pu_ris</itype>	<gen>n.</gen>
 pu^sa		
 :le:pusa
@@ -168434,7 +169812,11 @@ qua_^dri^go_nus
 :aj:qua_^dri^go_n	us_a_um
 
 
-qua_^dri_gu^lae		<itype>a_rum</itype>
+qua_^dri_gu^lae		
+:le:quadrigulae
+:no:qua_^dri_gu^l	a_ae fem pl
+
+
 qua_^dri_gu^la_ri^us		
 :le:quadrigularius
 :aj:qua_^dri_gu^la_r	ius_ia_ium
@@ -168777,6 +170159,9 @@ qua_lis
 
 	<pos>pron. adj.</pos>	<pos>adv.</pos>
 qua_-li^ter	
+:le:qualiter
+:wd:qua_-li^ter		adverb
+
 qua_lis-cumque		<orth>-cunque</orth>	<pos>adj.</pos>	<itype>Hence</itype>	
 :le:qualiscumque
 :wd:qua_lis-cumque	adverb
@@ -170608,6 +171993,9 @@ ra^ti^o_na_bi^lis
 
 
 ra^ti^o_-na_bi^li^ter	
+:le:rationabiliter
+:wd:ra^ti^o_-na_bi^li^ter		adverb
+
 ra^ti^o_na_bi^li^tas		
 :le:rationabilitas
 :no:ra^ti^o_na_bi^li^	tas_tatis fem
@@ -170634,6 +172022,9 @@ ra^ti^o_na_lis	<itype>Hence</itype>
 
 
 ra^ti^o_na_li^ter	
+:le:rationaliter
+:wd:ra^ti^o_na_li^ter		adverb
+
 ra^ti^o_na_li^tas		
 :le:rationalitas
 :no:ra^ti^o_na_li^	tas_tatis fem
@@ -171485,6 +172876,9 @@ re^dunda_ti^o
 
 
 re^dundanter	
+:le:redundanter
+:wd:re^dundanter		adverb
+
 re^du^pli^ca_ti^o		
 :le:reduplicatio
 :no:re^du^pli^ca_ti^	o_oLnis fem
@@ -171773,6 +173167,9 @@ re_ga_li^a		<itype>i^um</itype>
 
 
 re_ga_-li^ter	
+:le:regaliter
+:wd:re_ga_-li^ter		adverb
+
 re^-gammans		<itype>antis</itype>	<pos>adj.</pos>
 re^ge^la_ti^o		
 :le:regelatio
@@ -171862,6 +173259,9 @@ re^gi^o_na_lis
 
 
 re^gi^o_na_li^-ter	
+:le:regionaliter
+:wd:re^gi^o_na_li^-ter		adverb
+
 re^gi^o_na_tim		
 :le:regionatim
 :wd:re^gi^o_na_tim	adverb
@@ -171983,6 +173383,9 @@ re_gu^la_ris
 
 
 re_gu^la_ri^ter	
+:le:regulariter
+:wd:re_gu^la_ri^ter		adverb
+
 re_gu^la_tim		
 :le:regulatim
 :wd:re_gu^la_tim	adverb
@@ -172869,6 +174272,9 @@ re^pugnanti^a
 
 
 re^pugnanter	
+:le:repugnanter
+:wd:re^pugnanter		adverb
+
 re^pulsa		
 :le:repulsa
 :no:re^puls	a_ae fem
@@ -174537,6 +175943,9 @@ ri_tu^a_li^a
 
 	<pos>adv.</pos>
 ri_tu^a_li^ter	
+:le:ritualiter
+:wd:ri_tu^a_li^ter		adverb
+
 ri_tus		
 :le:ritus
 :no:ri_t	us_us masc
@@ -174773,7 +176182,11 @@ Ro_mu^le^us
 :aj:Ro_mu^le^	us_a_um
 
 
-Ro_mu^li^dae		<itype>a_rum</itype>
+Ro_mu^li^dae		
+:le:Romulidae
+:no:Ro_mu^li^d	a_ae fem pl
+
+
 Ro_mu^lus#1		
 :le:Romulus#1
 :no:Ro_mu^l	us_i masc
@@ -175582,6 +176995,9 @@ ru_ra_lis
 
 
 ru_ra_li^ter	
+:le:ruraliter
+:wd:ru_ra_li^ter		adverb
+
 ru_ra_ti^o		
 :le:ruratio
 :no:ru_ra_ti^	o_oLnis fem
@@ -176416,6 +177832,9 @@ saecu^la_ris	<itype>Hence</itype>
 
 
 saecu^la_ri^ter	
+:le:saeculariter
+:wd:saecu^la_ri^ter		adverb
+
 saecu^lum		<orth>sae-clum</orth>	<orth>se_cu^lum, se_-clum</orth>	
 :le:saeculum
 :no:saecu^l	us_i neut
@@ -176639,6 +178058,9 @@ sa^gax
 
 	<pos>adv.</pos>
 sa^-ga_ci^ter	
+:le:sagaciter
+:wd:sa^-ga_ci^ter		adverb
+
 sagda		
 :le:sagda
 :no:sagd	a_ae fem
@@ -176803,7 +178225,11 @@ Sa^i^_ti^cus
 :aj:Sa^i^_ti^c	us_a_um
 
 
-Sa^i_tae		<itype>a_rum</itype>
+Sa^i_tae		
+:le:Saitae
+:no:Sa^i_t	a_ae fem pl
+
+
 sal		<itype>sa^lis</itype>
 sa^le^		<itype>sales</itype>	<gen>m.</gen>	<gen>m.</gen>
 sa^la^cacca^bi^a		
@@ -177279,7 +178705,11 @@ Sa^-lo^mo_ni^a^cus
 :aj:Sa^-lo^mo_ni^a^c	us_a_um
 
 
-Sa^lo_nae		<itype>a_rum</itype>
+Sa^lo_nae		
+:le:Salonae
+:no:Sa^lo_n	a_ae fem pl
+
+
 Sa^lo_na		
 :le:Salona
 :no:Sa^lo_n	a_ae fem
@@ -177479,6 +178909,9 @@ sa^lu_-ber		<itype>salubris</itype>	<gen>m.</gen>	<pos>adj.</pos>	<itype>infra</
 
 
 sa^lu_bri^-ter	
+:le:salubriter
+:wd:sa^lu_bri^-ter		adverb
+
 sa^lu_bri^tas		
 :le:salubritas
 :no:sa^lu_bri^	tas_tatis fem
@@ -177897,6 +179330,9 @@ sancti^mo_ni^a_lis
 
 
 sancti^mo_ni^a_li^ter	
+:le:sanctimonialiter
+:wd:sancti^mo_ni^a_li^ter		adverb
+
 sancti^o		
 :le:sanctio
 :no:sancti^	o_oLnis fem
@@ -178204,6 +179640,9 @@ sa^pi^ens
 
 	<pos>adv.</pos>
 sa^pi^en-ter	
+:le:sapienter
+:wd:sa^pi^en-ter		adverb
+
 Sa_pis		
 :le:Sapis
 :no:Sa_p	is_is masc
@@ -179086,7 +180525,11 @@ Sau_rocto^nos
 :no:Sau_rocto^n	os_i masc
 
 
-Sauro^ma^tae		<itype>a_rum</itype>
+Sauro^ma^tae		
+:le:Sauromatae
+:no:Sauro^ma^t	a_ae fem pl
+
+
 Sauro^-ma^tes		
 :le:Sauromates
 :no:Sauro^-ma^t	es_ae masc
@@ -179361,7 +180804,11 @@ sca_la
 :no:sca_l	a_ae fem
 
 
-sca_lae		<itype>a_rum</itype>
+sca_lae		
+:le:scalae
+:no:sca_l	a_ae fem pl
+
+
 sca_la_ri^i		
 :le:scalarii
 :no:sca_la_ri^	us_i masc pl
@@ -180078,6 +181525,9 @@ scintillu^la
 
 
 sci^enter	
+:le:scienter
+:wd:sci^enter		adverb
+
 sci^o^lus		
 :le:sciolus
 :no:sci^o^l	us_i masc
@@ -180911,6 +182361,9 @@ scurri_lis
 
 
 scurri_li^ter	
+:le:scurriliter
+:wd:scurri_li^ter		adverb
+
 scurri_li^tas		
 :le:scurrilitas
 :no:scurri_li^	tas_tatis fem
@@ -181843,7 +183296,11 @@ Se_ja		<orth>Seia</orth>
 
 
 
-se_ju^gae		<itype>a_rum</itype>
+se_ju^gae		
+:le:sejugae
+:no:se_ju^g	a_ae fem pl
+
+
 se_ju^gis#1		
 :le:sejugis#1
 :no:se_ju^g	is_is masc
@@ -183124,6 +184581,9 @@ se^ni_lis
 
 
 se^ni_li^ter	
+:le:seniliter
+:wd:se^ni_li^ter		adverb
+
 se_ni^o		
 :le:senio
 :no:se_ni^	o_oLnis masc
@@ -183164,6 +184624,9 @@ sensi^bi^lis
 
 
 sensi^bi^li^ter	
+:le:sensibiliter
+:wd:sensi^bi^li^ter		adverb
+
 sensi^bi^li^tas		
 :le:sensibilitas
 :no:sensi^bi^li^	tas_tatis fem
@@ -183210,6 +184673,9 @@ sensu^a_lis
 
 
 sensu^a_li^ter	
+:le:sensualiter
+:wd:sensu^a_li^ter		adverb
+
 sensu^a_li^tas		
 :le:sensualitas
 :no:sensu^a_li^	tas_tatis fem
@@ -183236,6 +184702,9 @@ sententi^a_lis
 
 	<pos>adv.</pos>
 sententi^a_li^ter	
+:le:sententialiter
+:wd:sententi^a_li^ter		adverb
+
 sententi^o^la		
 :le:sententiola
 :no:sententi^o^l	a_ae fem
@@ -183758,6 +185227,9 @@ se^quax		<itype>a_cis</itype>	<gen>m.</gen>
 
 
 se^qua_ci^ter	
+:le:sequaciter
+:wd:se^qua_ci^ter		adverb
+
 se^que_la		<orth>se^quella</orth>	
 :le:sequela
 :no:se^que_l	a_ae fem
@@ -185564,6 +187036,9 @@ signi^fi^ca_tus
 
 
 signi^fi^canter	
+:le:significanter
+:wd:signi^fi^canter		adverb
+
 signi^te^nens		<itype>entis</itype>
 signan-ter		
 :le:signanter
@@ -185675,6 +187150,9 @@ si^lentes
 
 	<pos>adv.</pos>
 si^lenter	
+:le:silenter
+:wd:si^lenter		adverb
+
 si_ler#1		
 :le:siler#1
 :no:si_l	er_eris neut
@@ -185738,7 +187216,11 @@ si^li^qua
 :no:si^li^qu	a_ae fem
 
 
-si^li^quae		<itype>a_rum</itype>
+si^li^quae		
+:le:siliquae
+:no:si^li^qu	a_ae fem pl
+
+
 si^li^quastrum		
 :le:siliquastrum
 :no:si^li^quastr	us_i neut
@@ -186009,6 +187491,9 @@ simplex
 
 	<pos>adv.</pos>
 simpli^ci^ter	
+:le:simpliciter
+:wd:simpli^ci^ter		adverb
+
 simpli^ca_bi^lis		
 :le:simplicabilis
 :aj:simpli^ca_bi^l	is_e
@@ -186775,6 +188260,9 @@ si^ti_cu^lo_sus
 
 
 si^ti^enter	
+:le:sitienter
+:wd:si^ti^enter		adverb
+
 Sitiogagus		
 :le:Sitiogagus
 :no:Sitiogag	us_i masc
@@ -187026,12 +188514,18 @@ so^ci^a_bi^lis
 
 	<pos>adv.</pos>
 so^ci^a_bi^li^ter	
+:le:sociabiliter
+:wd:so^ci^a_bi^li^ter		adverb
+
 so^ci^a_lis		
 :le:socialis
 :aj:so^ci^a_l	is_e
 
 	<pos>adv.</pos>
 so^-ci^a_li^ter	
+:le:socialiter
+:wd:so^-ci^a_li^ter		adverb
+
 so^ci^a_li^tas		
 :le:socialitas
 :no:so^ci^a_li^	tas_tatis fem
@@ -187090,6 +188584,9 @@ so_cors		<itype>cordis</itype>	<pos>adj.</pos>
 
 
 so^cor-di^ter	
+:le:socorditer
+:wd:so^cor-di^ter		adverb
+
 So_cra^tes		
 :le:Socrates
 :aj:So_cra^t	es_is masc
@@ -187709,6 +189206,9 @@ somni^a_lis
 
 	<itype>Hence</itype>	<pos>adv.</pos>
 somni^a_li^ter	
+:le:somnialiter
+:wd:somni^a_li^ter		adverb
+
 somni^a_tor		
 :le:somniator
 :no:somni^a_t	or_oLris masc
@@ -187756,6 +189256,9 @@ somnu^lentus		<orth type=alt>somno^l-</orth>
 
 	<pos>adv.</pos>
 somno^len-ter	
+:le:somnolenter
+:wd:somno^len-ter		adverb
+
 somnurnus		
 :le:somnurnus
 :aj:somnurn	us_a_um
@@ -188584,6 +190087,9 @@ spe^ci^a_lis
 
 
 spe^-ci^a_li^ter	
+:le:specialiter
+:wd:spe^-ci^a_li^ter		adverb
+
 spe^ci^a_li^tas		
 :le:specialitas
 :no:spe^ci^a_li^	tas_tatis fem
@@ -189533,6 +191039,9 @@ sponta_lis
 
 
 sponta_li^ter	
+:le:spontaliter
+:wd:sponta_li^ter		adverb
+
 sponta_ne^us		
 :le:spontaneus
 :aj:sponta_ne^	us_a_um
@@ -189859,6 +191368,9 @@ sta^bi^lis
 
 	<pos>adv.</pos>
 sta^bi^li^ter	
+:le:stabiliter
+:wd:sta^bi^li^ter		adverb
+
 sta^bi^li^tas		
 :le:stabilitas
 :no:sta^bi^li^	tas_tatis fem
@@ -192287,6 +193799,9 @@ sua_vis
 
 	<itype>suave</itype>	<pos>adv.</pos>	<pos>adv.</pos>
 sua_vi^-ter	
+:le:suaviter
+:wd:sua_vi^-ter		adverb
+
 sua_vi^so^nus		
 :le:suavisonus
 :aj:sua_vi^so^n	us_a_um
@@ -193136,6 +194651,9 @@ subse^qui^um
 
 
 subse^quenter	
+:le:subsequenter
+:wd:subse^quenter		adverb
+
 subse^quus		<orth>subsi^cu^us</orth>	
 :le:subsequus
 :aj:subse^qu	us_a_um
@@ -193273,6 +194791,9 @@ substanti^a_lis
 
 
 sub-stanti^a_li^ter	
+:le:substantialiter
+:wd:sub-stanti^a_li^ter		adverb
+
 substanti^a_li^tas		
 :le:substantialitas
 :no:substanti^a_li^	tas_tatis fem
@@ -193486,6 +195007,9 @@ subti_li^a
 
 	<pos>adv.</pos>
 subti_li^ter	
+:le:subtiliter
+:wd:subti_li^ter		adverb
+
 subti_li^tas		<orth type=alt>supt-</orth>	
 :le:subtilitas
 :no:subti_li^	tas_tatis fem
@@ -195864,6 +197388,9 @@ supplex
 
 	<pos>adv.</pos>
 sup-pli^ci^ter	
+:le:suppliciter
+:wd:sup-pli^ci^ter		adverb
+
 suppli^ca_mentum		<orth type=alt>subpl-</orth>	
 :le:supplicamentum
 :no:suppli^ca_ment	us_i neut
@@ -198028,6 +199555,9 @@ ta_lis
 
 	<pos>adv.</pos>
 ta_li^ter	
+:le:taliter
+:wd:ta_li^ter		adverb
+
 ta_lis-cumque		<itype>talecumque</itype>	<pos>adj.</pos>
 ta_litrum		
 :le:talitrum
@@ -198609,7 +200139,11 @@ Tarra^ci_na		<orth>Terr-</orth>
 :no:Tarra^ci_n	a_ae fem
 
 
-Tarra^ci_nae		<itype>a_rum</itype>
+Tarra^ci_nae		
+:le:Tarracinae
+:no:Tarra^ci_n	a_ae fem pl
+
+
 Tarra^ci^nensis		<orth type=alt>Terr-</orth>	
 :le:Tarracinensis
 :aj:Tarra^ci^nens	is_e
@@ -199241,7 +200775,11 @@ te^gi^men		<orth type=alt>te^gu^men</orth>	<orth>tegmen</orth>
 
 
 tecto_	
-te_gu^lae		<itype>a_rum</itype>
+te_gu^lae		
+:le:tegulae
+:no:te_gu^l	a_ae fem pl
+
+
 te_gu^la		
 :le:tegula
 :no:te_gu^l	a_ae fem
@@ -199699,6 +201237,9 @@ tempo^ra_lis
 
 
 tempo^ra_li^ter	
+:le:temporaliter
+:wd:tempo^ra_li^ter		adverb
+
 tempo^ra_li^tas		
 :le:temporalitas
 :no:tempo^ra_li^	tas_tatis fem
@@ -199779,6 +201320,9 @@ te^na_ces
 
 
 te^na_ci^ter	
+:le:tenaciter
+:wd:te^na_ci^ter		adverb
+
 Tenchthe_ri		<orth type=alt>Tencte_ri</orth>	
 :le:Tenchtheri
 :no:Tenchthe_r	us_i masc pl
@@ -199814,7 +201358,11 @@ te^ne^bellae
 :no:te^ne^bell	a_ae fem pl
 
 
-te^ne_^brae		<itype>a_rum</itype>
+te^ne_^brae		
+:le:tenebrae
+:no:te^ne_^br	a_ae fem pl
+
+
 te^ne_^-bra		
 :le:tenebra
 :no:te^ne_^-br	a_ae fem
@@ -200065,6 +201613,9 @@ te^nu^is	<itype>Hence</itype>
 
 
 te^nu^i^ter	
+:le:tenuiter
+:wd:te^nu^i^ter		adverb
+
 te^nu^i^tas		
 :le:tenuitas
 :no:te^nu^i^	tas_tatis fem
@@ -200480,6 +202031,9 @@ terri^bi^lis
 
 
 terri^bi^li^ter	
+:le:terribiliter
+:wd:terri^bi^li^ter		adverb
+
 terri^bi^li^tas		
 :le:terribilitas
 :no:terri^bi^li^	tas_tatis fem
@@ -201441,7 +202995,11 @@ the^a_trum
 :no:the^a_tr	us_i neut
 
 
-The_bae		<itype>a_rum</itype>
+The_bae		
+:le:Thebae
+:no:The_b	a_ae fem pl
+
+
 The_be_		
 :le:Thebe
 :no:The_b	e_es fem
@@ -201728,7 +203286,11 @@ The_ra_me^nes
 :no:The_ra_me^n	es_ae masc
 
 
-The^rapnae		<orth type=alt>The^ramnae</orth>	<itype>a_rum</itype>
+The^rapnae		<orth type=alt>The^ramnae</orth>	
+:le:Therapnae
+:no:The^rapn	a_ae fem pl
+
+
 -e_		
 :le:e
 :no:-	e_es fem
@@ -203671,6 +205233,9 @@ to^le^ra_bi^lis
 
 
 to^le^ra_bi^-li^ter	
+:le:tolerabiliter
+:wd:to^le^ra_bi^-li^ter		adverb
+
 to^le^ranti^a		
 :le:tolerantia
 :no:to^le^ranti^	a_ae fem
@@ -204192,6 +205757,9 @@ torrens
 
 
 torrenter	
+:le:torrenter
+:wd:torrenter		adverb
+
 torri^dus		
 :le:torridus
 :aj:torri^d	us_a_um
@@ -204418,6 +205986,9 @@ tracta_bi^lis
 
 
 tracta_bi^-li^ter	
+:le:tractabiliter
+:wd:tracta_bi^-li^ter		adverb
+
 tracta_bi^li^tas		
 :le:tractabilitas
 :no:tracta_bi^li^	tas_tatis fem
@@ -205303,6 +206874,9 @@ tre^bax
 
 
 tre^ba_ci^ter	
+:le:trebaciter
+:wd:tre^ba_ci^ter		adverb
+
 Tre^belli^us		
 :le:Trebellius
 :no:Tre^bell	ius_i masc
@@ -206219,6 +207793,9 @@ tri^me_^tros		<orth type=alt>-trus</orth>
 
 
 tri^me^-ter	
+:le:trimeter
+:wd:tri^me^-ter		adverb
+
 tri^mo^di^a		
 :le:trimodia
 :no:tri^mo^di^	a_ae fem
@@ -206490,6 +208067,9 @@ tri_^pli^ces
 
 
 tri^pli^ci^-ter	
+:le:tripliciter
+:wd:tri^pli^ci^-ter		adverb
+
 tri^pli^ca_bi^lis		
 :le:triplicabilis
 :aj:tri^pli^ca_bi^l	is_e
@@ -208077,6 +209657,9 @@ turpis	<itype>Hence</itype>
 
 
 turpi^ter	
+:le:turpiter
+:wd:turpi^ter		adverb
+
 turpi^tu_do		
 :le:turpitudo
 :no:turpi^tu_d	o_inis fem
@@ -209125,6 +210708,9 @@ umbra_ti^lis
 
 
 umbra_ti^li^ter	
+:le:umbratiliter
+:wd:umbra_ti^li^ter		adverb
+
 umbra_ti^o		
 :le:umbratio
 :no:umbra_ti^	o_oLnis fem
@@ -209263,6 +210849,9 @@ u_na^ni^mis
 
 
 u_na^ni^mi^-ter	
+:le:unanimiter
+:wd:u_na^ni^mi^-ter		adverb
+
 u_na^ni^mi^tas		
 :le:unanimitas
 :no:u_na^ni^mi^	tas_tatis fem
@@ -209705,6 +211294,9 @@ u_ni^-formis
 
 
 u_ni^formi^ter	
+:le:uniformiter
+:wd:u_ni^formi^ter		adverb
+
 u_ni^formi^tas		
 :le:uniformitas
 :no:u_ni^formi^	tas_tatis fem
@@ -209997,6 +211589,9 @@ u_re_ti^cus
 
 
 urgenter	
+:le:urgenter
+:wd:urgenter		adverb
+
 u_ri_ca		
 :le:urica
 :no:u_ri_c	a_ae fem
@@ -210209,6 +211804,9 @@ u_su^a_lis
 
 	<pos>adv.</pos>
 u_su^a_li^ter	
+:le:usualiter
+:wd:u_su^a_li^ter		adverb
+
 u_su^a_ri^us		
 :le:usuarius
 :aj:u_su^a_r	ius_ia_ium
@@ -210400,6 +211998,9 @@ u_ti^lis	<itype>Hence</itype>
 
 
 u_ti^li^ter	
+:le:utiliter
+:wd:u_ti^li^ter		adverb
+
 u_ti^li^tas		
 :le:utilitas
 :no:u_ti^li^	tas_tatis fem
@@ -210654,6 +212255,9 @@ va^canti^a
 
 	<pos>adv.</pos>
 va^-canter	
+:le:vacanter
+:wd:va^-canter		adverb
+
 va^cu^i^tas		
 :le:vacuitas
 :no:va^cu^i^	tas_tatis fem
@@ -210843,6 +212447,9 @@ va^lentu^lus
 
 
 va^-lenter	
+:le:valenter
+:wd:va^-lenter		adverb
+
 va^le^ri^a		
 :le:valeria
 :no:va^le^ri^	a_ae fem
@@ -210906,6 +212513,9 @@ valgus
 
 	<pos>adv.</pos>
 valgi^ter	
+:le:valgiter
+:wd:valgi^ter		adverb
+
 va^li^di^tas		
 :le:validitas
 :no:va^li^di^	tas_tatis fem
@@ -210977,7 +212587,11 @@ valva
 :no:valv	a_ae fem
 
 
-valvae		<itype>a_rum</itype>
+valvae		
+:le:valvae
+:no:valv	a_ae fem pl
+
+
 valva_tus		
 :le:valvatus
 :aj:valva_t	us_a_um
@@ -211104,6 +212718,9 @@ va^po_ra_lis
 
 
 va^po_ra_li^ter	
+:le:vaporaliter
+:wd:va^po_ra_li^ter		adverb
+
 va^po_ra_ri^um		
 :le:vaporarium
 :no:va^po_ra_r	ius_i neut
@@ -212054,6 +213671,9 @@ ve_lox
 
 	<pos>adv.</pos>
 ve_lo_ci^ter	
+:le:velociter
+:wd:ve_lo_ci^ter		adverb
+
 ve_lum		
 :le:velum
 :no:ve_l	us_i neut
@@ -212207,6 +213827,9 @@ vendi^bi^lis
 
 
 vendi^bi^li^ter	
+:le:vendibiliter
+:wd:vendi^bi^li^ter		adverb
+
 vendi^ta_ti^o		
 :le:venditatio
 :no:vendi^ta_ti^	o_oLnis fem
@@ -212662,6 +214285,9 @@ ve_rax
 
 
 ve_ra_ci^ter	
+:le:veraciter
+:wd:ve_ra_ci^ter		adverb
+
 verba_lis		
 :le:verbalis
 :aj:verba_l	is_e
@@ -213030,6 +214656,9 @@ verni_lis
 
 
 verni_li^ter	
+:le:verniliter
+:wd:verni_li^ter		adverb
+
 verni_li^tas		
 :le:vernilitas
 :no:verni_li^	tas_tatis fem
@@ -214693,6 +216322,9 @@ vi_lis
 
 	<pos>adv.</pos>
 vi_li^ter	
+:le:viliter
+:wd:vi_li^ter		adverb
+
 vi_li^tas		
 :le:vilitas
 :no:vi_li^	tas_tatis fem
@@ -214916,7 +216548,11 @@ vindi^ca_tor
 :no:vindi^ca_t	or_oLris masc
 
 
-vindi^ci^ae		<itype>a_rum</itype>
+vindi^ci^ae		
+:le:vindiciae
+:no:vindi^ci^	a_ae fem pl
+
+
 vindi^-ci^a		
 :le:vindicia
 :no:vindi^-ci^	a_ae fem
@@ -215393,6 +217029,9 @@ vi^ri_lia
 
 
 vi^ri_li^ter	
+:le:viriliter
+:wd:vi^ri_li^ter		adverb
+
 vi^ri_li^tas		
 :le:virilitas
 :no:vi^ri_li^	tas_tatis fem
@@ -215543,6 +217182,9 @@ vi_si^bi^lis
 
 
 vi_si^bi^li^ter	
+:le:visibiliter
+:wd:vi_si^bi^li^ter		adverb
+
 vi_si^bi^li^tas		
 :le:visibilitas
 :no:vi_si^bi^li^	tas_tatis fem
@@ -215604,6 +217246,9 @@ vi_su^a_li^a
 
 
 vi_su^a_li^ter	
+:le:visualiter
+:wd:vi_su^a_li^ter		adverb
+
 vi_su^a_li^tas		
 :le:visualitas
 :no:vi_su^a_li^	tas_tatis fem
@@ -215656,6 +217301,9 @@ vi_ta_lia
 
 
 vi_ta_li^ter	
+:le:vitaliter
+:wd:vi_ta_li^ter		adverb
+
 vi_ta_li^tas		
 :le:vitalitas
 :no:vi_ta_li^	tas_tatis fem
@@ -216013,6 +217661,9 @@ vi_vax
 
 
 vi_va_ci^ter	
+:le:vivaciter
+:wd:vi_va_ci^ter		adverb
+
 viverra		
 :le:viverra
 :no:viverr	a_ae fem
@@ -216108,6 +217759,9 @@ vo_ca_les
 
 
 vo_ca_li^ter	
+:le:vocaliter
+:wd:vo_ca_li^ter		adverb
+
 vo_ca_li^tas		
 :le:vocalitas
 :no:vo_ca_li^	tas_tatis fem
@@ -216346,6 +218000,9 @@ vo^lens
 
 	<pos>adv.</pos>
 vo^lenter	
+:le:volenter
+:wd:vo^lenter		adverb
+
 vo^lantes		
 :le:volantes
 :no:vo^lant	is_is masc fem pl
@@ -216437,6 +218094,9 @@ vo^lu_bi^lis
 
 
 vo^lu_bi^-li^ter	
+:le:volubiliter
+:wd:vo^lu_bi^-li^ter		adverb
+
 vo^lu_bi^li^tas		
 :le:volubilitas
 :no:vo^lu_bi^li^	tas_tatis fem
@@ -216449,6 +218109,9 @@ vo^lu_^cris
 
 
 vo^lu^cri^ter	
+:le:volucriter
+:wd:vo^lu^cri^ter		adverb
+
 vo^lu_cra		
 :le:volucra
 :no:vo^lu_cr	a_ae fem
@@ -216744,6 +218407,9 @@ vo^rax
 
 
 vo^ra_ci^ter	
+:le:voraciter
+:wd:vo^ra_ci^ter		adverb
+
 vorsovorso_ri^us		<orth type=alt>vorsum</orth>
 vortexvorti^co_sus		<orth type=alt>vorto</orth>
 Vo^se^gus		<orth>Vo^sa^gus</orth>	<itype>and, less correctly</itype>
@@ -216787,6 +218453,9 @@ vulga_rius
 
 
 vulga_-ri^ter	
+:le:vulgariter
+:wd:vulga_-ri^ter		adverb
+
 vulga_ri^tas		<orth type=alt>volg-</orth>	
 :le:vulgaritas
 :no:vulga_ri^	tas_tatis masc

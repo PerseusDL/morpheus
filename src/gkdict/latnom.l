@@ -1,7 +1,8 @@
 
 %%
 
-^[A-Za-z\^\_\-\+]+[#1-9]* 	set_lemma();
+^[A-Za-z][a-z\^\_\-]+"ter\t"$	dump_adv();
+^[A-Za-z\^\_\-\+]+[#1-9]* 	set_lemma(yytext);
 
 "<orth type=alt>"[A-Za-z][^ <]+[\-\.]"</orth>"	set_orthalt(15);
 "<orth>"[A-Za-z][^ <]+[\-\.]"</orth>"	set_orthalt(6);
@@ -23,7 +24,14 @@ unsigned char curlemma[BUFSIZ], curstem[BUFSIZ], stemnoacc[BUFSIZ], curitype[BUF
 unsigned char curpat[BUFSIZ];
 int dumped_stem = 0;
 
-set_lemma()
+
+dump_adv()
+{
+	set_lemma(yytext);
+	printf("\n:le:%s\n:wd:%s\tadverb\n", curlemma, yytext );
+}
+
+set_lemma(char *p)
 {
 	char * t = curlemma;
 	int i;
@@ -32,7 +40,7 @@ set_lemma()
 	for(i=0;i<MAXORTH;i++) orthtab[i][0] = 0;
 
 	ECHO;
-	strcpy(curlemma,yytext);
+	strcpy(curlemma,p);
 	while(*t) {
 		if( !isalpha(*t) && *t!='#' && !isdigit(*t) ) {
 			strcpy(t,t+1);
@@ -392,6 +400,7 @@ if( is_itype("ci^pi^tis","eps") )	return( dump_adj('e',"eps_ipitis"," masc fem n
 	if( is_itype("a^dis","as") ) return( dump_nom('a',"as_adis"," fem",""));
 	if( is_itype("vi^ri","ir") ) return( dump_nom(-1,"0_i"," masc",""));
 	if( is_itype("i^nis","men") ) return( dump_nom('m',"men_minis"," neut",""));
+	if( is_itype("a_rum","ae") ) return( dump_nom('a',"a_ae"," fem"," pl"));
 	if( is_itype("dri","er") ) return( dump_nom('e',"er_ri"," masc",""));
 	if( is_itype("i^tis","es") ) return( dump_nom('e',"es_itis"," masc fem",""));
 	if( is_itype("a_tis","as") ) return( dump_nom('t',"tas_tatis"," fem",""));

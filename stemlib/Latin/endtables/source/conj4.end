@@ -61,6 +61,7 @@ ie_ns	pres part neut acc sg
 ient@superl_adj 	superl
 ient@comp_adj 	comp
 iente	pres part masc/fem/neut abl sg
+ienti_	pres part masc/fem/neut abl sg
 ient@decl3_i pres part  masc fem neut
 #
 iend@decl1 gerundive fem 
@@ -70,10 +71,10 @@ iendus	gerundive masc nom sg
 iendum	gerundive neut nom sg
 
 #this is *not* the way to do this, but it will work for now
-isti	are_vb 2nd sg perf ind act contr
-i_runt	are_vb 3rd pl perf ind act contr
-i_r@past	are_vb plup ind act contr
-i_ri@basvb2	are_vb perf subj act contr
-iss@emsub	are_vb plup subj act contr
+isti	ire_vb 2nd sg perf ind act contr
+i_runt	ire_vb 3rd pl perf ind act contr
+i_r@past	ire_vb plup ind act contr
+i_ri@basvb2	ire_vb perf subj act contr
+iss@emsub	ire_vb plup subj act contr
 
-isse	are_vb perf inf act contr
+isse	ire_vb perf inf act contr
