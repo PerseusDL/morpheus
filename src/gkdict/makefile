@@ -15,9 +15,10 @@ CC=gcc
 #CFLAGS= -O -I${INCLUDE}   -Wstrict-prototypes   -Wmissing-prototypes
 CFLAGS= -O -I${INCLUDE}   
 LINTFLAGS= -I${INCLUDE} -DDEBUG
-RM=/bin/rm
+RM=/bin/rm -f
 
 ALL=gkdict.a indexcomps indexnoms indexvbs  newlems newlems2 setquant splitlems splitlat latvb conj1 combitype latnom fixhesc 
+
 all: ${ALL}
 
 install: ${ALL}
