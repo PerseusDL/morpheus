@@ -119,8 +119,12 @@ sub doverb {
     my $class = '';
     my $stem = $lem;
 
-    if ($stem =~ s/(care|gare|ciare|giare|are|ere|ire)$//) {
+    if ($stem =~ s/(care|gare|ciare|giare|are|ere|ire|urre)$//) {
 	$class = $1 . "_vb";
+    }
+    else
+    {
+	$class = "irreg_vb";
     }
 
     return if $class eq '';
