@@ -350,7 +350,7 @@ DumpPerseusAnalysis(gk_word *Gkword, PrntFlags prntflags, gk_analysis *anal, FIL
  *
  * only english words are upper case
  */
-		if( isupper(lemma_of(anal)[0]))
+		if( isupper(lemma_of(anal)[0]) && cur_lang() != LATIN )
 			fprintf(fout,"E ");
 		else
 			fprintf(fout,"N ");

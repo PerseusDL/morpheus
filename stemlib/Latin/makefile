@@ -54,7 +54,7 @@ ia.noms:
 ls.morph: ${LSDIR}/lemmata
 	fgrep ":le:" stemsrc/vbs.latin.bas | cut -d: -f3 | sort > stemsrc/lemmata
 	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | latvb > ls.vbs
-	sed -e 's/\-//' ${LSDIR}/lemmata |  splitlat | fgrep -v -f vtags | fgrep -v "<pos>P. a.</pos>" |  newlems -L | fgrep -v ": " | newlats > /usr/tmp/ls.morph
+	splitlems < ${LSDIR}/lemmata |  fixhesc | fgrep -v -f vtags | fgrep -v "<pos>P. a.</pos>" |  latnom > /usr/tmp/ls.morph
 	egrep -e "^:" ls.vbs > stemsrc/vbs.latin
 	fgrep -v "0:" /usr/tmp/ls.morph > stemsrc/ls.nom
 	cp /usr/tmp/ls.morph .
@@ -63,3 +63,6 @@ simp.vbs:
 	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | fgrep -f hyph -v | latvb > ls.simp.vbs
 	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | fgrep -f hyph | latvb > ls.comp.vbs
 
+/tmp/nt: latnom splitlems
+	splitlems < /local/text/ls/lemmata | latnom > /tmp/lat
+	getitype < /tmp/lat | sort | uniq -c | sort -rn > /tmp/nt

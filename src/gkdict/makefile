@@ -17,7 +17,7 @@ CFLAGS= -O -I${INCLUDE}
 LINTFLAGS= -I${INCLUDE} -DDEBUG
 RM=/bin/rm
 
-ALL=gkdict.a indexcomps indexnoms indexvbs  newlems newlems2 newlats setquant splitlems newlats splitlat latvb conj1 combitype
+ALL=gkdict.a indexcomps indexnoms indexvbs  newlems newlems2 setquant splitlems splitlat latvb conj1 combitype latnom fixhesc 
 all: ${ALL}
 
 install: ${ALL}
@@ -50,3 +50,8 @@ ${DICTLIB}: ${DICTOBJ}
 
 clean:
 	rm -f *.o
+
+/tmp/nt: latnom splitlems
+	splitlems < /local/text/ls/lemmata | fixhesc | fgrep -v vtags  | latnom > /tmp/lat
+	getitype < /tmp/lat | sort | uniq -c | sort -rn > /tmp/nt
+
