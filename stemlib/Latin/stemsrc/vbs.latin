@@ -9878,6 +9878,9 @@
 :le:mutio
 :vs:mu_t	conj4
 :vs:mu_ti_v perfstem
+:vs:mutt	conj4 orth
+:vs:mutti_v	perfstem orth
+:vs:mutti_t	pp4 orth
 :le:mutito
 :de:mu_ti^t	are_vb
 :le:muto#1
