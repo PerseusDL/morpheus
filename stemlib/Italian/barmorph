@@ -54,6 +54,13 @@ while (<>) {
 	donom($lem,$gen);
     }
 
+    while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*(?:<pos>pron\.<\/pos>\s*)?<gen>([mf])\.<\/gen>/ /s) {
+	my $lem = $1;
+	my $gen = $2;
+
+	donom($lem,$gen);
+    }
+
     while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>adj\.<\/pos>/ /s
 	   or s/<pos>adj\.<\/pos>\s*<orth[^>]*>([^<]+)<\/orth>/ /s) {
 	my $lem = $1;
