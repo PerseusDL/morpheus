@@ -36,10 +36,25 @@ while (<>) {
 	next unless $lem = fixlem($lem);
 
 	my $stem = $lem;
-	$stem =~ s/[o]$//;
+	my $class = '';
+
+	if ($stem =~ s/co$//) {
+	    $class = 'co_ca';
+	}
+	elsif ($stem =~ s/go$//) {
+	    $class = 'go_ga';
+	}
+	elsif ($stem =~ s/[o]$//) {
+	    $class = 'o_a';
+	}
+	elsif ($stem =~ s/[e]$//) {
+	    $class = 'e_i';
+	}
+
+	next if $class eq '';
 
 	print "\n:le:$lem\n";
-	print ":aj:$stem\to_i\n";
+	print ":aj:$stem\t$class\n";
     }
 
     while (s/<orth[^>]*>([^<]+)<\/orth>[,\s]*<pos>adv\.<\/pos>/ /s
