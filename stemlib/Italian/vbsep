@@ -1,0 +1,18 @@
+#!/usr/bin/perl
+
+use strict;
+
+$/ = '';
+
+my $type = shift @ARGV;
+
+$type = 'vb' if $type eq '';
+
+while (<>) {
+    if ($type eq 'vb') {
+	print if /:de:/;
+    }
+    else {
+	print unless /:de:/;
+    }
+}
