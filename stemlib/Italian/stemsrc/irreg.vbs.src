@@ -17,7 +17,10 @@
 :vb:stati	irreg_pp1 perf part masc pl
 :vb:stata	irreg_pp1 perf part fem sg
 :vb:state	irreg_pp1 perf part fem pl
-:vb:essendo	irreg_pp1 gerund
+:vb:essenda	irreg_pp1 gerundive fem sg
+:vb:essende	irreg_pp1 gerundive fem pl
+:vb:essendo	irreg_pp1 gerundive masc sg
+:vb:essendi	irreg_pp1 gerundive masc pl
 
 :vb:fui		irreg_pp1 pastabs ind 1st sg
 :vb:fosti	irreg_pp1 pastabs ind 2nd sg
@@ -121,8 +124,12 @@
 :vb:abbiate	irreg_pp1 pres imperat 2nd pl
 :vb:abbiano	irreg_pp1 pres imperat 3rd pl
 
-:vb:avendo	irreg_pp1 gerund
-:vb:avente	irreg_pp1 pres part
+:vb:avenda	irreg_pp1 gerundive fem sg
+:vb:avende	irreg_pp1 gerundive fem pl
+:vb:avendo	irreg_pp1 gerundive masc sg
+:vb:avendi	irreg_pp1 gerundive masc pl
+:vb:avente	irreg_pp1 pres part sg
+:vb:aventi	irreg_pp1 pres part pl
 :vb:avuto	irreg_pp1 perf part masc sg
 :vb:avuti	irreg_pp1 perf part masc pl
 :vb:avuta	irreg_pp1 perf part fem sg
