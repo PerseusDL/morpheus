@@ -15,7 +15,7 @@ FILE *
  	if( !(f=fopen(tmpname,mode)) ) {
  		fprintf(stderr,"MorphFopen: could not open [%s]\n", tmpname );
 /* just die here -- should go up higher but will live with this for now. */
-exit(-1);
+
 /*
  		return(NULL);
 */

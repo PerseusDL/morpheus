@@ -58,6 +58,8 @@ typedef unsigned int Stemtype;
 #define PP_FP		(070000000)
 #define PP_VA		(ADJSTEM)
 #define PP_VN		(NOUNSTEM)
+/* latin supine */
+#define PP_SU		(060000000)
 
 #define has_passive_stype(stype) ((stype & PPARTMASK ) == PP_AP)
 #define has_middle_stype(stype) (((stype & PPARTMASK ) == PP_FU) || ((stype & PPARTMASK ) == PP_AO))

@@ -27,6 +27,7 @@ struct {
 		"pp_pp",		PP_PP,
 		"pp_ap",		PP_AP,
 		"pp_fp",		PP_FP,
+		"pp_su",		PP_SU,
 		"pp_va",		PP_VA,
 		"pp_vn",		PP_VN,
 		"verbstem",		VERBSTEM,
