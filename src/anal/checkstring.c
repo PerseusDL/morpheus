@@ -1,5 +1,4 @@
 #include <gkstring.h>
-
 #include "checkstring.proto.h"
 static checkstring4(gk_word *);
 static add_apostrvowel(char *, char *, char *);
@@ -665,7 +664,7 @@ checkapostr(gk_word *Gkword)
 	int rval = 0;
 	int curval = 0;
 	char * p;
-
+	int	num_sylls = 0;
 	
 	Xstrncpy(saveword,workword_of(Gkword),MAXWORDSIZE );
 	p = workword_of(Gkword);
@@ -697,33 +696,49 @@ checkapostr(gk_word *Gkword)
 		Xstrncpy(workword_of(Gkword),saveword,MAXWORDSIZE);
 	}
 
+/* Monosyllables don't drop their last vowel unless it's epsilon (Smyth 70).  
+   Note, though, that the apparent number of syllables will be one less than 
+   it should be, if there really is a vowel missing.  For example, a)ll' will 
+   appear to be one syllable -- it's an elided disyllable.  But d' will appear 
+   to have no syllables at all -- it is therefore an elided monosyllable and
+   must be de.  */
 /*
  * try an 'a'
  */
- 	add_apostrvowel(workword_of(Gkword),p,"a");
-	curval = checkstring3(Gkword);
-	set_workword(Gkword,saveword);
-	rval += curval;
+	num_sylls = nsylls(workword_of(Gkword));
+	if (num_sylls >= 1)
+	{
+ 		add_apostrvowel(workword_of(Gkword),p,"a");
+		curval = checkstring3(Gkword);
+		set_workword(Gkword,saveword);
+		rval += curval;
+	}
 
 /*
  * try an 'i'
  */
 
- 	add_apostrvowel(workword_of(Gkword),p,"i");
-	curval = checkstring3(Gkword);
-	set_workword(Gkword,saveword);
-	rval += curval;
+	if (num_sylls >= 1)
+	{
+ 		add_apostrvowel(workword_of(Gkword),p,"i");
+		curval = checkstring3(Gkword);
+		set_workword(Gkword,saveword);
+		rval += curval;
+	}
 
 /*
  * try an 'o'
  */
- 	add_apostrvowel(workword_of(Gkword),p,"o");
-	curval = checkstring3(Gkword);
-	set_workword(Gkword,saveword);
-	rval += curval;
+	if (num_sylls >= 1)
+	{
+ 		add_apostrvowel(workword_of(Gkword),p,"o");
+		curval = checkstring3(Gkword);
+		set_workword(Gkword,saveword);
+		rval += curval;
+	}
 
 /*
- * try an 'e'
+ * try an 'e' -- even if it's a monosyllable
  */
  	add_apostrvowel(workword_of(Gkword),p,"e");
 	curval = checkstring3(Gkword);
@@ -735,13 +750,16 @@ checkapostr(gk_word *Gkword)
  * grc 7/11/89 -- to analyze gene/sq', which appears in pindar
  *
  */
- 	add_apostrvowel(workword_of(Gkword),p,"ai");
- 	set_morphflags(&TmpGstr,morphflags_of(Gkword));
- 	add_morphflag(morphflags_of(Gkword),POETIC);
-	curval = checkstring3(Gkword);
-	set_workword(Gkword,saveword);
-	rval += curval;
- 	set_gwmorphflags(Gkword,morphflags_of(&TmpGstr));
+	if (num_sylls >= 1)
+	{
+ 		add_apostrvowel(workword_of(Gkword),p,"ai");
+ 		set_morphflags(&TmpGstr,morphflags_of(Gkword));
+ 		add_morphflag(morphflags_of(Gkword),POETIC);
+		curval = checkstring3(Gkword);
+		set_workword(Gkword,saveword);
+		rval += curval;
+ 		set_gwmorphflags(Gkword,morphflags_of(&TmpGstr));
+	}
  	
  	if( ! rval ) {
  		int syllno = 0;
