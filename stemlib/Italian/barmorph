@@ -143,6 +143,10 @@ sub doadj {
 	$class = 'e_i';
     }
 
+    if ($class eq '')
+    {
+	print STDERR "adj $lem\n";
+    }
     return if $class eq '';
 
     print "\n:le:$lem\n";
@@ -159,12 +163,17 @@ sub doverb {
     my $class = '';
     my $stem = $lem;
 
-    if ($stem =~ s/(care|gare|ciare|giare|are|ere|ire|urre)$//) {
+    if ($stem =~ s/(care|gare|ciare|giare|are|ere|ire|urre|arre|orre)$//) {
+	$class = $1 . "_vb";
+    }
+    elsif ($stem =~ s/(carsi|garsi|ciarsi|giarsi|arsi|ersi|irsi)$//)
+    {
 	$class = $1 . "_vb";
     }
     else
     {
 	$class = "irreg_vb";
+	print STDERR "vb $lem\n";
     }
 
     return if $class eq '';
