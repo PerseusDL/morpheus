@@ -20,6 +20,8 @@ ambo	numeral neut pl acc
 ambae	numeral	fem pl nom
 ambas	numeral	fem pl acc
 ambos	numeral	masc pl acc
+ambo_rum	irreg_adj3 masc neut gen pl
+amba_rum	irreg_adj3 fem gen pl
 
 :le:anne
 :wd:anne	adverb
@@ -51,6 +53,9 @@ Cere^r@decl3	irreg_nom3 fem sg
 :le:cor
 cor	neut nom voc acc sg irreg_nom3
 cord@decl3	irreg_nom3 neut	
+
+:le:dehinc
+:wd:dehinc	adverb
 
 :le:duo
 duo	irreg_adj3 masc neut nom pl
@@ -106,6 +111,9 @@ jur@decl3	irreg_nom3 neut
 :le:nemo
 nemo		irreg_nom3 masc fem nom sg
 nemin@decl3	irreg_nom3 masc fem
+
+:le:neu
+:wd:neu	adverb
 
 :le:nix
 nix	irreg_nom3 fem nom sg

@@ -69,6 +69,8 @@
 :wd:ambos   numeral masc acc pl
 :wd:ambas   numeral fem acc pl
 :wd:ambo   numeral neut acc pl
+:wd:ambo_rum   irreg_adj3 masc/neut gen pl
+:wd:amba_rum   irreg_adj3 fem gen pl
 
 :le:anne
 :wd:anne	adverb
@@ -126,6 +128,9 @@
 :wd:cordum   irreg_nom3 neut gen pl
 :wd:cordibus   irreg_nom3 neut dat pl
 :wd:cordibus   irreg_nom3 neut abl pl
+
+:le:dehinc
+:wd:dehinc	adverb
 
 :le:duo
 :wd:duo   irreg_adj3 masc/neut nom pl
@@ -228,6 +233,9 @@
 :wd:neminibus   irreg_nom3 masc/fem dat pl
 :wd:nemine_s   irreg_nom3 masc/fem acc pl
 :wd:neminibus   irreg_nom3 masc/fem abl pl
+
+:le:neu
+:wd:neu	adverb
 
 :le:nix
 :wd:nix   irreg_nom3 fem nom sg

@@ -144471,10 +144471,12 @@ palla_ris
 
 
 Palla^s#1		<itype>a^dis and a^dos</itype>	<gen>f.</gen>
+:le:Pallas#1
+:no:Pall	as_adis fem
+
 Palla^di^us		
 :le:Palladius
 :aj:Palla^d	ius_ia_ium
-
 
 Palla^di^um		
 :le:Palladium
@@ -178155,6 +178157,9 @@ runco#2
 
 
 ru_pes		<itype>is</itype>
+:le:rupes
+:no:ru_p	es_is fem
+
 ru_pa		
 :le:rupa
 :no:ru_p	a_ae fem
