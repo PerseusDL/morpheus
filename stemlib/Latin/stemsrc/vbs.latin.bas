@@ -720,7 +720,7 @@
 :vs:sa^l 	conj4
 :vs:sall 	conj3 late
 :vs:sa^li_t	pp4
-:vs:sals	pp4 late
+:vs:sals	pp4
 
 :le:salio#2
 :de:sa^l	ire_vb no_comp

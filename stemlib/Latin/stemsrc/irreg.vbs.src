@@ -469,3 +469,7 @@ dui@basvb2	irreg_pp1 pres subj act early
 :vb:cre_duat	irreg_pp1 3rd sg pres subj act
 :vb:cre_duis	irreg_pp1 2nd sg pres subj act
 :vb:cre_duit	irreg_pp1 3rd sg pres subj act
+
+:le:cedo#2
+:vb:cedo	irreg_pp1 2nd sg pres imperat act
+:vb:cette	irreg_pp1 2nd pl pres imperat act

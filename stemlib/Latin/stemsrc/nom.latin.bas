@@ -287,12 +287,6 @@
 :no:dap 	is_is fem
 :wd:daps	s_is fem nom sg
 
-:le:de#1
-:wd:de_	adverb
-
-:le:de#2
-:wd:de_	prep
-
 :le:decem
 :wd:de^cem	numeral
 
@@ -650,9 +644,6 @@
 
 :le:lex
 :no:le_	x_gis fem
-
-:le:liber#4
-:no:li_b er_ri masc
 
 :le:libet
 :aj:li^b ens_adj
@@ -1055,6 +1046,9 @@
 
 :le:quot
 :wd:quot	adverb
+
+:le:rectus
+:aj:rect	us_a_um
 
 :le:remex
 :no:rem		ex_igis masc

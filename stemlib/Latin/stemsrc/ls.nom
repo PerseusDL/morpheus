@@ -54632,11 +54632,11 @@ Da_vus		<orth type=alt>Davos</orth>
 
 
 de_#1		
-:le:de#1
-:wd:de_	adverb
-
-
 de_#2		<pos>prep.</pos>
+:le:de
+:wd:de_	adverb
+:wd:de_	prep
+
 de^a		
 :le:dea
 :no:de^	a_ae fem
@@ -112286,17 +112286,17 @@ Li^benti_na		<orth type=alt>Lu^b-</orth>
 liber#1		
 :le:liber#1
 :aj:lib	er_era_erum
-
 	<pos>adv.</pos>
 li_be^re_	
+
 li_ber#2		
 :le:liber#2
-:no:li_b	er_ri masc
+:no:li_b	0_i masc
 
 
 Li_ber#3		
 :le:Liber#3
-:no:Li_b	er_ri masc
+:no:Li_b	0_i masc
 
 
 li^ber#4		
@@ -165831,7 +165831,7 @@ pro_-jecte_
 pro^-inde_		<orth>proin</orth>	
 :le:proinde
 :wd:pro^-inde_	adverb
-
+:wd:proin	adverb	orth
 
 pro_jecti_ci^us		<orth>-ti^us</orth>	
 :le:projecticius
