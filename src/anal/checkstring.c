@@ -338,6 +338,8 @@ checkstring3(gk_word *Gkword)
 	for (idx = 0;  string[idx] != 0;  idx ++)
 	{
 	    string[idx] = tolower(string[idx]);
+	    if (string[idx] == 'v' && strchr("aeiou", string[idx+1]) == 0)
+	      string[idx] = 'u';
 	}
 	if ((rval = checkstring4(Gkword)) > 0 )
 	{
