@@ -16,6 +16,13 @@
 :le:carnufex
 :no:carnuf	ex_icis masc
 
+:le:Iesus
+:wd:I^e_sus	irreg_nom2 masc nom sg
+:wd:I^e_sum	irreg_nom2 masc acc sg
+:wd:I^e_su	irreg_nom2 masc gen sg
+:wd:I^e_su	irreg_nom2 masc abl sg
+:wd:I^e_su	irreg_nom2 masc voc sg
+
 :le:mus
 :no:m		uLs_uLris masc fem
 
