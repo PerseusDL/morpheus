@@ -370,7 +370,7 @@
 :aj:eloqu	ens_adj
 
 :le:en
-:wd:en		prep
+:wd:en		exclam
 
 :le:enim
 :wd:enim	conj
@@ -555,6 +555,9 @@
 :le:in
 :wd:in	prep
 :wd:in	adverb
+
+:le:iners
+:aj:iner	s_tis_adj
 
 :le:ingens
 :aj:ing		ens_adj
@@ -972,6 +975,13 @@
 
 :le:prior
 :wd:priusquam	adverb
+
+:le:pro#1
+:wd:pro_	prep
+:wd:pro_	adverb
+
+:le:pro#2
+:wd:pro_	exclam
 
 :le:propter
 :wd:propter	adverb

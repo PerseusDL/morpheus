@@ -506,7 +506,7 @@ lact@decl3	irreg_nom3 neut
 mell@decl3	irreg_nom3 neut
 
 :le:mille
-mille		numeral masc fem nom pl
+mille		numeral masc fem nom acc voc pl
 mil@decl3_i	numeral neut nom pl
 mil@decl3_i	numeral masc fem neut gen pl
 mil@decl3_i	numeral masc fem neut dat pl

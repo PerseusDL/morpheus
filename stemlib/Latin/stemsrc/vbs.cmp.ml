@@ -159,7 +159,9 @@ ad-porto apporto
 ad-prendo apprendo
 ad-propero appropero
 ad-propinquo appropinquo
+ad-quaero acquiro
 ad-quiesco adquiesco
+ad-repo arrepo
 ad-saturo assatura
 ad-sector#2 assector
 ad-sedo assedo
@@ -168,6 +170,7 @@ ad-soleo assoleo
 ad-sto asto
 ad-suesco assuesco
 ad-sum#1 adsum
+ad-surgo assurgo
 ad-tribulo attribulo
 ad-uto adutor
 ad-utor adutor
@@ -273,6 +276,7 @@ con-lecto collector
 con-lego#1 collega
 con-libet collibet
 con-libo#1 collibet
+con-luceo colluceo
 con-monito commonitor
 con-munito communiter
 con-necto connecto
@@ -443,14 +447,14 @@ ex-cio excio
 ex-consulo exconsularis
 ex-creo excreo
 ex-cubito excubitor
-ex-dico#1 exdico
-ex-dico#2 exdico
+ex-dico#2 edico
 ex-dito editor
 ex-ducto eductor
 ex-edo exedo
 ex-edo exesto
 ex-edo#2 exedo
 ex-eo#1 exeo
+ex-fero effero#1
 ex-fervesco effervesco
 ex-fio effio
 ex-fleo effleo
@@ -523,6 +527,7 @@ in-communio#1 incommunis
 in-como#1 incomis
 in-credo incredendus
 in-credo incredundus
+in-cubo incubo
 in-cresco incresco
 in-doleo indoles
 in-dolo#1 indoles
@@ -551,6 +556,7 @@ in-gestio#2 ingestio
 in-gradior ingredior
 in-humano inhumano
 in-jugo#2 injugis
+in-ludo illudo
 in-merito#2 immerito
 in-mobilito immobilitas
 in-munito immunitas
@@ -570,6 +576,8 @@ in-proviso#2 improviso
 in-pulso impulsor
 in-punior impunis
 in-rado inrado
+in-rideo irrideo
+in-rumpo irrumpo
 in-saepio insaepio
 in-saluto insalutaris
 in-signo insigno
@@ -781,6 +789,7 @@ pro-fero profero
 pro-fluento profluenter
 pro-fugo profuga
 pro-fundito profunditas
+pro-gigno progigno
 pro-geniculo progeniculo
 pro-lugeo prolugeo
 pro-mello promellere
@@ -820,6 +829,7 @@ re-do reda
 re-do redo
 re-do#2 reda
 re-do#2 redo
+re-eo#1 redeo
 re-fero refero
 re-fero refert
 re-frico refrico
@@ -901,13 +911,16 @@ sub-malo summalis
 sub-meo summa
 sub-meo summas
 sub-minio#1 summinia
+sub-mitto summitto
 sub-moto summotor
+sub-necto subnecto
 sub-oculo subocularis
 sub-pedo#1 suppedo
 sub-pedo#2 suppedo
 sub-presso suppressor
 sub-pudeo suppudet
 sub-rapio surripio
+sub-rego surgo
 sub-ringor surringor
 sub-ruo surruo
 sub-sipo subsipere

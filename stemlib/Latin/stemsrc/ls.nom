@@ -7944,11 +7944,6 @@ alnus
 :no:aln	us_i fem
 
 
-altum		
-:le:altum
-:no:alt	us_i neut
-
-
 a^lo^e_		
 :le:aloe
 :no:a^lo^	e_es fem
@@ -8306,6 +8301,16 @@ altrix
 altrovorsum		<orth>altrorsus</orth>	
 :le:altrovorsum
 :wd:altrovorsum	adverb
+
+
+altus#1		
+:le:altus#1
+:aj:alt	us_a_um
+
+
+altum		
+:le:altum
+:no:alt	us_i neut
 
 
 altus#2		
@@ -75970,10 +75975,9 @@ fi^de^pro_missor
 
 
 fi^des#1		<itype>e^i</itype>	<gen>f.</gen>
-fi^des#2		<itype>ium</itype>
-fides		
-:le:fides
-:aj:fid	es_is fem
+fi^des#2		
+:le:fides#2
+:no:fi^d	is_is fem pl
 
 
 fi^des#2	<itype>Fides, is</itype>	<gen>f.</gen>
