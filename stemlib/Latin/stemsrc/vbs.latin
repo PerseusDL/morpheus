@@ -4025,6 +4025,9 @@
 :vs:de_-fervesc	conj3
 :vs:de_-ferv perfstem
 :vs:de_-a pp4
+:le:defetiscor
+:vs:de_fetisc	conj3
+:vs:de_fess	pp4
 :le:deficio
 :vs:de_-fi^c	conj3_io
 :vs:de_-fe_c perfstem
@@ -6641,6 +6644,7 @@
 :de:fa^ti_g	are_vb
 :le:fatisco
 :vs:fa^tisc	conj3
+:vs:fess	pp4
 :le:fator
 :de:fa_t	are_vb dep
 :le:fatuor#1
