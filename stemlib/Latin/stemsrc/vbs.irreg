@@ -50,9 +50,11 @@
 :vb:eundum   irreg_pp1 gerundive neut nom/voc/acc sg
 :vb:eundi_   irreg_pp1 gerundive masc/neut gen sg
 :vb:eundae   irreg_pp1 gerundive fem gen sg
+:vb:eunda_i_   irreg_pp1 gerundive fem gen sg poetic
 :vb:eundo_   irreg_pp1 gerundive masc/neut dat sg
 :vb:eundae   irreg_pp1 gerundive fem dat sg
 :vb:eundum   irreg_pp1 gerundive masc acc sg
+:vb:eundom   irreg_pp1 gerundive masc acc sg
 :vb:eundam   irreg_pp1 gerundive fem acc sg
 :vb:eunde   irreg_pp1 gerundive masc/neut voc sg
 :vb:eundo_   irreg_pp1 gerundive masc/neut abl sg
@@ -358,11 +360,17 @@
 :vb:e_nte_s   irreg_pp1 pres part masc/fem acc pl comp_only
 :vb:e_ntibus   irreg_pp1 pres part masc/fem/neut abl pl comp_only
 :vb:sim   irreg_pp1 pres subj act 1st sg
+:vb:siem   irreg_pp1 pres subj act 1st sg
 :vb:si_s   irreg_pp1 pres subj act 2nd sg
+:vb:sie_s   irreg_pp1 pres subj act 2nd sg
 :vb:sit   irreg_pp1 pres subj act 3rd sg
+:vb:siet   irreg_pp1 pres subj act 3rd sg
 :vb:si_mus   irreg_pp1 pres subj act 1st pl
+:vb:sie_mus   irreg_pp1 pres subj act 1st pl
 :vb:si_tis   irreg_pp1 pres subj act 2nd pl
+:vb:sie_tis   irreg_pp1 pres subj act 2nd pl
 :vb:sint   irreg_pp1 pres subj act 3rd pl
+:vb:sient   irreg_pp1 pres subj act 3rd pl
 :vb:ero_   irreg_pp1 fut ind act 1st sg
 :vb:eris   irreg_pp1 fut ind act 2nd sg
 :vb:erit   irreg_pp1 fut ind act 3rd sg

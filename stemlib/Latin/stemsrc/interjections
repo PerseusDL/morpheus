@@ -1,0 +1,24 @@
+#!/usr/bin/perl
+# fix the interjections in ls.nom
+# NOTE that this file is hereby no longer generated!
+
+while(<>)
+{
+    if (/<pos>interj/)
+    {
+	s|\s*<pos>interj\.</pos>||;
+	my ($word, $tail) = split /\s+/;
+	print "$word\tindecl exclam\n" unless ($word =~ /^\s*$/);
+	next if ($tail =~ /^\s*$/);
+	while ($tail =~ m|<orth>([^<]*)</orth>|g)
+	{
+	    my $orth = $1;
+	    next if ($orth =~ /^\s*$/);
+	    print "$orth\tindecl exclam\n";
+	}
+    }
+    else
+    {
+	print;
+    }
+}

@@ -223,6 +223,7 @@ fiant	irreg_pp1 pres subj act 3rd pl
 :vb:sunt	irreg_pp1 3rd pl pres ind act
 #
 si@basvb2	irreg_pp1 pres subj act
+sie@basvb2	irreg_pp1 pres subj act archaic
 era@basvb2	irreg_pp1 imperf ind act
 esse@basvb2	irreg_pp1 imperf subj act
 er@ofut		irreg_pp1 fut ind act

@@ -6382,8 +6382,9 @@ A^gy_ri^um
 
 A^gy^ri^nen-ses		<itype>ium</itype>
 A^gy^ri_-ni		<itype>orum</itype>
-a_h		<orth>a_</orth>	<pos>interj.</pos>
-a^ha^		<pos>interj.</pos>
+a_h	indecl exclam
+a_	indecl exclam
+a^ha^	indecl exclam
 A^ha_la		
 :le:Ahala
 :no:A^ha_l	a_ae masc
@@ -6395,7 +6396,8 @@ Aharna
 
 
 a^he_ne^us		<itype>ahenipes</itype>
-ai#1		<orth>ai</orth>	<pos>interj.</pos>
+ai#1	indecl exclam
+ai	indecl exclam
 ai#3	
 aienti^a		
 :le:aientia
@@ -7679,7 +7681,7 @@ alle_go^ri^cus
 
 
 alle_go^ri^ce_	
-alle_lu_ja		<pos>interj.</pos>
+alle_lu_ja	indecl exclam
 al-le_ni_mentum		<orth type=alt>adl-</orth>	
 :le:allenimentum
 :no:al-le_ni_ment	us_i neut
@@ -12481,7 +12483,7 @@ A^o_us
 :no:A^o_	us_i masc
 
 
-a^pa^ge^		<pos>interj.</pos>
+a^pa^ge^	indecl exclam
 a^pa^la^		<orth type=alt>ha^p-</orth>
 A^pa^me_a		<orth>-i_a</orth>	
 :le:Apamea
@@ -18505,7 +18507,8 @@ Atarne^us
 :aj:Atarne^	us_a_um
 
 
-a^ta^t		<orth>attat</orth>	<itype>also several times repeated, atatatae, attatatatae, or atatte, atattate</itype>	<pos>interj.</pos>
+a^ta^t	indecl exclam
+attat	indecl exclam
 a^ta^vi^a		
 :le:atavia
 :no:a^ta^vi^	a_ae fem
@@ -20870,7 +20873,8 @@ azy_ma
 B		<orth type=alt>b</orth>	<itype>indecl.</itype>	<gen>n.</gen>
 Ba_^al		<gen>m.</gen>
 Ba_^al	<itype>indecl.</itype>
-ba^bae		<orth>pa^pae</orth>	<pos>interj.</pos>
+ba^bae	indecl exclam
+pa^pae	indecl exclam
 Babba		
 :le:Babba
 :no:Babb	a_ae fem
@@ -24937,7 +24941,7 @@ bo^lus
 :no:bo^l	us_i masc
 
 
-bombax		<pos>interj.</pos>
+bombax	indecl exclam
 bombi^na_tor		
 :le:bombinator
 :no:bombi^na_t	or_oLris masc
@@ -26907,7 +26911,7 @@ Butro_tus
 :no:Butro_t	us_i masc
 
 
-buttuti		<pos>interj.</pos>
+buttuti	indecl exclam
 bu^tu^batta	
 Butuntum		
 :le:Butuntum
@@ -32684,7 +32688,8 @@ Castor#2
 :no:Cast	or_oris masc
 
 
-ecastor		<orth>mecastor</orth>	<pos>interj.</pos>
+ecastor	indecl exclam
+mecastor	indecl exclam
 Ad Casto^ris		<orth>Lo^cus Ca-sto^rum</orth>	<orth>Casto^re^us</orth>	<itype>a, um</itype>
 casto^re^um		<itype>ei</itype>	<gen>n.</gen>
 casto^ri_na_tus		
@@ -35887,7 +35892,7 @@ Chabri^as
 :no:Chabri^	as_ae masc
 
 
-chaere		<pos>interj.</pos>
+chaere	indecl exclam
 Chaere^a		
 :le:Chaerea
 :no:Chaere^	a_ae masc
@@ -64081,7 +64086,8 @@ ecbo^las
 
 ecce	
 eccentros		<itype>i</itype>	<pos>adj.</pos>
-ecce^re		<orth>e^ce^re</orth>	<pos>interj.</pos>
+ecce^re	indecl exclam
+e^ce^re	indecl exclam
 eccheuma		
 :le:eccheuma
 :no:eccheu	ma_matis neut
@@ -64954,12 +64960,13 @@ e^gu^la
 :no:e^gu^l	a_ae fem
 
 
-e^hem		<pos>interj.</pos>
-e_heu		<pos>interj.</pos>
-e^ho^		<pos>interj.</pos>
+e^hem	indecl exclam
+e_heu	indecl exclam
+e^ho^	indecl exclam
 e^i_#1	
-ei#2		<pos>interj.</pos>
-e_ia^		<orth>he_ia^</orth>	<pos>interj.</pos>
+ei#2	indecl exclam
+e_ia^	indecl exclam
+he_ia^	indecl exclam
 e^i_dem	
 ejaculari	
 e_jecta_mentum		
@@ -65722,8 +65729,8 @@ Elysii
 :no:Elysi	us_i masc pl
 
 
-em#2		<pos>interj.</pos>
-em#3		<pos>interj.</pos>
+em#2	indecl exclam
+em#3	indecl exclam
 e_-ma^ce^ra_tus		
 :le:emaceratus
 :aj:e_-ma^ce^ra_t	us_a_um
@@ -66295,7 +66302,7 @@ e^mys
 :no:e^my	s_dis fem
 
 
-e_n		<pos>interj.</pos>	<orth type=alt>indignant</orth>	<itype>manner something important or unexpected</itype>	<orth type=alt>in one word</orth>	<orth type=alt>enumquam</orth>
+e_n	indecl exclam
 e^nalla^ge		
 :le:enallage
 :no:e^nalla^g	e_es fem
@@ -67861,7 +67868,6 @@ e^qui^dem
 :le:equidem
 :wd:e^qui^dem	adverb
 
-	<pos>interj.</pos>
 e^qui^-fe^rus		
 :le:equiferus
 :no:e^qui^-fe^r	us_i masc
@@ -69123,7 +69129,7 @@ e^ty^mon
 :no:e^ty^m	os_i neut
 
 
-eu		<pos>interj.</pos>
+eu	indecl exclam
 Euadne		<orth type=alt>Euhadne</orth>	<orth type=alt>Evadne</orth>	
 :le:Euadne
 :no:Euadn	e_es fem
@@ -69141,7 +69147,7 @@ Euandri^-us
 :aj:Euandr	ius_ia_ium
 
 
-euax		<pos>interj.</pos>
+euax	indecl exclam
 Euboea		
 :le:Euboea
 :no:Euboe	a_ae fem
@@ -69253,7 +69259,8 @@ Euga^neus
 :aj:Euga^ne	us_a_um
 
 
-euge^		<orth>euge_</orth>	<orth>eugae</orth>	<pos>interj.</pos>	<gen>n.</gen>
+euge^	indecl exclam
+euge_	indecl exclam
 eugepae	
 euge^ne_us		<orth>-i_us</orth>	
 :le:eugeneus
@@ -69284,7 +69291,8 @@ Euhi^as
 :no:Euhi^	as_adis fem
 
 
-euhoe		<orth>euoe</orth>	<orth>e_voe</orth>	<pos>interj.</pos>
+euhoe	indecl exclam
+euoe	indecl exclam
 Euhy_dri^um		
 :le:Euhydrium
 :no:Euhy_dr	ius_i neut
@@ -69367,7 +69375,8 @@ eunu_chus
 :no:eunu_ch	us_i masc
 
 
-euoe		<orth>euhoe</orth>	<pos>interj.</pos>
+euoe	indecl exclam
+euhoe	indecl exclam
 euo_ny^mos		
 :le:euonymos
 :no:euo_ny^m	os_i fem
@@ -75175,7 +75184,7 @@ fe_tu_ti_na
 :no:fe_tu_ti_n	a_ae fem
 
 
-fi_#1		<pos>interj.</pos>
+fi_#1	indecl exclam
 fi^ber#1		<gen>m.</gen>
 fiber		<itype>extremus</itype>
 fi_^bra		
@@ -78631,7 +78640,8 @@ fu_cus#2
 :no:fu_c	us_i masc
 
 
-fue		<orth>fu</orth>	<pos>interj.</pos>
+fue	indecl exclam
+fu	indecl exclam
 Fu_fi^di^us		
 :le:Fufidius
 :aj:Fu_fi^d	ius_ia_ium
@@ -84312,7 +84322,7 @@ Gythe^a_tes
 
 	<pos>adj.</pos>
 H		<orth type=alt>h</orth>
-ha!		<pos>interj.</pos>
+ha!	indecl exclam
 ha^be_na		
 :le:habena
 :no:ha^be_n	a_ae fem
@@ -84802,7 +84812,7 @@ ha_li^tus		<orth type=alt>alitus</orth>
 :no:ha_li^t	us_us masc
 
 
-halle^lu_jah		<orth type=alt>a_lle^lu_ia</orth>	<pos>interj.</pos>
+halle^lu_jah	indecl exclam
 halle^lu_ja^ti^cus		
 :le:hallelujaticus
 :aj:halle^lu_ja^ti^c	us_a_um
@@ -85354,7 +85364,8 @@ Hate^ri^a_nus
 :aj:Hate^ri^a_n	us_a_um
 
 
-hau#1		<orth>au</orth>	<pos>interj.</pos>
+hau#1	indecl exclam
+au	indecl exclam
 haud		<orth>haut</orth>	<orth>hau</orth>	<itype>before consonants</itype>	
 :le:haud
 :wd:haud	adverb
@@ -85627,8 +85638,9 @@ He_ge_si_nus
 :no:He_ge_si_n	us_i masc
 
 
-he^hae		<pos>interj.</pos>
-hei		<orth>ei</orth>	<pos>interj.</pos>
+he^hae	indecl exclam
+hei	indecl exclam
+ei	indecl exclam
 He_i+us		
 :le:Heius
 :no:He_	ius_i masc
@@ -85980,7 +85992,8 @@ helxi_ne_
 :no:helxi_n	e_es fem
 
 
-hem		<orth>em</orth>	<pos>interj.</pos>
+hem	indecl exclam
+em	indecl exclam
 he_me^re_si^os		<itype>on</itype>	<pos>adj.</pos>
 he_me^ris		
 :le:hemeris
@@ -87040,7 +87053,7 @@ hette_ma^ti^cus
 :aj:hette_ma^ti^c	us_a_um
 
 
-heu!		<pos>interj.</pos>
+heu!	indecl exclam
 Heure_sis		
 :le:Heuresis
 :no:Heure_s	is_eos fem
@@ -87051,7 +87064,7 @@ heure^ta
 :no:heure^t	a_ae masc
 
 
-heus!		<pos>interj.</pos>
+heus!	indecl exclam
 hexa^chordos		<itype>on</itype>	<pos>adj.</pos>
 hexacli_non		
 :le:hexaclinon
@@ -88169,7 +88182,7 @@ hi^ulcus
 
 
 hiulce_	
-ho!		<pos>interj.</pos>
+ho!	indecl exclam
 hoc#1	
 ho^di^e_		
 :le:hodie
@@ -89159,7 +89172,7 @@ huc		<orth>hoc</orth>	<itype>like illoc, istoc</itype>
 :wd:hoc	adverb orth
 
 
-hui		<pos>interj.</pos>
+hui	indecl exclam
 hu_jusce^mo^di		<orth>hu_jusmo^di</orth>
 hu_ma_ni^tas		
 :le:humanitas
@@ -104279,7 +104292,7 @@ in-vulne^ra_tus
 :aj:in-vulne^ra_t	us_a_um
 
 
-i^o_#1		<pos>interj.</pos>
+i^o_#1	indecl exclam
 I_o_#2		<itype>Iu_s</itype>
 I_o_n		<itype>Io_nis</itype>	<gen>f.</gen>
 Io_b		<itype>is</itype>
@@ -106843,7 +106856,6 @@ Ju_no
 :le:Juno
 :no:Ju_n	o_oLnis fem
 
-	<pos>interj.</pos>
 Ju_no_na_lis		
 :le:Junonalis
 :aj:Ju_no_na_l	is_e
@@ -128297,7 +128309,7 @@ Mo^ysi_ti^cus
 :aj:Mo^ysi_ti^c	us_a_um
 
 
-mu		<pos>interj.</pos>
+mu	indecl exclam
 mu_ce_do		<orth type=alt>mucce_do</orth>	
 :le:mucedo
 :no:mu_ce_d	o_inis fem
@@ -132261,7 +132273,7 @@ ne_#1
 
 
 -ne^#2		<orth>n'</orth>	<orth>n</orth>
-ne_#3		<pos>interj.</pos>
+ne_#3	indecl exclam
 nae	
 Ne^aera		
 :le:Neaera
@@ -136652,7 +136664,7 @@ Ny_sus
 
 
 O#1		<orth type=alt>o</orth>	<itype>the fourteenth letter of the Latin alphabet</itype>
-o_#2		<pos>interj.</pos>
+o_#2	indecl exclam
 O_a^ri^on		
 :le:Oarion
 :no:O_a^ri^	oLn_oLnis masc
@@ -139468,16 +139480,16 @@ O_gy^gi^a
 :no:O_gy^gi^	a_ae fem
 
 
-oh		<pos>interj.</pos>
-o^he_		<pos>interj.</pos>
-o^ho		<pos>interj.</pos>
-oi		<pos>interj.</pos>
+oh	indecl exclam
+o^he_	indecl exclam
+o^ho	indecl exclam
+oi	indecl exclam
 oica		
 :le:oica
 :no:oic	a_ae fem
 
 
-oiei		<pos>interj.</pos>
+oiei	indecl exclam
 O^i_leus		<orth type=alt>trisyl.</orth>	<itype>e^i</itype>	<itype>e^o^s</itype>	<gen>m.</gen>
 Oi_le_us		
 :le:Oileus
@@ -145615,7 +145627,7 @@ pa_pa#2
 
 
 Papa#3	
-pa^pae		<pos>interj.</pos>
+pa^pae	indecl exclam
 pa_pa_ri^um		
 :le:paparium
 :no:pa_pa_r	ius_i neut
@@ -155999,8 +156011,9 @@ phtho^ri^us
 phu_#1		<gen>n.</gen>
 phu_#1	<itype>indecl.</itype>
 phun	
-phu#2		<orth>fu</orth>	<pos>interj.</pos>
-phy		<pos>interj.</pos>
+phu#2	indecl exclam
+fu	indecl exclam
+phy	indecl exclam
 Phy^a_ces		
 :le:Phyaces
 :no:Phy^a_c	es_ae masc
@@ -159337,7 +159350,8 @@ pollu_trix
 
 Pollux		<itype>u_cis</itype>
 Pol-lu_ces		<gen>m.</gen>
-pol		<orth>edepol</orth>	<orth type=alt>aedep-</orth>	<pos>interj.</pos>
+pol	indecl exclam
+edepol	indecl exclam
 po^lo_se_		
 :le:polose
 :wd:po^lo_se_	adverb
@@ -164846,7 +164860,8 @@ pro_#1
 
 	<pos>prep.</pos>	<pos>prep.</pos>
 prout	
-pro_#2		<orth>pro_h</orth>	<pos>interj.</pos>
+pro_#2	indecl exclam
+pro_h	indecl exclam
 pro^aedi^fi^ca_tum		
 :le:proaedificatum
 :no:pro^aedi^fi^ca_t	us_i neut
@@ -167834,7 +167849,7 @@ pro_vo^ca_trix
 :no:pro_vo^ca_tr	ix_iLcis fem
 
 
-prox		<pos>interj.</pos>
+prox	indecl exclam
 proxe^ne_ta		
 :le:proxeneta
 :no:proxe^ne_t	a_ae masc
@@ -192521,7 +192536,7 @@ squa_ti^na
 
 
 squa_tus	
-st#1		<pos>interj.</pos>
+st#1	indecl exclam
 Sta^be^ri^us		
 :le:Staberius
 :no:Sta^be^r	ius_i masc
@@ -201546,13 +201561,13 @@ ta^sis
 :no:ta^s	is_is fem
 
 
-ta^t		<pos>interj.</pos>
+ta^t	indecl exclam
 ta^ta		
 :le:tata
 :no:ta^t	a_ae masc
 
 
-tatae		<pos>interj.</pos>
+tatae	indecl exclam
 Ta^ti^us		
 :le:Tatius
 :no:Ta^t	ius_i masc
@@ -213626,7 +213641,7 @@ va^dum
 
 
 va^-dus		<itype>i</itype>
-vae		<pos>interj.</pos>
+vae	indecl exclam
 vaenum		
 :le:vaenum
 :no:vaen	us_i neut
@@ -213702,7 +213717,8 @@ va^gus
 
 	<pos>adv.</pos>
 va^ge_	
-vah		<orth>vaha</orth>	<pos>interj.</pos>
+vah	indecl exclam
+vaha	indecl exclam
 Va^ha^lis		
 :le:Vahalis
 :no:Va^ha^l	is_is masc

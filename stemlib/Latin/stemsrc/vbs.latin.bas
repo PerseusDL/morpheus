@@ -222,6 +222,12 @@
 :vs:domu	perfstem
 :vs:domit	pp4
 
+:le:duco
+:vs:du_c	conj3
+:vb:duc		conj3 2nd sg pres imperat act
+:vs:du_x perfstem
+:vs:du_ct pp4
+
 :le:duplex
 :aj:dupl	ex_icis
 
@@ -263,6 +269,12 @@
 :vs:fe_c	perfstem
 :vs:fact	pp4 no_comp
 :vs:fect	pp4 comp_only
+:vb:faxim	perfstem 1st sg perf subj act
+:vb:faxis	perfstem 2nd sg perf subj act
+:vb:faxit	perfstem 3rd sg perf subj act
+:vb:faxint	perfstem 3rd pl perf subj act
+:vb:faxo	perfstem 1st sg fut perf indic act
+
 
 :le:fateor
 :vs:fa^t 	conj2 dep
