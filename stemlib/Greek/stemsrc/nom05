@@ -2385,7 +2385,7 @@
 :no:past os_ou suff_acc masc
 
 :le:pa/sxa
-:wd:pa/sxa indecl
+:wd:pa/sxa neut nom voc acc sg indecl
 
 :le:pata/
 :wd:pata/ indecl
@@ -10234,9 +10234,9 @@
 @ end:ea epic nom pl
 
 :le:r(abbi/
-:wd:r(abbi/ indecl
-:wd:r(abboni/ indecl
-:wd:r(abbouni/ indecl
+:wd:r(abbi/ masc voc sg indecl
+:wd:r(abboni/ masc voc sg indecl
+:wd:r(abbouni/ masc voc sg indecl
 
 :le:r(abdi/on
 :no:r(abdi os_ou stem_acc neut   diminutive
