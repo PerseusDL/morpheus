@@ -31,8 +31,8 @@ vbs:	stemind/vbind
 VBFILES=stemsrc/vbs.latin.bas stemsrc/vbs.latin.irreg stemsrc/vbs.latin \
 	stemsrc/vbs.irreg stemsrc/vbs.mpi
 
-stemind/vbind:	stemsrc/vbs.basic stemsrc/vbs.italian
-	cat stemsrc/vbs.basic stemsrc/vbs.italian > conjfile
+stemind/vbind:	stemsrc/vbs.basic stemsrc/vbs.italian stemsrc/vbs.irreg
+	cat stemsrc/vbs.basic stemsrc/vbs.italian stemsrc/vbs.irreg > conjfile
 	do_conj -I 
 	mv conjfile.short /tmp/vbmorph
 	indexvbs -I
