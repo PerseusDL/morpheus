@@ -597,6 +597,10 @@
 :vs:po_ta_v	perfstem
 :vs:po_t	pp4 comp_only
 
+:le:prehenso
+:de:prehens	are_vb
+:de:prens	are_vb
+
 :le:prehendo
 :vs:pre^hend	conj3
 :vs:prae^hend	conj3
