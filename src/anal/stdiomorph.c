@@ -169,10 +169,16 @@ char *argv[];
        */		
     
     
+    if(line[0] =='#' ) {
+	fprintf(foutput,"%s\n", line );
+	continue;
+    }
+
     trimwhite(line);
     trimdigit(line);
     p = line;
     while(*p&&!isspace(*p)) p++;
+    if( p == line ) continue;
     if(*p) *p = 0;
     
     if (timeit) {
