@@ -797,6 +797,9 @@
 :aj:nostrat	is_e
 :aj:nostras	irreg_adj3 nom masc fem sg
 
+:le:novem
+:wd:novem	numeral
+
 :le:November
 :aj:Novemb er_ris_re
 :aj:Novembr is_e
@@ -1042,6 +1045,9 @@
 
 :le:quinquaginta
 :wd:quinqua_ginta numeral
+
+:le:quinque#1
+:wd:quinque	numeral
 
 :le:quintus#1
 :aj:quint	us_a_um
