@@ -291,6 +291,16 @@ checkstring3(gk_word *Gkword)
 			set_workword(Gkword,saveword);
 			return(rval);
 		}
+		set_workword(Gkword,saveword);
+	}
+
+	if( cur_lang() == LATIN && cmpend(workword_of(Gkword),"cumque",workword)) {
+		set_workword(Gkword,workword);
+		rval = checkstring3(Gkword);
+		if( rval ) {
+			set_workword(Gkword,saveword);
+			return(rval);
+		}
 	}
 
 	if( cur_lang() == LATIN && cmpend(workword_of(Gkword),"ve",workword)) {
@@ -307,7 +317,8 @@ checkstring3(gk_word *Gkword)
  */
 	if( cur_lang() == LATIN && 
 	   (cmpend(workword_of(Gkword),"ast",workword) ||
-		cmpend(workword_of(Gkword),"est",workword))) {
+		cmpend(workword_of(Gkword),"est",workword) ||
+		cmpend(workword_of(Gkword),"umst",workword))) {
 		strcpy(workword,workword_of(Gkword));
 		workword[strlen(workword)-2] = 0;
 		set_workword(Gkword,workword);

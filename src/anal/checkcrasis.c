@@ -188,9 +188,11 @@ typedef struct {
 
  poss_crasis LatSync[] = {
 "cognor",		"cognover",	"",	 (Dialect)0,	
+"ignor",		"ignover",	"",	 (Dialect)0,	
 "cognoss",		"cognoviss",	"",	 (Dialect)0,	
 "nosse",		"novisse",	"",	 (Dialect)0,	
 "copt",			"coopt",	"",	 (Dialect)0,	/* cooptari --> coptari  */
+"der",			"deer",	"",	 (Dialect)0,	/* deest --> dest  */
 "des",			"dees",	"",	 (Dialect)0,	/* deest --> dest  */
  };
 
