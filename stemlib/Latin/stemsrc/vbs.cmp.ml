@@ -811,14 +811,11 @@ prod-ito proditor
 re-bullio rebullio
 re-calefacio recalefacio
 re-canto recanto
+re-cingo recingo
 re-claudo reclaudo
 re-claudo#1 reclaudo
 re-claudo#2 reclaudo
 re-creo recreo
-re-do reda
-re-do redo
-re-do#2 reda
-re-do#2 redo
 re-eo#1 redeo
 re-fero refero
 re-fero refert

@@ -10,16 +10,13 @@
 :le:puer
 :no:puer 0_i masc
 
-:le:donum
-:no:don us_i neut
-
 :le:magnus
 :aj:magn us_a_um
 
 :le:liber
 :aj:li_ber 0_a_um
 
-:le:pulcher
+:le:pulcher#1
 :no:pulch er_ra_rum
 
 :le:rex

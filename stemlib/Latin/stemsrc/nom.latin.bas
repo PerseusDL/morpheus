@@ -1070,6 +1070,10 @@
 :le:Rex
 :no:Re	x_gis masc pers_name
 
+:le:robur
+:no:ro_b us_oris neut
+:wd:ro_bor irreg_nom3 neut nom voc sg
+:wd:ro_bur irreg_nom3 neut nom voc sg
 :le:Rupilius
 :aj:Rupil	ius_ia_ium
 
