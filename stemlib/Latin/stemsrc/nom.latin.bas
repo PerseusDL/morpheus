@@ -116,6 +116,9 @@
 :wd:at-qui	conj
 :wd:ad-qui	conj
 
+:le:auris
+:no:aur is_is	fem
+
 :le:aut
 :wd:aut	conj
 
@@ -376,6 +379,10 @@
 
 :le:fides
 :no:fid	es_ei	fem
+:no:fid is_is	fem poetic
+
+:le:foris#1
+:no:for is_is fem
 
 :le:fors
 :no:for 	s_tis fem
@@ -609,6 +616,9 @@
 :le:mons
 :no:mon		s_tis masc
 
+:le:natis
+:no:nat	is_is fem
+
 :le:Neapolis
 :no:Neapol	is_is fem
 
@@ -791,6 +801,16 @@
 :aj:pot	is_e	comp
 :aj:pot is_e	superl
 
+:le:praesaepe
+:no:praesaep	is_is neut
+:no:praesaep	is_is fem
+:no:praesaepi	a_ae fem
+:no:praesaep	ius_i neut
+:no:praesep	is_is neut
+:no:praesep	is_is fem
+:no:praesepi	a_ae fem
+:no:praesep	ius_i neut
+
 :le:Preciani
 :aj:Precian	us_a_um
 
@@ -957,6 +977,10 @@
 :le:sons
 :aj:son	s_tis
 
+:le:sors
+:no:sor	s_tis fem
+:no:sort	is_is fem
+
 :le:spes
 :no:sp es_eLi fem
 
@@ -1063,6 +1087,10 @@
 
 :le:Vacerra
 :no:Vacerr	a_ae masc pers_name
+
+:le:valles
+:no:vall	es_is fem
+:no:vall	is_is fem
 
 :le:vates
 :no:va_t	es_is masc fem

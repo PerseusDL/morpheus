@@ -222,6 +222,7 @@ dump_form(int gend)
 	curitype[strlen(curitype)-strlen("</itype>")]  = 0;
 
 
+if( is_itype("is","is") )	return( dump_nom('i',"is_is",gendlab,numlab));
 if( is_itype("i","i^us") )	return( dump_nom('i',"ius_i",gendlab,numlab));
 if( is_itype("i","ius") )	return( dump_nom('i',"ius_i",gendlab,numlab));
 if( is_itype("i","us") )	return( dump_nom('u',"us_i",gendlab,numlab));
@@ -282,7 +283,6 @@ if( is_itype("a_rum","ae") ) return( dump_nom('a',"a_ae",gendlab," pl"));
 if( is_itype("arum","ae") ) return( dump_nom('a',"a_ae",gendlab," pl"));
 
 if( is_itype("is","es") ) return( dump_adj('e',"es_is",gendlab,""));
-if( is_itype("is","is") ) return( dump_adj(0,"is_e",gendlab,""));
 if( is_itype("u_s","us") ) return( dump_nom(0,"us_us",gendlab,""));
 if( is_itype("u_s","u") ) return( dump_nom(0,"us_us"," neut",""));
 if( is_itype("u_s","o") ) return( dump_nom('o',"o_us",gendlab,""));
@@ -292,7 +292,6 @@ if( is_itype("o_tis","os") ) return( dump_nom('s',"s_tis",gendlab,""));
 if( is_itype("i^nis","o") ) return( dump_nom('o',"o_inis",gendlab,""));
 if( is_itype("i^nis","is") ) return( dump_nom('s',"s_nis",gendlab,""));
 if( is_itype("i^nis","men") ) return( dump_nom('m',"men_minis",gendlab,""));
-if( is_itype("is","is") ) return( dump_nom('i',"is_is",gendlab,""));
 if( is_itype("is","es") ) return( dump_nom('e',"es_is",gendlab,""));
 if( is_itype("is","e") ) return( dump_nom('e',"is_is",gendlab,""));
 if( is_itype("i^um","es") ) return( dump_nom('e',"is_is",gendlab," pl"));
