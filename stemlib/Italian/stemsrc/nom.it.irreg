@@ -67,6 +67,13 @@
 :wd:sulla	article fem sg
 :wd:sulle	article fem pl
 
+:le:uno
+:wd:un	article masc sg
+:wd:uno	article masc sg
+:wd:una	article fem sg
+:wd:uni	article masc pl
+:wd:une	article fem pl
+
 :le:braccio
 :wd:braccia	 irreg_nom masc pl
 
