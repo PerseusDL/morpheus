@@ -1,4 +1,3 @@
-
 :le:il
 :wd:il article masc nom sg
 :wd:i article masc nom pl
@@ -171,4 +170,70 @@
 :le:vestimento
 :wd:vestimenta	irreg_nom  masc pl	
 
+:le:dunque
+:wd:dunque	adverb
 
+:le:percioche
+:wd:percioche	adverb
+
+:le:cioe\
+:wd:cioe\	adverb
+
+:le:proportione
+:no:proportion	e_i fem
+
+:le:io
+:wd:io	pronoun nom sg
+:wd:mi	pronoun acc sg
+
+:le:tu
+:wd:tu	pronoun nom sg
+:wd:ti	pronoun acc sg
+
+:le:Lei
+:wd:Lei	pronoun nom sg
+
+:le:egli
+:wd:egli	pronoun masc nom sg
+:wd:lo	pronoun masc acc sg
+:wd:gli	pronoun masc dat sg
+
+:le:essa
+:wd:essa	pronoun fem nom sg
+:wd:la		pronoun fem acc sg
+:wd:le		pronoun fem dat sg
+
+:le:noi
+:wd:noi	pronoun nom pl
+:wd:ci	pronoun acc pl
+
+:le:voi
+:wd:voi	pronoun nom pl
+:wd:vi	pronoun acc pl
+
+:le:essi
+:wd:essi	pronoun masc nom pl
+:wd:li		pronoun masc acc pl
+:wd:loro	pronoun masc/fem dat pl
+
+:le:esse
+:wd:esse	pronoun fem nom pl
+:wd:le		pronoun fem acc pl
+
+:le:questo
+:aj:quest	o_a
+
+:le:ovvero
+:wd:ovvero	adverb
+:wd:overo	adverb
+
+:le:istesso
+:aj:istess	o_a
+
+:le:ilquale
+:wd:ilquale	pronoun masc sg
+:wd:iquali	pronoun masc pl
+:wd:laquale	pronoun fem sg
+:wd:lequali	pronoun fem pl
+:wd:laqual	pronoun fem sg
+:wd:ilqual	pronoun masc sg

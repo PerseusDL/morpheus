@@ -1,4 +1,3 @@
-
 :le:essere
 :vb:sono	irreg_pp1 pres ind 1st sg 
 :vb:sei		irreg_pp1 pres ind 2nd sg
@@ -215,3 +214,32 @@
 :vb:vogli	irreg_pp1 pres imperat 2nd sg
 :vb:voglia	irreg_pp1 pres imperat 3rd sg
 :vb:vogliate	irreg_pp1 pres imperat 2nd pl
+
+:le:tenere
+:vb:tengo	irreg_pp1 pres indic 1st sg
+:vb:tieni	irreg_pp1 pres indic 2nd sg
+:vb:tiene	irreg_pp1 pres indic 3rd sg
+:vb:teniamo	irreg_pp1 pres indic 1st pl
+:vb:tenete	irreg_pp1 pres indic 2nd pl
+:vb:tengono	irreg_pp1 pres indic 3rd pl
+:vb:tenga	irreg_pp1 pres subj 1st sg
+:vb:tenga	irreg_pp1 pres subj 2nd sg
+:vb:tenga	irreg_pp1 pres subj 3rd sg
+:vb:teniamo	irreg_pp1 pres subj 1st pl
+:vb:teniate	irreg_pp1 pres subj 2nd pl
+:vb:tengano	irreg_pp1 pres subj 3rd pl
+:vb:tieni	irreg_pp1 pres imperat 2nd sg
+:vb:tenga	irreg_pp1 pres imperat 3rd sg
+:vb:teniamo	irreg_pp1 pres imperat 1st pl
+:vb:tenete	irreg_pp1 pres imperat 2nd pl
+:vb:tengano	irreg_pp1 pres imperat 3rd pl
+:vb:tenni	irreg_pp1 pastabs indic 1st sg
+:vb:tenesti	irreg_pp1 pastabs indic 2nd sg
+:vb:tenne	irreg_pp1 pastabs indic 3rd sg
+:vb:tennemo	irreg_pp1 pastabs indic 1st pl
+:vb:teneste	irreg_pp1 pastabs indic 2nd pl
+:vb:tennero	irreg_pp1 pastabs indic 3rd pl
+:vs:terr	conj2 fut indic
+:vs:terr	conj2 pres cond
+:vs:ten		conj2 imperf indic
+:vs:ten		conj2 imperf subj
