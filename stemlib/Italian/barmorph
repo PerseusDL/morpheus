@@ -38,6 +38,15 @@ while (<>) {
 	my $stem = $lem;
 	my $class = '';
 
+	if ($lem =~ /nta$/)
+	{
+	    print "\n:le:$lem\n";
+	    print ":wd:$lem\tnumeral\n";
+	    next;
+	}
+
+	$stem =~ s/a$/o/;	# some adj only appear in the feminine in this dictionary
+	
 	if ($stem =~ s/co$//) {
 	    $class = 'co_ca';
 	}
