@@ -25,12 +25,13 @@ deriv:
 	buildderiv all
 	indderivtables
 
-noms:stemsrc/nom.irreg stemind/nomind lsj.morph
+noms:	stemsrc/lsj.nom stemsrc/nom.irreg stemind/nomind
 
-vbs: stemsrc/vbs.irreg stemind/vbind
+vbs:	stemsrc/lsj.vbs stemsrc/vbs.irreg stemind/vbind
 
 stemind/vbind:
-	cat stemsrc/vbs.irreg stemsrc/vbs.simp.ml stemsrc/vbs.simp.02.new > conjfile
+	cat stemsrc/vbs.irreg stemsrc/vbs.simp.ml stemsrc/vbs.simp.02.new \
+	    > conjfile
 	do_conj 
 	mv conjfile.short /tmp/vbmorph
 	indexvbs
@@ -42,22 +43,31 @@ stemsrc/vbs.irreg: stemsrc/irreg.vbs.src
 	buildword < stemsrc/irreg.vbs.src > stemsrc/vbs.irreg
 
 stemsrc/lemlist:
-	cat stemsrc/nom.* stemsrc/nom[0-9]* stemsrc/vbs.irreg stemsrc/vbs.simp.ml stemsrc/vbs.simp.02.new | fgrep ":le:" | cut -d":" -f 3 | sort | awk '{print $$1 " "}' > stemsrc/lemlist	
+	cat stemsrc/nom.* stemsrc/nom[0-9]* stemsrc/vbs.irreg \
+	    stemsrc/vbs.simp.ml stemsrc/vbs.simp.02.new | fgrep ":le:" | \
+	    cut -d":" -f 3 | sort | awk '{print $$1 " "}' > stemsrc/lemlist
 
 stemind/nomind:	stemsrc/dopnom
-	cat stemsrc/nom.* stemsrc/nom[0-9]*  stemsrc/lsj.nom stemsrc/lsj.byhand > /tmp/nommorph
+	cat stemsrc/nom.* stemsrc/nom[0-9]*  stemsrc/lsj.nom \
+	    stemsrc/lsj.byhand > /tmp/nommorph
 	cat stemsrc/pnom* | stemsrc/dopnom >> /tmp/nommorph
 	indexnoms
 
 ia.noms:
 	echo "[aehuwo]i h_hs" > /tmp/skip.ia
 	echo ":wd:" >> /tmp/skip.ia
-	cat stemsrc/nom0[1-6] | fgrep "i h_hs" | egrep -v -f /tmp/skip.ia > /tmp/ia.noms
+	cat stemsrc/nom0[1-6] | fgrep "i h_hs" | \
+	    egrep -v -f /tmp/skip.ia > /tmp/ia.noms
 	findbase < /tmp/ia.noms > /tmp/ia.base
-	fgrep 0 /tmp/ia.base | awk '{print $$1}' | rev | sort -d | rev > /tmp/ia.failed
+	fgrep 0 /tmp/ia.base | awk '{print $$1}' | rev | sort -d | \
+	    rev > /tmp/ia.failed
 
-lsj.morph: ${LSJDIR}/lemmata
-	sed -e 's/\-//' ${LSJDIR}/lemmata | setquant | splitlems | newlems | fgrep -v "1 " | fgrep -v ": " | newlems2 > /tmp/lsj.morph
+lsj.nom lsj.vbs:
+	[ -f ${LSJDIR}/lemmata ] && ${MAKE} lsj.morph
+
+lsj.morph:
+	sed -e 's/\-//' ${LSJDIR}/lemmata | setquant | splitlems | newlems | \
+	    fgrep -v "1 " | fgrep -v ": " | newlems2 > /tmp/lsj.morph
 	cp /tmp/lsj.vbs stemsrc
 	fgrep -v "0:" /tmp/lsj.morph > stemsrc/lsj.nom
 	cp /tmp/lsj.morph .
