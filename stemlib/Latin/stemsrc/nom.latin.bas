@@ -1099,9 +1099,12 @@
 :wd:sexa_gies	numeral
 :wd:sexa_giens	numeral
 
-:le:secus#2
-:wd:secus	adverb comp
+:le:secus
+:wd:secus	adverb
 :aj:sequi	or_us_comp irreg_comp
+
+:le:setius
+:wd:setius	adverb comp
 
 :le:sed
 :wd:sed		conj
