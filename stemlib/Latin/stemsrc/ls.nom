@@ -47403,6 +47403,12 @@ conti^nu^us
 :le:continuus
 :no:conti^nu^	us_i masc
 
+:le:continue
+:wd:conti^nu^e_	adverb
+
+:le:continuo
+:wd:conti^nu^o_	adverb
+
 
 conti^-nu^e_		<orth>conti^nu^o_</orth>
 conti^o		<orth>conci^o</orth>	
@@ -73285,8 +73291,7 @@ falla_ci^ter
 
 falsus		
 :le:falsus
-:no:fals	us_i masc
-
+:aj:fals	us_a_um
 
 falsum		
 :le:falsum
@@ -118941,6 +118946,11 @@ Mandu_ri^a
 
 
 ma_ne		<itype>indecl.</itype>	<gen>n.</gen>
+:le:mane
+:wd:ma_ne	irreg_nom3 fem sg
+:wd:ma_ni	irreg_nom3 fem abl sg early
+
+
 manenti^a		
 :le:manentia
 :no:manenti^	a_ae fem

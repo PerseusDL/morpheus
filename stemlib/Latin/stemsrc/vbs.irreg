@@ -798,7 +798,7 @@
 
 :le:possum
 :vb:possum		irreg_pp1 1st sg pres ind act
-:vb:posses		irreg_pp1 2nd sg pres ind act
+:vb:potes		irreg_pp1 2nd sg pres ind act
 :vb:potest		irreg_pp1 3rd sg pres ind act
 :vb:possumus		irreg_pp1 1st pl pres ind act
 :vb:potestis		irreg_pp1 2nd pl pres ind act
@@ -830,25 +830,18 @@
 :vb:poterimus   irreg_pp1 fut ind act 1st pl
 :vb:poteritis   irreg_pp1 fut ind act 2nd pl
 :vb:poterunt   irreg_pp1 fut ind act 3rd pl
-:vb:possem   irreg_pp1 imperf act 1st sg
-:vb:posse_s   irreg_pp1 imperf act 2nd sg
-:vb:posset   irreg_pp1 imperf act 3rd sg
-:vb:posse_mus   irreg_pp1 imperf act 1st pl
-:vb:posse_tis   irreg_pp1 imperf act 2nd pl
-:vb:possent   irreg_pp1 imperf act 3rd pl
 :vb:poteram   irreg_pp1 imperf ind act 1st sg
 :vb:potera_s   irreg_pp1 imperf ind act 2nd sg
 :vb:poterat   irreg_pp1 imperf ind act 3rd sg
 :vb:potera_mus   irreg_pp1 imperf ind act 1st pl
 :vb:potera_tis   irreg_pp1 imperf ind act 2nd pl
 :vb:poterant   irreg_pp1 imperf ind act 3rd pl
-:vb:posser   irreg_pp1 imperf pass 1st sg
-:vb:posse_ris   irreg_pp1 imperf pass 2nd sg
-:vb:posse_re   irreg_pp1 imperf pass 2nd sg
-:vb:possetur   irreg_pp1 imperf pass 3rd sg
-:vb:posse_mur   irreg_pp1 imperf pass 1st pl
-:vb:posse_mini   irreg_pp1 imperf pass 2nd pl
-:vb:possentur   irreg_pp1 imperf pass 3rd pl
+:vb:possem   irreg_pp1 imperf subj act 1st sg
+:vb:posse_s   irreg_pp1 imperf subj act 2nd sg
+:vb:posset   irreg_pp1 imperf subj act 3rd sg
+:vb:posse_mus   irreg_pp1 imperf subj act 1st pl
+:vb:posse_tis   irreg_pp1 imperf subj act 2nd pl
+:vb:possent   irreg_pp1 imperf subj act 3rd pl
 
 :le:lubet
 :vs:lub	conj2

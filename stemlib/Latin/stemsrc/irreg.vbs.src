@@ -392,7 +392,7 @@ pro_der@ofut		fut ind act
 :le:possum
 #
 :vb:possum		irreg_pp1 1st sg pres ind act
-:vb:posses		irreg_pp1 2nd sg pres ind act
+:vb:potes		irreg_pp1 2nd sg pres ind act
 :vb:potest		irreg_pp1 3rd sg pres ind act
 :vb:possumus		irreg_pp1 1st pl pres ind act
 :vb:potestis		irreg_pp1 2nd pl pres ind act
@@ -400,7 +400,7 @@ pro_der@ofut		fut ind act
 #
 possi@basvb2		irreg_pp1 pres subj act
 potera@basvb2		irreg_pp1 imperf ind act
-posse@basvb2		irreg_pp1 imperf subja ct
+posse@basvb2		irreg_pp1 imperf subj act
 poter@ofut		irreg_pp1 fut ind act
 :vs:potu		perfstem
 #
