@@ -56,6 +56,8 @@ i_ba@basvb2	irreg_pp1 imperf ind pass comp_only
 ieri@basvb2	irreg_pp2 perf subj act
 i_sse@basvb2	irreg_pp2 plup subj act
 #
+@perfind	perfstem perf indic act comp_only
+#
 :vb:iens	irreg_pp1 pres part act masc fem nom voc
 :vb:iens	irreg_pp1 pres part act neut nom voc acc
 eunt@decl3_i	irreg_pp1 pres part act 
@@ -68,6 +70,108 @@ eund@decl1	irreg_pp1 gerundive fem
 eund@decl2	irreg_pp1 gerundive masc neut
 iend@decl1	irreg_pp1 gerundive fem early
 iend@decl2	irreg_pp1 gerundive masc neut early
+
+# compounds with two prefixes
+:le:depereo
+:vs:de_-peri		perfstem
+:vs:de_-peri_v		perfstem
+:vs:de_-perit		pp4
+#
+:vb:de_pereo_		irreg_pp1 1st sg pres ind act
+:vb:de_peri_s		irreg_pp1 2nd sg pres ind act
+:vb:de_perit		irreg_pp1 3rd sg pres ind act
+:vb:de_peri_mus	irreg_pp1 1st pl pres ind act
+:vb:de_peri_tis	irreg_pp1 2nd pl pres ind act
+:vb:de_pereunt	irreg_pp1 3rd pl pres ind act
+#
+:vb:de_pereo_r	irreg_pp1 1st sg pres ind pass
+:vb:de_peri_ris	irreg_pp1 2nd sg pres ind pass
+:vb:de_peri_tur	irreg_pp1 3rd sg pres ind pass
+:vb:de_peri_mur	irreg_pp1 1st pl pres ind pass
+:vb:de_peri_mini	irreg_pp1 2nd pl pres ind pass
+:vb:de_pereuntur	irreg_pp1 3rd pl pres ind pass
+#
+de_-perea@basvb2	irreg_pp1 pres subj
+de_-peri_re@basvb2	irreg_pp1 imperf subj
+#
+de_-peri_b@ofut	irreg_pp1 fut ind 
+de_-peri_ba@basvb2	irreg_pp1 imperf ind 
+#
+:vb:de_-peri_		irreg_pp1 2nd sg pres imperat act
+:vb:de_-peri_te	irreg_pp1 2nd sg pres imperat act
+#
+:vb:de_-peri_to_	irreg_pp1 2nd sg fut imperat act
+:vb:de_-peri_to_	irreg_pp1 3rd sg fut imperat act
+:vb:de_-peri_to_te	irreg_pp1 2nd pl fut imperat act
+:vb:de_-pereunto_	irreg_pp1 3rd pl fut imperat act
+#
+:vb:de_-peri_re	irreg_pp1 pres inf act
+:vb:de_-peri_ri_	irreg_pp1 pres inf pass 
+:vb:de_-peri_rier	irreg_pp1 pres inf pass early
+:vb:de_-peri_sse	irreg_pp2 perf inf act syncop
+de_-perieri@basvb2	irreg_pp2 perf subj act
+de_-peri_sse@basvb2	irreg_pp2 plup subj act
+#
+:vb:de_-periens	irreg_pp1 pres part act masc fem nom voc
+:vb:de_-periens	irreg_pp1 pres part act neut nom voc acc
+de_-pereunt@decl3_i	irreg_pp1 pres part act 
+de_-pereunte		irreg_pp1 pres part act abl sg masc fem neut
+#
+de_-pereund@decl1	irreg_pp1 gerundive fem
+de_-pereund@decl2	irreg_pp1 gerundive masc neut
+de_-periend@decl1	irreg_pp1 gerundive fem early
+de_-periend@decl2	irreg_pp1 gerundive masc neut early
+
+:le:dispereo
+:vs:dis-peri		perfstem
+:vs:dis-peri_v		perfstem
+:vs:dis-perit		pp4
+#
+:vb:dispereo_		irreg_pp1 1st sg pres ind act
+:vb:disperi_s		irreg_pp1 2nd sg pres ind act
+:vb:disperit		irreg_pp1 3rd sg pres ind act
+:vb:disperi_mus	irreg_pp1 1st pl pres ind act
+:vb:disperi_tis	irreg_pp1 2nd pl pres ind act
+:vb:dispereunt	irreg_pp1 3rd pl pres ind act
+#
+:vb:dispereo_r	irreg_pp1 1st sg pres ind pass
+:vb:disperi_ris	irreg_pp1 2nd sg pres ind pass
+:vb:disperi_tur	irreg_pp1 3rd sg pres ind pass
+:vb:disperi_mur	irreg_pp1 1st pl pres ind pass
+:vb:disperi_mini	irreg_pp1 2nd pl pres ind pass
+:vb:dispereuntur	irreg_pp1 3rd pl pres ind pass
+#
+dis-perea@basvb2	irreg_pp1 pres subj
+dis-peri_re@basvb2	irreg_pp1 imperf subj
+#
+dis-peri_b@ofut	irreg_pp1 fut ind 
+dis-peri_ba@basvb2	irreg_pp1 imperf ind 
+#
+:vb:dis-peri_		irreg_pp1 2nd sg pres imperat act
+:vb:dis-peri_te	irreg_pp1 2nd sg pres imperat act
+#
+:vb:dis-peri_to_	irreg_pp1 2nd sg fut imperat act
+:vb:dis-peri_to_	irreg_pp1 3rd sg fut imperat act
+:vb:dis-peri_to_te	irreg_pp1 2nd pl fut imperat act
+:vb:dis-pereunto_	irreg_pp1 3rd pl fut imperat act
+#
+:vb:dis-peri_re	irreg_pp1 pres inf act
+:vb:dis-peri_ri_	irreg_pp1 pres inf pass 
+:vb:dis-peri_rier	irreg_pp1 pres inf pass early
+:vb:dis-peri_sse	irreg_pp2 perf inf act syncop
+dis-perieri@basvb2	irreg_pp2 perf subj act
+dis-peri_sse@basvb2	irreg_pp2 plup subj act
+#
+:vb:dis-periens	irreg_pp1 pres part act masc fem nom voc
+:vb:dis-periens	irreg_pp1 pres part act neut nom voc acc
+dis-pereunt@decl3_i	irreg_pp1 pres part act 
+dis-pereunte		irreg_pp1 pres part act abl sg masc fem neut
+#
+dis-pereund@decl1	irreg_pp1 gerundive fem
+dis-pereund@decl2	irreg_pp1 gerundive masc neut
+dis-periend@decl1	irreg_pp1 gerundive fem early
+dis-periend@decl2	irreg_pp1 gerundive masc neut early
+
 
 :le:aufero
 :vb:aufe^ro_	irreg_pp1 1st sg pres ind act

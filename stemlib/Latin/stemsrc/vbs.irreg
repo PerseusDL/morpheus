@@ -134,6 +134,13 @@
 :vb:i_bimur   irreg_pp1 fut ind pass 1st pl comp_only
 :vb:i_bimini   irreg_pp1 fut ind pass 2nd pl comp_only
 :vb:i_buntur   irreg_pp1 fut ind pass 3rd pl comp_only
+:vb:i_   perfstem perf ind act 1st sg comp_only
+:vb:isti_   perfstem perf ind act 2nd sg comp_only
+:vb:it   perfstem perf ind act 3rd sg comp_only
+:vb:imus   perfstem perf ind act 1st pl comp_only
+:vb:istis   perfstem perf ind act 2nd pl comp_only
+:vb:e_runt   perfstem perf ind act 3rd pl comp_only
+:vb:e_re   perfstem perf ind act 3rd pl comp_only poetic
 :vb:ierim   irreg_pp2 perf subj act 1st sg
 :vb:ieri_s   irreg_pp2 perf subj act 2nd sg
 :vb:ierit   irreg_pp2 perf subj act 3rd sg
@@ -172,6 +179,314 @@
 :vb:i_re_mur   irreg_pp1 imperf subj pass 1st pl comp_only
 :vb:i_re_mini   irreg_pp1 imperf subj pass 2nd pl comp_only
 :vb:i_rentur   irreg_pp1 imperf subj pass 3rd pl comp_only
+
+:le:depereo
+:vs:de_-peri		perfstem
+:vs:de_-peri_v		perfstem
+:vs:de_-perit		pp4
+:vb:de_pereo_		irreg_pp1 1st sg pres ind act
+:vb:de_peri_s		irreg_pp1 2nd sg pres ind act
+:vb:de_perit		irreg_pp1 3rd sg pres ind act
+:vb:de_peri_mus	irreg_pp1 1st pl pres ind act
+:vb:de_peri_tis	irreg_pp1 2nd pl pres ind act
+:vb:de_pereunt	irreg_pp1 3rd pl pres ind act
+:vb:de_pereo_r	irreg_pp1 1st sg pres ind pass
+:vb:de_peri_ris	irreg_pp1 2nd sg pres ind pass
+:vb:de_peri_tur	irreg_pp1 3rd sg pres ind pass
+:vb:de_peri_mur	irreg_pp1 1st pl pres ind pass
+:vb:de_peri_mini	irreg_pp1 2nd pl pres ind pass
+:vb:de_pereuntur	irreg_pp1 3rd pl pres ind pass
+:vb:de_-peri_		irreg_pp1 2nd sg pres imperat act
+:vb:de_-peri_te	irreg_pp1 2nd sg pres imperat act
+:vb:de_-peri_to_	irreg_pp1 2nd sg fut imperat act
+:vb:de_-peri_to_	irreg_pp1 3rd sg fut imperat act
+:vb:de_-peri_to_te	irreg_pp1 2nd pl fut imperat act
+:vb:de_-pereunto_	irreg_pp1 3rd pl fut imperat act
+:vb:de_-peri_re	irreg_pp1 pres inf act
+:vb:de_-peri_ri_	irreg_pp1 pres inf pass 
+:vb:de_-peri_rier	irreg_pp1 pres inf pass early
+:vb:de_-peri_sse	irreg_pp2 perf inf act syncop
+:vb:de_-periens	irreg_pp1 pres part act masc fem nom voc
+:vb:de_-periens	irreg_pp1 pres part act neut nom voc acc
+:vb:de_pereunda   irreg_pp1 gerundive fem nom/voc sg
+:vb:de_perienda   irreg_pp1 gerundive fem nom/voc sg early
+:vb:de_pereundum   irreg_pp1 gerundive neut nom/voc/acc sg
+:vb:de_periendum   irreg_pp1 gerundive neut nom/voc/acc sg early
+:vb:de_pereundi_   irreg_pp1 gerundive masc/neut gen sg
+:vb:de_periendi_   irreg_pp1 gerundive masc/neut gen sg early
+:vb:de_pereundae   irreg_pp1 gerundive fem gen sg
+:vb:de_pereunda_i_   irreg_pp1 gerundive fem gen sg poetic
+:vb:de_periendae   irreg_pp1 gerundive fem gen sg early
+:vb:de_perienda_i_   irreg_pp1 gerundive fem gen sg poetic early
+:vb:de_pereundo_   irreg_pp1 gerundive masc/neut dat sg
+:vb:de_periendo_   irreg_pp1 gerundive masc/neut dat sg early
+:vb:de_pereundae   irreg_pp1 gerundive fem dat sg
+:vb:de_periendae   irreg_pp1 gerundive fem dat sg early
+:vb:de_pereundum   irreg_pp1 gerundive masc acc sg
+:vb:de_pereundom   irreg_pp1 gerundive masc acc sg early
+:vb:de_periendum   irreg_pp1 gerundive masc acc sg early
+:vb:de_periendom   irreg_pp1 gerundive masc acc sg early
+:vb:de_pereundam   irreg_pp1 gerundive fem acc sg
+:vb:de_periendam   irreg_pp1 gerundive fem acc sg early
+:vb:de_pereunde   irreg_pp1 gerundive masc/neut voc sg
+:vb:de_periende   irreg_pp1 gerundive masc/neut voc sg early
+:vb:de_pereundo_   irreg_pp1 gerundive masc/neut abl sg
+:vb:de_periendo_   irreg_pp1 gerundive masc/neut abl sg early
+:vb:de_pereunda_   irreg_pp1 gerundive fem abl sg
+:vb:de_perienda_   irreg_pp1 gerundive fem abl sg early
+:vb:de_pereundi_   irreg_pp1 gerundive masc nom/voc pl
+:vb:de_periendi_   irreg_pp1 gerundive masc nom/voc pl early
+:vb:de_pereundae   irreg_pp1 gerundive fem nom/voc pl
+:vb:de_periendae   irreg_pp1 gerundive fem nom/voc pl early
+:vb:de_pereunda   irreg_pp1 gerundive neut nom/voc/acc pl
+:vb:de_perienda   irreg_pp1 gerundive neut nom/voc/acc pl early
+:vb:de_pereundo_rum   irreg_pp1 gerundive masc/neut gen pl
+:vb:de_pereundu_m   irreg_pp1 gerundive masc/neut gen pl poetic
+:vb:de_periendo_rum   irreg_pp1 gerundive masc/neut gen pl early
+:vb:de_periendu_m   irreg_pp1 gerundive masc/neut gen pl poetic early
+:vb:de_pereunda_rum   irreg_pp1 gerundive fem gen pl
+:vb:de_perienda_rum   irreg_pp1 gerundive fem gen pl early
+:vb:de_pereundi_s   irreg_pp1 gerundive masc/neut dat pl
+:vb:de_periendi_s   irreg_pp1 gerundive masc/neut dat pl early
+:vb:de_pereundi_s   irreg_pp1 gerundive fem dat pl
+:vb:de_periendi_s   irreg_pp1 gerundive fem dat pl early
+:vb:de_pereundo_s   irreg_pp1 gerundive masc acc pl
+:vb:de_periendo_s   irreg_pp1 gerundive masc acc pl early
+:vb:de_pereunda_s   irreg_pp1 gerundive fem acc pl
+:vb:de_perienda_s   irreg_pp1 gerundive fem acc pl early
+:vb:de_pereundi_s   irreg_pp1 gerundive masc/neut abl pl
+:vb:de_periendi_s   irreg_pp1 gerundive masc/neut abl pl early
+:vb:de_pereundi_s   irreg_pp1 gerundive fem abl pl
+:vb:de_periendi_s   irreg_pp1 gerundive fem abl pl early
+:vb:de_peream   irreg_pp1 pres subj act 1st sg
+:vb:de_perea_s   irreg_pp1 pres subj act 2nd sg
+:vb:de_pereat   irreg_pp1 pres subj act 3rd sg
+:vb:de_perea_mus   irreg_pp1 pres subj act 1st pl
+:vb:de_perea_tis   irreg_pp1 pres subj act 2nd pl
+:vb:de_pereant   irreg_pp1 pres subj act 3rd pl
+:vb:de_pereuntis   irreg_pp1 pres part act gen sg
+:vb:de_pereunti_   irreg_pp1 pres part act dat sg
+:vb:de_pereuntem   irreg_pp1 pres part act masc/fem acc sg
+:vb:de_pereunte   irreg_pp1 pres part act masc/fem/neut abl sg
+:vb:de_pereunte_s   irreg_pp1 pres part act masc/fem nom/voc pl
+:vb:de_pereuntia   irreg_pp1 pres part act neut nom/voc/acc pl
+:vb:de_pereuntium   irreg_pp1 pres part act gen pl
+:vb:de_pereuntibus   irreg_pp1 pres part act dat pl
+:vb:de_pereunte_s   irreg_pp1 pres part act masc/fem acc pl
+:vb:de_pereunti_s   irreg_pp1 pres part act masc/fem acc pl
+:vb:de_pereuntibus   irreg_pp1 pres part act abl pl
+:vb:de_perear   irreg_pp1 pres subj pass 1st sg
+:vb:de_perea_ris   irreg_pp1 pres subj pass 2nd sg
+:vb:de_perea_re   irreg_pp1 pres subj pass 2nd sg
+:vb:de_pereatur   irreg_pp1 pres subj pass 3rd sg
+:vb:de_perea_mur   irreg_pp1 pres subj pass 1st pl
+:vb:de_perea_mini   irreg_pp1 pres subj pass 2nd pl
+:vb:de_pereantur   irreg_pp1 pres subj pass 3rd pl
+:vb:de_peri_bo_   irreg_pp1 fut ind act 1st sg
+:vb:de_peri_bis   irreg_pp1 fut ind act 2nd sg
+:vb:de_peri_bit   irreg_pp1 fut ind act 3rd sg
+:vb:de_peri_bimus   irreg_pp1 fut ind act 1st pl
+:vb:de_peri_bitis   irreg_pp1 fut ind act 2nd pl
+:vb:de_peri_bunt   irreg_pp1 fut ind act 3rd pl
+:vb:de_peri_bor   irreg_pp1 fut ind pass 1st sg
+:vb:de_peri_be_ris   irreg_pp1 fut ind pass 2nd sg
+:vb:de_peri_be_re   irreg_pp1 fut ind pass 2nd sg
+:vb:de_peri_bitur   irreg_pp1 fut ind pass 3rd sg
+:vb:de_peri_bimur   irreg_pp1 fut ind pass 1st pl
+:vb:de_peri_bimini   irreg_pp1 fut ind pass 2nd pl
+:vb:de_peri_buntur   irreg_pp1 fut ind pass 3rd pl
+:vb:de_perierim   irreg_pp2 perf subj act 1st sg
+:vb:de_perieri_s   irreg_pp2 perf subj act 2nd sg
+:vb:de_perierit   irreg_pp2 perf subj act 3rd sg
+:vb:de_perieri_mus   irreg_pp2 perf subj act 1st pl
+:vb:de_perieri_tis   irreg_pp2 perf subj act 2nd pl
+:vb:de_perierint   irreg_pp2 perf subj act 3rd pl
+:vb:de_peri_ssem   irreg_pp2 plup subj act 1st sg
+:vb:de_peri_sse_s   irreg_pp2 plup subj act 2nd sg
+:vb:de_peri_sset   irreg_pp2 plup subj act 3rd sg
+:vb:de_peri_sse_mus   irreg_pp2 plup subj act 1st pl
+:vb:de_peri_sse_tis   irreg_pp2 plup subj act 2nd pl
+:vb:de_peri_ssent   irreg_pp2 plup subj act 3rd pl
+:vb:de_peri_bam   irreg_pp1 imperf ind act 1st sg
+:vb:de_peri_ba_s   irreg_pp1 imperf ind act 2nd sg
+:vb:de_peri_bat   irreg_pp1 imperf ind act 3rd sg
+:vb:de_peri_ba_mus   irreg_pp1 imperf ind act 1st pl
+:vb:de_peri_ba_tis   irreg_pp1 imperf ind act 2nd pl
+:vb:de_peri_bant   irreg_pp1 imperf ind act 3rd pl
+:vb:de_peri_rem   irreg_pp1 imperf subj act 1st sg
+:vb:de_peri_re_s   irreg_pp1 imperf subj act 2nd sg
+:vb:de_peri_ret   irreg_pp1 imperf subj act 3rd sg
+:vb:de_peri_re_mus   irreg_pp1 imperf subj act 1st pl
+:vb:de_peri_re_tis   irreg_pp1 imperf subj act 2nd pl
+:vb:de_peri_rent   irreg_pp1 imperf subj act 3rd pl
+:vb:de_peri_bar   irreg_pp1 imperf ind pass 1st sg
+:vb:de_peri_ba_ris   irreg_pp1 imperf ind pass 2nd sg
+:vb:de_peri_ba_re   irreg_pp1 imperf ind pass 2nd sg
+:vb:de_peri_batur   irreg_pp1 imperf ind pass 3rd sg
+:vb:de_peri_ba_mur   irreg_pp1 imperf ind pass 1st pl
+:vb:de_peri_ba_mini   irreg_pp1 imperf ind pass 2nd pl
+:vb:de_peri_bantur   irreg_pp1 imperf ind pass 3rd pl
+:vb:de_peri_rer   irreg_pp1 imperf subj pass 1st sg
+:vb:de_peri_re_ris   irreg_pp1 imperf subj pass 2nd sg
+:vb:de_peri_re_re   irreg_pp1 imperf subj pass 2nd sg
+:vb:de_peri_retur   irreg_pp1 imperf subj pass 3rd sg
+:vb:de_peri_re_mur   irreg_pp1 imperf subj pass 1st pl
+:vb:de_peri_re_mini   irreg_pp1 imperf subj pass 2nd pl
+:vb:de_peri_rentur   irreg_pp1 imperf subj pass 3rd pl
+
+:le:dispereo
+:vs:dis-peri		perfstem
+:vs:dis-peri_v		perfstem
+:vs:dis-perit		pp4
+:vb:dispereo_		irreg_pp1 1st sg pres ind act
+:vb:disperi_s		irreg_pp1 2nd sg pres ind act
+:vb:disperit		irreg_pp1 3rd sg pres ind act
+:vb:disperi_mus	irreg_pp1 1st pl pres ind act
+:vb:disperi_tis	irreg_pp1 2nd pl pres ind act
+:vb:dispereunt	irreg_pp1 3rd pl pres ind act
+:vb:dispereo_r	irreg_pp1 1st sg pres ind pass
+:vb:disperi_ris	irreg_pp1 2nd sg pres ind pass
+:vb:disperi_tur	irreg_pp1 3rd sg pres ind pass
+:vb:disperi_mur	irreg_pp1 1st pl pres ind pass
+:vb:disperi_mini	irreg_pp1 2nd pl pres ind pass
+:vb:dispereuntur	irreg_pp1 3rd pl pres ind pass
+:vb:dis-peri_		irreg_pp1 2nd sg pres imperat act
+:vb:dis-peri_te	irreg_pp1 2nd sg pres imperat act
+:vb:dis-peri_to_	irreg_pp1 2nd sg fut imperat act
+:vb:dis-peri_to_	irreg_pp1 3rd sg fut imperat act
+:vb:dis-peri_to_te	irreg_pp1 2nd pl fut imperat act
+:vb:dis-pereunto_	irreg_pp1 3rd pl fut imperat act
+:vb:dis-peri_re	irreg_pp1 pres inf act
+:vb:dis-peri_ri_	irreg_pp1 pres inf pass 
+:vb:dis-peri_rier	irreg_pp1 pres inf pass early
+:vb:dis-peri_sse	irreg_pp2 perf inf act syncop
+:vb:dis-periens	irreg_pp1 pres part act masc fem nom voc
+:vb:dis-periens	irreg_pp1 pres part act neut nom voc acc
+:vb:dispereunda   irreg_pp1 gerundive fem nom/voc sg
+:vb:disperienda   irreg_pp1 gerundive fem nom/voc sg early
+:vb:dispereundum   irreg_pp1 gerundive neut nom/voc/acc sg
+:vb:disperiendum   irreg_pp1 gerundive neut nom/voc/acc sg early
+:vb:dispereundi_   irreg_pp1 gerundive masc/neut gen sg
+:vb:disperiendi_   irreg_pp1 gerundive masc/neut gen sg early
+:vb:dispereundae   irreg_pp1 gerundive fem gen sg
+:vb:dispereunda_i_   irreg_pp1 gerundive fem gen sg poetic
+:vb:disperiendae   irreg_pp1 gerundive fem gen sg early
+:vb:disperienda_i_   irreg_pp1 gerundive fem gen sg poetic early
+:vb:dispereundo_   irreg_pp1 gerundive masc/neut dat sg
+:vb:disperiendo_   irreg_pp1 gerundive masc/neut dat sg early
+:vb:dispereundae   irreg_pp1 gerundive fem dat sg
+:vb:disperiendae   irreg_pp1 gerundive fem dat sg early
+:vb:dispereundum   irreg_pp1 gerundive masc acc sg
+:vb:dispereundom   irreg_pp1 gerundive masc acc sg early
+:vb:disperiendum   irreg_pp1 gerundive masc acc sg early
+:vb:disperiendom   irreg_pp1 gerundive masc acc sg early
+:vb:dispereundam   irreg_pp1 gerundive fem acc sg
+:vb:disperiendam   irreg_pp1 gerundive fem acc sg early
+:vb:dispereunde   irreg_pp1 gerundive masc/neut voc sg
+:vb:disperiende   irreg_pp1 gerundive masc/neut voc sg early
+:vb:dispereundo_   irreg_pp1 gerundive masc/neut abl sg
+:vb:disperiendo_   irreg_pp1 gerundive masc/neut abl sg early
+:vb:dispereunda_   irreg_pp1 gerundive fem abl sg
+:vb:disperienda_   irreg_pp1 gerundive fem abl sg early
+:vb:dispereundi_   irreg_pp1 gerundive masc nom/voc pl
+:vb:disperiendi_   irreg_pp1 gerundive masc nom/voc pl early
+:vb:dispereundae   irreg_pp1 gerundive fem nom/voc pl
+:vb:disperiendae   irreg_pp1 gerundive fem nom/voc pl early
+:vb:dispereunda   irreg_pp1 gerundive neut nom/voc/acc pl
+:vb:disperienda   irreg_pp1 gerundive neut nom/voc/acc pl early
+:vb:dispereundo_rum   irreg_pp1 gerundive masc/neut gen pl
+:vb:dispereundu_m   irreg_pp1 gerundive masc/neut gen pl poetic
+:vb:disperiendo_rum   irreg_pp1 gerundive masc/neut gen pl early
+:vb:disperiendu_m   irreg_pp1 gerundive masc/neut gen pl poetic early
+:vb:dispereunda_rum   irreg_pp1 gerundive fem gen pl
+:vb:disperienda_rum   irreg_pp1 gerundive fem gen pl early
+:vb:dispereundi_s   irreg_pp1 gerundive masc/neut dat pl
+:vb:disperiendi_s   irreg_pp1 gerundive masc/neut dat pl early
+:vb:dispereundi_s   irreg_pp1 gerundive fem dat pl
+:vb:disperiendi_s   irreg_pp1 gerundive fem dat pl early
+:vb:dispereundo_s   irreg_pp1 gerundive masc acc pl
+:vb:disperiendo_s   irreg_pp1 gerundive masc acc pl early
+:vb:dispereunda_s   irreg_pp1 gerundive fem acc pl
+:vb:disperienda_s   irreg_pp1 gerundive fem acc pl early
+:vb:dispereundi_s   irreg_pp1 gerundive masc/neut abl pl
+:vb:disperiendi_s   irreg_pp1 gerundive masc/neut abl pl early
+:vb:dispereundi_s   irreg_pp1 gerundive fem abl pl
+:vb:disperiendi_s   irreg_pp1 gerundive fem abl pl early
+:vb:dispeream   irreg_pp1 pres subj act 1st sg
+:vb:disperea_s   irreg_pp1 pres subj act 2nd sg
+:vb:dispereat   irreg_pp1 pres subj act 3rd sg
+:vb:disperea_mus   irreg_pp1 pres subj act 1st pl
+:vb:disperea_tis   irreg_pp1 pres subj act 2nd pl
+:vb:dispereant   irreg_pp1 pres subj act 3rd pl
+:vb:dispereuntis   irreg_pp1 pres part act gen sg
+:vb:dispereunti_   irreg_pp1 pres part act dat sg
+:vb:dispereuntem   irreg_pp1 pres part act masc/fem acc sg
+:vb:dispereunte   irreg_pp1 pres part act masc/fem/neut abl sg
+:vb:dispereunte_s   irreg_pp1 pres part act masc/fem nom/voc pl
+:vb:dispereuntia   irreg_pp1 pres part act neut nom/voc/acc pl
+:vb:dispereuntium   irreg_pp1 pres part act gen pl
+:vb:dispereuntibus   irreg_pp1 pres part act dat pl
+:vb:dispereunte_s   irreg_pp1 pres part act masc/fem acc pl
+:vb:dispereunti_s   irreg_pp1 pres part act masc/fem acc pl
+:vb:dispereuntibus   irreg_pp1 pres part act abl pl
+:vb:disperear   irreg_pp1 pres subj pass 1st sg
+:vb:disperea_ris   irreg_pp1 pres subj pass 2nd sg
+:vb:disperea_re   irreg_pp1 pres subj pass 2nd sg
+:vb:dispereatur   irreg_pp1 pres subj pass 3rd sg
+:vb:disperea_mur   irreg_pp1 pres subj pass 1st pl
+:vb:disperea_mini   irreg_pp1 pres subj pass 2nd pl
+:vb:dispereantur   irreg_pp1 pres subj pass 3rd pl
+:vb:disperi_bo_   irreg_pp1 fut ind act 1st sg
+:vb:disperi_bis   irreg_pp1 fut ind act 2nd sg
+:vb:disperi_bit   irreg_pp1 fut ind act 3rd sg
+:vb:disperi_bimus   irreg_pp1 fut ind act 1st pl
+:vb:disperi_bitis   irreg_pp1 fut ind act 2nd pl
+:vb:disperi_bunt   irreg_pp1 fut ind act 3rd pl
+:vb:disperi_bor   irreg_pp1 fut ind pass 1st sg
+:vb:disperi_be_ris   irreg_pp1 fut ind pass 2nd sg
+:vb:disperi_be_re   irreg_pp1 fut ind pass 2nd sg
+:vb:disperi_bitur   irreg_pp1 fut ind pass 3rd sg
+:vb:disperi_bimur   irreg_pp1 fut ind pass 1st pl
+:vb:disperi_bimini   irreg_pp1 fut ind pass 2nd pl
+:vb:disperi_buntur   irreg_pp1 fut ind pass 3rd pl
+:vb:disperierim   irreg_pp2 perf subj act 1st sg
+:vb:disperieri_s   irreg_pp2 perf subj act 2nd sg
+:vb:disperierit   irreg_pp2 perf subj act 3rd sg
+:vb:disperieri_mus   irreg_pp2 perf subj act 1st pl
+:vb:disperieri_tis   irreg_pp2 perf subj act 2nd pl
+:vb:disperierint   irreg_pp2 perf subj act 3rd pl
+:vb:disperi_ssem   irreg_pp2 plup subj act 1st sg
+:vb:disperi_sse_s   irreg_pp2 plup subj act 2nd sg
+:vb:disperi_sset   irreg_pp2 plup subj act 3rd sg
+:vb:disperi_sse_mus   irreg_pp2 plup subj act 1st pl
+:vb:disperi_sse_tis   irreg_pp2 plup subj act 2nd pl
+:vb:disperi_ssent   irreg_pp2 plup subj act 3rd pl
+:vb:disperi_bam   irreg_pp1 imperf ind act 1st sg
+:vb:disperi_ba_s   irreg_pp1 imperf ind act 2nd sg
+:vb:disperi_bat   irreg_pp1 imperf ind act 3rd sg
+:vb:disperi_ba_mus   irreg_pp1 imperf ind act 1st pl
+:vb:disperi_ba_tis   irreg_pp1 imperf ind act 2nd pl
+:vb:disperi_bant   irreg_pp1 imperf ind act 3rd pl
+:vb:disperi_rem   irreg_pp1 imperf subj act 1st sg
+:vb:disperi_re_s   irreg_pp1 imperf subj act 2nd sg
+:vb:disperi_ret   irreg_pp1 imperf subj act 3rd sg
+:vb:disperi_re_mus   irreg_pp1 imperf subj act 1st pl
+:vb:disperi_re_tis   irreg_pp1 imperf subj act 2nd pl
+:vb:disperi_rent   irreg_pp1 imperf subj act 3rd pl
+:vb:disperi_bar   irreg_pp1 imperf ind pass 1st sg
+:vb:disperi_ba_ris   irreg_pp1 imperf ind pass 2nd sg
+:vb:disperi_ba_re   irreg_pp1 imperf ind pass 2nd sg
+:vb:disperi_batur   irreg_pp1 imperf ind pass 3rd sg
+:vb:disperi_ba_mur   irreg_pp1 imperf ind pass 1st pl
+:vb:disperi_ba_mini   irreg_pp1 imperf ind pass 2nd pl
+:vb:disperi_bantur   irreg_pp1 imperf ind pass 3rd pl
+:vb:disperi_rer   irreg_pp1 imperf subj pass 1st sg
+:vb:disperi_re_ris   irreg_pp1 imperf subj pass 2nd sg
+:vb:disperi_re_re   irreg_pp1 imperf subj pass 2nd sg
+:vb:disperi_retur   irreg_pp1 imperf subj pass 3rd sg
+:vb:disperi_re_mur   irreg_pp1 imperf subj pass 1st pl
+:vb:disperi_re_mini   irreg_pp1 imperf subj pass 2nd pl
+:vb:disperi_rentur   irreg_pp1 imperf subj pass 3rd pl
 
 :le:aufero
 :vb:aufe^ro_	irreg_pp1 1st sg pres ind act

@@ -41,6 +41,9 @@
 :le:Deioneus
 :no:De_ione	us_i masc
 
+:le:dicio
+:no:dici	o_oLnis fem
+
 :le:ecflictim
 :wd:ecflictim	adverb
 
@@ -56,6 +59,10 @@
 :le:Gorgophone
 :no:Gorgophon	es_is fem
 :wd:Gorgophone	irreg_nom3 fem nom sg
+
+:le:grallatorius
+:aj:grallatori	us_a_um
+:aj:gralatori	us_a_um orth
 
 :le:hicine
 :wd:hicine	adverb
@@ -73,11 +80,17 @@
 :wd:I^e_su	irreg_nom2 masc abl sg
 :wd:I^e_su	irreg_nom2 masc voc sg
 
+:le:incus
+:no:incu_	s_dis fem
+
 :le:insons
 :aj:inson	s_tis
 
 :le:Maecenas
 :no:Maece_na	s_tis
+
+:le:memoriter
+:wd:me^mo^ri^te^r	adverb
 
 :le:murena
 :no:muren	a_ae fem
@@ -104,6 +117,21 @@
 :le:pontifex
 :no:pontif	ex_icis masc
 
+:le:praequam
+:wd:praequam	conj
+
+:le:praeut
+:wd:praeut	conj
+
+:le:promptarium
+:no:promptar	ius_i neut
+
+:le:prosper
+:aj:prosper	0_a_um
+
+:le:prosperus
+:aj:prosper	us_a_um
+
 :le:quidum
 :wd:qui_dum	adverb
 
@@ -113,8 +141,9 @@
 :le:satur
 :aj:sa^tu^r	0_a_um
 
-:le:singulus
-:aj:singul	us_a_um
+:le:sirempse
+:wd:sirempse	pron indecl
+:wd:siremps	pron indecl orth
 
 :le:Taphus
 :no:Taph	us_i fem
@@ -151,3 +180,87 @@
 
 :le:vorsus
 :no:vors	us_us masc
+
+:le:singulus
+:aj:singul	us_a_um
+
+:le:bini
+:aj:bi_n	us_a_um
+
+:le:terni
+:aj:tern	us_a_um
+:aj:tri_n	us_a_um orth
+
+:le:quaterni
+:aj:quatern	us_a_um
+
+:le:quini
+:aj:qui_n	us_a_um
+
+:le:seni
+:aj:se_n	us_a_um
+
+:le:septeni
+:aj:septe_n	us_a_um
+
+:le:octoni
+:aj:octo_n	us_a_um
+
+:le:noveni
+:aj:nove_n	us_a_um
+
+:le:deni
+:aj:de_n	us_a_um
+
+:le:viceni
+:aj:vi_ce_n	us_a_um
+
+:le:triceni
+:aj:tri_ce_n	us_a_um
+
+:le:quadrageni
+:aj:quadra_ge_n	us_a_um
+
+:le:quinquageni
+:aj:qui_nqua_ge_n	us_a_um
+
+:le:sexageni
+:aj:sexa_ge_n	us_a_um
+
+:le:septuageni
+:aj:septua_ge_n	us_a_um
+
+:le:octogeni
+:aj:octo_ge_n	us_a_um
+
+:le:nonageni
+:aj:no_na_ge_n	us_a_um
+
+:le:centeni
+:aj:cente_n	us_a_um
+
+:le:duceni
+:aj:duce_n	us_a_um
+
+:le:treceni
+:aj:trece_n	us_a_um
+
+:le:quadringeni
+:aj:quadringe_n	us_a_um
+
+:le:quingeni
+:aj:qui_nge_n	us_a_um
+
+:le:sexceni
+:aj:sexce_n	us_a_um
+:aj:se_sce_n	us_a_um orth
+
+:le:septingeni
+:aj:septinge_n	us_a_um
+
+:le:octingeni
+:aj:octinge_n	us_a_um
+
+:le:nongeni
+:aj:no_nge_n	us_a_um
+

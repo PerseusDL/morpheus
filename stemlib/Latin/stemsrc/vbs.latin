@@ -7476,6 +7476,7 @@
 :vs:impens pp4
 :le:imperco
 :vs:imperc	conj3
+:vs:inperc	conj3 orth
 :le:imperito
 :de:impe^ri^t	are_vb
 :le:impermisceo
@@ -10375,9 +10376,14 @@
 :vs:ob-ti^n	conj2
 :vs:ob-ti^nu^ perfstem
 :vs:ob-tent pp4
+:vs:opti^n	conj2 orth
+:vs:opti^nu^ perfstem orth
+:vs:optent pp4 orth
 :le:obtingo
 :vs:ob-ting	conj3
 :vs:ob-ti^g perfstem
+:vs:opting	conj3 orth
+:vs:opti^g	perfstem orth
 :le:obtinnio
 :de:ob-tinn	ire_vb
 :le:obtorpeo
@@ -10389,6 +10395,9 @@
 :vs:ob-torqu	conj2
 :vs:ob-tors perfstem
 :vs:ob-tort pp4
+:vs:optorqu	conj2 orth
+:vs:optors perfstem orth
+:vs:optort pp4 orth
 :le:obtraho
 :vs:ob-tra^h	conj3
 :le:obtrecto
@@ -10399,6 +10408,7 @@
 :vs:ob-tru_s pp4
 :le:obtrunco
 :de:ob-trunc	are_vb
+:de:optrunc	are_vb orth
 :le:obtundo
 :vs:ob-tund	conj3
 :vs:ob-tu^d perfstem
@@ -10768,6 +10778,7 @@
 :vs:pa^r	conj3_io
 :vs:pe^pe^r perfstem
 :vs:pa^ri^t pp4
+:vs:part	pp4 early
 :le:pario#3
 :de:pa^r	ire_vb
 :le:parito
@@ -11967,9 +11978,13 @@
 :vs:po^ti_v perfstem
 :le:potiono
 :de:po_ti^o_n	are_vb
-:le:potior#1
+:le:potior
 :vs:po^t	conj4
 :vs:po^ti_t pp4
+:vb:po^titur	perfstem 3rd sg pres indic pass early
+:vb:po^tere_tur	perfstem 3rd sg imperf subj pass early
+:vb:po^tere_mur	perfstem 1st pl imperf subj pass early
+:vb:po^terentur	perfstem 3rd pl imperf subj pass early
 :le:potito
 :de:po_ti^t	are_vb
 :le:praeaccipio
@@ -12844,6 +12859,9 @@
 :vs:pro^-hi^b	conj2
 :vs:pro^-hi^bu^ perfstem
 :vs:pro^-hi^bi^t pp4
+:vb:prohibessis	perfstem 2nd sg perf subj act early
+:vb:prohibessit	perfstem 3rd sg perf subj act early
+:vb:prohibessint	perfstem 3rd pl perf subj act early
 :le:proicio
 :vs:pro_-i^c	conj3_io
 :vs:pro_-i^cje_c perfstem
@@ -14537,6 +14555,9 @@
 :le:sarpo
 :vs:sarp	conj3
 :vs:sarpt pp4
+:le:sarrio
+:vs:sarr	conj4
+:vs:sarru	perfstem
 :le:satio#1
 :de:sa^ti	are_vb
 :le:satullo
@@ -14641,8 +14662,8 @@
 :de:se^cund	are_vb
 :le:sedeo
 :vs:se^d	conj2
-:vs:se^se_d perfstem
-:vs:se^sess pp4
+:vs:se_d perfstem
+:vs:sess pp4
 :le:sedo
 :de:se_d	are_vb
 :le:seduco

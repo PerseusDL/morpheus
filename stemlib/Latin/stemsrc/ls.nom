@@ -124612,6 +124612,7 @@ Me_thymni^as
 me^ti^cu^lo_sus		
 :le:meticulosus
 :aj:me^ti^cu^lo_s	us_a_um
+:aj:me^tu^cu^lo_s	us_a_um orth
 
 
 Metilius		
@@ -166780,7 +166781,7 @@ pro^pi^or		<itype>i^us</itype>
 proxi^mus		
 :le:proximus
 :aj:proxi^m	us_a_um
-
+:aj:proxu^m	us_a_um orth
 
 pro^pi^o_ra		<itype>um</itype>	
 :le:propiora
@@ -166791,9 +166792,6 @@ pro^pi^us		<orth>proxi^mus</orth>
 :le:propius
 :wd:pro^pi^us	adverb
 
-:wd:proxi^mus	adverb orth
-
-	
 :le:propius
 :aj:pro^p	ius_ia_ium
 :aj:prox	ius_ia_ium orth
@@ -186309,7 +186307,7 @@ Septi^mu^le_ius
 septi^mus		<orth type=alt>septu^mus</orth>	
 :le:septimus
 :aj:septi^m	us_a_um
-
+:aj:septu^m	us_a_um orth
 
 septi^mum		<orth>septi^mo_</orth>
 septinge_na_ri^us		

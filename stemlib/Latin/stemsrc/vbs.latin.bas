@@ -237,6 +237,11 @@
 :vs:e_m perfstem
 :vs:empt pp4
 
+:le:eneco
+:vs:e_ne^c	are_vb
+:de:e_ni^c	are_vb orth
+:vs:e_ne^cu	perfstem
+
 :le:eripio
 :vs:e_ri^p	conj3
 :vs:eri^pu^ 	perfstem
@@ -245,6 +250,10 @@
 :le:experior
 :vs:exper	conj4
 :vs:expert	pp4
+
+:le:exsilio
+:vs:exsi^l	conj4
+:vs:exsi^lu^	perfstem
 
 :le:exstinguo
 :vs:ex-stingu	conj3
@@ -353,6 +362,9 @@
 :le:impetro
 :de:impetr	are_vb
 :de:in-petr	are_vb orth
+
+:le:impliciscor
+:vs:implicisc	conj3 dep
 
 :le:incoho
 :de:incoh 	are_vb
@@ -471,6 +483,9 @@
 :vs:mi_s perfstem
 :vs:miss pp4
 
+:le:mulco
+:de:mulc	are_vb
+:de:mulct	are_vb orth
 
 :le:munio
 :de:mun	ire_vb
@@ -515,14 +530,22 @@
 :vb:no_stis	perfstem 2nd pl perf ind act contr
 :vb:no_runt	perfstem 3rd pl perf ind act contr
 :vb:no_rim	perfstem 1st sg perf subj act contr
+:vb:no_rit	perfstem 3rd sg perf subj act contr
 :vs:no_t	pp4
 :vb:no_ris	perfstem 2nd sg futperf ind act contr
 :vb:no_ras	perfstem 2nd sg plup ind act contr
 :vb:no_runt	perfstem 3rd pl futperf ind act contr
 :vb:no_sse	perfstem perf inf act contr
-:vs:gnosc	conj3 comp_only
-:vs:gno_v	perfstem comp_only
-:vs:gno_t	pp4 comp_only
+:vs:gnosc	conj3 orth
+:vs:gno_v	perfstem orth
+:vs:gno_t	pp4 orth
+
+:le:occipio
+:vs:occipi	conj3
+:vs:occe_p	perfstem
+:vb:occepso	perfstem 1st sg futperf ind act early
+:vb:occepsit	perfstem 3rd sg futperf ind act early
+:vs:occept	pp4
 
 :le:odi
 :vs:o_d		perfstem
@@ -677,6 +700,9 @@
 :vs:repper	perfstem
 :vs:repert	pp4
 
+:le:rumifero
+:de:ru_mifer	are_vb
+
 :le:ruo
 :vs:ru^	conj3
 :vs:ru^	perfstem
@@ -765,6 +791,17 @@
 :vs:surrect	pp4
 :vs:subrect	pp4
 
+:le:surripio
+:vs:surrip	conj3_io
+:vs:subrip	conj3_io orth
+:vs:surripu	perfstem
+:vs:subripu	perfstem orth
+:vs:surrept	pp4
+:vs:subrept	ppf orth
+:vs:surrupu	perfstem orth early
+:vs:subrupu	perfstem orth early
+:vs:surpu	perfstem orth early
+
 :le:taceo
 :vs:ta^c        conj2 no_comp
 :vs:ta^cu^ perfstem no_comp
@@ -826,6 +863,14 @@
 :vs:tu^	conj2
 :vs:tui^t pp4
 :vs:tut pp4
+
+:le:obtueor
+:vs:ob-tu^	conj2
+:vs:optu^	conj2 orth
+:vs:obtui^t	pp4
+:vs:obtui^t	pp4 orth
+:vs:obtut	pp4
+:vs:optut	pp4 orth
 
 :le:tundo
 :vs:tund	conj3
