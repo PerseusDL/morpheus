@@ -121,6 +121,12 @@
 :le:abborrare
 :de:abborr are_vb
 
+:le:abbottacciarsi
+:de:abbottac ciarsi_vb
+
+:le:abbottarsi
+:de:abbott arsi_vb
+
 :le:abbottinare
 :de:abbottin are_vb
 
@@ -130,8 +136,14 @@
 :le:abbozzare
 :de:abbozz are_vb
 
+:le:abbozzolarsi
+:de:abbozzol arsi_vb
+
 :le:abbracciare
 :de:abbrac ciare_vb
+
+:le:abbraciare
+:de:abbra ciare_vb
 
 :le:abbragiare
 :de:abbra giare_vb
@@ -145,6 +157,9 @@
 :le:abbrivare
 :de:abbriv are_vb
 
+:le:abbronzare
+:de:abbronz are_vb
+
 :le:abbronzire
 :de:abbronz ire_vb
 
@@ -157,17 +172,26 @@
 :le:abbruciare
 :de:abbru ciare_vb
 
+:le:abbrunare
+:de:abbrun are_vb
+
 :le:abbrunire
 :de:abbrun ire_vb
 
 :le:abbruscare
 :de:abbrus care_vb
 
+:le:abbrustolare
+:de:abbrustol are_vb
+
 :le:abbrustolire
 :de:abbrustol ire_vb
 
 :le:abbruttire
 :de:abbrutt ire_vb
+
+:le:abbuccinare
+:de:abbuccin are_vb
 
 :le:abbucinare
 :de:abbucin are_vb
@@ -180,6 +204,9 @@
 
 :le:abdicare
 :de:abdi care_vb
+
+:le:abiettare
+:de:abiett are_vb
 
 :le:abiettire
 :de:abiett ire_vb
@@ -205,6 +232,9 @@
 :le:aborrire
 :de:aborr ire_vb
 
+:le:abortare
+:de:abort are_vb
+
 :le:abortire
 :de:abort ire_vb
 
@@ -229,6 +259,9 @@
 :le:accalappiare
 :de:accalappi are_vb
 
+:le:accalorare
+:de:accalor are_vb
+
 :le:accalorire
 :de:accalor ire_vb
 
@@ -240,6 +273,9 @@
 
 :le:accanalare
 :de:accanal are_vb
+
+:le:accanare
+:de:accan are_vb
 
 :le:accanire
 :de:accan ire_vb
@@ -256,11 +292,17 @@
 :le:accannellare
 :de:accannell are_vb
 
+:le:accapacciarsi
+:de:accapac ciarsi_vb
+
 :le:accaparrare
 :de:accaparr are_vb
 
 :le:accapezzare
 :de:accapezz are_vb
+
+:le:accapigliarsi
+:de:accapigli arsi_vb
 
 :le:accapitolare
 :de:accapitol are_vb
@@ -288,6 +330,9 @@
 
 :le:accarezzare
 :de:accarezz are_vb
+
+:le:accarnare
+:de:accarn are_vb
 
 :le:accarnire
 :de:accarn ire_vb
@@ -331,6 +376,9 @@
 :le:accavigliare
 :de:accavigli are_vb
 
+:le:accecare
+:de:acce care_vb
+
 :le:acciecare
 :de:accie care_vb
 
@@ -351,6 +399,9 @@
 
 :le:accennare
 :de:accenn are_vb
+
+:le:accentare
+:de:accent are_vb
 
 :le:accentuare
 :de:accentu are_vb
@@ -399,6 +450,9 @@
 
 :le:acciaccare
 :de:acciac care_vb
+
+:le:acciapinare
+:de:acciapin are_vb
 
 :le:acciappinare
 :de:acciappin are_vb
@@ -457,6 +511,12 @@
 :le:accodare
 :de:accod are_vb
 
+:le:accogliere
+:de:accogli ere_vb
+
+:le:accorre
+:de:acc orre_vb
+
 :le:accolare
 :de:accol are_vb
 
@@ -469,11 +529,17 @@
 :le:accomandolare
 :de:accomandol are_vb
 
+:le:accomiatare
+:de:accomiat are_vb
+
 :le:accommiatare
 :de:accommiat are_vb
 
 :le:accomignolare
 :de:accomignol are_vb
+
+:le:accommezzarsi
+:de:accommezz arsi_vb
 
 :le:accomodare
 :de:accomod are_vb
@@ -520,6 +586,9 @@
 :le:accortare
 :de:accort are_vb
 
+:le:accosciarsi
+:de:accos ciarsi_vb
+
 :le:accostare
 :de:accost are_vb
 
@@ -528,6 +597,12 @@
 
 :le:accotonare
 :de:accoton are_vb
+
+:le:accovacciarsi
+:de:accovac ciarsi_vb
+
+:le:accovacciolarsi
+:de:accovacciol arsi_vb
 
 :le:accovonare
 :de:accovon are_vb
@@ -544,6 +619,9 @@
 :le:accrespare
 :de:accresp are_vb
 
+:le:accucciarsi
+:de:accuc ciarsi_vb
+
 :le:accudire
 :de:accud ire_vb
 
@@ -556,11 +634,17 @@
 :le:accumulare
 :de:accumul are_vb
 
+:le:accuparsi
+:de:accup arsi_vb
+
 :le:accusare
 :de:accus are_vb
 
 :le:acetire
 :de:acet ire_vb
+
+:le:achittarsi
+:de:achitt arsi_vb
 
 :le:acidificare
 :de:acidifi care_vb
@@ -571,17 +655,26 @@
 :le:acidulare
 :de:acidul are_vb
 
+:le:acquacchiarsi
+:de:acquacchi arsi_vb
+
 :le:acquagliare
 :de:acquagli are_vb
 
 :le:acquare
 :de:acqu are_vb
 
+:le:acquartierarsi
+:de:acquartier arsi_vb
+
 :le:acquattare
 :de:acquatt are_vb
 
 :le:acquerellare
 :de:acquerell are_vb
+
+:le:acquietare
+:de:acquiet are_vb
 
 :le:acquetare
 :de:acquet are_vb
@@ -610,6 +703,9 @@
 :le:adattare
 :de:adatt are_vb
 
+:le:addarsi
+:de:add arsi_vb
+
 :le:addecimare
 :de:addecim are_vb
 
@@ -619,6 +715,9 @@
 :le:addentellare
 :de:addentell are_vb
 
+:le:addentrarsi
+:de:addentr arsi_vb
+
 :le:addestrare
 :de:addestr are_vb
 
@@ -627,6 +726,9 @@
 
 :le:addimesticare
 :de:addimesti care_vb
+
+:le:addire
+:de:add ire_vb
 
 :le:addicere
 :de:addic ere_vb
@@ -655,6 +757,9 @@
 :le:addolorare
 :de:addolor are_vb
 
+:le:addoparsi
+:de:addop arsi_vb
+
 :le:addoppiare
 :de:addoppi are_vb
 
@@ -676,8 +781,14 @@
 :le:addurare
 :de:addur are_vb
 
+:le:addurre
+:de:add urre_vb
+
 :le:adeguare
 :de:adegu are_vb
+
+:le:adempiere
+:de:adempi ere_vb
 
 :le:adempire
 :de:ademp ire_vb
@@ -714,6 +825,9 @@
 
 :le:adontare
 :de:adont are_vb
+
+:le:adoperare
+:de:adoper are_vb
 
 :le:adoprare
 :de:adopr are_vb
@@ -757,6 +871,9 @@
 :le:adustare
 :de:adust are_vb
 
+:le:affaccendarsi
+:de:affaccend arsi_vb
+
 :le:affaccettare
 :de:affaccett are_vb
 
@@ -789,6 +906,9 @@
 
 :le:affardellare
 :de:affardell are_vb
+
+:le:affarsi
+:de:aff arsi_vb
 
 :le:affasciare
 :de:affas ciare_vb
@@ -823,6 +943,9 @@
 :le:affezionare
 :de:affezion are_vb
 
+:le:affatarsi
+:de:affat arsi_vb
+
 :le:affibbiare
 :de:affibbi are_vb
 
@@ -856,11 +979,17 @@
 :le:affirmare
 :de:affirm are_vb
 
+:le:affisare
+:de:affis are_vb
+
 :le:affissare
 :de:affiss are_vb
 
 :le:affittare
 :de:affitt are_vb
+
+:le:affittirsi
+:de:affitt irsi_vb
 
 :le:afflare
 :de:affl are_vb
@@ -898,14 +1027,23 @@
 :le:affossare
 :de:affoss are_vb
 
+:le:affragnere
+:de:affragn ere_vb
+
 :le:affrangere
 :de:affrang ere_vb
+
+:le:affralare
+:de:affral are_vb
 
 :le:affralire
 :de:affral ire_vb
 
 :le:affrancare
 :de:affran care_vb
+
+:le:affratellarsi
+:de:affratell arsi_vb
 
 :le:affreddare
 :de:affredd are_vb
@@ -924,6 +1062,9 @@
 
 :le:affrontare
 :de:affront are_vb
+
+:le:affumicare
+:de:affumi care_vb
 
 :le:affumare
 :de:affum are_vb
@@ -952,6 +1093,9 @@
 :le:agghermigliare
 :de:agghermigli are_vb
 
+:le:agghiadare
+:de:agghiad are_vb
+
 :le:agghiadire
 :de:agghiad ire_vb
 
@@ -970,6 +1114,9 @@
 :le:aggiudicare
 :de:aggiudi care_vb
 
+:le:aggiugnere
+:de:aggiugn ere_vb
+
 :le:aggiungere
 :de:aggiung ere_vb
 
@@ -982,6 +1129,9 @@
 :le:aggobbire
 :de:aggobb ire_vb
 
+:le:aggomicciolare
+:de:aggomicciol are_vb
+
 :le:aggomitolare
 :de:aggomitol are_vb
 
@@ -991,6 +1141,12 @@
 :le:aggradire
 :de:aggrad ire_vb
 
+:le:aggraduirsi
+:de:aggradu irsi_vb
+
+:le:aggranchiarsi
+:de:aggranchi arsi_vb
+
 :le:aggrandire
 :de:aggrand ire_vb
 
@@ -999,6 +1155,9 @@
 
 :le:aggratare
 :de:aggrat are_vb
+
+:le:aggraticciarsi
+:de:aggratic ciarsi_vb
 
 :le:aggratigliare
 :de:aggratigli are_vb
@@ -1024,6 +1183,9 @@
 :le:aggrezzare
 :de:aggrezz are_vb
 
+:le:aggricciarsi
+:de:aggric ciarsi_vb
+
 :le:aggrinzare
 :de:aggrinz are_vb
 
@@ -1036,6 +1198,12 @@
 :le:aggrottare
 :de:aggrott are_vb
 
+:le:aggrovigliarsi
+:de:aggrovigli arsi_vb
+
+:le:aggrumarsi
+:de:aggrum arsi_vb
+
 :le:aggrumolare
 :de:aggrumol are_vb
 
@@ -1047,6 +1215,9 @@
 
 :le:agguardare
 :de:agguard are_vb
+
+:le:agguattarsi
+:de:agguatt arsi_vb
 
 :le:agguerrire
 :de:agguerr ire_vb
@@ -1198,6 +1369,9 @@
 :le:allenzare
 :de:allenz are_vb
 
+:le:allestire
+:de:allest ire_vb
+
 :le:allestare
 :de:allest are_vb
 
@@ -1228,11 +1402,17 @@
 :le:allietare
 :de:alliet are_vb
 
+:le:allievarsi
+:de:alliev arsi_vb
+
 :le:alligare
 :de:alli gare_vb
 
 :le:allignare
 :de:allign are_vb
+
+:le:allindare
+:de:allind are_vb
 
 :le:allindire
 :de:allind ire_vb
@@ -1269,6 +1449,9 @@
 
 :le:allucignolare
 :de:allucignol are_vb
+
+:le:allucinarsi
+:de:allucin arsi_vb
 
 :le:alludere
 :de:allud ere_vb
@@ -1330,8 +1513,14 @@
 :le:ambulare
 :de:ambul are_vb
 
+:le:amicarsi
+:de:ami carsi_vb
+
 :le:ammaccare
 :de:ammac care_vb
+
+:le:ammacchiarsi
+:de:ammacchi arsi_vb
 
 :le:ammaestrare
 :de:ammaestr are_vb
@@ -1339,11 +1528,17 @@
 :le:ammagliare
 :de:ammagli are_vb
 
+:le:ammagrare
+:de:ammagr are_vb
+
 :le:ammagrire
 :de:ammagr ire_vb
 
 :le:ammainare
 :de:ammain are_vb
+
+:le:ammajarsi
+:de:ammaj arsi_vb
 
 :le:ammalare
 :de:ammal are_vb
@@ -1366,11 +1561,20 @@
 :le:ammannajare
 :de:ammannaj are_vb
 
+:le:ammansare
+:de:ammans are_vb
+
 :le:ammansire
 :de:ammans ire_vb
 
+:le:ammantare
+:de:ammant are_vb
+
 :le:ammantellare
 :de:ammantell are_vb
+
+:le:ammarginarsi
+:de:ammargin arsi_vb
 
 :le:ammarinare
 :de:ammarin are_vb
@@ -1402,6 +1606,9 @@
 :le:ammazzolare
 :de:ammazzol are_vb
 
+:le:ammelmare
+:de:ammelm are_vb
+
 :le:ammemmare
 :de:ammemm are_vb
 
@@ -1410,6 +1617,9 @@
 
 :le:ammettere
 :de:ammett ere_vb
+
+:le:ammezzare
+:de:ammezz are_vb
 
 :le:ammezzare
 :de:ammezz are_vb
@@ -1432,6 +1642,9 @@
 :le:ammirare
 :de:ammir are_vb
 
+:le:ammiserarsi
+:de:ammiser arsi_vb
+
 :le:ammobigliare
 :de:ammobigli are_vb
 
@@ -1443,6 +1656,9 @@
 
 :le:ammogliare
 :de:ammogli are_vb
+
+:le:ammoinare
+:de:ammoin are_vb
 
 :le:ammuinare
 :de:ammuin are_vb
@@ -1459,14 +1675,23 @@
 :le:ammonire
 :de:ammon ire_vb
 
+:le:ammonticellare
+:de:ammonticell are_vb
+
 :le:ammontonare
 :de:ammonton are_vb
+
+:le:ammonticchiare
+:de:ammonticchi are_vb
 
 :le:ammonzicchiare
 :de:ammonzicchi are_vb
 
 :le:ammorbare
 :de:ammorb are_vb
+
+:le:ammorbidare
+:de:ammorbid are_vb
 
 :le:ammorbidire
 :de:ammorbid ire_vb
@@ -1501,6 +1726,12 @@
 :le:ammusare
 :de:ammus are_vb
 
+:le:ammutinarsi
+:de:ammutin arsi_vb
+
+:le:ammutolare
+:de:ammutol are_vb
+
 :le:ammutolire
 :de:ammutol ire_vb
 
@@ -1509,6 +1740,9 @@
 
 :le:amorevoleggiare
 :de:amorevoleg giare_vb
+
+:le:ampiare
+:de:ampi are_vb
 
 :le:amplificare
 :de:amplifi care_vb
@@ -1521,6 +1755,9 @@
 
 :le:analizzare
 :de:analizz are_vb
+
+:le:anatemizzare
+:de:anatemizz are_vb
 
 :le:anatematizzare
 :de:anatematizz are_vb
@@ -1537,14 +1774,26 @@
 :le:andare
 :de:and are_vb
 
+:le:anelare
+:de:anel are_vb
+
 :le:anelitare
 :de:anelit are_vb
+
+:le:angariare
+:de:angari are_vb
 
 :le:angheriare
 :de:angheri are_vb
 
+:le:angersi
+:de:ang ersi_vb
+
 :le:angosciare
 :de:angos ciare_vb
+
+:le:angustarsi
+:de:angust arsi_vb
 
 :le:angustiare
 :de:angusti are_vb
@@ -1564,11 +1813,17 @@
 :le:annebbiare
 :de:annebbi are_vb
 
+:le:annegare
+:de:anne gare_vb
+
 :le:anniegare
 :de:annie gare_vb
 
 :le:anneghittire
 :de:anneghitt ire_vb
+
+:le:annerare
+:de:anner are_vb
 
 :le:annerire
 :de:anner ire_vb
@@ -1581,6 +1836,9 @@
 
 :le:annevare
 :de:annev are_vb
+
+:le:annichilare
+:de:annichil are_vb
 
 :le:annichilire
 :de:annichil ire_vb
@@ -1609,11 +1867,17 @@
 :le:annotare
 :de:annot are_vb
 
+:le:annottare
+:de:annott are_vb
+
 :le:annottire
 :de:annott ire_vb
 
 :le:annoverare
 :de:annover are_vb
+
+:le:annullare
+:de:annull are_vb
 
 :le:annullire
 :de:annull ire_vb
@@ -1627,6 +1891,9 @@
 :le:annusare
 :de:annus are_vb
 
+:le:annuvolare
+:de:annuvol are_vb
+
 :le:annuvolire
 :de:annuvol ire_vb
 
@@ -1635,6 +1902,9 @@
 
 :le:antepassare
 :de:antepass are_vb
+
+:le:anteporre
+:de:antep orre_vb
 
 :le:anteponere
 :de:antepon ere_vb
@@ -1647,6 +1917,9 @@
 
 :le:anticipare
 :de:anticip are_vb
+
+:le:anticonoscere
+:de:anticonosc ere_vb
 
 :le:anticognoscere
 :de:anticognosc ere_vb
@@ -1750,6 +2023,9 @@
 :le:appaltonare
 :de:appalton are_vb
 
+:le:appancacciarsi
+:de:appancac ciarsi_vb
+
 :le:appanciollare
 :de:appancioll are_vb
 
@@ -1761,6 +2037,9 @@
 
 :le:apparecchiare
 :de:apparecchi are_vb
+
+:le:apparentarsi
+:de:apparent arsi_vb
 
 :le:apparigliare
 :de:apparigli are_vb
@@ -1776,6 +2055,9 @@
 
 :le:appassare
 :de:appass are_vb
+
+:le:appassionarsi
+:de:appassion arsi_vb
 
 :le:appassire
 :de:appass ire_vb
@@ -1813,6 +2095,9 @@
 :le:appestare
 :de:appest are_vb
 
+:le:appetire
+:de:appet ire_vb
+
 :le:appetere
 :de:appet ere_vb
 
@@ -1831,6 +2116,9 @@
 :le:appiastrare
 :de:appiastr are_vb
 
+:le:appiastricciare
+:de:appiastric ciare_vb
+
 :le:appiastriccicare
 :de:appiastricci care_vb
 
@@ -1846,8 +2134,14 @@
 :le:appiccicare
 :de:appicci care_vb
 
+:le:appiccinire
+:de:appiccin ire_vb
+
 :le:appiccolire
 :de:appiccol ire_vb
+
+:le:appicciolare
+:de:appicciol are_vb
 
 :le:appicciolire
 :de:appicciol ire_vb
@@ -1861,14 +2155,26 @@
 :le:appigliare
 :de:appigli are_vb
 
+:le:appigrirsi
+:de:appigr irsi_vb
+
+:le:appillottarsi
+:de:appillott arsi_vb
+
 :le:appinzare
 :de:appinz are_vb
+
+:le:applaudire
+:de:applaud ire_vb
 
 :le:applaudere
 :de:applaud ere_vb
 
 :le:applicare
 :de:appli care_vb
+
+:le:applicativo
+:de:applicativo irreg_vb
 
 :le:appodiare
 :de:appodi are_vb
@@ -1884,6 +2190,9 @@
 
 :le:appopolare
 :de:appopol are_vb
+
+:le:apporre
+:de:app orre_vb
 
 :le:apportare
 :de:apport are_vb
@@ -1909,6 +2218,9 @@
 :le:appresentare
 :de:appresent are_vb
 
+:le:appressare
+:de:appress are_vb
+
 :le:approcciare
 :de:approc ciare_vb
 
@@ -1933,6 +2245,9 @@
 :le:approfittare
 :de:approfitt are_vb
 
+:le:approfondare
+:de:approfond are_vb
+
 :le:approfondire
 :de:approfond ire_vb
 
@@ -1951,6 +2266,9 @@
 :le:approvare
 :de:approv are_vb
 
+:le:approvecciarsi
+:de:approvec ciarsi_vb
+
 :le:approvigionare
 :de:approvigion are_vb
 
@@ -1962,6 +2280,9 @@
 
 :le:appurare
 :de:appur are_vb
+
+:le:appuzzare
+:de:appuzz are_vb
 
 :le:appuzzolare
 :de:appuzzol are_vb
@@ -1977,6 +2298,9 @@
 
 :le:arabescare
 :de:arabes care_vb
+
+:le:aragnarsi
+:de:aragn arsi_vb
 
 :le:aramatizzare
 :de:aramatizz are_vb
@@ -2041,6 +2365,12 @@
 :le:argentare
 :de:argent are_vb
 
+:le:argogliarsi
+:de:argogli arsi_vb
+
+:le:argomentare
+:de:argoment are_vb
+
 :le:argumentare
 :de:argument are_vb
 
@@ -2083,8 +2413,17 @@
 :le:arponare
 :de:arpon are_vb
 
+:le:arrabattarsi
+:de:arrabatt arsi_vb
+
+:le:arrabbicare
+:de:arrabbi care_vb
+
 :le:arrabbire
 :de:arrabb ire_vb
+
+:le:arraffiare
+:de:arraffi are_vb
 
 :le:arrappare
 :de:arrapp are_vb
@@ -2134,8 +2473,14 @@
 :le:arrequiare
 :de:arrequi are_vb
 
+:le:arretare
+:de:arret are_vb
+
 :le:arreticare
 :de:arreti care_vb
+
+:le:arretrarsi
+:de:arretr arsi_vb
 
 :le:arrezzare
 :de:arrezz are_vb
@@ -2155,8 +2500,17 @@
 :le:arringare
 :de:arrin gare_vb
 
+:le:arriparsi
+:de:arrip arsi_vb
+
+:le:arrischiare
+:de:arrischi are_vb
+
 :le:arrisicare
 :de:arrisi care_vb
+
+:le:arrissarsi
+:de:arriss arsi_vb
 
 :le:arristiare
 :de:arristi are_vb
@@ -2203,11 +2557,20 @@
 :le:arroncigliare
 :de:arroncigli are_vb
 
+:le:arrorare
+:de:arror are_vb
+
 :le:arrosare
 :de:arros are_vb
 
+:le:arrossare
+:de:arross are_vb
+
 :le:arrossire
 :de:arross ire_vb
+
+:le:arrostarsi
+:de:arrost arsi_vb
 
 :le:arrostire
 :de:arrost ire_vb
@@ -2230,11 +2593,17 @@
 :le:arrovesciare
 :de:arroves ciare_vb
 
+:le:arrozzare
+:de:arrozz are_vb
+
 :le:arrozzire
 :de:arrozz ire_vb
 
 :le:arrubare
 :de:arrub are_vb
+
+:le:arrubinare
+:de:arrubin are_vb
 
 :le:arrubigliare
 :de:arrubigli are_vb
@@ -2302,6 +2671,9 @@
 :le:asciolvere
 :de:asciolv ere_vb
 
+:le:asciugare
+:de:asciu gare_vb
+
 :le:asciuttare
 :de:asciutt are_vb
 
@@ -2353,6 +2725,9 @@
 :le:assapere
 :de:assap ere_vb
 
+:le:assaporare
+:de:assapor are_vb
+
 :le:assavorare
 :de:assavor are_vb
 
@@ -2380,14 +2755,26 @@
 :le:assembrare
 :de:assembr are_vb
 
+:le:assemplare
+:de:assempl are_vb
+
 :le:assemprare
 :de:assempr are_vb
+
+:le:assennare
+:de:assenn are_vb
 
 :le:assennire
 :de:assenn ire_vb
 
+:le:assentarsi
+:de:assent arsi_vb
+
 :le:assentire
 :de:assent ire_vb
+
+:le:asserarsi
+:de:asser arsi_vb
 
 :le:asserenare
 :de:asseren are_vb
@@ -2404,6 +2791,9 @@
 :le:assestare
 :de:assest are_vb
 
+:le:assetare
+:de:asset are_vb
+
 :le:assetire
 :de:asset ire_vb
 
@@ -2415,6 +2805,9 @@
 
 :le:asseverare
 :de:assever are_vb
+
+:le:assicurare
+:de:assicur are_vb
 
 :le:assecurare
 :de:assecur are_vb
@@ -2443,8 +2836,14 @@
 :le:associare
 :de:asso ciare_vb
 
+:le:assodare
+:de:assod are_vb
+
 :le:assolidare
 :de:assolid are_vb
+
+:le:assoggettare
+:de:assoggett are_vb
 
 :le:assoggettire
 :de:assoggett ire_vb
@@ -2473,8 +2872,14 @@
 :le:assopire
 :de:assop ire_vb
 
+:le:assorbere
+:de:assorb ere_vb
+
 :le:assorbire
 :de:assorb ire_vb
+
+:le:assordare
+:de:assord are_vb
 
 :le:assordire
 :de:assord ire_vb
@@ -2500,14 +2905,32 @@
 :le:assumere
 :de:assum ere_vb
 
+:le:astallarsi
+:de:astall arsi_vb
+
+:le:astenersi
+:de:asten ersi_vb
+
 :le:astergere
 :de:asterg ere_vb
 
 :le:astiare
 :de:asti are_vb
 
+:le:astraere
+:de:astra ere_vb
+
+:le:astrarre
+:de:astr arre_vb
+
+:le:astrignere
+:de:astrign ere_vb
+
 :le:astringere
 :de:astring ere_vb
+
+:le:astrologare
+:de:astrolo gare_vb
 
 :le:astrolagare
 :de:astrola gare_vb
@@ -2526,6 +2949,9 @@
 
 :le:attanagliare
 :de:attanagli are_vb
+
+:le:attapinarsi
+:de:attapin arsi_vb
 
 :le:attardare
 :de:attard are_vb
@@ -2547,6 +2973,9 @@
 
 :le:attelare
 :de:attel are_vb
+
+:le:attemparsi
+:de:attemp arsi_vb
 
 :le:attemperare
 :de:attemper are_vb
@@ -2590,6 +3019,9 @@
 :le:attignere
 :de:attign ere_vb
 
+:le:attillarsi
+:de:attill arsi_vb
+
 :le:attingere
 :de:atting ere_vb
 
@@ -2611,6 +3043,9 @@
 :le:attorcere
 :de:attorc ere_vb
 
+:le:attorcigliare
+:de:attorcigli are_vb
+
 :le:attortigliare
 :de:attortigli are_vb
 
@@ -2622,6 +3057,9 @@
 
 :le:attrappare
 :de:attrapp are_vb
+
+:le:attrarre
+:de:attr arre_vb
 
 :le:attraversare
 :de:attravers are_vb
@@ -2635,11 +3073,17 @@
 :le:attribuire
 :de:attribu ire_vb
 
+:le:attristare
+:de:attrist are_vb
+
 :le:attristire
 :de:attrist ire_vb
 
 :le:attritare
 :de:attrit are_vb
+
+:le:attrupparsi
+:de:attrupp arsi_vb
 
 :le:attuare
 :de:attu are_vb
@@ -2662,6 +3106,9 @@
 :le:augnare
 :de:augn are_vb
 
+:le:augurare
+:de:augur are_vb
+
 :le:auguriare
 :de:auguri are_vb
 
@@ -2676,6 +3123,9 @@
 
 :le:auncicare
 :de:aunci care_vb
+
+:le:auncinarsi
+:de:auncin arsi_vb
 
 :le:aurare
 :de:aur are_vb
@@ -2725,6 +3175,9 @@
 :le:avogadare
 :de:avogad are_vb
 
+:le:avvalersi
+:de:avval ersi_vb
+
 :le:avvallare
 :de:avvall are_vb
 
@@ -2740,8 +3193,14 @@
 :le:avvantaggiare
 :de:avvantag giare_vb
 
+:le:avvantarsi
+:de:avvant arsi_vb
+
 :le:avvanzare
 :de:avvanz are_vb
+
+:le:avvedersi
+:de:avved ersi_vb
 
 :le:avvelenare
 :de:avvelen are_vb
@@ -2794,11 +3253,17 @@
 :le:avvignare
 :de:avvign are_vb
 
+:le:avvilire
+:de:avvil ire_vb
+
 :le:avvilare
 :de:avvil are_vb
 
 :le:avvinare
 :de:avvin are_vb
+
+:le:avvinazzarsi
+:de:avvinazz arsi_vb
 
 :le:avvincere
 :de:avvinc ere_vb
@@ -2821,8 +3286,14 @@
 :le:avvivare
 :de:avviv are_vb
 
+:le:avvizzare
+:de:avvizz are_vb
+
 :le:avvizzire
 :de:avvizz ire_vb
+
+:le:avvocare
+:de:avvo care_vb
 
 :le:avvogadare
 :de:avvogad are_vb
@@ -2857,6 +3328,9 @@
 :le:azzimare
 :de:azzim are_vb
 
+:le:azzittarsi
+:de:azzitt arsi_vb
+
 :le:azzonzare
 :de:azzonz are_vb
 
@@ -2883,6 +3357,9 @@
 
 :le:baciare
 :de:ba ciare_vb
+
+:le:baciuccare
+:de:baciuc care_vb
 
 :le:baciucchiare
 :de:baciucchi are_vb
@@ -2920,6 +3397,9 @@
 :le:bajare
 :de:baj are_vb
 
+:le:balbutire
+:de:balbut ire_vb
+
 :le:balbuzzare
 :de:balbuzz are_vb
 
@@ -2937,6 +3417,9 @@
 
 :le:ballare
 :de:ball are_vb
+
+:le:ballonzare
+:de:ballonz are_vb
 
 :le:ballonzolare
 :de:ballonzol are_vb
@@ -3103,14 +3586,23 @@
 :le:bendare
 :de:bend are_vb
 
+:le:benedire
+:de:bened ire_vb
+
 :le:benedicere
 :de:benedic ere_vb
+
+:le:beneficare
+:de:benefi care_vb
 
 :le:beneficiare
 :de:benefi ciare_vb
 
 :le:benevivere
 :de:beneviv ere_vb
+
+:le:bere
+:de:b ere_vb
 
 :le:bevere
 :de:bev ere_vb
@@ -3151,6 +3643,9 @@
 :le:bianchire
 :de:bianch ire_vb
 
+:le:biasciare
+:de:bias ciare_vb
+
 :le:biascicare
 :de:biasci care_vb
 
@@ -3190,6 +3685,9 @@
 :le:bisbigliare
 :de:bisbigli are_vb
 
+:le:biscantare
+:de:biscant are_vb
+
 :le:biscanterellare
 :de:biscanterell are_vb
 
@@ -3213,6 +3711,9 @@
 
 :le:bistentare
 :de:bistent are_vb
+
+:le:bisticciare
+:de:bistic ciare_vb
 
 :le:bisticcare
 :de:bistic care_vb
@@ -3270,6 +3771,9 @@
 
 :le:bombardare
 :de:bombard are_vb
+
+:le:bombare
+:de:bomb are_vb
 
 :le:bombettare
 :de:bombett are_vb
@@ -3355,6 +3859,9 @@
 :le:breviare
 :de:brevi are_vb
 
+:le:brezzare
+:de:brezz are_vb
+
 :le:brezzeggiare
 :de:brezzeg giare_vb
 
@@ -3388,6 +3895,9 @@
 :le:brontolare
 :de:brontol are_vb
 
+:le:brucare
+:de:bru care_vb
+
 :le:bruciolare
 :de:bruciol are_vb
 
@@ -3418,6 +3928,9 @@
 :le:bucare
 :de:bu care_vb
 
+:le:bucciare
+:de:buc ciare_vb
+
 :le:buccicare
 :de:bucci care_vb
 
@@ -3441,6 +3954,9 @@
 
 :le:buffettare
 :de:buffett are_vb
+
+:le:buffonare
+:de:buffon are_vb
 
 :le:buffoneggiare
 :de:buffoneg giare_vb
@@ -3468,6 +3984,9 @@
 
 :le:busbaccare
 :de:busbac care_vb
+
+:le:buscare
+:de:bus care_vb
 
 :le:buscacchiare
 :de:buscacchi are_vb
@@ -3502,6 +4021,9 @@
 :le:cadere
 :de:cad ere_vb
 
+:le:caendo
+:de:caendo irreg_vb
+
 :le:caffaggiare
 :de:caffag giare_vb
 
@@ -3522,6 +4044,9 @@
 
 :le:cagneggiare
 :de:cagneg giare_vb
+
+:le:calafattare
+:de:calafatt are_vb
 
 :le:calefatare
 :de:calefat are_vb
@@ -3573,6 +4098,9 @@
 
 :le:calmeggiare
 :de:calmeg giare_vb
+
+:le:calpestare
+:de:calpest are_vb
 
 :le:calpitare
 :de:calpit are_vb
@@ -3649,6 +4177,9 @@
 :le:cantazzare
 :de:cantazz are_vb
 
+:le:canticchiare
+:de:canticchi are_vb
+
 :le:cantillare
 :de:cantill are_vb
 
@@ -3676,8 +4207,14 @@
 :le:caparrare
 :de:caparr are_vb
 
+:le:capire
+:de:cap ire_vb
+
 :le:capere
 :de:cap ere_vb
+
+:le:capitanare
+:de:capitan are_vb
 
 :le:capitaneare
 :de:capitane are_vb
@@ -3696,6 +4233,9 @@
 
 :le:capolevare
 :de:capolev are_vb
+
+:le:capovolgere
+:de:capovolg ere_vb
 
 :le:capovoltare
 :de:capovolt are_vb
@@ -3750,6 +4290,9 @@
 
 :le:carcerare
 :de:carcer are_vb
+
+:le:cardare
+:de:card are_vb
 
 :le:cardeggiare
 :de:cardeg giare_vb
@@ -3964,6 +4507,9 @@
 :le:cernecchiare
 :de:cernecchi are_vb
 
+:le:cernere
+:de:cern ere_vb
+
 :le:cernire
 :de:cern ire_vb
 
@@ -3991,8 +4537,14 @@
 :le:cestire
 :de:cest ire_vb
 
+:le:ceterare
+:de:ceter are_vb
+
 :le:cetrare
 :de:cetr are_vb
+
+:le:cetereggiare
+:de:cetereg giare_vb
 
 :le:ceterizzare
 :de:ceterizz are_vb
@@ -4032,6 +4584,9 @@
 
 :le:chiaroscurare
 :de:chiaroscur are_vb
+
+:le:chiavare
+:de:chiav are_vb
 
 :le:chiavardare
 :de:chiavard are_vb
@@ -4099,6 +4654,9 @@
 :le:ciamberlare
 :de:ciamberl are_vb
 
+:le:ciampare
+:de:ciamp are_vb
+
 :le:ciampicare
 :de:ciampi care_vb
 
@@ -4141,6 +4699,9 @@
 :le:cicisbeare
 :de:cicisbe are_vb
 
+:le:cicurare
+:de:cicur are_vb
+
 :le:cicurire
 :de:cicur ire_vb
 
@@ -4171,6 +4732,9 @@
 :le:cimentare
 :de:ciment are_vb
 
+:le:cincischiare
+:de:cincischi are_vb
+
 :le:cincistiare
 :de:cincisti are_vb
 
@@ -4179,6 +4743,9 @@
 
 :le:cinghiare
 :de:cinghi are_vb
+
+:le:cinguettare
+:de:cinguett are_vb
 
 :le:cingottare
 :de:cingott are_vb
@@ -4204,6 +4771,9 @@
 :le:circolare
 :de:circol are_vb
 
+:le:circoncidere
+:de:circoncid ere_vb
+
 :le:circuncidere
 :de:circuncid ere_vb
 
@@ -4212,6 +4782,9 @@
 
 :le:circondare
 :de:circond are_vb
+
+:le:circondurre
+:de:circond urre_vb
 
 :le:circonducere
 :de:circonduc ere_vb
@@ -4279,6 +4852,9 @@
 :le:civanzare
 :de:civanz are_vb
 
+:le:civettare
+:de:civett are_vb
+
 :le:civettinare
 :de:civettin are_vb
 
@@ -4330,6 +4906,9 @@
 :le:coagulare
 :de:coagul are_vb
 
+:le:coagulativo
+:de:coagulativo irreg_vb
+
 :le:coalizzare
 :de:coalizz are_vb
 
@@ -4347,6 +4926,9 @@
 
 :le:codeare
 :de:code are_vb
+
+:le:codiare
+:de:codi are_vb
 
 :le:codicare
 :de:codi care_vb
@@ -4398,6 +4980,9 @@
 
 :le:colere
 :de:col ere_vb
+
+:le:colicare
+:de:coli care_vb
 
 :le:collicare
 :de:colli care_vb
@@ -4483,6 +5068,9 @@
 :le:comare
 :de:com are_vb
 
+:le:combaciare
+:de:comba ciare_vb
+
 :le:combagiare
 :de:comba giare_vb
 
@@ -4506,6 +5094,9 @@
 
 :le:cominciare
 :de:comin ciare_vb
+
+:le:comissare
+:de:comiss are_vb
 
 :le:comizzare
 :de:comizz are_vb
@@ -4552,6 +5143,9 @@
 :le:communire
 :de:commun ire_vb
 
+:le:commuovere
+:de:commuov ere_vb
+
 :le:commovere
 :de:commov ere_vb
 
@@ -4570,8 +5164,14 @@
 :le:comparare
 :de:compar are_vb
 
+:le:comparire
+:de:compar ire_vb
+
 :le:comparere
 :de:compar ere_vb
+
+:le:compartecipare
+:de:compartecip are_vb
 
 :le:comparticipare
 :de:comparticip are_vb
@@ -4605,6 +5205,9 @@
 
 :le:compiacere
 :de:compiac ere_vb
+
+:le:compiagnere
+:de:compiagn ere_vb
 
 :le:compiangere
 :de:compiang ere_vb
@@ -4651,6 +5254,9 @@
 :le:componicchiare
 :de:componicchi are_vb
 
+:le:comporre
+:de:comp orre_vb
+
 :le:comportare
 :de:comport are_vb
 
@@ -4672,6 +5278,9 @@
 :le:comprovare
 :de:comprov are_vb
 
+:le:compugnere
+:de:compugn ere_vb
+
 :le:compungere
 :de:compung ere_vb
 
@@ -4680,6 +5289,9 @@
 
 :le:computare
 :de:comput are_vb
+
+:le:computrescere
+:de:computresc ere_vb
 
 :le:computrire
 :de:computr ire_vb
@@ -4699,6 +5311,9 @@
 :le:concentrare
 :de:concentr are_vb
 
+:le:concepere
+:de:concep ere_vb
+
 :le:concepire
 :de:concep ire_vb
 
@@ -4707,6 +5322,9 @@
 
 :le:concertare
 :de:concert are_vb
+
+:le:concettare
+:de:concett are_vb
 
 :le:concettizzare
 :de:concettizz are_vb
@@ -4737,6 +5355,9 @@
 
 :le:concocere
 :de:concoc ere_vb
+
+:le:concordare
+:de:concord are_vb
 
 :le:concordiare
 :de:concordi are_vb
@@ -4770,6 +5391,9 @@
 
 :le:concussare
 :de:concuss are_vb
+
+:le:condannare
+:de:condann are_vb
 
 :le:condennare
 :de:condenn are_vb
@@ -4809,6 +5433,9 @@
 
 :le:conducere
 :de:conduc ere_vb
+
+:le:condurre
+:de:cond urre_vb
 
 :le:confabulare
 :de:confabul are_vb
@@ -4912,6 +5539,9 @@
 :le:congiugare
 :de:congiu gare_vb
 
+:le:congiungere
+:de:congiung ere_vb
+
 :le:congiugnere
 :de:congiugn ere_vb
 
@@ -4975,6 +5605,9 @@
 :le:conregnare
 :de:conregn are_vb
 
+:le:consagrare
+:de:consagr are_vb
+
 :le:consecrare
 :de:consecr are_vb
 
@@ -5031,6 +5664,9 @@
 
 :le:consonare
 :de:conson are_vb
+
+:le:conspargere
+:de:consparg ere_vb
 
 :le:conspergere
 :de:consperg ere_vb
@@ -5110,6 +5746,9 @@
 :le:contorcere
 :de:contorc ere_vb
 
+:le:contornare
+:de:contorn are_vb
+
 :le:contorniare
 :de:contorni are_vb
 
@@ -5164,6 +5803,9 @@
 :le:contrapponere
 :de:contrappon ere_vb
 
+:le:contrapporre
+:de:contrapp orre_vb
+
 :le:contrappunteggiare
 :de:contrappunteg giare_vb
 
@@ -5172,6 +5814,9 @@
 
 :le:contrariare
 :de:contrari are_vb
+
+:le:contrarre
+:de:contr arre_vb
 
 :le:contrarrispondere
 :de:contrarrispond ere_vb
@@ -5208,6 +5853,9 @@
 
 :le:contravvenire
 :de:contravven ire_vb
+
+:le:contremire
+:de:contrem ire_vb
 
 :le:contremiscere
 :de:contremisc ere_vb
@@ -5266,6 +5914,9 @@
 :le:conversare
 :de:convers are_vb
 
+:le:convertire
+:de:convert ire_vb
+
 :le:convertere
 :de:convert ere_vb
 
@@ -5299,8 +5950,14 @@
 :le:conzare
 :de:conz are_vb
 
+:le:coobbligarsi
+:de:coobbli garsi_vb
+
 :le:coonestare
 :de:coonest are_vb
+
+:le:cooperare
+:de:cooper are_vb
 
 :le:cooprare
 :de:coopr are_vb
@@ -5371,6 +6028,9 @@
 :le:coronare
 :de:coron are_vb
 
+:le:corre
+:de:c orre_vb
+
 :le:corredare
 :de:corred are_vb
 
@@ -5425,6 +6085,9 @@
 :le:coscendere
 :de:coscend ere_vb
 
+:le:cospargere
+:de:cosparg ere_vb
+
 :le:cospergere
 :de:cosperg ere_vb
 
@@ -5455,6 +6118,9 @@
 :le:costituire
 :de:costitu ire_vb
 
+:le:costrignere
+:de:costrign ere_vb
+
 :le:costringere
 :de:costring ere_vb
 
@@ -5473,11 +6139,17 @@
 :le:covidare
 :de:covid are_vb
 
+:le:covigliarsi
+:de:covigli arsi_vb
+
 :le:covonare
 :de:covon are_vb
 
 :le:cozzare
 :de:cozz are_vb
+
+:le:crapolare
+:de:crapol are_vb
 
 :le:crapulare
 :de:crapul are_vb
@@ -5553,6 +6225,9 @@
 
 :le:crocidare
 :de:crocid are_vb
+
+:le:crocifiggere
+:de:crocifigg ere_vb
 
 :le:crocificare
 :de:crocifi care_vb
@@ -5631,6 +6306,9 @@
 
 :le:curare
 :de:cur are_vb
+
+:le:curicciare
+:de:curic ciare_vb
 
 :le:curricciare
 :de:curric ciare_vb
@@ -5785,6 +6463,9 @@
 :le:dedicare
 :de:dedi care_vb
 
+:le:dedurre
+:de:ded urre_vb
+
 :le:deducere
 :de:deduc ere_vb
 
@@ -5874,6 +6555,9 @@
 
 :le:delirare
 :de:delir are_vb
+
+:le:delivrare
+:de:delivr are_vb
 
 :le:deliverare
 :de:deliver are_vb
@@ -5967,6 +6651,9 @@
 
 :le:deplorare
 :de:deplor are_vb
+
+:le:deporre
+:de:dep orre_vb
 
 :le:deportare
 :de:deport are_vb
@@ -6097,6 +6784,12 @@
 :le:detestare
 :de:detest are_vb
 
+:le:detraggere
+:de:detragg ere_vb
+
+:le:detrarre
+:de:detr arre_vb
+
 :le:detrattare
 :de:detratt are_vb
 
@@ -6142,11 +6835,17 @@
 :le:diacere
 :de:diac ere_vb
 
+:le:dialogizzare
+:de:dialogizz are_vb
+
 :le:dialoghizzare
 :de:dialoghizz are_vb
 
 :le:diavoleggiare
 :de:diavoleg giare_vb
+
+:le:dibarbare
+:de:dibarb are_vb
 
 :le:dibarbicare
 :de:dibarbi care_vb
@@ -6165,6 +6864,9 @@
 
 :le:dibrancare
 :de:dibran care_vb
+
+:le:dibrucare
+:de:dibru care_vb
 
 :le:dibruscare
 :de:dibrus care_vb
@@ -6187,6 +6889,9 @@
 :le:dicere
 :de:dic ere_vb
 
+:le:dicernere
+:de:dicern ere_vb
+
 :le:dicernire
 :de:dicern ire_vb
 
@@ -6204,6 +6909,9 @@
 
 :le:dichinare
 :de:dichin are_vb
+
+:le:diciferare
+:de:dicifer are_vb
 
 :le:dicifrare
 :de:dicifr are_vb
@@ -6250,6 +6958,9 @@
 :le:diffalcare
 :de:diffal care_vb
 
+:le:diffaltare
+:de:diffalt are_vb
+
 :le:diffalare
 :de:diffal are_vb
 
@@ -6265,11 +6976,17 @@
 :le:differmare
 :de:differm are_vb
 
+:le:difficoltare
+:de:difficolt are_vb
+
 :le:difficultare
 :de:difficult are_vb
 
 :le:diffidare
 :de:diffid are_vb
+
+:le:diffignere
+:de:diffign ere_vb
 
 :le:diffingere
 :de:diffing ere_vb
@@ -6451,6 +7168,9 @@
 :le:diluviare
 :de:diluvi are_vb
 
+:le:dimagherare
+:de:dimagher are_vb
+
 :le:dimagrire
 :de:dimagr ire_vb
 
@@ -6510,6 +7230,9 @@
 
 :le:dimostrare
 :de:dimostr are_vb
+
+:le:dimozzare
+:de:dimozz are_vb
 
 :le:dimozzicare
 :de:dimozzi care_vb
@@ -6583,6 +7306,9 @@
 :le:dipennare
 :de:dipenn are_vb
 
+:le:dipignere
+:de:dipign ere_vb
+
 :le:dipingere
 :de:diping ere_vb
 
@@ -6622,6 +7348,9 @@
 :le:diragnare
 :de:diragn are_vb
 
+:le:diramare
+:de:diram are_vb
+
 :le:diramorare
 :de:diramor are_vb
 
@@ -6630,6 +7359,9 @@
 
 :le:dire
 :de:d ire_vb
+
+:le:direditare
+:de:diredit are_vb
 
 :le:diretare
 :de:diret are_vb
@@ -6682,8 +7414,14 @@
 :le:dirubare
 :de:dirub are_vb
 
+:le:dirugginare
+:de:diruggin are_vb
+
 :le:dirugginire
 :de:diruggin ire_vb
+
+:le:dirupare
+:de:dirup are_vb
 
 :le:dirupinare
 :de:dirupin are_vb
@@ -6714,6 +7452,9 @@
 
 :le:disaccreditare
 :de:disaccredit are_vb
+
+:le:disacerbare
+:de:disacerb are_vb
 
 :le:disacervare
 :de:disacerv are_vb
@@ -6841,11 +7582,17 @@
 :le:disautorare
 :de:disautor are_vb
 
+:le:disavanzare
+:de:disavanz are_vb
+
 :le:disavvanzare
 :de:disavvanz are_vb
 
 :le:disavorrare
 :de:disavorr are_vb
+
+:le:disavorratore
+:de:disavorratore irreg_vb
 
 :le:disavvantaggiare
 :de:disavvantag giare_vb
@@ -6919,6 +7666,9 @@
 :le:discacciare
 :de:discac ciare_vb
 
+:le:discadere
+:de:discad ere_vb
+
 :le:discaggere
 :de:discagg ere_vb
 
@@ -6946,6 +7696,9 @@
 :le:discarcerare
 :de:discarcer are_vb
 
+:le:discaricare
+:de:discari care_vb
+
 :le:discarcare
 :de:discar care_vb
 
@@ -6972,6 +7725,9 @@
 
 :le:discerpere
 :de:discerp ere_vb
+
+:le:discerre
+:de:discerre irreg_vb
 
 :le:discervellare
 :de:discervell are_vb
@@ -7027,6 +7783,9 @@
 :le:disciogliere
 :de:disciogli ere_vb
 
+:le:disciorre
+:de:disci orre_vb
+
 :le:discipare
 :de:discip are_vb
 
@@ -7035,6 +7794,9 @@
 
 :le:discoccare
 :de:discoc care_vb
+
+:le:discolorare
+:de:discolor are_vb
 
 :le:discolorire
 :de:discolor ire_vb
@@ -7056,6 +7818,9 @@
 
 :le:discompensare
 :de:discompens are_vb
+
+:le:discomporre
+:de:discomp orre_vb
 
 :le:disconcertare
 :de:disconcert are_vb
@@ -7210,6 +7975,9 @@
 :le:disebbriare
 :de:disebbri are_vb
 
+:le:diseccare
+:de:disec care_vb
+
 :le:disseccare
 :de:dissec care_vb
 
@@ -7225,6 +7993,9 @@
 :le:disenfiare
 :de:disenfi are_vb
 
+:le:disennare
+:de:disenn are_vb
+
 :le:dissennare
 :de:dissenn are_vb
 
@@ -7237,8 +8008,14 @@
 :le:diserbare
 :de:diserb are_vb
 
+:le:diseredare
+:de:disered are_vb
+
 :le:disereditare
 :de:diseredit are_vb
+
+:le:diserrare
+:de:diserr are_vb
 
 :le:disserrare
 :de:disserr are_vb
@@ -7342,6 +8119,9 @@
 :le:disgittare
 :de:disgitt are_vb
 
+:le:disgiugnere
+:de:disgiugn ere_vb
+
 :le:disgiungere
 :de:disgiung ere_vb
 
@@ -7350,6 +8130,9 @@
 
 :le:disgolettare
 :de:disgolett are_vb
+
+:le:disgomberare
+:de:disgomber are_vb
 
 :le:disgombrare
 :de:disgombr are_vb
@@ -7504,6 +8287,9 @@
 :le:dislocare
 :de:dislo care_vb
 
+:le:dislogare
+:de:dislo gare_vb
+
 :le:disluogare
 :de:disluo gare_vb
 
@@ -7518,6 +8304,9 @@
 
 :le:dismalare
 :de:dismal are_vb
+
+:le:dismantarsi
+:de:dismant arsi_vb
 
 :le:dismantellare
 :de:dismantell are_vb
@@ -7561,6 +8350,9 @@
 :le:disnudare
 :de:disnud are_vb
 
+:le:disobbligare
+:de:disobbli gare_vb
+
 :le:disobricare
 :de:disobri care_vb
 
@@ -7572,6 +8364,9 @@
 
 :le:disonestare
 :de:disonest are_vb
+
+:le:disonnarsi
+:de:disonn arsi_vb
 
 :le:disonorare
 :de:disonor are_vb
@@ -7717,11 +8512,17 @@
 :le:disponere
 :de:dispon ere_vb
 
+:le:disponsare
+:de:dispons are_vb
+
 :le:disposare
 :de:dispos are_vb
 
 :le:dispopolare
 :de:dispopol are_vb
+
+:le:disporre
+:de:disp orre_vb
 
 :le:disposare
 :de:dispos are_vb
@@ -7792,6 +8593,9 @@
 :le:dissaldare
 :de:dissald are_vb
 
+:le:dissanguare
+:de:dissangu are_vb
+
 :le:dissanguinare
 :de:dissanguin are_vb
 
@@ -7848,6 +8652,9 @@
 
 :le:dissonare
 :de:disson are_vb
+
+:le:dissonnarsi
+:de:dissonn arsi_vb
 
 :le:dissotterrare
 :de:dissotterr are_vb
@@ -7924,8 +8731,14 @@
 :le:distornare
 :de:distorn are_vb
 
+:le:distorre
+:de:dist orre_vb
+
 :le:distracciare
 :de:distrac ciare_vb
+
+:le:distraere
+:de:distra ere_vb
 
 :le:distraggere
 :de:distragg ere_vb
@@ -7933,14 +8746,23 @@
 :le:distralciare
 :de:distral ciare_vb
 
+:le:distrarre
+:de:distr arre_vb
+
 :le:distrattare
 :de:distratt are_vb
 
 :le:distribuire
 :de:distribu ire_vb
 
+:le:distrigare
+:de:distri gare_vb
+
 :le:districare
 :de:distri care_vb
+
+:le:distrignere
+:de:distrign ere_vb
 
 :le:distringere
 :de:distring ere_vb
@@ -7974,6 +8796,9 @@
 
 :le:disumanare
 :de:disuman are_vb
+
+:le:disunarsi
+:de:disun arsi_vb
 
 :le:disunire
 :de:disun ire_vb
@@ -8020,6 +8845,9 @@
 :le:disviscerare
 :de:disviscer are_vb
 
+:le:disvischiarsi
+:de:disvischi arsi_vb
+
 :le:disviticchiare
 :de:disviticchi are_vb
 
@@ -8049,6 +8877,9 @@
 
 :le:ditrappare
 :de:ditrapp are_vb
+
+:le:ditrarre
+:de:ditr arre_vb
 
 :le:ditrinciare
 :de:ditrin ciare_vb
@@ -8089,6 +8920,9 @@
 :le:divedere
 :de:dived ere_vb
 
+:le:divegliere
+:de:divegli ere_vb
+
 :le:divellere
 :de:divell ere_vb
 
@@ -8106,6 +8940,9 @@
 
 :le:divergere
 :de:diverg ere_vb
+
+:le:diverre
+:de:diverre irreg_vb
 
 :le:diversare
 :de:divers are_vb
@@ -8160,6 +8997,9 @@
 
 :le:divorare
 :de:divor are_vb
+
+:le:dobblare
+:de:dobbl are_vb
 
 :le:doblare
 :de:dobl are_vb
@@ -8245,6 +9085,9 @@
 :le:dormentare
 :de:dorment are_vb
 
+:le:dormigliare
+:de:dormigli are_vb
+
 :le:dormitare
 :de:dormit are_vb
 
@@ -8278,6 +9121,9 @@
 :le:dragare
 :de:dra gare_vb
 
+:le:drappare
+:de:drapp are_vb
+
 :le:drapeggiare
 :de:drapeg giare_vb
 
@@ -8289,6 +9135,9 @@
 
 :le:drizzare
 :de:drizz are_vb
+
+:le:dubbiare
+:de:dubbi are_vb
 
 :le:dubiare
 :de:dubi are_vb
@@ -8386,6 +9235,9 @@
 :le:eguagliare
 :de:eguagli are_vb
 
+:le:egualare
+:de:egual are_vb
+
 :le:egualire
 :de:egual ire_vb
 
@@ -8455,6 +9307,9 @@
 :le:empire
 :de:emp ire_vb
 
+:le:emugnere
+:de:emugn ere_vb
+
 :le:emungere
 :de:emung ere_vb
 
@@ -8472,6 +9327,9 @@
 
 :le:enfiare
 :de:enfi are_vb
+
+:le:enimmatizzare
+:de:enimmatizz are_vb
 
 :le:enimmatichizzare
 :de:enimmatichizz are_vb
@@ -8497,6 +9355,9 @@
 :le:epilogare
 :de:epilo gare_vb
 
+:le:episodiare
+:de:episodi are_vb
+
 :le:episodeggiare
 :de:episodeg giare_vb
 
@@ -8517,6 +9378,9 @@
 
 :le:equipaggiare
 :de:equipag giare_vb
+
+:le:equiparare
+:de:equipar are_vb
 
 :le:equiperare
 :de:equiper are_vb
@@ -8542,8 +9406,14 @@
 :le:erbire
 :de:erb ire_vb
 
+:le:erborare
+:de:erbor are_vb
+
 :le:erbolare
 :de:erbol are_vb
+
+:le:ereditare
+:de:eredit are_vb
 
 :le:eredare
 :de:ered are_vb
@@ -8632,6 +9502,9 @@
 :le:esecrare
 :de:esecr are_vb
 
+:le:esecutare
+:de:esecut are_vb
+
 :le:esecutoriare
 :de:esecutori are_vb
 
@@ -8661,6 +9534,9 @@
 
 :le:esercitare
 :de:esercit are_vb
+
+:le:esereditare
+:de:eseredit are_vb
 
 :le:eseredare
 :de:esered are_vb
@@ -8767,6 +9643,12 @@
 :le:esplorare
 :de:esplor are_vb
 
+:le:esponere
+:de:espon ere_vb
+
+:le:esporre
+:de:esp orre_vb
+
 :le:esportare
 :de:esport are_vb
 
@@ -8827,11 +9709,23 @@
 :le:estirpare
 :de:estirp are_vb
 
+:le:estollere
+:de:estoll ere_vb
+
 :le:estogliere
 :de:estogli ere_vb
 
+:le:estorcere
+:de:estorc ere_vb
+
 :le:estorquere
 :de:estorqu ere_vb
+
+:le:estorre
+:de:est orre_vb
+
+:le:estrarre
+:de:estr arre_vb
 
 :le:estravasare
 :de:estravas are_vb
@@ -9034,6 +9928,9 @@
 :le:favorire
 :de:favor ire_vb
 
+:le:febbricitare
+:de:febbricit are_vb
+
 :le:febbricare
 :de:febbri care_vb
 
@@ -9136,17 +10033,26 @@
 :le:fidare
 :de:fid are_vb
 
+:le:fidecommettere
+:de:fidecommett ere_vb
+
 :le:fidecommittere
 :de:fidecommitt ere_vb
 
 :le:fiduciare
 :de:fidu ciare_vb
 
+:le:fiedere
+:de:fied ere_vb
+
 :le:fieggere
 :de:fiegg ere_vb
 
 :le:fierere
 :de:fier ere_vb
+
+:le:figgere
+:de:figg ere_vb
 
 :le:figere
 :de:fig ere_vb
@@ -9168,6 +10074,9 @@
 
 :le:filettare
 :de:filett are_vb
+
+:le:filosofare
+:de:filosof are_vb
 
 :le:filosofeggiare
 :de:filosofeg giare_vb
@@ -9310,6 +10219,9 @@
 :le:fondere
 :de:fond ere_vb
 
+:le:fora
+:de:fora irreg_vb
+
 :le:foracchiare
 :de:foracchi are_vb
 
@@ -9388,8 +10300,14 @@
 :le:fragnere
 :de:fragn ere_vb
 
+:le:framescolare
+:de:framescol are_vb
+
 :le:frammescolare
 :de:frammescol are_vb
+
+:le:framezzare
+:de:framezz are_vb
 
 :le:frammezzare
 :de:frammezz are_vb
@@ -9415,6 +10333,9 @@
 :le:frangere
 :de:frang ere_vb
 
+:le:frangiare
+:de:fran giare_vb
+
 :le:frangionare
 :de:frangion are_vb
 
@@ -9426,6 +10347,9 @@
 
 :le:frappeggiare
 :de:frappeg giare_vb
+
+:le:frapporre
+:de:frapp orre_vb
 
 :le:frascheggiare
 :de:frascheg giare_vb
@@ -9459,6 +10383,9 @@
 
 :le:fregiare
 :de:fre giare_vb
+
+:le:fremere
+:de:frem ere_vb
 
 :le:fremire
 :de:frem ire_vb
@@ -9496,6 +10423,12 @@
 :le:frollare
 :de:froll are_vb
 
+:le:frondarsi
+:de:frond arsi_vb
+
+:le:frondeggiare
+:de:frondeg giare_vb
+
 :le:frondire
 :de:frond ire_vb
 
@@ -9511,8 +10444,14 @@
 :le:frugacchiare
 :de:frugacchi are_vb
 
+:le:frugare
+:de:fru gare_vb
+
 :le:frucare
 :de:fru care_vb
+
+:le:frugnuolare
+:de:frugnuol are_vb
 
 :le:frugnolare
 :de:frugnol are_vb
@@ -9544,6 +10483,9 @@
 :le:frustrare
 :de:frustr are_vb
 
+:le:fruttificare
+:de:fruttifi care_vb
+
 :le:fruttuare
 :de:fruttu are_vb
 
@@ -9567,6 +10509,9 @@
 
 :le:fulgere
 :de:fulg ere_vb
+
+:le:fulgorare
+:de:fulgor are_vb
 
 :le:fulgurare
 :de:fulgur are_vb
@@ -9622,6 +10567,9 @@
 :le:gagnolare
 :de:gagnol are_vb
 
+:le:galanteggiare
+:de:galanteg giare_vb
+
 :le:galantiare
 :de:galanti are_vb
 
@@ -9670,8 +10618,14 @@
 :le:garagollare
 :de:garagoll are_vb
 
+:le:garantire
+:de:garant ire_vb
+
 :le:garentire
 :de:garent ire_vb
+
+:le:garbare
+:de:garb are_vb
 
 :le:garbeggiare
 :de:garbeg giare_vb
@@ -9718,6 +10672,9 @@
 :le:gatteggiare
 :de:gatteg giare_vb
 
+:le:gaudiare
+:de:gaudi are_vb
+
 :le:gaudire
 :de:gaud ire_vb
 
@@ -9750,6 +10707,9 @@
 
 :le:generare
 :de:gener are_vb
+
+:le:genire
+:de:gen ire_vb
 
 :le:genitare
 :de:genit are_vb
@@ -9889,6 +10849,9 @@
 :le:girare
 :de:gir are_vb
 
+:le:giravoltare
+:de:giravolt are_vb
+
 :le:giravoltolare
 :de:giravoltol are_vb
 
@@ -9897,6 +10860,9 @@
 
 :le:gironzare
 :de:gironz are_vb
+
+:le:girsi
+:de:g irsi_vb
 
 :le:gittare
 :de:gitt are_vb
@@ -10066,6 +11032,9 @@
 :le:gratificare
 :de:gratifi care_vb
 
+:le:grattabugiare
+:de:grattabu giare_vb
+
 :le:grattapugiare
 :de:grattapu giare_vb
 
@@ -10095,6 +11064,9 @@
 
 :le:grecheggiare
 :de:grecheg giare_vb
+
+:le:grechizzare
+:de:grechizz are_vb
 
 :le:grecizzare
 :de:grecizz are_vb
@@ -10138,6 +11110,9 @@
 :le:grufolare
 :de:grufol are_vb
 
+:le:grugnare
+:de:grugn are_vb
+
 :le:grugnire
 :de:grugn ire_vb
 
@@ -10155,6 +11130,9 @@
 
 :le:guaire
 :de:gua ire_vb
+
+:le:guajolare
+:de:guajol are_vb
 
 :le:guajolire
 :de:guajol ire_vb
@@ -10300,6 +11278,9 @@
 :le:imbagnare
 :de:imbagn are_vb
 
+:le:imbaldanzire
+:de:imbaldanz ire_vb
+
 :le:imbaldire
 :de:imbald ire_vb
 
@@ -10308,6 +11289,9 @@
 
 :le:imbalordire
 :de:imbalord ire_vb
+
+:le:imbalsamare
+:de:imbalsam are_vb
 
 :le:imbalsimare
 :de:imbalsim are_vb
@@ -10384,6 +11368,12 @@
 :le:imbecherare
 :de:imbecher are_vb
 
+:le:imbellettarsi
+:de:imbellett arsi_vb
+
+:le:imbellettirsi
+:de:imbellett irsi_vb
+
 :le:imbellire
 :de:imbell ire_vb
 
@@ -10426,6 +11416,9 @@
 :le:imbianchire
 :de:imbianch ire_vb
 
+:le:imbicoccarsi
+:de:imbicoc carsi_vb
+
 :le:imbiecare
 :de:imbie care_vb
 
@@ -10434,6 +11427,12 @@
 
 :le:imbiettare
 :de:imbiett are_vb
+
+:le:imbigiarsi
+:de:imbi giarsi_vb
+
+:le:imbiondare
+:de:imbiond are_vb
 
 :le:imbiondire
 :de:imbiond ire_vb
@@ -10449,6 +11448,9 @@
 
 :le:imbizzarrire
 :de:imbizzarr ire_vb
+
+:le:imbizzirsi
+:de:imbizz irsi_vb
 
 :le:imbizzochire
 :de:imbizzoch ire_vb
@@ -10471,8 +11473,20 @@
 :le:imbonciare
 :de:imbon ciare_vb
 
+:le:imbonire
+:de:imbon ire_vb
+
 :le:imbuonire
 :de:imbuon ire_vb
+
+:le:imborgarsi
+:de:imbor garsi_vb
+
+:le:imboriarsi
+:de:imbori arsi_vb
+
+:le:imborsacchiarsi
+:de:imborsacchi arsi_vb
 
 :le:imborsare
 :de:imbors are_vb
@@ -10525,6 +11539,9 @@
 :le:imbrandire
 :de:imbrand ire_vb
 
+:le:imbrasciarsi
+:de:imbras ciarsi_vb
+
 :le:imbrattare
 :de:imbratt are_vb
 
@@ -10549,8 +11566,14 @@
 :le:imbrigliare
 :de:imbrigli are_vb
 
+:le:imbroccare
+:de:imbroc care_vb
+
 :le:imbrocciare
 :de:imbroc ciare_vb
+
+:le:imbrodare
+:de:imbrod are_vb
 
 :le:imbrodolare
 :de:imbrodol are_vb
@@ -10575,6 +11598,9 @@
 
 :le:imbrumare
 :de:imbrum are_vb
+
+:le:imbrunare
+:de:imbrun are_vb
 
 :le:imbrunire
 :de:imbrun ire_vb
@@ -10636,6 +11662,12 @@
 :le:imitare
 :de:imit are_vb
 
+:le:immacchiarsi
+:de:immacchi arsi_vb
+
+:le:immacolare
+:de:immacol are_vb
+
 :le:immaculare
 :de:immacul are_vb
 
@@ -10650,6 +11682,9 @@
 
 :le:immalinconicare
 :de:immalinconi care_vb
+
+:le:immalinconichire
+:de:immalinconich ire_vb
 
 :le:immalinconire
 :de:immalincon ire_vb
@@ -10687,6 +11722,9 @@
 :le:immedesimare
 :de:immedesim are_vb
 
+:le:immegliarsi
+:de:immegli arsi_vb
+
 :le:immelare
 :de:immel are_vb
 
@@ -10696,8 +11734,14 @@
 :le:immettere
 :de:immett ere_vb
 
+:le:immezzare
+:de:immezz are_vb
+
 :le:immezzire
 :de:immezz ire_vb
+
+:le:immiarsi
+:de:immi arsi_vb
 
 :le:immillare
 :de:immill are_vb
@@ -10714,6 +11758,9 @@
 :le:immitriare
 :de:immitri are_vb
 
+:le:immobilitarsi
+:de:immobilit arsi_vb
+
 :le:immolare
 :de:immol are_vb
 
@@ -10723,11 +11770,17 @@
 :le:immorare
 :de:immor are_vb
 
+:le:immorbidare
+:de:immorbid are_vb
+
 :le:immorbidire
 :de:immorbid ire_vb
 
 :le:immorsare
 :de:immors are_vb
+
+:le:immortalare
+:de:immortal are_vb
 
 :le:immortalizzare
 :de:immortalizz are_vb
@@ -10780,14 +11833,23 @@
 :le:impalizzare
 :de:impalizz are_vb
 
+:le:impallidare
+:de:impallid are_vb
+
 :le:impallidire
 :de:impallid ire_vb
 
 :le:impalmare
 :de:impalm are_vb
 
+:le:impaltenarsi
+:de:impalten arsi_vb
+
 :le:impaludare
 :de:impalud are_vb
+
+:le:impampinarsi
+:de:impampin arsi_vb
 
 :le:impancare
 :de:impan care_vb
@@ -10825,6 +11887,9 @@
 :le:imparare
 :de:impar are_vb
 
+:le:imparnassare
+:de:imparnass are_vb
+
 :le:imparnassire
 :de:imparnass ire_vb
 
@@ -10855,11 +11920,20 @@
 :le:impattare
 :de:impatt are_vb
 
+:le:impaurare
+:de:impaur are_vb
+
 :le:impaurire
 :de:impaur ire_vb
 
+:le:impazientare
+:de:impazient are_vb
+
 :le:impazientire
 :de:impazient ire_vb
+
+:le:impazzare
+:de:impazz are_vb
 
 :le:impazzire
 :de:impazz ire_vb
@@ -10873,11 +11947,17 @@
 :le:impedalare
 :de:impedal are_vb
 
+:le:impedantare
+:de:impedant are_vb
+
 :le:impedantire
 :de:impedant ire_vb
 
 :le:impedicare
 :de:impedi care_vb
+
+:le:impedimentare
+:de:impediment are_vb
 
 :le:impedimentire
 :de:impediment ire_vb
@@ -10908,6 +11988,9 @@
 
 :le:impendere
 :de:impend ere_vb
+
+:le:impennacchiarsi
+:de:impennacchi arsi_vb
 
 :le:impennare
 :de:impenn are_vb
@@ -10960,6 +12043,9 @@
 :le:impetricare
 :de:impetri care_vb
 
+:le:impettare
+:de:impett are_vb
+
 :le:impettire
 :de:impett ire_vb
 
@@ -10981,6 +12067,9 @@
 :le:impianellare
 :de:impianell are_vb
 
+:le:impiantarsi
+:de:impiant arsi_vb
+
 :le:impiastrare
 :de:impiastr are_vb
 
@@ -10999,6 +12088,9 @@
 :le:impiccolire
 :de:impiccol ire_vb
 
+:le:impidocchiare
+:de:impidocchi are_vb
+
 :le:impidocchire
 :de:impidocch ire_vb
 
@@ -11010,6 +12102,9 @@
 
 :le:impietosire
 :de:impietos ire_vb
+
+:le:impietrare
+:de:impietr are_vb
 
 :le:impietrire
 :de:impietr ire_vb
@@ -11035,11 +12130,20 @@
 :le:impiumare
 :de:impium are_vb
 
+:le:impivialarsi
+:de:impivial arsi_vb
+
 :le:implicare
 :de:impli care_vb
 
 :le:implorare
 :de:implor are_vb
+
+:le:impoderarsi
+:de:impoder arsi_vb
+
+:le:impoetarsi
+:de:impoet arsi_vb
 
 :le:impoetichire
 :de:impoetich ire_vb
@@ -11052,6 +12156,9 @@
 
 :le:impollinare
 :de:impollin are_vb
+
+:le:impolparsi
+:de:impolp arsi_vb
 
 :le:impoltronire
 :de:impoltron ire_vb
@@ -11068,14 +12175,23 @@
 :le:impoppare
 :de:impopp are_vb
 
+:le:impopularsi
+:de:impopul arsi_vb
+
 :le:imporcare
 :de:impor care_vb
 
 :le:imporporare
 :de:imporpor are_vb
 
+:le:imporrare
+:de:imporr are_vb
+
 :le:imporrire
 :de:imporr ire_vb
+
+:le:imporre
+:de:imp orre_vb
 
 :le:importare
 :de:import are_vb
@@ -11212,8 +12328,14 @@
 :le:inacciajare
 :de:inacciaj are_vb
 
+:le:inacerbare
+:de:inacerb are_vb
+
 :le:inacerbire
 :de:inacerb ire_vb
+
+:le:inacetare
+:de:inacet are_vb
 
 :le:inacetire
 :de:inacet ire_vb
@@ -11229,6 +12351,9 @@
 
 :le:inaffiare
 :de:inaffi are_vb
+
+:le:inagrare
+:de:inagr are_vb
 
 :le:inagrire
 :de:inagr ire_vb
@@ -11250,6 +12375,9 @@
 
 :le:inalberire
 :de:inalber ire_vb
+
+:le:inalidare
+:de:inalid are_vb
 
 :le:inalidire
 :de:inalid ire_vb
@@ -11277,6 +12405,9 @@
 
 :le:inanellare
 :de:inanell are_vb
+
+:le:inanimare
+:de:inanim are_vb
 
 :le:inanimire
 :de:inanim ire_vb
@@ -11311,6 +12442,9 @@
 :le:inariare
 :de:inari are_vb
 
+:le:inaridare
+:de:inarid are_vb
+
 :le:inaridire
 :de:inarid ire_vb
 
@@ -11335,6 +12469,9 @@
 :le:inaspare
 :de:inasp are_vb
 
+:le:inasprare
+:de:inaspr are_vb
+
 :le:inasprire
 :de:inaspr ire_vb
 
@@ -11346,6 +12483,9 @@
 
 :le:inaurare
 :de:inaur are_vb
+
+:le:inavarare
+:de:inavar are_vb
 
 :le:inaverare
 :de:inaver are_vb
@@ -11362,6 +12502,9 @@
 :le:incaciare
 :de:inca ciare_vb
 
+:le:incadaverare
+:de:incadaver are_vb
+
 :le:incadaverire
 :de:incadaver ire_vb
 
@@ -11373,6 +12516,9 @@
 
 :le:incagliare
 :de:incagli are_vb
+
+:le:incagnare
+:de:incagn are_vb
 
 :le:incagnire
 :de:incagn ire_vb
@@ -11410,6 +12556,9 @@
 :le:incalorire
 :de:incalor ire_vb
 
+:le:incalvare
+:de:incalv are_vb
+
 :le:incalvire
 :de:incalv ire_vb
 
@@ -11425,17 +12574,26 @@
 :le:incamiciare
 :de:incami ciare_vb
 
+:le:incaminare
+:de:incamin are_vb
+
 :le:incamminare
 :de:incammin are_vb
 
 :le:incammuffare
 :de:incammuff are_vb
 
+:le:incanagliarsi
+:de:incanagli arsi_vb
+
 :le:incanalare
 :de:incanal are_vb
 
 :le:incanare
 :de:incan are_vb
+
+:le:incancherare
+:de:incancher are_vb
 
 :le:incancherire
 :de:incancher ire_vb
@@ -11463,6 +12621,12 @@
 
 :le:incantinare
 :de:incantin are_vb
+
+:le:incantonarsi
+:de:incanton arsi_vb
+
+:le:incantucciarsi
+:de:incantuc ciarsi_vb
 
 :le:incanutire
 :de:incanut ire_vb
@@ -11503,6 +12667,9 @@
 :le:incappucciare
 :de:incappuc ciare_vb
 
+:le:incapricciarsi
+:de:incapric ciarsi_vb
+
 :le:incapriccire
 :de:incapricc ire_vb
 
@@ -11529,6 +12696,12 @@
 
 :le:incarnare
 :de:incarn are_vb
+
+:le:incarnirsi
+:de:incarn irsi_vb
+
+:le:incarognare
+:de:incarogn are_vb
 
 :le:incarognire
 :de:incarogn ire_vb
@@ -11572,6 +12745,9 @@
 :le:incastrare
 :de:incastr are_vb
 
+:le:incatarrare
+:de:incatarr are_vb
+
 :le:incatarrire
 :de:incatarr ire_vb
 
@@ -11602,8 +12778,14 @@
 :le:incavare
 :de:incav are_vb
 
+:le:incavernarsi
+:de:incavern arsi_vb
+
 :le:incavezzare
 :de:incavezz are_vb
+
+:le:incavicchiare
+:de:incavicchi are_vb
 
 :le:incavigliare
 :de:incavigli are_vb
@@ -11617,17 +12799,26 @@
 :le:incendiare
 :de:incendi are_vb
 
+:le:incenerare
+:de:incener are_vb
+
 :le:incenerire
 :de:incener ire_vb
 
 :le:incensare
 :de:incens are_vb
 
+:le:incentrarsi
+:de:incentr arsi_vb
+
 :le:inceppare
 :de:incepp are_vb
 
 :le:incerare
 :de:incer are_vb
+
+:le:incerberarsi
+:de:incerber arsi_vb
 
 :le:incerchiare
 :de:incerchi are_vb
@@ -11643,6 +12834,9 @@
 
 :le:incerrare
 :de:incerr are_vb
+
+:le:incespare
+:de:incesp are_vb
 
 :le:incespicare
 :de:incespi care_vb
@@ -11671,6 +12865,9 @@
 :le:inchiavistellare
 :de:inchiavistell are_vb
 
+:le:inchiedere
+:de:inchied ere_vb
+
 :le:inchierere
 :de:inchier ere_vb
 
@@ -11697,6 +12894,9 @@
 
 :le:inciamberlare
 :de:inciamberl are_vb
+
+:le:inciampare
+:de:inciamp are_vb
 
 :le:inciampicare
 :de:inciampi care_vb
@@ -11752,6 +12952,12 @@
 :le:incitrullire
 :de:incitrull ire_vb
 
+:le:incittadarsi
+:de:incittad arsi_vb
+
+:le:incittadinarsi
+:de:incittadin arsi_vb
+
 :le:inciuscherare
 :de:inciuscher are_vb
 
@@ -11788,11 +12994,20 @@
 :le:incollare
 :de:incoll are_vb
 
+:le:incollerarsi
+:de:incoller arsi_vb
+
+:le:incollorirsi
+:de:incollor irsi_vb
+
 :le:incolmare
 :de:incolm are_vb
 
 :le:incolonnare
 :de:incolonn are_vb
+
+:le:incolorarsi
+:de:incolor arsi_vb
 
 :le:incolpare
 :de:incolp are_vb
@@ -11839,8 +13054,14 @@
 :le:incorporare
 :de:incorpor are_vb
 
+:le:incorraggiare
+:de:incorrag giare_vb
+
 :le:incorraggire
 :de:incorragg ire_vb
+
+:le:incorre
+:de:inc orre_vb
 
 :le:incorrentire
 :de:incorrent ire_vb
@@ -11977,6 +13198,9 @@
 :le:indiamantare
 :de:indiamant are_vb
 
+:le:indiarsi
+:de:indi arsi_vb
+
 :le:indiavolare
 :de:indiavol are_vb
 
@@ -12013,6 +13237,9 @@
 :le:indisiare
 :de:indisi are_vb
 
+:le:indisporre
+:de:indisp orre_vb
+
 :le:individuare
 :de:individu are_vb
 
@@ -12028,11 +13255,17 @@
 :le:indogliare
 :de:indogli are_vb
 
+:le:indolciare
+:de:indol ciare_vb
+
 :le:indolcire
 :de:indolc ire_vb
 
 :le:indolcinire
 :de:indolcin ire_vb
+
+:le:indolenzire
+:de:indolenz ire_vb
 
 :le:indolentire
 :de:indolent ire_vb
@@ -12076,6 +13309,9 @@
 :le:indozzare
 :de:indozz are_vb
 
+:le:indracare
+:de:indra care_vb
+
 :le:indragare
 :de:indra gare_vb
 
@@ -12112,8 +13348,14 @@
 :le:indurire
 :de:indur ire_vb
 
+:le:indurre
+:de:ind urre_vb
+
 :le:industriare
 :de:industri are_vb
+
+:le:inebbriare
+:de:inebbri are_vb
 
 :le:inebriare
 :de:inebri are_vb
@@ -12141,6 +13383,9 @@
 
 :le:inetichire
 :de:inetich ire_vb
+
+:le:infaccendarsi
+:de:infaccend arsi_vb
 
 :le:infagottare
 :de:infagott are_vb
@@ -12238,11 +13483,17 @@
 :le:inferocire
 :de:inferoc ire_vb
 
+:le:inferrare
+:de:inferr are_vb
+
 :le:inferriare
 :de:inferri are_vb
 
 :le:inferrucciare
 :de:inferruc ciare_vb
+
+:le:infervorare
+:de:infervor are_vb
 
 :le:infervorire
 :de:infervor ire_vb
@@ -12271,17 +13522,26 @@
 :le:inficere
 :de:infic ere_vb
 
+:le:infiebolire
+:de:infiebol ire_vb
+
 :le:infievolire
 :de:infievol ire_vb
 
 :le:infielare
 :de:infiel are_vb
 
+:le:infierare
+:de:infier are_vb
+
 :le:infierire
 :de:infier ire_vb
 
 :le:infiggere
 :de:infigg ere_vb
+
+:le:infignere
+:de:infign ere_vb
 
 :le:infingere
 :de:infing ere_vb
@@ -12310,6 +13570,9 @@
 :le:infioccare
 :de:infioc care_vb
 
+:le:infiorare
+:de:infior are_vb
+
 :le:infiorire
 :de:infior ire_vb
 
@@ -12334,20 +13597,35 @@
 :le:infliggere
 :de:infligg ere_vb
 
+:le:influere
+:de:influ ere_vb
+
 :le:influire
 :de:influ ire_vb
 
 :le:infocare
 :de:info care_vb
 
+:le:infoderare
+:de:infoder are_vb
+
 :le:infodrare
 :de:infodr are_vb
+
+:le:infogliarsi
+:de:infogli arsi_vb
+
+:le:infognarsi
+:de:infogn arsi_vb
 
 :le:infolgorare
 :de:infolgor are_vb
 
 :le:infollire
 :de:infoll ire_vb
+
+:le:infoltarsi
+:de:infolt arsi_vb
 
 :le:infoltire
 :de:infolt ire_vb
@@ -12357,6 +13635,12 @@
 
 :le:inforcare
 :de:infor care_vb
+
+:le:inforestierarsi
+:de:inforestier arsi_vb
+
+:le:inforestierirsi
+:de:inforestier irsi_vb
 
 :le:informare
 :de:inform are_vb
@@ -12385,8 +13669,14 @@
 :le:inforzare
 :de:inforz are_vb
 
+:le:infoscarsi
+:de:infos carsi_vb
+
 :le:infossare
 :de:infoss are_vb
+
+:le:infracidare
+:de:infracid are_vb
 
 :le:infracidire
 :de:infracid ire_vb
@@ -12408,6 +13698,12 @@
 
 :le:inframmischiare
 :de:inframmischi are_vb
+
+:le:infrancesarsi
+:de:infrances arsi_vb
+
+:le:infrancescarsi
+:de:infrances carsi_vb
 
 :le:infrangere
 :de:infrang ere_vb
@@ -12457,6 +13753,9 @@
 :le:infruscare
 :de:infrus care_vb
 
+:le:infugare
+:de:infu gare_vb
+
 :le:infuggiare
 :de:infug giare_vb
 
@@ -12481,6 +13780,9 @@
 :le:infuserare
 :de:infuser are_vb
 
+:le:infuturarsi
+:de:infutur arsi_vb
+
 :le:ingabbiare
 :de:ingabbi are_vb
 
@@ -12499,6 +13801,12 @@
 :le:ingallare
 :de:ingall are_vb
 
+:le:ingalluzzarsi
+:de:ingalluzz arsi_vb
+
+:le:ingalluzzirsi
+:de:ingalluzz irsi_vb
+
 :le:ingambare
 :de:ingamb are_vb
 
@@ -12511,11 +13819,23 @@
 :le:ingannare
 :de:ingann are_vb
 
+:le:ingarabullare
+:de:ingarabull are_vb
+
 :le:ingarbugliare
 :de:ingarbugli are_vb
 
 :le:ingarbare
 :de:ingarb are_vb
+
+:le:ingattirsi
+:de:ingatt irsi_vb
+
+:le:ingegnarsi
+:de:ingegn arsi_vb
+
+:le:ingelosare
+:de:ingelos are_vb
 
 :le:ingelosire
 :de:ingelos ire_vb
@@ -12528,6 +13848,9 @@
 
 :le:ingentilire
 :de:ingentil ire_vb
+
+:le:ingentilominirsi
+:de:ingentilomin irsi_vb
 
 :le:ingerire
 :de:inger ire_vb
@@ -12556,6 +13879,9 @@
 :le:ingiacare
 :de:ingia care_vb
 
+:le:ingiallire
+:de:ingiall ire_vb
+
 :le:ingiallare
 :de:ingiall are_vb
 
@@ -12576,6 +13902,9 @@
 
 :le:ingiovanire
 :de:ingiovan ire_vb
+
+:le:ingiudarsi
+:de:ingiud arsi_vb
 
 :le:ingiugnere
 :de:ingiugn ere_vb
@@ -12604,11 +13933,17 @@
 :le:ingolfare
 :de:ingolf are_vb
 
+:le:ingollare
+:de:ingoll are_vb
+
 :le:ingolare
 :de:ingol are_vb
 
 :le:ingombare
 :de:ingomb are_vb
+
+:le:ingombrare
+:de:ingombr are_vb
 
 :le:ingomberare
 :de:ingomber are_vb
@@ -12661,6 +13996,12 @@
 :le:ingravidare
 :de:ingravid are_vb
 
+:le:ingravirsi
+:de:ingrav irsi_vb
+
+:le:ingrazianarsi
+:de:ingrazian arsi_vb
+
 :le:ingraziare
 :de:ingrazi are_vb
 
@@ -12675,6 +14016,9 @@
 
 :le:ingrognare
 :de:ingrogn are_vb
+
+:le:ingrommarsi
+:de:ingromm arsi_vb
 
 :le:ingroppare
 :de:ingropp are_vb
@@ -12693,6 +14037,9 @@
 
 :le:inguantare
 :de:inguant are_vb
+
+:le:inguazzarsi
+:de:inguazz arsi_vb
 
 :le:ingubbiare
 :de:ingubbi are_vb
@@ -12718,6 +14065,9 @@
 :le:iniquitire
 :de:iniquit ire_vb
 
+:le:inispagnuolirsi
+:de:inispagnuol irsi_vb
+
 :le:iniziare
 :de:inizi are_vb
 
@@ -12730,8 +14080,14 @@
 :le:inlacciare
 :de:inlac ciare_vb
 
+:le:inlagarsi
+:de:inla garsi_vb
+
 :le:inlanguidire
 :de:inlanguid ire_vb
+
+:le:inlappolarsi
+:de:inlappol arsi_vb
 
 :le:inlaqueare
 :de:inlaque are_vb
@@ -12748,8 +14104,14 @@
 :le:inlividire
 :de:inlivid ire_vb
 
+:le:inlucidarsi
+:de:inlucid arsi_vb
+
 :le:inluminare
 :de:inlumin are_vb
+
+:le:inmalinconichire
+:de:inmalinconich ire_vb
 
 :le:inmalinconire
 :de:inmalincon ire_vb
@@ -12762,6 +14124,9 @@
 
 :le:innabissare
 :de:innabiss are_vb
+
+:le:innacerbare
+:de:innacerb are_vb
 
 :le:innacerbire
 :de:innacerb ire_vb
@@ -12799,8 +14164,17 @@
 :le:innamorare
 :de:innamor are_vb
 
+:le:innamorazzarsi
+:de:innamorazz arsi_vb
+
+:le:innamorbarsi
+:de:innamorb arsi_vb
+
 :le:innanellare
 :de:innanell are_vb
+
+:le:innanimare
+:de:innanim are_vb
 
 :le:innanimire
 :de:innanim ire_vb
@@ -13006,6 +14380,15 @@
 :le:inramare
 :de:inram are_vb
 
+:le:inrancidirsi
+:de:inrancid irsi_vb
+
+:le:inrarirsi
+:de:inrar irsi_vb
+
+:le:inretare
+:de:inret are_vb
+
 :le:inretire
 :de:inret ire_vb
 
@@ -13063,6 +14446,9 @@
 :le:insalinare
 :de:insalin are_vb
 
+:le:insalsarsi
+:de:insals arsi_vb
+
 :le:insalvaticare
 :de:insalvati care_vb
 
@@ -13077,6 +14463,9 @@
 
 :le:insaponare
 :de:insapon are_vb
+
+:le:insaporare
+:de:insapor are_vb
 
 :le:insaporire
 :de:insapor ire_vb
@@ -13111,6 +14500,9 @@
 :le:inseguitare
 :de:inseguit are_vb
 
+:le:inselciare
+:de:insel ciare_vb
+
 :le:inseliciare
 :de:inseli ciare_vb
 
@@ -13119,6 +14511,9 @@
 
 :le:inselvare
 :de:inselv are_vb
+
+:le:inselvatichire
+:de:inselvatich ire_vb
 
 :le:inselvaticare
 :de:inselvati care_vb
@@ -13228,6 +14623,9 @@
 :le:insospettire
 :de:insospett ire_vb
 
+:le:insozzare
+:de:insozz are_vb
+
 :le:insozzire
 :de:insozz ire_vb
 
@@ -13258,6 +14656,9 @@
 :le:inspregiare
 :de:inspre giare_vb
 
+:le:instaffarsi
+:de:instaff arsi_vb
+
 :le:installare
 :de:install are_vb
 
@@ -13287,6 +14688,9 @@
 
 :le:instradare
 :de:instrad are_vb
+
+:le:instrarre
+:de:instr arre_vb
 
 :le:instruire
 :de:instru ire_vb
@@ -13326,6 +14730,9 @@
 
 :le:insurgere
 :de:insurg ere_vb
+
+:le:insusarsi
+:de:insus arsi_vb
 
 :le:insusurrare
 :de:insusurr are_vb
@@ -13474,6 +14881,9 @@
 :le:interloquire
 :de:interloqu ire_vb
 
+:le:intermediarsi
+:de:intermedi arsi_vb
+
 :le:intermentire
 :de:interment ire_vb
 
@@ -13491,6 +14901,12 @@
 
 :le:interpolare
 :de:interpol are_vb
+
+:le:interporre
+:de:interp orre_vb
+
+:le:interrare
+:de:interr are_vb
 
 :le:interriare
 :de:interri are_vb
@@ -13531,6 +14947,12 @@
 :le:intessere
 :de:intess ere_vb
 
+:le:intestarsi
+:de:intest arsi_vb
+
+:le:intiepidire
+:de:intiepid ire_vb
+
 :le:intiepidare
 :de:intiepid are_vb
 
@@ -13564,6 +14986,9 @@
 :le:intirizzire
 :de:intirizz ire_vb
 
+:le:intisicare
+:de:intisi care_vb
+
 :le:intisichire
 :de:intisich ire_vb
 
@@ -13584,6 +15009,9 @@
 
 :le:intonchiare
 :de:intonchi are_vb
+
+:le:intoppare
+:de:intopp are_vb
 
 :le:intoppicare
 :de:intoppi care_vb
@@ -13612,6 +15040,9 @@
 :le:intorneare
 :de:intorne are_vb
 
+:le:intorniare
+:de:intorni are_vb
+
 :le:intornare
 :de:intorn are_vb
 
@@ -13635,6 +15066,9 @@
 
 :le:intozzare
 :de:intozz are_vb
+
+:le:intrabescarsi
+:de:intrabes carsi_vb
 
 :le:intrabiccolare
 :de:intrabiccol are_vb
@@ -13666,6 +15100,12 @@
 :le:intramischiare
 :de:intramischi are_vb
 
+:le:intraporre
+:de:intrap orre_vb
+
+:le:intrapporre
+:de:intrapp orre_vb
+
 :le:intraprendere
 :de:intraprend ere_vb
 
@@ -13693,6 +15133,9 @@
 :le:intraversare
 :de:intravers are_vb
 
+:le:intravestirsi
+:de:intravest irsi_vb
+
 :le:intravvenire
 :de:intravven ire_vb
 
@@ -13707,6 +15150,9 @@
 
 :le:intreguare
 :de:intregu are_vb
+
+:le:intrementire
+:de:intrement ire_vb
 
 :le:intremenire
 :de:intremen ire_vb
@@ -13723,17 +15169,26 @@
 :le:intrinsicare
 :de:intrinsi care_vb
 
+:le:intristare
+:de:intrist are_vb
+
 :le:intristire
 :de:intrist ire_vb
 
 :le:introducere
 :de:introduc ere_vb
 
+:le:introdurre
+:de:introd urre_vb
+
 :le:intromettere
 :de:intromett ere_vb
 
 :le:intronare
 :de:intron are_vb
+
+:le:intronfiare
+:de:intronfi are_vb
 
 :le:intronciare
 :de:intron ciare_vb
@@ -13749,6 +15204,9 @@
 
 :le:intruonare
 :de:intruon are_vb
+
+:le:intrupparsi
+:de:intrupp arsi_vb
 
 :le:intuare
 :de:intu are_vb
@@ -13795,6 +15253,9 @@
 :le:inungere
 :de:inung ere_vb
 
+:le:inuomare
+:de:inuom are_vb
+
 :le:inuomire
 :de:inuom ire_vb
 
@@ -13806,6 +15267,9 @@
 
 :le:invagare
 :de:inva gare_vb
+
+:le:invaghicchiarsi
+:de:invaghicchi arsi_vb
 
 :le:invaghire
 :de:invagh ire_vb
@@ -13879,14 +15343,23 @@
 :le:invergare
 :de:inver gare_vb
 
+:le:invergigliarsi
+:de:invergigli arsi_vb
+
 :le:invermigliare
 :de:invermigli are_vb
+
+:le:inverminare
+:de:invermin are_vb
 
 :le:inverminire
 :de:invermin ire_vb
 
 :le:invernare
 :de:invern are_vb
+
+:le:invernicare
+:de:inverni care_vb
 
 :le:inverniciare
 :de:inverni ciare_vb
@@ -13906,6 +15379,9 @@
 :le:inveterare
 :de:inveter are_vb
 
+:le:invetrare
+:de:invetr are_vb
+
 :le:invetriare
 :de:invetri are_vb
 
@@ -13917,6 +15393,9 @@
 
 :le:invidiare
 :de:invidi are_vb
+
+:le:invietare
+:de:inviet are_vb
 
 :le:invietire
 :de:inviet ire_vb
@@ -13930,6 +15409,9 @@
 :le:invigorire
 :de:invigor ire_vb
 
+:le:invilire
+:de:invil ire_vb
+
 :le:invilare
 :de:invil are_vb
 
@@ -13939,6 +15421,9 @@
 :le:invincidire
 :de:invincid ire_vb
 
+:le:inviperare
+:de:inviper are_vb
+
 :le:inviperire
 :de:inviper ire_vb
 
@@ -13947,6 +15432,9 @@
 
 :le:inviscare
 :de:invis care_vb
+
+:le:inviscerarsi
+:de:inviscer arsi_vb
 
 :le:invischiare
 :de:invischi are_vb
@@ -13984,6 +15472,9 @@
 :le:involpire
 :de:involp ire_vb
 
+:le:involtigliare
+:de:involtigli are_vb
+
 :le:involutare
 :de:involut are_vb
 
@@ -13992,6 +15483,9 @@
 
 :le:invulare
 :de:invul are_vb
+
+:le:inzaccherarsi
+:de:inzaccher arsi_vb
 
 :le:inzafardare
 :de:inzafard are_vb
@@ -14134,6 +15628,9 @@
 :le:isporgere
 :de:isporg ere_vb
 
+:le:isporre
+:de:isp orre_vb
+
 :le:ispraticare
 :de:isprati care_vb
 
@@ -14148,6 +15645,12 @@
 
 :le:istigare
 :de:isti gare_vb
+
+:le:istogliere
+:de:istogli ere_vb
+
+:le:istorre
+:de:ist orre_vb
 
 :le:istoriare
 :de:istori are_vb
@@ -14344,6 +15847,9 @@
 :le:latere
 :de:lat ere_vb
 
+:le:latinare
+:de:latin are_vb
+
 :le:latineggiare
 :de:latineg giare_vb
 
@@ -14397,6 +15903,9 @@
 
 :le:lecere
 :de:lec ere_vb
+
+:le:ledere
+:de:led ere_vb
 
 :le:ledire
 :de:led ire_vb
@@ -14602,6 +16111,9 @@
 :le:lotare
 :de:lot are_vb
 
+:le:lottare
+:de:lott are_vb
+
 :le:lotteggiare
 :de:lotteg giare_vb
 
@@ -14658,6 +16170,9 @@
 
 :le:lussare
 :de:luss are_vb
+
+:le:lussureggiare
+:de:lussureg giare_vb
 
 :le:lussurieggiare
 :de:lussurieg giare_vb
@@ -14739,6 +16254,9 @@
 
 :le:mainare
 :de:main are_vb
+
+:le:maladicere
+:de:maladic ere_vb
 
 :le:maladire
 :de:malad ire_vb
@@ -14884,6 +16402,9 @@
 :le:manucare
 :de:manu care_vb
 
+:le:manudurre
+:de:manud urre_vb
+
 :le:manutenere
 :de:manuten ere_vb
 
@@ -14938,6 +16459,9 @@
 :le:martirizzare
 :de:martirizz are_vb
 
+:le:martoriare
+:de:martori are_vb
+
 :le:marturiare
 :de:marturi are_vb
 
@@ -14964,6 +16488,9 @@
 
 :le:matricolare
 :de:matricol are_vb
+
+:le:matrignare
+:de:matrign are_vb
 
 :le:matrigneggiare
 :de:matrigneg giare_vb
@@ -15063,6 +16590,9 @@
 
 :le:mendicare
 :de:mendi care_vb
+
+:le:meneare
+:de:mene are_vb
 
 :le:mengare
 :de:men gare_vb
@@ -15243,6 +16773,9 @@
 
 :le:minutare
 :de:minut are_vb
+
+:le:minuzzare
+:de:minuzz are_vb
 
 :le:minuzzolare
 :de:minuzzol are_vb
@@ -15640,6 +17173,9 @@
 :le:nevare
 :de:nev are_vb
 
+:le:nevicare
+:de:nevi care_vb
+
 :le:nevigare
 :de:nevi gare_vb
 
@@ -15958,6 +17494,9 @@
 :le:onrare
 :de:onr are_vb
 
+:le:ontare
+:de:ont are_vb
+
 :le:ontire
 :de:ont ire_vb
 
@@ -15975,6 +17514,9 @@
 
 :le:oppilare
 :de:oppil are_vb
+
+:le:opporre
+:de:opp orre_vb
 
 :le:opponere
 :de:oppon ere_vb
@@ -16011,6 +17553,9 @@
 
 :le:orecchiare
 :de:orecchi are_vb
+
+:le:organare
+:de:organ are_vb
 
 :le:organeggiare
 :de:organeg giare_vb
@@ -16132,6 +17677,9 @@
 :le:ostupefare
 :de:ostupef are_vb
 
+:le:otriare
+:de:otri are_vb
+
 :le:ottriare
 :de:ottri are_vb
 
@@ -16185,6 +17733,9 @@
 
 :le:paesare
 :de:paes are_vb
+
+:le:paganeggiare
+:de:paganeg giare_vb
 
 :le:paganizzare
 :de:paganizz are_vb
@@ -16261,6 +17812,9 @@
 :le:paradosseggiare
 :de:paradosseg giare_vb
 
+:le:parafrasare
+:de:parafras are_vb
+
 :le:parafrasticare
 :de:parafrasti care_vb
 
@@ -16308,6 +17862,9 @@
 
 :le:parlottare
 :de:parlott are_vb
+
+:le:parodiare
+:de:parodi are_vb
 
 :le:parodare
 :de:parod are_vb
@@ -16420,6 +17977,9 @@
 :le:pausare
 :de:paus are_vb
 
+:le:pave
+:de:pave irreg_vb
+
 :le:paventare
 :de:pavent are_vb
 
@@ -16528,6 +18088,9 @@
 :le:peragrare
 :de:peragr are_vb
 
+:le:percepire
+:de:percep ire_vb
+
 :le:percepere
 :de:percep ere_vb
 
@@ -16554,6 +18117,9 @@
 
 :le:perdurare
 :de:perdur are_vb
+
+:le:perdurre
+:de:perd urre_vb
 
 :le:peregrinare
 :de:peregrin are_vb
@@ -16755,6 +18321,9 @@
 
 :le:pettoreggiare
 :de:pettoreg giare_vb
+
+:le:pezzendo
+:de:pezzendo irreg_vb
 
 :le:pezzire
 :de:pezz ire_vb
@@ -17014,6 +18583,9 @@
 :le:pollonare
 :de:pollon are_vb
 
+:le:poltreggiare
+:de:poltreg giare_vb
+
 :le:poltrire
 :de:poltr ire_vb
 
@@ -17068,6 +18640,9 @@
 :le:porporeggiare
 :de:porporeg giare_vb
 
+:le:porre
+:de:p orre_vb
+
 :le:portare
 :de:port are_vb
 
@@ -17079,6 +18654,9 @@
 
 :le:posmettere
 :de:posmett ere_vb
+
+:le:posporre
+:de:posp orre_vb
 
 :le:posponere
 :de:pospon ere_vb
@@ -17251,6 +18829,9 @@
 :le:preintendere
 :de:preintend ere_vb
 
+:le:preintrodurre
+:de:preintrod urre_vb
+
 :le:preire
 :de:pre ire_vb
 
@@ -17332,6 +18913,9 @@
 :le:preponderare
 :de:preponder are_vb
 
+:le:preporre
+:de:prep orre_vb
+
 :le:presagire
 :de:presag ire_vb
 
@@ -17383,8 +18967,17 @@
 :le:prestigiare
 :de:presti giare_vb
 
+:le:presumere
+:de:presum ere_vb
+
 :le:presummere
 :de:presumm ere_vb
+
+:le:presupponere
+:de:presuppon ere_vb
+
+:le:presupporre
+:de:presupp orre_vb
 
 :le:pretendere
 :de:pretend ere_vb
@@ -17485,6 +19078,9 @@
 :le:producere
 :de:produc ere_vb
 
+:le:produrre
+:de:prod urre_vb
+
 :le:proemiare
 :de:proemi are_vb
 
@@ -17496,6 +19092,9 @@
 
 :le:proferare
 :de:profer are_vb
+
+:le:proferere
+:de:profer ere_vb
 
 :le:proferire
 :de:profer ire_vb
@@ -17635,6 +19234,9 @@
 :le:proponere
 :de:propon ere_vb
 
+:le:proporre
+:de:prop orre_vb
+
 :le:proporzionare
 :de:proporzion are_vb
 
@@ -17655,6 +19257,9 @@
 
 :le:prosciogliere
 :de:prosciogli ere_vb
+
+:le:prosciorre
+:de:prosci orre_vb
 
 :le:prosciugare
 :de:prosciu gare_vb
@@ -17709,6 +19314,9 @@
 
 :le:protraere
 :de:protra ere_vb
+
+:le:protrarre
+:de:protr arre_vb
 
 :le:provanare
 :de:provan are_vb
@@ -17794,6 +19402,9 @@
 :le:puntellare
 :de:puntell are_vb
 
+:le:punzecchiare
+:de:punzecchi are_vb
+
 :le:punzellare
 :de:punzell are_vb
 
@@ -17878,6 +19489,9 @@
 :le:quintuplicare
 :de:quintupli care_vb
 
+:le:quistionare
+:de:quistion are_vb
+
 :le:quistioneggiare
 :de:quistioneg giare_vb
 
@@ -17938,11 +19552,17 @@
 :le:rabbreviare
 :de:rabbrevi are_vb
 
+:le:rabbrividare
+:de:rabbrivid are_vb
+
 :le:rabbrividire
 :de:rabbrivid ire_vb
 
 :le:rabbruscare
 :de:rabbrus care_vb
+
+:le:rabbruzzare
+:de:rabbruzz are_vb
 
 :le:rabbruzzolare
 :de:rabbruzzol are_vb
@@ -18097,6 +19717,9 @@
 :le:raconciliare
 :de:raconcili are_vb
 
+:le:racquattarsi
+:de:racquatt arsi_vb
+
 :le:racquetare
 :de:racquet are_vb
 
@@ -18147,6 +19770,9 @@
 
 :le:radducere
 :de:radduc ere_vb
+
+:le:raddurre
+:de:radd urre_vb
 
 :le:radere
 :de:rad ere_vb
@@ -18292,8 +19918,14 @@
 :le:raggravare
 :de:raggrav are_vb
 
+:le:raggricchiare
+:de:raggricchi are_vb
+
 :le:raggricciare
 :de:raggric ciare_vb
+
+:le:raggrinzare
+:de:raggrinz are_vb
 
 :le:raggrinzire
 :de:raggrinz ire_vb
@@ -18303,6 +19935,9 @@
 
 :le:raggruppare
 :de:raggrupp are_vb
+
+:le:raggruzzarsi
+:de:raggruzz arsi_vb
 
 :le:raggruzzolare
 :de:raggruzzol are_vb
@@ -18427,6 +20062,9 @@
 :le:rammitigare
 :de:rammiti gare_vb
 
+:le:rammollare
+:de:rammoll are_vb
+
 :le:rammollire
 :de:rammoll ire_vb
 
@@ -18439,11 +20077,17 @@
 :le:rammorbidire
 :de:rammorbid ire_vb
 
+:le:rammorvidare
+:de:rammorvid are_vb
+
 :le:rammorvidire
 :de:rammorvid ire_vb
 
 :le:rammorzare
 :de:rammorz are_vb
+
+:le:rammucchiare
+:de:rammucchi are_vb
 
 :le:rammuricare
 :de:rammuri care_vb
@@ -18481,6 +20125,9 @@
 :le:randellare
 :de:randell are_vb
 
+:le:rangolare
+:de:rangol are_vb
+
 :le:rangulare
 :de:rangul are_vb
 
@@ -18498,6 +20145,9 @@
 
 :le:rannodare
 :de:rannod are_vb
+
+:le:rannugolare
+:de:rannugol are_vb
 
 :le:rannuvolare
 :de:rannuvol are_vb
@@ -18522,6 +20172,9 @@
 
 :le:rappagare
 :de:rappa gare_vb
+
+:le:rappallottolare
+:de:rappallottol are_vb
 
 :le:rappallozzolare
 :de:rappallozzol are_vb
@@ -18550,11 +20203,17 @@
 :le:rappiastrare
 :de:rappiastr are_vb
 
+:le:rappiattarsi
+:de:rappiatt arsi_vb
+
 :le:rappiccare
 :de:rappic care_vb
 
 :le:rappiccinire
 :de:rappiccin ire_vb
+
+:le:rappiccolare
+:de:rappiccol are_vb
 
 :le:rappiccolire
 :de:rappiccol ire_vb
@@ -18634,6 +20293,9 @@
 :le:rassaggiare
 :de:rassag giare_vb
 
+:le:rassalire
+:de:rassal ire_vb
+
 :le:rassaltare
 :de:rassalt are_vb
 
@@ -18706,6 +20368,9 @@
 :le:rattarpare
 :de:rattarp are_vb
 
+:le:rattemperare
+:de:rattemper are_vb
+
 :le:rattemprare
 :de:rattempr are_vb
 
@@ -18717,6 +20382,9 @@
 
 :le:rattestare
 :de:rattest are_vb
+
+:le:rattiepidire
+:de:rattiepid ire_vb
 
 :le:rattiepidare
 :de:rattiepid are_vb
@@ -18747,6 +20415,9 @@
 
 :le:rattrappire
 :de:rattrapp ire_vb
+
+:le:rattrarre
+:de:rattr arre_vb
 
 :le:rattristare
 :de:rattrist are_vb
@@ -18829,6 +20500,9 @@
 :le:recapitare
 :de:recapit are_vb
 
+:le:recapitolare
+:de:recapitol are_vb
+
 :le:recapitulare
 :de:recapitul are_vb
 
@@ -18843,6 +20517,9 @@
 
 :le:recettare
 :de:recett are_vb
+
+:le:rechedere
+:de:reched ere_vb
 
 :le:recherere
 :de:recher ere_vb
@@ -18940,6 +20617,9 @@
 :le:reduplicare
 :de:redupli care_vb
 
+:le:redurre
+:de:red urre_vb
+
 :le:reedificare
 :de:reedifi care_vb
 
@@ -18951,6 +20631,9 @@
 
 :le:refezionare
 :de:refezion are_vb
+
+:le:reficiare
+:de:refi ciare_vb
 
 :le:refiziare
 :de:refizi are_vb
@@ -18972,6 +20655,9 @@
 
 :le:refrigerare
 :de:refriger are_vb
+
+:le:refugiarsi
+:de:refu giarsi_vb
 
 :le:refulcire
 :de:refulc ire_vb
@@ -19023,6 +20709,9 @@
 
 :le:reintegrare
 :de:reintegr are_vb
+
+:le:reintrodurre
+:de:reintrod urre_vb
 
 :le:reintroducere
 :de:reintroduc ere_vb
@@ -19171,6 +20860,9 @@
 :le:resolvere
 :de:resolv ere_vb
 
+:le:respignere
+:de:respign ere_vb
+
 :le:respingere
 :de:resping ere_vb
 
@@ -19194,6 +20886,9 @@
 
 :le:restovigliare
 :de:restovigli are_vb
+
+:le:restrignere
+:de:restrign ere_vb
 
 :le:restringere
 :de:restring ere_vb
@@ -19251,6 +20946,9 @@
 
 :le:retropignere
 :de:retropign ere_vb
+
+:le:retrotrarre
+:de:retrotr arre_vb
 
 :le:rettare
 :de:rett are_vb
@@ -19738,6 +21436,9 @@
 :le:ricioncare
 :de:ricion care_vb
 
+:le:ricircolare
+:de:ricircol are_vb
+
 :le:ricirculare
 :de:ricircul are_vb
 
@@ -19764,6 +21465,9 @@
 
 :le:ricolmare
 :de:ricolm are_vb
+
+:le:ricolorare
+:de:ricolor are_vb
 
 :le:ricolorire
 :de:ricolor ire_vb
@@ -19797,6 +21501,9 @@
 
 :le:ricompiere
 :de:ricompi ere_vb
+
+:le:ricomporre
+:de:ricomp orre_vb
 
 :le:ricomponere
 :de:ricompon ere_vb
@@ -19837,6 +21544,9 @@
 :le:ricondire
 :de:ricond ire_vb
 
+:le:ricondurre
+:de:ricond urre_vb
+
 :le:riconfermare
 :de:riconferm are_vb
 
@@ -19864,6 +21574,9 @@
 :le:ricongelare
 :de:ricongel are_vb
 
+:le:ricongiugnere
+:de:ricongiugn ere_vb
+
 :le:ricongiungere
 :de:ricongiung ere_vb
 
@@ -19881,6 +21594,9 @@
 
 :le:riconquistare
 :de:riconquist are_vb
+
+:le:riconsecrare
+:de:riconsecr are_vb
 
 :le:riconsagrare
 :de:riconsagr are_vb
@@ -20068,6 +21784,9 @@
 :le:riducere
 :de:riduc ere_vb
 
+:le:ridurre
+:de:rid urre_vb
+
 :le:riedere
 :de:ried ere_vb
 
@@ -20239,11 +21958,17 @@
 :le:rifrenare
 :de:rifren are_vb
 
+:le:rifrigerare
+:de:rifriger are_vb
+
 :le:rifriggerare
 :de:rifrigger are_vb
 
 :le:rifriggere
 :de:rifrigg ere_vb
+
+:le:rifrondire
+:de:rifrond ire_vb
 
 :le:rifronzire
 :de:rifronz ire_vb
@@ -20509,6 +22234,9 @@
 :le:rimborsare
 :de:rimbors are_vb
 
+:le:rimboscarsi
+:de:rimbos carsi_vb
+
 :le:rimbottare
 :de:rimbott are_vb
 
@@ -20571,6 +22299,9 @@
 
 :le:rimescolare
 :de:rimescol are_vb
+
+:le:rimesticare
+:de:rimesti care_vb
 
 :le:rimestire
 :de:rimest ire_vb
@@ -20665,6 +22396,9 @@
 :le:rimpatriare
 :de:rimpatri are_vb
 
+:le:rimpaurare
+:de:rimpaur are_vb
+
 :le:rimpaurire
 :de:rimpaur ire_vb
 
@@ -20697,6 +22431,9 @@
 
 :le:rimpiazzare
 :de:rimpiazz are_vb
+
+:le:rimpicciolire
+:de:rimpicciol ire_vb
 
 :le:rimpiccolire
 :de:rimpiccol ire_vb
@@ -20751,6 +22488,9 @@
 
 :le:rimproverare
 :de:rimprover are_vb
+
+:le:rimugghiare
+:de:rimugghi are_vb
 
 :le:rimuggire
 :de:rimugg ire_vb
@@ -20809,6 +22549,9 @@
 :le:rincagnare
 :de:rincagn are_vb
 
+:le:rincalciare
+:de:rincal ciare_vb
+
 :le:rincalcettare
 :de:rincalcett are_vb
 
@@ -20838,6 +22581,9 @@
 
 :le:rincappellare
 :de:rincappell are_vb
+
+:le:rincarare
+:de:rincar are_vb
 
 :le:rincarire
 :de:rincar ire_vb
@@ -20938,6 +22684,9 @@
 :le:rincrociare
 :de:rincro ciare_vb
 
+:le:rincrudelire
+:de:rincrudel ire_vb
+
 :le:rincrudire
 :de:rincrud ire_vb
 
@@ -20967,6 +22716,9 @@
 
 :le:rinfacciare
 :de:rinfac ciare_vb
+
+:le:rinfalconarsi
+:de:rinfalcon arsi_vb
 
 :le:rinfamare
 :de:rinfam are_vb
@@ -21000,6 +22752,9 @@
 
 :le:rinfilare
 :de:rinfil are_vb
+
+:le:rinfocare
+:de:rinfo care_vb
 
 :le:rinfocolare
 :de:rinfocol are_vb
@@ -21058,6 +22813,9 @@
 :le:rinfronzire
 :de:rinfronz ire_vb
 
+:le:rinfuocare
+:de:rinfuo care_vb
+
 :le:rinfuocolare
 :de:rinfuocol are_vb
 
@@ -21066,6 +22824,9 @@
 
 :le:ringagliardire
 :de:ringagliard ire_vb
+
+:le:ringalluzzare
+:de:ringalluzz are_vb
 
 :le:ringalluzzolare
 :de:ringalluzzol are_vb
@@ -21102,6 +22863,9 @@
 
 :le:ringiovalire
 :de:ringioval ire_vb
+
+:le:ringiovanire
+:de:ringiovan ire_vb
 
 :le:ringiovenire
 :de:ringioven ire_vb
@@ -21247,6 +23011,9 @@
 :le:rintagliare
 :de:rintagli are_vb
 
+:le:rintanarsi
+:de:rintan arsi_vb
+
 :le:rintasare
 :de:rintas are_vb
 
@@ -21267,6 +23034,9 @@
 
 :le:rinterzare
 :de:rinterz are_vb
+
+:le:rintiepidare
+:de:rintiepid are_vb
 
 :le:rintiepidire
 :de:rintiepid ire_vb
@@ -21294,6 +23064,12 @@
 
 :le:rintrecciare
 :de:rintrec ciare_vb
+
+:le:rintrodurre
+:de:rintrod urre_vb
+
+:le:rintronare
+:de:rintron are_vb
 
 :le:rintruonare
 :de:rintruon are_vb
@@ -21376,8 +23152,14 @@
 :le:rinviare
 :de:rinvi are_vb
 
+:le:rinvigorare
+:de:rinvigor are_vb
+
 :le:rinvigorire
 :de:rinvigor ire_vb
+
+:le:rinviliare
+:de:rinvili are_vb
 
 :le:rinvilire
 :de:rinvil ire_vb
@@ -21472,6 +23254,9 @@
 :le:ripatire
 :de:ripat ire_vb
 
+:le:ripatriare
+:de:ripatri are_vb
+
 :le:ripadriare
 :de:ripadri are_vb
 
@@ -21483,6 +23268,9 @@
 
 :le:ripentire
 :de:ripent ire_vb
+
+:le:ripercuotere
+:de:ripercuot ere_vb
 
 :le:ripercotere
 :de:ripercot ere_vb
@@ -21511,6 +23299,9 @@
 :le:ripiagare
 :de:ripia gare_vb
 
+:le:ripiagnere
+:de:ripiagn ere_vb
+
 :le:ripiangere
 :de:ripiang ere_vb
 
@@ -21531,6 +23322,9 @@
 
 :le:ripilogare
 :de:ripilo gare_vb
+
+:le:ripingere
+:de:riping ere_vb
 
 :le:ripignere
 :de:ripign ere_vb
@@ -21561,6 +23355,9 @@
 
 :le:riporgere
 :de:riporg ere_vb
+
+:le:riporre
+:de:rip orre_vb
 
 :le:riportare
 :de:riport are_vb
@@ -21607,11 +23404,17 @@
 :le:riprocciare
 :de:riproc ciare_vb
 
+:le:riprodurre
+:de:riprod urre_vb
+
 :le:riprofondare
 :de:riprofond are_vb
 
 :le:ripromettere
 :de:ripromett ere_vb
+
+:le:riproporre
+:de:riprop orre_vb
 
 :le:riproporzionare
 :de:riproporzion are_vb
@@ -21621,6 +23424,9 @@
 
 :le:riprovare
 :de:riprov are_vb
+
+:le:riprovedere
+:de:riproved ere_vb
 
 :le:riprovvedere
 :de:riprovved ere_vb
@@ -21733,6 +23539,9 @@
 :le:riscendere
 :de:riscend ere_vb
 
+:le:rischiarare
+:de:rischiar are_vb
+
 :le:rischiarire
 :de:rischiar ire_vb
 
@@ -21793,6 +23602,9 @@
 :le:risecare
 :de:rise care_vb
 
+:le:riseccare
+:de:risec care_vb
+
 :le:risecchire
 :de:risecch ire_vb
 
@@ -21813,6 +23625,9 @@
 
 :le:riseminare
 :de:risemin are_vb
+
+:le:risensarsi
+:de:risens arsi_vb
 
 :le:risentire
 :de:risent ire_vb
@@ -21862,6 +23677,9 @@
 :le:risognare
 :de:risogn are_vb
 
+:le:risolare
+:de:risol are_vb
+
 :le:risolettare
 :de:risolett are_vb
 
@@ -21909,6 +23727,9 @@
 
 :le:risorgere
 :de:risorg ere_vb
+
+:le:risospignere
+:de:risospign ere_vb
 
 :le:risospingere
 :de:risosping ere_vb
@@ -21966,6 +23787,9 @@
 
 :le:rispicciare
 :de:rispic ciare_vb
+
+:le:rispignere
+:de:rispign ere_vb
 
 :le:rispingere
 :de:risping ere_vb
@@ -22051,6 +23875,9 @@
 :le:ristrascinare
 :de:ristrascin are_vb
 
+:le:ristrignere
+:de:ristrign ere_vb
+
 :le:ristringere
 :de:ristring ere_vb
 
@@ -22126,6 +23953,9 @@
 :le:ritessere
 :de:ritess ere_vb
 
+:le:ritignere
+:de:ritign ere_vb
+
 :le:ritingere
 :de:riting ere_vb
 
@@ -22156,8 +23986,14 @@
 :le:ritornare
 :de:ritorn are_vb
 
+:le:ritorre
+:de:rit orre_vb
+
 :le:ritosare
 :de:ritos are_vb
+
+:le:ritradurre
+:de:ritrad urre_vb
 
 :le:ritraere
 :de:ritra ere_vb
@@ -22168,11 +24004,17 @@
 :le:ritranquillare
 :de:ritranquill are_vb
 
+:le:ritrarre
+:de:ritr arre_vb
+
 :le:ritrascorrere
 :de:ritrascorr ere_vb
 
 :le:ritrasformare
 :de:ritrasform are_vb
+
+:le:ritrasporre
+:de:ritrasp orre_vb
 
 :le:ritrattare
 :de:ritratt are_vb
@@ -22420,6 +24262,9 @@
 :le:rondare
 :de:rond are_vb
 
+:le:ronfiare
+:de:ronfi are_vb
+
 :le:ronfare
 :de:ronf are_vb
 
@@ -22431,6 +24276,9 @@
 
 :le:rosecchiare
 :de:rosecchi are_vb
+
+:le:rosicchiare
+:de:rosicchi are_vb
 
 :le:rosiccare
 :de:rosic care_vb
@@ -22474,6 +24322,9 @@
 :le:rovinare
 :de:rovin are_vb
 
+:le:rovistiare
+:de:rovisti are_vb
+
 :le:rovistolare
 :de:rovistol are_vb
 
@@ -22494,6 +24345,9 @@
 
 :le:ruere
 :de:ru ere_vb
+
+:le:ruffianare
+:de:ruffian are_vb
 
 :le:ruffianneggiare
 :de:ruffianneg giare_vb
@@ -22618,6 +24472,9 @@
 :le:sagire
 :de:sag ire_vb
 
+:le:sagliere
+:de:sagli ere_vb
+
 :le:saglire
 :de:sagl ire_vb
 
@@ -22656,6 +24513,9 @@
 
 :le:salpare
 :de:salp are_vb
+
+:le:saltabellare
+:de:saltabell are_vb
 
 :le:saltabeccare
 :de:saltabec care_vb
@@ -22699,11 +24559,17 @@
 :le:sanguinare
 :de:sanguin are_vb
 
+:le:sanicare
+:de:sani care_vb
+
 :le:sanificare
 :de:sanifi care_vb
 
 :le:santificare
 :de:santifi care_vb
+
+:le:sanziare
+:de:sanzi are_vb
 
 :le:sanzionare
 :de:sanzion are_vb
@@ -22749,6 +24615,9 @@
 
 :le:savorare
 :de:savor are_vb
+
+:le:savorrare
+:de:savorr are_vb
 
 :le:savornare
 :de:savorn are_vb
@@ -23098,6 +24967,9 @@
 :le:sbucare
 :de:sbu care_vb
 
+:le:sbucciare
+:de:sbuc ciare_vb
+
 :le:sbucchiare
 :de:sbucchi are_vb
 
@@ -23326,6 +25198,9 @@
 :le:scappucciare
 :de:scappuc ciare_vb
 
+:le:scapriccire
+:de:scapricc ire_vb
+
 :le:scapricciare
 :de:scapric ciare_vb
 
@@ -23389,6 +25264,9 @@
 :le:scarnire
 :de:scarn ire_vb
 
+:le:scarpellare
+:de:scarpell are_vb
+
 :le:scarpellinare
 :de:scarpellin are_vb
 
@@ -23448,6 +25326,9 @@
 
 :le:scavezzare
 :de:scavezz are_vb
+
+:le:scavigliarsi
+:de:scavigli arsi_vb
 
 :le:scazzellare
 :de:scazzell are_vb
@@ -23538,6 +25419,9 @@
 
 :le:schiavacciare
 :de:schiavac ciare_vb
+
+:le:schiavare
+:de:schiav are_vb
 
 :le:schiavellare
 :de:schiavell are_vb
@@ -23635,6 +25519,9 @@
 :le:sciare
 :de:s ciare_vb
 
+:le:sciarpellare
+:de:sciarpell are_vb
+
 :le:sciarpare
 :de:sciarp are_vb
 
@@ -23692,6 +25579,9 @@
 :le:sciorinare
 :de:sciorin are_vb
 
+:le:sciorre
+:de:sci orre_vb
+
 :le:scioverare
 :de:sciover are_vb
 
@@ -23715,6 +25605,9 @@
 
 :le:sciugare
 :de:sciu gare_vb
+
+:le:sciupare
+:de:sciup are_vb
 
 :le:sciupinare
 :de:sciupin are_vb
@@ -23842,6 +25735,9 @@
 :le:scompisciare
 :de:scompis ciare_vb
 
+:le:scomporre
+:de:scomp orre_vb
+
 :le:scomputare
 :de:scomput are_vb
 
@@ -23920,6 +25816,9 @@
 :le:sconquassare
 :de:sconquass are_vb
 
+:le:sconsacrare
+:de:sconsacr are_vb
+
 :le:sconsagrare
 :de:sconsagr are_vb
 
@@ -23979,6 +25878,9 @@
 
 :le:scoprire
 :de:scopr ire_vb
+
+:le:scoraggiare
+:de:scorag giare_vb
 
 :le:scoraggire
 :de:scoragg ire_vb
@@ -24127,6 +26029,9 @@
 :le:screziare
 :de:screzi are_vb
 
+:le:scricchiare
+:de:scricchi are_vb
+
 :le:scricchiolare
 :de:scricchiol are_vb
 
@@ -24172,11 +26077,17 @@
 :le:scrunare
 :de:scrun are_vb
 
+:le:scrupoleggiare
+:de:scrupoleg giare_vb
+
 :le:scrupolizzare
 :de:scrupolizz are_vb
 
 :le:scrutare
 :de:scrut are_vb
+
+:le:scrutinare
+:de:scrutin are_vb
 
 :le:scruttinare
 :de:scruttin are_vb
@@ -24286,8 +26197,14 @@
 :le:sdonnare
 :de:sdonn are_vb
 
+:le:sdonzellarsi
+:de:sdonzell arsi_vb
+
 :le:sdoppiare
 :de:sdoppi are_vb
+
+:le:sdormentare
+:de:sdorment are_vb
 
 :le:sdormentire
 :de:sdorment ire_vb
@@ -24307,6 +26224,9 @@
 :le:sdrucciolare
 :de:sdrucciol are_vb
 
+:le:sdrucire
+:de:sdruc ire_vb
+
 :le:sdruscire
 :de:sdrusc ire_vb
 
@@ -24315,6 +26235,9 @@
 
 :le:sdurare
 :de:sdur are_vb
+
+:le:sdurre
+:de:sd urre_vb
 
 :le:secare
 :de:se care_vb
@@ -24342,6 +26265,9 @@
 
 :le:seducere
 :de:seduc ere_vb
+
+:le:sedurre
+:de:sed urre_vb
 
 :le:segare
 :de:se gare_vb
@@ -24439,6 +26365,9 @@
 :le:serpentare
 :de:serpent are_vb
 
+:le:serpere
+:de:serp ere_vb
+
 :le:serpire
 :de:serp ire_vb
 
@@ -24459,6 +26388,9 @@
 
 :le:setteggiare
 :de:setteg giare_vb
+
+:le:severare
+:de:sever are_vb
 
 :le:sevrare
 :de:sevr are_vb
@@ -24673,6 +26605,9 @@
 :le:sfracassare
 :de:sfracass are_vb
 
+:le:sfracellare
+:de:sfracell are_vb
+
 :le:sfragellare
 :de:sfragell are_vb
 
@@ -24715,6 +26650,9 @@
 :le:sfrombolare
 :de:sfrombol are_vb
 
+:le:sfrondare
+:de:sfrond are_vb
+
 :le:sfrondeare
 :de:sfronde are_vb
 
@@ -24726,6 +26664,9 @@
 
 :le:sfuggire
 :de:sfugg ire_vb
+
+:le:sfumare
+:de:sfum are_vb
 
 :le:sfummare
 :de:sfumm are_vb
@@ -24883,6 +26824,9 @@
 :le:sgranare
 :de:sgran are_vb
 
+:le:sgranchiare
+:de:sgranchi are_vb
+
 :le:sgranchire
 :de:sgranch ire_vb
 
@@ -24958,6 +26902,9 @@
 :le:sguanciare
 :de:sguan ciare_vb
 
+:le:sguaraguardare
+:de:sguaraguard are_vb
+
 :le:sguaraguatare
 :de:sguaraguat are_vb
 
@@ -24972,6 +26919,9 @@
 
 :le:sguernire
 :de:sguern ire_vb
+
+:le:sgufare
+:de:sguf are_vb
 
 :le:sgufoneare
 :de:sgufone are_vb
@@ -24993,6 +26943,9 @@
 
 :le:sgustare
 :de:sgust are_vb
+
+:le:sibilare
+:de:sibil are_vb
 
 :le:sibillare
 :de:sibill are_vb
@@ -25020,6 +26973,9 @@
 
 :le:silere
 :de:sil ere_vb
+
+:le:sillabare
+:de:sillab are_vb
 
 :le:sillabicare
 :de:sillabi care_vb
@@ -25062,6 +27018,9 @@
 
 :le:sindicare
 :de:sindi care_vb
+
+:le:singhiozzare
+:de:singhiozz are_vb
 
 :le:singhiozzire
 :de:singhiozz ire_vb
@@ -25168,11 +27127,17 @@
 :le:smacchiare
 :de:smacchi are_vb
 
+:le:smagare
+:de:sma gare_vb
+
 :le:smacare
 :de:sma care_vb
 
 :le:smagliare
 :de:smagli are_vb
+
+:le:smagrare
+:de:smagr are_vb
 
 :le:smagrire
 :de:smagr ire_vb
@@ -25375,6 +27340,9 @@
 :le:snicchiare
 :de:snicchi are_vb
 
+:le:snidare
+:de:snid are_vb
+
 :le:snidiare
 :de:snidi are_vb
 
@@ -25456,6 +27424,12 @@
 :le:soddisfare
 :de:soddisf are_vb
 
+:le:sodducere
+:de:sodduc ere_vb
+
+:le:soddurre
+:de:sodd urre_vb
+
 :le:sofferare
 :de:soffer are_vb
 
@@ -25485,6 +27459,9 @@
 
 :le:soffogare
 :de:soffo gare_vb
+
+:le:soffolcere
+:de:soffolc ere_vb
 
 :le:soffolgere
 :de:soffolg ere_vb
@@ -25525,6 +27502,9 @@
 :le:soggiornare
 :de:soggiorn are_vb
 
+:le:soggiugnere
+:de:soggiugn ere_vb
+
 :le:soggiungere
 :de:soggiung ere_vb
 
@@ -25533,6 +27513,9 @@
 
 :le:soggrottare
 :de:soggrott are_vb
+
+:le:sogguardare
+:de:sogguard are_vb
 
 :le:sogguatare
 :de:sogguat are_vb
@@ -25669,6 +27652,9 @@
 :le:sonnacchiare
 :de:sonnacchi are_vb
 
+:le:sonniferare
+:de:sonnifer are_vb
+
 :le:sonneggiare
 :de:sonneg giare_vb
 
@@ -25714,6 +27700,9 @@
 :le:sopplire
 :de:soppl ire_vb
 
+:le:sopporre
+:de:sopp orre_vb
+
 :le:sopportare
 :de:sopport are_vb
 
@@ -25734,6 +27723,9 @@
 
 :le:soprabbenedire
 :de:soprabbened ire_vb
+
+:le:soprabbere
+:de:soprabb ere_vb
 
 :le:soprabbevere
 :de:soprabbev ere_vb
@@ -25798,6 +27790,9 @@
 :le:sopraggiudicare
 :de:sopraggiudi care_vb
 
+:le:sopraggiugnere
+:de:sopraggiugn ere_vb
+
 :le:sopraggiungere
 :de:sopraggiung ere_vb
 
@@ -25816,11 +27811,17 @@
 :le:sopraindorare
 :de:sopraindor are_vb
 
+:le:sopraindurre
+:de:sopraind urre_vb
+
 :le:sopraintendere
 :de:sopraintend ere_vb
 
 :le:soprallevare
 :de:soprallev are_vb
+
+:le:soprallodare
+:de:soprallod are_vb
 
 :le:sopralodare
 :de:sopralod are_vb
@@ -25843,6 +27844,9 @@
 :le:soprammontare
 :de:soprammont are_vb
 
+:le:sopranarrare
+:de:sopranarr are_vb
+
 :le:soprannarrare
 :de:soprannarr are_vb
 
@@ -25861,6 +27865,9 @@
 :le:soprannominare
 :de:soprannomin are_vb
 
+:le:soprannotare
+:de:soprannot are_vb
+
 :le:soprannuotare
 :de:soprannuot are_vb
 
@@ -25870,11 +27877,17 @@
 :le:soprappagare
 :de:soprappa gare_vb
 
+:le:soprappiagnere
+:de:soprappiagn ere_vb
+
 :le:soprappiangere
 :de:soprappiang ere_vb
 
 :le:soprappigliare
 :de:soprappigli are_vb
+
+:le:soprapporre
+:de:soprapp orre_vb
 
 :le:soprapportare
 :de:soprapport are_vb
@@ -26020,11 +28033,17 @@
 :le:sorgere
 :de:sorg ere_vb
 
+:le:sorgiugnere
+:de:sorgiugn ere_vb
+
 :le:sorgiungere
 :de:sorgiung ere_vb
 
 :le:sormontare
 :de:sormont are_vb
+
+:le:sornacare
+:de:sorna care_vb
 
 :le:sornacchiare
 :de:sornacchi are_vb
@@ -26037,6 +28056,9 @@
 
 :le:sorpassare
 :de:sorpass are_vb
+
+:le:sorporre
+:de:sorp orre_vb
 
 :le:sorportare
 :de:sorport are_vb
@@ -26112,6 +28134,9 @@
 
 :le:sospiciare
 :de:sospi ciare_vb
+
+:le:sospignere
+:de:sospign ere_vb
 
 :le:sospingere
 :de:sosping ere_vb
@@ -26197,6 +28222,9 @@
 :le:sottonotare
 :de:sottonot are_vb
 
+:le:sottoporre
+:de:sottop orre_vb
+
 :le:sottordinare
 :de:sottordin are_vb
 
@@ -26230,6 +28258,9 @@
 :le:sottraggere
 :de:sottragg ere_vb
 
+:le:sottrarre
+:de:sottr arre_vb
+
 :le:soverchiare
 :de:soverchi are_vb
 
@@ -26254,11 +28285,17 @@
 :le:sovraempiere
 :de:sovraempi ere_vb
 
+:le:sovrafare
+:de:sovraf are_vb
+
 :le:sovraffare
 :de:sovraff are_vb
 
 :le:sovragaudere
 :de:sovragaud ere_vb
+
+:le:sovraggiugnere
+:de:sovraggiugn ere_vb
 
 :le:sovraggiungere
 :de:sovraggiung ere_vb
@@ -26283,6 +28320,9 @@
 
 :le:sovrappassare
 :de:sovrappass are_vb
+
+:le:sovrapporre
+:de:sovrapp orre_vb
 
 :le:sovrapportare
 :de:sovrapport are_vb
@@ -26322,6 +28362,9 @@
 
 :le:sovvenire
 :de:sovven ire_vb
+
+:le:sovvertere
+:de:sovvert ere_vb
 
 :le:sovvertire
 :de:sovvert ire_vb
@@ -26367,6 +28410,9 @@
 
 :le:spalmare
 :de:spalm are_vb
+
+:le:spampanare
+:de:spampan are_vb
 
 :le:spampinare
 :de:spampin are_vb
@@ -26439,6 +28485,9 @@
 
 :le:spartire
 :de:spart ire_vb
+
+:le:spasimare
+:de:spasim are_vb
 
 :le:spasmare
 :de:spasm are_vb
@@ -26704,6 +28753,9 @@
 :le:spigliare
 :de:spigli are_vb
 
+:le:spignere
+:de:spign ere_vb
+
 :le:spingere
 :de:sping ere_vb
 
@@ -26721,6 +28773,9 @@
 
 :le:spilluzzicare
 :de:spilluzzi care_vb
+
+:le:spiluccarsi
+:de:spiluc carsi_vb
 
 :le:spimacciare
 :de:spimac ciare_vb
@@ -26782,6 +28837,9 @@
 :le:spodestare
 :de:spodest are_vb
 
+:le:spoetare
+:de:spoet are_vb
+
 :le:spoetizzare
 :de:spoetizz are_vb
 
@@ -26791,11 +28849,17 @@
 :le:spollastrare
 :de:spollastr are_vb
 
+:le:spollinarsi
+:de:spollin arsi_vb
+
 :le:spollonare
 :de:spollon are_vb
 
 :le:spolpare
 :de:spolp are_vb
+
+:le:spoltronare
+:de:spoltron are_vb
 
 :le:spoltronire
 :de:spoltron ire_vb
@@ -26823,6 +28887,9 @@
 
 :le:sporgere
 :de:sporg ere_vb
+
+:le:sporre
+:de:sp orre_vb
 
 :le:sportare
 :de:sport are_vb
@@ -26917,6 +28984,9 @@
 :le:sprofondare
 :de:sprofond are_vb
 
+:le:sprolungare
+:de:sprolun gare_vb
+
 :le:sprolongare
 :de:sprolon gare_vb
 
@@ -26950,6 +29020,9 @@
 :le:sprunare
 :de:sprun are_vb
 
+:le:spruzzare
+:de:spruzz are_vb
+
 :le:spruzzolare
 :de:spruzzol are_vb
 
@@ -26961,6 +29034,9 @@
 
 :le:spulciare
 :de:spul ciare_vb
+
+:le:spuleggiare
+:de:spuleg giare_vb
 
 :le:spulezzare
 :de:spulezz are_vb
@@ -27168,6 +29244,9 @@
 
 :le:starnazzare
 :de:starnazz are_vb
+
+:le:starnutare
+:de:starnut are_vb
 
 :le:starnutire
 :de:starnut ire_vb
@@ -27400,6 +29479,9 @@
 :le:storpiare
 :de:storpi are_vb
 
+:le:storre
+:de:st orre_vb
+
 :le:stozzare
 :de:stozz are_vb
 
@@ -27411,6 +29493,9 @@
 
 :le:strabere
 :de:strab ere_vb
+
+:le:strabiliare
+:de:strabili are_vb
 
 :le:strabilire
 :de:strabil ire_vb
@@ -27435,6 +29520,9 @@
 
 :le:straccicalare
 :de:straccical are_vb
+
+:le:stracocere
+:de:stracoc ere_vb
 
 :le:stracuocere
 :de:stracuoc ere_vb
@@ -27616,6 +29704,9 @@
 :le:straripare
 :de:strarip are_vb
 
+:le:strarre
+:de:str arre_vb
+
 :le:strasapere
 :de:strasap ere_vb
 
@@ -27646,6 +29737,9 @@
 :le:stratificare
 :de:stratifi care_vb
 
+:le:stravalcare
+:de:straval care_vb
+
 :le:stravalicare
 :de:stravali care_vb
 
@@ -27669,6 +29763,9 @@
 
 :le:stravisare
 :de:stravis are_vb
+
+:le:straviziare
+:de:stravizi are_vb
 
 :le:stravizzare
 :de:stravizz are_vb
@@ -27910,6 +30007,12 @@
 :le:subdividere
 :de:subdivid ere_vb
 
+:le:subdure
+:de:subdure irreg_vb
+
+:le:subdurre
+:de:subd urre_vb
+
 :le:subentrare
 :de:subentr are_vb
 
@@ -27949,6 +30052,9 @@
 :le:subterfuggere
 :de:subterfugg ere_vb
 
+:le:subtrarre
+:de:subtr arre_vb
+
 :le:succedere
 :de:succed ere_vb
 
@@ -27966,6 +30072,9 @@
 
 :le:succidere
 :de:succid ere_vb
+
+:le:succignere
+:de:succign ere_vb
 
 :le:succingere
 :de:succing ere_vb
@@ -28089,6 +30198,9 @@
 
 :le:supplire
 :de:suppl ire_vb
+
+:le:supporre
+:de:supp orre_vb
 
 :le:supportare
 :de:support are_vb
@@ -28239,6 +30351,9 @@
 
 :le:svernare
 :de:svern are_vb
+
+:le:sverre
+:de:sverre irreg_vb
 
 :le:svertare
 :de:svert are_vb
@@ -28401,6 +30516,9 @@
 
 :le:tannare
 :de:tann are_vb
+
+:le:tantaleggiare
+:de:tantaleg giare_vb
 
 :le:tantalizzare
 :de:tantalizz are_vb
@@ -28567,6 +30685,9 @@
 :le:tesaurizzare
 :de:tesaurizz are_vb
 
+:le:tesorare
+:de:tesor are_vb
+
 :le:tesoreggiare
 :de:tesoreg giare_vb
 
@@ -28584,6 +30705,9 @@
 
 :le:testificare
 :de:testifi care_vb
+
+:le:testimoniare
+:de:testimoni are_vb
 
 :le:testimonare
 :de:testimon are_vb
@@ -28723,6 +30847,9 @@
 :le:torpere
 :de:torp ere_vb
 
+:le:torre
+:de:t orre_vb
+
 :le:torrefare
 :de:torref are_vb
 
@@ -28837,8 +30964,14 @@
 :le:tradire
 :de:trad ire_vb
 
+:le:tradurre
+:de:trad urre_vb
+
 :le:traere
 :de:tra ere_vb
+
+:le:trafallare
+:de:trafall are_vb
 
 :le:trafalsare
 :de:trafals are_vb
@@ -28963,6 +31096,9 @@
 :le:tramischiare
 :de:tramischi are_vb
 
+:le:tramittarsi
+:de:tramitt arsi_vb
+
 :le:trammettere
 :de:trammett ere_vb
 
@@ -29053,6 +31189,9 @@
 :le:trapanare
 :de:trapan are_vb
 
+:le:traparere
+:de:trapar ere_vb
+
 :le:traparire
 :de:trapar ire_vb
 
@@ -29068,11 +31207,17 @@
 :le:trapiantare
 :de:trapiant are_vb
 
+:le:traporre
+:de:trap orre_vb
+
 :le:traportare
 :de:traport are_vb
 
 :le:trappolare
 :de:trappol are_vb
+
+:le:trapporre
+:de:trapp orre_vb
 
 :le:trapportare
 :de:trapport are_vb
@@ -29092,6 +31237,9 @@
 :le:traripare
 :de:trarip are_vb
 
+:le:trarre
+:de:tr arre_vb
+
 :le:trarupare
 :de:trarup are_vb
 
@@ -29110,8 +31258,17 @@
 :le:trasapere
 :de:trasap ere_vb
 
+:le:trasattarsi
+:de:trasatt arsi_vb
+
 :le:trascannare
 :de:trascann are_vb
+
+:le:trascegliere
+:de:trascegli ere_vb
+
+:le:trascerre
+:de:trascerre irreg_vb
 
 :le:trascendere
 :de:trascend ere_vb
@@ -29206,6 +31363,9 @@
 :le:trasponere
 :de:traspon ere_vb
 
+:le:trasporre
+:de:trasp orre_vb
+
 :le:trasportare
 :de:trasport are_vb
 
@@ -29265,6 +31425,9 @@
 
 :le:travagliare
 :de:travagli are_vb
+
+:le:travalicare
+:de:travali care_vb
 
 :le:travalcare
 :de:traval care_vb
@@ -29371,6 +31534,9 @@
 :le:trincare
 :de:trin care_vb
 
+:le:trincerare
+:de:trincer are_vb
+
 :le:trinceare
 :de:trince are_vb
 
@@ -29436,6 +31602,9 @@
 
 :le:truccare
 :de:truc care_vb
+
+:le:trucchiare
+:de:trucchi are_vb
 
 :le:trucciare
 :de:truc ciare_vb
@@ -29551,6 +31720,9 @@
 :le:ugnare
 :de:ugn are_vb
 
+:le:uguagliare
+:de:uguagli are_vb
+
 :le:ugualare
 :de:ugual are_vb
 
@@ -29572,6 +31744,9 @@
 :le:umettare
 :de:umett are_vb
 
+:le:umida\re
+:de:umida\re irreg_vb
+
 :le:umidire
 :de:umid ire_vb
 
@@ -29583,6 +31758,9 @@
 
 :le:umilire
 :de:umil ire_vb
+
+:le:uncinare
+:de:uncin are_vb
 
 :le:uncicare
 :de:unci care_vb
@@ -30198,6 +32376,9 @@
 
 :le:zinziculare
 :de:zinzicul are_vb
+
+:le:zinzinare
+:de:zinzin are_vb
 
 :le:zinzinnare
 :de:zinzinn are_vb
