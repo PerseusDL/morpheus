@@ -87,6 +87,7 @@ ox_adj		015	adj3
 ix_adj		016	adj3
 s_tis_adj	017	adj3
 eps_ipitis	020	adj3
+ex_icis_adj	021	adj3
 irreg_adj3	040	adj3
 conj1 01 pp_pr
 conj2 02 pp_pr

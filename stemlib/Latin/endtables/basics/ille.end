@@ -4,7 +4,7 @@ a	fem nom sg
 ius	masc fem neut gen sg
 i_	masc fem neut dat sg
 um	masc acc sg
-am	masc acc sg
+am	fem acc sg
 #leave out neuter
 @decl1	fem pl
 @decl2  masc neut pl

@@ -340,6 +340,7 @@ de-co decas
 de-co deceris
 de-co decor
 de-curo decures
+de-curro decurro
 de-curto decurto
 de-duco deduco
 de-ducto deductor

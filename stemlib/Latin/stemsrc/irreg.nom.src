@@ -49,6 +49,11 @@ carn@decl3_i	irreg_nom3  fem
 Cere_s		irreg_nom3 fem nom sg
 Cere^r@decl3	irreg_nom3 fem sg
 
+:le:cor
+cor	neut nom voc acc sg irreg_nom3
+cord@decl3	irreg_nom3 neut	
+
+
 :le:duo
 duo	irreg_adj3 masc neut nom pl
 duae	irreg_adj3 fem nom pl
@@ -90,7 +95,7 @@ iter	irreg_nom3 neut nom/voc/acc sg
 itiner@decl3	irreg_nom3 neut
 
 :le:Iuppiter
-Iuppiter	irreg_nom3 masc nom sg
+Iuppiter	irreg_nom3 masc nom voc sg
 Iov@decl3	irreg_nom3 masc sg
 
 
@@ -107,7 +112,7 @@ nix	irreg_nom3 fem nom sg
 niv@decl3_i 	irreg_nom3 fem
 
 :le:hic
-:wd:hic demonstr masc nom sg
+:wd:hi_c demonstr masc nom sg
 :wd:haec demonstr fem nom sg
 :wd:hoc demonstr neut nom/acc sg
 :wd:huius	demonstr masc/fem/neut gen sg
@@ -115,6 +120,8 @@ niv@decl3_i 	irreg_nom3 fem
 :wd:huic	demonstr masc/fem/neut dat sg
 :wd:hunc demonstr masc acc sg
 :wd:hanc demonstr fem acc sg
+:wd:ho_c demonstr masc neut abl sg
+:wd:ha_c demonstr fem abl sg
 :wd:hi_sce	demonstr masc fem neut dat pl
 :wd:hi_sce	demonstr masc fem neut abl pl
 h@decl1	demonstr fem pl
@@ -391,7 +398,7 @@ si_@quis	interrog
 
 
 :le:ipse
-:wd:ipse demonstr neut nom voc sg
+:wd:ipse demonstr masc nom voc sg
 :wd:ipsum demonstr neut nom voc acc sg
 :wd:ipsa demonstr fem nom voc sg
 ips@ille demonstr
@@ -458,20 +465,20 @@ no_bismet	pron1 masc fem abl pl
 no_bismet	pron1 masc fem dat pl
 no_smet	pron1 masc fem nom acc pl
 
-:le:tu_
-tu_	pron2 masc fem nom sg
+:le:tu
+tu_	pron2 masc fem nom voc sg
 tui_	pron2 masc fem gen sg
 tibi	pron2 masc fem dat sg
 te_	pron2 masc fem acc sg
 te_	pron2 masc fem abl sg
-vo_s	pron2 masc fem nom pl
+vo_s	pron2 masc fem nom voc pl
 vostrum	pron2 masc fem gen pl
 vestri_	pron2 masc fem gen pl
 vo_s	pron2 masc fem acc pl
 vo_bis	pron2 masc fem abl pl
 vo_bis	pron2 masc fem dat pl
 
-:le:sui_
+:le:sui
 sui_	pron3 masc fem gen sg
 sibi	pron3 masc fem dat sg
 se_	pron3 masc fem acc sg
@@ -485,6 +492,11 @@ se_	pron3 masc fem acc pl
 se_se_	pron3 masc fem acc pl
 se_	pron3 masc fem abl pl
 se_se_	pron3 masc fem abl pl
+
+
+:le:lac
+lac	irreg_nom3 neut nom voc acc sg
+lact@decl3	irreg_nom3 neut
 
 :le:mel
 :wd:mel		irreg_decl3 neut nom/voc/acc sg

@@ -163,6 +163,12 @@
 :le:curo
 :de:cu_r	are_vb
 
+:le:curro
+:vs:curr	conj3
+:vs:cucurr	perfstem
+:vs:curr	perfstem comp_only
+:vs:curs	pp4
+
 :le:decet
 :vs:dec	conj2	3rd sg
 :vs:decu	perfstem	3rd sg

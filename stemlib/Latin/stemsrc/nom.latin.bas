@@ -24,6 +24,9 @@
 :wd:aetheros	irreg_nom3	gen sg masc
 :wd:aethera	irreg_nom3	acc sg masc
 
+:le:Aethiops
+:no:Aethiop	s_is masc fem
+
 :le:Agamemnon
 :no:A^ga^memn	oLn_onis masc
 :wd:A^ga^memno	oLn_onis masc voc sg
@@ -168,7 +171,9 @@
 :aj:cele^b er_ris_re
 
 :le:celer#1
-:aj:cel		er_era_erum 
+:aj:cel	er_era_erum superl
+@	comp
+:aj:celer		0_adj3 
 
 :le:celsus#1
 :aj:cels	us_a_um
@@ -188,6 +193,10 @@
 :wd:Chao	irreg_nom3 masc abl sg
 :wd:Chai	irreg_nom3 masc gen sg
 :wd:Chai	irreg_nom3 masc dat sg
+
+:le:circum
+:wd:circum	prep
+:wd:circum	adverb
 
 :le:citer
 :aj:cit	er_ra_rum no_comp
@@ -250,6 +259,7 @@
 
 :le:cum
 :wd:cum		conj
+:wd:cum		prep
 :wd:quom	conj
 :wd:quum	conj
 
@@ -407,6 +417,9 @@
 :wd:materfamilias	irreg_decl3 nom fem sg
 :wd:matresfamilias	irreg_decl3 nom fem pl
 
+:le:fas
+:wd:fas	indecl
+
 :le:fax
 :no:fa^		x_cis fem
 
@@ -517,6 +530,10 @@
 :no:Iarb	as_ae masc
 :no:Hiarb	as_ae masc
 
+:le:imber
+:no:imb	er_ris masc
+:wd:imbri er_ris masc abl sg
+
 :le:imperator
 :no:impe^ra_t	or_oris masc
 :no:inpe^ra_t	or_oris masc
@@ -575,6 +592,10 @@
 :le:juvenis
 :aj:juven 	is_e 
 :no:juven 	is_is_C masc
+
+:le:juxta
+:wd:juxta	prep
+:wd:juxta	adverb
 
 :le:lacrima
 :no:la_crim 	a_ae fem
@@ -690,6 +711,9 @@
 :le:mons
 :no:mon		s_tis masc
 
+:le:nam
+:wd:nam	conj
+
 :le:natis
 :no:nat	is_is fem
 
@@ -803,6 +827,9 @@
 :le:par
 :aj:par		0_adj3
 
+:le:parens#2
+:no:par	ens_entis masc fem
+
 :le:pars
 :no:par		s_tis fem
 :wd:partim	adverb
@@ -865,6 +892,9 @@
 :no:Piraee	us_i masc
 :no:Pirae	us_i masc
 :no:Pirae	us_i neut pl
+
+:le:pius
+:aj:pi	us_a_um
 
 :le:Plato
 :no:Plat	o_oLnis masc
@@ -1068,6 +1098,10 @@
 :le:si
 :wd:si	conj
 
+:le:sive
+:wd:sive	conj
+:wd:seu	conj
+
 :le:sicut
 :wd:sicut	conj
 
@@ -1100,6 +1134,10 @@
 
 :le:stirps
 :no:stirp	s_is fem
+
+:le:supra
+:wd:su_pra_	prep
+:wd:su_pra_	adverb
 
 :le:tametsi
 :wd:tametsi	conj
@@ -1227,6 +1265,9 @@
 :le:viciens
 :wd:viciens	adverb
 :wd:vicie_s	adverb
+
+:le:vigil
+:aj:vigil	0_adj3
 
 :le:viginti
 :wd:vi_ginti	numeral

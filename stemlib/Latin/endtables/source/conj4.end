@@ -30,7 +30,7 @@ i_re	pres inf act
 
 # passives
 ior	pres ind pass 1st sg
-ieris	pres ind pass 2nd sg
+i_ris	pres ind pass 2nd sg
 iere	pres ind pass 2nd sg
 i_tur	pres ind pass 3rd sg
 i_mur	pres ind pass 1st pl

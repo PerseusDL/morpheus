@@ -62,7 +62,6 @@ set_orth(int tlen)
 	if(*s == ';' || *s == ':' ) *s = 0;
 
 	if( sameend(curpat,curstem) ) {
-printf("curpat [%s]\n", curpat );
 		strcpy(orthtab[0],curpat);
 	}
 }
@@ -384,7 +383,7 @@ if( is_itype("a","us") )	return( dump_adj('u',"us_a_um","",""));
 	if( is_itype("vi^ri","ir") ) return( dump_nom(-1,"0_i"," masc",""));
 	if( is_itype("i^nis","men") ) return( dump_nom('m',"men_minis"," neut",""));
 	if( is_itype("dri","er") ) return( dump_nom('e',"er_ri"," masc",""));
-	if( is_itype("i^tis","es") ) return( dump_nom('e',"es_itis"," masc",""));
+	if( is_itype("i^tis","es") ) return( dump_nom('e',"es_itis"," masc fem",""));
 	if( is_itype("a_tis","as") ) return( dump_nom('t',"tas_tatis"," fem",""));
 	if( is_itype("e^tis","es") ) return( dump_nom('s',"s_tis"," masc fem",""));
 	if( is_itype("e_tis","es") ) return( dump_nom('e',"es_eLtis"," masc",""));
@@ -447,6 +446,8 @@ if( is_itype("a, um","ius") )	return( dump_adj('i',"ius_ia_ium","",""));
 if( is_itype("a","i^us") )	return( dump_adj('i',"ius_ia_ium","",""));
 if( is_itype("a","ius") )	return( dump_adj('i',"ius_ia_ium","",""));
 if( is_itype("a","us") )	return( dump_adj('u',"us_a_um","",""));
+if( is_itype("o^ris","or") )	return( dump_adj(-1,"0_adj3","",""));
+if( is_itype("i^cis","ex") )	return( dump_adj('e',"ex_icis_adj","",""));
 	if( is_itype("a, um","us") )	return( dump_adj('u',"us_a_um","",""));
 	if( is_itype("fe^ra, fe^rum","er") )	return( dump_adj('e',"er_era_erum","",""));
 	if( is_itype("tris, e","er") )	return( dump_adj('e',"er_ris_re","",""));

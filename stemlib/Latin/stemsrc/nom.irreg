@@ -40,10 +40,10 @@
 :wd:alio_   irreg_nom2 masc/neut dat sg
 :wd:aliae   irreg_nom2 fem dat sg
 :wd:alium   irreg_nom2 masc acc sg
-:wd:aliam   irreg_nom2 masc acc sg
+:wd:aliam   irreg_nom2 fem acc sg
 :wd:alio_   irreg_nom2 masc/neut abl sg
 :wd:alia_   irreg_nom2 fem abl sg
-:wd:alii_   irreg_nom2 masc nom pl
+:wd:alii_   irreg_nom2 masc nom/voc pl
 :wd:aliae   irreg_nom2 fem nom/voc pl
 :wd:alia   irreg_nom2 neut nom/voc/acc pl
 :wd:aliu_m   irreg_nom2 masc/neut gen pl poetic
@@ -108,6 +108,16 @@
 :wd:Cere^rem   irreg_nom3 fem acc sg
 :wd:Cere^re   irreg_nom3 fem abl sg
 
+:le:cor
+:wd:cor   irreg_nom3 neut nom/voc/acc sg
+:wd:cordis   irreg_nom3 neut gen sg
+:wd:cordi_   irreg_nom3 neut dat sg
+:wd:corde   irreg_nom3 neut abl sg
+:wd:corda   irreg_nom3 neut nom/voc/acc pl
+:wd:cordum   irreg_nom3 neut gen pl
+:wd:cordibus   irreg_nom3 neut dat pl
+:wd:cordibus   irreg_nom3 neut abl pl
+
 :le:duo
 :wd:duo   irreg_adj3 masc/neut nom pl
 :wd:duae   irreg_adj3 fem nom pl
@@ -153,10 +163,10 @@
 :wd:isto_   demonstr masc/neut dat sg
 :wd:istae   demonstr fem dat sg
 :wd:istum   demonstr masc acc sg
-:wd:istam   demonstr masc acc sg
+:wd:istam   demonstr fem acc sg
 :wd:isto_   demonstr masc/neut abl sg
 :wd:ista_   demonstr fem abl sg
-:wd:isti_   demonstr masc nom pl
+:wd:isti_   demonstr masc nom/voc pl
 :wd:istae   demonstr fem nom/voc pl
 :wd:ista   demonstr neut nom/voc/acc pl
 :wd:istu_m   demonstr masc/neut gen pl poetic
@@ -180,7 +190,7 @@
 :wd:itineribus   irreg_nom3 neut abl pl
 
 :le:Iuppiter
-:wd:Iuppiter   irreg_nom3 masc nom sg
+:wd:Iuppiter   irreg_nom3 masc nom/voc sg
 :wd:Iovis   irreg_nom3 masc gen sg
 :wd:Iovi_   irreg_nom3 masc dat sg
 :wd:Iovem   irreg_nom3 masc acc sg
@@ -221,7 +231,7 @@
 :wd:nivibus   irreg_nom3 fem abl pl
 
 :le:hic
-:wd:hic demonstr masc nom sg
+:wd:hi_c demonstr masc nom sg
 :wd:haec demonstr fem nom sg
 :wd:hoc demonstr neut nom/acc sg
 :wd:huius	demonstr masc/fem/neut gen sg
@@ -229,9 +239,11 @@
 :wd:huic	demonstr masc/fem/neut dat sg
 :wd:hunc demonstr masc acc sg
 :wd:hanc demonstr fem acc sg
+:wd:ho_c demonstr masc neut abl sg
+:wd:ha_c demonstr fem abl sg
 :wd:hi_sce	demonstr masc fem neut dat pl
 :wd:hi_sce	demonstr masc fem neut abl pl
-:wd:hi_   demonstr masc nom pl
+:wd:hi_   demonstr masc nom/voc pl
 :wd:hae   demonstr fem nom/voc pl
 :wd:haec   demonstr neut nom/acc pl
 :wd:hu_m   demonstr masc gen pl poetic
@@ -269,25 +281,25 @@
 :wd:ollae   demonstr fem dat sg
 :wd:illae   demonstr fem dat sg
 :wd:ollum   demonstr masc acc sg
-:wd:illam   demonstr masc acc sg
 :wd:illum   demonstr masc acc sg
-:wd:ollam   demonstr masc acc sg
-:wd:illo_   demonstr masc/neut abl sg
+:wd:illam   demonstr fem acc sg
+:wd:ollam   demonstr fem acc sg
 :wd:ollo_   demonstr masc/neut abl sg
+:wd:illo_   demonstr masc/neut abl sg
 :wd:olla_   demonstr fem abl sg
 :wd:illa_   demonstr fem abl sg
-:wd:illi_   demonstr masc nom pl
-:wd:olli_   demonstr masc nom pl
-:wd:illae   demonstr fem nom/voc pl
+:wd:illi_   demonstr masc nom/voc pl
+:wd:olli_   demonstr masc nom/voc pl
 :wd:ollae   demonstr fem nom/voc pl
+:wd:illae   demonstr fem nom/voc pl
 :wd:olla   demonstr neut nom/voc/acc pl
 :wd:illa   demonstr neut nom/voc/acc pl
 :wd:illu_m   demonstr masc/neut gen pl poetic
+:wd:ollo_rum   demonstr masc/neut gen pl
 :wd:illo_rum   demonstr masc/neut gen pl
 :wd:ollu_m   demonstr masc/neut gen pl poetic
-:wd:ollo_rum   demonstr masc/neut gen pl
-:wd:olla_rum   demonstr fem gen pl
 :wd:illa_rum   demonstr fem gen pl
+:wd:olla_rum   demonstr fem gen pl
 :wd:olli_s   demonstr masc/neut dat pl
 :wd:illi_s   demonstr masc/neut dat pl
 :wd:olli_s   demonstr fem dat pl
@@ -667,7 +679,7 @@
 :wd:si_quibus   interrog masc/fem/neut abl pl
 
 :le:ipse
-:wd:ipse demonstr neut nom voc sg
+:wd:ipse demonstr masc nom voc sg
 :wd:ipsum demonstr neut nom voc acc sg
 :wd:ipsa demonstr fem nom voc sg
 :wd:ipsa   demonstr fem nom sg
@@ -676,10 +688,10 @@
 :wd:ipso_   demonstr masc/neut dat sg
 :wd:ipsae   demonstr fem dat sg
 :wd:ipsum   demonstr masc acc sg
-:wd:ipsam   demonstr masc acc sg
+:wd:ipsam   demonstr fem acc sg
 :wd:ipso_   demonstr masc/neut abl sg
 :wd:ipsa_   demonstr fem abl sg
-:wd:ipsi_   demonstr masc nom pl
+:wd:ipsi_   demonstr masc nom/voc pl
 :wd:ipsae   demonstr fem nom/voc pl
 :wd:ipsa   demonstr neut nom/voc/acc pl
 :wd:ipsu_m   demonstr masc/neut gen pl poetic
@@ -702,7 +714,7 @@
 :wd:eam   pron3 fem acc sg
 :wd:eo_   pron3 masc/neut abl sg
 :wd:ea_   pron3 fem abl sg
-:wd:ei_   pron3 masc nom pl
+:wd:ei_   pron3 masc nom/voc pl
 :wd:eae   pron3 fem nom/voc pl
 :wd:ea   pron3 neut nom/voc/acc pl
 :wd:eo_rum   pron3 masc/neut gen pl
@@ -760,20 +772,20 @@
 :wd:no_bis   pron1 masc/fem abl pl
 :wd:no_bismet   pron1 masc/fem abl pl
 
-:le:tu_
-:wd:tu_   pron2 masc/fem nom sg
+:le:tu
+:wd:tu_   pron2 masc/fem nom/voc sg
 :wd:tui_   pron2 masc/fem gen sg
 :wd:tibi   pron2 masc/fem dat sg
 :wd:te_   pron2 masc/fem acc sg
 :wd:te_   pron2 masc/fem abl sg
-:wd:vo_s   pron2 masc/fem nom pl
+:wd:vo_s   pron2 masc/fem nom/voc pl
 :wd:vostrum   pron2 masc/fem gen pl
 :wd:vestri_   pron2 masc/fem gen pl
 :wd:vo_bis   pron2 masc/fem dat pl
 :wd:vo_s   pron2 masc/fem acc pl
 :wd:vo_bis   pron2 masc/fem abl pl
 
-:le:sui_
+:le:sui
 :wd:sui_   pron3 masc/fem gen sg
 :wd:sibi   pron3 masc/fem dat sg
 :wd:se_   pron3 masc/fem acc sg
@@ -786,6 +798,16 @@
 :wd:se_se_   pron3 masc/fem acc pl
 :wd:se_   pron3 masc/fem abl pl
 :wd:se_se_   pron3 masc/fem abl pl
+
+:le:lac
+:wd:lac   irreg_nom3 neut nom/voc/acc sg
+:wd:lactis   irreg_nom3 neut gen sg
+:wd:lacti_   irreg_nom3 neut dat sg
+:wd:lacte   irreg_nom3 neut abl sg
+:wd:lacta   irreg_nom3 neut nom/voc/acc pl
+:wd:lactum   irreg_nom3 neut gen pl
+:wd:lactibus   irreg_nom3 neut dat pl
+:wd:lactibus   irreg_nom3 neut abl pl
 
 :le:mel
 :wd:mel		irreg_decl3 neut nom/voc/acc sg
