@@ -2,5 +2,6 @@ is	masc fem nom/voc sg
 e	neut nom/voc/acc sg
 @decl3_i masc fem neut
 i_	masc fem neut abl sg
+iter	adverbial
 @comp_adj comp
 @superl_adj superl
