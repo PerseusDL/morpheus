@@ -48,6 +48,8 @@ CombPbStemL(char *curpb, char *restofs, Dialect dial, MorphFlags *pbflags)
 	lastc = *(curpb + strlen(curpb) - 1);
 	
 
+	if( !strcmp("amb",curpb) && !strchr("aeiou",*restofs) ) return(NO);
+
 	if( !strcmp("sub",curpb) || ! strcmp("ob",curpb) ) {
 		switch(*restofs) {
 			case 'c':
@@ -66,6 +68,44 @@ CombPbStemL(char *curpb, char *restofs, Dialect dial, MorphFlags *pbflags)
 			add_morphflag(pbflags,RAW_PREVERB);
 		}
 		return(YES);
+	}
+
+	if( !strcmp("trans",curpb)) {
+		switch(*restofs) {
+			case 'i':
+			case 'j':
+			case 'd':
+			case 'l':
+			case 'm':
+			case 'n':
+			case 's':
+				add_morphflag(pbflags,RAW_PREVERB);
+				break;
+			default:
+				break;
+		}
+		return(YES);
+	}
+	if( !strcmp("dis",curpb)) {
+
+		/* dis-di --> unchanged */
+		if( !strncmp("di",restofs,2) ) return(YES);
+
+		switch(*restofs) {
+			case 'b':
+			case 'd':
+			case 'g':
+			case 'l':
+			case 'm':
+			case 'n':
+			case 'r':
+			case 'v':
+			case 'f':
+				add_morphflag(pbflags,RAW_PREVERB);
+				break;
+			default:
+				break;
+		}
 	}
 
 	if( !strcmp("sub",curpb)) {

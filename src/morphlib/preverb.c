@@ -222,6 +222,49 @@ rstprevb(char *word, char *prevb, gk_string *gstr)
 			}
 		}
 
+		if( !strcmp(prevb,"trans") ) {
+
+			switch(*word) {
+				case 'i':
+				case 'j':
+				case 'd':
+				case 'l':
+				case 'm':
+				case 'n':
+					*(t-1) = 0;
+					break;
+				case 's':
+					*t = 0;
+					break;
+				default:
+					break;
+			}
+		}
+
+/* 
+ * dis- unchanged before "di" but loses 's' before 'd' otherwise 
+ */
+		if( !strcmp(prevb,"dis") && strncmp(word,"di",2)  ) {
+
+			switch(*word) {
+				case 'b':
+				case 'd':
+				case 'g':
+				case 'l':
+				case 'm':
+				case 'n':
+				case 'r':
+				case 'v':
+					*t = 0;
+					break;
+				case 'f':
+					*t = 'f';
+					break;
+				default:
+					break;
+			}
+		}
+
 		if( !strcmp(prevb,"sub") ) {
 
 			switch(*word) {

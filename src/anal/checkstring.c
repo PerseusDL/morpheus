@@ -328,17 +328,31 @@ checkstring3(gk_word *Gkword)
  * Lewis and Short stores "jubeo" rather than "iubeo".
  *
  * grc 1/28/97
- */
-	if( cur_lang() == LATIN && workword_of(Gkword)[0] == 'i' && 
-		strchr("aeou",workword_of(Gkword)[1]) ) {
-		strcpy(workword,saveword);
-		workword[0] = 'j';
+ *
+ * grc 2/7/97
+ *
+ * also, deal with sub-iectus --> sub-jectus, i.e., 'i'-'j' in middle of word
 
-		set_workword(Gkword,workword);
-		rval = checkstring3(Gkword);
-		if( rval ) {
-			set_workword(Gkword,saveword);
-			return(rval);
+ */
+	if( cur_lang() == LATIN ) {
+		char * a = workword;
+		strcpy(workword,saveword);
+
+		while(*a) {
+/*
+ * don't look for "cupjo"
+ */
+			if( *a == 'i' && *(a+2) && strchr("aeiou",*(a+1)) ) {
+				*a = 'j';
+
+				set_workword(Gkword,workword);
+				rval = checkstring3(Gkword);
+				if( rval ) {
+					set_workword(Gkword,saveword);
+					return(rval);
+				}
+			}
+			a++;
 		}
 	}
 

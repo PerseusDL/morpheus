@@ -9,7 +9,8 @@ char *fullkeys[] = {
 		"pf",
 		"pp",
 		"ap",
-		"fp"
+		"fp",
+		"p4" /* latin 4th principle part */
 		"va" /* verbal adjective */
 		"vn" /* verbal noun */
 		};

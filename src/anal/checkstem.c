@@ -63,6 +63,7 @@ static init_stor = 0;
 /*
 printf("rval %d poss stem [%s] endkeys {%s] curstem [%s]\n", rval, poss_stem,endkeys,curstemkeys);
 */
+
 	if( rval ) {
 
 		if( curstemkeys[0] ) {
@@ -81,6 +82,7 @@ printf("rval %d poss stem [%s] endkeys {%s] curstem [%s]\n", rval, poss_stem,end
  */
 	if( Is_cons( *poss_stem ) )
 		goto finish;
+
 
 	poss_augs = unaugment(poss_stem,tstemtab,tqstemtab,MAXAUGSTEMS,ALL_DIAL,1,0);
 

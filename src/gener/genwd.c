@@ -225,7 +225,6 @@ gk_word *
 	char * preverb;
 	Dialect dial;
 
-printf("in irreg: keys [%s]\n", keys );
 	Xstrncpy(stemkeys,keys,LONGSTRING);
 /*
  * note that we allocate an array of at least two members long 
