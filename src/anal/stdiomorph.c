@@ -180,7 +180,7 @@ printf("outname [%s]\n", outname );
     trimwhite(line);
 
     if( isspace(line[0]) && ! line[0] ) continue;
-    if(!isalpha(line[0]) && line[0] !='*' && line[0] != '!' ) {
+    if( line[0] == '#' ) {
 	fprintf(foutput,"%s\n", line );
 	continue;
     }
