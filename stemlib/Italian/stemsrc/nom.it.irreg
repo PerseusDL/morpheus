@@ -43,7 +43,29 @@
 :wd:dalla	article fem abl sg
 :wd:dalle	article fem abl pl
 
+:wd:nel		article masc sg
+:wd:nello	article masc sg
+:wd:nell'	article masc sg
+:wd:nei		article masc pl
+:wd:negli	article masc pl
+:wd:nella	article fem sg
+:wd:nelle	article fem pl
 
+:wd:col		article masc sg
+:wd:collo	article masc sg
+:wd:coll'	article masc sg
+:wd:coi		article masc pl
+:wd:cogli	article masc pl
+:wd:colla	article fem sg
+:wd:colle	article fem pl
+
+:wd:sul		article masc sg
+:wd:sullo	article masc sg
+:wd:sull'	article masc sg
+:wd:sui		article masc pl
+:wd:sugli	article masc pl
+:wd:sulla	article fem sg
+:wd:sulle	article fem pl
 
 :le:braccio
 :wd:braccia	 irreg_nom masc pl
