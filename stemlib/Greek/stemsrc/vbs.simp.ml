@@ -6402,6 +6402,7 @@
 :vs:e)eip aor1 ind act epic has_augment
 :vs:e)sp aor2 2nd pl aor imperat act epic
 :vb:ei)pe/ aor2 2nd sg imperat act aor
+:vb:ei)po/n aor2 2nd sg imperat act aor late
 
 :le:ei(/rgnumi
 :de:ei(rg numi
