@@ -108972,6 +108972,9 @@ La_nu^vi_ni
 
 
 lanx		<itype>lancis</itype>	<gen>f.</gen>
+:le:lanx
+:no:lan	x_cis fem
+
 La_o^co^on		<orth type=alt>Lauco^on</orth>	
 :le:Laocoon
 :no:La_o^co^	on_ontis masc
@@ -186579,6 +186582,12 @@ se_ri^a
 
 	<pos>adv.</pos>
 se_ri^o_		<orth>se_ri^e_</orth>
+:le:serie
+:wd:se_ri^e_	adverb
+
+:le:serio
+:wd:se_ri^o_	adverb
+
 sermo		
 :le:sermo
 :no:serm	o_oLnis masc
@@ -210304,7 +210313,10 @@ tu_tum
 	<pos>adv.</pos>
 tu_te_		<orth>tu_to_</orth>	<orth>tu_fa</orth>	
 :le:tute
-:no:tu_t	a_ae fem
+:wd:tu_te_	adverb
+
+:le:tuto
+:wd:tu_to_	adverb
 
 
 Tugi^o		
