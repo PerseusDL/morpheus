@@ -462,18 +462,17 @@ ips@ille demonstr
 :le:is
 e@decl1 pron3 fem nom sg
 eius	pron3 masc fem neut gen sg
-e@decl2	pron3 masc fem neut dat sg
+ei_	pron3 masc fem neut dat sg
 e@decl1 pron3 fem acc sg
 e@decl1 pron3 fem abl sg
 
 e@decl1 pron3 fem pl
 ii_s	pron3 masc fem neut dat pl
-
+ii_	pron3 masc nom pl
 :wd:is 	pron3 masc nom sg
 :wd:id 	pron3 neut nom/acc sg
 e@decl2	pron3 masc neut abl sg
 e@decl2	pron3 masc acc sg
-
 e@decl2 pron3 masc neut pl
 
 :le:idem

@@ -801,12 +801,13 @@
 :wd:id 	pron3 neut nom/acc sg
 :wd:ea   pron3 fem nom sg
 :wd:eius   pron3 masc/fem/neut gen sg
-:wd:eo_   pron3 masc/fem/neut dat sg
+:wd:ei_   pron3 masc/fem/neut dat sg
 :wd:eum   pron3 masc acc sg
 :wd:eom   pron3 masc acc sg early
 :wd:eam   pron3 fem acc sg
 :wd:eo_   pron3 masc/neut abl sg
 :wd:ea_   pron3 fem abl sg
+:wd:ii_   pron3 masc nom pl
 :wd:ei_   pron3 masc nom/voc pl
 :wd:eae   pron3 fem nom/voc pl
 :wd:ea   pron3 neut nom/voc/acc pl
