@@ -1014,6 +1014,12 @@
 :wd:pedi_s   irreg_nom3 masc acc pl
 :wd:pedibus   irreg_nom3 masc abl pl
 
+:le:rabies
+:wd:rabies   irreg_nom3 fem nom sg
+:wd:rabies   irreg_nom3 fem gen sg
+:wd:rabiem   irreg_nom3 fem acc sg
+:wd:rabie   irreg_nom3 fem abl sg
+
 :le:rus
 :wd:rus   irreg_nom3 neut nom/voc/acc sg
 :wd:ruris   irreg_nom3 neut gen sg

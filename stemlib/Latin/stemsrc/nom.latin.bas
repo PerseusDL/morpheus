@@ -1222,6 +1222,7 @@
 
 :le:totiens
 :wd:totiens	adverb
+:wd:toties	adverb orth
 
 :le:totidem
 :wd:totidem	adverb

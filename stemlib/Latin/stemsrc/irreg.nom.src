@@ -618,6 +618,12 @@ pelage_		irreg_nom2 neut nom voc acc pl
 pe_s	irreg_nom3 masc nom voc sg
 ped@decl3_i	irreg_nom3 masc
 
+:le:rabies
+rabies	irreg_nom3 fem nom sg
+rabies	irreg_nom3 fem gen sg
+rabiem	irreg_nom3 fem acc sg
+rabie	irreg_nom3 fem abl sg
+
 :le:rus
 rus	irreg_nom3 neut nom voc acc sg 
 rur@decl3	irreg_nom3 neut 

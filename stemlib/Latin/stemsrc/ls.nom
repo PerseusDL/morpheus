@@ -15699,8 +15699,10 @@ a^ri^e_na
 :le:ariena
 :no:a^ri^e_n	a_ae fem
 
-
 a^ri^e_s		<itype>i^e_tis</itype>	<gen>m.</gen>
+:le:aries
+:no:a^ri^	es_eLtis fem
+
 arvix		<orth>harvix</orth>
 a^ri^e^ta_ri^us		
 :le:arietarius
@@ -112639,6 +112641,10 @@ Li^burnus#2
 
 
 Li^by^a		<orth>Li^bu^a</orth>	<orth>Li^by^e_</orth>	<itype>e_s</itype>	<gen>f.</gen>
+:le:Libya
+:no:Liby	a_ae fem
+:no:Liby	e_es fem orth
+
 Li^by^cus		
 :le:Libycus
 :aj:Li^by^c	us_a_um
@@ -122901,6 +122907,9 @@ me^mo^randus
 
 
 Memphis		<itype>is and i^dos</itype>	<gen>f.</gen>
+:le:Memphis
+:no:Memph	is_is fem
+
 Memphi_tes		
 :le:Memphites
 :no:Memphi_t	es_ae masc
@@ -172397,7 +172406,9 @@ ra^bi^dus
 
 	<pos>adj.</pos>
 ra^bi^-de_	
+
 ra^bi^es		<itype>em, e</itype>	<gen>f.</gen>
+
 ra^bi^o_su^lus		
 :le:rabiosulus
 :aj:ra^bi^o_su^l	us_a_um
@@ -180561,6 +180572,9 @@ sangui^su_ga
 
 
 sa^ni^es		<itype>em, e</itype>	<gen>f.</gen>
+:le:sanies
+:no:sani	es_is fem
+
 sa_ni^fer		
 :le:sanifer
 :aj:sa_ni^f	er_era_erum
@@ -189804,6 +189818,7 @@ so_la_ci^o^lum		<orth type=alt>so_la_t-</orth>
 so_la_ci^um		<orth type=alt>so_la_t-</orth>	
 :le:solacium
 :no:so_la_c	ius_i neut
+:no:so_la_t	ius_i neut orth
 
 
 so_la_go		
@@ -209391,7 +209406,6 @@ Tripto^le^mi^cus
 :le:Triptolemicus
 :aj:Tripto^le^mi^c	us_a_um
 
-
 tripto_ta		
 :le:triptota
 :no:tripto_t	us_i neut pl
@@ -209403,6 +209417,11 @@ tri^pu^di^um
 
 
 tri^pu_s		<itype>po^dis</itype>	<gen>m.</gen>
+:le:tripus
+:no:tripo	s_dis masc
+:wd:tripu_s	irreg_nom3 masc nom sg
+:wd:tripodas	irreg_nom3 masc acc pl
+
 tri^que_^trus		
 :le:triquetrus
 :aj:tri^que_^tr	us_a_um
