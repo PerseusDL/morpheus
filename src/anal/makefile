@@ -2,7 +2,7 @@
 LEXLIB = -lfl
 
 INCLUDE=../includes
-CFLAGS= -O -I${INCLUDE}  -g
+CFLAGS= -O2 -I${INCLUDE}
 RM=rm
 CC=cc
 CC=gcc

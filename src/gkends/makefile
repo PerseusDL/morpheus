@@ -1,5 +1,5 @@
 INCLUDE=../includes
-CFLAGS= -O -I${INCLUDE}  
+CFLAGS= -O2 -I${INCLUDE}  
 RM=rm
 ENDLIB=gkends.a
 CC=cc

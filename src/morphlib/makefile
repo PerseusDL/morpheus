@@ -1,5 +1,5 @@
 INCLUDE=../includes
-CFLAGS= -O   -I${INCLUDE} -g
+CFLAGS= -O2   -I${INCLUDE}
 MORPHLIB=morphlib.a
 RM=rm
 CC=cc
