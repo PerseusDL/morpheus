@@ -319,6 +319,8 @@ quga^tr@decl3 irreg_decl3 fem  acc pl needs_acc epic
 t@adj1 article  nom voc acc dual needs_acc
 t@adj1 article  gen dat needs_acc
 t@adj1 article  acc needs_acc not neut sg
+:wd:tw/ article nom voc acc fem dual
+:wd:toi=n article fem gen/dat dual
 
 :le:o)/nta
 ont@decl3 irreg_decl3 neut pl needs_acc  

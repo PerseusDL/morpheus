@@ -695,6 +695,8 @@
 :wd:ta/ article  nom voc acc neut pl 
 :wd:toi/ article  nom pl masc epic
 :wd:tai/ article  nom pl fem epic
+:wd:tw/ article nom voc acc fem dual
+:wd:toi=n article fem gen/dat dual
 :wd:tou=   article masc/neut gen sg
 :wd:tw=   article masc/neut gen sg doric aeolic
 :wd:toi=o   article masc/neut gen sg epic
