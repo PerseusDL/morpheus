@@ -147,7 +147,9 @@ printf("raw [%s] work [%s]\n", rawword_of(Gkword) , workword_of(Gkword) );
 
 /*
 printf("rval %d raw [%s] work [%s]\n", rval , rawword_of(Gkword) , workword_of(Gkword) );
-*/	
+*/
+
+	if( cur_lang() == LATIN )  return(totanal_of(Gkword));
 
 	if( (d=AndDialect(dialect_of(Gkword),(Dialect)(HOMERIC|IONIC))) >= 0 ||
 		! (dialect_of(Gkword) & PROSE) ) {
@@ -157,6 +159,7 @@ printf("rval %d raw [%s] work [%s]\n", rval , rawword_of(Gkword) , workword_of(G
 		/*d = dialect_of(Gkword);*/
 		set_morphflags(&m, morphflags_of(Gkword));
 		set_morphflags(&m2, morphflags_of(Gkword));
+
 		add_morphflag(morphflags_of(Gkword),UNAUGMENTED);
 		add_morphflag(morphflags_of(stem_gstr_of(Gkword)),UNAUGMENTED);
 		if( ! (dialect_of(Gkword) & (IONIC| PROSE ) )) 
@@ -188,8 +191,9 @@ printf("rval %d raw [%s] work [%s]\n", rval , rawword_of(Gkword) , workword_of(G
  * for now, let's see if we came up empty and then run the sucker again if
  * we did.
  */
-		if(!rval && ( ! (dialect_of(Gkword) & (IONIC| PROSE ) ))) { 
+		if(cur_lang() != LATIN && !rval && ( ! (dialect_of(Gkword) & (IONIC| PROSE ) ))) { 
 			add_morphflag(morphflags_of(Gkword),POETIC);
+
 			add_morphflag(morphflags_of(Gkword),UNAUGMENTED);
 			add_morphflag(morphflags_of(stem_gstr_of(Gkword)),UNAUGMENTED);
 			rval = checkstring3(Gkword);

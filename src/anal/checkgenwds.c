@@ -156,6 +156,7 @@ printf("liked [%s]\n", checks );
 */
 			if( AddAnalysis(Gkword,gkforms+i) )
 				hits++;
+
 			continue;
 		} 
 		near_miss(gkforms+i,checks,0);
@@ -315,7 +316,7 @@ printf("lemam now [%s]\n", lemma_of(curanal) );
 		return(0);
 	}
 */
-	if( has_morphflag(morphflags_of(stem_gstr_of(gkform)) , UNAUGMENTED ) ) {
+	if( cur_lang() != LATIN && has_morphflag(morphflags_of(stem_gstr_of(gkform)) , UNAUGMENTED ) ) {
 		if( dialect_of(curanal)) 
 			add_dialect(curanal,(dialect_of(curanal) & (HOMERIC|IONIC)) );
 		else
