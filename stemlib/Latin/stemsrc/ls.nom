@@ -51462,6 +51462,9 @@ Crustu^mi^us
 
 
 crux		<itype>u^cis</itype>	<gen>c.</gen>
+:le:crux
+:no:cru	x_cis masc
+
 Cry^phi^o^la^thro^ni^a		
 :le:Cryphiolathronia
 :no:Cry^phi^o^la^thro^ni^	a_ae fem
@@ -192607,8 +192610,8 @@ squa_ti^na
 
 
 squa_tus	
-:le:st#1
-:wd:st#1	exclam
+:le:st
+:wd:st	exclam
 Sta^be^ri^us		
 :le:Staberius
 :no:Sta^be^r	ius_i masc
