@@ -443,7 +443,7 @@ p@as_asa_an irreg_adj3  masc acc sg needs_acc
 p@as_asa_an irreg_adj3  fem needs_acc
 pas@decl1_sh irreg_adj3  fem doric needs_acc
 p@as_asa_an irreg_adj3  masc neut gen dat dual needs_acc
-p@as_asa_an irreg_adj3  masc needs_acc pl 
+p@as_asa_an irreg_adj3  masc neut needs_acc pl 
 
 :le:path/r
 #:wd:path/r irreg_decl3 masc nom sg

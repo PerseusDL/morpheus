@@ -1018,7 +1018,8 @@
 :wd:pa=sai   irreg_adj3 fem nom/voc pl attic epic ionic
 :wd:pa/sai   irreg_adj3 fem nom/voc pl doric
 :wd:pai=sai   irreg_adj3 fem nom/voc pl doric aeolic
-:wd:pa/ntwn   irreg_adj3 masc gen pl
+:wd:pa/nta   irreg_adj3 neut nom/voc/acc pl
+:wd:pa/ntwn   irreg_adj3 masc/neut gen pl
 :wd:pa_sw=n   irreg_adj3 fem gen pl attic epic ionic
 :wd:paisa_/wn   irreg_adj3 fem gen pl aeolic
 :wd:pasa=n   irreg_adj3 fem gen pl doric
@@ -1027,16 +1028,16 @@
 :wd:paisw=n   irreg_adj3 fem gen pl doric aeolic
 :wd:pa_sa_/wn   irreg_adj3 fem gen pl epic
 :wd:pa_se/wn   irreg_adj3 fem gen pl epic ionic
-:wd:pa=sin   irreg_adj3 masc dat pl attic epic ionic nu_movable
-:wd:pa=si   irreg_adj3 masc dat pl attic epic ionic
-:wd:pa/ntesin   irreg_adj3 masc dat pl nu_movable poetic
-:wd:pa/ntesi   irreg_adj3 masc dat pl poetic
-:wd:pai=sin   irreg_adj3 masc dat pl doric aeolic nu_movable
-:wd:pai=si   irreg_adj3 masc dat pl doric aeolic
-:wd:pa=ssin   irreg_adj3 masc dat pl epic nu_movable
-:wd:pa=ssi   irreg_adj3 masc dat pl epic
-:wd:pa/ntessin   irreg_adj3 masc dat pl epic aeolic nu_movable
-:wd:pa/ntessi   irreg_adj3 masc dat pl epic aeolic
+:wd:pa=sin   irreg_adj3 masc/neut dat pl attic epic ionic nu_movable
+:wd:pa=si   irreg_adj3 masc/neut dat pl attic epic ionic
+:wd:pa/ntesin   irreg_adj3 masc/neut dat pl nu_movable poetic
+:wd:pa/ntesi   irreg_adj3 masc/neut dat pl poetic
+:wd:pai=sin   irreg_adj3 masc/neut dat pl doric aeolic nu_movable
+:wd:pai=si   irreg_adj3 masc/neut dat pl doric aeolic
+:wd:pa=ssin   irreg_adj3 masc/neut dat pl epic nu_movable
+:wd:pa=ssi   irreg_adj3 masc/neut dat pl epic
+:wd:pa/ntessin   irreg_adj3 masc/neut dat pl epic aeolic nu_movable
+:wd:pa/ntessi   irreg_adj3 masc/neut dat pl epic aeolic
 :wd:pa_/sais   irreg_adj3 fem dat pl attic epic ionic
 :wd:pai/saisin   irreg_adj3 fem dat pl aeolic nu_movable poetic
 :wd:pai/saisi   irreg_adj3 fem dat pl aeolic poetic
