@@ -623,8 +623,8 @@
 
 :le:lacrima
 :no:la_crim 	a_ae fem
-:no:da_crim 	a_ae fem archaic
-:no:la_cru^m	a_ae fem archaic
+:no:da_crim 	a_ae fem early
+:no:la_cru^m	a_ae fem early
 
 :le:Laodicea
 :no:Laodice	a_ae fem
@@ -700,9 +700,6 @@
 :le:mens
 :no:m	ens_entis fem
 :no:ment	is_is fem nom sg
-
-:le:mecum
-:wd:me_cum	indecl
 
 :le:mercenarius
 :aj:merce_na_ri^	us_a_um
@@ -791,9 +788,6 @@
 :le:nostras
 :aj:nostrat	is_e
 :aj:nostras	irreg_adj3 nom masc fem sg
-
-:le:nobiscum
-:wd:no_biscum	indecl
 
 :le:November
 :aj:Novemb er_ris_re
@@ -1028,7 +1022,7 @@
 
 :le:quies#1
 :no:qui 	es_eLtis fem
-:wd:quie 	irreg_nom3 abl fem sg archaic
+:wd:quie 	irreg_nom3 abl fem sg early
 
 :le:quin
 :wd:quin	conj
@@ -1091,9 +1085,6 @@
 :le:sexagies
 :wd:sexa_gies	numeral
 :wd:sexa_giens	numeral
-
-:le:secum
-:wd:se_cum	indecl
 
 :le:secus#2
 :wd:secus	adverb comp
@@ -1189,9 +1180,6 @@
 
 :le:tametsi
 :wd:tametsi	conj
-
-:le:tecum
-:wd:te_cum	indecl
 
 :le:ter
 :wd:ter		adverb
@@ -1330,9 +1318,6 @@
 
 :le:vir
 :no:vir	0_i masc
-
-:le:vobiscum
-:wd:vobiscum	indecl
 
 :le:vox
 :no:vo	x_cis fem

@@ -29,11 +29,33 @@
 :le:Ceres
 :no:Cer		eLs_eris fem
 
+:le:compos
+:aj:compo	s_tis
+
+:le:Creo
+:no:Cre		o_onis masc
+
+:le:Deion
+:no:De_i	oLn_oLnis masc
+
+:le:Deioneus
+:no:De_ione	us_i masc
+
 :le:ecflictim
 :wd:ecflictim	adverb
 
+:le:Electrionides
+:no:Electrionid	es_is masc
+
 :le:eugepae
 :wd:euge^pae	exclam
+
+:le:fur
+:no:fu_r	0_is masc fem
+
+:le:Gorgophone
+:no:Gorgophon	es_is fem
+:wd:Gorgophone	irreg_nom3 fem nom sg
 
 :le:hicine
 :wd:hicine	adverb
@@ -87,6 +109,9 @@
 
 :le:rursum
 :wd:rursum	adverb
+
+:le:satur
+:aj:sa^tu^r	0_a_um
 
 :le:singulus
 :aj:singul	us_a_um

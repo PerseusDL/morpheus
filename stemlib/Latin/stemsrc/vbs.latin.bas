@@ -55,6 +55,8 @@
 :vs:accersi_v	perfstem
 :vs:arcessi_t	pp4
 :vs:accersi_t	pp4
+:vs:arcess	conj4
+:vs:accers	conj4
 
 :le:ascisco
 :vs:ascisc	conj3
@@ -63,6 +65,7 @@
 
 :le:assentor
 :de:assent are_vb dep
+:de:adsent are_vb dep orth
 
 :le:asto
 :vs:ast conj1
@@ -71,6 +74,9 @@
 :le:audeo
 :vs:aud		conj2
 :vs:aus		pp4 dep
+:vb:ausim	irreg_pp2 1st sg perf subj act
+:vb:ausit	irreg_pp2 3rd sg perf subj act
+:vb:ausint	irreg_pp2 3rd pl perf subj act
 
 :le:audio
 :vs:aud		conj4
@@ -780,6 +786,7 @@
 :vs:te^nu^ perfstem no_comp
 :vs:ti^nu^ perfstem comp_only
 :vs:tent	pp4
+:vb:tini	irreg_pp2 perf ind act 1st sg archaic comp_only
 
 :le:tento
 :de:tent	are_vb

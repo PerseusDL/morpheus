@@ -175,9 +175,9 @@ illic adverb
 :wd:ille demonstr masc nom sg
 :wd:illud demonstr neut nom acc sg
 ill@ille demonstr
-:wd:olle demonstr neut nom acc sg archaic
-:wd:ollud demonstr neut nom acc sg archaic
-oll@ille demonstr archaic
+:wd:olle demonstr neut nom acc sg early
+:wd:ollud demonstr neut nom acc sg early
+oll@ille demonstr early
 
 :le:aliqui
 :wd:aliquis indef masc nom sg
@@ -240,6 +240,7 @@ ali@quis indef
 :wd:quaeque indef fem nom sg
 :wd:quodque indef neut nom/acc sg
 :wd:quidque indef neut nom/acc sg
+:wd:quicque indef neut nom/acc sg
 :wd:quemque indef masc acc sg
 :wd:quamque indef fem acc sg
 :wd:qua_que indef fem abl sg
@@ -350,7 +351,9 @@ ec@quis rel_pron
 :wd:quem rel_pron masc acc sg
 :wd:quam rel_pron fem acc sg
 :wd:quo_ rel_pron masc neut abl sg
+:wd:quo_cum rel_pron masc neut abl sg
 :wd:qua_ rel_pron fem abl sg
+:wd:qua_cum rel_pron fem abl sg
 :wd:qui_cum rel_pron masc abl sg
 :wd:qui_buscum rel_pron masc fem neut abl dat pl
 :wd:quoi rel_pron masc fem neut dat sg
@@ -424,6 +427,13 @@ ec@quis	interrog
 @quis	indef
 :wd:quidni	indef neut nom acc sg
 
+:le:nescioquis
+:wd:nescioquis	indef masc fem nom sg
+:wd:nescioquid	indef neut nom/acc sg
+:wd:nescioquod	indef neut nom/acc sg
+:wd:nescioquam	indef fem acc sg late
+nescio@quis indef
+
 :le:siquis
 :wd:si_quis	interrog masc fem nom sg
 :wd:si_quid	interrog neut nom/acc sg
@@ -435,7 +445,7 @@ si_@quis	interrog
 :wd:ipse demonstr masc nom voc sg
 :wd:ipsum demonstr neut nom voc acc sg
 :wd:ipsa demonstr fem nom voc sg
-:wd:ipsus demonstr masc nom voc sg archaic
+:wd:ipsus demonstr masc nom voc sg early
 ips@ille demonstr
 
 :le:is
@@ -483,10 +493,11 @@ mei_	pron1 masc fem gen sg
 mihi	pron1 masc fem dat sg
 me_	pron1 masc fem acc sg
 me_me_	pron1 masc fem acc sg
-me_d	pron1 masc fem acc sg archaic
+me_d	pron1 masc fem acc sg early
 me_met	pron1 masc fem acc sg
 me_	pron1 masc fem abl sg
-me_d	pron1 masc fem abl sg archaic
+me_d	pron1 masc fem abl sg early
+me_cum	pron1 masc fem abl sg
 
 :le:nos
 no_s	pron1 masc fem nom pl
@@ -495,6 +506,7 @@ nostri_	pron1 masc fem gen pl
 no_s	pron1 masc fem acc pl
 no_bis	pron1 masc fem abl pl
 no_bis	pron1 masc fem dat pl
+no_biscum pron1 masc fem abl pl
 
 egomet	pron1 masc fem nom sg
 mei_met	pron1 masc fem gen sg
@@ -508,9 +520,10 @@ tu_	pron2 masc fem nom voc sg
 tui_	pron2 masc fem gen sg
 tibi	pron2 masc fem dat sg
 te_	pron2 masc fem acc sg
-te_d	pron2 masc fem acc sg archaic
+te_d	pron2 masc fem acc sg early
 te_	pron2 masc fem abl sg
-te_d	pron2 masc fem abl sg archaic
+te_d	pron2 masc fem abl sg early
+te_cum	pron2 masc fem abl sg
 tutemet	pron2 masc fem nom sg
 vo_s	pron2 masc fem nom voc pl
 vostrum	pron2 masc fem gen pl
@@ -518,6 +531,7 @@ vestri_	pron2 masc fem gen pl
 vo_s	pron2 masc fem acc pl
 vo_bis	pron2 masc fem abl pl
 vo_bis	pron2 masc fem dat pl
+vo_biscum pron2 masc fem abl pl
 vo_smet	pron2 masc fem nom acc pl
 
 :le:sui
@@ -527,6 +541,7 @@ se_	pron3 masc fem acc sg
 se_se_	pron3 masc fem acc sg
 se_	pron3 masc fem abl sg
 se_se_	pron3 masc fem abl sg
+se_cum	pron3 masc fem abl sg
 
 sui_	pron3 masc fem gen pl
 sibi	pron3 masc fem dat pl
@@ -534,7 +549,7 @@ se_	pron3 masc fem acc pl
 se_se_	pron3 masc fem acc pl
 se_	pron3 masc fem abl pl
 se_se_	pron3 masc fem abl pl
-
+se_cum	pron3 masc fem abl pl
 
 :le:lac
 lac	irreg_nom3 neut nom voc acc sg

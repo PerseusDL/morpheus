@@ -1017,10 +1017,10 @@
 :vs:appe^tiss	conj3
 :le:appeto#1
 :vs:ap-pe^t	conj3
-:vs:ap-pe^tRitschl perfstem
+:vs:ap-pe^ti_v	perfstem
+:vs:ap-pe^ti_t	pp4
 :le:appingo#1
 :vs:ap-ping	conj3
-:vs:ap-pingBaiter perfstem
 :le:appingo#2
 :vs:ap-ping	conj3
 :le:appingo#2
@@ -1061,11 +1061,10 @@
 :vs:ap-pro_mitt	conj3
 :le:approno
 :de:ap-pro_n	are_vb
-:le:approno
-:vs:ap-pro_n	conj1
-:vs:ap-pro_nMerkel perfstem
-:le:approno
-:de:ap-pro_n	are_vb
+:le:appropero
+:de:ap-proper	are_vb
+:le:appropinquo
+:de:ap-propinqu	are_vb
 :le:approprio
 :de:ap-pro_^pri	are_vb
 :le:approximo
@@ -1136,10 +1135,10 @@
 :vs:ar-rept pp4
 :le:arrodo
 :vs:ar-ro_d	conj3
-:vs:ar-ro_dKayser perfstem
+:vs:ar-ro_s	perfstem
+:vs:arro_s	pp4
 :le:arrogo
 :vs:ar-ro^g	conj1
-:vs:ar-ro^gHolder perfstem
 :le:arroro
 :de:ar-ro_r	are_vb
 :le:articulo
@@ -1172,7 +1171,6 @@
 :vs:a-scispt pp4
 :le:aspecto
 :vs:aspect	conj1
-:vs:aspectLachmann perfstem
 :le:aspello
 :vs:as-pell	conj3
 :le:aspernor
@@ -1181,7 +1179,8 @@
 :de:aspe^r	are_vb
 :le:aspicio
 :vs:a-spi^c	conj1
-:vs:a-spi^cKayser perfstem
+:vs:a-spex	perfstem
+:vs:a-spect	pp4
 :le:asporto
 :de:as-port	are_vb
 :le:aspuo
@@ -1205,8 +1204,10 @@
 :le:assero#2
 :vs:as-se^r	conj3
 :vs:ad-se^r	conj3 orth
-:vs:as-se^rRitschl perfstem
-:vs:ad-se^rRitschl perfstem orth
+:vs:as-seru	perfstem
+:vs:ad-seru	perfstem orth
+:vs:as-sert	pp4
+:vs:ad-sert	pp4 orth
 :le:asservio
 :de:as-serv	ire_vb
 :le:asservo
@@ -1214,8 +1215,6 @@
 :le:assevero
 :vs:as-se^ve_r	conj1
 :vs:ad-se^ve_r	conj1 orth
-:vs:as-se^ve_rRitschl perfstem
-:vs:ad-se^ve_rRitschl perfstem orth
 :le:assibilo
 :de:as-si_bi^l	are_vb
 :le:assiccesco
@@ -1291,7 +1290,9 @@
 :vs:a-sti^tu_t pp4
 :le:asto
 :vs:a-st	conj1
-:vs:a-stRitschl perfstem
+:vs:ad-st	conj1 orth
+:vs:a-stit	perfstem
+:vs:ad-stit	perfstem orth
 :le:astrangulo
 :de:a-strangu^l	are_vb
 :le:astrepo
@@ -1324,10 +1325,10 @@
 :vs:attent pp4
 :le:attento
 :vs:at-tent	conj1
-:vs:at-tentKayser perfstem
+:vs:ad-tempt	conj1 orth
+:vs:at-tempt	conj1 orth
 :le:attenuo
 :vs:at-te^nu^	conj1
-:vs:at-te^nu^Kayser perfstem
 :le:attermino
 :de:at-termi^n	are_vb
 :le:attero
@@ -1346,7 +1347,8 @@
 :de:at-till	are_vb
 :le:attineo
 :vs:at-ti^n	conj2
-:vs:at-ti^nDietsch perfstem
+:vs:at-ti^nu	perfstem
+:vs:at-tent	pp4
 :le:attingo
 :vs:at-ting	conj3
 :vs:at-ti^g perfstem
@@ -1380,7 +1382,6 @@
 :vs:at-tract pp4
 :le:attrecto
 :vs:at-trect	conj1
-:vs:at-trectRitschl perfstem
 :le:attremo
 :vs:at-tre^m	conj3
 :le:attrepido
@@ -3626,8 +3627,8 @@
 :de:co^qui_n	are_vb
 :le:coquo
 :vs:co^qu	conj3
-:vs:co^qx perfstem
-:vs:co^qct pp4
+:vs:co^x perfstem
+:vs:co^ct pp4
 :le:coracino
 :de:co^ra^ci^n	are_vb
 :le:cornesco
@@ -3926,8 +3927,8 @@
 :de:de_-cont	are_vb dep
 :le:decoquo
 :vs:de_-co^qu	conj3
-:vs:de_-co^qx perfstem
-:vs:de_-co^qct pp4
+:vs:de_-co^x perfstem
+:vs:de_-co^ct pp4
 :le:decorio
 :de:de_-co^ri	are_vb
 :le:decoro
@@ -4954,8 +4955,8 @@
 :vs:dis-co^o^pert pp4
 :le:discoquo
 :vs:dis-co^qu	conj3
-:vs:dis-co^qx perfstem
-:vs:dis-co^qct pp4
+:vs:dis-co^x perfstem
+:vs:dis-co^ct pp4
 :le:discordo
 :de:discord	are_vb
 :le:discredo
@@ -5328,8 +5329,8 @@
 :vs:e_-do^ct pp4
 :le:edolo
 :de:e_-do^l	are_vb
-:le:Edomino
-:de:E_-do^mi^n	are_vb
+:le:edomino
+:de:e_-do^mi^n	are_vb
 :le:edomito
 :de:e_-do^mi^t	are_vb
 :le:edomo
@@ -6062,8 +6063,8 @@
 :vs:ex-cond	conj3
 :le:excoquo
 :vs:ex-co^qu	conj3
-:vs:ex-co^qx perfstem
-:vs:ex-co^qct pp4
+:vs:ex-co^x perfstem
+:vs:ex-co^ct pp4
 :le:excorio
 :de:ex-co^ri	are_vb
 :le:excremo
@@ -7185,6 +7186,7 @@
 :de:ha^max	are_vb
 :le:hariolor
 :de:ha^ri^o^l	are_vb dep
+:de:a^ri^o^l	are_vb dep orth
 :le:harpago#1
 :de:harpa^g	are_vb
 :le:haurio
@@ -7720,8 +7722,8 @@
 :de:inco_^pri	are_vb
 :le:incoquo
 :vs:in-co^qu	conj3
-:vs:in-co^qx perfstem
-:vs:in-co^qct pp4
+:vs:in-co^x perfstem
+:vs:in-co^ct pp4
 :le:incorporo
 :de:in-corpo^r	are_vb
 :le:incoxo
@@ -9897,7 +9899,7 @@
 :le:naufrago
 :de:naufra^g	are_vb
 :le:nauseo
-:de:naus	are_vb
+:de:nause	are_vb
 :le:naviculor
 :de:na_vi^cu^l	are_vb dep
 :le:navigo
@@ -10517,9 +10519,6 @@
 :de:o^do_r	are_vb
 :le:odoror
 :de:o^do_r	are_vb dep
-:le:odoror
-:vs:o^do_r	conj2
-:vs:o^do_rMela perfstem
 :le:offaveo
 :vs:offa^v	conj2
 :le:offendo#1
@@ -11018,8 +11017,8 @@
 :vs:per-co^o^pe^ru^ perfstem
 :le:percoquo
 :vs:per-co^qu	conj3
-:vs:per-co^qx perfstem
-:vs:per-co^qct pp4
+:vs:per-co^x perfstem
+:vs:per-co^ct pp4
 :le:percrebresco
 :vs:per-cre-bresc	conj3
 :vs:per-cre-bru perfstem
@@ -12070,8 +12069,8 @@
 :de:prae-con-trect	are_vb
 :le:praecoquo
 :vs:prae-co^qu	conj3
-:vs:prae-co^qx perfstem
-:vs:prae-co^qct pp4
+:vs:prae-co^x perfstem
+:vs:prae-co^ct pp4
 :le:praecorrumpo
 :vs:prae-corrump	conj3
 :vs:prae-corrupt pp4

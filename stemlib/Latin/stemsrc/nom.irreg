@@ -324,50 +324,50 @@
 :le:ille
 :wd:ille demonstr masc nom sg
 :wd:illud demonstr neut nom acc sg
-:wd:olle demonstr neut nom acc sg archaic
-:wd:ollud demonstr neut nom acc sg archaic
+:wd:olle demonstr neut nom acc sg early
+:wd:ollud demonstr neut nom acc sg early
 :wd:illa   demonstr fem nom sg
-:wd:olla   demonstr fem nom sg
+:wd:olla   demonstr fem nom sg early
 :wd:illius   demonstr masc/fem/neut gen sg
-:wd:ollius   demonstr masc/fem/neut gen sg
+:wd:ollius   demonstr masc/fem/neut gen sg early
 :wd:illi_   demonstr masc/fem/neut dat sg
 :wd:illo_   demonstr masc/neut dat sg
-:wd:olli_   demonstr masc/fem/neut dat sg
-:wd:ollo_   demonstr masc/neut dat sg
+:wd:olli_   demonstr masc/fem/neut dat sg early
+:wd:ollo_   demonstr masc/neut dat sg early
 :wd:illae   demonstr fem dat sg
-:wd:ollae   demonstr fem dat sg
+:wd:ollae   demonstr fem dat sg early
 :wd:illum   demonstr masc acc sg
-:wd:ollum   demonstr masc acc sg
+:wd:ollum   demonstr masc acc sg early
 :wd:illam   demonstr fem acc sg
-:wd:ollam   demonstr fem acc sg
+:wd:ollam   demonstr fem acc sg early
 :wd:illo_   demonstr masc/neut abl sg
-:wd:ollo_   demonstr masc/neut abl sg
+:wd:ollo_   demonstr masc/neut abl sg early
 :wd:illa_   demonstr fem abl sg
-:wd:olla_   demonstr fem abl sg
+:wd:olla_   demonstr fem abl sg early
 :wd:illi_   demonstr masc nom/voc pl
-:wd:olli_   demonstr masc nom/voc pl
+:wd:olli_   demonstr masc nom/voc pl early
 :wd:illae   demonstr fem nom/voc pl
-:wd:ollae   demonstr fem nom/voc pl
+:wd:ollae   demonstr fem nom/voc pl early
 :wd:illa   demonstr neut nom/voc/acc pl
-:wd:olla   demonstr neut nom/voc/acc pl
+:wd:olla   demonstr neut nom/voc/acc pl early
 :wd:illo_rum   demonstr masc/neut gen pl
 :wd:illu_m   demonstr masc/neut gen pl poetic
-:wd:ollo_rum   demonstr masc/neut gen pl
-:wd:ollu_m   demonstr masc/neut gen pl poetic
+:wd:ollo_rum   demonstr masc/neut gen pl early
+:wd:ollu_m   demonstr masc/neut gen pl poetic early
 :wd:illa_rum   demonstr fem gen pl
-:wd:olla_rum   demonstr fem gen pl
+:wd:olla_rum   demonstr fem gen pl early
 :wd:illi_s   demonstr masc/neut dat pl
-:wd:olli_s   demonstr masc/neut dat pl
+:wd:olli_s   demonstr masc/neut dat pl early
 :wd:illi_s   demonstr fem dat pl
-:wd:olli_s   demonstr fem dat pl
+:wd:olli_s   demonstr fem dat pl early
 :wd:illo_s   demonstr masc acc pl
-:wd:ollo_s   demonstr masc acc pl
+:wd:ollo_s   demonstr masc acc pl early
 :wd:illa_s   demonstr fem acc pl
-:wd:olla_s   demonstr fem acc pl
+:wd:olla_s   demonstr fem acc pl early
 :wd:illi_s   demonstr masc/neut abl pl
-:wd:olli_s   demonstr masc/neut abl pl
+:wd:olli_s   demonstr masc/neut abl pl early
 :wd:illi_s   demonstr fem abl pl
-:wd:olli_s   demonstr fem abl pl
+:wd:olli_s   demonstr fem abl pl early
 
 :le:aliqui
 :wd:aliquis indef masc nom sg
@@ -442,6 +442,7 @@
 :wd:quaeque indef fem nom sg
 :wd:quodque indef neut nom/acc sg
 :wd:quidque indef neut nom/acc sg
+:wd:quicque indef neut nom/acc sg
 :wd:quemque indef masc acc sg
 :wd:quamque indef fem acc sg
 :wd:qua_que indef fem abl sg
@@ -563,7 +564,9 @@
 :wd:quem rel_pron masc acc sg
 :wd:quam rel_pron fem acc sg
 :wd:quo_ rel_pron masc neut abl sg
+:wd:quo_cum rel_pron masc neut abl sg
 :wd:qua_ rel_pron fem abl sg
+:wd:qua_cum rel_pron fem abl sg
 :wd:qui_cum rel_pron masc abl sg
 :wd:qui_buscum rel_pron masc fem neut abl dat pl
 :wd:quoi rel_pron masc fem neut dat sg
@@ -715,6 +718,26 @@
 :wd:qua_s   indef fem acc pl
 :wd:quibus   indef masc/fem/neut abl pl
 
+:le:nescioquis
+:wd:nescioquis	indef masc fem nom sg
+:wd:nescioquid	indef neut nom/acc sg
+:wd:nescioquod	indef neut nom/acc sg
+:wd:nescioquam	indef fem acc sg late
+:wd:nesciocuius   indef masc/fem/neut gen sg
+:wd:nesciocui   indef masc/fem/neut dat sg
+:wd:nescioquei_   indef masc/fem/neut dat sg
+:wd:nescioquem   indef masc/fem acc sg
+:wd:nescioqui_   indef masc nom pl
+:wd:nescioquae   indef fem nom pl
+:wd:nescioquae   indef neut nom/acc pl
+:wd:nescioquo_rum   indef masc gen pl
+:wd:nescioquu_m   indef masc gen pl poetic
+:wd:nescioqua_rum   indef fem gen pl
+:wd:nescioquibus   indef masc/fem/neut dat pl
+:wd:nescioquo_s   indef masc acc pl
+:wd:nescioqua_s   indef fem acc pl
+:wd:nescioquibus   indef masc/fem/neut abl pl
+
 :le:siquis
 :wd:si_quis	interrog masc fem nom sg
 :wd:si_quid	interrog neut nom/acc sg
@@ -739,7 +762,7 @@
 :wd:ipse demonstr masc nom voc sg
 :wd:ipsum demonstr neut nom voc acc sg
 :wd:ipsa demonstr fem nom voc sg
-:wd:ipsus demonstr masc nom voc sg archaic
+:wd:ipsus demonstr masc nom voc sg early
 :wd:ipsa   demonstr fem nom sg
 :wd:ipsius   demonstr masc/fem/neut gen sg
 :wd:ipsi_   demonstr masc/fem/neut dat sg
@@ -769,7 +792,7 @@
 :wd:eius   pron3 masc/fem/neut gen sg
 :wd:eo_   pron3 masc/fem/neut dat sg
 :wd:eum   pron3 masc acc sg
-:wd:eom   pron3 masc acc sg
+:wd:eom   pron3 masc acc sg early
 :wd:eam   pron3 fem acc sg
 :wd:eo_   pron3 masc/neut abl sg
 :wd:ea_   pron3 fem abl sg
@@ -815,10 +838,11 @@
 :wd:mihi   pron1 masc/fem dat sg
 :wd:me_   pron1 masc/fem acc sg
 :wd:me_me_   pron1 masc/fem acc sg
-:wd:me_d   pron1 masc/fem acc sg
+:wd:me_d   pron1 masc/fem acc sg early
 :wd:me_met   pron1 masc/fem acc sg
 :wd:me_   pron1 masc/fem abl sg
-:wd:me_d   pron1 masc/fem abl sg
+:wd:me_d   pron1 masc/fem abl sg early
+:wd:me_cum   pron1 masc/fem abl sg
 
 :le:nos
 :wd:egomet   pron1 masc/fem nom sg
@@ -832,6 +856,7 @@
 :wd:no_bismet   pron1 masc/fem dat pl
 :wd:no_s   pron1 masc/fem acc pl
 :wd:no_bis   pron1 masc/fem abl pl
+:wd:no_biscum   pron1 masc/fem abl pl
 :wd:no_bismet   pron1 masc/fem abl pl
 
 :le:tu
@@ -840,9 +865,10 @@
 :wd:tui_   pron2 masc/fem gen sg
 :wd:tibi   pron2 masc/fem dat sg
 :wd:te_   pron2 masc/fem acc sg
-:wd:te_d   pron2 masc/fem acc sg
+:wd:te_d   pron2 masc/fem acc sg early
 :wd:te_   pron2 masc/fem abl sg
-:wd:te_d   pron2 masc/fem abl sg
+:wd:te_d   pron2 masc/fem abl sg early
+:wd:te_cum   pron2 masc/fem abl sg
 :wd:vo_s   pron2 masc/fem nom/voc pl
 :wd:vo_smet   pron2 masc/fem nom/acc pl
 :wd:vostrum   pron2 masc/fem gen pl
@@ -850,6 +876,7 @@
 :wd:vo_bis   pron2 masc/fem dat pl
 :wd:vo_s   pron2 masc/fem acc pl
 :wd:vo_bis   pron2 masc/fem abl pl
+:wd:vo_biscum   pron2 masc/fem abl pl
 
 :le:sui
 :wd:sui_   pron3 masc/fem gen sg
@@ -858,12 +885,14 @@
 :wd:se_se_   pron3 masc/fem acc sg
 :wd:se_   pron3 masc/fem abl sg
 :wd:se_se_   pron3 masc/fem abl sg
+:wd:se_cum   pron3 masc/fem abl sg
 :wd:sui_   pron3 masc/fem gen pl
 :wd:sibi   pron3 masc/fem dat pl
 :wd:se_   pron3 masc/fem acc pl
 :wd:se_se_   pron3 masc/fem acc pl
 :wd:se_   pron3 masc/fem abl pl
 :wd:se_se_   pron3 masc/fem abl pl
+:wd:se_cum   pron3 masc/fem abl pl
 
 :le:lac
 :wd:lac   irreg_nom3 neut nom/voc/acc sg
