@@ -65,11 +65,11 @@ stemsrc/ls.nom stemsrc/vbs.latin:
 ls.morph:	${LSDIR}/lemmata
 	fgrep ":le:" stemsrc/vbs.latin.bas | cut -d: -f3 | \
 	    sort > stemsrc/lemmata
-	#sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | \
-	#    fgrep -f vtags | latvb > ls.vbs
-	#cat ${LSDIR}/lemmata |  combitype | splitlat | conj1 | \
-	#    fgrep -f vtags | latvb | \
-	#    perl -pe 's/(^\:le\:[A-Za-z]+)\-([A-Za-z])/$1$2/g' > ls.vbs
+#	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | \
+#	    fgrep -f vtags | latvb > ls.vbs
+#	cat ${LSDIR}/lemmata |  combitype | splitlat | conj1 | \
+#	    fgrep -f vtags | latvb | \
+#	    perl -pe 's/(^\:le\:[A-Za-z]+)\-([A-Za-z])/$1$2/g' > ls.vbs
 	cat ${LSDIR}/lemmata |  combitype | splitlat | conj1 | \
 	    fgrep -f vtags | latvb > ls.vbs
 	splitlems < ${LSDIR}/lemmata |  fixhesc | fgrep -v -f vtags | \
