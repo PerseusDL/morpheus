@@ -1527,7 +1527,7 @@
 :le:benignor
 :de:be^nign	are_vb dep
 :le:beo
-:de:b	are_vb
+:de:be	are_vb
 :le:beto
 :vs:be_t	conj3
 :le:bibo#1
@@ -16929,6 +16929,7 @@
 :vs:vo_t pp4
 :le:vulgo#2
 :de:vulg	are_vb
+:de:volg	are_vb orth
 :le:vulnero
 :de:vulne^r	are_vb
 :le:vulnifico

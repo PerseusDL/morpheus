@@ -89,14 +89,18 @@
 
 :le:malo
 :vb:ma_lo_	irreg_pp1 pres ind act 1st sg
+:vb:ma^volo_	irreg_pp1 pres ind act 1st sg archaic
 :vb:ma_vis	irreg_pp1 pres ind act 2nd sg
 :vb:ma_vult	irreg_pp1 pres ind act 3rd sg
+:vb:ma_volt	irreg_pp1 pres ind act 3rd sg archaic
 :vb:ma_lumus	irreg_pp1 pres ind act 1st pl
 :vb:ma_vultis	irreg_pp1 pres ind act 2nd pl
 :vb:ma_lunt	irreg_pp1 pres ind act 3rd pl
+:vb:mavolunt	irreg_pp1 pres ind act 3rd pl archaic
 :vb:malle	irreg_pp1 pres inf act
 :vs:ma_l		conj3 imperf ind act
 :vs:ma_l		conj3 fut ind act
+:vb:mavolet	irreg_pp1 fut ind act 3rd sg archaic
 :vs:ma_l		conj3 part
 :vs:ma_lu^	perfstem
 
@@ -107,7 +111,12 @@
 :vb:ma_li_tis	irreg_pp1 pres subj act 2nd pl
 :vb:ma_lint	irreg_pp1 pres subj act 3rd pl
 
+:vb:mavelim	irreg_pp1 pres subj act 1st sg archaic
+:vb:maveli_s	irreg_pp1 pres subj act 2nd sg archaic
+:vb:mavelit	irreg_pp1 pres subj act 3rd sg archaic
+
 :vb:ma_llem	irreg_pp1 imperf subj act 1st sg
+:vb:mavellem	irreg_pp1 imperf subj act 1st sg archaic
 :vb:ma_lle_s	irreg_pp1 imperf subj act 2nd sg
 :vb:ma_llet	irreg_pp1 imperf subj act 3rd sg
 :vb:ma_lle_mus	irreg_pp1 imperf subj act 1st pl

@@ -26,6 +26,9 @@
 :le:carnufex
 :no:carnuf	ex_icis masc
 
+:le:Ceres
+:no:Cer		eLs_eris fem
+
 :le:ecflictim
 :wd:ecflictim	adverb
 
@@ -54,6 +57,9 @@
 :le:Maecenas
 :no:Maece_na	s_tis
 
+:le:murena
+:no:muren	a_ae fem
+
 :le:mus
 :no:m		uLs_uLris masc fem
 
@@ -68,6 +74,10 @@
 
 :le:perenne
 :wd:perenne	adverb
+
+:le:pignus
+:no:pign	us_eris neut
+:no:pign	us_oris neut
 
 :le:pontifex
 :no:pontif	ex_icis masc
@@ -110,3 +120,9 @@
 
 :le:utut
 :wd:utut	adverb
+
+:le:venter
+:no:vent	er_ris masc
+
+:le:vorsus
+:no:vors	us_us masc

@@ -66,6 +66,8 @@ eunda		irreg_pp1 gerundive fem nom sg
 eundum		irreg_pp1 gerundive neut nom sg
 eund@decl1	irreg_pp1 gerundive fem
 eund@decl2	irreg_pp1 gerundive masc neut
+iend@decl1	irreg_pp1 gerundive fem archaic
+iend@decl2	irreg_pp1 gerundive masc neut archaic
 
 :le:aufero
 :vb:aufe^ro_	irreg_pp1 1st sg pres ind act

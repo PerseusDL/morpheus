@@ -47,31 +47,56 @@
 :vb:eundus   irreg_pp1 gerundive masc nom sg
 :vb:eunda   irreg_pp1 gerundive fem nom sg
 :vb:eunda   irreg_pp1 gerundive fem nom/voc sg
+:vb:ienda   irreg_pp1 gerundive fem nom/voc sg
 :vb:eundum   irreg_pp1 gerundive neut nom sg
 :vb:eundum   irreg_pp1 gerundive neut nom/voc/acc sg
+:vb:iendum   irreg_pp1 gerundive neut nom/voc/acc sg
 :vb:eundi_   irreg_pp1 gerundive masc/neut gen sg
+:vb:iendi_   irreg_pp1 gerundive masc/neut gen sg
 :vb:eundae   irreg_pp1 gerundive fem gen sg
 :vb:eunda_i_   irreg_pp1 gerundive fem gen sg poetic
+:vb:iendae   irreg_pp1 gerundive fem gen sg
+:vb:ienda_i_   irreg_pp1 gerundive fem gen sg poetic
 :vb:eundo_   irreg_pp1 gerundive masc/neut dat sg
+:vb:iendo_   irreg_pp1 gerundive masc/neut dat sg
 :vb:eundae   irreg_pp1 gerundive fem dat sg
+:vb:iendae   irreg_pp1 gerundive fem dat sg
 :vb:eundum   irreg_pp1 gerundive masc acc sg
 :vb:eundom   irreg_pp1 gerundive masc acc sg
+:vb:iendum   irreg_pp1 gerundive masc acc sg
+:vb:iendom   irreg_pp1 gerundive masc acc sg
 :vb:eundam   irreg_pp1 gerundive fem acc sg
+:vb:iendam   irreg_pp1 gerundive fem acc sg
 :vb:eunde   irreg_pp1 gerundive masc/neut voc sg
+:vb:iende   irreg_pp1 gerundive masc/neut voc sg
 :vb:eundo_   irreg_pp1 gerundive masc/neut abl sg
+:vb:iendo_   irreg_pp1 gerundive masc/neut abl sg
 :vb:eunda_   irreg_pp1 gerundive fem abl sg
+:vb:ienda_   irreg_pp1 gerundive fem abl sg
 :vb:eundi_   irreg_pp1 gerundive masc nom/voc pl
+:vb:iendi_   irreg_pp1 gerundive masc nom/voc pl
 :vb:eundae   irreg_pp1 gerundive fem nom/voc pl
+:vb:iendae   irreg_pp1 gerundive fem nom/voc pl
 :vb:eunda   irreg_pp1 gerundive neut nom/voc/acc pl
+:vb:ienda   irreg_pp1 gerundive neut nom/voc/acc pl
 :vb:eundo_rum   irreg_pp1 gerundive masc/neut gen pl
 :vb:eundu_m   irreg_pp1 gerundive masc/neut gen pl poetic
+:vb:iendo_rum   irreg_pp1 gerundive masc/neut gen pl
+:vb:iendu_m   irreg_pp1 gerundive masc/neut gen pl poetic
 :vb:eunda_rum   irreg_pp1 gerundive fem gen pl
+:vb:ienda_rum   irreg_pp1 gerundive fem gen pl
 :vb:eundi_s   irreg_pp1 gerundive masc/neut dat pl
+:vb:iendi_s   irreg_pp1 gerundive masc/neut dat pl
 :vb:eundi_s   irreg_pp1 gerundive fem dat pl
+:vb:iendi_s   irreg_pp1 gerundive fem dat pl
 :vb:eundo_s   irreg_pp1 gerundive masc acc pl
+:vb:iendo_s   irreg_pp1 gerundive masc acc pl
 :vb:eunda_s   irreg_pp1 gerundive fem acc pl
+:vb:ienda_s   irreg_pp1 gerundive fem acc pl
 :vb:eundi_s   irreg_pp1 gerundive masc/neut abl pl
+:vb:iendi_s   irreg_pp1 gerundive masc/neut abl pl
 :vb:eundi_s   irreg_pp1 gerundive fem abl pl
+:vb:iendi_s   irreg_pp1 gerundive fem abl pl
 :vb:eam   irreg_pp1 pres subj act 1st sg
 :vb:ea_s   irreg_pp1 pres subj act 2nd sg
 :vb:eat   irreg_pp1 pres subj act 3rd sg
