@@ -121,6 +121,27 @@ face@impsub	irreg_pp1 imperf subj
 
 fatt@o_a	irreg_pp1 perf part
 
+:le:andare
+:vb:vo\		irreg_pp1 pres ind 1st sg
+:vb:vado	irreg_pp1 pres ind 1st sg
+:vb:vai		irreg_pp1 pres ind 2nd sg
+:vb:va		irreg_pp1 pres ind 3rd sg
+:vb:vanno	irreg_pp1 pres ind 3rd pl
+
+:vb:vada	irreg_pp1 pres subj 1st sg
+:vb:vada	irreg_pp1 pres subj 2nd sg
+:vb:vada	irreg_pp1 pres subj 3rd sg
+:vb:vadano	irreg_pp1 pres subj 3rd pl
+
+:vb:va\		irreg_pp1 pres imperat 2nd sg
+:vb:vada	irreg_pp1 pres imperat 3rd sg
+:vb:vadano	irreg_pp1 pres imperat 3rd pl
+
+and@future	irreg_pp1 fut ind
+and@cond	irreg_pp1 pres cond
+
+:de:and		are_vb
+
 :le:nascere
 :vb:nacqui	irreg_pp1 pastabs ind 1st sg
 :vb:nacque	irreg_pp1 pastabs ind 3rd sg
