@@ -13,14 +13,9 @@
 :vb:eravate	irreg_pp1 imperf ind 2nd pl
 :vb:erano	irreg_pp1 imperf ind 3rd pl
 
-:vb:stato	irreg_pp1 perf part masc sg
-:vb:stati	irreg_pp1 perf part masc pl
-:vb:stata	irreg_pp1 perf part fem sg
-:vb:state	irreg_pp1 perf part fem pl
-:vb:essenda	irreg_pp1 gerundive fem sg
-:vb:essende	irreg_pp1 gerundive fem pl
-:vb:essendo	irreg_pp1 gerundive masc sg
-:vb:essendi	irreg_pp1 gerundive masc pl
+stat@o_a	irreg_pp1 perf part
+
+essend@o_a	irreg_pp1 gerundive
 
 :vb:fui		irreg_pp1 pastabs ind 1st sg
 :vb:fosti	irreg_pp1 pastabs ind 2nd sg
@@ -29,19 +24,9 @@
 :vb:foste	irreg_pp1 pastabs ind 2nd pl
 :vb:furono	irreg_pp1 pastabs ind 3rd pl
 
-:vb:saro\	irreg_pp1 fut ind 1st sg
-:vb:sarai	irreg_pp1 fut ind 2nd sg
-:vb:sara\	irreg_pp1 fut ind 3rd sg
-:vb:saremo	irreg_pp1 fut ind 1st pl
-:vb:sarete	irreg_pp1 fut ind 2nd pl
-:vb:saranno	irreg_pp1 fut ind 3rd pl
+sa@future	irreg_pp1 fut ind
 
-:vb:sarei	irreg_pp1 pres cond 1st sg
-:vb:saresti	irreg_pp1 pres cond 2nd sg
-:vb:sarebbe	irreg_pp1 pres cond 3rd sg
-:vb:saremmo	irreg_pp1 pres cond 1st pl
-:vb:sareeste	irreg_pp1 pres cond 2nd pl
-:vb:sarebbero	irreg_pp1 pres cond 3rd pl
+sa@cond		irreg_pp1 pres cond
 
 :vb:sia		irreg_pp1 pres subj 1st sg
 :vb:sia		irreg_pp1 pres subj 2nd sg
@@ -52,13 +37,7 @@
 :vb:siano	irreg_pp1 pres subj 3rd pl
 :vb:si/ano	irreg_pp1 pres subj 3rd pl
 
-:vb:fossi	irreg_pp1 imperf subj 1st sg
-:vb:fossi	irreg_pp1 imperf subj 2nd sg
-:vb:fosse	irreg_pp1 imperf subj 3rd sg
-:vb:fo\ssimo	irreg_pp1 imperf subj 1st pl
-:vb:foste	irreg_pp1 imperf subj 2nd pl
-:vb:fossero	irreg_pp1 imperf subj 3rd pl
-:vb:fo/ssero	irreg_pp1 imperf subj 3rd pl
+fo@impsub	irreg_pp1 imperf subj
 
 :vb:sii		irreg_pp1 pres imperat 2nd sg
 :vb:sia		irreg_pp1 pres imperat 3rd sg
@@ -74,13 +53,7 @@
 :vb:avete	irreg_pp1 pres ind 2nd pl
 :vb:hanno	irreg_pp1 pres ind 3rd pl
 
-:vb:avevo	irreg_pp1 imperf ind 1st sg
-:vb:avevi	irreg_pp1 imperf ind 2nd sg
-:vb:aveva	irreg_pp1 imperf ind 3rd sg
-:vb:avevamo	irreg_pp1 imperf ind 1st pl
-:vb:avevate	irreg_pp1 imperf ind 2nd pl
-:vb:avevano	irreg_pp1 imperf ind 3rd pl
-:vb:ave/vano	irreg_pp1 imperf ind 3rd pl
+ave@imperf	irreg_pp1 imperf ind
 
 :vb:ebbi	irreg_pp1 pastabs ind 1st sg
 :vb:avesti	irreg_pp1 pastabs ind 2nd sg
@@ -89,19 +62,9 @@
 :vb:aveste	irreg_pp1 pastabs ind 2nd pl
 :vb:ebbero	irreg_pp1 pastabs ind 3rd pl
 
-:vb:avro\	irreg_pp1 fut ind 1st sg
-:vb:avrai	irreg_pp1 fut ind 2nd sg
-:vb:avra\	irreg_pp1 fut ind 3rd sg
-:vb:avremo	irreg_pp1 fut ind 1st pl
-:vb:avrete	irreg_pp1 fut ind 2nd pl
-:vb:avranno	irreg_pp1 fut ind 3rd pl
+av@future	irreg_pp1 fut ind
 
-:vb:avrei	irreg_pp1 pres cond 1st sg
-:vb:avresti	irreg_pp1 pres cond 2nd sg
-:vb:avrebbe	irreg_pp1 pres cond 3rd sg
-:vb:avremmo	irreg_pp1 pres cond 1st pl
-:vb:avreste	irreg_pp1 pres cond 2nd pl
-:vb:avrebbero	irreg_pp1 pres cond 3rd pl
+av@cond		irreg_pp1 pres cond
 
 :vb:abbia	irreg_pp1 pres subj 1st sg
 :vb:abbi	irreg_pp1 pres subj 2nd sg
@@ -111,12 +74,7 @@
 :vb:abbiate	irreg_pp1 pres subj 2nd pl
 :vb:abbiano	irreg_pp1 pres subj 3rd pl
 
-:vb:avessi	irreg_pp1 imperf subj 1st sg
-:vb:avessi	irreg_pp1 imperf subj 2nd sg
-:vb:avesse	irreg_pp1 imperf subj 3rd sg
-:vb:avessimo	irreg_pp1 imperf subj 1st pl
-:vb:aveste	irreg_pp1 imperf subj 2nd pl
-:vb:avessero	irreg_pp1 imperf subj 3rd pl
+ave@impsub	irreg_pp1 imperf subj
 
 :vb:abbi	irreg_pp1 pres imperat 2nd sg
 :vb:abbia	irreg_pp1 pres imperat 3rd sg
@@ -124,13 +82,183 @@
 :vb:abbiate	irreg_pp1 pres imperat 2nd pl
 :vb:abbiano	irreg_pp1 pres imperat 3rd pl
 
-:vb:avenda	irreg_pp1 gerundive fem sg
-:vb:avende	irreg_pp1 gerundive fem pl
-:vb:avendo	irreg_pp1 gerundive masc sg
-:vb:avendi	irreg_pp1 gerundive masc pl
+avend@o_a	irreg_pp1 gerundive
+
 :vb:avente	irreg_pp1 pres part sg
 :vb:aventi	irreg_pp1 pres part pl
-:vb:avuto	irreg_pp1 perf part masc sg
-:vb:avuti	irreg_pp1 perf part masc pl
-:vb:avuta	irreg_pp1 perf part fem sg
-:vb:avute	irreg_pp1 perf part fem pl
+avut@o_a	ere_vb perf part
+
+:le:fare
+:vb:faccio      irreg_pp1 pres indic 1st sg
+:vb:fo          irreg_pp1 pres indic 1st sg
+:vb:fai         irreg_pp1 pres indic 2nd sg
+:vb:fa          irreg_pp1 pres indic 3rd sg
+:vb:facciamo    irreg_pp1 pres indic 1st pl
+:vb:fate        irreg_pp1 pres indic 2nd pl
+:vb:fanno       irreg_pp1 pres indic 3rd pl
+
+face@imperf	irreg_pp1 imperf ind
+
+:vb:feci        irreg_pp1 pastabs ind 1st sg
+:vb:facesti     irreg_pp1 pastabs ind 2nd sg
+:vb:fece        irreg_pp1 pastabs ind 3rd sg
+:vb:facemmo     irreg_pp1 pastabs ind 1st pl
+:vb:faceste     irreg_pp1 pastabs ind 2nd pl
+:vb:fecero      irreg_pp1 pastabs ind 3rd pl
+
+fa@future	irreg_pp1 fut ind
+
+fa@cond		irreg_pp1 pres cond
+
+:vb:faccia      irreg_pp1 pres subj 1st sg
+:vb:faccia      irreg_pp1 pres subj 2nd sg
+:vb:faccia      irreg_pp1 pres subj 3rd sg
+:vb:facciamo    irreg_pp1 pres subj 1st pl
+:vb:facciati	irreg_pp1 pres subj 2nd pl
+:vb:facciano	irreg_pp1 pres subj 3rd pl
+
+face@impsub	irreg_pp1 imperf subj
+
+fatt@o_a	irreg_pp1 perf part
+
+:le:nascere
+:vb:nacqui	irreg_pp1 pastabs ind 1st sg
+:vb:nacque	irreg_pp1 pastabs ind 3rd sg
+:vb:nacquero	irreg_pp1 pastabs ind 3rd pl
+nat@o_a 	irreg_pp1 perf part
+:de:nasc	ere_vb
+
+:le:potere
+:vb:posso	irreg_pp1 pres ind 1st sg
+:vb:puoi	irreg_pp1 pres ind 2nd sg
+:vb:puo\	irreg_pp1 pres ind 3rd sg
+:vb:possiamo	irreg_pp1 pres ind 1st pl
+:vb:potete	ere_vb pres ind 2nd pl
+:vb:possono	irreg_pp1 pres ind 3rd pl
+
+:vb:possa	irreg_pp1 pres subj 1st sg
+:vb:possa	irreg_pp1 pres subj 2nd sg
+:vb:possa	irreg_pp1 pres subj 3rd sg
+:vb:possiamo	irreg_pp1 pres subj 1st pl
+:vb:possiate	irreg_pp1 pres subj 2nd pl
+:vb:possono	irreg_pp1 pres subj 3rd pl
+
+pot@future	irreg_pp1 fut ind
+pot@cond	irreg_pp1 pres cond
+:de:pot		ere_vb
+
+:le:prendere
+:vb:presi	irreg_pp1 pastabs ind 1st sg
+:vb:prese	irreg_pp1 pastabs ind 3rd sg
+:vb:presero	irreg_pp1 pastabs ind 3rd pl
+pres@o_a	irreg_pp1 perf part
+:de:prend	ere_vb
+
+:le:sapere
+:vb:so		irreg_pp1 pres indic 1st sg
+:vb:sai		irreg_pp1 pres indic 2nd sg
+:vb:sa		irreg_pp1 pres indic 3rd sg
+:vb:sappiamo	irreg_pp1 pres indic 1st pl
+:vb:sanno	irreg_pp1 pres indic 3rd pl
+
+:vb:sappi	irreg_pp1 pres imperat 2nd sg
+:vb:sappia	irreg_pp1 pres imperat 3rd sg
+:vb:sappiamo	irreg_pp1 pres imperat 1st pl
+:vb:sappiate	irreg_pp1 pres imperat 2nd pl
+:vb:sappiano	irreg_pp1 pres imperat 3rd pl
+
+:vb:seppi	irreg_pp1 pastabs ind 1st sg
+:vb:seppe	irreg_pp1 pastabs ind 3rd sg
+:vb:seppero	irreg_pp1 pastabs ind 3rd pl
+
+:vb:sappia	irreg_pp1 pres subj 1st sg
+:vb:sappia	irreg_pp1 pres subj 2nd sg
+:vb:sappia	irreg_pp1 pres subj 3rd sg
+:vb:sappiamo	irreg_pp1 pres subj 1st pl
+:vb:sappiate	irreg_pp1 pres subj 2nd pl
+:vb:sappiano	irreg_pp1 pres subj 3rd pl
+
+sap@future	irreg_pp1 fut ind
+
+sap@cond	irreg_pp1 pres cond
+
+:de:sap		ere_vb
+
+:le:scrivere
+:vb:scrissi	irreg_pp1 pastabs ind 1st sg
+:vb:scrisse	irreg_pp1 pastabs ind 3rd sg
+:vb:scrissero	irreg_pp1 pastabs ind 3rd pl
+scritt@o_a	irreg_pp1 perf part
+:de:scriv	ere_vb
+
+:le:tenere
+:vb:tengo	irreg_pp1 pres indic 1st sg
+:vb:tieni	irreg_pp1 pres indic 2nd sg
+:vb:tiene	irreg_pp1 pres indic 3rd sg
+:vb:teniamo	irreg_pp1 pres indic 1st pl
+:vb:tenete	irreg_pp1 pres indic 2nd pl
+:vb:tengono	irreg_pp1 pres indic 3rd pl
+:vb:tenga	irreg_pp1 pres subj 1st sg
+:vb:tenga	irreg_pp1 pres subj 2nd sg
+:vb:tenga	irreg_pp1 pres subj 3rd sg
+:vb:teniamo	irreg_pp1 pres subj 1st pl
+:vb:teniate	irreg_pp1 pres subj 2nd pl
+:vb:tengano	irreg_pp1 pres subj 3rd pl
+:vb:tieni	irreg_pp1 pres imperat 2nd sg
+:vb:tenga	irreg_pp1 pres imperat 3rd sg
+:vb:teniamo	irreg_pp1 pres imperat 1st pl
+:vb:tenete	irreg_pp1 pres imperat 2nd pl
+:vb:tengano	irreg_pp1 pres imperat 3rd pl
+:vb:tenni	irreg_pp1 pastabs indic 1st sg
+:vb:tenesti	irreg_pp1 pastabs indic 2nd sg
+:vb:tenne	irreg_pp1 pastabs indic 3rd sg
+:vb:tennemo	irreg_pp1 pastabs indic 1st pl
+:vb:teneste	irreg_pp1 pastabs indic 2nd pl
+:vb:tennero	irreg_pp1 pastabs indic 3rd pl
+ter@future	irreg_pp1 fut ind
+ter@cond	irreg_pp1 pres cond
+:de:ten		ere_vb
+
+:le:venire
+:vb:vengo	irreg_pp1 pres ind 1st sg
+:vb:vieni	irreg_pp1 pres ind 2nd sg
+:vb:viene	irreg_pp1 pres ind 3rd sg
+:vb:vengono	irreg_pp1 pres ind 3rd pl
+:vb:venga	irreg_pp1 pres subj 1st sg
+:vb:venga	irreg_pp1 pres subj 2nd sg
+:vb:venga	irreg_pp1 pres subj 3rd sg
+:vb:vengano	irreg_pp1 pres subj 3rd pl
+:vb:venni	irreg_pp1 pastabs ind 1st sg
+:vb:venne	irreg_pp1 pastabs ind 3rd sg
+:vb:vennero	irreg_pp1 pastabs ind 3rd pl
+ver@future	irreg_pp1 fut ind
+ver@cond	irreg_pp1 pres cond
+venut@o_a	irreg_pp1 part part
+:de:ven		ire_vb
+
+:le:volere
+:vb:voglio	irreg_pp1 pres indic 1st sg
+:vb:vuoi	irreg_pp1 pres indic 2nd sg
+:vb:vuole	irreg_pp1 pres indic 3rd sg
+:vb:vogliamo	irreg_pp1 pres indic 1st pl
+:vb:volete	irreg_pp1 pres indic 2nd pl
+:vb:vogliono	irreg_pp1 pres indic 3rd pl
+:vb:volli	irreg_pp1 pastabs ind 1st sg
+:vb:volesti	irreg_pp1 pastabs ind 2nd sg
+:vb:volle	irreg_pp1 pastabs ind 3rd sg
+:vb:volemmo	irreg_pp1 pastabs ind 1st pl
+:vb:voleste	irreg_pp1 pastabs ind 2nd pl
+:vb:vollero	irreg_pp1 pastabs ind 3rd pl
+vor@future	irreg_pp1 fut ind
+vor@cond	irreg_pp1 pres cond
+:vb:voglia	irreg_pp1 pres subj 1st sg
+:vb:voglia	irreg_pp1 pres subj 2nd sg
+:vb:voglia	irreg_pp1 pres subj 3rd sg
+:vb:vogliamo	irreg_pp1 pres subj 1st pl
+:vb:vogliate	irreg_pp1 pres subj 2nd pl
+:vb:vogliano	irreg_pp1 pres subj 3rd pl
+vole@impsub	irreg_pp1 imperf subj
+:vb:vogli	irreg_pp1 pres imperat 2nd sg
+:vb:voglia	irreg_pp1 pres imperat 3rd sg
+:vb:vogliate	irreg_pp1 pres imperat 2nd pl
+:de:vol		ere_vb
