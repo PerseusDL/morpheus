@@ -84360,8 +84360,8 @@ Gythe^a_tes
 
 	<pos>adj.</pos>
 H		<orth type=alt>h</orth>
-:le:ha!
-:wd:ha!	exclam
+:le:ha
+:wd:ha	exclam
 ha^be_na		
 :le:habena
 :no:ha^be_n	a_ae fem
@@ -87100,8 +87100,9 @@ hette_ma^ti^cus
 :aj:hette_ma^ti^c	us_a_um
 
 
-:le:heu!
-:wd:heu!	exclam
+:le:heu
+:wd:heu		exclam
+
 Heure_sis		
 :le:Heuresis
 :no:Heure_s	is_eos fem
@@ -87112,8 +87113,9 @@ heure^ta
 :no:heure^t	a_ae masc
 
 
-:le:heus!
-:wd:heus!	exclam
+:le:heus
+:wd:heus	exclam
+
 hexa^chordos		<itype>on</itype>	<pos>adj.</pos>
 hexacli_non		
 :le:hexaclinon
@@ -88231,8 +88233,8 @@ hi^ulcus
 
 
 hiulce_	
-:le:ho!
-:wd:ho!	exclam
+:le:ho
+:wd:ho	exclam
 hoc#1	
 ho^di^e_		
 :le:hodie

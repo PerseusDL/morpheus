@@ -793,9 +793,10 @@
 :wd:mihi   pron1 masc/fem dat sg
 :wd:me_   pron1 masc/fem acc sg
 :wd:me_me_   pron1 masc/fem acc sg
-:wd:me_d   pron1 masc/fem acc sg
+:wd:me_d   pron1 masc/fem acc sg archaic
 :wd:me_met   pron1 masc/fem acc sg
 :wd:me_   pron1 masc/fem abl sg
+:wd:me_d   pron1 masc/fem abl sg archaic
 
 :le:nos
 :wd:egomet   pron1 masc/fem nom sg
@@ -817,7 +818,9 @@
 :wd:tui_   pron2 masc/fem gen sg
 :wd:tibi   pron2 masc/fem dat sg
 :wd:te_   pron2 masc/fem acc sg
+:wd:te_d   pron2 masc/fem acc sg archaic
 :wd:te_   pron2 masc/fem abl sg
+:wd:te_d   pron2 masc/fem abl sg archaic
 :wd:vo_s   pron2 masc/fem nom/voc pl
 :wd:vo_smet   pron2 masc/fem nom/acc pl
 :wd:vostrum   pron2 masc/fem gen pl
