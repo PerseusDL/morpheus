@@ -14,6 +14,7 @@ a_visse	perf inf act
 
 #
 asti	are_vb 2nd sg perf ind act contr
+astis	are_vb 2nd pl perf ind act contr
 a_runt	are_vb 3rd pl perf ind act contr
 a_r@past	are_vb plup ind act contr
 a_ri@basvb2	are_vb perf subj act contr

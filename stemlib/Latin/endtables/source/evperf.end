@@ -13,3 +13,11 @@ e_verint futperf ind act 3rd pl
 e_veri@basvb2	perf subj act
 e_visse	perf inf act
 
+e_sti	 2nd sg perf ind act contr
+e_stis	 2nd pl perf ind act contr
+e_runt	 3rd pl perf ind act contr
+e_r@past	 plup ind act contr
+e_ri@basvb2	 perf subj act contr
+e_ss@emsub	 plup subj act contr
+
+e_sse	 perf inf act contr
