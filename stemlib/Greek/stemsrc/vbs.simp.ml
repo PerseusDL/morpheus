@@ -7304,7 +7304,7 @@
 ;ao
 ;ao epic unaugmented
 
-le:e)re/w
+:le:e)re/w
 :de:e)r e_stem epic
 ;pr act 1st sg ind 
 ;pr,-ei
