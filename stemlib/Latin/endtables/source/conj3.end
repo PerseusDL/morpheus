@@ -12,7 +12,7 @@ e_@imperf imperf ind act
 #
 am	pres subj act 1st sg
 a_s	pres subj act 2nd sg
-a_t	pres subj act 3rd sg
+at	pres subj act 3rd sg
 a_mus	pres subj act 1st pl
 a_tis	pres subj act 2nd pl
 ant	pres subj act 3rd pl

@@ -1,6 +1,6 @@
 eo_	pres ind act 1st sg
 e_s	pres ind act 2nd sg
-e_t	pres ind act 3rd sg
+et	pres ind act 3rd sg
 e_mus	pres ind act 1st pl
 e_tis	pres ind act 2nd pl
 ent	pres ind act 3rd pl
@@ -11,7 +11,7 @@ e_@future fut ind act
 #
 eam	pres subj act 1st sg
 ea_s	pres subj act 2nd sg
-ea_t	pres subj act 3rd sg
+eat	pres subj act 3rd sg
 ea_mus	pres subj act 1st pl
 ea_tis	pres subj act 2nd pl
 eant	pres subj act 3rd pl

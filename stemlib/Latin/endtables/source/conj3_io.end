@@ -11,7 +11,7 @@ i@future2 fut ind act
 #
 iam	pres subj act 1st sg
 ia_s	pres subj act 2nd sg
-ia_t	pres subj act 3rd sg
+iat	pres subj act 3rd sg
 ia_mus	pres subj act 1st pl
 ia_tis	pres subj act 2nd pl
 iant	pres subj act 3rd pl
