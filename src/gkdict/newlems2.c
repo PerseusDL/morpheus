@@ -18,7 +18,7 @@ main()
 	char *s;
 	int rval = 0;
 
-	if( ! (fverbs=fopen("/usr/tmp/lsj.vbs","w"))) {
+	if( ! (fverbs=fopen("/tmp/lsj.vbs","w"))) {
 		fprintf(stderr,"could not open /tmp/lsj.vbs!\n");
 		exit(-1);
 	}

@@ -19,7 +19,7 @@ main()
 	char *s;
 	int rval = 0;
 
-	if( ! (fverbs=fopen("/usr/tmp/ls.vbs","w"))) {
+	if( ! (fverbs=fopen("/tmp/ls.vbs","w"))) {
 		fprintf(stderr,"could not open /tmp/ls.vbs!\n");
 		exit(-1);
 	}

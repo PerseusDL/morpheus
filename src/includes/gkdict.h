@@ -5,10 +5,10 @@
 #define STEMLIST "gkdict/indices/stindex"
 */
 #define WORDLIST "hqdict/hqdict"
-#define COMPHEADS "/usr/tmp/nom.heads"
-#define NOMLIST "/usr/tmp/nommorph"
+#define COMPHEADS "/tmp/nom.heads"
+#define NOMLIST "/tmp/nommorph"
 #define NOMINDEX "steminds/nomind"
-#define VBLIST "/usr/tmp/vbmorph"
+#define VBLIST "/tmp/vbmorph"
 #define VBINDEX "steminds/vbind"
 #define INDECLIST "hqdict/indices/indecl"
 #define IRREGLIST "hqdict/indices/irrverb"
