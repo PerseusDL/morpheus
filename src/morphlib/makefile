@@ -55,3 +55,7 @@ clean:
 
 testkey: tmain.o ${MORPHLIB} ../greeklib/greeklib.a
 	${CC} -o testkey tmain.o  ${MORPHLIB} ../greeklib/greeklib.a
+
+printcodes:	printcodes.o
+	$(CC) -o $@ printcodes.o morphlib.a ../greeklib/greeklib.a
+
