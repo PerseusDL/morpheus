@@ -17,6 +17,8 @@ CFLAGS= -O -I${INCLUDE}
 LINTFLAGS= -I${INCLUDE} -DDEBUG
 RM=/bin/rm -f
 
+LOADLIBES= -lfl
+
 ALL=gkdict.a indexcomps indexnoms indexvbs  newlems newlems2 setquant splitlems splitlat latvb conj1 combitype latnom fixhesc fixgend
 
 lexer= combitype fixhesc latnom setquant splitlems conj1 getitype latvb splitlat fixgend
@@ -25,9 +27,6 @@ all: ${ALL}
 
 install: ${ALL}
 	cp  ${ALL} ../../bin
-
-$(lexer):	%: %.o
-	$(CC) -o $@ $@.o -lfl
 
 indexcomps:  indcomps.o  ${MORPHLIB} ${GREEKLIB}
 	${CC} -o indexcomps  indcomps.o  ${MORPHLIB} ${GREEKLIB}
