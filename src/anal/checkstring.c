@@ -289,6 +289,24 @@ checkstring3(gk_word *Gkword)
 		}
 	}
 
+	if( cur_lang() == LATIN && cmpend(workword_of(Gkword),"ve",workword)) {
+		set_workword(Gkword,workword);
+		rval = checkstring3(Gkword);
+		if( rval ) {
+			set_workword(Gkword,saveword);
+			return(rval);
+		}
+	}
+
+	if( cur_lang() == LATIN && cmpend(workword_of(Gkword),"ne",workword)) {
+		set_workword(Gkword,workword);
+		rval = checkstring3(Gkword);
+		if( rval ) {
+			set_workword(Gkword,saveword);
+			return(rval);
+		}
+	}
+
 
 /* grc 8/26/93
  * am going to try to add o(/de at last to clean this up
@@ -337,6 +355,16 @@ checkstring3(gk_word *Gkword)
 	if( cur_lang() == LATIN ) {
 		char * a = workword;
 		strcpy(workword,saveword);
+
+		if( *a == 'I' ) {
+			*a = 'J';
+			set_workword(Gkword,workword);
+			rval = checkstring3(Gkword);
+			if( rval ) {
+				set_workword(Gkword,saveword);
+				return(rval);
+			}
+		}
 
 		while(*a) {
 /*
