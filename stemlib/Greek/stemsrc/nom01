@@ -9837,9 +9837,11 @@
 :le:a)pwte/rw
 :wd:a)pwte/rw  adverb comp
 
+# non-epsilons in monosyllables aren't supposed to elide, but some do
 :le:a)/ra
 :wd:a)/ra^  particle
 :wd:r(a/  particle  epic enclitic
+:wd:r('   particle  epic enclitic
 :wd:a)/r  particle  epic
 :wd:ta/r particle epic
 
