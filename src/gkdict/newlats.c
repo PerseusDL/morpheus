@@ -83,6 +83,18 @@ do_simpnom(char* stem,char* gend)
 		return(1);
 	}
 
+	if( !strcmp(stem+strlen(stem)-2,"a") 
+		&& !strcmp(gend,"<gen>f.</gen>")) {
+		dump_nom(stem,2,"a_ae fem");
+		return(1);
+	}
+
+	if( !strcmp(stem+strlen(stem)-2,"us") 
+		&& !strcmp(gend,"<gen>m.</gen>")) {
+		dump_nom(stem,2,"us_i masc");
+		return(1);
+	}
+
 	if( !strcmp(stem+strlen(stem)-2,"is") 
 		&& !strcmp(gend,"<gen>f.</gen>")) {
 		dump_nom(stem,2,"is_is fem");
@@ -477,6 +489,13 @@ do_regnom(char*stem,char*key1,char*key2,char * key3)
 		return(1);
 	}
 
+	if( !strcmp("<itype>um</itype>",key1) && 
+	    !strcmp(key2,"<gen>m.</gen>") && 
+	   (!strcmp(stem+strlen(stem)-2,"es")) ) {
+		dump_nom(stem,2,"is_is masc pl");	
+		return(1);
+	}
+
 	if( !strcmp("<itype>o_ris</itype>",key1) && 
 	    !strcmp(key2,"<gen>m.</gen>") && 
 	   (!strcmp(stem+strlen(stem)-2,"or")) ) {
@@ -623,9 +642,11 @@ do_regnom(char*stem,char*key1,char*key2,char * key3)
 	}
 
 	if( !strcmp("<itype>u_s</itype>",key1) && 
-	    !strcmp(key2,"<gen>m.</gen>") && 
 	   (!strcmp(stem+strlen(stem)-2,"us")) ) {
-		dump_nom(stem,2,"us_us masc");	
+	    	if( !strcmp(key2,"<gen>f.</gen>"))
+			dump_nom(stem,2,"us_us fem");	
+		else
+			dump_nom(stem,2,"us_us masc");	
 		return(1);
 	}
 
@@ -720,6 +741,27 @@ do_regnom(char*stem,char*key1,char*key2,char * key3)
 		else
 			dump_nom(stem,2,"ix_icis fem");	
 		
+		return(1);
+	}
+
+
+	if( !strcmp("<itype>a_cis</itype>",key1) ) {
+		if( !strcmp("<pos>adj.</pos>",key2) ) 
+			dump_adj(stem,2,"ax_adj");	
+		if( !strcmp("<gen>m.</gen>",key2) ) 
+			dump_nom(stem,2,"x_cis masc");	
+		
+		return(1);
+
+	}
+
+	if( !strcmp("<itype>fe^ra,",key1) ) {
+		dump_adj(stem,0,"0_a_um");	
+		return(1);
+	}
+
+	if( !strcmp("<itype>e^ra,",key1) ) {
+		dump_adj(stem,0,"0_a_um");	
 		return(1);
 	}
 

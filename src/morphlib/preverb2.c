@@ -148,6 +148,7 @@ CombPbStemL(char *curpb, char *restofs, Dialect dial, MorphFlags *pbflags)
 	}
 	if( !strcmp("ad",curpb)) {
 		switch(*restofs) {
+			case 'c':
 			case 'f':
 			case 'g':
 			case 'l':
