@@ -1,0 +1,12 @@
+#!/usr/bin/perl
+
+$/ = '<entryFree';
+
+while (<>) {
+    s#^\s*key=[^>]+>##;
+    s#<entryFree$##;
+
+#    if (s#<gen>([mf])\.</gen>\s+
+
+    print $_, "\n\n";
+}
