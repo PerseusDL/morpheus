@@ -258,6 +258,7 @@ enclitic_word ItalianSuff[] = {
   "le", VERBSTEM,
   "gli", VERBSTEM,
   "loro", VERBSTEM,
+  "si", VERBSTEM,
   "", 0				/* sentintel */
 };
 
