@@ -252,9 +252,9 @@ printf("outname [%s]\n", outname );
   fclose(foutput);
   fclose(ffailed);
   if(nwords) {
-    fprintf(fstats,"FINAL:  %ld %ld %0.2f %d\n", 
+    fprintf(fstats,"FINAL:  words %ld, analyzed %ld (%0.2f pct), %d\n", 
 	    nwords , nhits, 100* ((float)nhits/(float)nwords) , rval  );
-    fprintf(stderr,"FINAL:  %ld %ld %0.2f %d\n", 
+    fprintf(stderr,"FINAL:  words %ld, analyzed %ld (%0.2f pct), %d\n", 
 	    nwords , nhits, 100* ((float)nhits/(float)nwords) , rval  );
     }
 
