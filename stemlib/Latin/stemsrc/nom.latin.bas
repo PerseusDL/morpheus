@@ -212,6 +212,9 @@
 :wd:circum	prep
 :wd:circum	adverb
 
+:le:cis
+:wd:cis		prep
+
 :le:citer
 :aj:cit	er_ra_rum no_comp
 :aj:citer ior_ius_comp 
