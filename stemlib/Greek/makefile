@@ -25,7 +25,7 @@ deriv:
 	buildderiv all
 	indderivtables
 
-noms:	stemsrc/lsj.nom stemsrc/nom.irreg stemind/nomind
+noms:	stemsrc/nom.irreg stemind/nomind
 
 vbs:	stemsrc/lsj.vbs stemsrc/vbs.irreg stemind/vbind
 
@@ -36,10 +36,10 @@ stemind/vbind:
 	mv conjfile.short /tmp/vbmorph
 	indexvbs
 
-stemsrc/nom.irreg: stemsrc/irreg.nom.src
+stemsrc/nom.irreg:	stemsrc/irreg.nom.src
 	buildword < stemsrc/irreg.nom.src > stemsrc/nom.irreg
 
-stemsrc/vbs.irreg: stemsrc/irreg.vbs.src
+stemsrc/vbs.irreg:	stemsrc/irreg.vbs.src
 	buildword < stemsrc/irreg.vbs.src > stemsrc/vbs.irreg
 
 stemsrc/lemlist:
@@ -47,7 +47,7 @@ stemsrc/lemlist:
 	    stemsrc/vbs.simp.ml stemsrc/vbs.simp.02.new | fgrep ":le:" | \
 	    cut -d":" -f 3 | sort | awk '{print $$1 " "}' > stemsrc/lemlist
 
-stemind/nomind:	stemsrc/dopnom
+stemind/nomind:	stemsrc/dopnom stemsrc/lsj.nom
 	cat stemsrc/nom.* stemsrc/nom[0-9]*  stemsrc/lsj.nom \
 	    stemsrc/lsj.byhand > /tmp/nommorph
 	cat stemsrc/pnom* | stemsrc/dopnom >> /tmp/nommorph
@@ -62,10 +62,10 @@ ia.noms:
 	fgrep 0 /tmp/ia.base | awk '{print $$1}' | rev | sort -d | \
 	    rev > /tmp/ia.failed
 
-lsj.nom lsj.vbs:
+stemsrc/lsj.nom stemsrc/lsj.vbs:
 	[ -f ${LSJDIR}/lemmata ] && ${MAKE} lsj.morph
 
-lsj.morph:
+lsj.morph:	${LSJDIR}/lemmata
 	sed -e 's/\-//' ${LSJDIR}/lemmata | setquant | splitlems | newlems | \
 	    fgrep -v "1 " | fgrep -v ": " | newlems2 > /tmp/lsj.morph
 	cp /tmp/lsj.vbs stemsrc
