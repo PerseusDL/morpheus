@@ -9,3 +9,6 @@
 
 :le:amo/re
 :no:amo/r	e_i masc
+
+:le:potenza
+:no:potenz	a_e fem

@@ -1055,7 +1055,7 @@
 :wd:accidentalmente	adverb
 
 :le:accidentalita\
-:no:accidentalita\	indecl fem
+:no:accidentalit	a_acc fem
 
 :le:accidentario
 :aj:accidentari	o_a
@@ -1109,7 +1109,7 @@
 :aj:accliv	e_i
 
 :le:acclivita\
-:no:acclivita\	indecl fem
+:no:acclivit	a_acc fem
 
 :le:accluso
 :aj:acclus	o_a
@@ -1676,7 +1676,7 @@
 :aj:acquazzos	o_a
 
 :le:acqueita\
-:no:acqueita\	indecl fem
+:no:acqueit	a_acc fem
 
 :le:acquidoso
 :aj:acquidos	o_a
@@ -1790,7 +1790,7 @@
 :no:acrostic	o_i masc
 
 :le:acuita\
-:no:acuita\	indecl fem
+:no:acuit	a_acc fem
 
 :le:aculeato
 :aj:aculeat	o_a
@@ -1853,7 +1853,7 @@
 :aj:adattabil	e_i
 
 :le:adattabilita\
-:no:adattabilita\	indecl fem
+:no:adattabilit	a_acc fem
 
 :le:adattamento
 :no:adattament	o_i masc
@@ -2993,7 +2993,7 @@
 :no:aft	a_e fem
 
 :le:aga\
-:no:aga\	indecl masc
+:no:ag	a_acc masc
 
 :le:agallaco
 :no:agallac	o_i masc
@@ -3851,7 +3851,7 @@
 :aj:alcaligen	o_a
 
 :le:alcalinita\
-:no:alcalinita\	indecl fem
+:no:alcalinit	a_acc fem
 
 :le:alcalizzazione
 :no:alcalizzazion	e_i fem
@@ -4373,7 +4373,7 @@
 :aj:allodial	e_i
 
 :le:allodialita\
-:no:allodialita\	indecl fem
+:no:allodialit	a_acc fem
 
 :le:allodio
 :no:allodi	o_i masc
@@ -4568,7 +4568,7 @@
 :aj:alterabil	e_i
 
 :le:alterabilita\
-:no:alterabilita\	indecl fem
+:no:alterabilit	a_acc fem
 
 :le:alteratore
 :no:alterator	e_i masc
@@ -4763,7 +4763,7 @@
 :wd:amabilmente	adverb
 
 :le:amabilita\
-:no:amabilita\	indecl fem
+:no:amabilit	a_acc fem
 
 :le:amaca
 :no:amac	a_e fem
@@ -5048,7 +5048,7 @@
 :aj:amissibil	e_i
 
 :le:amissibilita\
-:no:amissibilita\	indecl fem
+:no:amissibilit	a_acc fem
 
 :le:ammaccamento
 :no:ammaccament	o_i masc
@@ -5252,7 +5252,7 @@
 :wd:ammirabilmente	adverb
 
 :le:ammirabilita\
-:no:ammirabilita\	indecl fem
+:no:ammirabilit	a_acc fem
 
 :le:ammiragliato
 :no:ammiragliat	o_i masc
@@ -5261,7 +5261,7 @@
 :no:ammiragli	o_i masc
 
 :le:ammiralita\
-:no:ammiralita\	indecl fem
+:no:ammiralit	a_acc fem
 
 :le:ammiramento
 :no:ammirament	o_i masc
@@ -5462,7 +5462,7 @@
 :no:amorin	o_i masc
 
 :le:amorosita\
-:no:amorosita\	indecl fem
+:no:amorosit	a_acc fem
 
 :le:amorosa
 :no:amoros	a_e fem
@@ -5543,7 +5543,7 @@
 :no:ampoll	a_e fem
 
 :le:ampollosita\
-:no:ampollosita\	indecl fem
+:no:ampollosit	a_acc fem
 
 :le:ampolloso
 :aj:ampollos	o_a
@@ -6101,7 +6101,7 @@
 :no:animalipiant	e_i masc
 
 :le:animalita\
-:no:animalita\	indecl fem
+:no:animalit	a_acc fem
 
 :le:animallegratore
 :no:animallegrator	e_i masc
@@ -6482,7 +6482,7 @@
 :wd:anteriormente	adverb
 
 :le:anteriorita\
-:no:anteriorita\	indecl fem
+:no:anteriorit	a_acc fem
 
 :le:antescritto
 :aj:antescritt	o_a
@@ -7820,7 +7820,7 @@
 :no:aquilon	e_i masc
 
 :le:aquosita\
-:no:aquosita\	indecl fem
+:no:aquosit	a_acc fem
 
 :le:arabesco
 :no:arabesc	o_i masc
@@ -8798,7 +8798,7 @@
 :no:aromatari	o_i masc
 
 :le:aromaticita\
-:no:aromaticita\	indecl fem
+:no:aromaticit	a_acc fem
 
 :le:aromatico
 :aj:aromati	co_ca
@@ -8924,7 +8924,7 @@
 :wd:arrendevolmente	adverb
 
 :le:arrendibilita\
-:no:arrendibilita\	indecl fem
+:no:arrendibilit	a_acc fem
 
 :le:arrendibile
 :aj:arrendibil	e_i
@@ -9242,7 +9242,7 @@
 :no:artifici	o_i masc
 
 :le:artificiosita\
-:no:artificiosita\	indecl fem
+:no:artificiosit	a_acc fem
 
 :le:artificioso
 :aj:artificios	o_a
@@ -9527,7 +9527,7 @@
 :aj:asinin	o_a
 
 :le:asinita\
-:no:asinita\	indecl fem
+:no:asinit	a_acc fem
 
 :le:asino
 :no:asin	o_i masc
@@ -10115,7 +10115,7 @@
 :no:assunzion	e_i fem
 
 :le:assurdita\
-:no:assurdita\	indecl fem
+:no:assurdit	a_acc fem
 
 :le:assurdo
 :no:assurd	o_i masc
@@ -12458,7 +12458,7 @@
 :no:bambol	o_i masc
 
 :le:bambu\
-:no:bambu\	indecl masc
+:no:bamb	u_acc masc
 
 :le:banano
 :no:banan	o_i masc
@@ -12629,7 +12629,7 @@
 :no:barbarism	o_i masc
 
 :le:barbarita\
-:no:barbarita\	indecl fem
+:no:barbarit	a_acc fem
 
 :le:barbaro
 :aj:barbar	o_a
@@ -12911,7 +12911,7 @@
 :no:basament	o_i masc
 
 :le:bassa\
-:no:bassa\	indecl masc
+:no:bass	a_acc masc
 
 :le:base
 :no:bas	e_i fem
@@ -14123,7 +14123,7 @@
 :wd:bestialmente	adverb
 
 :le:bestialita\
-:no:bestialita\	indecl fem
+:no:bestialit	a_acc fem
 
 :le:bestiame
 :no:bestiam	e_i masc
@@ -15386,7 +15386,7 @@
 :no:bon	o_i masc
 
 :le:bonta\
-:no:bonta\	indecl fem
+:no:bont	a_acc fem
 
 :le:bontadioso
 :aj:bontadios	o_a
@@ -15494,7 +15494,7 @@
 :no:borgomastr	o_i masc
 
 :le:boriosita\
-:no:boriosita\	indecl fem
+:no:boriosit	a_acc fem
 
 :le:boriata
 :no:boriat	a_e fem
@@ -15893,7 +15893,7 @@
 :no:bramit	o_i masc
 
 :le:bramosita\
-:no:bramosita\	indecl fem
+:no:bramosit	a_acc fem
 
 :le:bramoso
 :aj:bramos	o_a
@@ -16490,7 +16490,7 @@
 :wd:brutalmente	adverb
 
 :le:brutalita\
-:no:brutalita\	indecl fem
+:no:brutalit	a_acc fem
 
 :le:bruto
 :no:brut	o_i masc
@@ -16511,7 +16511,7 @@
 :no:bruzzol	o_i masc
 
 :le:bu\
-:no:bu\	indecl masc
+:no:b	u_acc masc
 
 :le:bua
 :no:bu	a_e fem
@@ -16829,7 +16829,7 @@
 :wd:buonamente	adverb
 
 :le:buonarieta\
-:no:buonarieta\	indecl fem
+:no:buonariet	a_acc fem
 
 :le:buonavoglia
 :no:buonavogli	a_e masc
@@ -17291,7 +17291,7 @@
 :aj:cacios	o_a
 
 :le:cacita\
-:no:cacita\	indecl fem
+:no:cacit	a_acc fem
 
 :le:cacochimia
 :no:cacochimi	a_e fem
@@ -17357,7 +17357,7 @@
 :no:caduce	o_i masc
 
 :le:caducita\
-:no:caducita\	indecl fem
+:no:caducit	a_acc fem
 
 :le:caduco
 :aj:cadu	co_ca
@@ -17486,7 +17486,7 @@
 :no:calamit	a_e fem
 
 :le:calamita\
-:no:calamita\	indecl fem
+:no:calamit	a_acc fem
 
 :le:calamitico
 :aj:calamiti	co_ca
@@ -17720,7 +17720,7 @@
 :no:caldin	o_i masc
 
 :le:caldita\
-:no:caldita\	indecl fem
+:no:caldit	a_acc fem
 
 :le:caldo
 :no:cald	o_i masc
@@ -17816,7 +17816,7 @@
 :no:calicion	e_i masc
 
 :le:calidita\
-:no:calidita\	indecl fem
+:no:calidit	a_acc fem
 
 :le:calido
 :aj:calid	o_a
@@ -17846,7 +17846,7 @@
 :no:call	e_i masc
 
 :le:callidita\
-:no:callidita\	indecl fem
+:no:callidit	a_acc fem
 
 :le:callido
 :aj:callid	o_a
@@ -17909,7 +17909,7 @@
 :no:caloric	o_i masc
 
 :le:calorosita\
-:no:calorosita\	indecl fem
+:no:calorosit	a_acc fem
 
 :le:calorifero
 :aj:calorifer	o_a
@@ -18746,7 +18746,7 @@
 :no:canonichess	a_e fem
 
 :le:canonicita\
-:no:canonicita\	indecl fem
+:no:canonicit	a_acc fem
 
 :le:canonico
 :no:canonic	o_i masc
@@ -19562,7 +19562,7 @@
 :no:capricci	o_i masc
 
 :le:capricciosita\
-:no:capricciosita\	indecl fem
+:no:capricciosit	a_acc fem
 
 :le:capriccioso
 :aj:capriccios	o_a
@@ -20027,7 +20027,7 @@
 :wd:carnalmente	adverb
 
 :le:carnalita\
-:no:carnalita\	indecl fem
+:no:carnalit	a_acc fem
 
 :le:carnaloso
 :aj:carnalos	o_a
@@ -20672,7 +20672,7 @@
 :wd:casualmente	adverb
 
 :le:casualita\
-:no:casualita\	indecl fem
+:no:casualit	a_acc fem
 
 :le:casuario
 :no:casuari	o_i masc
@@ -20879,7 +20879,7 @@
 :no:cattivier	a_e fem
 
 :le:cattivita\
-:no:cattivita\	indecl fem
+:no:cattivit	a_acc fem
 
 :le:cattivo
 :aj:cattiv	o_a
@@ -20894,7 +20894,7 @@
 :no:cattolicism	o_i masc
 
 :le:cattolicita\
-:no:cattolicita\	indecl fem
+:no:cattolicit	a_acc fem
 
 :le:cattolico
 :no:cattolic	o_i masc
@@ -20966,7 +20966,7 @@
 :no:causon	e_i masc
 
 :le:causticita\
-:no:causticita\	indecl fem
+:no:causticit	a_acc fem
 
 :le:caustico
 :no:caustic	o_i masc
@@ -21326,7 +21326,7 @@
 :no:cecer	o_i masc
 
 :le:cechita\
-:no:cechita\	indecl fem
+:no:cechit	a_acc fem
 
 :le:cecino
 :no:cecin	o_i masc
@@ -21506,7 +21506,7 @@
 :wd:celeremente	adverb
 
 :le:celerita\
-:no:celerita\	indecl fem
+:no:celerit	a_acc fem
 
 :le:celesto
 :aj:celest	o_a
@@ -22985,7 +22985,7 @@
 :no:chiozz	o_i masc
 
 :le:chipu\
-:no:chipu\	indecl masc
+:no:chip	u_acc masc
 
 :le:chiragra
 :no:chiragr	a_e fem
@@ -23084,7 +23084,7 @@
 :wd:ci	adverb
 
 :le:cia\
-:no:cia\	indecl masc
+:no:ci	a_acc masc
 
 :le:ciaba
 :no:ciab	a_e masc
@@ -24032,7 +24032,7 @@
 :wd:circolamente	adverb
 
 :le:circolarita\
-:no:circolarita\	indecl fem
+:no:circolarit	a_acc fem
 
 :le:circolato
 :no:circolat	o_i masc
@@ -24311,7 +24311,7 @@
 :aj:cispos	o_a
 
 :le:cisposita\
-:no:cisposita\	indecl fem
+:no:cisposit	a_acc fem
 
 :le:cissoide
 :no:cissoid	e_i fem
@@ -24395,7 +24395,7 @@
 :aj:citri	co_ca
 
 :le:citrinita\
-:no:citrinita\	indecl fem
+:no:citrinit	a_acc fem
 
 :le:citrino
 :aj:citrin	o_a
@@ -25070,7 +25070,7 @@
 :aj:coequal	e_i
 
 :le:coequalita\
-:no:coequalita\	indecl fem
+:no:coequalit	a_acc fem
 
 :le:coenzione
 :no:coenzion	e_i fem
@@ -25121,7 +25121,7 @@
 :aj:coetane	o_a
 
 :le:coeternita\
-:no:coeternita\	indecl fem
+:no:coeternit	a_acc fem
 
 :le:coeterno
 :aj:coetern	o_a
@@ -25916,7 +25916,7 @@
 :aj:combustibil	e_i
 
 :le:combustibilita\
-:no:combustibilita\	indecl fem
+:no:combustibilit	a_acc fem
 
 :le:combustione
 :no:combustion	e_i fem
@@ -26114,7 +26114,7 @@
 :aj:commensurabil	e_i
 
 :le:commensurabilita\
-:no:commensurabilita\	indecl fem
+:no:commensurabilit	a_acc fem
 
 :le:commensurazione
 :no:commensurazion	e_i fem
@@ -26279,7 +26279,7 @@
 :no:communion	e_i fem
 
 :le:communita\
-:no:communita\	indecl fem
+:no:communit	a_acc fem
 
 :le:commovitore
 :no:commovitor	e_i masc
@@ -26480,7 +26480,7 @@
 :wd:compatibilmente	adverb
 
 :le:compatibilita\
-:no:compatibilita\	indecl fem
+:no:compatibilit	a_acc fem
 
 :le:compatimento
 :no:compatiment	o_i masc
@@ -26741,7 +26741,7 @@
 :no:complic	e_i masc
 
 :le:complicita\
-:no:complicita\	indecl fem
+:no:complicit	a_acc fem
 
 :le:complimentario
 :no:complimentari	o_i masc
@@ -26897,13 +26897,13 @@
 :aj:comprensibil	e_i
 
 :le:comprensibilita\
-:no:comprensibilita\	indecl fem
+:no:comprensibilit	a_acc fem
 
 :le:comprensione
 :no:comprension	e_i fem
 
 :le:comprensivita\
-:no:comprensivita\	indecl fem
+:no:comprensivit	a_acc fem
 
 :le:comprensivo
 :aj:comprensiv	o_a
@@ -26930,7 +26930,7 @@
 :aj:compressibil	e_i
 
 :le:compressibilita\
-:no:compressibilita\	indecl fem
+:no:compressibilit	a_acc fem
 
 :le:compressione
 :no:compression	e_i fem
@@ -26960,7 +26960,7 @@
 :no:compromissari	o_i masc
 
 :le:comproprieta\
-:no:comproprieta\	indecl fem
+:no:compropriet	a_acc fem
 
 :le:comproprietario
 :no:comproprietari	o_i masc
@@ -27056,7 +27056,7 @@
 :aj:comunicabil	e_i
 
 :le:comunicabilita\
-:no:comunicabilita\	indecl fem
+:no:comunicabilit	a_acc fem
 
 :le:comunicanza
 :no:comunicanz	a_e fem
@@ -27527,7 +27527,7 @@
 :no:concordi	a_e fem
 
 :le:concordita\
-:no:concordita\	indecl fem
+:no:concordit	a_acc fem
 
 :le:concorporante
 :aj:concorporant	e_i
@@ -27716,7 +27716,7 @@
 :aj:condensabil	e_i
 
 :le:condensabilita\
-:no:condensabilita\	indecl fem
+:no:condensabilit	a_acc fem
 
 :le:condensamento
 :no:condensament	o_i masc
@@ -27893,7 +27893,7 @@
 :no:condutt	a_e fem
 
 :le:conduttibilita\
-:no:conduttibilita\	indecl fem
+:no:conduttibilit	a_acc fem
 
 :le:conduttizio
 :aj:conduttizi	o_a
@@ -28592,13 +28592,13 @@
 :wd:connaturalmente	adverb
 
 :le:connaturalita\
-:no:connaturalita\	indecl fem
+:no:connaturalit	a_acc fem
 
 :le:connazionale
 :aj:connazional	e_i
 
 :le:connessita\
-:no:connessita\	indecl fem
+:no:connessit	a_acc fem
 
 :le:connessivo
 :aj:connessiv	o_a
@@ -28667,7 +28667,7 @@
 :aj:conoscibil	e_i
 
 :le:conoscibilita\
-:no:conoscibilita\	indecl fem
+:no:conoscibilit	a_acc fem
 
 :le:conoscimento
 :no:conosciment	o_i masc
@@ -29114,7 +29114,7 @@
 :no:conspett	o_i masc
 
 :le:conspicuita\
-:no:conspicuita\	indecl fem
+:no:conspicuit	a_acc fem
 
 :le:conspicuo
 :aj:conspicu	o_a
@@ -29249,7 +29249,7 @@
 :wd:consustanzialmente	adverb
 
 :le:consustanzialita\
-:no:consustanzialita\	indecl fem
+:no:consustanzialit	a_acc fem
 
 :le:consustanziazione
 :no:consustanziazion	e_i fem
@@ -29261,7 +29261,7 @@
 :aj:contabil	e_i
 
 :le:contabilita\
-:no:contabilita\	indecl fem
+:no:contabilit	a_acc fem
 
 :le:contadina
 :no:contadin	a_e fem
@@ -29588,7 +29588,7 @@
 :aj:contingibil	e_i
 
 :le:contingibilita\
-:no:contingibilita\	indecl fem
+:no:contingibilit	a_acc fem
 
 :le:continova
 :no:continov	a_e fem
@@ -30035,7 +30035,7 @@
 :aj:contrattil	e_i
 
 :le:contrattilita\
-:no:contrattilita\	indecl fem
+:no:contrattilit	a_acc fem
 
 :le:contrattivo
 :aj:contrattiv	o_a
@@ -30188,7 +30188,7 @@
 :wd:controvertimente	adverb
 
 :le:controvertibilita\
-:no:controvertibilita\	indecl fem
+:no:controvertibilit	a_acc fem
 
 :le:controvolonta\
 :wd:controvolonta\	adverb
@@ -30404,7 +30404,7 @@
 :wd:convertibilmente	adverb
 
 :le:convertibilita\
-:no:convertibilita\	indecl fem
+:no:convertibilit	a_acc fem
 
 :le:convertimento
 :no:convertiment	o_i masc
@@ -30425,7 +30425,7 @@
 :aj:convertivol	e_i
 
 :le:convessita\
-:no:convessita\	indecl fem
+:no:convessit	a_acc fem
 
 :le:convesso
 :aj:convess	o_a
@@ -30911,7 +30911,7 @@
 :wd:cordialmente	adverb
 
 :le:cordialita\
-:no:cordialita\	indecl fem
+:no:cordialit	a_acc fem
 
 :le:cordiera
 :no:cordier	a_e fem
@@ -31232,7 +31232,7 @@
 :wd:corporalmente	adverb
 
 :le:corporalita\
-:no:corporalita\	indecl fem
+:no:corporalit	a_acc fem
 
 :le:corporatura
 :no:corporatur	a_e fem
@@ -31244,7 +31244,7 @@
 :aj:corporeat	o_a
 
 :le:corporeita\
-:no:corporeita\	indecl fem
+:no:corporeit	a_acc fem
 
 :le:corporeo
 :aj:corpore	o_a
@@ -31361,7 +31361,7 @@
 :no:correr	o_i masc
 
 :le:correspettivita\
-:no:correspettivita\	indecl fem
+:no:correspettivit	a_acc fem
 
 :le:correspettivo
 :aj:correspettiv	o_a
@@ -31841,7 +31841,7 @@
 :no:cospetton	e_i masc
 
 :le:cospicuita\
-:no:cospicuita\	indecl fem
+:no:cospicuit	a_acc fem
 
 :le:cospicuo
 :aj:cospicu	o_a
@@ -32288,7 +32288,7 @@
 :no:crabron	e_i masc
 
 :le:cracra\
-:no:cracra\	indecl fem
+:no:cracr	a_acc fem
 
 :le:crai
 :wd:crai	adverb
@@ -32309,7 +32309,7 @@
 :no:cranioscopi	a_e fem
 
 :le:crapulosita\
-:no:crapulosita\	indecl fem
+:no:crapulosit	a_acc fem
 
 :le:crapulone
 :no:crapulon	e_i masc
@@ -32435,7 +32435,7 @@
 :wd:credibilmente	adverb
 
 :le:credibilita\
-:no:credibilita\	indecl fem
+:no:credibilit	a_acc fem
 
 :le:credito
 :no:credit	o_i masc
@@ -32660,7 +32660,7 @@
 :wd:criminalmente	adverb
 
 :le:criminalita\
-:no:criminalita\	indecl fem
+:no:criminalit	a_acc fem
 
 :le:criminatore
 :no:criminator	e_i masc
@@ -33089,7 +33089,7 @@
 :wd:crudelmente	adverb
 
 :le:crudelita\
-:no:crudelita\	indecl fem
+:no:crudelit	a_acc fem
 
 :le:crudeltate
 :no:crudeltat	e_i fem
@@ -33251,7 +33251,7 @@
 :no:cuccum	a_e fem
 
 :le:cuccurucu\
-:no:cuccurucu\	indecl masc
+:no:cuccuruc	u_acc masc
 
 :le:cuciculo
 :no:cucicul	o_i masc
@@ -33557,7 +33557,7 @@
 :aj:curabil	e_i
 
 :le:curabilita\
-:no:curabilita\	indecl fem
+:no:curabilit	a_acc fem
 
 :le:curadenti
 :no:curadenti	indecl masc
@@ -33626,7 +33626,7 @@
 :no:curial	e_i masc
 
 :le:curialita\
-:no:curialita\	indecl fem
+:no:curialit	a_acc fem
 
 :le:curiandolo
 :no:curiandol	o_i masc
@@ -33659,7 +33659,7 @@
 :aj:curt	o_a
 
 :le:curucu\
-:no:curucu\	indecl masc
+:no:curuc	u_acc masc
 
 :le:curule
 :no:curul	e_i fem
@@ -33773,7 +33773,7 @@
 :aj:dabben	e_i
 
 :le:dabbuda\
-:no:dabbuda\	indecl masc
+:no:dabbud	a_acc masc
 
 :le:daccapo
 :wd:daccapo	adverb
@@ -35345,7 +35345,7 @@
 :no:depravament	o_i masc
 
 :le:depravita\
-:no:depravita\	indecl fem
+:no:depravit	a_acc fem
 
 :le:deprecabile
 :aj:deprecabil	e_i
@@ -35732,7 +35732,7 @@
 :no:destatoj	o_i masc
 
 :le:desterita\
-:no:desterita\	indecl fem
+:no:desterit	a_acc fem
 
 :le:destinata
 :no:destinat	a_e fem
@@ -36350,7 +36350,7 @@
 :aj:dicac	e_i
 
 :le:dicacita\
-:no:dicacita\	indecl fem
+:no:dicacit	a_acc fem
 
 :le:dicasterio
 :no:dicasteri	o_i masc
@@ -36605,7 +36605,7 @@
 :wd:difettualmente	adverb
 
 :le:difettuosita\
-:no:difettuosita\	indecl fem
+:no:difettuosit	a_acc fem
 
 :le:difettuoso
 :aj:difettuos	o_a
@@ -36740,7 +36740,7 @@
 :aj:difform	e_i
 
 :le:difformita\
-:no:difformita\	indecl fem
+:no:difformit	a_acc fem
 
 :le:diffranto
 :aj:diffrant	o_a
@@ -36857,7 +36857,7 @@
 :aj:digiunt	o_a
 
 :le:dignita\
-:no:dignita\	indecl fem
+:no:dignit	a_acc fem
 
 :le:dignitoso
 :aj:dignitos	o_a
@@ -37004,7 +37004,7 @@
 :aj:dilatabil	e_i
 
 :le:dilatabilita\
-:no:dilatabilita\	indecl fem
+:no:dilatabilit	a_acc fem
 
 :le:dilatatore
 :no:dilatator	e_i masc
@@ -37919,7 +37919,7 @@
 :no:disabbelliment	o_i masc
 
 :le:disabilita\
-:no:disabilita\	indecl fem
+:no:disabilit	a_acc fem
 
 :le:disabitato
 :aj:disabitat	o_a
@@ -38030,7 +38030,7 @@
 :aj:disambizios	o_a
 
 :le:disamenita\
-:no:disamenita\	indecl fem
+:no:disamenit	a_acc fem
 
 :le:disameno
 :aj:disamen	o_a
@@ -38045,7 +38045,7 @@
 :aj:disaminant	e_i
 
 :le:disamista\
-:no:disamista\	indecl fem
+:no:disamist	a_acc fem
 
 :le:disammirazione
 :no:disammirazion	e_i fem
@@ -38972,7 +38972,7 @@
 :no:disegnatur	a_e fem
 
 :le:disegualita\
-:no:disegualita\	indecl fem
+:no:disegualit	a_acc fem
 
 :le:diseguale
 :aj:disegual	e_i
@@ -39149,7 +39149,7 @@
 :aj:disform	e_i
 
 :le:disformita\
-:no:disformita\	indecl fem
+:no:disformit	a_acc fem
 
 :le:disfortunato
 :aj:disfortunat	o_a
@@ -39524,7 +39524,7 @@
 :no:disolatur	a_e fem
 
 :le:disonestita\
-:no:disonestita\	indecl fem
+:no:disonestit	a_acc fem
 
 :le:disonesto
 :aj:disonest	o_a
@@ -40103,7 +40103,7 @@
 :wd:disputabilmente	adverb
 
 :le:disputabilita\
-:no:disputabilita\	indecl fem
+:no:disputabilit	a_acc fem
 
 :le:disputatore
 :no:disputator	e_i masc
@@ -40277,7 +40277,7 @@
 :aj:dissipabil	e_i
 
 :le:dissipabilita\
-:no:dissipabilita\	indecl fem
+:no:dissipabilit	a_acc fem
 
 :le:dissipamento
 :no:dissipament	o_i masc
@@ -40730,7 +40730,7 @@
 :aj:disunibil	e_i
 
 :le:disunita\
-:no:disunita\	indecl fem
+:no:disunit	a_acc fem
 
 :le:disunitamente
 :wd:disunitamente	adverb
@@ -40763,7 +40763,7 @@
 :wd:disutilmente	adverb
 
 :le:disutilita\
-:no:disutilita\	indecl fem
+:no:disutilit	a_acc fem
 
 :le:disutole
 :aj:disutol	e_i
@@ -41027,7 +41027,7 @@
 :no:diversion	e_i fem
 
 :le:diversita\
-:no:diversita\	indecl fem
+:no:diversit	a_acc fem
 
 :le:diversivo
 :aj:diversiv	o_a
@@ -41093,7 +41093,7 @@
 :no:dividiment	o_i masc
 
 :le:dividuita\
-:no:dividuita\	indecl fem
+:no:dividuit	a_acc fem
 
 :le:dividuo
 :aj:dividu	o_a
@@ -41132,7 +41132,7 @@
 :no:divincolazion	e_i fem
 
 :le:divinita\
-:no:divinita\	indecl fem
+:no:divinit	a_acc fem
 
 :le:divinazzione
 :no:divinazzion	e_i fem
@@ -41168,7 +41168,7 @@
 :aj:divisibil	e_i
 
 :le:divisibilita\
-:no:divisibilita\	indecl fem
+:no:divisibilit	a_acc fem
 
 :le:divisione
 :no:division	e_i fem
@@ -41231,7 +41231,7 @@
 :aj:divolt	o_a
 
 :le:divoracita\
-:no:divoracita\	indecl fem
+:no:divoracit	a_acc fem
 
 :le:divoraggine
 :no:divoraggin	e_i fem
@@ -41330,7 +41330,7 @@
 :aj:docil	e_i
 
 :le:docilita\
-:no:docilita\	indecl fem
+:no:docilit	a_acc fem
 
 :le:docimastica
 :no:docimastic	a_e fem
@@ -41540,7 +41540,7 @@
 :wd:dolorosamente	adverb
 
 :le:dolosita\
-:no:dolosita\	indecl fem
+:no:dolosit	a_acc fem
 
 :le:doloso
 :aj:dolos	o_a
@@ -42104,7 +42104,7 @@
 :wd:dozzinalmente	adverb
 
 :le:dozzinalita\
-:no:dozzinalita\	indecl fem
+:no:dozzinalit	a_acc fem
 
 :le:dozzinante
 :no:dozzinant	e_i masc
@@ -42326,7 +42326,7 @@
 :no:dualist	a_e masc
 
 :le:dualita\
-:no:dualita\	indecl fem
+:no:dualit	a_acc fem
 
 :le:dubbiezza
 :no:dubbiezz	a_e fem
@@ -42620,13 +42620,13 @@
 :wd:duro	adverb
 
 :le:durta\
-:no:durta\	indecl fem
+:no:durt	a_acc fem
 
 :le:duttile
 :aj:duttil	e_i
 
 :le:duttilita\
-:no:duttilita\	indecl fem
+:no:duttilit	a_acc fem
 
 :le:dutto
 :no:dutt	o_i masc
@@ -42770,7 +42770,7 @@
 :wd:eccelsamente	adverb
 
 :le:eccentricita\
-:no:eccentricita\	indecl fem
+:no:eccentricit	a_acc fem
 
 :le:eccentrico
 :aj:eccentri	co_ca
@@ -42788,7 +42788,7 @@
 :no:eccess	o_i masc
 
 :le:eccessivita\
-:no:eccessivita\	indecl fem
+:no:eccessivit	a_acc fem
 
 :le:eccetera
 :no:ecceter	a_e masc
@@ -42815,7 +42815,7 @@
 :no:eccidi	o_i masc
 
 :le:eccitabilita\
-:no:eccitabilita\	indecl fem
+:no:eccitabilit	a_acc fem
 
 :le:eccitamento
 :no:eccitament	o_i masc
@@ -42929,7 +42929,7 @@
 :aj:edac	e_i
 
 :le:edacita\
-:no:edacita\	indecl fem
+:no:edacit	a_acc fem
 
 :le:edda
 :no:edd	a_e fem
@@ -43064,7 +43064,7 @@
 :no:effendi	indecl masc
 
 :le:efferita\
-:no:efferita\	indecl fem
+:no:efferit	a_acc fem
 
 :le:efferato
 :aj:efferat	o_a
@@ -43076,7 +43076,7 @@
 :no:effervescenz	a_e fem
 
 :le:effettivita\
-:no:effettivita\	indecl fem
+:no:effettivit	a_acc fem
 
 :le:effettuale
 :aj:effettual	e_i
@@ -43271,7 +43271,7 @@
 :no:elafobosc	o_i masc
 
 :le:elasticita\
-:no:elasticita\	indecl fem
+:no:elasticit	a_acc fem
 
 :le:elastico
 :aj:elasti	co_ca
@@ -43334,7 +43334,7 @@
 :aj:eleggibil	e_i
 
 :le:eleggibilita\
-:no:eleggibilita\	indecl fem
+:no:eleggibilit	a_acc fem
 
 :le:eleggimento
 :no:eleggiment	o_i masc
@@ -43409,7 +43409,7 @@
 :no:elettovari	o_i masc
 
 :le:elettricita\
-:no:elettricita\	indecl fem
+:no:elettricit	a_acc fem
 
 :le:elettricismo
 :no:elettricism	o_i masc
@@ -43508,7 +43508,7 @@
 :aj:eligibil	e_i
 
 :le:eligibilita\
-:no:eligibilita\	indecl fem
+:no:eligibilit	a_acc fem
 
 :le:elimosina
 :no:elimosin	a_e fem
@@ -43583,7 +43583,7 @@
 :aj:ellitti	co_ca
 
 :le:ellitticita\
-:no:ellitticita\	indecl fem
+:no:ellitticit	a_acc fem
 
 :le:elmato
 :aj:elmat	o_a
@@ -43655,7 +43655,7 @@
 :no:emaciazion	e_i fem
 
 :le:emacita\
-:no:emacita\	indecl fem
+:no:emacit	a_acc fem
 
 :le:emaculato
 :aj:emaculat	o_a
@@ -44561,7 +44561,7 @@
 :wd:equamente	adverb
 
 :le:equanimita\
-:no:equanimita\	indecl fem
+:no:equanimit	a_acc fem
 
 :le:equanimo
 :aj:equanim	o_a
@@ -44792,7 +44792,7 @@
 :no:ered	a_e fem
 
 :le:eredita\
-:no:eredita\	indecl fem
+:no:eredit	a_acc fem
 
 :le:eretaggio
 :no:eretaggi	o_i masc
@@ -44834,7 +44834,7 @@
 :wd:ereticalmente	adverb
 
 :le:ereticita\
-:no:ereticita\	indecl fem
+:no:ereticit	a_acc fem
 
 :le:eretico
 :no:eretic	o_i masc
@@ -44939,7 +44939,7 @@
 :no:eroicheri	a_e fem
 
 :le:eroicita\
-:no:eroicita\	indecl fem
+:no:eroicit	a_acc fem
 
 :le:eroico
 :aj:eroi	co_ca
@@ -45623,7 +45623,7 @@
 :aj:esigibil	e_i
 
 :le:esigibilita\
-:no:esigibilita\	indecl fem
+:no:esigibilit	a_acc fem
 
 :le:esiglio
 :no:esigli	o_i masc
@@ -45638,7 +45638,7 @@
 :no:esili	o_i masc
 
 :le:esilita\
-:no:esilita\	indecl fem
+:no:esilit	a_acc fem
 
 :le:esimente
 :aj:esiment	e_i
@@ -45755,13 +45755,13 @@
 :aj:esoteri	co_ca
 
 :le:esoticita\
-:no:esoticita\	indecl fem
+:no:esoticit	a_acc fem
 
 :le:esotico
 :aj:esoti	co_ca
 
 :le:espansibilita\
-:no:espansibilita\	indecl fem
+:no:espansibilit	a_acc fem
 
 :le:espansione
 :no:espansion	e_i fem
@@ -46163,7 +46163,7 @@
 :wd:essenzialmente	adverb
 
 :le:essenzialita\
-:no:essenzialita\	indecl fem
+:no:essenzialit	a_acc fem
 
 :le:essequie
 :no:essequi	e_i fem
@@ -46211,7 +46211,7 @@
 :no:est	indecl masc
 
 :le:esta\
-:no:esta\	indecl fem
+:no:est	a_acc fem
 
 :le:estasi
 :no:estasi	indecl fem
@@ -46226,7 +46226,7 @@
 :aj:estemporal	e_i
 
 :le:estemporalita\
-:no:estemporalita\	indecl fem
+:no:estemporalit	a_acc fem
 
 :le:estemporaneo
 :aj:estemporane	o_a
@@ -46274,7 +46274,7 @@
 :wd:esteriormente	adverb
 
 :le:esteriorita\
-:no:esteriorita\	indecl fem
+:no:esteriorit	a_acc fem
 
 :le:esterminatore
 :no:esterminator	e_i masc
@@ -46463,7 +46463,7 @@
 :no:estrazion	e_i fem
 
 :le:estremita\
-:no:estremita\	indecl fem
+:no:estremit	a_acc fem
 
 :le:estremo
 :no:estrem	o_i masc
@@ -46586,7 +46586,7 @@
 :wd:eternalmente	adverb
 
 :le:eternita\
-:no:eternita\	indecl fem
+:no:eternit	a_acc fem
 
 :le:eterno
 :aj:etern	o_a
@@ -46610,7 +46610,7 @@
 :aj:eterodoss	o_a
 
 :le:eterogeneita\
-:no:eterogeneita\	indecl fem
+:no:eterogeneit	a_acc fem
 
 :le:eterogeneo
 :aj:eterogene	o_a
@@ -46844,7 +46844,7 @@
 :aj:eventual	e_i
 
 :le:eventualita\
-:no:eventualita\	indecl fem
+:no:eventualit	a_acc fem
 
 :le:eversione
 :no:eversion	e_i fem
@@ -47108,13 +47108,13 @@
 :no:facitur	a_e fem
 
 :le:facolta\
-:no:facolta\	indecl fem
+:no:facolt	a_acc fem
 
 :le:facoltoso
 :aj:facoltos	o_a
 
 :le:facondita\
-:no:facondita\	indecl fem
+:no:facondit	a_acc fem
 
 :le:facondo
 :aj:facond	o_a
@@ -47126,7 +47126,7 @@
 :no:factotum	indecl masc
 
 :le:faculta\
-:no:faculta\	indecl fem
+:no:facult	a_acc fem
 
 :le:facultativo
 :aj:facultativ	o_a
@@ -47219,7 +47219,7 @@
 :no:falavesc	a_e fem
 
 :le:falbala\
-:no:falbala\	indecl fem
+:no:falbal	a_acc fem
 
 :le:falbo
 :aj:falb	o_a
@@ -47360,7 +47360,7 @@
 :aj:fallabil	e_i
 
 :le:fallibilita\
-:no:fallibilita\	indecl fem
+:no:fallibilit	a_acc fem
 
 :le:fallimento
 :no:falliment	o_i masc
@@ -47405,7 +47405,7 @@
 :aj:faloti	co_ca
 
 :le:falpala\
-:no:falpala\	indecl fem
+:no:falpal	a_acc fem
 
 :le:falsa
 :no:fals	a_e fem
@@ -47543,10 +47543,10 @@
 :wd:familiarmente	adverb
 
 :le:familiarita\
-:no:familiarita\	indecl fem
+:no:familiarit	a_acc fem
 
 :le:famosita\
-:no:famosita\	indecl fem
+:no:famosit	a_acc fem
 
 :le:famoso
 :aj:famos	o_a
@@ -47990,7 +47990,7 @@
 :no:fastidiosaggin	e_i fem
 
 :le:fastidiosita\
-:no:fastidiosita\	indecl fem
+:no:fastidiosit	a_acc fem
 
 :le:fastidioso
 :aj:fastidios	o_a
@@ -48158,7 +48158,7 @@
 :aj:fattur	o_a
 
 :le:fatuita\
-:no:fatuita\	indecl fem
+:no:fatuit	a_acc fem
 
 :le:fatuo
 :aj:fatu	o_a
@@ -48497,7 +48497,7 @@
 :no:fedit	a_e fem
 
 :le:fedita\
-:no:fedita\	indecl fem
+:no:fedit	a_acc fem
 
 :le:fedo
 :aj:fed	o_a
@@ -48641,7 +48641,7 @@
 :wd:femminilmente	adverb
 
 :le:femminilita\
-:no:femminilita\	indecl fem
+:no:femminilit	a_acc fem
 
 :le:femminino
 :aj:femminin	o_a
@@ -48701,7 +48701,7 @@
 :aj:ferac	e_i
 
 :le:feracita\
-:no:feracita\	indecl fem
+:no:feracit	a_acc fem
 
 :le:ferale
 :no:feral	e_i masc
@@ -48749,7 +48749,7 @@
 :no:feriment	o_i masc
 
 :le:ferinita\
-:no:ferinita\	indecl fem
+:no:ferinit	a_acc fem
 
 :le:ferino
 :aj:ferin	o_a
@@ -48770,7 +48770,7 @@
 :no:ferit	a_e fem
 
 :le:ferita\
-:no:ferita\	indecl fem
+:no:ferit	a_acc fem
 
 :le:feritoja
 :no:feritoj	a_e fem
@@ -48944,7 +48944,7 @@
 :wd:fertilmente	adverb
 
 :le:fertilita\
-:no:fertilita\	indecl fem
+:no:fertilit	a_acc fem
 
 :le:fertilizzante
 :aj:fertilizzant	e_i
@@ -49067,7 +49067,7 @@
 :aj:festin	o_a
 
 :le:festivita\
-:no:festivita\	indecl fem
+:no:festivit	a_acc fem
 
 :le:festivo
 :aj:festiv	o_a
@@ -49136,7 +49136,7 @@
 :aj:feudal	e_i
 
 :le:feudalita\
-:no:feudalita\	indecl fem
+:no:feudalit	a_acc fem
 
 :le:feudatario
 :no:feudatari	o_i masc
@@ -49307,7 +49307,7 @@
 :no:fibrolit	e_i fem
 
 :le:fibrosita\
-:no:fibrosita\	indecl fem
+:no:fibrosit	a_acc fem
 
 :le:fibroso
 :aj:fibros	o_a
@@ -49409,7 +49409,7 @@
 :aj:fidel	e_i
 
 :le:fidelita\
-:no:fidelita\	indecl fem
+:no:fidelit	a_acc fem
 
 :le:fidente
 :aj:fident	e_i
@@ -49475,7 +49475,7 @@
 :aj:fieral	e_i
 
 :le:fierita\
-:no:fierita\	indecl fem
+:no:fierit	a_acc fem
 
 :le:fiero
 :aj:fier	o_a
@@ -49490,7 +49490,7 @@
 :wd:fievolmente	adverb
 
 :le:fievolita\
-:no:fievolita\	indecl fem
+:no:fievolit	a_acc fem
 
 :le:fifa
 :no:fif	a_e fem
@@ -49574,7 +49574,7 @@
 :aj:figurabil	e_i
 
 :le:figurabilita\
-:no:figurabilita\	indecl fem
+:no:figurabilit	a_acc fem
 
 :le:figurale
 :aj:figural	e_i
@@ -49910,7 +49910,7 @@
 :no:finit	a_e fem
 
 :le:finita\
-:no:finita\	indecl fem
+:no:finit	a_acc fem
 
 :le:finitezza
 :no:finitezz	a_e fem
@@ -50141,7 +50141,7 @@
 :no:fiscaless	a_e fem
 
 :le:fiscalita\
-:no:fiscalita\	indecl fem
+:no:fiscalit	a_acc fem
 
 :le:fiscella
 :no:fiscell	a_e fem
@@ -50168,7 +50168,7 @@
 :no:fiscin	a_e fem
 
 :le:fisciu\
-:no:fisciu\	indecl masc
+:no:fisci	u_acc masc
 
 :le:fisco
 :no:fisc	o_i masc
@@ -50528,7 +50528,7 @@
 :aj:flessibil	e_i
 
 :le:flessibilita\
-:no:flessibilita\	indecl fem
+:no:flessibilit	a_acc fem
 
 :le:flessura
 :no:flessur	a_e fem
@@ -51392,7 +51392,7 @@
 :aj:formidabil	e_i
 
 :le:formidabilita\
-:no:formidabilita\	indecl fem
+:no:formidabilit	a_acc fem
 
 :le:formidine
 :no:formidin	e_i fem
@@ -51407,7 +51407,7 @@
 :no:formulari	o_i masc
 
 :le:formosita\
-:no:formosita\	indecl fem
+:no:formosit	a_acc fem
 
 :le:formoso
 :aj:formos	o_a
@@ -51719,7 +51719,7 @@
 :no:fottivent	o_i masc
 
 :le:fra\
-:no:fra\	indecl masc
+:no:fr	a_acc masc
 
 :le:fracassamento
 :no:fracassament	o_i masc
@@ -51917,7 +51917,7 @@
 :aj:frangibil	e_i
 
 :le:frangibilita\
-:no:frangibilita\	indecl fem
+:no:frangibilit	a_acc fem
 
 :le:frangimento
 :no:frangiment	o_i masc
@@ -52142,7 +52142,7 @@
 :wd:fraternamente	adverb
 
 :le:fraternita\
-:no:fraternita\	indecl fem
+:no:fraternit	a_acc fem
 
 :le:fraternita
 :no:fraternit	a_e fem
@@ -52463,7 +52463,7 @@
 :aj:friabil	e_i
 
 :le:friabilita\
-:no:friabilita\	indecl fem
+:no:friabilit	a_acc fem
 
 :le:fricassea
 :no:fricasse	a_e fem
@@ -52481,7 +52481,7 @@
 :no:frigidezz	a_e fem
 
 :le:frigidita\
-:no:frigidita\	indecl fem
+:no:frigidit	a_acc fem
 
 :le:frigido
 :aj:frigid	o_a
@@ -52871,7 +52871,7 @@
 :no:frutt	o_i masc
 
 :le:fruttuosita\
-:no:fruttuosita\	indecl fem
+:no:fruttuosit	a_acc fem
 
 :le:fruttuoso
 :aj:fruttuos	o_a
@@ -52886,7 +52886,7 @@
 :aj:ftisi	co_ca
 
 :le:fu\
-:no:fu\	indecl fem
+:no:f	u_acc fem
 
 :le:fucato
 :aj:fucat	o_a
@@ -52916,7 +52916,7 @@
 :aj:fuggevol	e_i
 
 :le:fugacita\
-:no:fugacita\	indecl fem
+:no:fugacit	a_acc fem
 
 :le:fugamento
 :no:fugament	o_i masc
@@ -52970,7 +52970,7 @@
 :aj:fulgent	e_i
 
 :le:fulgidita\
-:no:fulgidita\	indecl fem
+:no:fulgidit	a_acc fem
 
 :le:fulvido
 :aj:fulvid	o_a
@@ -53321,7 +53321,7 @@
 :aj:fusil	e_i
 
 :le:fusibilita\
-:no:fusibilita\	indecl fem
+:no:fusibilit	a_acc fem
 
 :le:fusile
 :aj:fusil	e_i
@@ -54026,7 +54026,7 @@
 :no:garrit	o_i masc
 
 :le:garrulita\
-:no:garrulita\	indecl fem
+:no:garrulit	a_acc fem
 
 :le:garrulo
 :aj:garrul	o_a
@@ -54428,7 +54428,7 @@
 :aj:generabil	e_i
 
 :le:generabilita\
-:no:generabilita\	indecl fem
+:no:generabilit	a_acc fem
 
 :le:generalato
 :no:generalat	o_i masc
@@ -54515,7 +54515,7 @@
 :wd:genialmente	adverb
 
 :le:genialita\
-:no:genialita\	indecl fem
+:no:genialit	a_acc fem
 
 :le:genicoluto
 :aj:genicolut	o_a
@@ -54731,7 +54731,7 @@
 :no:germanism	o_i masc
 
 :le:germanita\
-:no:germanita\	indecl fem
+:no:germanit	a_acc fem
 
 :le:germano
 :no:german	o_i masc
@@ -55514,7 +55514,7 @@
 :aj:giocolari	o_a
 
 :le:giocolarita\
-:no:giocolarita\	indecl fem
+:no:giocolarit	a_acc fem
 
 :le:giocolatoriamente
 :wd:giocolatoriamente	adverb
@@ -55541,7 +55541,7 @@
 :aj:giocondos	o_a
 
 :le:giocosita\
-:no:giocosita\	indecl fem
+:no:giocosit	a_acc fem
 
 :le:giocoso
 :aj:giocos	o_a
@@ -55739,7 +55739,7 @@
 :aj:giovial	e_i
 
 :le:giovialita\
-:no:giovialita\	indecl fem
+:no:giovialit	a_acc fem
 
 :le:giovo
 :no:giov	o_i masc
@@ -56048,7 +56048,7 @@
 :no:giuli	o_i masc
 
 :le:giulivita\
-:no:giulivita\	indecl fem
+:no:giulivit	a_acc fem
 
 :le:giulivo
 :aj:giuliv	o_a
@@ -56063,7 +56063,7 @@
 :aj:giullares	co_ca
 
 :le:giullarita\
-:no:giullarita\	indecl fem
+:no:giullarit	a_acc fem
 
 :le:giumella
 :no:giumell	a_e fem
@@ -56513,7 +56513,7 @@
 :no:glutin	o_i masc
 
 :le:glutinosita\
-:no:glutinosita\	indecl fem
+:no:glutinosit	a_acc fem
 
 :le:glutinoso
 :aj:glutinos	o_a
@@ -57098,7 +57098,7 @@
 :aj:gracil	e_i
 
 :le:gracilita\
-:no:gracilita\	indecl fem
+:no:gracilit	a_acc fem
 
 :le:gracimolamento
 :no:gracimolament	o_i masc
@@ -57422,7 +57422,7 @@
 :aj:grandinos	o_a
 
 :le:grandiosita\
-:no:grandiosita\	indecl fem
+:no:grandiosit	a_acc fem
 
 :le:grandioso
 :aj:grandios	o_a
@@ -57770,7 +57770,7 @@
 :aj:gravison	o_a
 
 :le:gravita\
-:no:gravita\	indecl fem
+:no:gravit	a_acc fem
 
 :le:gravitante
 :aj:gravitant	e_i
@@ -57782,7 +57782,7 @@
 :aj:gravitonant	e_i
 
 :le:gravosita\
-:no:gravosita\	indecl fem
+:no:gravosit	a_acc fem
 
 :le:gravoso
 :aj:gravos	o_a
@@ -57815,7 +57815,7 @@
 :no:graziol	a_e fem
 
 :le:graziosita\
-:no:graziosita\	indecl fem
+:no:graziosit	a_acc fem
 
 :le:grazioso
 :aj:grazios	o_a
@@ -57854,7 +57854,7 @@
 :no:grecist	a_e masc
 
 :le:grecita\
-:no:grecita\	indecl fem
+:no:grecit	a_acc fem
 
 :le:greco
 :aj:gre	co_ca
@@ -58172,7 +58172,7 @@
 :wd:grosso	adverb
 
 :le:grossolanita\
-:no:grossolanita\	indecl fem
+:no:grossolanit	a_acc fem
 
 :le:grossolano
 :aj:grossolan	o_a
@@ -58205,7 +58205,7 @@
 :no:grottesc	a_e fem
 
 :le:grottescherita\
-:no:grottescherita\	indecl fem
+:no:grottescherit	a_acc fem
 
 :le:grottesco
 :aj:grottes	co_ca
@@ -59105,7 +59105,7 @@
 :no:idealism	o_i masc
 
 :le:idealita\
-:no:idealita\	indecl fem
+:no:idealit	a_acc fem
 
 :le:idealista
 :no:idealist	a_e masc
@@ -59123,7 +59123,7 @@
 :wd:identicamente	adverb
 
 :le:identita\
-:no:identita\	indecl fem
+:no:identit	a_acc fem
 
 :le:ideologia
 :no:ideologi	a_e fem
@@ -59228,7 +59228,7 @@
 :no:idol	e_i masc
 
 :le:idoneita\
-:no:idoneita\	indecl fem
+:no:idoneit	a_acc fem
 
 :le:idoneo
 :aj:idone	o_a
@@ -59420,7 +59420,7 @@
 :wd:ignobilmente	adverb
 
 :le:ignobilta\
-:no:ignobilta\	indecl fem
+:no:ignobilt	a_acc fem
 
 :le:ignocco
 :no:ignocc	o_i masc
@@ -59456,7 +59456,7 @@
 :wd:ignotamente	adverb
 
 :le:ignudita\
-:no:ignudita\	indecl fem
+:no:ignudit	a_acc fem
 
 :le:ignudo
 :aj:ignud	o_a
@@ -59477,7 +59477,7 @@
 :aj:ilar	e_i
 
 :le:ilarita\
-:no:ilarita\	indecl fem
+:no:ilarit	a_acc fem
 
 :le:ileo
 :no:ile	o_i masc
@@ -59543,7 +59543,7 @@
 :wd:illegalmente	adverb
 
 :le:illegittimita\
-:no:illegittimita\	indecl fem
+:no:illegittimit	a_acc fem
 
 :le:illegittimo
 :aj:illegittim	o_a
@@ -59792,7 +59792,7 @@
 :aj:imbecill	e_i
 
 :le:imbecillita\
-:no:imbecillita\	indecl fem
+:no:imbecillit	a_acc fem
 
 :le:imbelle
 :aj:imbell	e_i
@@ -60203,7 +60203,7 @@
 :aj:immanifest	o_a
 
 :le:immanita\
-:no:immanita\	indecl fem
+:no:immanit	a_acc fem
 
 :le:immansueto
 :aj:immansuet	o_a
@@ -60227,10 +60227,10 @@
 :no:immaterialist	a_e masc
 
 :le:immaterialita\
-:no:immaterialita\	indecl fem
+:no:immaterialit	a_acc fem
 
 :le:immaturita\
-:no:immaturita\	indecl fem
+:no:immaturit	a_acc fem
 
 :le:immaturo
 :aj:immatur	o_a
@@ -60260,7 +60260,7 @@
 :aj:immemor	e_i
 
 :le:immensita\
-:no:immensita\	indecl fem
+:no:immensit	a_acc fem
 
 :le:immenso
 :aj:immens	o_a
@@ -60347,7 +60347,7 @@
 :wd:immobilmente	adverb
 
 :le:immobilita\
-:no:immobilita\	indecl fem
+:no:immobilit	a_acc fem
 
 :le:immobole
 :aj:immobol	e_i
@@ -60386,7 +60386,7 @@
 :no:immollament	o_i masc
 
 :le:immondita\
-:no:immondita\	indecl fem
+:no:immondit	a_acc fem
 
 :le:immondo
 :aj:immond	o_a
@@ -60398,7 +60398,7 @@
 :aj:immoral	e_i
 
 :le:immoralita\
-:no:immoralita\	indecl fem
+:no:immoralit	a_acc fem
 
 :le:immortale
 :aj:immortal	e_i
@@ -60407,7 +60407,7 @@
 :wd:immortalmente	adverb
 
 :le:immortalita\
-:no:immortalita\	indecl fem
+:no:immortalit	a_acc fem
 
 :le:immortificato
 :aj:immortificat	o_a
@@ -60425,7 +60425,7 @@
 :aj:immun	e_i
 
 :le:immunita\
-:no:immunita\	indecl fem
+:no:immunit	a_acc fem
 
 :le:immutabile
 :aj:immutabil	e_i
@@ -60434,7 +60434,7 @@
 :wd:immutabilmente	adverb
 
 :le:immutabilita\
-:no:immutabilita\	indecl fem
+:no:immutabilit	a_acc fem
 
 :le:immutazione
 :no:immutazion	e_i fem
@@ -60575,7 +60575,7 @@
 :wd:impareggiabilmente	adverb
 
 :le:imparita\
-:no:imparita\	indecl fem
+:no:imparit	a_acc fem
 
 :le:imparolato
 :aj:imparolat	o_a
@@ -60590,7 +60590,7 @@
 :aj:imparzial	e_i
 
 :le:imparzialita\
-:no:imparzialita\	indecl fem
+:no:imparzialit	a_acc fem
 
 :le:impassibile
 :aj:impassibil	e_i
@@ -60599,10 +60599,10 @@
 :wd:impassibilmente	adverb
 
 :le:impassibilita\
-:no:impassibilita\	indecl fem
+:no:impassibilit	a_acc fem
 
 :le:impassionabilita\
-:no:impassionabilita\	indecl fem
+:no:impassionabilit	a_acc fem
 
 :le:impastamento
 :no:impastament	o_i masc
@@ -60668,7 +60668,7 @@
 :aj:impeccabil	e_i
 
 :le:impeccabilita\
-:no:impeccabilita\	indecl fem
+:no:impeccabilit	a_acc fem
 
 :le:impeciatura
 :no:impeciatur	a_e fem
@@ -60734,7 +60734,7 @@
 :wd:impenetrabilmente	adverb
 
 :le:impenetrabilita\
-:no:impenetrabilita\	indecl fem
+:no:impenetrabilit	a_acc fem
 
 :le:impenetrevole
 :aj:impenetrevol	e_i
@@ -60803,7 +60803,7 @@
 :wd:impercettibilmente	adverb
 
 :le:impercettibilita\
-:no:impercettibilita\	indecl fem
+:no:impercettibilit	a_acc fem
 
 :le:imperche\
 :wd:imperche\	adverb
@@ -60842,7 +60842,7 @@
 :wd:imperialmente	adverb
 
 :le:imperialita\
-:no:imperialita\	indecl fem
+:no:imperialit	a_acc fem
 
 :le:imperiato
 :no:imperiat	o_i masc
@@ -60857,7 +60857,7 @@
 :no:imperi	o_i masc
 
 :le:imperiosita\
-:no:imperiosita\	indecl fem
+:no:imperiosit	a_acc fem
 
 :le:imperioso
 :aj:imperios	o_a
@@ -60881,7 +60881,7 @@
 :aj:impermeabil	e_i
 
 :le:impermeabilita\
-:no:impermeabilita\	indecl fem
+:no:impermeabilit	a_acc fem
 
 :le:impermisto
 :aj:impermist	o_a
@@ -60890,7 +60890,7 @@
 :aj:impermutabil	e_i
 
 :le:impermutabilita\
-:no:impermutabilita\	indecl fem
+:no:impermutabilit	a_acc fem
 
 :le:impernatura
 :no:impernatur	a_e fem
@@ -60929,7 +60929,7 @@
 :aj:impersuasibil	e_i
 
 :le:impersuasibilita\
-:no:impersuasibilita\	indecl fem
+:no:impersuasibilit	a_acc fem
 
 :le:impertanto
 :wd:impertanto	adverb
@@ -60953,7 +60953,7 @@
 :wd:imperturbabilmente	adverb
 
 :le:imperturbabilita\
-:no:imperturbabilita\	indecl fem
+:no:imperturbabilit	a_acc fem
 
 :le:imperturbato
 :aj:imperturbat	o_a
@@ -61016,7 +61016,7 @@
 :aj:impettat	o_a
 
 :le:impetuosita\
-:no:impetuosita\	indecl fem
+:no:impetuosit	a_acc fem
 
 :le:impetuoso
 :aj:impetuos	o_a
@@ -61181,7 +61181,7 @@
 :wd:implacabilmente	adverb
 
 :le:implacabilita\
-:no:implacabilita\	indecl fem
+:no:implacabilit	a_acc fem
 
 :le:implicatore
 :no:implicator	e_i masc
@@ -61241,7 +61241,7 @@
 :aj:imponderabil	e_i
 
 :le:imponderabilita\
-:no:imponderabilita\	indecl fem
+:no:imponderabilit	a_acc fem
 
 :le:imponderato
 :aj:imponderat	o_a
@@ -61304,7 +61304,7 @@
 :wd:importunosamente	adverb
 
 :le:importuosita\
-:no:importuosita\	indecl fem
+:no:importuosit	a_acc fem
 
 :le:importuoso
 :aj:importuos	o_a
@@ -61334,7 +61334,7 @@
 :wd:impossibilmente	adverb
 
 :le:impossibilita\
-:no:impossibilita\	indecl fem
+:no:impossibilit	a_acc fem
 
 :le:imposta
 :no:impost	a_e fem
@@ -61367,7 +61367,7 @@
 :aj:impraticabil	e_i
 
 :le:impraticabilita\
-:no:impraticabilita\	indecl fem
+:no:impraticabilit	a_acc fem
 
 :le:impraticato
 :aj:impraticat	o_a
@@ -61532,10 +61532,10 @@
 :wd:improbabilmente	adverb
 
 :le:improbabilita\
-:no:improbabilita\	indecl fem
+:no:improbabilit	a_acc fem
 
 :le:improbita\
-:no:improbita\	indecl fem
+:no:improbit	a_acc fem
 
 :le:improbo
 :aj:improb	o_a
@@ -61592,7 +61592,7 @@
 :aj:improperios	o_a
 
 :le:impropieta\
-:no:impropieta\	indecl fem
+:no:impropiet	a_acc fem
 
 :le:impropio
 :aj:impropi	o_a
@@ -61619,7 +61619,7 @@
 :wd:impropriamente	adverb
 
 :le:improprieta\
-:no:improprieta\	indecl fem
+:no:impropriet	a_acc fem
 
 :le:improsciuttito
 :aj:improsciuttit	o_a
@@ -61793,7 +61793,7 @@
 :aj:impunibil	e_i
 
 :le:impunita\
-:no:impunita\	indecl fem
+:no:impunit	a_acc fem
 
 :le:impunizione
 :no:impunizion	e_i fem
@@ -61808,7 +61808,7 @@
 :wd:impuntualmente	adverb
 
 :le:impuntualita\
-:no:impuntualita\	indecl fem
+:no:impuntualit	a_acc fem
 
 :le:impuntura
 :no:impuntur	a_e fem
@@ -61901,7 +61901,7 @@
 :aj:inadattabil	e_i
 
 :le:inaddattabilita\
-:no:inaddattabilita\	indecl fem
+:no:inaddattabilit	a_acc fem
 
 :le:inadeguato
 :aj:inadeguat	o_a
@@ -61964,7 +61964,7 @@
 :wd:inalienabilmente	adverb
 
 :le:inalienabilita\
-:no:inalienabilita\	indecl fem
+:no:inalienabilit	a_acc fem
 
 :le:inalterabile
 :aj:inalterabil	e_i
@@ -61997,7 +61997,7 @@
 :aj:inamabil	e_i
 
 :le:inamenita\
-:no:inamenita\	indecl fem
+:no:inamenit	a_acc fem
 
 :le:inameno
 :aj:inamen	o_a
@@ -62006,7 +62006,7 @@
 :aj:inamissibil	e_i
 
 :le:inamissibilita\
-:no:inamissibilita\	indecl fem
+:no:inamissibilit	a_acc fem
 
 :le:inamendabile
 :aj:inamendabil	e_i
@@ -62027,7 +62027,7 @@
 :aj:inanim	e_i
 
 :le:inanita\
-:no:inanita\	indecl fem
+:no:inanit	a_acc fem
 
 :le:inanizione
 :no:inanizion	e_i fem
@@ -62159,7 +62159,7 @@
 :no:inattitudin	e_i fem
 
 :le:inattivita\
-:no:inattivita\	indecl fem
+:no:inattivit	a_acc fem
 
 :le:inattivo
 :aj:inattiv	o_a
@@ -62366,13 +62366,13 @@
 :aj:incapac	e_i
 
 :le:incapacita\
-:no:incapacita\	indecl fem
+:no:incapacit	a_acc fem
 
 :le:incapacitabile
 :aj:incapacitabil	e_i
 
 :le:incapacitabilita\
-:no:incapacitabilita\	indecl fem
+:no:incapacitabilit	a_acc fem
 
 :le:incapamento
 :no:incapament	o_i masc
@@ -62426,7 +62426,7 @@
 :aj:incastellat	o_a
 
 :le:incastita\
-:no:incastita\	indecl fem
+:no:incastit	a_acc fem
 
 :le:incasto
 :aj:incast	o_a
@@ -62627,7 +62627,7 @@
 :wd:incessantemente	adverb
 
 :le:incessabilita\
-:no:incessabilita\	indecl fem
+:no:incessabilit	a_acc fem
 
 :le:incessatamente
 :wd:incessatamente	adverb
@@ -62840,7 +62840,7 @@
 :aj:incitabil	e_i
 
 :le:incitabilita\
-:no:incitabilita\	indecl fem
+:no:incitabilit	a_acc fem
 
 :le:incitamento
 :no:incitament	o_i masc
@@ -62870,7 +62870,7 @@
 :wd:incivilmente	adverb
 
 :le:incivilta\
-:no:incivilta\	indecl fem
+:no:incivilt	a_acc fem
 
 :le:incivilmento
 :no:incivilment	o_i masc
@@ -63026,7 +63026,7 @@
 :aj:incolum	e_i
 
 :le:incolumita\
-:no:incolumita\	indecl fem
+:no:incolumit	a_acc fem
 
 :le:incomandato
 :aj:incomandat	o_a
@@ -63047,7 +63047,7 @@
 :aj:incombustibil	e_i
 
 :le:incombustibilita\
-:no:incombustibilita\	indecl fem
+:no:incombustibilit	a_acc fem
 
 :le:incombusto
 :aj:incombust	o_a
@@ -63077,7 +63077,7 @@
 :aj:incommensurabil	e_i
 
 :le:incommensurabilita\
-:no:incommensurabilita\	indecl fem
+:no:incommensurabilit	a_acc fem
 
 :le:incommissibile
 :aj:incommissibil	e_i
@@ -63101,13 +63101,13 @@
 :wd:incommutabilmente	adverb
 
 :le:incommutabilita\
-:no:incommutabilita\	indecl fem
+:no:incommutabilit	a_acc fem
 
 :le:incommutevole
 :aj:incommutevol	e_i
 
 :le:incommodita\
-:no:incommodita\	indecl fem
+:no:incommodit	a_acc fem
 
 :le:incomparabile
 :aj:incomparabil	e_i
@@ -63128,7 +63128,7 @@
 :wd:incompatibilmente	adverb
 
 :le:incompatibilita\
-:no:incompatibilita\	indecl fem
+:no:incompatibilit	a_acc fem
 
 :le:incompensabile
 :aj:incompensabil	e_i
@@ -63176,7 +63176,7 @@
 :aj:incompossibil	e_i
 
 :le:imcompossibilita\
-:no:imcompossibilita\	indecl fem
+:no:imcompossibilit	a_acc fem
 
 :le:incompostezza
 :no:incompostezz	a_e fem
@@ -63194,7 +63194,7 @@
 :aj:incomprendevol	e_i
 
 :le:incomprendevolita\
-:no:incomprendevolita\	indecl fem
+:no:incomprendevolit	a_acc fem
 
 :le:incomprensibile
 :aj:incomprensibil	e_i
@@ -63221,7 +63221,7 @@
 :aj:incompressibil	e_i
 
 :le:incompressibilita\
-:no:incompressibilita\	indecl fem
+:no:incompressibilit	a_acc fem
 
 :le:incomunicabile
 :aj:incomunicabil	e_i
@@ -63230,7 +63230,7 @@
 :aj:inconcepibil	e_i
 
 :le:inconcepibilita\
-:no:inconcepibilita\	indecl fem
+:no:inconcepibilit	a_acc fem
 
 :le:inconcesso
 :aj:inconcess	o_a
@@ -63284,7 +63284,7 @@
 :wd:incongruentemente	adverb
 
 :le:incongruita\
-:no:incongruita\	indecl fem
+:no:incongruit	a_acc fem
 
 :le:incongruo
 :aj:incongru	o_a
@@ -63383,7 +63383,7 @@
 :aj:incontentabil	e_i
 
 :le:incontentabilita\
-:no:incontentabilita\	indecl fem
+:no:incontentabilit	a_acc fem
 
 :le:incontestabile
 :aj:incontestabil	e_i
@@ -63494,7 +63494,7 @@
 :wd:incorporalmente	adverb
 
 :le:incorporalita\
-:no:incorporalita\	indecl fem
+:no:incorporalit	a_acc fem
 
 :le:incorporamento
 :no:incorporament	o_i masc
@@ -63506,7 +63506,7 @@
 :no:incorporazion	e_i fem
 
 :le:incorporeita\
-:no:incorporeita\	indecl fem
+:no:incorporeit	a_acc fem
 
 :le:incorporeo
 :aj:incorpore	o_a
@@ -63545,7 +63545,7 @@
 :aj:incorrottibil	e_i
 
 :le:incorrottibilita\
-:no:incorrottibilita\	indecl fem
+:no:incorrottibilit	a_acc fem
 
 :le:incorrotto
 :aj:incorrott	o_a
@@ -63590,7 +63590,7 @@
 :wd:incostituzionalmente	adverb
 
 :le:incostituzionalita\
-:no:incostituzionalita\	indecl fem
+:no:incostituzionalit	a_acc fem
 
 :le:incotto
 :no:incott	o_i masc
@@ -63614,7 +63614,7 @@
 :wd:incredibilmente	adverb
 
 :le:incredibilita\
-:no:incredibilita\	indecl fem
+:no:incredibilit	a_acc fem
 
 :le:incredibole
 :aj:incredibol	e_i
@@ -63755,7 +63755,7 @@
 :wd:incurabilmente	adverb
 
 :le:incurabilita\
-:no:incurabilita\	indecl fem
+:no:incurabilit	a_acc fem
 
 :le:incurante
 :aj:incurant	e_i
@@ -63770,7 +63770,7 @@
 :wd:incuriosamente	adverb
 
 :le:incuriosita\
-:no:incuriosita\	indecl fem
+:no:incuriosit	a_acc fem
 
 :le:incursione
 :no:incursion	e_i fem
@@ -63803,7 +63803,7 @@
 :aj:indagabil	e_i
 
 :le:indagabilita\
-:no:indagabilita\	indecl fem
+:no:indagabilit	a_acc fem
 
 :le:indagamento
 :no:indagament	o_i masc
@@ -63860,7 +63860,7 @@
 :wd:indeclinabilmente	adverb
 
 :le:indeclinabilita\
-:no:indeclinabilita\	indecl fem
+:no:indeclinabilit	a_acc fem
 
 :le:indecomponibile
 :aj:indecomponibil	e_i
@@ -63893,7 +63893,7 @@
 :aj:indefettibil	e_i
 
 :le:indefettibilita\
-:no:indefettibilita\	indecl fem
+:no:indefettibilit	a_acc fem
 
 :le:indefettivo
 :aj:indefettiv	o_a
@@ -63938,7 +63938,7 @@
 :no:indegnazion	e_i fem
 
 :le:indegnita\
-:no:indegnita\	indecl fem
+:no:indegnit	a_acc fem
 
 :le:indegno
 :aj:indegn	o_a
@@ -63968,7 +63968,7 @@
 :aj:indenn	e_i
 
 :le:indennita\
-:no:indennita\	indecl fem
+:no:indennit	a_acc fem
 
 :le:indennizzamento
 :no:indennizzament	o_i masc
@@ -64154,7 +64154,7 @@
 :aj:indigestibil	e_i
 
 :le:indigestibilita\
-:no:indigestibilita\	indecl fem
+:no:indigestibilit	a_acc fem
 
 :le:indigestione
 :no:indigestion	e_i fem
@@ -64175,7 +64175,7 @@
 :no:indignazion	e_i fem
 
 :le:indignita\
-:no:indignita\	indecl fem
+:no:indignit	a_acc fem
 
 :le:indigno
 :aj:indign	o_a
@@ -64247,7 +64247,7 @@
 :wd:indisciplinabilmente	adverb
 
 :le:indisciplinabilita\
-:no:indisciplinabilita\	indecl fem
+:no:indisciplinabilit	a_acc fem
 
 :le:indisciplinato
 :aj:indisciplinat	o_a
@@ -64277,7 +64277,7 @@
 :wd:indispensabilmente	adverb
 
 :le:indispensabilita\
-:no:indispensabilita\	indecl fem
+:no:indispensabilit	a_acc fem
 
 :le:indisperato
 :aj:indisperat	o_a
@@ -64310,7 +64310,7 @@
 :wd:indissolubilmente	adverb
 
 :le:indissolubilita\
-:no:indissolubilita\	indecl fem
+:no:indissolubilit	a_acc fem
 
 :le:indistaccabilmente
 :wd:indistaccabilmente	adverb
@@ -64322,7 +64322,7 @@
 :aj:indistinguibil	e_i
 
 :le:indistinguibilita\
-:no:indistinguibilita\	indecl fem
+:no:indistinguibilit	a_acc fem
 
 :le:indistinto
 :no:indistint	o_i masc
@@ -64352,7 +64352,7 @@
 :wd:individualmente	adverb
 
 :le:individualita\
-:no:individualita\	indecl fem
+:no:individualit	a_acc fem
 
 :le:individuante
 :aj:individuant	e_i
@@ -64361,7 +64361,7 @@
 :no:individuazion	e_i fem
 
 :le:individuita\
-:no:individuita\	indecl fem
+:no:individuit	a_acc fem
 
 :le:individuo
 :no:individu	o_i masc
@@ -64412,7 +64412,7 @@
 :wd:indivisibilmente	adverb
 
 :le:indivisibilita\
-:no:indivisibilita\	indecl fem
+:no:indivisibilit	a_acc fem
 
 :le:indiviso
 :aj:indivis	o_a
@@ -64442,7 +64442,7 @@
 :wd:indocilmente	adverb
 
 :le:indocilita\
-:no:indocilita\	indecl fem
+:no:indocilit	a_acc fem
 
 :le:indoglito
 :aj:indoglit	o_a
@@ -64589,7 +64589,7 @@
 :wd:indubitabilmente	adverb
 
 :le:indubitabilita\
-:no:indubitabilita\	indecl fem
+:no:indubitabilit	a_acc fem
 
 :le:indubitantemente
 :wd:indubitantemente	adverb
@@ -64727,7 +64727,7 @@
 :wd:ineffabilmente	adverb
 
 :le:ineffabilita\
-:no:ineffabilita\	indecl fem
+:no:ineffabilit	a_acc fem
 
 :le:ineffettuazione
 :no:ineffettuazion	e_i fem
@@ -64751,7 +64751,7 @@
 :wd:inegualmente	adverb
 
 :le:inegualita\
-:no:inegualita\	indecl fem
+:no:inegualit	a_acc fem
 
 :le:inelegante
 :aj:inelegant	e_i
@@ -64784,13 +64784,13 @@
 :aj:inequabil	e_i
 
 :le:inequabilita\
-:no:inequabilita\	indecl fem
+:no:inequabilit	a_acc fem
 
 :le:inequale
 :aj:inequal	e_i
 
 :le:inequalita\
-:no:inequalita\	indecl fem
+:no:inequalit	a_acc fem
 
 :le:inequivalente
 :aj:inequivalent	e_i
@@ -64889,7 +64889,7 @@
 :aj:inesigibil	e_i
 
 :le:inesigibilita\
-:no:inesigibilita\	indecl fem
+:no:inesigibilit	a_acc fem
 
 :le:inesione
 :no:inesion	e_i fem
@@ -64901,7 +64901,7 @@
 :wd:inesorabilmente	adverb
 
 :le:inesorabilita\
-:no:inesorabilita\	indecl fem
+:no:inesorabilit	a_acc fem
 
 :le:inespedito
 :aj:inespedit	o_a
@@ -64931,7 +64931,7 @@
 :aj:inesplebil	e_i
 
 :le:inesplebilita\
-:no:inesplebilita\	indecl fem
+:no:inesplebilit	a_acc fem
 
 :le:inesplicabile
 :aj:inesplicabil	e_i
@@ -64952,7 +64952,7 @@
 :wd:inespugnabilmente	adverb
 
 :le:inespugnabilita\
-:no:inespugnabilita\	indecl fem
+:no:inespugnabilit	a_acc fem
 
 :le:inespurgato
 :aj:inespurgat	o_a
@@ -64982,7 +64982,7 @@
 :wd:inestinguibilmente	adverb
 
 :le:inestinguibilita\
-:no:inestinguibilita\	indecl fem
+:no:inestinguibilit	a_acc fem
 
 :le:inestinto
 :aj:inestint	o_a
@@ -64994,7 +64994,7 @@
 :wd:inestirpabilmente	adverb
 
 :le:inestirpabilita\
-:no:inestirpabilita\	indecl fem
+:no:inestirpabilit	a_acc fem
 
 :le:inestricabile
 :aj:inestricabil	e_i
@@ -65030,7 +65030,7 @@
 :wd:inevitabilmente	adverb
 
 :le:inevitabilita\
-:no:inevitabilita\	indecl fem
+:no:inevitabilit	a_acc fem
 
 :le:inevitevole
 :aj:inevitevol	e_i
@@ -65096,7 +65096,7 @@
 :no:infami	a_e fem
 
 :le:infamita\
-:no:infamita\	indecl fem
+:no:infamit	a_acc fem
 
 :le:infando
 :aj:infand	o_a
@@ -65120,7 +65120,7 @@
 :aj:infantil	e_i
 
 :le:infantilita\
-:no:infantilita\	indecl fem
+:no:infantilit	a_acc fem
 
 :le:infanzia
 :no:infanzi	a_e fem
@@ -65150,7 +65150,7 @@
 :wd:infaticabilmente	adverb
 
 :le:infaticabilita\
-:no:infaticabilita\	indecl fem
+:no:infaticabilit	a_acc fem
 
 :le:infausto
 :aj:infaust	o_a
@@ -65159,7 +65159,7 @@
 :wd:infaustamente	adverb
 
 :le:infecondita\
-:no:infecondita\	indecl fem
+:no:infecondit	a_acc fem
 
 :le:infecondo
 :aj:infecond	o_a
@@ -65171,7 +65171,7 @@
 :wd:infedelmente	adverb
 
 :le:infedelita\
-:no:infedelita\	indecl fem
+:no:infedelit	a_acc fem
 
 :le:infelice
 :aj:infelic	e_i
@@ -65180,7 +65180,7 @@
 :wd:infelicemente	adverb
 
 :le:infelicita\
-:no:infelicita\	indecl fem
+:no:infelicit	a_acc fem
 
 :le:infeltrato
 :aj:infeltrat	o_a
@@ -65207,7 +65207,7 @@
 :wd:inferioremente	adverb
 
 :le:inferiorita\
-:no:inferiorita\	indecl fem
+:no:inferiorit	a_acc fem
 
 :le:infermazione
 :no:infermazion	e_i fem
@@ -65222,7 +65222,7 @@
 :no:infermier	e_i masc
 
 :le:infermita\
-:no:infermita\	indecl fem
+:no:infermit	a_acc fem
 
 :le:infermo
 :aj:inferm	o_a
@@ -65237,7 +65237,7 @@
 :aj:infernal	e_i
 
 :le:infernalita\
-:no:infernalita\	indecl fem
+:no:infernalit	a_acc fem
 
 :le:inferno
 :no:infern	o_i masc
@@ -65252,13 +65252,13 @@
 :no:inferriat	a_e fem
 
 :le:inferta\
-:no:inferta\	indecl fem
+:no:infert	a_acc fem
 
 :le:infertile
 :aj:infertil	e_i
 
 :le:infertilita\
-:no:infertilita\	indecl fem
+:no:infertilit	a_acc fem
 
 :le:infervoramento
 :no:infervorament	o_i masc
@@ -65339,7 +65339,7 @@
 :aj:infiammabil	e_i
 
 :le:infiammabilita\
-:no:infiammabilita\	indecl fem
+:no:infiammabilit	a_acc fem
 
 :le:infiammagione
 :no:infiammagion	e_i fem
@@ -65381,7 +65381,7 @@
 :aj:infidel	e_i
 
 :le:infidelita\
-:no:infidelita\	indecl fem
+:no:infidelit	a_acc fem
 
 :le:infido
 :aj:infid	o_a
@@ -65426,7 +65426,7 @@
 :no:infilzatur	a_e fem
 
 :le:infimita\
-:no:infimita\	indecl fem
+:no:infimit	a_acc fem
 
 :le:infimo
 :aj:infim	o_a
@@ -65546,7 +65546,7 @@
 :no:infiorescenz	a_e fem
 
 :le:infirmita\
-:no:infirmita\	indecl fem
+:no:infirmit	a_acc fem
 
 :le:infirmo
 :aj:infirm	o_a
@@ -65576,7 +65576,7 @@
 :wd:inflessibilmente	adverb
 
 :le:inflessibilita\
-:no:inflessibilita\	indecl fem
+:no:inflessibilit	a_acc fem
 
 :le:inflessione
 :no:inflession	e_i fem
@@ -65687,7 +65687,7 @@
 :no:informicolament	o_i masc
 
 :le:informita\
-:no:informita\	indecl fem
+:no:informit	a_acc fem
 
 :le:infornapane
 :no:infornapan	e_i masc
@@ -65855,7 +65855,7 @@
 :aj:infruttifer	o_a
 
 :le:infruttuosita\
-:no:infruttuosita\	indecl fem
+:no:infruttuosit	a_acc fem
 
 :le:infruttuoso
 :aj:infruttuos	o_a
@@ -65906,7 +65906,7 @@
 :aj:infusibil	e_i
 
 :le:infusibilita\
-:no:infusibilita\	indecl fem
+:no:infusibilit	a_acc fem
 
 :le:infusione
 :no:infusion	e_i fem
@@ -66023,7 +66023,7 @@
 :aj:ingenerabil	e_i
 
 :le:ingenerabilita\
-:no:ingenerabilita\	indecl fem
+:no:ingenerabilit	a_acc fem
 
 :le:ingeneramento
 :no:ingenerament	o_i masc
@@ -66050,7 +66050,7 @@
 :no:ingeni	o_i masc
 
 :le:ingeniosita\
-:no:ingeniosita\	indecl fem
+:no:ingeniosit	a_acc fem
 
 :le:ingenioso
 :aj:ingenios	o_a
@@ -66065,7 +66065,7 @@
 :aj:ingent	e_i
 
 :le:ingenuita\
-:no:ingenuita\	indecl fem
+:no:ingenuit	a_acc fem
 
 :le:ingenuo
 :aj:ingenu	o_a
@@ -66398,7 +66398,7 @@
 :no:inibizion	e_i fem
 
 :le:inidoneita\
-:no:inidoneita\	indecl fem
+:no:inidoneit	a_acc fem
 
 :le:inimaginabile
 :aj:inimaginabil	e_i
@@ -66437,13 +66437,13 @@
 :aj:inintelligibil	e_i
 
 :le:inintelligibilita\
-:no:inintelligibilita\	indecl fem
+:no:inintelligibilit	a_acc fem
 
 :le:ininvestigabile
 :aj:ininvestigabil	e_i
 
 :le:iniquita\
-:no:iniquita\	indecl fem
+:no:iniquit	a_acc fem
 
 :le:iniquitanza
 :no:iniquitanz	a_e fem
@@ -66473,7 +66473,7 @@
 :aj:inirritabil	e_i
 
 :le:inirritabilita\
-:no:inirritabilita\	indecl fem
+:no:inirritabilit	a_acc fem
 
 :le:iniscemabile
 :aj:iniscemabil	e_i
@@ -66554,7 +66554,7 @@
 :wd:inlecitamente	adverb
 
 :le:inlegittimita\
-:no:inlegittimita\	indecl fem
+:no:inlegittimit	a_acc fem
 
 :le:inlegittimo
 :aj:inlegittim	o_a
@@ -66698,7 +66698,7 @@
 :aj:innavigabil	e_i
 
 :le:innavigabilita\
-:no:innavigabilita\	indecl fem
+:no:innavigabilit	a_acc fem
 
 :le:innebbriamento
 :no:innebbriament	o_i masc
@@ -66713,7 +66713,7 @@
 :wd:innegabilmente	adverb
 
 :le:innegabilita\
-:no:innegabilita\	indecl fem
+:no:innegabilit	a_acc fem
 
 :le:innemichevole
 :aj:innemichevol	e_i
@@ -66770,7 +66770,7 @@
 :no:innobbedienz	a_e fem
 
 :le:innobilta\
-:no:innobilta\	indecl fem
+:no:innobilt	a_acc fem
 
 :le:innocente
 :aj:innocent	e_i
@@ -66848,7 +66848,7 @@
 :wd:innumerabilmente	adverb
 
 :le:innumerabilita\
-:no:innumerabilita\	indecl fem
+:no:innumerabilit	a_acc fem
 
 :le:innumerevole
 :aj:innumerevol	e_i
@@ -66890,7 +66890,7 @@
 :aj:inoffensiv	o_a
 
 :le:inofficiosita\
-:no:inofficiosita\	indecl fem
+:no:inofficiosit	a_acc fem
 
 :le:inoffizioso
 :aj:inoffizios	o_a
@@ -66914,7 +66914,7 @@
 :aj:inondant	e_i
 
 :le:inonesta\
-:no:inonesta\	indecl fem
+:no:inonest	a_acc fem
 
 :le:inonesto
 :aj:inonest	o_a
@@ -66947,7 +66947,7 @@
 :wd:inopinatamente	adverb
 
 :le:inopportunita\
-:no:inopportunita\	indecl fem
+:no:inopportunit	a_acc fem
 
 :le:inopportuno
 :aj:inopportun	o_a
@@ -67004,7 +67004,7 @@
 :aj:inospital	e_i
 
 :le:inospitalita\
-:no:inospitalita\	indecl fem
+:no:inospitalit	a_acc fem
 
 :le:inospito
 :aj:inospit	o_a
@@ -67097,7 +67097,7 @@
 :wd:inrazionabilmente	adverb
 
 :le:inrazionabilita\
-:no:inrazionabilita\	indecl fem
+:no:inrazionabilit	a_acc fem
 
 :le:inrazionale
 :aj:inrazional	e_i
@@ -67127,7 +67127,7 @@
 :aj:inregolar	e_i
 
 :le:inregolarita\
-:no:inregolarita\	indecl fem
+:no:inregolarit	a_acc fem
 
 :le:inregolato
 :aj:inregolat	o_a
@@ -67202,7 +67202,7 @@
 :wd:inrevocabilmente	adverb
 
 :le:inrevocabilita\
-:no:inrevocabilita\	indecl fem
+:no:inrevocabilit	a_acc fem
 
 :le:inrevochevolmente
 :wd:inrevochevolmente	adverb
@@ -67292,7 +67292,7 @@
 :aj:insalubr	e_i
 
 :le:insalubrita\
-:no:insalubrita\	indecl fem
+:no:insalubrit	a_acc fem
 
 :le:insalutante
 :aj:insalutant	e_i
@@ -67349,7 +67349,7 @@
 :wd:insaziabilmente	adverb
 
 :le:insaziabilita\
-:no:insaziabilita\	indecl fem
+:no:insaziabilit	a_acc fem
 
 :le:insazietate
 :no:insazietat	e_i fem
@@ -67379,7 +67379,7 @@
 :aj:inscrutabil	e_i
 
 :le:inscrutabilita\
-:no:inscrutabilita\	indecl fem
+:no:inscrutabilit	a_acc fem
 
 :le:insculto
 :aj:inscult	o_a
@@ -67448,10 +67448,10 @@
 :wd:insensibilmente	adverb
 
 :le:insensibilita\
-:no:insensibilita\	indecl fem
+:no:insensibilit	a_acc fem
 
 :le:insensualita\
-:no:insensualita\	indecl fem
+:no:insensualit	a_acc fem
 
 :le:inseparabile
 :aj:inseparabil	e_i
@@ -67538,7 +67538,7 @@
 :aj:insignificant	e_i
 
 :le:insincerita\
-:no:insincerita\	indecl fem
+:no:insincerit	a_acc fem
 
 :le:insinche\
 :wd:insinche\	adverb
@@ -67547,7 +67547,7 @@
 :aj:insinuabil	e_i
 
 :le:insinuabilita\
-:no:insinuabilita\	indecl fem
+:no:insinuabilit	a_acc fem
 
 :le:insinuatore
 :no:insinuator	e_i masc
@@ -67607,7 +67607,7 @@
 :aj:insoav	e_i
 
 :le:insoavita\
-:no:insoavita\	indecl fem
+:no:insoavit	a_acc fem
 
 :le:insoccorso
 :aj:insoccors	o_a
@@ -67643,7 +67643,7 @@
 :wd:insoffribilmente	adverb
 
 :le:insoffribilita\
-:no:insoffribilita\	indecl fem
+:no:insoffribilit	a_acc fem
 
 :le:insoggettabile
 :aj:insoggettabil	e_i
@@ -67682,7 +67682,7 @@
 :wd:insolubilmente	adverb
 
 :le:insolubilita\
-:no:insolubilita\	indecl fem
+:no:insolubilit	a_acc fem
 
 :le:insoluto
 :aj:insolut	o_a
@@ -67691,7 +67691,7 @@
 :aj:insolvibil	e_i
 
 :le:insolvibilita\
-:no:insolvibilita\	indecl fem
+:no:insolvibilit	a_acc fem
 
 :le:insomma
 :wd:insomma	adverb
@@ -67886,7 +67886,7 @@
 :wd:instrumentalmente	adverb
 
 :le:instrumentalita\
-:no:instrumentalita\	indecl fem
+:no:instrumentalit	a_acc fem
 
 :le:instrumentario
 :aj:instrumentari	o_a
@@ -67946,7 +67946,7 @@
 :aj:insulan	o_a
 
 :le:insulsita\
-:no:insulsita\	indecl fem
+:no:insulsit	a_acc fem
 
 :le:insulso
 :aj:insuls	o_a
@@ -67976,7 +67976,7 @@
 :wd:insuperabilmente	adverb
 
 :le:insuperabilita\
-:no:insuperabilita\	indecl fem
+:no:insuperabilit	a_acc fem
 
 :le:insuperbimento
 :no:insuperbiment	o_i masc
@@ -68153,7 +68153,7 @@
 :wd:intelligibilmente	adverb
 
 :le:intelligibilita\
-:no:intelligibilita\	indecl fem
+:no:intelligibilit	a_acc fem
 
 :le:intelucciatura
 :no:intelucciatur	a_e fem
@@ -68246,7 +68246,7 @@
 :no:intension	e_i fem
 
 :le:intensita\
-:no:intensita\	indecl fem
+:no:intensit	a_acc fem
 
 :le:intensivo
 :aj:intensiv	o_a
@@ -68450,13 +68450,13 @@
 :no:interior	e_i masc
 
 :le:interiorita\
-:no:interiorita\	indecl fem
+:no:interiorit	a_acc fem
 
 :le:interiormente
 :wd:interiormente	adverb
 
 :le:interita\
-:no:interita\	indecl fem
+:no:interit	a_acc fem
 
 :le:interito
 :no:interit	o_i masc
@@ -68540,7 +68540,7 @@
 :aj:internat	o_a
 
 :le:internita\
-:no:internita\	indecl fem
+:no:internit	a_acc fem
 
 :le:interno
 :aj:intern	o_a
@@ -68849,7 +68849,7 @@
 :no:intimazion	e_i fem
 
 :le:intimidita\
-:no:intimidita\	indecl fem
+:no:intimidit	a_acc fem
 
 :le:intimido
 :aj:intimid	o_a
@@ -68900,7 +68900,7 @@
 :wd:intollerabilmente	adverb
 
 :le:intollerabilita\
-:no:intollerabilita\	indecl fem
+:no:intollerabilit	a_acc fem
 
 :le:intollerando
 :aj:intollerand	o_a
@@ -69113,7 +69113,7 @@
 :aj:intrattabil	e_i
 
 :le:intrattabilita\
-:no:intrattabilita\	indecl fem
+:no:intrattabilit	a_acc fem
 
 :le:intrattanto
 :wd:intrattanto	adverb
@@ -69167,7 +69167,7 @@
 :no:intrecci	o_i masc
 
 :le:intrepidita\
-:no:intrepidita\	indecl fem
+:no:intrepidit	a_acc fem
 
 :le:intrepido
 :aj:intrepid	o_a
@@ -69218,7 +69218,7 @@
 :no:intrinsichezz	a_e fem
 
 :le:intrinsicita\
-:no:intrinsicita\	indecl fem
+:no:intrinsicit	a_acc fem
 
 :le:intriso
 :no:intris	o_i masc
@@ -69359,7 +69359,7 @@
 :aj:inugual	e_i
 
 :le:inugualita\
-:no:inugualita\	indecl fem
+:no:inugualit	a_acc fem
 
 :le:inula
 :no:inul	a_e fem
@@ -69371,7 +69371,7 @@
 :aj:inult	o_a
 
 :le:inumanita\
-:no:inumanita\	indecl fem
+:no:inumanit	a_acc fem
 
 :le:inumano
 :aj:inuman	o_a
@@ -69389,7 +69389,7 @@
 :aj:inunt	o_a
 
 :le:inurbanita\
-:no:inurbanita\	indecl fem
+:no:inurbanit	a_acc fem
 
 :le:inurbano
 :aj:inurban	o_a
@@ -69416,7 +69416,7 @@
 :wd:inutilmente	adverb
 
 :le:inutilita\
-:no:inutilita\	indecl fem
+:no:inutilit	a_acc fem
 
 :le:inutole
 :aj:inutol	e_i
@@ -69431,7 +69431,7 @@
 :no:invalidazion	e_i fem
 
 :le:invalidita\
-:no:invalidita\	indecl fem
+:no:invalidit	a_acc fem
 
 :le:invalido
 :aj:invalid	o_a
@@ -69455,7 +69455,7 @@
 :wd:invariabilmente	adverb
 
 :le:invariabilita\
-:no:invariabilita\	indecl fem
+:no:invariabilit	a_acc fem
 
 :le:invariato
 :aj:invariat	o_a
@@ -69566,7 +69566,7 @@
 :aj:inventurat	o_a
 
 :le:invenusta\
-:no:invenusta\	indecl fem
+:no:invenust	a_acc fem
 
 :le:invenusto
 :aj:invenust	o_a
@@ -69767,7 +69767,7 @@
 :wd:invincibilmente	adverb
 
 :le:invincibilita\
-:no:invincibilita\	indecl fem
+:no:invincibilit	a_acc fem
 
 :le:invio
 :no:invi	o_i masc
@@ -69938,7 +69938,7 @@
 :aj:invulnerabil	e_i
 
 :le:invulnerabilita\
-:no:invulnerabilita\	indecl fem
+:no:invulnerabilit	a_acc fem
 
 :le:inzeppamento
 :no:inzeppament	o_i masc
@@ -69998,7 +69998,7 @@
 :no:iperboleggiament	o_i masc
 
 :le:iperbolita\
-:no:iperbolita\	indecl fem
+:no:iperbolit	a_acc fem
 
 :le:iperboleggiatore
 :no:iperboleggiator	e_i masc
@@ -70052,7 +70052,7 @@
 :no:ipocondr	o_i masc
 
 :le:ipocrita\
-:no:ipocrita\	indecl fem
+:no:ipocrit	a_acc fem
 
 :le:ipocrito
 :no:ipocrit	o_i masc
@@ -70217,7 +70217,7 @@
 :aj:irascibil	e_i
 
 :le:irascibilita\
-:no:irascibilita\	indecl fem
+:no:irascibilit	a_acc fem
 
 :le:irato
 :aj:irat	o_a
@@ -70325,13 +70325,13 @@
 :wd:irrazionabilmente	adverb
 
 :le:irrazionabilita\
-:no:irrazionabilita\	indecl fem
+:no:irrazionabilit	a_acc fem
 
 :le:irrazionale
 :aj:irrazional	e_i
 
 :le:irrazionalita\
-:no:irrazionalita\	indecl fem
+:no:irrazionalit	a_acc fem
 
 :le:irreconciliabile
 :aj:irreconciliabil	e_i
@@ -70340,7 +70340,7 @@
 :wd:irreconciliabilmente	adverb
 
 :le:irreconciliabilita\
-:no:irreconciliabilita\	indecl fem
+:no:irreconciliabilit	a_acc fem
 
 :le:irreconoscibile
 :aj:irreconoscibil	e_i
@@ -70349,7 +70349,7 @@
 :wd:irreconoscibilmente	adverb
 
 :le:irreconoscibilita\
-:no:irreconoscibilita\	indecl fem
+:no:irreconoscibilit	a_acc fem
 
 :le:irrecuperabile
 :aj:irrecuperabil	e_i
@@ -70361,13 +70361,13 @@
 :wd:irredimibilmente	adverb
 
 :le:irredimibilita\
-:no:irredimibilita\	indecl fem
+:no:irredimibilit	a_acc fem
 
 :le:irreduttibile
 :aj:irreduttibil	e_i
 
 :le:irreduttibilita\
-:no:irreduttibilita\	indecl fem
+:no:irreduttibilit	a_acc fem
 
 :le:irrefragabile
 :aj:irrefragabil	e_i
@@ -70376,7 +70376,7 @@
 :wd:irrefragabilmente	adverb
 
 :le:irrefragabilita\
-:no:irrefragabilita\	indecl fem
+:no:irrefragabilit	a_acc fem
 
 :le:irrefrangibile
 :aj:irrefrangibil	e_i
@@ -70394,7 +70394,7 @@
 :wd:irregolarmente	adverb
 
 :le:irregolarita\
-:no:irregolarita\	indecl fem
+:no:irregolarit	a_acc fem
 
 :le:irregolato
 :aj:irregolat	o_a
@@ -70409,7 +70409,7 @@
 :no:irreligion	e_i fem
 
 :le:irreligiosita\
-:no:irreligiosita\	indecl fem
+:no:irreligiosit	a_acc fem
 
 :le:irreligioso
 :aj:irreligios	o_a
@@ -70427,7 +70427,7 @@
 :wd:irremediabilmente	adverb
 
 :le:irremediabilita\
-:no:irremediabilita\	indecl fem
+:no:irremediabilit	a_acc fem
 
 :le:irremedievole
 :aj:irremedievol	e_i
@@ -70457,7 +70457,7 @@
 :wd:irreparabilmente	adverb
 
 :le:irreparabilita\
-:no:irreparabilita\	indecl fem
+:no:irreparabilit	a_acc fem
 
 :le:irreperibile
 :aj:irreperibil	e_i
@@ -70466,19 +70466,19 @@
 :wd:irreperibilmente	adverb
 
 :le:irreperibilita\
-:no:irreperibilita\	indecl fem
+:no:irreperibilit	a_acc fem
 
 :le:irrepetibile
 :aj:irrepetibil	e_i
 
 :le:irrepetibilita\
-:no:irrepetibilita\	indecl fem
+:no:irrepetibilit	a_acc fem
 
 :le:irreprensibile
 :aj:irreprensibil	e_i
 
 :le:irreprensibilita\
-:no:irreprensibilita\	indecl fem
+:no:irreprensibilit	a_acc fem
 
 :le:irreprobabile
 :aj:irreprobabil	e_i
@@ -70502,7 +70502,7 @@
 :wd:irresistibilmente	adverb
 
 :le:irresistibilita\
-:no:irresistibilita\	indecl fem
+:no:irresistibilit	a_acc fem
 
 :le:irresolubile
 :aj:irresolubil	e_i
@@ -70544,7 +70544,7 @@
 :wd:irrevocabilmente	adverb
 
 :le:irrevocabilita\
-:no:irrevocabilita\	indecl fem
+:no:irrevocabilit	a_acc fem
 
 :le:irrevochevole
 :aj:irrevochevol	e_i
@@ -70568,7 +70568,7 @@
 :wd:irriformabilmente	adverb
 
 :le:irriformabilita\
-:no:irriformabilita\	indecl fem
+:no:irriformabilit	a_acc fem
 
 :le:irrigamento
 :no:irrigament	o_i masc
@@ -70613,7 +70613,7 @@
 :wd:irrisarcibilmente	adverb
 
 :le:irriscarcibilita\
-:no:irriscarcibilita\	indecl fem
+:no:irriscarcibilit	a_acc fem
 
 :le:irrisibile
 :aj:irrisibil	e_i
@@ -70649,7 +70649,7 @@
 :aj:irritabil	e_i
 
 :le:irritabilita\
-:no:irritabilita\	indecl fem
+:no:irritabilit	a_acc fem
 
 :le:irritamento
 :no:irritament	o_i masc
@@ -70682,7 +70682,7 @@
 :wd:irritrattabilmente	adverb
 
 :le:irritrattabilita\
-:no:irritrattabilita\	indecl fem
+:no:irritrattabilit	a_acc fem
 
 :le:irriuscibile
 :aj:irriuscibil	e_i
@@ -70691,13 +70691,13 @@
 :wd:irriuscibilmente	adverb
 
 :le:irriuscibilita\
-:no:irriuscibilita\	indecl fem
+:no:irriuscibilit	a_acc fem
 
 :le:irrivelabile
 :aj:irrivelabil	e_i
 
 :le:irrivelabilita\
-:no:irrivelabilita\	indecl fem
+:no:irrivelabilit	a_acc fem
 
 :le:irriverente
 :aj:irriverent	e_i
@@ -70763,7 +70763,7 @@
 :no:iscuri	a_e fem
 
 :le:iscurita\
-:no:iscurita\	indecl fem
+:no:iscurit	a_acc fem
 
 :le:iscusabile
 :aj:iscusabil	e_i
@@ -70883,10 +70883,10 @@
 :aj:istabil	e_i
 
 :le:istabilita\
-:no:istabilita\	indecl fem
+:no:istabilit	a_acc fem
 
 :le:istantaneita\
-:no:istantaneita\	indecl fem
+:no:istantaneit	a_acc fem
 
 :le:istantaneo
 :aj:istantane	o_a
@@ -71414,7 +71414,7 @@
 :aj:labil	e_i
 
 :le:labilita\
-:no:labilita\	indecl fem
+:no:labilit	a_acc fem
 
 :le:labina
 :no:labin	a_e fem
@@ -71426,7 +71426,7 @@
 :no:labor	e_i masc
 
 :le:laboriosita\
-:no:laboriosita\	indecl fem
+:no:laboriosit	a_acc fem
 
 :le:laborioso
 :aj:laborios	o_a
@@ -71681,7 +71681,7 @@
 :no:laidezz	a_e fem
 
 :le:laidita\
-:no:laidita\	indecl fem
+:no:laidit	a_acc fem
 
 :le:laido
 :no:laid	o_i masc
@@ -71987,7 +71987,7 @@
 :no:landron	e_i masc
 
 :le:landu\
-:no:landu\	indecl masc
+:no:land	u_acc masc
 
 :le:lanefice
 :no:lanefic	e_i masc
@@ -72230,7 +72230,7 @@
 :aj:largheggiant	e_i
 
 :le:larghita\
-:no:larghita\	indecl fem
+:no:larghit	a_acc fem
 
 :le:largimento
 :no:largiment	o_i masc
@@ -72317,7 +72317,7 @@
 :no:lasc	a_e fem
 
 :le:laschita\
-:no:laschita\	indecl fem
+:no:laschit	a_acc fem
 
 :le:lasciamento
 :no:lasciament	o_i masc
@@ -72383,7 +72383,7 @@
 :no:lassazion	e_i fem
 
 :le:lassita\
-:no:lassita\	indecl fem
+:no:lassit	a_acc fem
 
 :le:lassito
 :no:lassit	o_i masc
@@ -72491,7 +72491,7 @@
 :no:latinist	a_e masc
 
 :le:latinita\
-:no:latinita\	indecl fem
+:no:latinit	a_acc fem
 
 :le:latinitalico
 :aj:latinitali	co_ca
@@ -72557,7 +72557,7 @@
 :aj:latrabil	e_i
 
 :le:latrabilita\
-:no:latrabilita\	indecl fem
+:no:latrabilit	a_acc fem
 
 :le:latramento
 :no:latrament	o_i masc
@@ -73010,7 +73010,7 @@
 :no:lazzeruol	o_i masc
 
 :le:lazzita\
-:no:lazzita\	indecl fem
+:no:lazzit	a_acc fem
 
 :le:lazzuli
 :no:lazzuli	indecl masc
@@ -73145,7 +73145,7 @@
 :no:lee	a_e fem
 
 :le:leelta\
-:no:leelta\	indecl fem
+:no:leelt	a_acc fem
 
 :le:leena
 :no:leen	a_e fem
@@ -73178,7 +73178,7 @@
 :no:legal	e_i masc
 
 :le:legalita\
-:no:legalita\	indecl fem
+:no:legalit	a_acc fem
 
 :le:legalizzazione
 :no:legalizzazion	e_i fem
@@ -73346,7 +73346,7 @@
 :no:legitimagion	e_i fem
 
 :le:legittimita\
-:no:legittimita\	indecl fem
+:no:legittimit	a_acc fem
 
 :le:legittimo
 :aj:legittim	o_a
@@ -73394,7 +73394,7 @@
 :no:legnosant	o_i masc
 
 :le:legnosita\
-:no:legnosita\	indecl fem
+:no:legnosit	a_acc fem
 
 :le:legnoso
 :aj:legnos	o_a
@@ -73448,7 +73448,7 @@
 :no:lemosin	a_e fem
 
 :le:lemosita\
-:no:lemosita\	indecl fem
+:no:lemosit	a_acc fem
 
 :le:lemuri
 :no:lemuri	indecl masc
@@ -73490,7 +73490,7 @@
 :no:leniment	o_i masc
 
 :le:lenita\
-:no:lenita\	indecl fem
+:no:lenit	a_acc fem
 
 :le:lenitivo
 :aj:lenitiv	o_a
@@ -73709,7 +73709,7 @@
 :aj:letal	e_i
 
 :le:letalita\
-:no:letalita\	indecl fem
+:no:letalit	a_acc fem
 
 :le:letamajo
 :no:letamaj	o_i masc
@@ -73958,7 +73958,7 @@
 :no:levit	a_e masc
 
 :le:levita\
-:no:levita\	indecl fem
+:no:levit	a_acc fem
 
 :le:levitico
 :no:levitic	o_i masc
@@ -73988,7 +73988,7 @@
 :no:lezion	e_i fem
 
 :le:leziosita\
-:no:leziosita\	indecl fem
+:no:leziosit	a_acc fem
 
 :le:lezioso
 :aj:lezios	o_a
@@ -74078,7 +74078,7 @@
 :no:liberalism	o_i masc
 
 :le:liberalita\
-:no:liberalita\	indecl fem
+:no:liberalit	a_acc fem
 
 :le:liberamento
 :no:liberament	o_i masc
@@ -74225,7 +74225,7 @@
 :no:licenziatur	a_e fem
 
 :le:licenziosita\
-:no:licenziosita\	indecl fem
+:no:licenziosit	a_acc fem
 
 :le:licenzioso
 :aj:licenzios	o_a
@@ -74306,7 +74306,7 @@
 :wd:lieve	adverb
 
 :le:lievita\
-:no:lievita\	indecl fem
+:no:lievit	a_acc fem
 
 :le:lievito
 :no:lievit	o_i masc
@@ -74510,13 +74510,13 @@
 :no:limosinier	o_i masc
 
 :le:limosita\
-:no:limosita\	indecl fem
+:no:limosit	a_acc fem
 
 :le:limoso
 :aj:limos	o_a
 
 :le:limpidita\
-:no:limpidita\	indecl fem
+:no:limpidit	a_acc fem
 
 :le:limpido
 :aj:limpid	o_a
@@ -74711,7 +74711,7 @@
 :aj:liquabil	e_i
 
 :le:liquabilita\
-:no:liquabilita\	indecl fem
+:no:liquabilit	a_acc fem
 
 :le:liquamento
 :no:liquament	o_i masc
@@ -74750,7 +74750,7 @@
 :no:liquidezz	a_e fem
 
 :le:liquidita\
-:no:liquidita\	indecl fem
+:no:liquidit	a_acc fem
 
 :le:liquido
 :no:liquid	o_i masc
@@ -75095,7 +75095,7 @@
 :wd:localmente	adverb
 
 :le:localita\
-:no:localita\	indecl fem
+:no:localit	a_acc fem
 
 :le:locanda
 :no:locand	a_e fem
@@ -75191,7 +75191,7 @@
 :aj:lodabil	e_i
 
 :le:lodabilita\
-:no:lodabilita\	indecl fem
+:no:lodabilit	a_acc fem
 
 :le:lodame
 :no:lodam	e_i masc
@@ -75404,7 +75404,7 @@
 :aj:longanim	o_a
 
 :le:longevita\
-:no:longevita\	indecl fem
+:no:longevit	a_acc fem
 
 :le:longevo
 :aj:longev	o_a
@@ -75419,13 +75419,13 @@
 :no:longimetri	a_e fem
 
 :le:longinquita\
-:no:longinquita\	indecl fem
+:no:longinquit	a_acc fem
 
 :le:longinco
 :aj:longin	co_ca
 
 :le:longita\
-:no:longita\	indecl fem
+:no:longit	a_acc fem
 
 :le:longitudinale
 :aj:longitudinal	e_i
@@ -75485,7 +75485,7 @@
 :wd:loquacemente	adverb
 
 :le:loquacita\
-:no:loquacita\	indecl fem
+:no:loquacit	a_acc fem
 
 :le:loquela
 :no:loquel	a_e fem
@@ -75617,7 +75617,7 @@
 :aj:lubricativ	o_a
 
 :le:lubricita\
-:no:lubricita\	indecl fem
+:no:lubricit	a_acc fem
 
 :le:lubrico
 :no:lubric	o_i masc
@@ -75728,7 +75728,7 @@
 :no:lucidanz	a_e fem
 
 :le:lucidita\
-:no:lucidita\	indecl fem
+:no:lucidit	a_acc fem
 
 :le:lucido
 :no:lucid	o_i masc
@@ -75905,7 +75905,7 @@
 :no:luminier	e_i masc
 
 :le:luminosita\
-:no:luminosita\	indecl fem
+:no:luminosit	a_acc fem
 
 :le:luminoso
 :aj:luminos	o_a
@@ -75965,7 +75965,7 @@
 :no:lungaggin	e_i fem
 
 :le:lunganimita\
-:no:lunganimita\	indecl fem
+:no:lunganimit	a_acc fem
 
 :le:lunganimo
 :aj:lunganim	o_a
@@ -76109,7 +76109,7 @@
 :aj:lus	co_ca
 
 :le:luscosita\
-:no:luscosita\	indecl fem
+:no:luscosit	a_acc fem
 
 :le:lusignuolo
 :no:lusignuol	o_i masc
@@ -76511,7 +76511,7 @@
 :aj:madornal	e_i
 
 :le:madornalita\
-:no:madornalita\	indecl fem
+:no:madornalit	a_acc fem
 
 :le:madre
 :no:madr	e_i fem
@@ -76646,7 +76646,7 @@
 :no:magazzin	o_i masc
 
 :le:magesta\
-:no:magesta\	indecl fem
+:no:magest	a_acc fem
 
 :le:maggese
 :no:magges	e_i masc
@@ -76712,7 +76712,7 @@
 :no:maggioring	o_i masc
 
 :le:maggiorita\
-:no:maggiorita\	indecl fem
+:no:maggiorit	a_acc fem
 
 :le:maggiornato
 :no:maggiornat	o_i masc
@@ -76760,7 +76760,7 @@
 :wd:magistralmente	adverb
 
 :le:magistralita\
-:no:magistralita\	indecl fem
+:no:magistralit	a_acc fem
 
 :le:magistrato
 :no:magistrat	o_i masc
@@ -77513,7 +77513,7 @@
 :aj:malignant	e_i
 
 :le:malignita\
-:no:malignita\	indecl fem
+:no:malignit	a_acc fem
 
 :le:maligno
 :no:malign	o_i masc
@@ -77600,7 +77600,7 @@
 :wd:maliziatamente	adverb
 
 :le:maliziosita\
-:no:maliziosita\	indecl fem
+:no:maliziosit	a_acc fem
 
 :le:malizioso
 :aj:malizios	o_a
@@ -77615,7 +77615,7 @@
 :aj:malleabil	e_i
 
 :le:malleabilita\
-:no:malleabilita\	indecl fem
+:no:malleabilit	a_acc fem
 
 :le:malleo
 :no:malle	o_i masc
@@ -77858,7 +77858,7 @@
 :no:malvagion	e_i masc
 
 :le:malvagita\
-:no:malvagita\	indecl fem
+:no:malvagit	a_acc fem
 
 :le:malvago
 :aj:malva	go_ga
@@ -77885,7 +77885,7 @@
 :no:malversazion	e_i fem
 
 :le:malvesta\
-:no:malvesta\	indecl fem
+:no:malvest	a_acc fem
 
 :le:malvestito
 :aj:malvestit	o_a
@@ -78629,7 +78629,7 @@
 :wd:manualmente	adverb
 
 :le:manualita\
-:no:manualita\	indecl fem
+:no:manualit	a_acc fem
 
 :le:manubrio
 :no:manubri	o_i masc
@@ -79247,7 +79247,7 @@
 :aj:marzial	e_i
 
 :le:marzialita\
-:no:marzialita\	indecl fem
+:no:marzialit	a_acc fem
 
 :le:marzimino
 :no:marzimin	o_i masc
@@ -79337,7 +79337,7 @@
 :no:mascin	a_e fem
 
 :le:mascolinita\
-:no:mascolinita\	indecl fem
+:no:mascolinit	a_acc fem
 
 :le:masculino
 :aj:masculin	o_a
@@ -79772,7 +79772,7 @@
 :no:mattin	o_i masc
 
 :le:mattita\
-:no:mattita\	indecl fem
+:no:mattit	a_acc fem
 
 :le:matto
 :aj:matt	o_a
@@ -79835,7 +79835,7 @@
 :no:maturazion	e_i fem
 
 :le:maturita\
-:no:maturita\	indecl fem
+:no:maturit	a_acc fem
 
 :le:maturo
 :aj:matur	o_a
@@ -79973,7 +79973,7 @@
 :aj:medem	o_a
 
 :le:medesimita\
-:no:medesimita\	indecl fem
+:no:medesimit	a_acc fem
 
 :le:medesimito
 :aj:medesimit	o_a
@@ -80072,7 +80072,7 @@
 :aj:mediconatural	e_i
 
 :le:medieta\
-:no:medieta\	indecl fem
+:no:mediet	a_acc fem
 
 :le:medio
 :no:medi	o_i masc
@@ -80087,7 +80087,7 @@
 :wd:mediocremente	adverb
 
 :le:mediocrita\
-:no:mediocrita\	indecl fem
+:no:mediocrit	a_acc fem
 
 :le:meditamento
 :no:meditament	o_i masc
@@ -81263,7 +81263,7 @@
 :no:mesventur	a_e fem
 
 :le:meta\
-:no:meta\	indecl fem
+:no:met	a_acc fem
 
 :le:meta
 :no:met	a_e fem
@@ -81584,7 +81584,7 @@
 :no:mezzolan	a_e fem
 
 :le:mezzolanita\
-:no:mezzolanita\	indecl fem
+:no:mezzolanit	a_acc fem
 
 :le:mezzolano
 :aj:mezzolan	o_a
@@ -82175,7 +82175,7 @@
 :wd:minore	adverb
 
 :le:minorita\
-:no:minorita\	indecl fem
+:no:minorit	a_acc fem
 
 :le:minoringo
 :no:minoring	o_i masc
@@ -82496,7 +82496,7 @@
 :wd:miserabilmente	adverb
 
 :le:miserabilita\
-:no:miserabilita\	indecl fem
+:no:miserabilit	a_acc fem
 
 :le:miserando
 :aj:miserand	o_a
@@ -82550,7 +82550,7 @@
 :wd:miseramente	adverb
 
 :le:miserta\
-:no:miserta\	indecl fem
+:no:misert	a_acc fem
 
 :le:misfacitore
 :no:misfacitor	e_i masc
@@ -82658,7 +82658,7 @@
 :aj:mistichificat	o_a
 
 :le:mistichita\
-:no:mistichita\	indecl fem
+:no:mistichit	a_acc fem
 
 :le:mistico
 :aj:misti	co_ca
@@ -82694,7 +82694,7 @@
 :aj:misurabil	e_i
 
 :le:misurabilita\
-:no:misurabilita\	indecl fem
+:no:misurabilit	a_acc fem
 
 :le:misuramento
 :no:misurament	o_i masc
@@ -82838,7 +82838,7 @@
 :wd:mobilmente	adverb
 
 :le:mobilita\
-:no:mobilita\	indecl fem
+:no:mobilit	a_acc fem
 
 :le:mobolato
 :aj:mobolat	o_a
@@ -82898,7 +82898,7 @@
 :aj:modal	e_i
 
 :le:modalita\
-:no:modalita\	indecl fem
+:no:modalit	a_acc fem
 
 :le:modanatura
 :no:modanatur	a_e fem
@@ -82994,7 +82994,7 @@
 :aj:modulant	e_i
 
 :le:modulita\
-:no:modulita\	indecl fem
+:no:modulit	a_acc fem
 
 :le:modulo
 :no:modul	o_i masc
@@ -83243,7 +83243,7 @@
 :wd:moltiplicemente	adverb
 
 :le:moltiplicita\
-:no:moltiplicita\	indecl fem
+:no:moltiplicit	a_acc fem
 
 :le:moltiplico
 :no:moltiplic	o_i masc
@@ -83393,7 +83393,7 @@
 :no:mondanin	o_i masc
 
 :le:mondanita\
-:no:mondanita\	indecl fem
+:no:mondanit	a_acc fem
 
 :le:mondano
 :aj:mondan	o_a
@@ -83606,7 +83606,7 @@
 :aj:monstruos	o_a
 
 :le:monsu\
-:no:monsu\	indecl masc
+:no:mons	u_acc masc
 
 :le:monsulmano
 :no:monsulman	o_i masc
@@ -83702,7 +83702,7 @@
 :aj:montonin	o_a
 
 :le:montuosita\
-:no:montuosita\	indecl fem
+:no:montuosit	a_acc fem
 
 :le:montuoso
 :aj:montuos	o_a
@@ -83741,7 +83741,7 @@
 :no:moralist	a_e masc
 
 :le:moralita\
-:no:moralita\	indecl fem
+:no:moralit	a_acc fem
 
 :le:moralizzabile
 :aj:moralizzabil	e_i
@@ -83798,7 +83798,7 @@
 :no:morb	o_i masc
 
 :le:morbosita\
-:no:morbosita\	indecl fem
+:no:morbosit	a_acc fem
 
 :le:morboso
 :aj:morbos	o_a
@@ -83822,7 +83822,7 @@
 :aj:mordac	e_i
 
 :le:mordacita\
-:no:mordacita\	indecl fem
+:no:mordacit	a_acc fem
 
 :le:mordente
 :no:mordent	e_i masc
@@ -83987,7 +83987,7 @@
 :aj:mormorios	o_a
 
 :le:mormorita\
-:no:mormorita\	indecl fem
+:no:mormorit	a_acc fem
 
 :le:mormoroso
 :aj:mormoros	o_a
@@ -84014,7 +84014,7 @@
 :no:moron	e_i masc
 
 :le:morosita\
-:no:morosita\	indecl fem
+:no:morosit	a_acc fem
 
 :le:moroso
 :aj:moros	o_a
@@ -84065,7 +84065,7 @@
 :wd:mortalmente	adverb
 
 :le:mortalita\
-:no:mortalita\	indecl fem
+:no:mortalit	a_acc fem
 
 :le:mortaria
 :no:mortari	a_e fem
@@ -84338,13 +84338,13 @@
 :aj:mostr	o_a
 
 :le:mostrosita\
-:no:mostrosita\	indecl fem
+:no:mostrosit	a_acc fem
 
 :le:mostroso
 :aj:mostros	o_a
 
 :le:mostruosita\
-:no:mostruosita\	indecl fem
+:no:mostruosit	a_acc fem
 
 :le:mostruoso
 :aj:mostruos	o_a
@@ -84542,7 +84542,7 @@
 :no:muc	o_i masc
 
 :le:mucosita\
-:no:mucosita\	indecl fem
+:no:mucosit	a_acc fem
 
 :le:mucoso
 :aj:mucos	o_a
@@ -84707,7 +84707,7 @@
 :aj:multiform	e_i
 
 :le:multiloquacita\
-:no:multiloquacita\	indecl fem
+:no:multiloquacit	a_acc fem
 
 :le:multiloquio
 :no:multiloqui	o_i masc
@@ -84749,7 +84749,7 @@
 :aj:municipal	e_i
 
 :le:municipalita\
-:no:municipalita\	indecl fem
+:no:municipalit	a_acc fem
 
 :le:municipio
 :no:municipi	o_i masc
@@ -85001,7 +85001,7 @@
 :wd:mutabilmente	adverb
 
 :le:mutabilita\
-:no:mutabilita\	indecl fem
+:no:mutabilit	a_acc fem
 
 :le:mutamento
 :no:mutament	o_i masc
@@ -85403,7 +85403,7 @@
 :no:naturalist	a_e masc
 
 :le:naturalita\
-:no:naturalita\	indecl fem
+:no:naturalit	a_acc fem
 
 :le:naturalizzazione
 :no:naturalizzazion	e_i fem
@@ -85562,7 +85562,7 @@
 :aj:nazional	e_i
 
 :le:nazionalita\
-:no:nazionalita\	indecl fem
+:no:nazionalit	a_acc fem
 
 :le:nazionalizzazione
 :no:nazionalizzazion	e_i fem
@@ -85607,7 +85607,7 @@
 :aj:necess	e_i
 
 :le:necessita\
-:no:necessita\	indecl fem
+:no:necessit	a_acc fem
 
 :le:necessitato
 :aj:necessitat	o_a
@@ -85640,7 +85640,7 @@
 :no:nef	a_e fem
 
 :le:nefandita\
-:no:nefandita\	indecl fem
+:no:nefandit	a_acc fem
 
 :le:nefando
 :aj:nefand	o_a
@@ -85664,7 +85664,7 @@
 :aj:negabil	e_i
 
 :le:negabilita\
-:no:negabilita\	indecl fem
+:no:negabilit	a_acc fem
 
 :le:negamento
 :no:negament	o_i masc
@@ -85844,7 +85844,7 @@
 :wd:nemicamente	adverb
 
 :le:nemista\
-:no:nemista\	indecl fem
+:no:nemist	a_acc fem
 
 :le:nemmeno
 :wd:nemmeno	adverb
@@ -85910,7 +85910,7 @@
 :aj:nequissim	o_a
 
 :le:nequita\
-:no:nequita\	indecl fem
+:no:nequit	a_acc fem
 
 :le:nequitezza
 :no:nequitezz	a_e fem
@@ -86000,7 +86000,7 @@
 :no:nerv	o_i masc
 
 :le:nervosita\
-:no:nervosita\	indecl fem
+:no:nervosit	a_acc fem
 
 :le:nervoso
 :aj:nervos	o_a
@@ -86105,7 +86105,7 @@
 :wd:neutralmente	adverb
 
 :le:neutralita\
-:no:neutralita\	indecl fem
+:no:neutralit	a_acc fem
 
 :le:neutro
 :aj:neutr	o_a
@@ -86135,7 +86135,7 @@
 :no:nevol	a_e fem
 
 :le:nevosita\
-:no:nevosita\	indecl fem
+:no:nevosit	a_acc fem
 
 :le:nevralgia
 :no:nevralgi	a_e fem
@@ -86171,7 +86171,7 @@
 :no:nicheli	o_i masc
 
 :le:nichilita\
-:no:nichilita\	indecl fem
+:no:nichilit	a_acc fem
 
 :le:nichilo
 :no:nichil	o_i masc
@@ -86336,7 +86336,7 @@
 :no:nipotism	o_i masc
 
 :le:niquita\
-:no:niquita\	indecl fem
+:no:niquit	a_acc fem
 
 :le:niquitoso
 :aj:niquitos	o_a
@@ -86372,7 +86372,7 @@
 :no:nitrogen	o_i masc
 
 :le:nitrosita\
-:no:nitrosita\	indecl fem
+:no:nitrosit	a_acc fem
 
 :le:nitroso
 :aj:nitros	o_a
@@ -86402,7 +86402,7 @@
 :no:nobilist	a_e masc
 
 :le:nobilita\
-:no:nobilita\	indecl fem
+:no:nobilit	a_acc fem
 
 :le:nobilitatore
 :no:nobilitator	e_i masc
@@ -86414,13 +86414,13 @@
 :aj:nobilitant	e_i
 
 :le:nobilta\
-:no:nobilta\	indecl fem
+:no:nobilt	a_acc fem
 
 :le:nobole
 :aj:nobol	e_i
 
 :le:nobolta\
-:no:nobolta\	indecl fem
+:no:nobolt	a_acc fem
 
 :le:nocca
 :no:nocc	a_e fem
@@ -86543,7 +86543,7 @@
 :aj:nodoros	o_a
 
 :le:nodosita\
-:no:nodosita\	indecl fem
+:no:nodosit	a_acc fem
 
 :le:nodoso
 :aj:nodos	o_a
@@ -86591,7 +86591,7 @@
 :no:noj	o_i masc
 
 :le:nojosita\
-:no:nojosita\	indecl fem
+:no:nojosit	a_acc fem
 
 :le:nojoso
 :aj:nojos	o_a
@@ -86825,7 +86825,7 @@
 :wd:notabilmente	adverb
 
 :le:notabilita\
-:no:notabilita\	indecl fem
+:no:notabilit	a_acc fem
 
 :le:notajo
 :no:notaj	o_i masc
@@ -86927,7 +86927,7 @@
 :aj:notomisti	co_ca
 
 :le:notorieta\
-:no:notorieta\	indecl fem
+:no:notoriet	a_acc fem
 
 :le:notorio
 :aj:notori	o_a
@@ -87038,7 +87038,7 @@
 :aj:novellin	o_a
 
 :le:novellinita\
-:no:novellinita\	indecl fem
+:no:novellinit	a_acc fem
 
 :le:novellista
 :no:novellist	a_e masc
@@ -87104,7 +87104,7 @@
 :no:novissim	o_i masc
 
 :le:novita\
-:no:novita\	indecl fem
+:no:novit	a_acc fem
 
 :le:noviziato
 :no:noviziat	o_i masc
@@ -87224,7 +87224,7 @@
 :no:nugolonacci	o_i masc
 
 :le:nugolosita\
-:no:nugolosita\	indecl fem
+:no:nugolosit	a_acc fem
 
 :le:nugoloso
 :aj:nugolos	o_a
@@ -87293,7 +87293,7 @@
 :no:numer	o_i masc
 
 :le:numerosita\
-:no:numerosita\	indecl fem
+:no:numerosit	a_acc fem
 
 :le:numeroso
 :aj:numeros	o_a
@@ -87395,7 +87395,7 @@
 :no:nuov	a_e fem
 
 :le:nuovita\
-:no:nuovita\	indecl fem
+:no:nuovit	a_acc fem
 
 :le:nuovo
 :aj:nuov	o_a
@@ -87491,7 +87491,7 @@
 :no:nuvol	o_i masc
 
 :le:nuvolosita\
-:no:nuvolosita\	indecl fem
+:no:nuvolosit	a_acc fem
 
 :le:nuvoloso
 :aj:nuvolos	o_a
@@ -87611,7 +87611,7 @@
 :aj:obblios	o_a
 
 :le:obbliquita\
-:no:obbliquita\	indecl fem
+:no:obbliquit	a_acc fem
 
 :le:obbliquo
 :aj:obbliqu	o_a
@@ -87641,7 +87641,7 @@
 :no:obbrobri	o_i masc
 
 :le:obbrobriosita\
-:no:obbrobriosita\	indecl fem
+:no:obbrobriosit	a_acc fem
 
 :le:obbrobrioso
 :aj:obbrobrios	o_a
@@ -87677,7 +87677,7 @@
 :aj:oberat	o_a
 
 :le:obesita\
-:no:obesita\	indecl fem
+:no:obesit	a_acc fem
 
 :le:obeso
 :aj:obes	o_a
@@ -87770,7 +87770,7 @@
 :aj:oblios	o_a
 
 :le:obliquita\
-:no:obliquita\	indecl fem
+:no:obliquit	a_acc fem
 
 :le:obliquo
 :aj:obliqu	o_a
@@ -88076,7 +88076,7 @@
 :aj:odibil	e_i
 
 :le:odibilita\
-:no:odibilita\	indecl fem
+:no:odibilit	a_acc fem
 
 :le:odierno
 :aj:odiern	o_a
@@ -88097,7 +88097,7 @@
 :no:odiosaggin	e_i fem
 
 :le:odiosita\
-:no:odiosita\	indecl fem
+:no:odiosit	a_acc fem
 
 :le:odioso
 :aj:odios	o_a
@@ -88379,7 +88379,7 @@
 :no:ole	o_i masc
 
 :le:oleosita\
-:no:oleosita\	indecl fem
+:no:oleosit	a_acc fem
 
 :le:oleoso
 :aj:oleos	o_a
@@ -88715,7 +88715,7 @@
 :no:ombrometr	o_i masc
 
 :le:ombrosita\
-:no:ombrosita\	indecl fem
+:no:ombrosit	a_acc fem
 
 :le:ombroso
 :aj:ombros	o_a
@@ -88802,7 +88802,7 @@
 :no:om	o_i masc
 
 :le:omogeneita\
-:no:omogeneita\	indecl fem
+:no:omogeneit	a_acc fem
 
 :le:omogeneo
 :aj:omogene	o_a
@@ -89045,7 +89045,7 @@
 :no:onorevolezz	a_e fem
 
 :le:onorificabilitudinita\
-:no:onorificabilitudinita\	indecl fem
+:no:onorificabilitudinit	a_acc fem
 
 :le:onorificante
 :aj:onorificant	e_i
@@ -89102,7 +89102,7 @@
 :wd:ontosamente	adverb
 
 :le:ontuosita\
-:no:ontuosita\	indecl fem
+:no:ontuosit	a_acc fem
 
 :le:onusto
 :aj:onust	o_a
@@ -89114,7 +89114,7 @@
 :no:oolit	e_i fem
 
 :le:opacita\
-:no:opacita\	indecl fem
+:no:opacit	a_acc fem
 
 :le:opaco
 :aj:opa	co_ca
@@ -89186,7 +89186,7 @@
 :no:operier	e_i masc
 
 :le:operosita\
-:no:operosita\	indecl fem
+:no:operosit	a_acc fem
 
 :le:operoso
 :aj:operos	o_a
@@ -89291,7 +89291,7 @@
 :aj:opportunevol	e_i
 
 :le:opportunita\
-:no:opportunita\	indecl fem
+:no:opportunit	a_acc fem
 
 :le:opportuno
 :aj:opportun	o_a
@@ -89477,7 +89477,7 @@
 :no:orbit	a_e fem
 
 :le:orbita\
-:no:orbita\	indecl fem
+:no:orbit	a_acc fem
 
 :le:orbitale
 :aj:orbital	e_i
@@ -89639,7 +89639,7 @@
 :no:orezz	o_i masc
 
 :le:orfanita\
-:no:orfanita\	indecl fem
+:no:orfanit	a_acc fem
 
 :le:orfano
 :no:orfan	o_i masc
@@ -89705,7 +89705,7 @@
 :no:orgogli	o_i masc
 
 :le:orgogliosita\
-:no:orgogliosita\	indecl fem
+:no:orgogliosit	a_acc fem
 
 :le:orgoglioso
 :aj:orgoglios	o_a
@@ -89777,7 +89777,7 @@
 :wd:originalmente	adverb
 
 :le:originalita\
-:no:originalita\	indecl fem
+:no:originalit	a_acc fem
 
 :le:originamento
 :no:originament	o_i masc
@@ -90011,13 +90011,13 @@
 :wd:orribilmente	adverb
 
 :le:orribilita\
-:no:orribilita\	indecl fem
+:no:orribilit	a_acc fem
 
 :le:orribole
 :aj:orribol	e_i
 
 :le:orridita\
-:no:orridita\	indecl fem
+:no:orridit	a_acc fem
 
 :le:orrido
 :aj:orrid	o_a
@@ -90191,7 +90191,7 @@
 :no:osberg	o_i masc
 
 :le:oscenita\
-:no:oscenita\	indecl fem
+:no:oscenit	a_acc fem
 
 :le:osceno
 :aj:oscen	o_a
@@ -90239,7 +90239,7 @@
 :aj:oscurant	e_i
 
 :le:oscurita\
-:no:oscurita\	indecl fem
+:no:oscurit	a_acc fem
 
 :le:oscuro
 :no:oscur	o_i masc
@@ -90269,7 +90269,7 @@
 :no:ospedal	e_i masc
 
 :le:ospedalita\
-:no:ospedalita\	indecl fem
+:no:ospedalit	a_acc fem
 
 :le:ospitabile
 :aj:ospitabil	e_i
@@ -90581,7 +90581,7 @@
 :wd:ostilemente	adverb
 
 :le:ostilita\
-:no:ostilita\	indecl fem
+:no:ostilit	a_acc fem
 
 :le:ostinamento
 :no:ostinament	o_i masc
@@ -90830,7 +90830,7 @@
 :no:ottusangol	o_i masc
 
 :le:ottusita\
-:no:ottusita\	indecl fem
+:no:ottusit	a_acc fem
 
 :le:ottusione
 :no:ottusion	e_i fem
@@ -90941,7 +90941,7 @@
 :no:oziosaggin	e_i fem
 
 :le:oziosita\
-:no:oziosita\	indecl fem
+:no:oziosit	a_acc fem
 
 :le:ozioso
 :aj:ozios	o_a
@@ -91598,7 +91598,7 @@
 :aj:palliativ	o_a
 
 :le:pallidita\
-:no:pallidita\	indecl fem
+:no:pallidit	a_acc fem
 
 :le:pallido
 :aj:pallid	o_a
@@ -92834,7 +92834,7 @@
 :aj:parevol	e_i
 
 :le:pargolarita\
-:no:pargolarita\	indecl fem
+:no:pargolarit	a_acc fem
 
 :le:pargoletta
 :no:pargolett	a_e fem
@@ -92843,7 +92843,7 @@
 :no:pargolett	o_i masc
 
 :le:pargolita\
-:no:pargolita\	indecl fem
+:no:pargolit	a_acc fem
 
 :le:pargolo
 :no:pargol	o_i masc
@@ -92882,7 +92882,7 @@
 :no:parigli	a_e fem
 
 :le:parilita\
-:no:parilita\	indecl fem
+:no:parilit	a_acc fem
 
 :le:parimente
 :wd:parimente	adverb
@@ -92891,7 +92891,7 @@
 :aj:parisillab	o_a
 
 :le:parita\
-:no:parita\	indecl fem
+:no:parit	a_acc fem
 
 :le:paritaria
 :no:paritari	a_e fem
@@ -93056,7 +93056,7 @@
 :wd:parrocchialmente	adverb
 
 :le:parrocchialita\
-:no:parrocchialita\	indecl fem
+:no:parrocchialit	a_acc fem
 
 :le:parrocchiani
 :no:parrocchiani	indecl masc
@@ -93182,7 +93182,7 @@
 :aj:particolareggiant	e_i
 
 :le:particolarita\
-:no:particolarita\	indecl fem
+:no:particolarit	a_acc fem
 
 :le:particolarizzazione
 :no:particolarizzazion	e_i fem
@@ -93200,7 +93200,7 @@
 :wd:particularmente	adverb
 
 :le:particularita\
-:no:particularita\	indecl fem
+:no:particularit	a_acc fem
 
 :le:partigiana
 :no:partigian	a_e fem
@@ -93287,7 +93287,7 @@
 :aj:parvipes	o_a
 
 :le:parvita\
-:no:parvita\	indecl fem
+:no:parvit	a_acc fem
 
 :le:parvo
 :aj:parv	o_a
@@ -93299,7 +93299,7 @@
 :no:parvol	o_i masc
 
 :le:parvulita\
-:no:parvulita\	indecl fem
+:no:parvulit	a_acc fem
 
 :le:parziale
 :aj:parzial	e_i
@@ -93311,7 +93311,7 @@
 :aj:parzialeggiant	e_i
 
 :le:parzialita\
-:no:parzialita\	indecl fem
+:no:parzialit	a_acc fem
 
 :le:parzionario
 :aj:parzionari	o_a
@@ -93530,7 +93530,7 @@
 :aj:passibil	e_i
 
 :le:passibilita\
-:no:passibilita\	indecl fem
+:no:passibilit	a_acc fem
 
 :le:passimata
 :no:passimat	a_e fem
@@ -93557,7 +93557,7 @@
 :aj:passionevol	e_i
 
 :le:passivita\
-:no:passivita\	indecl fem
+:no:passivit	a_acc fem
 
 :le:passivo
 :aj:passiv	o_a
@@ -93722,7 +93722,7 @@
 :aj:pastorizi	o_a
 
 :le:pastosita\
-:no:pastosita\	indecl fem
+:no:pastosit	a_acc fem
 
 :le:pastoso
 :aj:pastos	o_a
@@ -93773,7 +93773,7 @@
 :no:patat	a_e fem
 
 :le:patavinita\
-:no:patavinita\	indecl fem
+:no:patavinit	a_acc fem
 
 :le:patella
 :no:patell	a_e fem
@@ -93815,7 +93815,7 @@
 :wd:paternalmente	adverb
 
 :le:paternita\
-:no:paternita\	indecl fem
+:no:paternit	a_acc fem
 
 :le:paterno
 :aj:patern	o_a
@@ -94019,7 +94019,7 @@
 :aj:paucifer	o_a
 
 :le:paucita\
-:no:paucita\	indecl fem
+:no:paucit	a_acc fem
 
 :le:pauco
 :aj:pau	co_ca
@@ -94574,7 +94574,7 @@
 :no:pellegrinazion	e_i fem
 
 :le:pellegrinita\
-:no:pellegrinita\	indecl fem
+:no:pellegrinit	a_acc fem
 
 :le:pellegrino
 :no:pellegrin	o_i masc
@@ -94619,7 +94619,7 @@
 :no:pelosell	a_e fem
 
 :le:pelosita\
-:no:pelosita\	indecl fem
+:no:pelosit	a_acc fem
 
 :le:peloso
 :aj:pelos	o_a
@@ -94655,7 +94655,7 @@
 :wd:penalmente	adverb
 
 :le:penalita\
-:no:penalita\	indecl fem
+:no:penalit	a_acc fem
 
 :le:penanza
 :no:penanz	a_e fem
@@ -94724,7 +94724,7 @@
 :aj:penetrabil	e_i
 
 :le:penetrabilita\
-:no:penetrabilita\	indecl fem
+:no:penetrabilit	a_acc fem
 
 :le:penetragione
 :no:penetragion	e_i fem
@@ -95258,7 +95258,7 @@
 :wd:perdurabilmente	adverb
 
 :le:perdurabilita\
-:no:perdurabilita\	indecl fem
+:no:perdurabilit	a_acc fem
 
 :le:perduranza
 :no:perduranz	a_e fem
@@ -95297,7 +95297,7 @@
 :no:peregrinazion	e_i fem
 
 :le:peregrinita\
-:no:peregrinita\	indecl fem
+:no:peregrinit	a_acc fem
 
 :le:peregrino
 :no:peregrin	o_i masc
@@ -95312,7 +95312,7 @@
 :wd:perennemente	adverb
 
 :le:perennita\
-:no:perennita\	indecl fem
+:no:perennit	a_acc fem
 
 :le:perentorio
 :aj:perentori	o_a
@@ -95333,7 +95333,7 @@
 :aj:perfettibil	e_i
 
 :le:perfettibilita\
-:no:perfettibilita\	indecl fem
+:no:perfettibilit	a_acc fem
 
 :le:perfettivo
 :aj:perfettiv	o_a
@@ -95732,7 +95732,7 @@
 :no:pernic	e_i fem
 
 :le:perniciosita\
-:no:perniciosita\	indecl fem
+:no:perniciosit	a_acc fem
 
 :le:pernicioso
 :aj:pernicios	o_a
@@ -95795,7 +95795,7 @@
 :wd:perpendicolarmente	adverb
 
 :le:perpendicolarita\
-:no:perpendicolarita\	indecl fem
+:no:perpendicolarit	a_acc fem
 
 :le:perpendicolo
 :no:perpendicol	o_i masc
@@ -95819,7 +95819,7 @@
 :wd:perpetualmente	adverb
 
 :le:perpetualita\
-:no:perpetualita\	indecl fem
+:no:perpetualit	a_acc fem
 
 :le:perpetuatore
 :no:perpetuator	e_i masc
@@ -95831,7 +95831,7 @@
 :no:perpetuanz	a_e fem
 
 :le:perpetuita\
-:no:perpetuita\	indecl fem
+:no:perpetuit	a_acc fem
 
 :le:perpetuo
 :aj:perpetu	o_a
@@ -95843,7 +95843,7 @@
 :no:perpignan	o_i masc
 
 :le:perplessita\
-:no:perplessita\	indecl fem
+:no:perplessit	a_acc fem
 
 :le:perplesso
 :aj:perpless	o_a
@@ -95993,10 +95993,10 @@
 :wd:perspicacemente	adverb
 
 :le:perspicacita\
-:no:perspicacita\	indecl fem
+:no:perspicacit	a_acc fem
 
 :le:perspicuita\
-:no:perspicuita\	indecl fem
+:no:perspicuit	a_acc fem
 
 :le:perspicuo
 :aj:perspicu	o_a
@@ -96023,7 +96023,7 @@
 :aj:persuadibil	e_i
 
 :le:persuadibilita\
-:no:persuadibilita\	indecl fem
+:no:persuadibilit	a_acc fem
 
 :le:persuasibile
 :aj:persuasibil	e_i
@@ -96743,7 +96743,7 @@
 :aj:piacibil	e_i
 
 :le:piacibilita\
-:no:piacibilita\	indecl fem
+:no:piacibilit	a_acc fem
 
 :le:piacimento
 :no:piaciment	o_i masc
@@ -97412,7 +97412,7 @@
 :aj:pigher	o_a
 
 :le:pigherta\
-:no:pigherta\	indecl fem
+:no:pighert	a_acc fem
 
 :le:pigiamento
 :no:pigiament	o_i masc
@@ -97631,7 +97631,7 @@
 :no:piment	o_i masc
 
 :le:pimmeita\
-:no:pimmeita\	indecl fem
+:no:pimmeit	a_acc fem
 
 :le:pimmeo
 :no:pimme	o_i masc
@@ -97925,7 +97925,7 @@
 :no:piovitur	a_e masc
 
 :le:piovosita\
-:no:piovosita\	indecl fem
+:no:piovosit	a_acc fem
 
 :le:piovoso
 :aj:piovos	o_a
@@ -98381,7 +98381,7 @@
 :wd:placabilamente	adverb
 
 :le:placabilita\
-:no:placabilita\	indecl fem
+:no:placabilit	a_acc fem
 
 :le:placamento
 :no:placament	o_i masc
@@ -98420,10 +98420,10 @@
 :no:placet	indecl masc
 
 :le:placibilita\
-:no:placibilita\	indecl fem
+:no:placibilit	a_acc fem
 
 :le:placidita\
-:no:placidita\	indecl fem
+:no:placidit	a_acc fem
 
 :le:placido
 :aj:placid	o_a
@@ -98540,7 +98540,7 @@
 :wd:plausibilmente	adverb
 
 :le:plausibilita\
-:no:plausibilita\	indecl fem
+:no:plausibilit	a_acc fem
 
 :le:plauso
 :no:plaus	o_i masc
@@ -98687,7 +98687,7 @@
 :wd:pluralmente	adverb
 
 :le:pluralita\
-:no:pluralita\	indecl fem
+:no:pluralit	a_acc fem
 
 :le:pluralmente
 :wd:pluralmente	adverb
@@ -98819,7 +98819,7 @@
 :no:podestat	e_i fem
 
 :le:podesta\
-:no:podesta\	indecl masc
+:no:podest	a_acc masc
 
 :le:podestati
 :no:podestati	indecl fem
@@ -98933,7 +98933,7 @@
 :aj:polar	e_i
 
 :le:polarita\
-:no:polarita\	indecl fem
+:no:polarit	a_acc fem
 
 :le:polarizzazione
 :no:polarizzazion	e_i fem
@@ -99386,7 +99386,7 @@
 :no:pompil	o_i masc
 
 :le:pomposita\
-:no:pomposita\	indecl fem
+:no:pomposit	a_acc fem
 
 :le:pomposo
 :aj:pompos	o_a
@@ -99398,7 +99398,7 @@
 :aj:ponderabil	e_i
 
 :le:ponderabilita\
-:no:ponderabilita\	indecl fem
+:no:ponderabilit	a_acc fem
 
 :le:ponderatore
 :no:ponderator	e_i masc
@@ -99419,7 +99419,7 @@
 :no:ponderazion	e_i fem
 
 :le:ponderosita\
-:no:ponderosita\	indecl fem
+:no:ponderosit	a_acc fem
 
 :le:ponderoso
 :aj:ponderos	o_a
@@ -99581,7 +99581,7 @@
 :wd:popolarescamente	adverb
 
 :le:popolarita\
-:no:popolarita\	indecl fem
+:no:popolarit	a_acc fem
 
 :le:popolato
 :aj:popolat	o_a
@@ -99752,7 +99752,7 @@
 :no:por	o_i masc
 
 :le:porosita\
-:no:porosita\	indecl fem
+:no:porosit	a_acc fem
 
 :le:poroso
 :aj:poros	o_a
@@ -100391,7 +100391,7 @@
 :no:potestat	e_i fem
 
 :le:potesta\
-:no:potesta\	indecl masc
+:no:potest	a_acc masc
 
 :le:potestadi
 :no:potestadi	indecl masc
@@ -100457,7 +100457,7 @@
 :wd:poveramente	adverb
 
 :le:poverta\
-:no:poverta\	indecl fem
+:no:povert	a_acc fem
 
 :le:pozione
 :no:pozion	e_i fem
@@ -100466,7 +100466,7 @@
 :aj:pozior	e_i
 
 :le:poziorita\
-:no:poziorita\	indecl fem
+:no:poziorit	a_acc fem
 
 :le:pozza
 :no:pozz	a_e fem
@@ -100772,7 +100772,7 @@
 :wd:precocemente	adverb
 
 :le:precocita\
-:no:precocita\	indecl fem
+:no:precocit	a_acc fem
 
 :le:precognizione
 :no:precognizion	e_i fem
@@ -101081,7 +101081,7 @@
 :aj:pregiabil	e_i
 
 :le:pregiabilita\
-:no:pregiabilita\	indecl fem
+:no:pregiabilit	a_acc fem
 
 :le:pregiatrice
 :no:pregiatric	e_i fem
@@ -101528,7 +101528,7 @@
 :aj:prescindibil	e_i
 
 :le:prescindibilita\
-:no:prescindibilita\	indecl fem
+:no:prescindibilit	a_acc fem
 
 :le:prescione
 :no:prescion	e_i fem
@@ -101702,7 +101702,7 @@
 :aj:pressibil	e_i
 
 :le:pressibilita\
-:no:pressibilita\	indecl fem
+:no:pressibilit	a_acc fem
 
 :le:pressione
 :no:pression	e_i fem
@@ -101828,7 +101828,7 @@
 :aj:presuntor	e_i
 
 :le:presuntuosita\
-:no:presuntuosita\	indecl fem
+:no:presuntuosit	a_acc fem
 
 :le:presunzioso
 :aj:presunzios	o_a
@@ -102050,7 +102050,7 @@
 :no:prezi	o_i masc
 
 :le:preziosita\
-:no:preziosita\	indecl fem
+:no:preziosit	a_acc fem
 
 :le:prezioso
 :aj:prezios	o_a
@@ -102245,7 +102245,7 @@
 :wd:principalmente	adverb
 
 :le:principalita\
-:no:principalita\	indecl fem
+:no:principalit	a_acc fem
 
 :le:principati
 :no:principati	indecl masc
@@ -102428,7 +102428,7 @@
 :no:problem	a_e masc
 
 :le:problematicita\
-:no:problematicita\	indecl fem
+:no:problematicit	a_acc fem
 
 :le:problematico
 :aj:problemati	co_ca
@@ -102536,7 +102536,7 @@
 :no:procer	o_i masc
 
 :le:procerita\
-:no:procerita\	indecl fem
+:no:procerit	a_acc fem
 
 :le:processionalmente
 :wd:processionalmente	adverb
@@ -102587,7 +102587,7 @@
 :aj:procliv	e_i
 
 :le:proclivita\
-:no:proclivita\	indecl fem
+:no:proclivit	a_acc fem
 
 :le:proco
 :no:proc	o_i masc
@@ -102701,7 +102701,7 @@
 :no:prodigi	o_i masc
 
 :le:prodigiosita\
-:no:prodigiosita\	indecl fem
+:no:prodigiosit	a_acc fem
 
 :le:prodigioso
 :aj:prodigios	o_a
@@ -102809,7 +102809,7 @@
 :aj:profanant	e_i
 
 :le:profanita\
-:no:profanita\	indecl fem
+:no:profanit	a_acc fem
 
 :le:profano
 :aj:profan	o_a
@@ -102983,7 +102983,7 @@
 :aj:profondigor	go_ga
 
 :le:profondita\
-:no:profondita\	indecl fem
+:no:profondit	a_acc fem
 
 :le:profondo
 :no:profond	o_i masc
@@ -103280,7 +103280,7 @@
 :no:prominenz	a_e fem
 
 :le:promiscuita\
-:no:promiscuita\	indecl fem
+:no:promiscuit	a_acc fem
 
 :le:promiscuo
 :aj:promiscu	o_a
@@ -103586,7 +103586,7 @@
 :wd:proporzionalmente	adverb
 
 :le:proporzionalita\
-:no:proporzionalita\	indecl fem
+:no:proporzionalit	a_acc fem
 
 :le:proporzionatore
 :no:proporzionator	e_i masc
@@ -103646,7 +103646,7 @@
 :no:propretor	e_i masc
 
 :le:proprieta\
-:no:proprieta\	indecl fem
+:no:propriet	a_acc fem
 
 :le:proprietario
 :no:proprietari	o_i masc
@@ -103736,7 +103736,7 @@
 :aj:prosant	e_i
 
 :le:prosasticita\
-:no:prosasticita\	indecl fem
+:no:prosasticit	a_acc fem
 
 :le:prosastico
 :aj:prosasti	co_ca
@@ -103811,7 +103811,7 @@
 :no:proson	e_i masc
 
 :le:prosontuosita\
-:no:prosontuosita\	indecl fem
+:no:prosontuosit	a_acc fem
 
 :le:prosontuoso
 :aj:prosontuos	o_a
@@ -103973,7 +103973,7 @@
 :aj:proteiform	e_i
 
 :le:protervita\
-:no:protervita\	indecl fem
+:no:protervit	a_acc fem
 
 :le:protervo
 :aj:proterv	o_a
@@ -104108,7 +104108,7 @@
 :wd:provabilmente	adverb
 
 :le:provabilita\
-:no:provabilita\	indecl fem
+:no:provabilit	a_acc fem
 
 :le:provagione
 :no:provagion	e_i fem
@@ -104540,7 +104540,7 @@
 :no:pubblicist	a_e masc
 
 :le:pubblicita\
-:no:pubblicita\	indecl fem
+:no:pubblicit	a_acc fem
 
 :le:pubblico
 :no:pubblic	o_i masc
@@ -104600,7 +104600,7 @@
 :wd:puerilmente	adverb
 
 :le:puerilita\
-:no:puerilita\	indecl fem
+:no:puerilit	a_acc fem
 
 :le:puerizia
 :no:puerizi	a_e fem
@@ -105002,7 +105002,7 @@
 :wd:puntualmente	adverb
 
 :le:puntualita\
-:no:puntualita\	indecl fem
+:no:puntualit	a_acc fem
 
 :le:puntuazione
 :no:puntuazion	e_i fem
@@ -105158,10 +105158,10 @@
 :wd:pusillanimamente	adverb
 
 :le:pusillanimita\
-:no:pusillanimita\	indecl fem
+:no:pusillanimit	a_acc fem
 
 :le:pusillita\
-:no:pusillita\	indecl fem
+:no:pusillit	a_acc fem
 
 :le:pusillo
 :aj:pusill	o_a
@@ -105218,7 +105218,7 @@
 :no:putridor	e_i masc
 
 :le:putridita\
-:no:putridita\	indecl fem
+:no:putridit	a_acc fem
 
 :le:putridume
 :no:putridum	e_i masc
@@ -105593,10 +105593,10 @@
 :wd:quantunque	adverb
 
 :le:quaqua\
-:no:quaqua\	indecl masc
+:no:quaqu	a_acc masc
 
 :le:quariqua\
-:no:quariqua\	indecl masc
+:no:quariqu	a_acc masc
 
 :le:quarantana
 :no:quarantan	a_e fem
@@ -105746,7 +105746,7 @@
 :no:quaternari	o_i masc
 
 :le:quaternita\
-:no:quaternita\	indecl fem
+:no:quaternit	a_acc fem
 
 :le:quaterno
 :aj:quatern	o_a
@@ -105788,7 +105788,7 @@
 :no:quattrinat	a_e fem
 
 :le:quattrinita\
-:no:quattrinita\	indecl fem
+:no:quattrinit	a_acc fem
 
 :le:quattrino
 :no:quattrin	o_i masc
@@ -105980,7 +105980,7 @@
 :wd:quidentro	adverb
 
 :le:quiddita\
-:no:quiddita\	indecl fem
+:no:quiddit	a_acc fem
 
 :le:quidditativo
 :aj:quidditativ	o_a
@@ -106688,7 +106688,7 @@
 :aj:radios	o_a
 
 :le:radita\
-:no:radita\	indecl fem
+:no:radit	a_acc fem
 
 :le:raditura
 :no:raditur	a_e fem
@@ -107309,7 +107309,7 @@
 :no:ramor	a_e fem
 
 :le:ramosita\
-:no:ramosita\	indecl fem
+:no:ramosit	a_acc fem
 
 :le:ramoruto
 :aj:ramorut	o_a
@@ -107390,7 +107390,7 @@
 :aj:rancicos	o_a
 
 :le:rancidita\
-:no:rancidita\	indecl fem
+:no:rancidit	a_acc fem
 
 :le:rancido
 :aj:rancid	o_a
@@ -107519,7 +107519,7 @@
 :wd:rapacemente	adverb
 
 :le:rapacita\
-:no:rapacita\	indecl fem
+:no:rapacit	a_acc fem
 
 :le:rapata
 :no:rapat	a_e fem
@@ -107549,7 +107549,7 @@
 :no:rapidezz	a_e fem
 
 :le:rapidita\
-:no:rapidita\	indecl fem
+:no:rapidit	a_acc fem
 
 :le:rapido
 :no:rapid	o_i masc
@@ -107723,7 +107723,7 @@
 :aj:rarescibil	e_i
 
 :le:rarescibilita\
-:no:rarescibilita\	indecl fem
+:no:rarescibilit	a_acc fem
 
 :le:rarezza
 :no:rarezz	a_e fem
@@ -108233,7 +108233,7 @@
 :aj:razionabil	e_i
 
 :le:razionabilita\
-:no:razionabilita\	indecl fem
+:no:razionabilit	a_acc fem
 
 :le:razionale
 :no:razional	e_i masc
@@ -108245,7 +108245,7 @@
 :wd:razionalmente	adverb
 
 :le:razionalita\
-:no:razionalita\	indecl fem
+:no:razionalit	a_acc fem
 
 :le:razione
 :no:razion	e_i fem
@@ -108305,7 +108305,7 @@
 :no:realist	a_e masc
 
 :le:realita\
-:no:realita\	indecl fem
+:no:realit	a_acc fem
 
 :le:realizzazione
 :no:realizzazion	e_i fem
@@ -108419,7 +108419,7 @@
 :aj:recettibil	e_i
 
 :le:recettibilita\
-:no:recettibilita\	indecl fem
+:no:recettibilit	a_acc fem
 
 :le:recettivo
 :aj:recettiv	o_a
@@ -108614,7 +108614,7 @@
 :aj:recusabil	e_i
 
 :le:recusabilita\
-:no:recusabilita\	indecl fem
+:no:recusabilit	a_acc fem
 
 :le:recusazione
 :no:recusazion	e_i fem
@@ -108692,7 +108692,7 @@
 :aj:redimibil	e_i
 
 :le:redimibilita\
-:no:redimibilita\	indecl fem
+:no:redimibilit	a_acc fem
 
 :le:redine
 :no:redin	e_i fem
@@ -108707,7 +108707,7 @@
 :no:redit	a_e fem
 
 :le:redita\
-:no:redita\	indecl fem
+:no:redit	a_acc fem
 
 :le:reditaggio
 :no:reditaggi	o_i masc
@@ -108812,7 +108812,7 @@
 :aj:reflessibil	e_i
 
 :le:reflessibilita\
-:no:reflessibilita\	indecl fem
+:no:reflessibilit	a_acc fem
 
 :le:reflessione
 :no:reflession	e_i fem
@@ -109052,7 +109052,7 @@
 :no:regolatric	e_i fem
 
 :le:regolarita\
-:no:regolarita\	indecl fem
+:no:regolarit	a_acc fem
 
 :le:regolato
 :aj:regolat	o_a
@@ -109193,7 +109193,7 @@
 :no:religios	a_e fem
 
 :le:religiosita\
-:no:religiosita\	indecl fem
+:no:religiosit	a_acc fem
 
 :le:religioso
 :aj:religios	o_a
@@ -109442,7 +109442,7 @@
 :aj:renosicci	o_a
 
 :le:renosita\
-:no:renosita\	indecl fem
+:no:renosit	a_acc fem
 
 :le:renoso
 :aj:renos	o_a
@@ -109832,7 +109832,7 @@
 :aj:respirabil	e_i
 
 :le:respirabilita\
-:no:respirabilita\	indecl fem
+:no:respirabilit	a_acc fem
 
 :le:respirare
 :no:respirar	e_i masc
@@ -110318,7 +110318,7 @@
 :aj:revocabil	e_i
 
 :le:revocabilita\
-:no:revocabilita\	indecl fem
+:no:revocabilit	a_acc fem
 
 :le:revoluzione
 :no:revoluzion	e_i fem
@@ -111194,7 +111194,7 @@
 :aj:ricopribil	e_i
 
 :le:ricopribilita\
-:no:ricopribilita\	indecl fem
+:no:ricopribilit	a_acc fem
 
 :le:ricoprimento
 :no:ricopriment	o_i masc
@@ -111443,7 +111443,7 @@
 :aj:ridicul	o_a
 
 :le:ridicolosita\
-:no:ridicolosita\	indecl fem
+:no:ridicolosit	a_acc fem
 
 :le:ridicoloso
 :aj:ridicolos	o_a
@@ -111713,7 +111713,7 @@
 :aj:riflessibil	e_i
 
 :le:riflessibilita\
-:no:riflessibilita\	indecl fem
+:no:riflessibilit	a_acc fem
 
 :le:riflessione
 :no:riflession	e_i fem
@@ -111794,7 +111794,7 @@
 :wd:rifrangibilmente	adverb
 
 :le:rifrangibilita\
-:no:rifrangibilita\	indecl fem
+:no:rifrangibilit	a_acc fem
 
 :le:rifrangimento
 :no:rifrangiment	o_i masc
@@ -111953,7 +111953,7 @@
 :no:rigezion	e_i fem
 
 :le:rigidita\
-:no:rigidita\	indecl fem
+:no:rigidit	a_acc fem
 
 :le:rigido
 :aj:rigid	o_a
@@ -112043,7 +112043,7 @@
 :no:rigor	o_i masc
 
 :le:rigorosita\
-:no:rigorosita\	indecl fem
+:no:rigorosit	a_acc fem
 
 :le:rigoroso
 :aj:rigoros	o_a
@@ -114125,7 +114125,7 @@
 :aj:risibil	e_i
 
 :le:risibilita\
-:no:risibilita\	indecl fem
+:no:risibilit	a_acc fem
 
 :le:risichevole
 :aj:risichevol	e_i
@@ -114392,7 +114392,7 @@
 :aj:risponsabil	e_i
 
 :le:risponsabilita\
-:no:risponsabilita\	indecl fem
+:no:risponsabilit	a_acc fem
 
 :le:risponsione
 :no:risponsion	e_i fem
@@ -114752,7 +114752,7 @@
 :no:ritondat	o_i masc
 
 :le:ritondita\
-:no:ritondita\	indecl fem
+:no:ritondit	a_acc fem
 
 :le:ritondo
 :no:ritond	o_i masc
@@ -114875,7 +114875,7 @@
 :no:ritrosi	a_e fem
 
 :le:ritrosita\
-:no:ritrosita\	indecl fem
+:no:ritrosit	a_acc fem
 
 :le:ritroso
 :no:ritros	o_i masc
@@ -114977,7 +114977,7 @@
 :no:rivalidazion	e_i fem
 
 :le:rivalita\
-:no:rivalita\	indecl fem
+:no:rivalit	a_acc fem
 
 :le:rivalsa
 :no:rivals	a_e fem
@@ -115106,7 +115106,7 @@
 :aj:riversibil	e_i
 
 :le:riversibilita\
-:no:riversibilita\	indecl fem
+:no:riversibilit	a_acc fem
 
 :le:riversivo
 :aj:riversiv	o_a
@@ -116021,7 +116021,7 @@
 :no:rozz	a_e fem
 
 :le:rozzita\
-:no:rozzita\	indecl fem
+:no:rozzit	a_acc fem
 
 :le:rozzo
 :aj:rozz	o_a
@@ -116189,7 +116189,7 @@
 :no:rudiment	o_i masc
 
 :le:rudita\
-:no:rudita\	indecl fem
+:no:rudit	a_acc fem
 
 :le:ruffa
 :no:ruff	a_e fem
@@ -116267,7 +116267,7 @@
 :no:ruglion	e_i masc
 
 :le:rugosita\
-:no:rugosita\	indecl fem
+:no:rugosit	a_acc fem
 
 :le:rugottato
 :aj:rugottat	o_a
@@ -116417,7 +116417,7 @@
 :no:rustichezz	a_e fem
 
 :le:rusticita\
-:no:rusticita\	indecl fem
+:no:rusticit	a_acc fem
 
 :le:rustico
 :no:rustic	o_i masc
@@ -116459,7 +116459,7 @@
 :no:rutt	o_i masc
 
 :le:ruvidita\
-:no:ruvidita\	indecl fem
+:no:ruvidit	a_acc fem
 
 :le:ruvido
 :no:ruvid	o_i masc
@@ -116789,7 +116789,7 @@
 :no:sagaci	a_e fem
 
 :le:sagacita\
-:no:sagacita\	indecl fem
+:no:sagacit	a_acc fem
 
 :le:sagapeno
 :no:sagapen	o_i masc
@@ -117371,7 +117371,7 @@
 :no:salv	a_e fem
 
 :le:salvacitta\
-:no:salvacitta\	indecl fem
+:no:salvacitt	a_acc fem
 
 :le:salvadanajo
 :no:salvadanaj	o_i masc
@@ -118142,7 +118142,7 @@
 :no:satollanz	a_e fem
 
 :le:satolita\
-:no:satolita\	indecl fem
+:no:satolit	a_acc fem
 
 :le:satoro
 :aj:sator	o_a
@@ -118166,7 +118166,7 @@
 :aj:saturnin	o_a
 
 :le:saturnita\
-:no:saturnita\	indecl fem
+:no:saturnit	a_acc fem
 
 :le:saturno
 :no:saturn	o_i masc
@@ -118220,7 +118220,7 @@
 :wd:saziabilmente	adverb
 
 :le:saziabilita\
-:no:saziabilita\	indecl fem
+:no:saziabilit	a_acc fem
 
 :le:saziamento
 :no:saziament	o_i masc
@@ -119483,7 +119483,7 @@
 :no:scarsellacci	o_i masc
 
 :le:scarsita\
-:no:scarsita\	indecl fem
+:no:scarsit	a_acc fem
 
 :le:scarso
 :aj:scars	o_a
@@ -119732,7 +119732,7 @@
 :wd:scempiatamente	adverb
 
 :le:scempieta\
-:no:scempieta\	indecl fem
+:no:scempiet	a_acc fem
 
 :le:scempio
 :no:scempi	o_i masc
@@ -119741,7 +119741,7 @@
 :aj:scempr	o_a
 
 :le:scempita\
-:no:scempita\	indecl fem
+:no:scempit	a_acc fem
 
 :le:scena
 :no:scen	a_e fem
@@ -119924,7 +119924,7 @@
 :no:scherm	o_i masc
 
 :le:schernita\
-:no:schernita\	indecl fem
+:no:schernit	a_acc fem
 
 :le:schernevole
 :aj:schernevol	e_i
@@ -120152,7 +120152,7 @@
 :no:schif	a_e fem
 
 :le:schifalta\
-:no:schifalta\	indecl fem
+:no:schifalt	a_acc fem
 
 :le:schifamento
 :no:schifament	o_i masc
@@ -120521,10 +120521,10 @@
 :aj:scibil	e_i
 
 :le:scibilita\
-:no:scibilita\	indecl fem
+:no:scibilit	a_acc fem
 
 :le:sciempita\
-:no:sciempita\	indecl fem
+:no:sciempit	a_acc fem
 
 :le:sciena
 :no:scien	a_e fem
@@ -122309,7 +122309,7 @@
 :no:scrupol	o_i masc
 
 :le:scrupolosita\
-:no:scrupolosita\	indecl fem
+:no:scrupolosit	a_acc fem
 
 :le:scrupuloso
 :aj:scrupulos	o_a
@@ -122816,7 +122816,7 @@
 :wd:secolarescamente	adverb
 
 :le:secolarita\
-:no:secolarita\	indecl fem
+:no:secolarit	a_acc fem
 
 :le:secolarizzazione
 :no:secolarizzazion	e_i fem
@@ -122981,7 +122981,7 @@
 :no:seduciment	o_i masc
 
 :le:sedulita\
-:no:sedulita\	indecl fem
+:no:sedulit	a_acc fem
 
 :le:sedutto
 :aj:sedutt	o_a
@@ -123665,7 +123665,7 @@
 :wd:sempiternalmente	adverb
 
 :le:sempiternita\
-:no:sempiternita\	indecl fem
+:no:sempiternit	a_acc fem
 
 :le:sempiterno
 :aj:sempitern	o_a
@@ -124244,7 +124244,7 @@
 :no:serolon	e_i masc
 
 :le:serosita\
-:no:serosita\	indecl fem
+:no:serosit	a_acc fem
 
 :le:seroso
 :aj:seros	o_a
@@ -124451,7 +124451,7 @@
 :wd:servilmente	adverb
 
 :le:servilita\
-:no:servilita\	indecl fem
+:no:servilit	a_acc fem
 
 :le:servimento
 :no:serviment	o_i masc
@@ -124880,7 +124880,7 @@
 :no:sfarz	o_i masc
 
 :le:sfarzosita\
-:no:sfarzosita\	indecl fem
+:no:sfarzosit	a_acc fem
 
 :le:sfarzoso
 :aj:sfarzos	o_a
@@ -124967,7 +124967,7 @@
 :aj:sferal	e_i
 
 :le:sfericita\
-:no:sfericita\	indecl fem
+:no:sfericit	a_acc fem
 
 :le:sferico
 :aj:sferi	co_ca
@@ -125837,7 +125837,7 @@
 :no:sicurezz	a_e fem
 
 :le:sicurita\
-:no:sicurita\	indecl fem
+:no:sicurit	a_acc fem
 
 :le:sicuro
 :no:sicur	o_i masc
@@ -126023,7 +126023,7 @@
 :wd:signorilmente	adverb
 
 :le:signorilita\
-:no:signorilita\	indecl fem
+:no:signorilit	a_acc fem
 
 :le:signorio
 :no:signori	o_i masc
@@ -126170,7 +126170,7 @@
 :wd:simbolicamente	adverb
 
 :le:simboleita\
-:no:simboleita\	indecl fem
+:no:simboleit	a_acc fem
 
 :le:simbolo
 :no:simbol	o_i masc
@@ -126233,7 +126233,7 @@
 :no:similor	o_i masc
 
 :le:simita\
-:no:simita\	indecl fem
+:no:simit	a_acc fem
 
 :le:simmachia
 :no:simmachi	a_e fem
@@ -126761,7 +126761,7 @@
 :aj:sleal	e_i
 
 :le:slealta\
-:no:slealta\	indecl fem
+:no:slealt	a_acc fem
 
 :le:slegamento
 :no:slegament	o_i masc
@@ -127394,7 +127394,7 @@
 :no:socci	o_i masc
 
 :le:soccita\
-:no:soccita\	indecl fem
+:no:soccit	a_acc fem
 
 :le:socciso
 :aj:soccis	o_a
@@ -127442,7 +127442,7 @@
 :wd:sociabilmente	adverb
 
 :le:socialita\
-:no:socialita\	indecl fem
+:no:socialit	a_acc fem
 
 :le:sociativo
 :aj:sociativ	o_a
@@ -127571,7 +127571,7 @@
 :no:soduzion	e_i fem
 
 :le:sofa\
-:no:sofa\	indecl masc
+:no:sof	a_acc masc
 
 :le:sofferente
 :aj:sofferent	e_i
@@ -128138,7 +128138,7 @@
 :aj:solidant	e_i
 
 :le:solidarieta\
-:no:solidarieta\	indecl fem
+:no:solidariet	a_acc fem
 
 :le:solidario
 :aj:solidari	o_a
@@ -128183,7 +128183,7 @@
 :aj:soliped	e_i
 
 :le:solitarieta\
-:no:solitarieta\	indecl fem
+:no:solitariet	a_acc fem
 
 :le:solitario
 :aj:solitari	o_a
@@ -128363,7 +128363,7 @@
 :aj:solubil	e_i
 
 :le:solubilita\
-:no:solubilita\	indecl fem
+:no:solubilit	a_acc fem
 
 :le:solutivo
 :aj:solutiv	o_a
@@ -128396,7 +128396,7 @@
 :aj:solvibil	e_i
 
 :le:solvibilita\
-:no:solvibilita\	indecl fem
+:no:solvibilit	a_acc fem
 
 :le:solvimento
 :no:solviment	o_i masc
@@ -128768,7 +128768,7 @@
 :no:soperchieri	a_e fem
 
 :le:soperchieta\
-:no:soperchieta\	indecl fem
+:no:soperchiet	a_acc fem
 
 :le:soperchievole
 :aj:soperchievol	e_i
@@ -128789,7 +128789,7 @@
 :wd:soperchio	adverb
 
 :le:soperchita\
-:no:soperchita\	indecl fem
+:no:soperchit	a_acc fem
 
 :le:sopitore
 :no:sopitor	e_i masc
@@ -129005,7 +129005,7 @@
 :no:sopraccio\	indecl masc
 
 :le:sopraccitabilita\
-:no:sopraccitabilita\	indecl fem
+:no:sopraccitabilit	a_acc fem
 
 :le:sopraccolonnio
 :no:sopraccolonni	o_i masc
@@ -129065,7 +129065,7 @@
 :no:sopraeccellenz	a_e fem
 
 :le:sopraeccitabilita\
-:no:sopraeccitabilita\	indecl fem
+:no:sopraeccitabilit	a_acc fem
 
 :le:sopraeccitamento
 :no:sopraeccitament	o_i masc
@@ -129227,7 +129227,7 @@
 :wd:sopranimo	adverb
 
 :le:sopranita\
-:no:sopranita\	indecl fem
+:no:sopranit	a_acc fem
 
 :le:soprannato
 :aj:soprannat	o_a
@@ -129314,7 +129314,7 @@
 :aj:soprappien	o_a
 
 :le:soprappiu\
-:no:soprappiu\	indecl masc
+:no:soprappi	u_acc masc
 
 :le:soprapponente
 :aj:soprapponent	e_i
@@ -130040,7 +130040,7 @@
 :aj:sort	o_a
 
 :le:sortu\
-:no:sortu\	indecl masc
+:no:sort	u_acc masc
 
 :le:sorvanzante
 :aj:sorvanzant	e_i
@@ -130226,7 +130226,7 @@
 :wd:sostanzialmente	adverb
 
 :le:sostanzialita\
-:no:sostanzialita\	indecl fem
+:no:sostanzialit	a_acc fem
 
 :le:sostanzievole
 :aj:sostanzievol	e_i
@@ -130601,7 +130601,7 @@
 :aj:sottonormal	e_i
 
 :le:sottonsu\
-:no:sottonsu\	indecl masc
+:no:sottons	u_acc masc
 
 :le:sottontendimento
 :no:sottontendiment	o_i masc
@@ -130874,7 +130874,7 @@
 :aj:sovrapien	o_a
 
 :le:sovrappiu\
-:no:sovrappiu\	indecl masc
+:no:sovrappi	u_acc masc
 
 :le:sovrappossente
 :aj:sovrappossent	e_i
@@ -130934,7 +130934,7 @@
 :no:sovrossequi	o_i masc
 
 :le:sovrumanita\
-:no:sovrumanita\	indecl fem
+:no:sovrumanit	a_acc fem
 
 :le:sovrumano
 :aj:sovruman	o_a
@@ -130997,7 +130997,7 @@
 :aj:sozial	e_i
 
 :le:sozieta\
-:no:sozieta\	indecl fem
+:no:soziet	a_acc fem
 
 :le:sozio
 :no:sozi	o_i masc
@@ -131687,7 +131687,7 @@
 :no:spavent	o_i masc
 
 :le:spaventosita\
-:no:spaventosita\	indecl fem
+:no:spaventosit	a_acc fem
 
 :le:spaventoso
 :aj:spaventos	o_a
@@ -132620,7 +132620,7 @@
 :aj:spieghevol	e_i
 
 :le:spieta\
-:no:spieta\	indecl fem
+:no:spiet	a_acc fem
 
 :le:spietanza
 :no:spietanz	a_e fem
@@ -133190,7 +133190,7 @@
 :no:spons	o_i masc
 
 :le:spontaneita\
-:no:spontaneita\	indecl fem
+:no:spontaneit	a_acc fem
 
 :le:spontano
 :aj:spontan	o_a
@@ -133508,7 +133508,7 @@
 :wd:sproporzionalmente	adverb
 
 :le:sproporzionalita\
-:no:sproporzionalita\	indecl fem
+:no:sproporzionalit	a_acc fem
 
 :le:sproporzionato
 :aj:sproporzionat	o_a
@@ -134327,7 +134327,7 @@
 :no:stanchezz	a_e fem
 
 :le:stanchita\
-:no:stanchita\	indecl fem
+:no:stanchit	a_acc fem
 
 :le:stanco
 :aj:stan	co_ca
@@ -135359,7 +135359,7 @@
 :no:stolc	o_i masc
 
 :le:stolidita\
-:no:stolidita\	indecl fem
+:no:stolidit	a_acc fem
 
 :le:stolido
 :aj:stolid	o_a
@@ -135989,7 +135989,7 @@
 :no:straor	a_e fem
 
 :le:straordinarieta\
-:no:straordinarieta\	indecl fem
+:no:straordinariet	a_acc fem
 
 :le:straordinario
 :no:straordinari	o_i masc
@@ -137225,7 +137225,7 @@
 :aj:successibil	e_i
 
 :le:successibilita\
-:no:successibilita\	indecl fem
+:no:successibilit	a_acc fem
 
 :le:successione
 :no:succession	e_i fem
@@ -137684,7 +137684,7 @@
 :aj:sulfurat	o_a
 
 :le:sulfureita\
-:no:sulfureita\	indecl fem
+:no:sulfureit	a_acc fem
 
 :le:sulfureo
 :aj:sulfure	o_a
@@ -139106,7 +139106,7 @@
 :no:tafferugli	o_i masc
 
 :le:taffetta\
-:no:taffetta\	indecl fem
+:no:taffett	a_acc fem
 
 :le:taffio
 :no:taffi	o_i masc
@@ -140684,7 +140684,7 @@
 :aj:terminabil	e_i
 
 :le:terminabilita\
-:no:terminabilita\	indecl fem
+:no:terminabilit	a_acc fem
 
 :le:terminale
 :aj:terminal	e_i
@@ -144818,7 +144818,7 @@
 :no:trepidazion	e_i fem
 
 :le:trepidita\
-:no:trepidita\	indecl fem
+:no:trepidit	a_acc fem
 
 :le:trepido
 :aj:trepid	o_a
@@ -144881,7 +144881,7 @@
 :aj:triangolar	e_i
 
 :le:triangolarita\
-:no:triangolarita\	indecl fem
+:no:triangolarit	a_acc fem
 
 :le:triangolato
 :aj:triangolat	o_a
@@ -144932,7 +144932,7 @@
 :no:tribrachi	o_i masc
 
 :le:tribu\
-:no:tribu\	indecl fem
+:no:trib	u_acc fem
 
 :le:tribuna
 :no:tribun	a_e fem
@@ -145502,7 +145502,7 @@
 :wd:trivialmente	adverb
 
 :le:trivialita\
-:no:trivialita\	indecl fem
+:no:trivialit	a_acc fem
 
 :le:trivio
 :no:trivi	o_i masc
@@ -145946,7 +145946,7 @@
 :no:tulliat	a_e fem
 
 :le:tulluru\
-:no:tulluru\	indecl masc
+:no:tullur	u_acc masc
 
 :le:tumefazione
 :no:tumefazion	e_i fem
@@ -146312,7 +146312,7 @@
 :no:ubin	o_i masc
 
 :le:ubiquita\
-:no:ubiquita\	indecl fem
+:no:ubiquit	a_acc fem
 
 :le:ublianza
 :no:ublianz	a_e fem
@@ -146924,10 +146924,10 @@
 :aj:unibil	e_i
 
 :le:unibilita\
-:no:unibilita\	indecl fem
+:no:unibilit	a_acc fem
 
 :le:unicita\
-:no:unicita\	indecl fem
+:no:unicit	a_acc fem
 
 :le:unico
 :aj:uni	co_ca
@@ -147434,7 +147434,7 @@
 :wd:usualmente	adverb
 
 :le:usualita\
-:no:usualita\	indecl fem
+:no:usualit	a_acc fem
 
 :le:usucapione
 :no:usucapion	e_i fem
@@ -147635,7 +147635,7 @@
 :no:vacillitat	e_i fem
 
 :le:vacquatu\
-:no:vacquatu\	indecl masc
+:no:vacquat	u_acc masc
 
 :le:vacuitate
 :no:vacuitat	e_i fem
@@ -148175,7 +148175,7 @@
 :aj:vaporevol	e_i
 
 :le:vaporita\
-:no:vaporita\	indecl fem
+:no:vaporit	a_acc fem
 
 :le:vaporositate
 :no:vaporositat	e_i fem
@@ -148739,7 +148739,7 @@
 :no:vell	e_i masc
 
 :le:velleita\
-:no:velleita\	indecl fem
+:no:velleit	a_acc fem
 
 :le:vellicamento
 :no:vellicament	o_i masc
@@ -148808,7 +148808,7 @@
 :aj:venal	e_i
 
 :le:venalita\
-:no:venalita\	indecl fem
+:no:venalit	a_acc fem
 
 :le:venardi\
 :no:venardi\	indecl masc
@@ -148946,7 +148946,7 @@
 :aj:venerabil	e_i
 
 :le:venerabilita\
-:no:venerabilita\	indecl fem
+:no:venerabilit	a_acc fem
 
 :le:venerando
 :aj:venerand	o_a
@@ -149180,7 +149180,7 @@
 :no:verb	o_i masc
 
 :le:verbosita\
-:no:verbosita\	indecl fem
+:no:verbosit	a_acc fem
 
 :le:verboso
 :aj:verbos	o_a
@@ -149393,7 +149393,7 @@
 :no:vericid	a_e fem
 
 :le:veridicita\
-:no:veridicita\	indecl fem
+:no:veridicit	a_acc fem
 
 :le:veridico
 :aj:veridi	co_ca
@@ -149636,7 +149636,7 @@
 :aj:versabil	e_i
 
 :le:versabilita\
-:no:versabilita\	indecl fem
+:no:versabilit	a_acc fem
 
 :le:versamento
 :no:versament	o_i masc
@@ -149651,7 +149651,7 @@
 :aj:versatil	e_i
 
 :le:versatilita\
-:no:versatilita\	indecl fem
+:no:versatilit	a_acc fem
 
 :le:versato
 :aj:versat	o_a
@@ -149741,7 +149741,7 @@
 :aj:vertical	e_i
 
 :le:verticalita\
-:no:verticalita\	indecl fem
+:no:verticalit	a_acc fem
 
 :le:vertice
 :no:vertic	e_i masc
@@ -150335,7 +150335,7 @@
 :aj:viduat	o_a
 
 :le:viduita\
-:no:viduita\	indecl fem
+:no:viduit	a_acc fem
 
 :le:vie
 :wd:vie	adverb
@@ -150371,7 +150371,7 @@
 :no:vietum	e_i masc
 
 :le:vieva\
-:no:vieva\	indecl fem
+:no:viev	a_acc fem
 
 :le:vievia
 :wd:vievia	adverb
@@ -150503,7 +150503,7 @@
 :aj:vilipes	o_a
 
 :le:vilita\
-:no:vilita\	indecl fem
+:no:vilit	a_acc fem
 
 :le:villa
 :no:vill	a_e fem
@@ -150725,7 +150725,7 @@
 :no:vinomel	e_i masc
 
 :le:vinosita\
-:no:vinosita\	indecl fem
+:no:vinosit	a_acc fem
 
 :le:vinoso
 :aj:vinos	o_a
@@ -150908,7 +150908,7 @@
 :wd:virtualmente	adverb
 
 :le:virtualita\
-:no:virtualita\	indecl fem
+:no:virtualit	a_acc fem
 
 :le:virtudioso
 :aj:virtudios	o_a
@@ -150965,7 +150965,7 @@
 :aj:vischios	o_a
 
 :le:viscidita\
-:no:viscidita\	indecl fem
+:no:viscidit	a_acc fem
 
 :le:viscido
 :aj:viscid	o_a
@@ -151013,7 +151013,7 @@
 :no:visibili	o_i masc
 
 :le:visibilita\
-:no:visibilita\	indecl fem
+:no:visibilit	a_acc fem
 
 :le:visiera
 :no:visier	a_e fem
@@ -151088,7 +151088,7 @@
 :wd:vistamente	adverb
 
 :le:vistosita\
-:no:vistosita\	indecl fem
+:no:vistosit	a_acc fem
 
 :le:vistoso
 :aj:vistos	o_a
@@ -151124,7 +151124,7 @@
 :wd:vitalmente	adverb
 
 :le:vitalita\
-:no:vitalita\	indecl fem
+:no:vitalit	a_acc fem
 
 :le:vitalizio
 :no:vitalizi	o_i masc
@@ -151637,7 +151637,7 @@
 :no:volgaresim	o_i masc
 
 :le:volgarita\
-:no:volgarita\	indecl fem
+:no:volgarit	a_acc fem
 
 :le:volgarizzamento
 :no:volgarizzament	o_i masc
@@ -151838,7 +151838,7 @@
 :wd:voluminosamente	adverb
 
 :le:volupta\
-:no:volupta\	indecl fem
+:no:volupt	a_acc fem
 
 :le:voluta
 :no:volut	a_e fem
@@ -151853,7 +151853,7 @@
 :aj:voluttari	o_a
 
 :le:voluttuosita\
-:no:voluttuosita\	indecl fem
+:no:voluttuosit	a_acc fem
 
 :le:voluttuoso
 :aj:voluttuos	o_a
@@ -152339,7 +152339,7 @@
 :no:zebr	o_i masc
 
 :le:zebu\
-:no:zebu\	indecl masc
+:no:zeb	u_acc masc
 
 :le:zecca
 :no:zecc	a_e fem
