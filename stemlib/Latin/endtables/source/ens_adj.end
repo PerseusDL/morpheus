@@ -1,5 +1,5 @@
-ents	masc fem nom/voc sg
-ents	neut nom/voc/acc sg
+ens	masc fem nom/voc sg
+ens	neut nom/voc/acc sg
 ent@decl3_i masc fem 
 ent@decl3_i neut
 enti_	masc fem neut abl sg
