@@ -824,6 +824,9 @@
 :le:qualis
 :aj:qua_l	is_e
 
+:le:quamquam
+:wd:quamquam	conj
+
 :le:quater
 :wd:quater	adverb
 
