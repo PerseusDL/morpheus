@@ -2,6 +2,11 @@ o_i 01 noun1
 a_e 02 noun2
 e_i 03 noun3
 
+o_a 01 adj1
+co_ca 02 adj1
+go_ga 03 adj1
+e_i 01 adj3
+
 conj1 01 pp_pr
 conj1_g 02 pp_pr
 conj1_c 03 pp_pr
@@ -11,5 +16,6 @@ conj2 06 pp_pr
 conj3 07 pp_pr
 
 
+adverb 015 indecl
 article 05 indecl
 irreg_nom 077 indecl1
