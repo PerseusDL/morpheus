@@ -42,6 +42,6 @@ sawnom(char * pref, char * suff, int n)
 
 main(int argc, char * argv[])
 {
-	if( !strcmp(argv[1] ,"noun") ) doverb = 0;
+	if( argc > 1 && !strcmp(argv[1] ,"noun") ) doverb = 0;
 	yylex();
 }

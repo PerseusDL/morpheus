@@ -44,6 +44,7 @@ stemsrc/vbs.irreg: stemsrc/irreg.vbs.src
 	buildword -I < stemsrc/irreg.vbs.src > stemsrc/vbs.irreg
 
 stemsrc/vbs.italian: florio.sgml getmorph getverb
+	echo $<
 	getmorph < $<  | getverb > $@
 
 stemsrc/nom.italian: florio.sgml getmorph getverb
