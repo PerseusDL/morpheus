@@ -314,6 +314,7 @@ ec@quis rel_pron
 :wd:quod rel_pron neut nom/acc sg
 :wd:quem rel_pron masc acc sg
 :wd:quam rel_pron fem acc sg
+:wd:quo_ rel_pron masc neut abl sg
 :wd:qua_ rel_pron fem abl sg
 :wd:qui_cum rel_pron masc abl sg
 :wd:qui_buscum rel_pron masc fem neut abl dat pl
@@ -343,7 +344,7 @@ ec@quis rel_pron
 :wd:qua_qua_	relative fem abl sg late rare
 :wd:cui_cui_	relative masc fem neut gen sg rare
 :wd:qui_qui_	relative masc fem neut abl sg late rare
-:wd:quoquo	relative masc fem neut abl sg
+:wd:quo_quo_	relative masc fem neut abl sg
 
 :le:quisquam
 :wd:quisquam	indef masc fem  nom sg
@@ -364,34 +365,34 @@ ec@quis rel_pron
 :le:aliquis
 :wd:aliquis	indef masc fem nom sg
 :wd:aliquid	indef neut nom/acc sg
-:wd:aliquo	indef masc fem neut abl sg
+:wd:aliquo_	indef masc fem neut abl sg
 a^li^@quis	indef
 
 :le:ecquis
 :wd:ecquis	interrog masc fem nom sg
 :wd:ecquid	interrog neut nom/acc sg
-:wd:ecquo		interrog masc fem neut abl sg
+:wd:ecquo_		interrog masc fem neut abl sg
 ec@quis	interrog
 :wd:ecquidni	interrog neut nom acc sg
 
 :le:quis#1
 :wd:quis	interrog masc fem nom sg
 :wd:quid	interrog neut nom/acc sg
-:wd:quo		interrog masc fem neut abl sg
+:wd:quo_		interrog masc fem neut abl sg
 @quis	interrog
 :wd:quidni	interrog neut nom acc sg
 
 :le:quis#2
 :wd:quis	indef masc fem nom sg
 :wd:quid	indef neut nom/acc sg
-:wd:quo		indef masc fem neut abl sg
+:wd:quo_		indef masc fem neut abl sg
 @quis	indef
 :wd:quidni	indef neut nom acc sg
 
 :le:siquis
 :wd:si_quis	interrog masc fem nom sg
 :wd:si_quid	interrog neut nom/acc sg
-:wd:si_quo	interrog masc fem neut abl sg
+:wd:si_quo_	interrog masc fem neut abl sg
 :wd:siqua_ rel_pron fem abl sg
 si_@quis	interrog
 
@@ -451,6 +452,8 @@ me_me_	pron1 masc fem acc sg
 me_d	pron1 masc fem acc sg
 me_met	pron1 masc fem acc sg
 me_	pron1 masc fem abl sg
+
+:le:nos
 no_s	pron1 masc fem nom pl
 nostrum	pron1 masc fem gen pl
 nostri_	pron1 masc fem gen pl
@@ -499,8 +502,8 @@ lac	irreg_nom3 neut nom voc acc sg
 lact@decl3	irreg_nom3 neut
 
 :le:mel
-:wd:mel		irreg_decl3 neut nom/voc/acc sg
-mell@decl3	irreg_decl3 neut
+:wd:mel		irreg_nom3 neut nom/voc/acc sg
+mell@decl3	irreg_nom3 neut
 
 :le:mille
 mille		numeral masc fem nom pl

@@ -141,6 +141,9 @@
 :le:beatus
 :aj:beat 	us_a_um
 
+:le:bene
+:wd:bene	adverb
+
 :le:bis
 :wd:bis		adverb
 
@@ -299,6 +302,10 @@
 :wd:di_s	irreg_nom2 masc abl pl
 :wd:di_	irreg_nom2	masc nom/voc pl
 :wd:di_vom	irreg_nom2	poet gen masc pl
+
+:le:dexter
+:aj:dexter	0_a_um
+:aj:dext	er_ra_rum
 
 :le:dextera
 :no:dexte^r 	a_ae fem
@@ -566,6 +573,10 @@
 
 :le:igitur
 :wd:igitur	conj
+
+:le:Iris
+:no:I_r	is_idis fem
+:no:I_r	is_is fem
 
 :le:istoc
 :wd:istoc 	adverb
@@ -955,6 +966,10 @@
 :le:prior
 :wd:priusquam	adverb
 
+:le:propter
+:wd:propter	adverb
+:wd:propter	prep
+
 :le:prudenter
 :wd:prudenter	adverb
 
@@ -1036,7 +1051,7 @@
 :no:ru		s_ris neut
 
 :le:sacer
-:no:sac	er_ra_rum
+:aj:sac	er_ra_rum
 
 :le:saepis
 :aj:saep	is_e comp adverbial
@@ -1113,6 +1128,10 @@
 :le:sin
 :wd:sin	conj
 
+:le:sine
+:wd:sine	prep
+:wd:sine	adverb
+
 :le:socer
 :no:socer	0_i masc 
 
@@ -1153,6 +1172,9 @@
 
 :le:Testa
 :no:Test	a_ae masc
+
+:le:Teucer
+:no:Teuc	er_ri masc
 
 :le:Themistocles
 :no:Themistocl	es_ae masc

@@ -506,6 +506,7 @@
 :wd:quod rel_pron neut nom/acc sg
 :wd:quem rel_pron masc acc sg
 :wd:quam rel_pron fem acc sg
+:wd:quo_ rel_pron masc neut abl sg
 :wd:qua_ rel_pron fem abl sg
 :wd:qui_cum rel_pron masc abl sg
 :wd:qui_buscum rel_pron masc fem neut abl dat pl
@@ -561,7 +562,7 @@
 :wd:qua_qua_	relative fem abl sg late rare
 :wd:cui_cui_	relative masc fem neut gen sg rare
 :wd:qui_qui_	relative masc fem neut abl sg late rare
-:wd:quoquo	relative masc fem neut abl sg
+:wd:quo_quo_	relative masc fem neut abl sg
 
 :le:quisquam
 :wd:quisquam	indef masc fem  nom sg
@@ -582,7 +583,7 @@
 :le:aliquis
 :wd:aliquis	indef masc fem nom sg
 :wd:aliquid	indef neut nom/acc sg
-:wd:aliquo	indef masc fem neut abl sg
+:wd:aliquo_	indef masc fem neut abl sg
 :wd:a^li^cuius   indef masc/fem/neut gen sg
 :wd:a^li^cui   indef masc/fem/neut dat sg
 :wd:a^li^quei_   indef masc/fem/neut dat sg
@@ -601,7 +602,7 @@
 :le:ecquis
 :wd:ecquis	interrog masc fem nom sg
 :wd:ecquid	interrog neut nom/acc sg
-:wd:ecquo		interrog masc fem neut abl sg
+:wd:ecquo_		interrog masc fem neut abl sg
 :wd:ecquidni	interrog neut nom acc sg
 :wd:eccuius   interrog masc/fem/neut gen sg
 :wd:eccui   interrog masc/fem/neut dat sg
@@ -621,7 +622,7 @@
 :le:quis#1
 :wd:quis	interrog masc fem nom sg
 :wd:quid	interrog neut nom/acc sg
-:wd:quo		interrog masc fem neut abl sg
+:wd:quo_		interrog masc fem neut abl sg
 :wd:quidni	interrog neut nom acc sg
 :wd:cuius   interrog masc/fem/neut gen sg
 :wd:cui   interrog masc/fem/neut dat sg
@@ -641,7 +642,7 @@
 :le:quis#2
 :wd:quis	indef masc fem nom sg
 :wd:quid	indef neut nom/acc sg
-:wd:quo		indef masc fem neut abl sg
+:wd:quo_		indef masc fem neut abl sg
 :wd:quidni	indef neut nom acc sg
 :wd:cuius   indef masc/fem/neut gen sg
 :wd:cui   indef masc/fem/neut dat sg
@@ -661,7 +662,7 @@
 :le:siquis
 :wd:si_quis	interrog masc fem nom sg
 :wd:si_quid	interrog neut nom/acc sg
-:wd:si_quo	interrog masc fem neut abl sg
+:wd:si_quo_	interrog masc fem neut abl sg
 :wd:siqua_ rel_pron fem abl sg
 :wd:si_cuius   interrog masc/fem/neut gen sg
 :wd:si_cui   interrog masc/fem/neut dat sg
@@ -752,25 +753,27 @@
 
 :le:ego
 :wd:ego   pron1 masc/fem nom sg
-:wd:egomet   pron1 masc/fem nom sg
-:wd:mei_met   pron1 masc/fem gen sg
 :wd:mei_   pron1 masc/fem gen sg
 :wd:mihi   pron1 masc/fem dat sg
-:wd:mihimet   pron1 masc/fem dat sg
-:wd:me_met   pron1 masc/fem acc sg
-:wd:me_me_   pron1 masc/fem acc sg
-:wd:me_d   pron1 masc/fem acc sg
 :wd:me_   pron1 masc/fem acc sg
+:wd:me_me_   pron1 masc/fem acc sg
+:wd:me_met   pron1 masc/fem acc sg
+:wd:me_d   pron1 masc/fem acc sg
 :wd:me_   pron1 masc/fem abl sg
-:wd:no_s   pron1 masc/fem nom pl
+
+:le:nos
+:wd:egomet   pron1 masc/fem nom sg
+:wd:mei_met   pron1 masc/fem gen sg
+:wd:mihimet   pron1 masc/fem dat sg
 :wd:no_smet   pron1 masc/fem nom/acc pl
+:wd:no_s   pron1 masc/fem nom pl
 :wd:nostrum   pron1 masc/fem gen pl
 :wd:nostri_   pron1 masc/fem gen pl
 :wd:no_bis   pron1 masc/fem dat pl
 :wd:no_bismet   pron1 masc/fem dat pl
 :wd:no_s   pron1 masc/fem acc pl
-:wd:no_bis   pron1 masc/fem abl pl
 :wd:no_bismet   pron1 masc/fem abl pl
+:wd:no_bis   pron1 masc/fem abl pl
 
 :le:tu
 :wd:tu_   pron2 masc/fem nom/voc sg
@@ -810,14 +813,14 @@
 :wd:lactibus   irreg_nom3 neut abl pl
 
 :le:mel
-:wd:mel		irreg_decl3 neut nom/voc/acc sg
-:wd:mellis   neut gen sg
-:wd:melli_   neut dat sg
-:wd:melle   neut abl sg
-:wd:mella   neut nom/voc/acc pl
-:wd:mellum   neut gen pl
-:wd:mellibus   neut dat pl
-:wd:mellibus   neut abl pl
+:wd:mel		irreg_nom3 neut nom/voc/acc sg
+:wd:mellis   irreg_nom3 neut gen sg
+:wd:melli_   irreg_nom3 neut dat sg
+:wd:melle   irreg_nom3 neut abl sg
+:wd:mella   irreg_nom3 neut nom/voc/acc pl
+:wd:mellum   irreg_nom3 neut gen pl
+:wd:mellibus   irreg_nom3 neut dat pl
+:wd:mellibus   irreg_nom3 neut abl pl
 
 :le:mille
 :wd:mille   numeral masc/fem nom pl

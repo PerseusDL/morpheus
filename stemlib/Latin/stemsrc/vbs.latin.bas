@@ -816,5 +816,10 @@
 :vs:vix perfstem
 :vs:vict pp4
 
+:le:volvo
+:vs:volv	conj3
+:vs:volu	perfstem
+:vs:volut	pp4
+
 :le:vulnero
 :de:volner	are_vb orth

@@ -110,7 +110,7 @@ ad-decet addecet
 ad-ducto adductor
 ad-edo adedo
 ad-edo#2 adedo
-ad-eo adito
+ad-eo adeo#1
 ad-expeto adexpeto
 ad-facio afficio
 ad-fero affero
@@ -464,6 +464,7 @@ ex-fodio effodio
 ex-frico effrico
 ex-gestio#2 egestio
 ex-gurgito exgurgito
+ex-jacio eicio
 ex-labo elabor
 ex-labor#1 elabor
 ex-lateo elate
@@ -858,6 +859,7 @@ re-vero revera
 re-verto reverto
 re-verto revorto
 re-vivisco revivisco
+re-volvo revolvo
 red-dito redditor
 red-eo redeo
 red-operio redoperio

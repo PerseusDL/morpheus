@@ -8,7 +8,7 @@
 "<orth>"[A-Za-z][^ <]+[a-z]"</orth>"	set_orth(4);
 "<orth>"[A-Za-z][^ <]+[a-z][;:]"</orth>"	set_orth(4);
 "<itype>"[^<]+"</itype>\t<pos>adj.</pos>"	dump_adj1(7);
-"<itype>"[^<]+"</itype>\t<gen>"[^<]+"</gen>"	dump_form(yytext[yyleng-8]);
+"<itype>"[^<]+"</itype>\t<gen>"[^<]+"</gen>"	dump_form(yytext+yyleng-8);
 "<itype>"[^<]+"</itype>"	dump_form2(7);
 "<gen>"[^<]+"</gen>"	dump_form2(5);
 "<pos>"[^<]+"</pos>"	dump_form3(5);
@@ -192,7 +192,7 @@ dump_ent(int trimn,char *etag,char * stype,char *glab,char * nlab)
 	strcpy(curstem,tmp);
 }
 
-dump_form(int gend)
+dump_form(char *p)
 {
 	char gendlab[BUFSIZ], numlab[BUFSIZ];
 	char * t;
@@ -201,7 +201,15 @@ dump_form(int gend)
 	numlab[0] = 0;
 	
 
-	switch(gend) {
+	while(p>=yytext) {
+		if(*p=='>') {
+			p++;
+			break;
+		}
+		p--;
+	}
+
+	switch(*p) {
 		case 'c':
 			strcpy(gendlab," masc fem");
 			break;
@@ -248,7 +256,8 @@ if( is_itype("o_ris","or") )	return( dump_nom(0,"or_oLris",gendlab,numlab));
 if( is_itype("o^ris","or") )	return( dump_nom(0,"or_oris",gendlab,numlab));
 if( is_itype("a^ris","ar") )	return( dump_nom(-1,"0_is",gendlab,numlab));
 if( is_itype("u^ris","ur") )	return( dump_nom(-1,"0_is",gendlab,numlab));
-if( is_itype("o^ris","us") )	return( dump_nom('u',"or_oris"," neut",numlab));
+if( is_itype("o^ris","or") )	return( dump_nom(-1,"0_is",gendlab,numlab));
+if( is_itype("o^ris","us") )	return( dump_nom('u',"us_oris"," neut",numlab));
 if( is_itype("oris","or") )	return( dump_nom(0,"or_oris",gendlab,numlab));
 if( is_itype("e_dis","es") )	return( dump_nom('e',"es_eLdis",gendlab,numlab));
 if( is_itype("y^dis","ys") )	return( dump_nom('s',"s_dis",gendlab,numlab));
@@ -368,6 +377,7 @@ if( is_itype("a, um","ius") )	return( dump_adj('i',"ius_ia_ium","",""));
 if( is_itype("a","i^us") )	return( dump_adj('i',"ius_ia_ium","",""));
 if( is_itype("a","ius") )	return( dump_adj('i',"ius_ia_ium","",""));
 if( is_itype("a","us") )	return( dump_adj('u',"us_a_um","",""));
+if( is_itype("ci^pi^tis","eps") )	return( dump_adj('e',"eps_ipitis"," masc fem neut",""));
 	if( is_itype("a, um","us") )	return( dump_adj('u',"us_a_um","",""));
 	if( is_itype("a_cis","ax") )	return( dump_adj('a',"ax_adj","",""));
 	if( is_itype("i_cis","ix") )	return( dump_adj('i',"ix_adj","",""));
@@ -389,8 +399,8 @@ if( is_itype("a","us") )	return( dump_adj('u',"us_a_um","",""));
 	if( is_itype("e_tis","es") ) return( dump_nom('e',"es_eLtis"," masc",""));
 	if( is_itype("antis","as") ) return( dump_nom('a',"as_antis"," masc",""));
 	if( is_itype("untis","us") ) return( dump_nom('u',"us_untis"," fem",""));
-if( is_itype("o^ris","or") )	return( dump_nom(0,"or_oris"," masc",""));
-if( is_itype("o^ris","us") )	return( dump_nom('u',"or_oris"," neut",""));
+if( is_itype("o^ris","or") )	return( dump_nom(-1,"0_is"," masc",""));
+if( is_itype("o^ris","us") )	return( dump_nom('u',"us_oris"," neut",""));
 
 	if( is_itype("o_rum","i") ) return( dump_nom('i',"us_i"," masc"," pl"));
 	if( is_itype("o_rum","a") ) return( dump_nom('a',"us_i"," neut"," pl"));
@@ -401,7 +411,7 @@ if( is_itype("o^ris","us") )	return( dump_nom('u',"or_oris"," neut",""));
 	if( is_itype("ae","es") )	return( dump_nom('e',"es_ae"," masc",""));
 	if( is_itype("i^dis","is") )	return( dump_nom('s',"s_dis"," fem",""));
 	if( is_itype("y^dis","ys") )	return( dump_nom('s',"s_dis"," fem",""));
-	if( is_itype("o_tis","os") ) return( dump_nom('s',"s_tis"," masc",""));
+	if( is_itype("o_tis","os") ) return( dump_nom('s',"s_tis"," masc fem",""));
 	if( is_itype("i^nis","o") )	return( dump_nom('o',"o_inis"," masc",""));
 	if( is_itype("adj.","us") )	return( dump_nom('u',"us_a_um"," masc",""));
 	if( is_itype("m.","os") )	return( dump_nom('o',"os_i"," masc",""));
@@ -451,6 +461,7 @@ if( is_itype("i^cis","ex") )	return( dump_adj('e',"ex_icis_adj","",""));
 	if( is_itype("a, um","us") )	return( dump_adj('u',"us_a_um","",""));
 	if( is_itype("fe^ra, fe^rum","er") )	return( dump_adj('e',"er_era_erum","",""));
 	if( is_itype("tris, e","er") )	return( dump_adj('e',"er_ris_re","",""));
+	if( is_itype("ci^pi^tis","eps") )	return( dump_adj('e',"eps_ipitis"," masc fem neut",""));
 	if( is_itype("pe^dis","pes") )	return( dump_adj('p',"peLs_pedis_adj","",""));
 	if( is_itype("te^ra, te^rum","er") )	return( dump_adj('e',"er_era_erum","",""));
 	if( is_itype("tra, trum","er") )	return( dump_adj('e',"er_ra_rum","",""));
