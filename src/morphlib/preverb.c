@@ -200,8 +200,13 @@ rstprevb(char *word, char *prevb, gk_string *gstr)
 			*t = 0;
 		}
 
-		if( has_morphflag(oddpb,RE_TO_RED) && !strcmp(prevb,"re")) {
-			strcpy(work,"red");
+		if( has_morphflag(oddpb,D_PREVB) ) {
+			strcpy(work,prevb);
+			strcat(work,"d");
+		}
+
+		if( has_morphflag(oddpb,T_PREVB) && !strcmp(prevb,"re") ) {
+			strcpy(work,"ret");
 		}
 
 		if( !strcmp(prevb,"sub") || !strcmp(prevb,"ob") ) {

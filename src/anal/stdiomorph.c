@@ -21,7 +21,7 @@ double string_time = 0;
 char long_string[BUFSIZ];
 int timeit = 1;
 
-#define ARGS "LalmnbckidsxSpPeTo:"
+#define ARGS "LalmnbckidsxSVpPeTo:"
 #define PATH_SEP '/'
 
 main(argc,argv)
@@ -82,6 +82,9 @@ char *argv[];
       break;
     case 'x':
       flags |= LEXICON_OUTPUT;
+      break;
+    case 'V':
+      flags |= VERBS_ONLY;
       break;
     case 'S':
       flags &= ~(STRICT_CASE);

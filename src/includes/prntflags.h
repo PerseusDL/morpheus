@@ -18,6 +18,7 @@
 #define LEXICON_OUTPUT	040000
 #define LATIN		0100000
 #define LEMCOUNT	0200000
+#define VERBS_ONLY	0400000
 
 typedef int PrntFlags;
 

@@ -24,8 +24,9 @@ noms:stemsrc/nom.irreg stemind/nomind
 
 vbs: stemsrc/vbs.irreg stemind/vbind
 
+VBFILES=stemsrc/vbs.latin.bas  stemsrc/vbs.latin.irreg stemsrc/vbs.latin stemsrc/vbs.irreg
 stemind/vbind:
-	cat stemsrc/vbs.latin.bas  stemsrc/vbs.latin.irreg stemsrc/vbs.latin stemsrc/vbs.irreg > conjfile
+	cat ${VBFILES} > conjfile
 	do_conj -L
 	mv conjfile.short /usr/tmp/vbmorph
 	indexvbs -L
@@ -61,8 +62,11 @@ ls.morph: ${LSDIR}/lemmata
 
 simp.vbs:
 #	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | fgrep -f hyph -v | latvb > ls.simp.vbs
-#	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | fgrep -f hyph | latvb > ls.comp.vbs
-	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | awk '{print $$1}' > lslem.words
+#	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | fgrep -f hyph | latvb | filtcomp > /tmp/ls.cvbs.words
+	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | awk '{print $$1}' > /tmp/ls.cvbs.words
+	rm -f stemsrc/vbs.cmp.ml
+	cruncher -LV /tmp/ls.cvbs
+	cvblink < /tmp/ls.cvbs.morph | sort -u > stemsrc/vbs.cmp.ml
 
 /tmp/nt: latnom splitlems
 	splitlems < /local/text/ls/lemmata | latnom > /tmp/lat

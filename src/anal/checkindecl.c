@@ -26,6 +26,7 @@ checkindecl(gk_word *Gkword)
 	keybuf = (char *)malloc((size_t)LONGSTRING);
 	workword = (char *)malloc((size_t)MAXWORDSIZE);
 */
+	if( (prntflags_of(Gkword) & VERBS_ONLY ) ) return(0);
 	Xstrncpy(tmpword,workword_of(Gkword),MAXWORDSIZE);
 
 	keys = keybuf;
