@@ -69,3 +69,9 @@ iend@decl2 gerundive masc
 iend@decl2 gerundive neut 
 iendus	gerundive masc nom sg
 iendum	gerundive neut nom sg
+
+iund@decl1 gerundive fem 
+iund@decl2 gerundive masc 
+iund@decl2 gerundive neut 
+iundus	gerundive masc nom sg
+iundum	gerundive neut nom sg

@@ -56,6 +56,7 @@ iere	pres imperat pass 2nd sg
 i_mini	pres imperat pass 2nd pl
 #
 iri	pres inf pass
+irier	pres inf pass archaic
 #
 ie_ns	pres part masc/fem/neut nom/voc sg
 ie_ns	pres part neut acc sg
@@ -70,3 +71,9 @@ iend@decl2 gerundive masc
 iend@decl2 gerundive neut 
 iendus	gerundive masc nom sg
 iendum	gerundive neut nom sg
+
+iund@decl1 gerundive fem 
+iund@decl2 gerundive masc 
+iund@decl2 gerundive neut 
+iundus	gerundive masc nom sg
+iundum	gerundive neut nom sg
