@@ -248,6 +248,8 @@ enclitic_word LatinSuff[] = {
 
 /* these should only work with verbs, excluding participles */
 enclitic_word ItalianSuff[] = {
+  "glie", PPARTMASK,
+  "gli", PPARTMASK,		/* needs to be before "li" */
   "mi", PPARTMASK,
   "me", PPARTMASK,
   "ci", PPARTMASK,
@@ -260,9 +262,8 @@ enclitic_word ItalianSuff[] = {
   "li", PPARTMASK,
   "la", PPARTMASK,
   "le", PPARTMASK,
-  "gli", PPARTMASK,
-  "glie", PPARTMASK,
   "loro", PPARTMASK,
+  "ne", PPARTMASK,
   "si", PPARTMASK,
   "", 0				/* sentintel */
 };
