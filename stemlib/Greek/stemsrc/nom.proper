@@ -14645,7 +14645,9 @@
 :no:*tiberi os_ou masc  
 
 :le:*ti/gris
-:no:*tigr is_ews fem  
+:wd:*ti/gridos irreg_decl3 gen sg masc
+:wd:*ti/gridi irreg_decl3 gen sg masc
+:no:*tigr is_ews masc  
 
 :le:*ti/maios
 :no:*timai os_ou masc  
