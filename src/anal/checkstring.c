@@ -471,6 +471,34 @@ checkstring3(gk_word *Gkword)
     }
     strcpy(workword,saveword);
   }
+  /* If we're out of ideas in Italian, turn all u's to v's. */
+  else if ( (cur_lang() == ITALIAN) && !totanal_of(Gkword)) {
+    char *a;
+
+    strcpy(workword,saveword);
+
+    for (a = workword, acount = 0; *a != '\0'; a++) {
+      if (*a == 'U') {
+	*a = 'V';
+	acount++;
+      }
+      else if (*a == 'u') {
+	*a = 'v';
+	acount++;
+      }
+    }
+
+    if (acount) {
+      set_workword(Gkword,workword);
+      rval += checkstring3(Gkword);
+      if( rval ) {
+	set_workword(Gkword,saveword);
+	return(rval);
+      }      
+    }
+
+    strcpy(workword,saveword);
+  }
 
   /*
    * Lewis and Short stores "jubeo" rather than "iubeo".
