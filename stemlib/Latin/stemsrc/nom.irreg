@@ -917,6 +917,7 @@
 :wd:lactum   irreg_nom3 neut gen pl
 :wd:lactibus   irreg_nom3 neut dat pl
 :wd:lactibus   irreg_nom3 neut abl pl
+:wd:lacte	irreg_nom3 neut nom/acc sg early
 
 :le:mel
 :wd:mel		irreg_nom3 neut nom/voc/acc sg

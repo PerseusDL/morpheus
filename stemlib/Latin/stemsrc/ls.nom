@@ -39859,8 +39859,7 @@ cli^pe^us		<orth>clu^p-</orth>	<orth>cly^p-</orth>
 :le:clipeus
 :no:cli^pe^	us_i masc
 :no:cly^pe^	us_i masc orth
-
-
+:no:clu^pe^	us_i masc orth
 
 cli^pe^um		
 :le:clipeum
@@ -119462,7 +119461,7 @@ ma^nu^ballista_ri^us
 ma^nu^bi^ae		
 :le:manubiae
 :no:ma^nu^bi^	a_ae fem pl
-
+:no:ma^ni^bi^	a_ae fem pl orth
 
 ma^nu^bi^a_lis		
 :le:manubialis

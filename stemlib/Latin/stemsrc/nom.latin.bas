@@ -1,7 +1,8 @@
 :le:ab
 :wd:ab	prep
-:wd:abs	prep
 :wd:a	prep
+:wd:abs	prep
+:wd:aps prep orth
 
 :le:abhinc
 :wd:abhinc adverb
