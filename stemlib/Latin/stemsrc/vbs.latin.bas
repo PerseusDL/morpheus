@@ -540,6 +540,11 @@
 :vs:gno_v	perfstem orth
 :vs:gno_t	pp4 orth
 
+:le:oboedio
+:vs:oboed	conj4
+:vs:oboedi_v	perfstem
+:vs:oboedi_t	pp4
+
 :le:occipio
 :vs:occipi	conj3
 :vs:occe_p	perfstem

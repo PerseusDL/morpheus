@@ -1261,6 +1261,9 @@
 :wd:ubi	conj
 :wd:ubinam	adverb
 
+:le:uti
+:wd:uti	conj
+
 :le:ulter
 :aj:ult	er_ra_rum no_comp
 :aj:ulter	ior_ius_comp irreg_comp
