@@ -8,13 +8,13 @@ while(<>)
     {
 	s|\s*<pos>interj\.</pos>||;
 	my ($word, $tail) = split /\s+/;
-	print "$word\tindecl exclam\n" unless ($word =~ /^\s*$/);
+	print ":le:$word\n:wd:$word\texclam\n" unless ($word =~ /^\s*$/);
 	next if ($tail =~ /^\s*$/);
 	while ($tail =~ m|<orth>([^<]*)</orth>|g)
 	{
 	    my $orth = $1;
 	    next if ($orth =~ /^\s*$/);
-	    print "$orth\tindecl exclam\n";
+	    print ":le:$orth\n:wd:$orth\texclam\n";
 	}
     }
     else
