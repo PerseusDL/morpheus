@@ -314,6 +314,42 @@
 :vb:terrete   irreg_pp1 fut ind 2nd pl
 :vb:terranno   irreg_pp1 fut ind 3rd pl
 
+:le:togliere
+:vb:tolgo	irreg_pp1 pres ind 1st sg
+:vb:togli	irreg_pp1 pres ind 2nd sg
+:vb:togliamo	irreg_pp1 pres ind 1st pl
+:vb:tolgono	irreg_pp1 pres ind 3rd pl
+:vb:tolga	irreg_pp1 pres subj 1st sg
+:vb:tolga	irreg_pp1 pres subj 2nd sg
+:vb:tolga	irreg_pp1 pres subj 3rd sg
+:vb:togliamo	irreg_pp1 pres subj 1st pl
+:vb:togliate	irreg_pp1 pres subj 2nd pl
+:vb:tolgano	irreg_pp1 pres subj 3rd pl
+:vb:tolsi	irreg_pp1 pastabs ind 1st sg
+:vb:tolse	irreg_pp1 pastabs ind 3rd sg
+:vb:tolsi	irreg_pp1 pastabs ind 1st sg
+:vb:tolsero	irreg_pp1 pastabs ind 3rd pl
+:de:togli	ere_vb
+:vb:torrei   irreg_pp1 pres cond 1st sg
+:vb:torria   irreg_pp1 pres cond 1st sg
+:vb:torresti   irreg_pp1 pres cond 2nd sg
+:vb:torrebbe   irreg_pp1 pres cond 3rd sg
+:vb:torria   irreg_pp1 pres cond 3rd sg
+:vb:torremmo   irreg_pp1 pres cond 1st pl
+:vb:torreste   irreg_pp1 pres cond 2nd pl
+:vb:torrebbero   irreg_pp1 pres cond 3rd pl
+:vb:torriano   irreg_pp1 pres cond 3rd pl
+:vb:torro\   irreg_pp1 fut ind 1st sg
+:vb:torrai   irreg_pp1 fut ind 2nd sg
+:vb:torra\   irreg_pp1 fut ind 3rd sg
+:vb:torremo   irreg_pp1 fut ind 1st pl
+:vb:torrete   irreg_pp1 fut ind 2nd pl
+:vb:torranno   irreg_pp1 fut ind 3rd pl
+:vb:tolti   irreg_pp1 perf part masc pl
+:vb:tolto   irreg_pp1 perf part masc sg
+:vb:tolte   irreg_pp1 perf part fem pl
+:vb:tolta   irreg_pp1 perf part fem sg
+
 :le:venire
 :vb:vengo	irreg_pp1 pres ind 1st sg
 :vb:vieni	irreg_pp1 pres ind 2nd sg
