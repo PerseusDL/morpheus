@@ -57,3 +57,21 @@
 
 :le:potenza
 :no:potenz	a_e fem
+
+:le:mio
+:aj:mi		o_a
+:wd:miei	irreg_nom masc pl
+
+:le:tuo
+:aj:tu		o_a
+:wd:tuoi	irreg_nom masc pl
+
+:le:suo
+:aj:su		o_a
+:wd:suoi	irreg_nom masc pl
+
+:le:nostro
+:aj:nostr	o_a
+
+:le:vostro
+:aj:vostr	o_a
