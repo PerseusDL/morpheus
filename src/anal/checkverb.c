@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <gkstring.h>
-#define MAXWORD 36
 
 #include "checkverb.proto.h"
 
@@ -69,7 +68,6 @@ fprintf(stderr,"trying reg stem [%s] [%s] preverb [%s] rval %d\n", stem_of(Gkwor
 */
 	    rval += analyzed_verb(Gkword);
 
-
 /*
 	    if( rval ) {
 			goto finish;
@@ -106,6 +104,7 @@ fprintf(stderr,"trying reg stem [%s] [%s] preverb [%s] rval %d\n", stem_of(Gkwor
 	    rval += analyzed_verb(Gkword);
 
 	}
+
 	finish:
 
 		return(rval);
@@ -113,7 +112,7 @@ fprintf(stderr,"trying reg stem [%s] [%s] preverb [%s] rval %d\n", stem_of(Gkwor
 
 analyzed_verb(gk_word *Gkword)
 {
-	char tmpendstring[MAXWORD];
+	char tmpendstring[MAXWORDSIZE];
 	char endkeys[LONGSTRING];
 	
 	int rval;

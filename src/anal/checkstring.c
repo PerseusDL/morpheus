@@ -35,6 +35,8 @@ checkstring0(char *string, PrntFlags prntflags, FILE *fout)
 	int nlems = 0;
 
 	if( is_blank(string) ) return(0);
+	if( strlen(string) >= MAXWORDSIZE ) return(0);
+
 	Gkword = (gk_word *) CreatGkword(1 );
 
 	set_dialect(Gkword,WantDialects);
@@ -97,6 +99,7 @@ end_phrase(gk_word * checkw,gk_word * Gkword)
 }
 checkstring1(gk_word *Gkword)
 {
+
 	if( workword_of(Gkword)[0] == '\'' ) { /* check for prodelision */
 		char savework[MAXWORDSIZE];
 		int n = 0;
@@ -244,7 +247,7 @@ checkstring3(gk_word *Gkword)
  * be able to set STRICT_CASE
  * grc -- 8/14/93
  */
-		if( cur_lang() == LATIN ) {
+		if( cur_lang() == LATIN || cur_lang() == ITALIAN ) {
 			*string = tolower(*string);
 		/*
 		 * 12/18/97 grc

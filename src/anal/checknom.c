@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <gkstring.h>
-#define MAXWORD 36
 
 #include "checknom.proto.h"
 static gotnom(gk_word *);

@@ -34,6 +34,7 @@ checkword(gk_word *Gkword)
 	if( ! (has_morphflag(morphflags_of(stem_gstr_of(Gkword)) , UNAUGMENTED) ) )
 		rval += checknom(Gkword);		
 
+
 	if( rval && quickflag ) {
 		return(rval);
 	}

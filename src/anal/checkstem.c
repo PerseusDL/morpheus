@@ -61,7 +61,7 @@ static init_stor = 0;
 	*curstemkeys = 0;
 	rval = stemexists(poss_stem,endkeys,curstemkeys,0);
 /*
-printf("rval %d poss stem [%s] endkeys {%s] curstem [%s]\n", rval, poss_stem,endkeys,curstemkeys);
+fprintf(stderr,"rval %d poss stem [%s] endkeys {%s] curstem [%s]\n", rval, poss_stem,endkeys,curstemkeys);
 */
 
 	if( rval ) {

@@ -144,12 +144,13 @@ printf("rval b %d irrform [%s] irkkeys [%s]\n", rval , irrform, IrrKeys[0] );
 	 *		"a)pw=si" or "e)pw=si"
 	 *
 	 */
+
 /*
  * grc 7/27/89
  *
  * NO! make sure that you can analyze forms such as ionic a)p-i/hmi
  */
-	if( cur_lang() != LATIN && /* *(rawprvb + Xstrlen(rawprvb) - 1) != 'p'&& */getbreath(irrform) == NOBREATH
+	if( cur_lang() != LATIN && cur_lang() != ITALIAN &&  /* *(rawprvb + Xstrlen(rawprvb) - 1) != 'p'&& */getbreath(irrform) == NOBREATH
 /*
  * grc 12/5/90
  *
@@ -170,10 +171,13 @@ printf("rval b %d irrform [%s] irkkeys [%s]\n", rval , irrform, IrrKeys[0] );
 	rval = 0;
 
 
+
+
 	if( *IrrForms[1] )
 		rval += ChckIrrLemms(&Workword,IrrForms[1],IrrKeys[1]);
 
 	rval += ChckIrrLemms(&Workword,IrrForms[0],IrrKeys[0]);
+
 
 	finish:
 		xFree(saveirrform,"saveirrform");
