@@ -799,6 +799,7 @@
 
 :le:numquam
 :wd:numquam	adverb
+:wd:nunquam	adverb orth
 
 :le:numquid
 :wd:numquid	adverb
@@ -1274,6 +1275,7 @@
 
 :le:umquam
 :wd:umquam	adverb
+:wd:unquam	adverb orth
 
 :le:undecim
 :wd:undecim	numeral

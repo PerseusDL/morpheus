@@ -684,19 +684,19 @@ volg@decl2	irreg_nom2 neut sg orth
 :no:vulg	irreg_nom2 us_i masc rare
 
 :le:difficilis
-:aj:difficilim	us_a_um irreg_superl
+:aj:difficillim	us_a_um irreg_superl
 
 :le:gracilis
-:aj:gracilim	us_a_um irreg_superl
+:aj:gracillim	us_a_um irreg_superl
 
 :le:similis
-:aj:similim	us_a_um irreg_superl
+:aj:simillim	us_a_um irreg_superl
 
 :le:dissimilis
-:aj:dissimilim	us_a_um irreg_superl
+:aj:dissimillim	us_a_um irreg_superl
 
 :le:humilis
-:aj:humilim	us_a_um irreg_superl
+:aj:humillim	us_a_um irreg_superl
 
 :le:satis
 :wd:satis	adverb
