@@ -458,6 +458,31 @@ checkstring3(gk_word *Gkword)
 	return(rval);
       }
     }
+
+/* now as for final n, this could be tacked on or could be hiding an s */
+    if (cmpend(workword_of(Gkword), "n", workword))
+    {
+      strcpy(workword, workword_of(Gkword));
+      workword[strlen(workword) - 1] = 's';	/* ...s-ne -> ...n */
+      set_workword(Gkword, workword);
+      workval = checkstring3(Gkword);
+      if (workval)
+      {
+	rval += workval;
+      }
+      workword[strlen(workword) - 1] = 0;	/* ...Vne -> ...Vn */
+      set_workword(Gkword,workword);
+      workval = checkstring3(Gkword);
+      if (workval)
+      {
+	rval += workval;
+      }
+      if (rval)
+      {
+        set_workword(Gkword, saveword);
+	return(rval);
+      }
+    }
   }
 
 
