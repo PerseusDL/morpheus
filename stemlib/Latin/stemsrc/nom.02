@@ -4,8 +4,18 @@
 :le:dens
 :no:den	s_tis masc
 
+:le:Aeneis
+:no:Aene_	is_idis fem
+
 :le:Amphitruo
 :no:Amphi_tru	o_oLnis	masc
+
+:le:antehac
+:wd:anteha_c	adverb
+:wd:antidha_c	adverb orth
+
+:le:audacter
+:wd:audacter	adverb
 
 :le:Blepharo
 :no:Blephar	o_oLnis masc
@@ -26,11 +36,17 @@
 :le:insons
 :aj:inson	s_tis
 
+:le:Maecenas
+:no:Maece_na	s_tis
+
 :le:mus
 :no:m		uLs_uLris masc fem
 
 :le:peregre
 :wd:peregre	adverb
+
+:le:peregri
+:wd:peregri	adverb
 
 :le:perenne
 :wd:perenne	adverb
@@ -40,6 +56,9 @@
 
 :le:rursum
 :wd:rursum	adverb
+
+:le:singulus
+:aj:singul	us_a_um
 
 :le:Teloboae
 :no:Te_lo^bo^	a_ae masc pl
@@ -55,3 +74,6 @@
 
 :le:tragicomoedia
 :no:tragicomoedi	a_ae fem
+
+:le:utut
+:wd:utut	adverb

@@ -499,12 +499,6 @@
 :vs:neglex	perfstem
 :vs:neglect	pp4
 
-:le:nequeo
-:vs:nequ		conj2
-:vs:nequi_v	perfstem
-:vs:nequi^	perfstem
-:vs:nequi^t	pp4
-
 :le:nitor#1
 :vs:ni_t	conj3 dep
 :vs:ni_s	pp4 dep
@@ -639,12 +633,6 @@
 :vs:quaes	conj3
 :vs:quaesi_v	perfstem
 :vs:quaesi^	perfstem
-
-:le:queo
-:vs:qu		conj2
-:vs:qui_v	perfstem
-:vs:qui^	perfstem
-:vs:qui^t	pp4
 
 :le:quia
 :wd:quia	conj

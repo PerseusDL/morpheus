@@ -476,25 +476,25 @@
 :vb:poterimus   irreg_pp1 fut ind act 1st pl
 :vb:poteritis   irreg_pp1 fut ind act 2nd pl
 :vb:poterunt   irreg_pp1 fut ind act 3rd pl
+:vb:possem   irreg_pp1 imperf act 1st sg
+:vb:posse_s   irreg_pp1 imperf act 2nd sg
+:vb:posset   irreg_pp1 imperf act 3rd sg
+:vb:posse_mus   irreg_pp1 imperf act 1st pl
+:vb:posse_tis   irreg_pp1 imperf act 2nd pl
+:vb:possent   irreg_pp1 imperf act 3rd pl
 :vb:poteram   irreg_pp1 imperf ind act 1st sg
 :vb:potera_s   irreg_pp1 imperf ind act 2nd sg
 :vb:poterat   irreg_pp1 imperf ind act 3rd sg
 :vb:potera_mus   irreg_pp1 imperf ind act 1st pl
 :vb:potera_tis   irreg_pp1 imperf ind act 2nd pl
 :vb:poterant   irreg_pp1 imperf ind act 3rd pl
-:vb:possem   irreg_pp1 imperf subj act 1st sg
-:vb:posse_s   irreg_pp1 imperf subj act 2nd sg
-:vb:posset   irreg_pp1 imperf subj act 3rd sg
-:vb:posse_mus   irreg_pp1 imperf subj act 1st pl
-:vb:posse_tis   irreg_pp1 imperf subj act 2nd pl
-:vb:possent   irreg_pp1 imperf subj act 3rd pl
-:vb:posser   irreg_pp1 imperf subj pass 1st sg
-:vb:posse_ris   irreg_pp1 imperf subj pass 2nd sg
-:vb:posse_re   irreg_pp1 imperf subj pass 2nd sg
-:vb:possetur   irreg_pp1 imperf subj pass 3rd sg
-:vb:posse_mur   irreg_pp1 imperf subj pass 1st pl
-:vb:posse_mini   irreg_pp1 imperf subj pass 2nd pl
-:vb:possentur   irreg_pp1 imperf subj pass 3rd pl
+:vb:posser   irreg_pp1 imperf pass 1st sg
+:vb:posse_ris   irreg_pp1 imperf pass 2nd sg
+:vb:posse_re   irreg_pp1 imperf pass 2nd sg
+:vb:possetur   irreg_pp1 imperf pass 3rd sg
+:vb:posse_mur   irreg_pp1 imperf pass 1st pl
+:vb:posse_mini   irreg_pp1 imperf pass 2nd pl
+:vb:possentur   irreg_pp1 imperf pass 3rd pl
 
 :le:lubet
 :vs:lub	conj2
@@ -508,3 +508,49 @@
 :vs:rettund	conj3
 :vs:rettud	perfstem
 :vs:rettu_s	pp4
+
+:le:queo
+:vb:queo	irreg_pp1 1st sg pres indic act
+:vb:qui_s	irreg_pp1 2nd sg pres indic act
+:vb:quit	irreg_pp1 3rd sg pres indic act
+:vb:qui_mus	irreg_pp1 1st pl pres indic act
+:vb:qui_tis	irreg_pp1 2nd pl pres indic act
+:vb:queunt	irreg_pp1 3rd pl pres indic act
+:vs:qui_v	perfstem
+:vs:qui^	perfstem
+:vs:qui^t	pp4
+:vb:queam   irreg_pp1 pres subj act 1st sg
+:vb:quea_s   irreg_pp1 pres subj act 2nd sg
+:vb:queat   irreg_pp1 pres subj act 3rd sg
+:vb:quea_mus   irreg_pp1 pres subj act 1st pl
+:vb:quea_tis   irreg_pp1 pres subj act 2nd pl
+:vb:queant   irreg_pp1 pres subj act 3rd pl
+:vb:qui_bam   irreg_pp1 imperf ind act 1st sg
+:vb:qui_ba_s   irreg_pp1 imperf ind act 2nd sg
+:vb:qui_bat   irreg_pp1 imperf ind act 3rd sg
+:vb:qui_ba_mus   irreg_pp1 imperf ind act 1st pl
+:vb:qui_ba_tis   irreg_pp1 imperf ind act 2nd pl
+:vb:qui_bant   irreg_pp1 imperf ind act 3rd pl
+
+:le:nequeo
+:vb:nequeo	irreg_pp1 1st sg pres indic act
+:vb:nequi_s	irreg_pp1 2nd sg pres indic act
+:vb:nequit	irreg_pp1 3rd sg pres indic act
+:vb:nequi_mus	irreg_pp1 1st pl pres indic act
+:vb:nequi_tis	irreg_pp1 2nd pl pres indic act
+:vb:nequeunt	irreg_pp1 3rd pl pres indic act
+:vs:nequi_v	perfstem
+:vs:nequi^	perfstem
+:vs:nequi^t	pp4
+:vb:nequeam   irreg_pp1 pres subj act 1st sg
+:vb:nequea_s   irreg_pp1 pres subj act 2nd sg
+:vb:nequeat   irreg_pp1 pres subj act 3rd sg
+:vb:nequea_mus   irreg_pp1 pres subj act 1st pl
+:vb:nequea_tis   irreg_pp1 pres subj act 2nd pl
+:vb:nequeant   irreg_pp1 pres subj act 3rd pl
+:vb:nequi_bam   irreg_pp1 imperf ind act 1st sg
+:vb:nequi_ba_s   irreg_pp1 imperf ind act 2nd sg
+:vb:nequi_bat   irreg_pp1 imperf ind act 3rd sg
+:vb:nequi_ba_mus   irreg_pp1 imperf ind act 1st pl
+:vb:nequi_ba_tis   irreg_pp1 imperf ind act 2nd pl
+:vb:nequi_bant   irreg_pp1 imperf ind act 3rd pl

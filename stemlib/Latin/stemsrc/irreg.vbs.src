@@ -290,7 +290,7 @@ pro_der@ofut		fut ind act
 #
 possi@basvb2		irreg_pp1 pres subj act
 potera@basvb2		irreg_pp1 imperf ind act
-posse@basvb2		irreg_pp1 imperf subj ct
+posse@basvb2		irreg_pp1 imperf subja ct
 poter@ofut		irreg_pp1 fut ind act
 :vs:potu		perfstem
 #
@@ -312,3 +312,29 @@ potent@decl3_i		irreg_pp1 pres part
 :vs:rettund	conj3
 :vs:rettud	perfstem
 :vs:rettu_s	pp4
+
+:le:queo
+:vb:queo	irreg_pp1 1st sg pres indic act
+:vb:qui_s	irreg_pp1 2nd sg pres indic act
+:vb:quit	irreg_pp1 3rd sg pres indic act
+:vb:qui_mus	irreg_pp1 1st pl pres indic act
+:vb:qui_tis	irreg_pp1 2nd pl pres indic act
+:vb:queunt	irreg_pp1 3rd pl pres indic act
+quea@basvb2	irreg_pp1 pres subj act
+qui_@imperf	irreg_pp1 imperf indic act
+:vs:qui_v	perfstem
+:vs:qui^	perfstem
+:vs:qui^t	pp4
+
+:le:nequeo
+:vb:nequeo	irreg_pp1 1st sg pres indic act
+:vb:nequi_s	irreg_pp1 2nd sg pres indic act
+:vb:nequit	irreg_pp1 3rd sg pres indic act
+:vb:nequi_mus	irreg_pp1 1st pl pres indic act
+:vb:nequi_tis	irreg_pp1 2nd pl pres indic act
+:vb:nequeunt	irreg_pp1 3rd pl pres indic act
+nequea@basvb2	irreg_pp1 pres subj act
+nequi_@imperf	irreg_pp1 imperf indic act
+:vs:nequi_v	perfstem
+:vs:nequi^	perfstem
+:vs:nequi^t	pp4

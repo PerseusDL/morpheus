@@ -1659,7 +1659,7 @@ A^che^ronti^cus
 
 A^che^runs		
 :le:Acheruns
-:no:A^ch	uns_untis masc fem
+:no:Acher	uns_untis masc fem
 
 
 A^che^runti^cus		
@@ -16781,7 +16781,7 @@ a_runcus
 a^rundi^fera^rundi^na_ce^us		<orth type=alt>a^rundo</orth>
 Aruns		
 :le:Aruns
-:no:Aruns	uns_untis masc
+:no:Ar		uns_untis masc
 
 
 A^ru_pi^um		
@@ -115617,7 +115617,7 @@ lu^cuncu^lus
 
 lu^cuns		
 :le:lucuns
-:no:lu^cuns	uns_untis fem
+:no:lu^c	uns_untis fem
 
 
 lu_cus#1		
@@ -152379,12 +152379,15 @@ perpe^rus
 
 	<pos>adj.</pos>	<pos>adv.</pos>
 perpe^ram		<orth>perpe^re_</orth>
+
 perpes		<itype>e^tis</itype>	<pos>adj.</pos>	<itype>Hence</itype>	
 :le:perpes
-:wd:perpes	adverb
-
+:aj:perpe	s_tis
 
 perpe^tim	
+:le:perpetim
+:wd:perpetem	adverb
+
 perpessi_ci^us		<orth>-ti^us</orth>	
 :le:perpessicius
 :aj:perpessi_c	ius_ia_ium
@@ -160441,7 +160444,7 @@ po^pu^lo_sus
 po^pu^lus#1		
 :le:populus#1
 :no:po^pu^l	us_i masc
-
+:no:po^pl	us_i masc orth
 
 po_pu^lus#2		
 :le:populus#2
@@ -200467,7 +200470,7 @@ ta^berna_cu^la_ri^us
 ta^berna_cu^lum		
 :le:tabernaculum
 :no:ta^berna_cu^l	us_i neut
-
+:no:ta^berna_cl		us_i neut orth
 
 ta^berna_ri^us		
 :le:tabernarius
