@@ -637,6 +637,9 @@
 :wd:nh/esi   irreg_decl3 fem dat pl epic poetic
 :wd:nh=as   irreg_decl3 fem acc pl epic
 
+:le:nin
+:wd:ni^n pron3 3rd sg acc sg doric masc fem neut enclitic
+
 :le:qri/c
 :wd:qri/c c_xos  fem nom sg
 :wd:trixo/s   c_xos fem gen sg dissimilation
