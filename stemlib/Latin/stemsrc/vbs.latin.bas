@@ -650,6 +650,13 @@
 :vs:rapt	perfstem no_comp
 :vs:rept	perfstem comp_only
 
+:le:recido#1
+:vs:recid	conj3
+:vs:recci_d	perfstem
+:vs:reci_d	perfstem
+:vs:reci_s	pp4
+:vs:recas	pp4
+
 :le:rego
 :vs:re^g	conj3 no_comp
 :vs:ri^g	conj3 comp_only
