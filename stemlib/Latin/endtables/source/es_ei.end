@@ -9,3 +9,6 @@ e_rum	gen pl
 e_bus	dat pl
 e_s	masc fem acc pl
 e_bus	abl pl
+
+e_	dat sg early poetic
+e_	gen sg early poetic

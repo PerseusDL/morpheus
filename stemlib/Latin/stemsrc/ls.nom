@@ -132350,9 +132350,11 @@ ne_#1
 
 
 -ne^#2		<orth>n'</orth>	<orth>n</orth>
+
 :le:ne#3
-:wd:ne_#3	exclam
-nae	
+:wd:ne_		exclam
+:wd:nae		exclam
+
 Ne^aera		
 :le:Neaera
 :no:Ne^aer	a_ae fem
@@ -172507,6 +172509,9 @@ quo_-quam
 
 
 quo^que#1	
+:le:quoque
+:wd:quo^que	adverb
+
 quo_que#2	
 quo_-quo_		<itype>or, separated</itype>
 quo_ quo_		
