@@ -815,7 +815,7 @@ re-claudo#2 reclaudo
 re-creo recreo
 re-eo#1 redeo
 re-fero refero
-re-fero refert
+#re-fero refert
 re-frico refrico
 re-fugo refuga
 re-galeo regales

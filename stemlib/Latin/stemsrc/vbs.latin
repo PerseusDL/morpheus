@@ -11885,6 +11885,9 @@
 :vs:po^li_t pp4
 :le:polleo
 :vs:poll	conj2
+:le:polliceor
+:vs:polli^c	conj2
+:vs:polli^c^it	pp4
 :le:polliceo
 :vs:polli^c	conj2
 :le:pollicitor
@@ -14709,6 +14712,7 @@
 :de:se^questr	are_vb
 :le:sequor
 :vs:se^qu	conj3
+:vs:se^cu_t pp4
 :vs:se^se^cu_t pp4
 :le:sereno
 :de:se^re_n	are_vb

@@ -151,6 +151,46 @@ ferr@emsub	irreg_pp1 imperf
 :vs:tetu^l perfstem old has_redupl
 :vs:la^t pp4
 
+:le:refero
+:vb:re^fe^ro_	irreg_pp1 1st sg pres ind act
+:vb:re^fe^rs	irreg_pp1 2nd sg pres ind act
+:vb:re^fe^rt	irreg_pp1 3rd sg pres ind act
+:vb:re^fe^rimus	irreg_pp1 1st pl pres ind act
+:vb:re^fe^rtis	irreg_pp1 2nd pl pres ind act
+:vb:re^fe^runt	irreg_pp1 3rd pl pres ind act
+
+:vb:re^fe^ror	irreg_pp1 1st sg pres ind pass
+:vb:re^fe^rris	irreg_pp1 2nd sg pres ind pass
+:vb:re^fe^rtur	irreg_pp1 3rd sg pres ind pass
+:vb:re^fe^rimur	irreg_pp1 1st pl pres ind pass
+:vb:re^fe^rimini_	irreg_pp1 2nd pl pres ind pass
+:vb:re^fe^runtur	irreg_pp1 3rd pl pres ind pass
+:vb:re^fe^r	irreg_pp1 2nd sg pres imperat act
+:vb:re^fe^rte	irreg_pp1 2nd pl pres imperat act
+
+:vb:re^fe^rto_	irreg_pp1 2nd sg fut imperat act
+:vb:re^fe^rto_	irreg_pp1 3rd sg fut imperat act
+:vb:re^fe^rto_te	irreg_pp1 2nd pl fut imperat act
+:vb:re^fe^runto_	irreg_pp1 3rd pl fut imperat act
+
+:vb:re^fe^rre	irreg_pp1 2nd sg pres imperat pass
+:vb:re^fe^rimini_	irreg_pp1 2nd pl pres imperat pass
+
+:vb:re^fe^rtor	irreg_pp1 2nd sg fut imperat pass
+:vb:re^fe^rtor	irreg_pp1 3rd sg fut imperat pass
+:vb:re^fe^runtor	irreg_pp1 3rd pl fut imperat pass
+
+:vs:re^fer	conj3 gerundive
+:vs:re^fe^r conj3 imperf ind
+referr@emsub	irreg_pp1 imperf
+:vs:re^fe^r conj3 fut
+:vs:re^fe^r conj3 subj pres
+:vs:re^ferr conj3 subj imperf
+:vs:re^fe^r conj3 part
+:vb:re^ferre irreg_pp1 pres inf act
+:vb:re^ferri_ irreg_pp1 pres inf pass
+:vs:ret-tul	perfstem
+:vs:re-lat	pp4
 
 :le:fio
 fi_o_	irreg_pp1 1st sg pres ind act
