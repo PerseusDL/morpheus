@@ -39,7 +39,6 @@ a-liquo aliquo
 a-lito aliter
 a-lituro alitura
 a-luto#1 aluta
-a-manto#1 amanter
 a-marito amaritas
 a-marito amariter
 a-meto ametor
@@ -63,9 +62,6 @@ a-spicio aspicio
 a-spiro aspiro
 a-strigo astriger
 a-stringo astringo
-a-sum aes
-a-sum afore
-a-sum afui
 a-ululo aulula
 a-uro auris
 a-uto autor
@@ -81,7 +77,7 @@ ab-caedo abcido
 ab-do abdo
 ab-do#2 abdo
 ab-emo abemito
-ab-eo abeo
+ab-eo#1 abeo
 ab-grego abgregare
 ab-hiemo abhiemo
 ab-horreo abhorreo
@@ -91,14 +87,11 @@ ab-oleo#1 aboleo
 ab-repo arrepo
 ab-rumpo abrumpo
 ab-struo abstruo
-ab-sum abfore
-ab-sum absis
-ab-sum absum
+ab-sum#1 absum
 ab-torqueo abtorqueo
 ab-uto abutor
 ab-utor abutor
-abs-eo absis
-abs-sum absum
+abs-sum#1 absum
 abs-teneo abstineo
 ad-aperio adaperio
 ad-arceo adarce
@@ -111,7 +104,7 @@ ad-decet addecet
 ad-ducto adductor
 ad-edo adedo
 ad-edo#2 adedo
-ad-eo adeo#1
+ad-eo#1 adeo#1
 ad-expeto adexpeto
 ad-facio afficio
 ad-fero affero
@@ -121,6 +114,7 @@ ad-flato afflator
 ad-flecto afflecto
 ad-fligo affligo
 ad-fluento affluenter
+ad-for affor
 ad-frico affrico
 ad-fulgeo affulgeo
 ad-fundo#1 affundo
@@ -136,6 +130,7 @@ ad-jacio adicio
 ad-jubeo adjubeo
 ad-lambo allambo
 ad-livesco allivescit
+ad-loquor alloquor
 ad-monito admonitor
 ad-nasco adnascor
 ad-nasco annascor
@@ -148,6 +143,7 @@ ad-neo#1 anne
 ad-niteo adnitendus
 ad-nitor#1 annitor
 ad-no#1 adnato
+ad-nosco agnosco
 ad-opino adopinor
 ad-opinor adopinor
 ad-pareo appareo
@@ -166,11 +162,11 @@ ad-quiesco adquiesco
 ad-saturo assatura
 ad-sector#2 assector
 ad-sedo assedo
+ad-sisto assisto
 ad-soleo assoleo
+ad-sto asto
 ad-suesco assuesco
-ad-sum adsum
-ad-sum affore
-ad-sum assum
+ad-sum#1 adsum
 ad-tribulo attribulo
 ad-uto adutor
 ad-utor adutor
@@ -180,7 +176,6 @@ amb-ago ambages
 amb-ago ambago
 amb-edo ambedo
 amb-edo#2 ambedo
-amb-eo ambi
 amb-ito ambitor
 ante-ago anteago
 ante-ambulo anteambulo
@@ -188,7 +183,7 @@ ante-cesso antecessor
 ante-curso antecursor
 ante-dico#1 antedico
 ante-dico#2 antedico
-ante-eo anteeo
+ante-eo#1 anteeo
 ante-fero antefero
 ante-paro#1 anteparo
 ante-paro#2 anteparo
@@ -198,7 +193,7 @@ circum-colo#2 circumcola
 circum-do circumdo
 circum-do#2 circumdo
 circum-ducto circumductor
-circum-eo circumeo
+circum-eo#1 circumeo
 circum-fero circumfero
 circum-fodio circumfodio
 circum-fosso circumfossor
@@ -223,7 +218,7 @@ co-co coco
 co-do coda
 co-do#2 coda
 co-eno coena
-co-eo coeo
+co-eo#1 coeo
 co-liceo#1 colice
 co-liceor colice
 co-lineo colina
@@ -233,7 +228,6 @@ co-po copa
 co-po copo
 co-stabilio costabilis
 co-sto costa
-co-sum coero
 co-uto coutor
 co-utor coutor
 con-caedo concaedes
@@ -251,7 +245,7 @@ con-decet condecet
 con-decurio#1 condecurio
 con-denseo condenseo
 con-ducto conductor
-con-eo conire
+con-eo#1 coeo
 con-fabrico confabricor
 con-fabricor confabricor
 con-fabulo confabulor
@@ -310,9 +304,7 @@ con-spuo conspuo
 con-spurco conspurco
 con-subigo consubigo
 con-sueo consueo
-con-sum confore
-con-sum confui
-con-sum consum
+con-sum#1 consum
 con-tago contages
 con-temero contemero
 con-tento contemptor
@@ -346,7 +338,7 @@ de-curro decurro
 de-curto decurto
 de-duco deduco
 de-ducto deductor
-de-eo deeo
+de-eo#1 deeo
 de-erro#1 deerro
 de-fatisco defatiscor
 de-fero defero
@@ -398,8 +390,7 @@ de-signo designo
 de-spico despica
 de-sponso desponsor
 de-sugo desugo
-de-sum defore
-de-sum desum
+de-sum#1 desum
 de-supo desuper
 de-tendo detendo
 de-tento detentor
@@ -458,7 +449,7 @@ ex-ducto eductor
 ex-edo exedo
 ex-edo exesto
 ex-edo#2 exedo
-ex-eo exeo
+ex-eo#1 exeo
 ex-fervesco effervesco
 ex-fio effio
 ex-fleo effleo
@@ -503,7 +494,6 @@ ex-scio escit
 ex-seco exseco
 ex-sector#2 exsector
 ex-spargo#1 exspargo
-ex-sum exesto
 ex-surio esuries
 ex-torto extortor
 ex-tremo extremo
@@ -536,7 +526,7 @@ in-cresco incresco
 in-doleo indoles
 in-dolo#1 indoles
 in-ducto inductor
-in-eo ineo
+in-eo#1 ineo
 in-fateor infiteri
 in-fatigo infatigo
 in-ferio inferi
@@ -585,7 +575,7 @@ in-signo insigno
 in-similo insimilo
 in-sitio insitio
 in-somnio insomnia
-in-sum insum
+in-sum#1 insum
 in-supo insuper
 in-temero intemerandus
 in-termino intermino
@@ -610,7 +600,7 @@ inter-do interdo
 inter-do#2 interdo
 inter-edo interest
 inter-emo interimo
-inter-eo intereo
+inter-eo#1 intereo
 inter-facio interfacio
 inter-fio interfio
 inter-fugio interfugio
@@ -622,8 +612,7 @@ inter-no#1 internas
 inter-polio#1 interpolis
 inter-premo interpremo
 inter-sileo intersileo
-inter-sum interest
-inter-sum intersum
+inter-sum#1 intersum
 inter-trituro intertritura
 inter-vento interventor
 inter-verto intervorto
@@ -636,7 +625,7 @@ ob-duco obduco
 ob-dulcesco obdulcesco
 ob-edo obedo
 ob-edo#2 obedo
-ob-eo obeo
+ob-eo#1 obeo
 ob-esco obescet
 ob-esito obesitas
 ob-facio officio
@@ -668,7 +657,7 @@ ob-servio observito
 ob-sto obsto
 ob-stupeo obstupendus
 ob-stupesco obstupesco
-ob-sum obsum
+ob-sum#1 obsum
 ob-torpeo obtorpeo
 ob-tracto obtractat
 ob-tueo obtueor
@@ -687,8 +676,7 @@ per-cupio percupio
 per-dito perditor
 per-domito perdomitor
 per-domo perdomo
-per-eo pereo
-per-eo perite
+per-eo#1 pereo
 per-excrucio perexcrucio
 per-exilio perexilis
 per-extimesco perextimesco
@@ -742,7 +730,7 @@ prae-co praeco
 prae-coepio praecoepi
 prae-crudesco praecrudesco
 prae-curso praecursor
-prae-eo praeeo
+prae-eo#1 praeeo
 prae-fero praefero
 prae-gigno praegigno
 prae-grandio praegrandis
@@ -762,7 +750,7 @@ prae-specio praespicio
 prae-spicio praespicio
 prae-stabilio praestabilis
 prae-stinguo praestinguo
-prae-sum praesum
+prae-sum#1 praesum
 prae-suo praesuo
 prae-tento praetempto
 prae-ungo praeungo
@@ -770,11 +758,11 @@ prae-varico praevarico
 prae-vento praeventor
 prae-verno praevernat
 praeter-ago praeterago
-praeter-eo praetereo
+praeter-eo#1 praetereo
 praeter-fero praeterfero
 praeter-ito praeterita
 praeter-rado praeterrado
-praeter-sum praetersum
+praeter-sum#1 praetersum
 praeter-veho praetervehor
 pro-aucto proauctor
 pro-calo procalare
@@ -818,7 +806,7 @@ pro-vecto provector
 pro-vegeo provegeo
 pro-vendo provendo
 pro-verto proverto
-prod-eo prodeo
+prod-eo#1 prodeo
 prod-ito proditor
 re-bullio rebullio
 re-calefacio recalefacio
@@ -851,9 +839,9 @@ re-po repandus
 re-presso repressor
 re-salvo resalvare
 re-socio resociandus
-re-sum resimus
-re-sum resum
+re-sum#1 resum
 re-teneo retineo
+re-tero retero
 re-tero retero
 re-vereor reverendus
 re-vereor revereor
@@ -863,9 +851,8 @@ re-verto revorto
 re-vivisco revivisco
 re-volvo revolvo
 red-dito redditor
-red-eo redeo
+red-eo#1 redeo
 red-operio redoperio
-ret-sum retero
 retro-specio retrospicio
 se-caleo secale
 se-co secundae
@@ -895,7 +882,7 @@ sub-curso succursor
 sub-doleo subdole
 sub-edo subedo
 sub-edo#2 subedo
-sub-eo subeo
+sub-eo#1 subeo
 sub-erigo suberigo
 sub-fero suffero
 sub-for suffes
@@ -923,8 +910,7 @@ sub-rapio surripio
 sub-ringor surringor
 sub-ruo surruo
 sub-sipo subsipere
-sub-sum subsimus
-sub-sum subsum
+sub-sum#1 subsum
 sub-uro suburo
 sub-vado#1 subvades
 sub-vado#2 subvades
@@ -933,7 +919,6 @@ super-curro supercurro
 super-effero#2 supereffero
 super-egredior superegredior
 super-emorior superemorior
-super-eo superi
 super-facio superficies
 super-fero superfero
 super-figo superfigo
@@ -952,12 +937,12 @@ super-no#1 supernas
 super-perspicio superperspicio
 super-ruo superruo
 super-stringo superstringo
-super-sum supersum
+super-sum#1 supersum
 super-vacuo supervacuo
 trans-dito traditor
 trans-duco traduco
 trans-ducto traductor
-trans-eo transeo
+trans-eo#1 transeo
 trans-fero transfero
 trans-fugo transfuga
 trans-ito transitor

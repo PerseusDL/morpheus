@@ -5,8 +5,22 @@
 "</pos>\t<orth>"[^<]+"</orth>"	newentr();
 "</itype>\t<orth>"[^<]+"</orth>"	newentr();
 "</gen>\t<orth>"[^<]+"</orth>"	newentr();
+"<orth>"[^<]+"or</orth>\t<itype>a_ri<"	newentr2();
 
 %%
+
+newentr2()
+{
+	char * s = yytext;
+	
+	putchar('\n');
+	while(*s!='>' && *s) s++; 
+	if(*s) s++;
+	while(*s!='<') putchar(*s++);
+	if(*s == '<') while(*s!='>' && *s) s++;
+	if(*s=='>') s++;
+	printf("%s", s);
+}
 
 newentr()
 {

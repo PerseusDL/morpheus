@@ -279,7 +279,7 @@
 :vb:fi_e_tis   irreg_pp1 fut ind act 2nd pl
 :vb:fi_ent   irreg_pp1 fut ind act 3rd pl
 
-:le:sum
+:le:sum#1
 :vb:sum		irreg_pp1 1st sg pres ind act
 :vb:es		irreg_pp1 2nd sg pres ind act
 :vb:est		irreg_pp1 3rd sg pres ind act

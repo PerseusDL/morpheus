@@ -59,6 +59,9 @@
 :le:amens
 :aj:am	ens_adj
 
+:le:amor
+:no:am or_oLris masc
+
 :le:an
 :wd:an	conj
 

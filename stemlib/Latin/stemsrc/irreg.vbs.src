@@ -8,7 +8,7 @@ a^iat	irreg_pp1 3rd sg pres subj act
 aiant	irreg_pp1 3rd pl pres subj act
 aie@imperf	irreg_pp1 ind act imperf
 
-:le:eo
+:le:eo#1
 :vs:i		perfstem
 :vs:i_v		perfstem
 :vs:it		pp4 supine
@@ -173,7 +173,7 @@ fia_mus	irreg_pp1 pres subj act 1st pl
 fia_tis	irreg_pp1 pres subj act 2nd pl
 fiant	irreg_pp1 pres subj act 3rd pl
 
-:le:sum
+:le:sum#1
 #
 :vb:sum		irreg_pp1 1st sg pres ind act
 :vb:es		irreg_pp1 2nd sg pres ind act

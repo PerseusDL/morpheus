@@ -204,7 +204,7 @@
 :le:Dis
 :no:Di_	s_tis masc
 
-:le:do
+:le:do#1
 :vs:d conj1
 :vs:de^d perfstem no_comp
 :vs:di^d perfstem comp_only

@@ -118,7 +118,12 @@ if( !strcmp(yytext,"<itype>i^i, i^tum, 4</itype>") )	return( do_vstems("conj4",0
 if( !strcmp(yytext,"<itype>u^i, i^tum, 2</itype>") )	return( do_vstems("conj2",0));
 
 if( !strcmp(yytext,"<itype>e_gi, actum, 3</itype>") ) {
-	if( strchr(lemma,'i') )	return( do_vstems("conj3",yytext[7]));
+printf("\nlem:%s\n", lemma );
+	if( !strcmp(lemma+strlen(lemma)-strlen("igo"),"igo") || 
+		!strcmp(lemma+strlen(lemma)-strlen("igor"),"igor") || 
+		!strcmp(lemma+strlen(lemma)-strlen("ingo"),"ingo") ) 
+
+			return( do_vstems("conj3",'i'));
 	else return( do_vstems("conj3",'a'));
 }
 

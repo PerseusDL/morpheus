@@ -31,7 +31,7 @@
 :wd:altera   irreg_nom2 neut acc pl
 :wd:alteri_s   irreg_nom2 abl pl
 
-:le:alius
+:le:alius#2
 :wd:alius irreg_nom2 neut nom acc sg
 :wd:aliud irreg_nom2 neut nom acc sg
 :wd:alia   irreg_nom2 fem nom sg
@@ -196,15 +196,15 @@
 :wd:Iovem   irreg_nom3 masc acc sg
 :wd:Iove   irreg_nom3 masc abl sg
 
-:le:ius
-:wd:ius   irreg_nom3 neut nom/voc/acc sg
-:wd:iuris   irreg_nom3 neut gen sg
-:wd:iuri_   irreg_nom3 neut dat sg
-:wd:iure   irreg_nom3 neut abl sg
-:wd:iura   irreg_nom3 neut nom/voc/acc pl
-:wd:iurum   irreg_nom3 neut gen pl
-:wd:iuribus   irreg_nom3 neut dat pl
-:wd:iuribus   irreg_nom3 neut abl pl
+:le:jus
+:wd:jus   irreg_nom3 neut nom/voc/acc sg
+:wd:juris   irreg_nom3 neut gen sg
+:wd:juri_   irreg_nom3 neut dat sg
+:wd:jure   irreg_nom3 neut abl sg
+:wd:jura   irreg_nom3 neut nom/voc/acc pl
+:wd:jurum   irreg_nom3 neut gen pl
+:wd:juribus   irreg_nom3 neut dat pl
+:wd:juribus   irreg_nom3 neut abl pl
 
 :le:nemo
 :wd:nemo   irreg_nom3 masc/fem nom sg

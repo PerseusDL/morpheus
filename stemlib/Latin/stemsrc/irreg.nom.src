@@ -12,7 +12,7 @@ alter@decl2 irreg_nom2 dat
 alter@decl2 irreg_nom2 acc
 alter@decl2 irreg_nom2 abl
 
-:le:alius
+:le:alius#2
 :wd:alius irreg_nom2 neut nom acc sg
 :wd:aliud irreg_nom2 neut nom acc sg
 ali@ille irreg_nom2
@@ -99,9 +99,9 @@ Iuppiter	irreg_nom3 masc nom voc sg
 Iov@decl3	irreg_nom3 masc sg
 
 
-:le:ius
-ius		irreg_nom3 neut nom/voc/acc sg
-iur@decl3	irreg_nom3 neut
+:le:jus
+jus		irreg_nom3 neut nom/voc/acc sg
+jur@decl3	irreg_nom3 neut
 
 :le:nemo
 nemo		irreg_nom3 masc fem nom sg
