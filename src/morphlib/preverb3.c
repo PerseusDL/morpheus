@@ -102,3 +102,14 @@ has_rawpreverb(char *curpb, gk_string *pbentry)
 {
   return(!Xstrncmp(curpb,gkstring_of(pbentry),Xstrlen(gkstring_of(pbentry))));
 }
+
+is_rawpreverb(char *s) 
+{
+	int i;
+
+	for ( i = 0; i < numprevb; i++) {
+		if(!strcmp(s,gkstring_of(PrevbTable+i)))
+			return(1);
+	}
+	return(0);
+}

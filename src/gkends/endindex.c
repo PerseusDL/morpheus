@@ -101,6 +101,15 @@ chckcmpvb(char *endstr, char *keys)
 	return( checkendind(CmpVbtags,tmpendstr,keys,strncmp));
 }
 
+chckend(char *endstring) 
+{
+	char tmp[LONGSTRING];
+
+	tmp[0] = 0;
+
+	return(chckvend(endstring,tmp)||chcknend(endstring,tmp));
+}
+
 chckvend(char *endstr, char *keys)
 {
 	long startoff;

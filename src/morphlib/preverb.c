@@ -46,6 +46,7 @@ bool checkprevb(char *word, char *prevb, bool *brflg)
 }
 
 
+
 bool prvbcmp(char *prevb, char *word, bool *brflg)
 /* does word begin with prevb? If so, strip it out */
 {

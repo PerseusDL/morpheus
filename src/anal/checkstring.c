@@ -374,6 +374,26 @@ checkstring3(gk_word *Gkword)
 */
 
 /*
+ * uenio and venio
+ *
+ * grc 12/12/97
+ *
+ */
+	if( cur_lang() == LATIN ) {
+		char * a = workword;
+		strcpy(workword,saveword);
+		if( u2v(workword) ) {
+			set_workword(Gkword,workword);
+			rval = checkstring3(Gkword);
+			if( rval ) {
+				set_workword(Gkword,saveword);
+				return(rval);
+			}
+		}
+		strcpy(workword,saveword);
+	}
+
+/*
  * Lewis and Short stores "jubeo" rather than "iubeo".
  *
  * grc 1/28/97
@@ -702,3 +722,43 @@ updateDialect(Dialect dial)
 	}
 }
 
+#define LatVow(X) (strchr("aeiouAEIOU",X))
+
+u2v(char *s) {
+	int nchanges = 0;
+	char half1[BUFSIZ], *t;
+
+	half1[0] = 0;
+	t = half1;
+	
+	if( (*s == 'U' || *s =='u' ) && LatVow(*(s+1)) ) {
+		if(*s=='U') *s='V';	
+		if(*s=='u') *s='v';	
+		nchanges++;
+	}
+	*t++ = *s++;
+	*t = 0;
+	
+	while(*s) {
+
+		if(LatVow(*(s-1))&&LatVow(*(s+1))&&*s=='u') {
+			*s = 'v';
+			nchanges++;
+		}
+		
+		if( is_rawpreverb(half1) && *s == 'u' && LatVow(*(s+1)) ) {
+			*s = 'v';
+			nchanges++;
+		}
+
+		if( *s=='u' && chckend(s+1) && LatVow(*(s+1)) ) {
+			*s = 'v';
+			nchanges++;
+		}
+
+		*t++ = *s++;
+		*t = 0;
+	}
+
+	return(nchanges);
+}
