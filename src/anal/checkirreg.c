@@ -81,7 +81,7 @@ try_irregvb(gk_word *Gkword)
 /*
  * well let's see if we have a raw irregular verb 
  */
-	if( ! *rawprvb || Is_cons(*irrform) ) {
+	if( ! *rawprvb || Is_cons(*irrform) || cur_lang() == LATIN ) {
 		rval = chckirrvform(irrform,IrrKeys[0]);
 		
 /*
@@ -96,7 +96,7 @@ printf("rval b %d irrform [%s] irkkeys [%s]\n", rval , irrform, IrrKeys[0] );
 	if( ! Is_vowel(*irrform) )
 		goto finish;
 
-	if( getbreath(irrform) != NOBREATH ) {
+	if( getbreath(irrform) != NOBREATH  ) {
 		rval = chckirrvform(irrform,IrrKeys[0]);
 		if( rval )
 			Xstrncpy(IrrForms[0],irrform,MAXWORDSIZE);

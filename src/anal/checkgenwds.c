@@ -118,12 +118,12 @@ printf("failed with curform [%s] and origword [%s]\n", curform , origword );
 }
 		stripdiaer(curform);
 		stripmetachars(curform);
-
+/*
 printf("workword is [%s]\n", workword_of(gkforms+i));
 fprintf(stdout,"comparing [%s] and [%s]\n", curform , checks );
 fputc('\n',stdout);
 fprintf(stderr,"onwards\n");
-
+*/
 		if( !morphstrcmp( curform , checks )) {
 /*
 			if(*preverb && !Check_preverb(Gkword,gkforms+i) ) {

@@ -25,7 +25,7 @@ noms:stemsrc/nom.irreg stemind/nomind
 vbs: stemind/vbind
 
 stemind/vbind:
-	cat stemsrc/vbs.latin.bas stemsrc/vbs.latin > conjfile
+	cat stemsrc/vbs.latin.bas  stemsrc/vbs.latin.irreg stemsrc/vbs.latin stemsrc/vbs.irreg > conjfile
 	do_conj -L
 	mv conjfile.short /usr/tmp/vbmorph
 	indexvbs -L

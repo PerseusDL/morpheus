@@ -188,10 +188,83 @@ rstprevb(char *word, char *prevb, gk_string *gstr)
 	fullpb[0] = 0;
 	if( Is_indeclform(oddpb) ) return;
 
-	if( cur_lang() == LATIN ) {
+	if( cur_lang() == LATIN && !has_morphflag(oddpb,RAW_PREVERB) ) {
 		char * t;
 
 		strcpy(work,prevb);
+		t = work+strlen(work)-1;
+
+		if( !strcmp(prevb,"circum") && *word == 'i' ) {
+			*t = 0;
+		}
+
+		if( !strcmp(prevb,"sub") || !strcmp(prevb,"ob") ) {
+
+			switch(*word) {
+				case 'c':
+				case 'f':
+				case 'g':
+				case 'p':
+					*t = *word;
+					break;
+				default:
+					break;
+			}
+		}
+
+		if( !strcmp(prevb,"ex") ) {
+
+			if( ! strchr("aeioucpqt",*word) ) {
+				if( *word == 'f') 
+					*t = *word;
+				else
+					*t = '_';
+			}
+		}
+
+		if( !strcmp(prevb,"sub") ) {
+
+			switch(*word) {
+				case 'r':
+				case 'm':
+					*t = *word;
+					break;
+				default:
+					break;
+			}
+		}
+
+		if( !strcmp(prevb,"in") ) {
+
+			switch(*word) {
+				case 'b':
+				case 'p':
+				case 'm':
+					*t = 'm';
+					break;
+			}
+		}
+
+		if( !strcmp(prevb,"con") ) {
+
+			switch(*word) {
+				case 'b':
+				case 'p':
+				case 'm':
+					*t = 'm';
+					break;
+				case 'r':
+				case 'l':
+					*t = * word;
+					break;
+				case 'n':
+					*t = '_';
+					break;
+				default:
+					break;
+			}
+		}
+
 		if( !strcmp(prevb,"ad") ) {
 
 			switch(*word) {

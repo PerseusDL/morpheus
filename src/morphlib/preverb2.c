@@ -39,8 +39,74 @@ CombPbStemL(char *curpb, char *restofs, Dialect dial, MorphFlags *pbflags)
 	int lastc, lastc2, lastc3, curbreath;
 	char workrest[MAXWORDSIZE], noaccpb[MAXWORDSIZE];
 
+	if( !strcmp("circum",curpb) && *restofs == 'i' ) {
+		add_morphflag(pbflags,RAW_PREVERB);
+		return(YES);
+	}
+
+
 	lastc = *(curpb + strlen(curpb) - 1);
-	if( lastc == 'd' ) {
+	
+
+	if( !strcmp("sub",curpb) || ! strcmp("ob",curpb) ) {
+		switch(*restofs) {
+			case 'c':
+			case 'f':
+			case 'g':
+			case 'p':
+				add_morphflag(pbflags,RAW_PREVERB);
+				break;
+			default:
+				break;
+		}
+	}
+
+	if( !strcmp("ex",curpb)) {
+		if( ! strchr("aeioucpqtf",*restofs) ) {
+			add_morphflag(pbflags,RAW_PREVERB);
+		}
+		return(YES);
+	}
+
+	if( !strcmp("sub",curpb)) {
+		switch(*restofs) {
+			case 'm':
+			case 'r':
+				add_morphflag(pbflags,RAW_PREVERB);
+				break;
+			default:
+				break;
+		}
+	}
+
+		
+	if( !strcmp("in",curpb)) {
+		switch(*restofs) {
+			case 'b':
+			case 'p':
+			case 'm':
+				add_morphflag(pbflags,RAW_PREVERB);
+				break;
+			default:
+				break;
+		}
+	}
+
+	if( !strcmp("con",curpb)) {
+		switch(*restofs) {
+			case 'b':
+			case 'p':
+			case 'm':
+			case 'r':
+			case 'l':
+			case 'n':
+				add_morphflag(pbflags,RAW_PREVERB);
+				break;
+			default:
+				break;
+		}
+	}
+	if( !strcmp("ad",curpb)) {
 		switch(*restofs) {
 			case 'f':
 			case 'g':

@@ -54,8 +54,9 @@ fprintf(stderr,"start with ending [%s]\n", endstring_of(Gkword) );
 			if( ! stem_of(&WorkGkword)[0] ) 
 				continue;
 
+/*
 printf("rawpb [%s] stem %s\n", rawprvb_of(&WorkGkword), stem_of(&WorkGkword));
-
+*/
 			if( ! CombPbStem(rawprvb_of(&WorkGkword),stem_of(&WorkGkword),dialect_of(&WorkGkword),morphflags_of(prvb_gstr_of(&WorkGkword))) ) {
 				continue;
 			}
