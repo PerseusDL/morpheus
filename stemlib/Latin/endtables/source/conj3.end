@@ -63,10 +63,10 @@ i	pres inf pass
 #
 e_ns	pres part masc/fem/neut nom/voc sg
 e_ns	pres part neut acc sg
-ent@superl_adj 	superl
-ent@comp_adj 	comp
+ent@superl_adj 	superl 
+ent@comp_adj 	comp 
 ente	pres part masc/fem/neut abl sg
-ent@decl3_i pres part 
+ent@decl3_i pres part  masc fem neut
 #
 end@decl1 gerundive fem 
 end@decl2 gerundive masc 

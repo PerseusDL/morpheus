@@ -62,6 +62,9 @@
 :le:anceps
 :aj:anc	eps_ipitis 
 
+:le:ante
+:wd:ante	prep
+
 :le:antea
 :wd:antea	adverb
 
@@ -273,6 +276,11 @@
 :le:deterior
 :aj:det		er_era_erum comp
 :aj:det		er_era_erum superl
+
+:le:deus
+:no:de	us_i masc
+:wd:di_s	irreg_nom2 masc dat pl
+:wd:di_s	irreg_nom2 masc abl pl
 
 :le:dextera
 :no:dexte^r 	a_ae fem
@@ -499,6 +507,10 @@
 :no:impe^ra_t	or_oris masc
 :no:inpe^ra_t	or_oris masc
 
+:le:in
+:wd:in	prep
+:wd:in	adverb
+
 :le:ingens
 :aj:ing		ens_adj
 
@@ -573,6 +585,10 @@
 :le:libet
 :aj:li^b ens_adj
 :aj:lu^b ens_adj
+
+:le:Libya
+:no:Liby	a_ae fem
+:no:Liby	a_es fem
 
 :le:Lupus#2
 :no:Lup us_i masc
@@ -788,6 +804,9 @@
 
 :le:Penates
 :no:pena_t	is_is masc pl
+
+:le:per
+:wd:per	prep
 
 :le:perceleriter
 :wd:perceleriter adverb

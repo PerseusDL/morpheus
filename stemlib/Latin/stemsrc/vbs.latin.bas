@@ -164,6 +164,11 @@
 :de:de_fati_g	are_vb
 :de:de_feti_g	are_vb
 
+:le:despicio
+:vs:de_-spic	conj3_io
+:vs:de_-spe_x	perfstem
+:vs:de_-spect	pp4
+
 :le:dico#2
 :vs:di_c	conj3
 :vb:dic		conj3 2nd sg pres imperat act

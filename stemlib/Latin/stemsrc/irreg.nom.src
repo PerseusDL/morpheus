@@ -313,6 +313,19 @@ ec@quis rel_pron
 :wd:quoi rel_pron masc fem neut dat sg
 @quis rel_pron
 
+:le:qui
+:wd:qui_ interrog masc nom sg
+:wd:quei interrog masc nom sg
+:wd:quae interrog fem nom sg
+:wd:quod interrog neut nom/acc sg
+:wd:quem interrog masc acc sg
+:wd:quam interrog fem acc sg
+:wd:qua_ interrog fem abl sg
+:wd:qui_cum interrog masc abl sg
+:wd:qui_buscum interrog masc fem neut abl dat pl
+:wd:quoi interrog masc fem neut dat sg
+@quis interrog
+
 :le:quisquis
 :wd:quisquis	relative masc fem nom sg
 :wd:quidquid	relative neut nom/acc sg
@@ -484,6 +497,10 @@ mil@decl3_i	numeral masc fem neut dat pl
 mil@decl3_i	numeral masc fem neut acc pl
 mil@decl3_i	numeral masc fem neut abl pl
 
+
+:le:mos
+mos	irreg_nom3	masc nom voc sg
+mor@decl3	irreg_nom3	masc 
 
 :le:complures
 complur@decl3_i irreg_adj3 pl

@@ -17,9 +17,9 @@ CFLAGS= -O -I${INCLUDE}
 LINTFLAGS= -I${INCLUDE} -DDEBUG
 RM=/bin/rm -f
 
-ALL=gkdict.a indexcomps indexnoms indexvbs  newlems newlems2 setquant splitlems splitlat latvb conj1 combitype latnom fixhesc 
+ALL=gkdict.a indexcomps indexnoms indexvbs  newlems newlems2 setquant splitlems splitlat latvb conj1 combitype latnom fixhesc fixgend
 
-lexer= combitype fixhesc latnom setquant splitlems conj1 getitype latvb splitlat
+lexer= combitype fixhesc latnom setquant splitlems conj1 getitype latvb splitlat fixgend
 
 all: ${ALL}
 

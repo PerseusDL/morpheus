@@ -61,7 +61,7 @@ ie_ns	pres part neut acc sg
 ient@superl_adj 	superl
 ient@comp_adj 	comp
 iente	pres part masc/fem/neut abl sg
-ient@decl3_i pres part 
+ient@decl3_i pres part  masc fem neut
 #
 iend@decl1 gerundive fem 
 iend@decl2 gerundive masc 

@@ -59,9 +59,9 @@ a_ri	pres inf pass
 a_ns	pres part masc/fem/neut nom/voc sg
 a_ns	pres part neut acc sg
 ante	pres part masc/fem/neut abl sg
-ant@superl_adj 	superl
-ant@comp_adj 	comp
-ant@decl3_i pres part 
+ant@superl_adj 	superl 
+ant@comp_adj 	comp 
+ant@decl3_i pres part masc fem neut
 #
 and@decl1 gerundive fem 
 and@decl2 gerundive masc 

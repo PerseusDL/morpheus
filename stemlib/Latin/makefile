@@ -57,7 +57,7 @@ ls.morph: ${LSDIR}/lemmata
 #	sed -e 's/\-//' ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | latvb > ls.vbs
 #	cat ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | latvb | perl -pe 's/(^\:le\:[A-Za-z]+)\-([A-Za-z])/$1$2/g' > ls.vbs
 	cat ${LSDIR}/lemmata |  combitype | splitlat | conj1 | fgrep -f vtags | latvb > ls.vbs
-	splitlems < ${LSDIR}/lemmata |  fixhesc | fgrep -v -f vtags | fgrep -v "<pos>P. a.</pos>" |  latnom > /usr/tmp/ls.morph
+	splitlems < ${LSDIR}/lemmata |  fixhesc | fgrep -v -f vtags | fgrep -v "<pos>P. a.</pos>" |  fixgend | latnom > /usr/tmp/ls.morph
 	egrep -e "^:" ls.vbs > stemsrc/vbs.latin
 	fgrep -v "0:" /usr/tmp/ls.morph > stemsrc/ls.nom
 	cp /usr/tmp/ls.morph .
