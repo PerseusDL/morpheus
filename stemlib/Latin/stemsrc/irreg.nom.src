@@ -497,12 +497,14 @@ tui_	pron2 masc fem gen sg
 tibi	pron2 masc fem dat sg
 te_	pron2 masc fem acc sg
 te_	pron2 masc fem abl sg
+tutemet	pron2 masc fem nom sg
 vo_s	pron2 masc fem nom voc pl
 vostrum	pron2 masc fem gen pl
 vestri_	pron2 masc fem gen pl
 vo_s	pron2 masc fem acc pl
 vo_bis	pron2 masc fem abl pl
 vo_bis	pron2 masc fem dat pl
+vo_smet	pron2 masc fem nom acc pl
 
 :le:sui
 sui_	pron3 masc fem gen sg
