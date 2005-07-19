@@ -5840,6 +5840,7 @@ procene/w procene/w
 prooimia/zomai prooimia/zomai
 proswpolhpte/w proswpolhpte/w
 protenqeu/w protenqeu/w
+proti/qhmi pro/-ti/qhmi
 su/n,a)mfi/-e)/xw sunampe/xw
 su/n,a)na/-a)/gw sunana/gw
 su/n,a)na/-a)nali/skw sunanali/skw
