@@ -25,3 +25,302 @@
 
 :le:u(datw/dhs
 :aj:u(datwd hs_es stem_acc
+
+:le:*(ierofw=n
+:no:*(ierofw n_ntos masc contr stem_acc pers_name
+
+:le:*)aristo/noun
+:no:*)ariston oos_oou masc pers_name
+
+:le:*fru=nis
+:no:*fru_n is_ios masc pers_name
+
+:le:*qumoxa/rhs
+:no:*qumoxar hs_eous masc pers_name
+
+:le:*sa/kwn
+:no:sakw n_nos masc pers_name
+
+:le:*stu/fwn
+:no:*stufw n_nos masc pers_name
+
+:le:*ta/mws
+:no:*tam ws_w masc pers_name
+
+:le:*te/llis
+:no:*tell is_ios masc
+
+:le:*mhna=s
+:no:*mhn ehs_eou masc stem_acc
+
+:le:*(ippa/gretos
+:no:*(ippagret os_ou masc pers_name
+
+:le:*(ippoloxi/das
+:no:*(ippoloxid hs_ou masc doric aeolic pers_name
+
+:le:*(ippwnia/s
+:no:*(ippwni hs_ou masc suff_acc suff_acc pers_name
+
+:le:*)/antippos
+:no:*)antipp os_ou masc pers_name
+
+:le:*)/ekkritos
+:no:*)ekkrit os_ou masc pers_name
+
+:le:*)/entimos
+:no:*)entim os_ou masc pers_name
+
+:le:*)aghsippi/das
+:no:*)aghsippid hs_ou masc doric aeolic pers_name
+
+:le:*)alkina/das
+:no:*)alkinad hs_ou masc doric aeolic pers_name
+
+:le:*dama/ghtos
+:no:*damaght os_ou masc pers_name
+
+:le:*xi/onis
+:no:*xion is_idos fem pers_name
+
+:le:*metage/nhs
+:no:*metagen hs_ou masc pers_name
+
+:le:*)/akanqos
+:no:*)akanq os_ou masc pers_name
+
+:le:*da/iqos
+:no:*daiq os_ou masc pers_name
+
+:le:*)isxago/ras
+:no:*)isxagor hs_ou masc pers_name
+
+:le:*filoxari/das
+:no:*filoxarid hs_ou masc doric aeolic pers_name
+
+:le:*zeuci/das
+:no:*zeucid hs_ou masc doric aeolic pers_name
+
+:le:*)/antippos
+:no:*)antipp os_ou masc pers_name
+
+:le:*)alkina/das
+:no:*)alkinad hs_ou masc doric aeolic pers_name
+
+:le:*)empedi/as
+:no:*)empedi hs_ou masc pers_name
+
+:le:*mhna=s
+:no:*mhn ehs_eou masc suff_acc suff_acc pers_name
+
+:le:*la/filos
+:no:*lafil os_ou masc pers_name
+
+:le:*)amfi/as
+:no:*)amfi hs_ou masc pers_name
+
+:le:*)amfi/dwros
+:no:*)amfidwr os_ou masc pers_name
+
+:le:*)amme/as
+:no:*)amme hs_ou masc pers_name
+
+:le:*)ampeli/dhs
+:no:*)ampelid hs_ous masc pers_name
+
+:le:*)antimeni/das
+:no:*)antimenid hs_ou masc doric aeolic pers_name
+
+#noanalysis:*)arianqi/dou
+
+:le:*)arrabai=os
+:no:*)arrabai_ os_ou masc pers_name
+
+#noanalysis:*)arxwni/dou
+:le:*)arxwni/dhs
+:no:*)arxwnid hs_ou masc stem_acc pers_name
+
+#noanalysis:*)echke/stou
+:le:*)ech/kestos
+:no:*)echkest os_ou masc pers_name
+
+:le:*)epikudi/das
+:no:*)epikudid hs_ou masc doric aeolic pers_name
+
+:le:*)erucilai/+da
+:no:*)erucilai+d a_hs fem pers_name
+
+:le:*)ie/tas
+:no:*)iet hs_ou masc doric aeolic pers_name
+
+:le:*)ipne/as
+:no:*)ipne hs_ou masc pers_name
+
+:le:*)isqmio/nikos
+:no:*)isqmionik os_ou masc pers_name
+
+:le:*)itama/nous
+:no:*)itamano us_uos masc pers_name
+
+:le:*)iw/lkios
+:no:*)iwlki os_ou masc pers_name
+
+:le:*ai)/swna
+:no:*ai)swn a_hs fem pers_name
+
+#noanalysis:*ai)ola/dou
+
+:le:*ai)ola/dhs
+:no:*ai)olad hs_ou masc pers_name
+
+:le:*au)toxari/das
+:no:*au)toxarid hs_ou masc doric aeolic pers_name
+
+#noanalysis:*bromerou=
+
+:le:*bromero/s
+:no:*bromer os_ou masc suff_acc pers_name
+
+:le:*cenofanti/das
+:no:*cenofantid hs_ou masc doric aeolic pers_name
+
+#noanalysis:*dai+ma/xou
+
+:le:*dai/+maxos
+:no:*dai+max os_ou masc pers_name
+
+:le:*damo/timos
+:no:*damotim os_ou masc pers_name
+
+#noanalysis:*deili/a|
+:le:*deili/as
+:no:*deili hs_ou masc  pers_name
+
+:le:*deinia/das
+:no:*deiniad hs_ou masc doric aeolic pers_name
+
+:le:*derkuli/das
+:no:*derkulid hs_ou masc doric aeolic pers_name
+
+:le:*dhme/as
+:no:*dhme hs_ou masc pers_name
+
+:le:*dhmote/lhs
+:no:*dhmotel hs_ou masc pers_name
+
+:le:*dio/milos
+:no:*diomil os_ou masc pers_name
+
+:le:*diome/dwn
+:no:*diomed wn_onos masc pers_name
+
+:le:*eu)/strofon
+:no:*eu)strof os_ou neut pers_name
+
+:le:*eu)eti/wn
+:no:*eu)eti wn_onos masc pers_name
+
+#noanalysis:*gauli/thn
+:le:*gauli/ths
+:no:*gaulit hs_ou masc stem_acc pers_name
+
+:le:*kerdu/lios
+:no:*kerduli os_ou masc pers_name
+
+:le:*klei+ppi/dhs
+:no:*klei+ppid hs_ou masc pers_name
+
+:le:*krathsikle/hs
+:no:*krathsikle hs_ou masc pers_name
+
+:le:*kunouri/as
+:no:*kunouri hs_ou masc pers_name
+
+:le:*laofw=n
+:no:*laof wCn_wCntos masc suff_acc suff_acc pers_name
+
+:le:*melagxri/dhs
+:no:*melagxrid hs_ou masc pers_name
+
+:le:*meneda/i+os
+:no:*menedai+ os_ou masc pers_name
+
+:le:*ni/kasos
+:no:*nikas os_ou masc pers_name
+
+:le:*nikoni/das
+:no:*nikonid hs_ou masc doric aeolic pers_name
+
+:le:*pa/millon
+:no:*pamill os_ou neut pers_name
+
+:le:*peda/ritos
+:no:*pedarit os_ou masc pers_name
+
+:le:*peiqi/as
+:no:*peiqi hs_ou masc pers_name
+
+:le:*periklei/dhs
+:no:*perikleid hs_ou masc pers_name
+
+:le:*pleistoa/nac
+:no:*pleistoana c_ktos masc ant_acc pers_name
+
+:le:*poludami/das
+:no:*poludamid hs_ou masc doric aeolic pers_name
+
+:le:*ptoio/dwros
+:no:*ptoiodwr os_ou masc pers_name
+
+:le:*ptuxi/as
+:no:*ptuxi hs_ou masc pers_name
+
+:le:*pusti/los
+:no:*pustil os_ou masc stem_acc pers_name
+stemacc:*pusti/los
+
+:le:*qhrime/nhs
+:no:*qhrimen hs_ou masc pers_name
+
+:le:*qouklh=s
+:no:*qou klehs_kleous masc suff_acc suff_acc pers_name
+
+:le:*qra/sulos
+:no:*qrasul os_ou masc pers_name
+
+:le:*qrasukle/hs
+:no:*qrasukle hs_ou masc pers_name
+
+:le:*qrasumhli/das
+:no:*qrasumhlid hs_ou masc doric aeolic pers_name
+
+#noanalysis:*sargeu\s
+:le:*sargeu/s
+:no:*sarg eus_ews masc suff_acc pers_name
+
+:le:*stro/fakos
+:no:*strofak os_ou masc pers_name
+
+:le:*ta/ntalos
+:no:*tantal os_ou masc pers_name
+
+:le:*teisi/as
+:no:*teisi hs_ou masc pers_name
+
+:le:*teisi/maxos
+:no:*teisimax os_ou masc pers_name
+
+:le:*tomeu/s
+:no:*tom eus_ews masc suff_acc suff_acc pers_name
+
+:le:*toru/laos
+:no:*torula os_ou masc pers_name
+
+:le:*trw/tilos
+:no:*trwtil os_ou masc pers_name
+
+:le:*xarikle/hs
+:no:*xarikle hs_ou masc pers_name
+
+:le:*zeuci/das
+:no:*zeucid hs_ou masc doric aeolic pers_name
