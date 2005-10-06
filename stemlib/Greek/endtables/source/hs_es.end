@@ -3,6 +3,7 @@ hs hs_es nom sg masc fem
 es hs_es nom voc acc sg neut 
 es hs_es voc sg masc fem 
 e@decl3 hs_es masc fem neut
+eis hs_es contr masc fem acc pl
 e-i+ hs_es dat sg epic poetic
 e/steron hs_es adverbial comp
 ester@adj1 hs_es comp
