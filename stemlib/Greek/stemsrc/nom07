@@ -936,7 +936,10 @@
 :le:o)numasto/s
 :aj:o)numast os_h_on suff_acc
 
-:le:o)cu/s
+:le:o)cu/s1
+:le:o)cu stem_acc s_dos fem
+
+:le:o)cu/s2
 :aj:o)cutat os_h_on irreg_superl
 :aj:o)cuter os_h_on irreg_comp
 
