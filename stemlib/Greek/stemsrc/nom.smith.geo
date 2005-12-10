@@ -1,8 +1,12 @@
 #stems derived from Smith's encyclopedias
 
 
-:le:)+*annaia
-:no:)+*annai a_hs fem
+:le:*)annai/a
+:no:*)annai h_hs fem
+:no:*)anai h_hs fem
+:aj:*)annai os_h_on
+:aj:*)anai os_h_on
+:aj:*)anait hs_ou masc ethnic
 
 :le:*(/alentos
 :no:*(alent os_ou masc
@@ -36,6 +40,7 @@
 
 :le:*(/elwros
 :no:*(elwr os_ou masc
+:no:*(elwrin os_h_on
 
 :le:*(/enetos
 :no:*(enet os_ou masc
@@ -153,6 +158,11 @@
 
 :le:*(aliku/ai
 :no:*(aliku h_hs fem pl
+:no:*(alikuai os_h_on stem_acc
+:no:*)alikuai os_h_on stem_acc
+
+:le:*)amfipoli/ths
+:no:*)amfipoli_t hs_ou masc stem_acc
 
 :le:*(alikuai=os
 :no:*(alikuai_ os_ou masc
@@ -185,6 +195,9 @@
 
 :le:*(armarh/lia
 :no:*(armarhli a_hs fem
+
+:le:*(armatou=s
+:no:*(armat oeis_oentos masc suff_acc suff_acc
 
 :le:*(armateu/s
 :no:*(armat eus_ews masc suff_acc suff_acc
@@ -986,6 +999,7 @@ stemacc:*(ursaki/na
 
 :le:*)/akrai
 :no:*)akr h_hs fem pl
+:no:*)akrai os_h_on stem_acc
 
 :le:*)/akreia
 :no:*)akrei a_hs fem
@@ -1453,6 +1467,12 @@ stemacc:*(ursaki/na
 :le:*)/olbasa
 :no:*)olbas a_hs fem
 
+:le:*)/olpai
+:no:*)olp h_hs fem pl
+:no:*)olp h_hs fem 
+:no:*)olpai os_h_on stem_acc
+
+
 :le:*)/olgassus
 :no:*)olgass us_uos masc
 
@@ -1669,6 +1689,8 @@ stemacc:*(ursaki/na
 
 :le:*)adramu/tteion
 :no:*)adramuttei os_ou neut
+:no:*)adramutti os_ou neut
+:no:*)atramutti os_ou neut
 
 :le:*)adramutthno/s
 :no:*)adramutthn os_ou masc suff_acc suff_acc
@@ -1737,7 +1759,9 @@ stemacc:*(ursaki/na
 #noanalysis:*)agraei=s
 
 :le:*)agrai=oi
-:no:*)agrai_ os_ou masc pl
+:no:*)agrai os_ou masc pl stem_acc
+:no:*)agrai+k os_h_on suff_acc
+:no:*)agra is_idos_adj suff_acc
 
 :le:*)agri/nion
 :no:*)agrini os_ou neut
@@ -1819,6 +1843,7 @@ stemacc:*)aki/la
 
 :le:*)akro/qwoi
 :no:*)akroqw os_ou masc pl
+:no:*)akroqw| os_ou masc pl
 
 :le:*)akro/qwon
 :no:*)akroqw os_ou neut
@@ -2211,8 +2236,11 @@ stemacc:*)amya/ga
 :le:*)anai=os
 :no:*)anai_ os_ou masc
 
-:le:*)anai=ths
-:no:*)anai_t hs_ou masc
+:le:*)anaii=ths
+:no:*)anaii_t hs_ou masc stem_acc
+
+:le:*)anaii=tis
+:no:*)anaii_t is_idos fem stem_acc
 
 :le:*)anaqw/
 :no:*)anaq ws_wos fem suff_acc suff_acc
@@ -2573,13 +2601,11 @@ stemacc:*)ardau/da
 :le:*)argi/daua
 :no:*)argidau a_hs fem
 
-:le:*)argi/non
-:no:*)argin os_ou neut stem_acc
-stemacc:*)argi/non
+:le:*)argi=non
+:no:*)argi_n os_ou neut stem_acc
 
 :le:*)argi/ta
 :no:*)argit a_hs fem stem_acc
-stemacc:*)argi/ta
 
 :le:*)arginou=sai
 :no:*)arginou_s h_hs fem pl
@@ -2677,6 +2703,7 @@ stemacc:*)argi/ta
 
 :le:*)arnissa
 :no:*)arniss a_hs fem
+:no:*)arnis a_hs fem
 
 #noanalysis:*)arnw)n
 
@@ -3360,7 +3387,9 @@ stemacc:*)eleou/sa
 :le:*)eptakomh=tai
 :no:*)eptakomh_t h_hs fem pl
 
-#noanalysis:*)erai/
+:le:*)erai/
+:no:*)er h_hs fem pl suff_acc
+:no:*ai(r h_hs fem  pl suff_acc
 
 :le:*)erannabo/as
 :no:*)erannabo hs_ou masc doric aeolic
@@ -4113,6 +4142,10 @@ stemacc:*)oli/na
 
 #noanalysis:*)ordou/i+\kes
 
+:le:*)/oresqas
+:no:*)oresqa s_dis fem stem_acc
+:no:*)oresq is_idos fem suff_acc
+
 :le:*)ore/sqeion
 :no:*)oresqei os_ou neut
 
@@ -4141,7 +4174,7 @@ stemacc:*)oli/na
 :no:*)ormini os_ou neut
 
 :le:*)ornea/ths
-:no:*)orneat hs_ou masc
+:no:*)ornea_t hs_ou masc stem_acc
 
 :le:*)orni/qwn
 :no:*)orniq wn_onos masc
@@ -5352,6 +5385,10 @@ stemacc:*biaba/na
 :le:*bira/kellon
 :no:*birakell os_ou neut
 
+:le:*bisalti/a
+:no:*bisalti h_hs fem
+:no:*bisaltik os_h_on suff_acc
+
 :le:*bisanqhno/s
 :no:*bisanqhn os_ou masc suff_acc suff_acc
 
@@ -5556,6 +5593,9 @@ stemacc:*boua/na
 :le:*boufieu/s
 :no:*boufi eus_ews masc suff_acc suff_acc
 
+:le:*boufra/s
+:no:*boufra s_dos fem stem_acc
+
 :le:*boui+/anon
 :no:*boui+an os_ou neut
 
@@ -5567,6 +5607,15 @@ stemacc:*boua/na
 
 :le:*boukefali/a
 :no:*boukefali a_hs fem
+
+:le:*boukoliw/n
+:no:*boukoliw n_nos stem_acc fem
+
+:le:*bwmoi/
+:no:*bwm os_ou masc suff_acc pl
+:no:*bwmi eus_ews masc suff_acc
+
+
 
 :le:*boullari/a
 :no:*boullari a_hs fem
@@ -5944,7 +5993,7 @@ stemacc:*brisoa/na
 :no:*dafnousi os_ou masc
 
 :le:*dafnou=s
-:no:*dafn oos_oou masc suff_acc suff_acc
+:no:*dafn oeis_oentos masc suff_acc suff_acc
 
 :le:*daga/seira
 :no:*dagaseir a_hs fem
@@ -6455,8 +6504,18 @@ stemacc:*deobrigou/la
 :le:*druaini/ths
 :no:*druainit hs_ou masc
 
+:le:*dru/maia
+:no:*drumai a_hs fem
+
+:le:*drumou=ssa
+:no:*drumouss a_hs fem stem_acc
+
 :le:*drumi/a
 :no:*drumi a_hs fem
+
+:le:*dru/s
+:no:*dru/s irreg_decl3 fem nom sg
+:no:*druo/s irreg_decl3 fem gen sg
 
 :le:*drunai/metos
 :no:*drunaimet os_ou masc
@@ -7205,6 +7264,11 @@ stemacc:*fregh/na
 :le:*ga/laktos
 :no:*galakt os_ou masc
 
+:le:*galhyo/s
+:no:*galhy os_ou fem suff_acc
+:no:*)alhy os_ou fem suff_acc
+
+:le:*ga/liba
 :le:*ga/lgala
 :no:*galgal a_hs fem
 
@@ -13861,8 +13925,9 @@ stemacc:*perperh/na
 :le:*ph/dasa
 :no:*phdas a_hs fem
 
-:le:*ph/gion
-:no:*phgi os_ou neut
+:le:*(rh/gion
+:no:*(rhgi os_ou neut
+:no:*(rhgi_n os_h_on stem_acc
 
 :le:*ph/ion
 :no:*phi os_ou neut
@@ -18396,3 +18461,50 @@ stemacc:*xaba/la
 :no:*zwramb os_ou masc
 
 #noanalysis:to*\(iero\n
+
+:le:*(/ukkara
+:no:*(ukkar os_ou neut pl
+:no:*(ukkarik os_h_on suff_acc
+:no:*(ukar os_ou neut pl
+:no:*(ukarik os_h_on suff_acc
+
+:le:*(/alhc
+:no:*(alh c_kos masc
+:no:*)alh c_kos masc
+
+:le:*)afrodisia/s
+:no:*)afrodisia s_dos fem stem_acc
+:no:*)afrodisi eus_ews masc suff_acc ethnic
+:no:*)afroditi h_hs fem thuc
+
+:le:*)ere/tria
+:no:*)eretri h_hs fem
+
+:le:*ai)/tnh
+:aj:*)inhssai os_h_on stem_acc
+
+:le:*(ullai+ko/s
+:aj:*(ullai+k os_h_on suff_acc
+
+:le:*)iasiko/s
+:aj:*)iasik os_h_on suff_acc
+:aj:*(ullai+k os_h_on
+
+:le:*dafnou=s
+:no:*dafn oos_oou fem suff_acc
+:no:*dafnounti os_h_on
+:no:*dafnousi os_h_on
+
+:le:*fliou=s
+:no:*fli oeis_oentos fem suff_acc
+:no:*flei oeis_oentos fem suff_acc
+:aj:*fliasi os_h_on
+
+:le:*foinikou=s
+:no:*foinik oeis_oentos fem suff_acc
+
+:le:*fw/kaia
+:no:*fwkai a_hs fem
+:no:*fwka is_idos fem suff_acc
+:no:*fwka eus_ews suff_acc masc
+:no:*fwkai+ s_tos stem_acc masc fem

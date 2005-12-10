@@ -144,7 +144,8 @@ stemacc:*)androni/kos
 :no:*)arist ws_wos fem suff_acc suff_acc
 
 :le:*)arribai=os
-:no:*)arribai_ os_ou masc
+:no:*)arribai os_ou masc stem_acc
+:no:*)arrabai os_ou masc stem_acc
 
 :le:*)arridai=os
 :no:*)arridai_ os_ou masc
@@ -346,6 +347,9 @@ stemacc:*ai)gobo/los
 
 :le:*didw/
 :no:*did ws_wos fem suff_acc suff_acc
+
+:le:*diome/dwn
+:no:*diomed wn_ontos masc
 
 :le:*dio/mos
 :no:*diom os_ou masc
