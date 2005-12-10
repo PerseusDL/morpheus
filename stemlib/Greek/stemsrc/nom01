@@ -14658,6 +14658,7 @@
 :le:*bore/as
 :no:*bore hs_ou,stem_acc,masc
 @  ionic
+:no:bore hs_ou masc
 :no:*bor ehs_eou,masc
 @ end:ew ionic gen sg
 :no:bor ehs_eou,masc
@@ -17552,6 +17553,7 @@
 
 :le:de/rris
 :no:derr is_ews fem
+:no:ders is_ews fem
 
 :le:de/rtron
 :no:dertr os_ou neut

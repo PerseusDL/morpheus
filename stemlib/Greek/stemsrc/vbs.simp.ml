@@ -3045,8 +3045,9 @@
 :vs:a)xq w_stem mp
 :de:a)xq e_stem
 ;ap,-esq
-@ fut
+#@ fut
 ;fu,-es mid
+:vs:a)xqesq aor_pass
 
 :le:a)xqofore/w
 :de:a)xqofor ew_denom
@@ -20634,6 +20635,12 @@
 ;va,-et
 ;va,-hm wn_on
 :vs:qhk emi_aor mid part
+:vb:e)qemen emi_aor aor act ind 1st pl
+:vb:qemen emi_aor aor act ind 1st pl unaugmented epic ionic
+:vb:e)qete emi_aor aor act ind 2nd pl
+:vb:qete emi_aor aor act ind 2nd pl unaugmented epic ionic
+:vb:e)qesan emi_aor aor act ind 3rd pl
+:vb:qesan emi_aor aor act ind 3rd pl unaugmented epic ionic
 :vs:qhk aor1,3rd,pl
 @ epic unaugmented
 :vs:q emi_aor
@@ -22064,6 +22071,7 @@
 
 :le:fle/gw
 :vs:fleg aor2_pass
+:vs:flexq aor_pass
 :de:fleg reg_conj
 ;pr
 ;fu

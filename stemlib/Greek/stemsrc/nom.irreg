@@ -1092,6 +1092,7 @@
 :wd:pnu/c irreg_decl3 masc nom sg
 :wd:pukno/s   irreg_decl3 masc gen sg
 :wd:pukni/   irreg_decl3 masc dat sg
+:wd:*pu/kna   irreg_decl3 masc acc sg
 :wd:pu/kna   irreg_decl3 masc acc sg
 :wd:pu/kne   irreg_decl3 masc nom/voc/acc dual
 :wd:puknoi=n   irreg_decl3 masc gen/dat dual

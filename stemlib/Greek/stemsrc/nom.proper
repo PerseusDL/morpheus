@@ -3080,7 +3080,7 @@
 :no:*qrias os_ou masc  
 
 :le:*qou/rios
-:no:*qouri os_ou neut  
+:no:*qouri os_ou masc  
 
 :le:*quw/nh
 :no:*quwn h_hs fem  
@@ -14637,6 +14637,12 @@
 
 :le:*qou/rios
 :aj:*qouri os_h_on   
+
+:le:*qou/rioi
+:aj:*qouri os_ou fem pl
+
+:le:*qouria/s
+:aj:*qouria s_dos fem stem_acc
 
 :le:*tibarhnh/
 :no:*tibarhn h_hs fem suff_acc 

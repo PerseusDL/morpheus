@@ -6514,8 +6514,8 @@ stemacc:*deobrigou/la
 :no:*drumi a_hs fem
 
 :le:*dru/s
-:no:*dru/s irreg_decl3 fem nom sg
-:no:*druo/s irreg_decl3 fem gen sg
+:wd:*dru/s irreg_decl3 fem nom sg
+:wd:*druo/s irreg_decl3 fem gen sg
 
 :le:*drunai/metos
 :no:*drunaimet os_ou masc

@@ -2889,9 +2889,11 @@
 
 :le:*pelopo/nnhsos
 :no:*peloponnhs os_ou fem
+:no:*peloponna_s os_ou fem
 
 :le:*peloponnh/sioi
 :no:*peloponnhsi os_ou,masc,pl
+:no:*peloponna_si os_ou,masc,pl
 
 :le:*peloponnhsiako/s
 :aj:*peloponnhsiak os_h_on suff_acc
@@ -12192,3 +12194,15 @@
 
 :le:skeuopoio/s
 :no:skeuo-poi os_ou suff_acc masc
+
+:le:*perraibi/a
+:no:*perraibi h_hs fem
+
+:le:*pie/rion
+:no:*pieri os_ou masc
+
+:le:*plhmmu/rion
+:no:*plhmmuri os_ou neut
+
+:le:*prwth/
+:no:*prwt h_hs fem suff_acc
