@@ -6413,6 +6413,8 @@
 :aj:trihkonta-et is_idos,fem
 :aj:tria_konta-et is_idos,fem
 :aj:trihkontout is_idos,fem
+:aj:trihkontout is_idos,fem,suff_acc
+:aj:triakontout is_idos,fem,suff_acc
 :aj:trihkonta-et hs_es,suff_acc ionic
 
 :le:triakonta/zugos
@@ -9578,6 +9580,7 @@
 
 :le:fa/kelos
 :no:fa^kel os_ou masc
+:no:fa^kell os_ou masc
 
 :le:fakh=
 :no:fa^k eh_ehs,fem	suff_acc

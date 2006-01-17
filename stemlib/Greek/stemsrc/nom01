@@ -1687,7 +1687,7 @@
 :le:a)/hsis
 :no:a)hs is_ews fem
 
-:le:a)hsshtos
+:le:a)h/sshtos
 :aj:a)-hssht os_on
 :aj:a)-httht os_on  attic
 
@@ -7051,9 +7051,6 @@
 :le:a)/nqeion
 :no:a)nqei os_ou neut
 
-:le:a)nqekte/os
-:aj:a)nq-ekt verb_adj1
-
 :le:a)nqe/mion
 :no:a)nqemi os_ou neut
 
@@ -7452,9 +7449,9 @@
 :le:a)noxh/
 :no:a)n-ox h_hs suff_acc fem
 
-:le:a)nsxeto/s
-:aj:a)n-sxet os_on suff_acc  epic apocope
+:le:a)nasxeto/s
 :aj:a)na-sxet os_on suff_acc
+:aj:a)n-sxet os_on suff_acc  epic apocope
 
 :le:a)/nta
 :wd:a)/nta adverb
@@ -12180,10 +12177,10 @@
 :le:a)tuxi/a
 :no:a)-tu^xi h_hs stem_acc fem
 
-:le:au)=1
+:le:au)=
 :wd:au)=	adverb
 
-:le:au)=2
+:le:au(=
 :wd:au)= exclam *ar.
 
 :le:au)ale/os
@@ -12979,7 +12976,7 @@
 :aj:a)fnei os_h_on suff_acc
 :aj:a)fne os_h_on suff_acc *aesch. *soph.
 
-:le:a)fni/dios
+:le:ai)fni/dios
 :aj:ai)fnidi os_h_on
 :aj:a)fnidi os_on
 

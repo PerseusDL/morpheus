@@ -2222,8 +2222,9 @@
 :le:a)potrwpa/w
 :de:a)potrwp aw_denom rpb:a)po/
 
-:le:a)poxwlo/omai
-:de:xwl ow_denom rpb:a)po/ pass
+# grc 1/15/06 -- replace 
+#:le:a)poxwlo/omai
+#:de:xwl ow_denom rpb:a)po/ pass
 
 :le:a)prakte/w
 :de:a)prakt ew_denom
@@ -12503,6 +12504,7 @@
 
 :le:lipoyuxe/w
 :de:li^po-yu_x ew_denom
+:de:leipo-yu_x ew_denom
 
 :le:li/ptomai
 :de:li ptw mp

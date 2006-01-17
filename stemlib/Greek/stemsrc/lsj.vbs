@@ -25072,9 +25072,6 @@
 :le:keimhlio/w
 :de:keimhli ow_denom
 
-:le:keino/w
-:de:kein ow_denom
-
 :le:keirio/w
 :de:keiri ow_denom
 

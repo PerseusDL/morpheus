@@ -158,7 +158,6 @@ a)na/-e)ru/w a)neru/w
 a)na/-e)ruqria/w a)neruqria/w
 a)na/-e)rwta/w a)nerwta/w
 a)na/-e)ta/zw a)neta/zw
-a)na/-ei)/lw a)nei/lw
 a)na/-ei)/lw a)neile/w
 a)na/-ei)/rw a)nei/rw
 a)na/-ei)=mi a)/neimi
@@ -1291,6 +1290,7 @@ a)po/-xra/omai a)poxra/omai
 a)po/-xra/w3 a)poxra/w
 a)po/-xrai/nw a)poxrai/nw
 a)po/-xwleu/w a)poxwleu/w
+a)po/-xwlo/omai a)poxwlo/omai
 a)po/-xwre/w a)poxwre/w
 a)po/-xwri/zw a)poxwri/zw
 a)po/-ya/w a)poya/w
@@ -1972,7 +1972,7 @@ e)k-dei/knumi e)kdei/knumi
 e)k-deimato/w e)kdeimato/w
 e)k-dhme/w e)kdhme/w
 e)k-di/dwmi e)kdi/dwmi
-e)k-diaita/w e)kdiaita/omai
+e)k-diaita/w e)kdiaita/w
 e)k-dida/skw e)kdida/skw
 e)k-didra/skw e)kdidra/skw
 e)k-difreu/w e)kdifreu/w
