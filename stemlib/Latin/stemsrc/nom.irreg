@@ -833,6 +833,7 @@
 :wd:eo_dem	pron3 masc/neut abl sg
 :wd:ea_dem	pron3 fem abl sg
 :wd:ei_dem	pron3 masc nom pl
+:wd:ii_dem	pron3 masc nom pl
 :wd:eaedem	pron3 fem nom/voc pl
 :wd:eadem	pron3 neut nom/voc/acc pl
 :wd:eo_rundem	pron3 masc/neut gen pl

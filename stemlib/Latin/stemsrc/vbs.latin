@@ -1,3 +1,6 @@
+:le:adipiscor
+:vs:adipisc conj3 dep
+:vs:adept pp4
 :le:abaestuo
 :de:a^b-aestu^	are_vb
 :le:abalieno
@@ -3365,6 +3368,7 @@
 :le:consuesco
 :vs:consu^esc	conj3
 :vs:consu^esue_v perfstem
+:vs:consu^esse perfstem perf inf act syncope
 :vs:consu^esue_t pp4
 :le:consulo
 :vs:consu^l	conj3
@@ -4435,6 +4439,7 @@
 :vs:de_-pre^hend	conj3
 :vs:de_-pre^hend perfstem
 :vs:de_-pre^hens pp4
+:vs:de_-prens pp4
 :le:depretio
 :de:de_pre^ti	are_vb
 :le:deprimo
@@ -4546,6 +4551,12 @@
 :le:desido
 :vs:de_-si_d	conj3
 :vs:de_-si_se_d perfstem
+:le:desilio
+:vs:de_si^l	conj4
+:vs:de_si^lu^	perfstem
+:vs:de_si^liv	perfstem
+:vs:de_su^lu^	perfstem
+
 :le:desino
 :vs:de_-si^n	conj3
 :vs:de_-si^ perfstem
@@ -4695,6 +4706,8 @@
 :vs:de_-tra^h	conj3
 :vs:de_-tra^x perfstem
 :vs:de_-tra^ct pp4
+:le:detrecto
+:de:detrect are_vb 
 :le:detriumpho
 :de:de_-tri^umph	are_vb
 :le:detrudo
@@ -5025,8 +5038,11 @@
 :de:disject	are_vb
 :le:disjungo
 :vs:dis-jung	conj3
+:vs:di-iung	conj3
 :vs:dis-junx perfstem
+:vs:di-iunx perfstem
 :vs:dis-junct pp4
+:vs:di-iunct pp4
 :le:dispalesco
 :vs:dispa_lesc	conj3
 :le:dispalor
@@ -5107,6 +5123,7 @@
 :le:dissero#1
 :vs:dis-se^r	conj3
 :vs:dis-se_v perfstem
+:vs:dis-seru_ perfstem
 :vs:dis-si^t pp4
 :le:dissero#2
 :vs:dis-se^r	conj3
@@ -5116,7 +5133,8 @@
 :de:dissert	are_vb
 :le:dissimulo
 :de:dissi^mu^l	are_vb
-:le:dissupo
+:le:dissipo
+:de:dis-si^p	are_vb
 :de:dis-su^p	are_vb
 :le:dissocio
 :de:dis-so^ci	are_vb

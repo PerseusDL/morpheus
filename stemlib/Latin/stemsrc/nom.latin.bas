@@ -1,3 +1,11 @@
+
+:le:compes1
+:no:compe s_dis fem
+
+:le:conge^ri^es
+:no:conge^ri^ es_ei fem
+:no:conge^ri^ a_as` fem
+
 :le:ab
 :wd:ab	prep
 :wd:a	prep

@@ -714,6 +714,7 @@
 :vb:e_nte_s   irreg_pp1 pres part masc/fem nom/voc pl comp_only
 :vb:e_nta   irreg_pp1 pres part neut nom/voc/acc pl comp_only
 :vb:e_ntum   irreg_pp1 pres part masc/fem/neut gen pl comp_only
+:vb:e_ntium   irreg_pp1 pres part masc/fem/neut gen pl comp_only
 :vb:e_ntibus   irreg_pp1 pres part masc/fem/neut dat pl comp_only
 :vb:e_nte_s   irreg_pp1 pres part masc/fem acc pl comp_only
 :vb:e_ntibus   irreg_pp1 pres part masc/fem/neut abl pl comp_only

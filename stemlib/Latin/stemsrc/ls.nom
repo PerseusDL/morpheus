@@ -54928,7 +54928,7 @@ de^cemvi^ra_tus
 
 de^cem-vi^ri		<gen>m.</gen>
 :le:decemviri
-:no:de^cemvi^r	0_i masc pl
+:no:de^cemvi^r	0_i masc 
 :no:de^cemui^r	0_i masc pl orth
 
 de^cenna_lis		
@@ -63332,6 +63332,8 @@ du^o^-de_-qua_dra_ge_si^mus
 :aj:du^o^-de_-qua_dra_ge_si^m	us_a_um
 
 
+:le:du^o^-de_-qua_^dra_ginta	
+:wd:du^o^-de_-qua_^dra_ginta	numeral
 du^o^-de_-qua_^dra_ginta	
 du^o^-de_-quinqua_ge_ni		<itype>ae, a</itype>
 du^o^-de_-quinqua_ge_si^mus		
@@ -63941,7 +63943,8 @@ e^burne^o^lus
 
 e^burne^us		<itype>and</itype>
 e^bur-nus		
-:le:eburnus
+:le:eburneus
+:aj:e^bur-ne	us_a_um
 :aj:e^bur-n	us_a_um
 
 

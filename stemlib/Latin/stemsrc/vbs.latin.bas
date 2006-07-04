@@ -193,6 +193,12 @@
 :de:de_fati_g	are_vb
 :de:de_feti_g	are_vb
 
+:le:demo
+:vs:de_m conj3
+:vs:demps perfstem
+:vs:dems perfstem
+:vs:dempt pp4
+
 :le:despicio
 :vs:de_-spic	conj3_io
 :vs:de_-spe_x	perfstem
