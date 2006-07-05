@@ -59,8 +59,9 @@ ia.noms:
 	fgrep 0 /tmp/ia.base | awk '{print $$1}' | rev | sort -d | \
 	    rev > /tmp/ia.failed
 
-stemsrc/ls.nom stemsrc/vbs.latin:
-	-[ -f ${LSDIR}/lemmata ] && ${MAKE} ls.morph
+# these files are now stable
+#stemsrc/ls.nom stemsrc/vbs.latin:
+#	-[ -f ${LSDIR}/lemmata ] && ${MAKE} ls.morph
 
 ls.morph:	${LSDIR}/lemmata
 	fgrep ":le:" stemsrc/vbs.latin.bas | cut -d: -f3 | \

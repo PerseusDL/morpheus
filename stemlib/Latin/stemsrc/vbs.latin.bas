@@ -1,3 +1,4 @@
+
 :le:abnuo
 :vs:ab-nu	conj3
 :vs:ab-nu	perfstem
@@ -199,6 +200,9 @@
 :vs:dems perfstem
 :vs:dempt pp4
 
+:le:denso
+:de:dens are_vb
+
 :le:despicio
 :vs:de_-spic	conj3_io
 :vs:de_-spe_x	perfstem
@@ -260,6 +264,22 @@
 :le:exsilio
 :vs:exsi^l	conj4
 :vs:exsi^lu^	perfstem
+
+:le:exsisto
+:vs:exsist conj3
+:vs:exste^t perfstem
+:vs:exist conj3
+:vs:exte^t perfstem
+:vs:exste^t pp4
+:vs:exte^t pp4
+
+:le:exsto
+:de:exst are_vb
+:de:ext are_vb
+
+:le:exspecto
+:de:exspect are_vb
+:de:expect are_vb
 
 :le:exstinguo
 :vs:ex-stingu	conj3
@@ -417,7 +437,9 @@
 
 :le:jacio
 :vs:ja^c	conj3_io no_comp
-:vs:i^c		conj3_io comp_only
+#:vs:i^c		conj3_io comp_only
+# allow for icit
+:vs:i^c		conj3_io 
 :vs:je_c 	perfstem
 :vs:jact 	pp4 no_comp
 :vs:ject 	pp4 comp_only
@@ -551,6 +573,11 @@
 :vs:oboedi_v	perfstem
 :vs:oboedi_t	pp4
 
+:le:obsideo
+:vs:obsid	conj2
+:vs:obse_d	perfstem
+:vs:obsess	pp4
+
 :le:occipio
 :vs:occipi	conj3
 :vs:occe_p	perfstem
@@ -620,6 +647,11 @@
 @ inf
 :vs:pertaes	pp4
 
+:vs:ping	conj3
+:vs:pinx perfstem
+:vs:pepig perfstem
+:vs:pict pp4
+
 :le:pleo
 :vs:pl		conj2
 :vs:ple_v	perfstem comp_only
@@ -640,6 +672,12 @@
 :vs:plic	conj1
 :vs:plicu	perfstem comp_only
 :vs:plicit	pp4 comp_only
+:vs:plicat	pp4 comp_only
+
+:le:possideo
+:vs:possi^d	conj2
+:vs:posse_d perfstem
+:vs:possess pp4
 
 :le:poto
 :vs:po_t	conj1
@@ -656,6 +694,10 @@
 :vs:prend	conj3
 :vs:pre^hend perfstem
 :vs:pre^hens pp4
+
+:le:procido#1
+:vs:proci^d	conj3
+:vs:proci^d	perfstem
 
 :le:pudeo
 :vs:pud		conj2
@@ -711,6 +753,11 @@
 :vs:repper	perfstem
 :vs:repert	pp4
 
+:le:repleo
+:vs:re_^-pl	conj2
+:vs:re_^-ple_v perfstem
+:vs:re_^-ple_t pp4
+
 :le:rumifero
 :de:ru_mifer	are_vb
 
@@ -721,6 +768,12 @@
 
 :le:sacrufico
 :de:sa^_cru^fi^c	are_vb
+
+:le:saevio
+:vs:saev	conj4
+:vs:saevi perfstem
+:vb:saevisse perfstem inf act per syncope
+:vs:saevi_t pp4
 
 :le:salio#1
 :vs:sa^l 	conj4
@@ -741,6 +794,11 @@
 :vs:sap		conj3_io
 :vs:sapi_v	perfstem
 :vs:sapi_	perfstem
+
+:le:satisfacio
+:vs:satisfac conj3_io
+:vs:satisfe_c perfstem
+:vs:staisfact	pp4
 
 :le:scio
 :de:sc	ire_vb
@@ -783,6 +841,12 @@
 :vs:stit 	perfstem comp_only
 :vs:sta^t 	pp4
 :vs:stit	pp4 comp_only
+
+:le:substituo
+:vs:sub-sti^tu^	conj3
+:vs:sub-sti^tu^ perfstem
+:vs:sub-sti^t perfstem
+:vs:sub-sti^tu_t pp4
 
 :le:suesco
 :vs:su^esc	conj3
@@ -864,6 +928,10 @@
 :vs:trah 	conj3
 :vs:trax	perfstem
 :vs:tract	pp4
+
+:le:traveho
+:vs:tra_ve^h	conj3
+:vs:tra_vect	pp4
 
 :le:tollo
 :vs:toll 	conj3

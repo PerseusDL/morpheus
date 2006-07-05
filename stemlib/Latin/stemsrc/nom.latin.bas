@@ -1,10 +1,89 @@
+:le:jusjurandum
+:wd:jusju_randum irreg_nom2 neut nom acc voc sg 
+:wd:jurisju_randi irreg_nom2 neut gen sg 
+:wd:jureju_rando irreg_nom2 neut dat sg 
+:wd:jureju_rando irreg_nom2 neut abl sg 
+:wd:jusju_randa irreg_nom2 neut nom acc voc pl 
+:wd:jurumju_randorum irreg_nom2 neut gen pl 
+:wd:juribusju_randis irreg_nom2 neut dat pl 
+:wd:juribusju_randis irreg_nom2 neut abl pl 
+
+:le:juvenis
+:aj:iuni^ or_us_comp
+
+:le:octies
+:wd:octies adverb
+:wd:octiens adverb
+
+:le:trepidatio
+:no:tre^pi^da_ti o_oLnis fem
+
+:le:sexus
+:no:sex	us_us masc
+
+:le:vix
+:wd:vixdum adverb
+
+:le:ulterior
+:no:ulteri^ or_us_comp
+
+:le:summus
+:wd:summopere adverb
+
+:le:septentriones
+:no:septentri^	o_oLnis masc 
+
+:le:semimas
+:no:semi-m aLs_aris masc
+
+:le:semiermis
+:aj:semierm is_e
+:aj:semerm is_e
+
+:le:segnitia
+:no:segni^ti	a_ae fem
+
+:le:quot
+:wd:quotannis adverb
+
+:le:propior
+:no:pro^pi^ or_us_comp
+
+:le:praeses
+:no:praes es_idis masc fem neut
+
+:le:planities
+:no:pla_ni^ti es_eLi fem
+:no:pla_ni^ti a_ae fem
+
+:le:opties
+:wd:opties adverb
+:wd:optiens adverb
+
+:le:obses
+:no:obs es_idis masc fem
+:no:ops es_idis masc fem
+
+:le:maritimus
+:aj:ma^ri^ti^m	us_a_um
+:aj:ma^ri^tu^m	us_a_um
+
+:le:introrsum
+:wd:introrsum	adverb
+:wd:introrsus	adverb
+
+:le:infrequens
+:aj:in-fre^qu	ens_adj
+
+:le:index
+:no:ind ex_icis masc fem
 
 :le:compes1
 :no:compe s_dis fem
 
 :le:conge^ri^es
 :no:conge^ri^ es_ei fem
-:no:conge^ri^ a_as` fem
+:no:conge^ri^ a_ae fem
 
 :le:ab
 :wd:ab	prep

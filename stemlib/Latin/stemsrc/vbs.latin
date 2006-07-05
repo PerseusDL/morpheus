@@ -2666,8 +2666,11 @@
 :de:compe^rendi^n	are_vb
 :le:comperio
 :vs:com-pe^r	conj4
+:vs:con-pe^r	conj4
 :vs:com-pe^r perfstem
+:vs:con-pe^r perfstem
 :vs:com-pert pp4
+:vs:con-pert pp4
 :le:compesco
 :vs:compesc	conj3
 :vs:compescu perfstem
@@ -3368,7 +3371,7 @@
 :le:consuesco
 :vs:consu^esc	conj3
 :vs:consu^esue_v perfstem
-:vs:consu^esse perfstem perf inf act syncope
+:vb:consu^esse perfstem perf inf act syncope
 :vs:consu^esue_t pp4
 :le:consulo
 :vs:consu^l	conj3
@@ -4297,6 +4300,9 @@
 :le:demo
 :vs:de_m	conj3
 :vs:de_mps perfstem
+:vs:de_ms perfstem
+:vs:de_mpt pp4
+
 :le:demolio
 :de:de_mo_l	ire_vb
 :le:demolior
@@ -5038,11 +5044,11 @@
 :de:disject	are_vb
 :le:disjungo
 :vs:dis-jung	conj3
-:vs:di-iung	conj3
+:vs:diiung	conj3
 :vs:dis-junx perfstem
-:vs:di-iunx perfstem
+:vs:diiunx perfstem
 :vs:dis-junct pp4
-:vs:di-iunct pp4
+:vs:diiunct pp4
 :le:dispalesco
 :vs:dispa_lesc	conj3
 :le:dispalor
@@ -11986,10 +11992,12 @@
 :le:posco
 :vs:posc	conj3
 :vs:po^posc perfstem
+
 :le:possideo
 :vs:possi^d	conj2
-:vs:possi^se_d perfstem
-:vs:possi^sess pp4
+:vs:posse_d perfstem
+:vs:possess pp4
+
 :le:possido
 :vs:possi_d	conj3
 :vs:possi_se_d perfstem
@@ -14012,8 +14020,8 @@
 :vs:re^-plaud	conj3
 :le:repleo
 :vs:re_^-pl	conj2
-:vs:re_v perfstem
-:vs:re_t pp4
+:vs:re_^-ple_v perfstem
+:vs:re_^-ple_t pp4
 :le:replico
 :de:re^-pli^c	are_vb
 :le:replumbo
