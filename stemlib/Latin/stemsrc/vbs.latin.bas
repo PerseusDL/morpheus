@@ -317,6 +317,9 @@
 :vs:fass 	pp4
 :vs:fess 	pp4 comp_only
 
+:le:fatigo
+:de:fa^ti_g	are_vb
+
 :le:fligo
 :vs:fli_g	conj3
 :vs:fli_x	perfstem comp_only

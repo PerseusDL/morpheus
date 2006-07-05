@@ -232,9 +232,9 @@ enclitic_word GreekSuff[] = {
 };
 
 enclitic_word LatinSuff[] = {
+  "que", 0,
   "cumque", 0,
   "cunque", 0,
-  "que", 0,
   "ne", 0,
   "ve", 0,
   "ue", 0,
@@ -409,6 +409,7 @@ checkstring3(gk_word *Gkword)
 	set_workword(Gkword, saveword);
 	return rval;
       }
+	set_workword(Gkword, saveword);
     }
     EnclitArr++;
   }

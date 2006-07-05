@@ -1,3 +1,16 @@
+:le:suus
+:aj:su^	us_a_um
+:wd:suomet us_a_um dat abl masc neut sg
+:wd:suamet us_a_um dat abl fem sg
+:wd:suopte us_a_um dat abl masc neut sg
+:wd:suapte us_a_um dat abl fem sg
+
+:le:proconsul
+:no:proconsul 0_is masc
+
+:le:haud
+:wd:haudquaquam adverb
+
 :le:jusjurandum
 :wd:jusju_randum irreg_nom2 neut nom acc voc sg 
 :wd:jurisju_randi irreg_nom2 neut gen sg 

@@ -29,6 +29,8 @@ int argc;
 char *argv[];
 {
   FILE * finput, *foutput, *ffailed, *fstats;
+
+	finput = foutput = ffailed = fstats = NULL;
   char line[BUFSIZ*4];
   char fname[BUFSIZ],inpname[BUFSIZ], outname[BUFSIZ], failedname[BUFSIZ], statsname[BUFSIZ];
   char destPath[BUFSIZ];
@@ -122,6 +124,7 @@ printf("outname [%s]\n", outname );
   if (optind >= argc) {
     finput = stdin;
     foutput = stdout;
+
     fstats = ffailed = stdout;
   } else {
     strcpy(fname,argv[optind++]);
@@ -134,6 +137,7 @@ printf("outname [%s]\n", outname );
 	sprintf(failedname,"%s.failed",fname);
 	sprintf(statsname,"%s.stats",fname);
       }
+fprintf(stdout,"files: [%s] [%s]\n", outname, failedname);
     } else {
       strcpy(destPath,argv[optind]);
       sprintf(outname,"%s%c%s.morph",destPath, PATH_SEP, fname);
