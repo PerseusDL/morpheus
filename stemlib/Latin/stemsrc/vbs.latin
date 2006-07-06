@@ -2377,8 +2377,11 @@
 :vs:col-li_s pp4
 :le:colligo#1
 :vs:col-li^g	conj3
+:vs:con-li^g	conj3
 :vs:col-le_g perfstem
+:vs:con-le_g perfstem
 :vs:col-lect pp4
+:vs:con-lect pp4
 :le:colligo#2
 :de:col-li^g	are_vb
 :le:collimito
@@ -6998,6 +7001,7 @@
 :vs:fult pp4
 :le:fulgeo
 :vs:fulg	conj2
+:vs:fulg	conj3
 :vs:fuls perfstem
 :le:fulgesco
 :vs:fulgesc	conj3
@@ -7448,6 +7452,7 @@
 :de:immi_^gr	are_vb
 :le:immineo
 :vs:immi^n	conj2
+:vs:inmi^n	conj2
 :le:imminuo
 :vs:immi^nu^	conj3
 :vs:immi^nu^ perfstem
@@ -8246,6 +8251,7 @@
 :vs:in-se^nu perfstem
 :le:insequor
 :vs:in-se^qu	conj3
+:vs:in-se^c	conj3
 :vs:in-se^cu_t pp4
 :le:insero#1
 :vs:in-se^r	conj3
@@ -11933,8 +11939,12 @@
 :vs:plu_mesc	conj3
 :le:plumo
 :de:plu_m	are_vb
+
 :le:pluo
 :vs:plu^	conj3
+:vs:plu	perfstem
+:vs:plu_v	perfstem
+
 :le:poeto
 :de:po^e_t	are_vb
 :le:poetor

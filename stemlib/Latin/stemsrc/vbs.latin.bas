@@ -5,6 +5,9 @@
 :vs:ab-nu_	pp4
 :vs:ab-nui	pp4
 
+:le:adtrecto
+:de:ad-trect	are_vb
+
 :le:adoleo#1
 :vs:ad-ol	conj2
 :vs:ad-olu	perfstem
@@ -108,6 +111,9 @@
 :vs:ci_s	perfstem comp_only
 :vs:ci_s	pp4 comp_only
 
+:le:calumnio
+:de:calumni	are_vb
+
 :le:capesso
 :vs:capess	conj3
 :vs:capiss	conj3
@@ -126,6 +132,11 @@
 :vs:car	conj2
 :vs:caru_	perfstem
 :vs:carit	pp4
+
+:le:caveo
+:vs:ca^v	conj2
+:vs:ca_v perfstem
+:vs:caut pp4
 
 :le:celebro
 :de:cele_br	are_vb
@@ -151,6 +162,9 @@
 :vs:co_m	conj3
 :vs:co_mps 	perfstem
 :vs:co_mpt 	pp4
+
+:le:comprehendo
+:vs:comprens	pp4
 
 :le:consido
 :vs:consi_d 	conj3
@@ -609,6 +623,7 @@
 
 :le:orior
 :vs:or		conj4 dep
+:vs:or		conj3 dep
 :vs:ort		pp4
 
 :le:ostendo
@@ -620,6 +635,9 @@
 :le:ovo
 :vs:ov		conj1
 :vs:ova_t	pp4
+
+:le:paco2
+:de:pac	are_vb
 
 :le:paeniteo
 :vs:paenit	conj2

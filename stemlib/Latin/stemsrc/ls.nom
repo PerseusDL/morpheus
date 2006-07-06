@@ -39151,7 +39151,7 @@ cla_bu^la_rius
 clacendix		<orth type=alt>claxendix</orth>	<orth>calcen-dix</orth>
 cla_des		
 :le:clades
-:aj:cla_d	es_is fem
+:no:cla_d	es_is fem
 
 
 Claeon		
@@ -60630,7 +60630,7 @@ disco^ri^a_ti^o
 
 dis-cors		<itype>cordis</itype>	<pos>adj.</pos>	
 :le:discors
-:wd:dis-cors	adverb
+:aj:dis-cor	s_dis_adj
 
 
 discre_bi^lis		
@@ -71955,6 +71955,7 @@ exspecta_bi^lis		<orth type=alt>expect-</orth>
 exspecta_ti^o		<orth type=alt>expect-</orth>	
 :le:exspectatio
 :no:exspecta_ti^	o_oLnis fem
+:no:expecta_ti^	o_oLnis fem
 
 
 exspecta_tor		<orth type=alt>expect-</orth>	
@@ -92719,7 +92720,8 @@ immu_ni^fi^cus		<orth type=alt>inm-</orth>
 
 immu_nis		<orth>inm-</orth>	<orth>in-moenis</orth>	
 :le:immunis
-:aj:immu_n	is_e
+:aj:im-mu_n	is_e
+:aj:in-mu_n	is_e
 :aj:in-moen	is_e orth
 
 
@@ -106607,6 +106609,7 @@ ju_ge^ra_ti^o
 ju_ge^rum		
 :le:jugerum
 :no:ju_ge^r	us_i neut
+:no:ju_ge^r	0_is neut
 
 
 ju_gi^flu^us		
@@ -114454,7 +114457,7 @@ lo^cu^lus
 
 lo^cu_^ples		<itype>e_tis</itype>	<pos>adj.</pos>	
 :le:locuples
-:wd:lo^cu_^ples	adverb
+:aj:lo^cu_^ple	s_tis_adj
 
 
 lo^cu_^ple_te_	
@@ -118013,6 +118016,9 @@ magni^fi^ce_		<orth>magni^fi^center</orth>
 magni^fi^centi^a		
 :le:magnificentia
 :no:magni^fi^centi^	a_ae fem
+
+:le:magnificens
+:aj:magnific ens_adj
 
 
 magni^fi^ci^um		
@@ -146950,6 +146956,9 @@ parti^bi^lis
 
 parti^ceps		<itype>cipis</itype>	<pos>adj.</pos>	<pos>Adj.</pos>	<pos>prep.</pos>	<pos>Subst.</pos>
 parti^ci^pa_lis		
+:le:particeps
+:no:parti^c	eps_ipis masc fem neut
+
 :le:participalis
 :aj:parti^ci^pa_l	is_e
 
@@ -148599,6 +148608,9 @@ pe^des		<itype>itis</itype>	<gen>m.</gen>
 
 pe^dester		<itype>tris, tre</itype>	<pos>adj.</pos>
 pe^de^temptim		<orth>pe^de^tentim</orth>	
+:le:pedester
+:aj:pe^dest	er_ris_re
+
 :le:pedetemptim
 :wd:pe^de^temptim	adverb
 

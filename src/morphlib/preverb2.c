@@ -130,6 +130,7 @@ CombPbStemL(char *curpb, char *restofs, Dialect dial, MorphFlags *pbflags)
 	if( !strcmp("in",curpb)) {
 		switch(*restofs) {
 			case 'b':
+			case 'l':
 			case 'p':
 			case 'm':
 				add_morphflag(pbflags,RAW_PREVERB);

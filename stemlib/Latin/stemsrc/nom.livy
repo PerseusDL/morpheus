@@ -1,5 +1,6 @@
 :le:Acarnan
 :no:Acarnan	0_is masc fem ethnic
+:wd:Acarnanas	0_is masc fem acc pl ethnic
 
 :le:Aefula
 :no:Aeful	a_ae fem place
@@ -11,7 +12,7 @@
 :no:Angei	as_ae masc person
 
 :le:Antipatrea
-:le:Antipatre	a_ae fem place
+:no:Antipatre	a_ae fem place
 
 :le:Atrax
 :no:Atra	x_cis fem place
@@ -31,8 +32,8 @@
 :le:Celeiates
 :no:Celeiat	es_ae fem place
 
-:le:Celini
-:no:Celin	us_i masc group
+:le:Celines
+:no:Celin	is_is masc group
 
 :le:Cerceii
 :no:Cercei	us_i masc pl place
@@ -59,7 +60,7 @@
 :no:Cyzicen	a_ae fem place
 
 :le:Dassaretii
-:le:Dassaret	ius_i masc fem group
+:no:Dassaret	ius_i masc group
 
 :le:Elaeus
 :no:Elae us_untis fem place
@@ -71,7 +72,7 @@
 :no:Elati	a_ae fem place
 
 :le:Eleusi
-:no:Eleusi	s_nos fem place
+:no:Eleusi	s_nis fem place
 
 :le:Elimia
 :no:Elimi	a_ae fem place
@@ -95,7 +96,7 @@
 :no:Hasdrubal	0_is masc person
 
 :le:Insubris
-:no:Insubr	is_is masc fem neut group
+:no:Insub	er_ris masc fem neut group
 
 :le:Larisa
 :no:Laris	a_ae fem
@@ -116,13 +117,13 @@
 :no:Maloe	a_ae fem place
 
 :le:Maronitae
-:le:Maronit	as_ae masc pl group
+:no:Maronit	as_ae masc pl group
 
 :le:Massiliota
 :no:Massiliot	as_ae masc person
 
 :le:Mendaeum
-:no:Mendae	um_i neut place
+:no:Mendae	us_i neut place
 
 :le:Meropus
 :no:Merop	us_i masc place
@@ -137,7 +138,7 @@
 :no:Op	us_untis fem place
 
 :le:Ottolobum
-:no:Ottolub	us_i neut place
+:no:Ottolob	us_i neut place
 
 :le:Phaeca
 :no:Phaec	a_ae fem place
@@ -152,7 +153,7 @@
 :no:Pherin	ius_i neut place
 
 :le:Philopoemen
-:le:Philopoemen	0_is masc person
+:no:Philopoemen	0_is masc person
 
 :le:Pisias
 :no:Pisi	as_ae masc person

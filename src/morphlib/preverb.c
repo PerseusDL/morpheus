@@ -296,6 +296,9 @@ rstprevb(char *word, char *prevb, gk_string *gstr)
 		if( !strcmp(prevb,"in") ) {
 
 			switch(*word) {
+				case 'l':
+					*t = 'l';
+					break;
 				case 'b':
 				case 'p':
 				case 'm':

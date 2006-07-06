@@ -1,3 +1,16 @@
+:le:duumvir
+:no:duumvir	0_i masc
+
+:le:duodetriginta
+:wd:du^o^de_tri_ginta numeral
+
+:le:colluvio
+:no:collu^vi^	o_oLnis fem
+
+:le:clades
+:no:cla_d	es_is fem
+:wd:cla_dium	es_is fem gen pl
+
 :le:suus
 :aj:su^	us_a_um
 :wd:suomet us_a_um dat abl masc neut sg
@@ -809,6 +822,9 @@
 :no:m	ens_entis fem
 :no:ment	is_is fem nom sg
 
+:le:merces1
+:no:merc	es_idis fem
+
 :le:mercenarius
 :aj:merce_na_ri^	us_a_um
 :aj:mercenna_ri^	us_a_um
@@ -903,6 +919,9 @@
 :le:November
 :aj:Novemb er_ris_re
 :aj:Novembr is_e
+
+:le:novemdialis
+:aj:novemdial	0_adj
 
 :le:nox
 :no:no x_ctis fem
