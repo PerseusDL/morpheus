@@ -609,6 +609,8 @@
 :de:aemu^l	are_vb dep
 :le:aequiparo
 :de:aequi^pa^r	are_vb
+# aequiperare in livy 37
+:de:aequi^pe^r	are_vb
 :le:aequivaleo
 :vs:aequi^-va^l	conj2
 :le:aequo
@@ -1165,8 +1167,9 @@
 :vs:a-scalp	conj3
 :le:ascendo
 :vs:a-scend	conj3
-:vs:a-scenscend perfstem
-:vs:a-scenscens pp4
+:vs:a-scens perfstem
+:vs:a-scend perfstem
+:vs:a-scens pp4
 :le:ascio#1
 :de:asci	are_vb
 :le:ascio#2
@@ -2455,6 +2458,7 @@
 :vs:com-bust pp4
 :le:comissor
 :de:co_miss	are_vb dep
+:de:co_mis	are_vb dep
 :le:comitio
 :de:co^mi^ti	are_vb
 :le:comito
@@ -6498,6 +6502,7 @@
 :vs:ex-su_ct pp4
 :le:exsulo
 :de:exsu^l	are_vb
+:de:exu^l	are_vb
 :le:exsulor
 :de:exsu^l	are_vb dep
 :le:exsulto
@@ -7472,6 +7477,7 @@
 :vs:immiss pp4
 :le:immolo
 :de:immo^l	are_vb
+:de:in-mo^l	are_vb
 :le:immordeo
 :vs:immord	conj2
 :vs:immors pp4
@@ -7504,12 +7510,14 @@
 :le:impedico
 :de:impe^di^c	are_vb
 :le:impedio
-:vs:impe^d	conj4
+:vs:im-pe^d	conj4
+:vs:in-pe^d	conj4
 :vs:impe^di_v perfstem
 :vs:impe^di^ perfstem
 :vs:impe^di_t pp4
 :le:impedito
 :de:impe^di^t	are_vb
+:de:in-pe^di^t	are_vb
 :le:impedo
 :de:impe^d	are_vb
 :le:impello
@@ -10706,8 +10714,11 @@
 :de:opport	are_vb
 :le:opprimo
 :vs:oppri^m	conj3
+:vs:ob-pri^m	conj3
 :vs:oppress perfstem
+:vs:ob-press perfstem
 :vs:oppress pp4
+:vs:ob-press pp4
 :le:opprobro
 :de:oppro_^br	are_vb
 :le:oppugno#1
@@ -10873,6 +10884,7 @@
 :de:pasti^n	are_vb
 :le:patefacio
 :vs:pa^te^fa^c	conj3_io
+:vb:pa^te^fieri	irreg_pp1 pass inf pres
 :vs:pa^te^fe_c perfstem
 :vs:pa^te^fact pp4
 :le:pateo
@@ -14023,6 +14035,7 @@
 :vs:re^-percuss pp4
 :le:repeto
 :vs:re^-pe^t	conj3
+:vs:re^-pe^t	conj2
 :vs:re^-pe^ti_v perfstem
 :vs:re^-pe^ti^ perfstem
 :vs:re^-pe^ti_t pp4
@@ -15601,8 +15614,10 @@
 :vs:suf-foss pp4
 :le:suffrago#2
 :de:suffra_g	are_vb
+:de:sub-fra_g	are_vb
 :le:suffragor
 :de:suffra_g	are_vb dep
+:de:sub-fra_g	are_vb dep
 :le:suffrico
 :de:suf-fri^c	are_vb
 :le:suffringo
@@ -15835,7 +15850,9 @@
 :vs:su^pe^r-impend	conj3
 :le:superimpono
 :vs:su^pe^r-impo_n	conj3
+:vs:su^pe^r-inpo_n	conj3
 :vs:su^pe^r-impo^sit pp4
+:vs:su^pe^r-inpo^sit pp4
 :le:superincendo
 :vs:super-incend	conj3
 :le:superincerno

@@ -13325,8 +13325,10 @@ appendi^cu^la
 
 appendix		<itype>i^cis</itype>
 ampendix		
-:le:ampendix
-:no:ampendi	x_cis masc
+:le:appendix
+:no:ap-pendi^	x_cis masc
+:no:ad-pendi^	x_cis masc
+:no:am-pendi^	x_cis masc
 
 
 appensor		<orth type=alt>adp-</orth>	
@@ -15219,6 +15221,9 @@ A_re_ti^um
 A^re_us		
 :le:Areus
 :aj:A^re_	us_a_um
+
+:le:Areus2
+:no:Are	us_us masc
 
 
 arferia		<itype>aqua, quae inferis libabatur</itype>
@@ -34329,7 +34334,7 @@ Celti^cum
 
 Celti^be_ri		
 :le:Celtiberi
-:no:Celti^be_r	us_i masc pl
+:aj:Celti^be_r	us_a_um
 
 
 Celti^be_r		<itype>e_ri</itype>
@@ -42337,11 +42342,13 @@ co_missa_li^ter		<orth type=alt>co_mess-</orth>
 co_missa_ti^o		<orth type=alt>co_mess-</orth>	
 :le:comissatio
 :no:co_missa_ti^	o_oLnis fem
+:no:co_mi_sa_ti^	o_oLnis fem
 
 
 co_missa_tor		<orth type=alt>co_mess-</orth>	
 :le:comissator
 :no:co_missa_t	or_oLris masc
+:no:co_mi_sa_t	or_oLris masc
 
 
 co^mi^ta_bi^lis		
@@ -46571,6 +46578,9 @@ con-so_pi^o
 con-sors		<itype>sortis</itype>	<gen>f.</gen>
 consors		<itype>sortis</itype>	<gen>c.</gen>
 con-sors		<itype>sortis</itype>	<gen>c.</gen>
+:le:consors
+:no:con-sor	s_tis masc fem neut
+
 consorta_lis		
 :le:consortalis
 :aj:consorta_l	is_e
@@ -60632,8 +60642,11 @@ disco^ri^a_ti^o
 
 
 dis-cors		<itype>cordis</itype>	<pos>adj.</pos>	
-:le:discors
+:le:dis-cors
 :aj:dis-cor	s_dis_adj
+
+:le:con-cors
+:aj:con-cor	s_dis_adj
 
 
 discre_bi^lis		
@@ -78553,8 +78566,8 @@ Frutinal
 frux		<itype>fru_gis</itype>
 fru_ges		<itype>um</itype>
 frugis		
-:le:frugis
-:no:frug	is_is fem
+:le:frux
+:no:fru	x_gis fem
 
 
 frugi	
@@ -82138,6 +82151,9 @@ glanus
 
 
 glans		<itype>glandis</itype>	<gen>f.</gen>
+:le:glans
+:no:glan	s_dis fem
+
 gla_re^a		
 :le:glarea
 :no:gla_re^	a_ae fem
@@ -108137,7 +108153,7 @@ laena
 
 Laenas		
 :le:Laenas
-:no:Laenas	tas_tatis fem
+:no:Laena	s_tis fem
 
 
 laeo^to^mus		
@@ -119145,8 +119161,8 @@ ma^ni^festa_tor
 
 ma^ni^festus		<orth>ma^nu^festus</orth>	
 :le:manifestus
-:aj:ma^ni^fest	us_a_um masc
-:aj:ma^nu^fest	us_a_um masc orth
+:aj:ma^ni^fest	us_a_um 
+:aj:ma^nu^fest	us_a_um orth
 
 ma^ni^festa		<itype>orum</itype>	
 :le:manifesta
@@ -143740,6 +143756,10 @@ Paegni^um
 
 paelex		<orth>pe_lex</orth>	<itype>and, only in inscriptions</itype>
 pellex		<itype>icis</itype>	<gen>f.</gen>
+:le:paelex
+:no:pael ex_icis fem
+:no:pell ex_icis fem
+
 paemi^no_sus		
 :le:paeminosus
 :aj:paemi^no_s	us_a_um
@@ -149576,6 +149596,7 @@ Pe^ni^us
 penna		<orth>pinna</orth>	<orth>pesna</orth>	<orth type=alt>petna</orth>	
 :le:penna
 :no:penn	a_ae fem
+:no:pinn	a_ae fem
 :no:pesn	a_ae fem orth
 
 
@@ -150333,6 +150354,7 @@ percom-mo^de_
 perconta_ti^o		<orth type=alt>percunct-</orth>	
 :le:percontatio
 :no:perconta_ti^	o_oLnis fem
+:no:percuncta_ti^	o_oLnis fem
 
 
 perconta_ti_ve_		<orth type=alt>percunct-</orth>	
@@ -152802,8 +152824,9 @@ Persi^cus
 
 Perseus#1		<itype>e^i and e^os</itype>	<gen>m.</gen>
 Per-se_us		
-:le:Perseus
-:aj:Per-se_	us_a_um
+:le:Perseus1
+:no:Per-se_	us_i masc
+:no:Per-s	eus_ei masc
 
 
 Per-se_i+us		
@@ -170730,7 +170753,10 @@ qua_^-dra_ge_si^ma
 :no:qua_^-dra_ge_si^m	a_ae fem
 
 
-qua_^dra_gi^es		<pos>adv. num.</pos>
+:le:quadragies
+:wd:qua_^dra_gi^es	numeral
+:wd:qua_^dra_gi^ens	numeral
+
 qua_^dra_ginta_		<pos>num. adj.</pos>
 qua_^drangu^la_tus		
 :le:quadrangulatus
@@ -186165,6 +186191,7 @@ septe_na_ri^us
 septende^cim		<orth>sep-temde^cim</orth>	<pos>num. adj.</pos>
 :le:septendecim
 :wd:septende^cim	numeral
+:wd:septemde^cim	numeral
 
 septe_ni		<itype>ae, a</itype>
 septentri^o_na_lis		
@@ -189824,7 +189851,7 @@ so_cordi^a		<orth>se_cordi^a</orth>
 
 so_cors		<itype>cordis</itype>	<pos>adj.</pos>	
 :le:socors
-:wd:so_cors	adverb
+:aj:so_cor	s_dis_adj
 
 
 so^cor-di^ter	
@@ -190205,14 +190232,11 @@ so_li^va^gus
 :aj:so_li^va^g	us_a_um
 
 
-sollemne		
-:le:sollemne
-:no:sollemn	is_is neut
-
 
 sol-lemne		
-:le:sollemne
-:no:sol-lemn	is_is neut
+:le:sollemnis
+:no:sollemn	is_e
+:no:sollemn	is_is neut
 
 	<pos>adv.</pos>
 sollemni^ter		<orth>sollenn-, so_lemn-</orth>	<pos>adj.</pos>	
@@ -197601,6 +197625,7 @@ sulfur		<orth>sulphur</orth>	<orth>sulpur</orth>
 :le:sulfur
 :no:sulfur	0_is neut
 :no:sulpur	0_is neut orth
+:no:sulphur	0_is neut orth
 
 
 
@@ -209412,6 +209437,9 @@ tri^-pe^da_ne^us
 
 
 tri^-pe_s		<itype>e^dis</itype>	<pos>adj.</pos>
+:le:tripes
+:aj:trip	es_eLdis masc fem neut
+
 tri^pe^ti^a		
 :le:tripetia
 :no:tri^pe^ti^	a_ae fem
@@ -209856,7 +209884,7 @@ tri^umvi^ra_tus
 
 triumvi^ri		<orth>tresvi^ri</orth>	<orth>IIIvi^ri</orth>	<itype>o_rum or u_m</itype>	<gen>m.</gen>
 :le:triumviri
-:no:triumvi^r	us_i masc pl
+:no:triumvi^r	0_i masc 
 
 tri^uncis		
 :le:triuncis
@@ -214554,6 +214582,9 @@ ve_cordia
 :no:ve_cordi	a_ae fem
 
 
+:le:vecors
+:aj:ve_-cor	s_dis_adj
+:aj:vae-cor	s_dis_adj
 ve_-cors		<orth type=alt>va_ecors</orth>	<itype>cordis</itype>	<pos>adj.</pos>
 vecta_bi^lis		
 :le:vectabilis

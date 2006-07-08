@@ -131,6 +131,7 @@ niv@decl3_i 	irreg_nom3 fem
 :wd:huius	demonstr masc/fem/neut gen sg
 :wd:huiusce	demonstr masc/fem/neut gen sg
 :wd:huic	demonstr masc/fem/neut dat sg
+:wd:huici	demonstr masc/fem/neut dat sg
 :wd:hunc demonstr masc acc sg
 :wd:hanc demonstr fem acc sg
 :wd:ho_c demonstr masc neut abl sg
@@ -459,6 +460,7 @@ si_@quis	interrog
 :wd:ipsum demonstr neut nom voc acc sg
 :wd:ipsa demonstr fem nom voc sg
 :wd:ipsus demonstr masc nom voc sg early
+:wd:eopse demonstr masc neut dat abl sg 
 ips@ille demonstr
 
 :le:is
@@ -589,6 +591,7 @@ mor@decl3	irreg_nom3	masc
 
 :le:complures
 complur@decl3_i irreg_adj3 pl
+complur@decl3 irreg_adj3 pl
 
 :le:multus
 plus	irreg_adj3 nom/acc sg irreg_comp

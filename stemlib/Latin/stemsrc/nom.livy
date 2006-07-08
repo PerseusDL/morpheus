@@ -432,6 +432,9 @@
 :le:Cephallania
 :no:Cephallani	a_ae fem
 
+:le:Cephallanus
+:aj:Cephallan	us_a_um
+
 :le:Cissus
 :no:Ciss	us_untis fem place
 
@@ -523,3 +526,223 @@
 :le:Zeuxis
 :no:Zeux	is_idis fem
 
+:le:celox
+:no:celo	x_cis masc
+
+## from livy 38
+
+:le:Abbassium
+:no:Abbass	ius_i neut place
+
+:le:Acoris
+:no:Acor	is_idis fem place
+:wd:Acoridos	is_idis fem gen sg place
+
+:le:Alandrum
+:no:Alandr	us_i neut river
+
+:le:Alyattus
+:no:Alyatt	us_i masc
+
+:le:Ambracieusis
+:no:Ambracieus	is_e
+
+:le:Arethontes
+:no:Arethont	es_ae fem
+
+:le:Astii
+:no:Ast	ius_i masc
+
+:le:Belbinates
+:no:Belbinat	es_ae fem place
+
+:le:Beudi
+:no:Beud	us_i masc
+
+:le:Cappadox
+:no:Cappado	x_cis masc fem
+
+:le:Comboiomarus
+:no:Comboiomar	us_i masc
+
+:le:Coreli
+:no:Corel	us_i masc
+
+:le:Cyatides
+:no:Cyatid	es_ae fem place
+
+:le:Dolopes
+:no:Dolop	0_is masc fem pl
+
+:le:Dyniae
+:no:Dyni	a_ae fem pl place
+
+:le:Eposognatus
+:no:Eposognat	us_i masc 
+
+:le:Gaulotus
+:no:Gaulot	us_i masc person
+
+:le:Gergithum
+:no:Gergith	us_i neut
+
+:le:Gordiutichi
+:no:Gordiutich	us_i masc
+
+:le:Halys
+:no:Hal	ys_yos fem
+
+:le:Las
+:wd:Las	irreg_nom3 masc nom sg
+:wd:Lan irreg_nom3 masc acc sg
+
+:le:Leusus
+:no:Leus	us_i masc
+
+:le:Lonorius
+:no:Lonor	ius_i masc
+
+:le:Madamprum
+:no:Madampr	us_i neut place
+
+:le:Massaliota
+:no:Massaliot	a_ae masc
+
+:le:Milyas
+:no:Mily	as_adis fem place
+
+:le:Muttin
+:no:Muttin	0_is masc fem
+
+:le:Orgiagon
+:no:Orgiag	on_ontis masc
+
+:le:Ortiago
+:no:Ortiag	o_oLnis masc
+
+:le:Palensis
+:aj:Palens	is_e
+
+:le:Phryx
+:no:Phry	x_gis masc fem
+
+:le:Pleminianum
+:no:Pleminian	us_i neut place
+
+:le:Priaticus
+:aj:Priatic	us_a_um
+
+:le:Rhotrinus
+:no:Rhotrin	us_a_um
+
+:le:Same
+:no:Sam	e_es fem place
+
+:le:Sylleum
+:no:Sylle	us_i neut place
+
+:le:Thraex
+:no:Thrae	c_cis masc fem group
+
+:le:Tyscon
+:no:Tysc	on_ontis neut place
+
+:le:Ziboeta
+:no:Ziboet	a_ae masc person
+
+# livy 39
+
+
+:le:Aburius
+:no:Abur	ius_i masc
+
+:le:Aebutirus
+:no:Aebutir	us_i masc
+
+:le:Auginum
+:no:Augin	us_i masc place
+
+:le:Ballista
+:no:Ballist	a_ae fem place
+
+:le:Casander
+:no:Casand	er_ri masc
+
+:le:Cephallen
+:no:Cephallen	0_is masc fem
+
+:le:Compasium
+:no:Compas	ius_i neut
+
+:le:Corbio
+:no:Corbi	o_oLnis masc 
+
+:le:Denter
+:no:Dent	er_ri masc
+
+:le:Dentheleti
+:no:Denthelet	us_i masc pl person
+
+:le:Dipo
+:no:Dip	o_oLnis masc
+
+:le:Hastensis
+:no:Hastens	is_e
+
+:le:Menelaides
+:no:Menelaid	es_ae masc
+
+:le:Paculla
+:no:Pacull	a_ae fem place
+
+:le:Parachelois
+:no:Paracheloi	s_dis fem place
+
+:le:Taurii
+:no:Taur	ius_i masc 
+
+#livy 40
+:le:Archo
+:no:Arch	o_oLnis fem person
+
+:le:Bastarna
+:no:Bastarn	a_ae masc
+
+:le:Chaunum
+:no:Chaun	us_i neut
+
+:le:Clondicus
+:no:Clondic	us_i masc person
+
+:le:Didas
+:no:Did	as_ae masc
+
+:le:Donuca
+:no:Donuc	a_ae fem place
+
+:le:Erucina
+:no:Erucin	a_ae fem
+
+:le:Poridis
+:no:Porid	is_is masc person
+
+:le:Stuberaeus
+:no:Stuberae	us_i masc
+
+:le:Taurasinus
+:no:Taurasin	us_a_um
+
+:le:Terracina
+:no:Terracin	a_ae fem place
+
+:le:Thurri
+:no:Thurr	ius_i masc
+
+:le:Vilius
+:no:Vili	us_i masc person
+
+:le:Vrbicua
+:no:Vrbicu	a_ae fem place
+
+:le:Xychus
+:no:Xych	us_i masc person

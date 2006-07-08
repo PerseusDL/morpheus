@@ -1,3 +1,15 @@
+:le:transmontanus
+:aj:transmonta_n	us_a_um
+
+:le:tricesimus
+:aj:tri_ce_si^m	us_a_um
+
+:le:abacus
+:no:a^ba^c	us_i masc
+
+:le:municeps
+:no:mu_ni^c	eps_ipitis masc fem
+
 :le:undenonaginta
 :wd:undenonaginta numeral
 
@@ -423,6 +435,9 @@
 
 :le:cottidie
 :wd:coti_-di^e_        adverb
+:wd:cotti_-di^e_        adverb
+:wd:quotti_-di^e_        adverb
+:wd:quoti_-di^e_        adverb
 
 :le:creber
 :aj:cre_b er_ra_rum

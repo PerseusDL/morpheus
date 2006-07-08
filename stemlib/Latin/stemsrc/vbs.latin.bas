@@ -1,3 +1,11 @@
+:le:transilio
+:de:transi^l	ire_vb
+:vs:transi^l	conj3_io
+:vs:transi^li	perfstem
+
+:le:comminiscor
+:vs:commi^nisc	conj3
+
 :le:resipisco
 :vs:re^si^pisc	conj3
 
@@ -306,15 +314,21 @@
 
 :le:exstinguo
 :vs:ex-stingu	conj3
+:vs:ex-tingu	conj3
 :vs:ex-stinx	perfstem
+:vs:ex-tinx	perfstem
 :vs:ex-stinct	perfstem
+:vs:ex-tinct	perfstem
 :vb:extinxem	perfstem 1st sg plup subj act contr
 :vb:exstinxti	perfstem 2nd sg perf ind act contr
 
 :le:implico
-:vs:implic	are_vb
+:de:implic	are_vb
+:de:in-plic	are_vb
 :vs:implicu	perfstem
+:vs:in-plicu	perfstem
 :vs:implici	pp4
+:vs:in-plici	pp4
 
 :le:explico
 :vs:explic	are_vb
@@ -402,6 +416,7 @@
 
 :le:impedio
 :de:impe^d 	ire_vb
+:de:in-pe^d 	ire_vb
 
 :le:impero
 :de:imper	are_vb
@@ -467,6 +482,7 @@
 # allow for icit
 :vs:i^c		conj3_io 
 :vs:je_c 	perfstem
+:vs:i_c 	perfstem
 :vs:jact 	pp4 no_comp
 :vs:ict 	pp4 
 :vs:ject 	pp4 comp_only
@@ -828,7 +844,7 @@
 
 :le:satisfacio
 :vs:satisfac conj3_io
-:vb:satisfieri irreg_pp1 perf pres inf 
+:vb:satisfieri irreg_pp1 pres inf pass
 :vs:satisfe_c perfstem
 :vs:staisfact	pp4
 
