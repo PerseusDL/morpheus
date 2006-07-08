@@ -1,3 +1,8 @@
+:le:aspergo1
+:vs:asperg	conj3
+:vs:aspers	perfstem
+:vs:aspers	pp4
+
 :le:transilio
 :de:transi^l	ire_vb
 :vs:transi^l	conj3_io
@@ -182,6 +187,7 @@
 
 :le:comprehendo
 :vs:comprens	pp4
+:vs:conprens	pp4
 
 :le:consido
 :vs:consi_d 	conj3

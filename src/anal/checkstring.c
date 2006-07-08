@@ -239,6 +239,7 @@ enclitic_word LatinSuff[] = {
   "ve", 0,
   "ue", 0,
   "libet", 0,
+  "dem", 0,
   "met", PRONOUN|PERS_PRON,
   "", 0				/* sentinel */
 };

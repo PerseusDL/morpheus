@@ -127,7 +127,8 @@
 :no:pign	us_oris neut
 
 :le:pontifex
-:no:pontif	ex_icis masc
+:no:ponti^f	ex_icis masc
+:no:pontu^f	ex_icis masc
 
 :le:praequam
 :wd:praequam	conj

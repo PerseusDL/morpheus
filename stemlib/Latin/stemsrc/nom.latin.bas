@@ -1,3 +1,6 @@
+:le:interrex
+:no:inter-re	x_gis masc
+
 :le:transmontanus
 :aj:transmonta_n	us_a_um
 

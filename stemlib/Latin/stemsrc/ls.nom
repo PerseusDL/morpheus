@@ -1204,6 +1204,7 @@ Acco
 acco^la		
 :le:accola
 :no:acco^l	a_ae fem
+:no:ad-co^l	a_ae fem
 
 	<itype>Tacitus</itype>	<pos>adj.</pos>
 accommo^da_ti^o		
@@ -106291,6 +106292,7 @@ jo^ca_ti^o
 jo^ci^nor		
 :le:jocinor
 :no:jo^ci^nor	0_is masc
+:no:jo^ci^ner	0_is masc
 
 
 jo^co	
@@ -133184,8 +133186,10 @@ Neptu_nus
 ne^pu_s	
 ne_qua_lia		<itype>detrimenta</itype>
 ne_quam		<orth>ne_-quam</orth>	
+
 :le:nequam
 :wd:ne_quam	adverb
+:aj:nequi	or_us_comp
 
 :wd:ne_-quam	adverb orth
 
@@ -141496,6 +141500,7 @@ o_ra_cu^la_ri^us
 o_ra_cu^lum		
 :le:oraculum
 :no:o_ra_cu^l	us_i neut
+:no:o_ra_cl	us_i neut syncope
 
 
 o_ra_ri^um		

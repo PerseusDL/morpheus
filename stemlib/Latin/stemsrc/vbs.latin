@@ -2749,8 +2749,11 @@
 :de:compress	are_vb
 :le:comprimo
 :vs:com-pri^m	conj3
+:vs:con-pri^m	conj3
 :vs:com-press perfstem
+:vs:con-press perfstem
 :vs:com-press pp4
+:vs:con-press pp4
 :le:comprobo
 :de:com-pro^b	are_vb
 :le:compromitto
@@ -7430,8 +7433,10 @@
 :le:imbubino
 :de:imbubi^n	are_vb
 :le:imbuo
-:vs:imbu^	conj3
-:vs:imbu^ perfstem
+:vs:im-bu^	conj3
+:vs:in-bu^	conj3
+:vs:im-bu^ perfstem
+:vs:in-bu^ perfstem
 :vs:imbu_t pp4
 :le:imitor
 :de:i^mi^t	are_vb dep
@@ -8072,7 +8077,7 @@
 :de:in-gra^v	are_vb
 :le:ingruo
 :vs:ingru^	conj3
-:vs:ingru^u^ perfstem
+:vs:ingru^ perfstem
 :le:ingurgito
 :de:ingurgi^t	are_vb
 :le:ingusto

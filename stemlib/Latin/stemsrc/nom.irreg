@@ -960,18 +960,31 @@
 :wd:moribus   irreg_nom3 masc abl pl
 
 :le:complures
+:wd:conplure_s   irreg_adj3 masc/fem nom/voc pl
 :wd:complure_s   irreg_adj3 masc/fem nom/voc pl
 :wd:complure_s   irreg_adj3 masc/fem nom/voc pl
+:wd:conplure_s   irreg_adj3 masc/fem nom/voc pl
 :wd:complura   irreg_adj3 neut nom/voc/acc pl
+:wd:conplura   irreg_adj3 neut nom/voc/acc pl
+:wd:conpluria   irreg_adj3 neut nom/voc/acc pl
 :wd:compluria   irreg_adj3 neut nom/voc/acc pl
+:wd:conplurum   irreg_adj3 gen pl
+:wd:conplurium   irreg_adj3 gen pl
 :wd:complurium   irreg_adj3 gen pl
 :wd:complurum   irreg_adj3 gen pl
+:wd:conpluribus   irreg_adj3 dat pl
 :wd:compluribus   irreg_adj3 dat pl
+:wd:conpluribus   irreg_adj3 dat pl
 :wd:compluribus   irreg_adj3 dat pl
+:wd:complure_s   irreg_adj3 masc/fem acc pl
+:wd:conpluri_s   irreg_adj3 masc/fem acc pl
+:wd:conplure_s   irreg_adj3 masc/fem acc pl
+:wd:conplure_s   irreg_adj3 masc/fem acc pl
 :wd:compluri_s   irreg_adj3 masc/fem acc pl
 :wd:complure_s   irreg_adj3 masc/fem acc pl
-:wd:complure_s   irreg_adj3 masc/fem acc pl
+:wd:conpluribus   irreg_adj3 abl pl
 :wd:compluribus   irreg_adj3 abl pl
+:wd:conpluribus   irreg_adj3 abl pl
 :wd:compluribus   irreg_adj3 abl pl
 
 :le:multus

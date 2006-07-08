@@ -591,7 +591,9 @@ mor@decl3	irreg_nom3	masc
 
 :le:complures
 complur@decl3_i irreg_adj3 pl
+con-plur@decl3_i irreg_adj3 pl
 complur@decl3 irreg_adj3 pl
+con-plur@decl3 irreg_adj3 pl
 
 :le:multus
 plus	irreg_adj3 nom/acc sg irreg_comp

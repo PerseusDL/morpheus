@@ -888,6 +888,7 @@
 
 :le:nequeo
 :vb:nequeo	irreg_pp1 1st sg pres indic act
+:vs:nequ	conj4 subj
 :vb:nequi_s	irreg_pp1 2nd sg pres indic act
 :vb:nequit	irreg_pp1 3rd sg pres indic act
 :vb:nequi_mus	irreg_pp1 1st pl pres indic act
