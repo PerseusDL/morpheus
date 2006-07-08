@@ -1,3 +1,10 @@
+:le:resipisco
+:vs:re^si^pisc	conj3
+
+:le:texo
+:vs:tex	conj3
+:vs:texu	perfstem
+:vs:text	pp4
 
 :le:abnuo
 :vs:ab-nu	conj3
@@ -56,7 +63,9 @@
 :vs:arcess	conj3
 :vs:accers	conj3
 :vs:arcessi_v	perfstem
+:vs:arcessi_	perfstem
 :vs:accersi_v	perfstem
+:vs:accersi_	perfstem
 :vs:arcessi_t	pp4
 :vs:accersi_t	pp4
 :vs:arcess	conj4
@@ -459,6 +468,7 @@
 :vs:i^c		conj3_io 
 :vs:je_c 	perfstem
 :vs:jact 	pp4 no_comp
+:vs:ict 	pp4 
 :vs:ject 	pp4 comp_only
 
 :le:juvo
@@ -818,6 +828,7 @@
 
 :le:satisfacio
 :vs:satisfac conj3_io
+:vb:satisfieri irreg_pp1 perf pres inf 
 :vs:satisfe_c perfstem
 :vs:staisfact	pp4
 
@@ -952,6 +963,7 @@
 
 :le:traveho
 :vs:tra_ve^h	conj3
+:vs:tra_vex	perfstem
 :vs:tra_vect	pp4
 
 :le:tollo

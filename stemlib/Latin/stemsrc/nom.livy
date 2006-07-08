@@ -1,6 +1,7 @@
 :le:Acarnan
 :no:Acarnan	0_is masc fem ethnic
 :wd:Acarnanas	0_is masc fem acc pl ethnic
+:wd:Acarnana	0_is masc fem acc sg ethnic
 
 :le:Aefula
 :no:Aeful	a_ae fem place
@@ -16,6 +17,7 @@
 
 :le:Atrax
 :no:Atra	x_cis fem place
+:no:Atra	x_gis fem place
 
 :le:Attalis
 :no:Attal	is_idis fem group
@@ -110,8 +112,8 @@
 :le:Longarus
 :no:Longar	us_i masc person
 
-:le:Macedones
-:no:Maced	oLn_oLnis masc fem pl group
+:le:Macedo
+:no:Maced	o_oLnis masc fem group
 
 :le:Maloea
 :no:Maloe	a_ae fem place
@@ -199,3 +201,325 @@
 
 :le:Veii
 :no:Ve	ius_i fem pl 
+
+:le:Acylla
+:no:Acyll	a_ae fem place
+
+:le:Agrianas
+:no:Agri	an_aLnis masc group
+
+:le:Apelaurum
+:no:Apelaur	us_i neut place
+
+:le:Aphthires
+:no:Aphthir	0_is masc person
+
+:le:Armenes
+:no:Armen	es_ae masc person
+
+:le:Astragon
+:no:Astrag	on_ontis neut place
+
+:le:Baesadines
+:no:Baesadin	es_ae masc person
+
+:le:Baldo
+:no:Bald	o_oLnis fem place
+
+:le:Bergistanus
+:no:Bergistan	us_i group
+
+:le:Bergium
+:no:Berg	ius_i neut place
+
+:le:Bilistagis
+:no:Bilistag	is_is masc person
+
+:le:Blasio
+:no:Blasi	o_oLnis masc
+
+:le:Boiorix
+:no:Boiori	Boiori x_cis masc
+
+:le:Budaris
+:no:Budar	is_is masc person
+
+:le:Buteo
+:no:Bute	o_oLnis masc person
+
+:le:Capenas
+:no:Capena	s_tis fem
+
+:le:Carmo
+:no:Carm	o_oLnis masc
+
+:le:Copais
+:no:Copa	is_idis fem place
+
+:le:Corolamus
+:no:Corolam	us_i masc person
+
+:le:Culchas
+:no:Culch	as_ae masc person
+
+:le:Cyclades
+:no:Cycl	as_adis fem pl place 
+
+:le:Cydas
+:no:Cyd	as_antis masc person
+
+:le:Cylarabis
+:no:Cylarab	is_is fem person
+
+:le:Dexagoridas
+:no:Dexagorid	as_ae masc person
+
+:le:Dictynneum
+:no:Dictynne	us_i neut place
+
+:le:Dorulatus
+:no:Dorulat	us_i masc person
+
+:le:Emporitani
+:no:Emporitan	us_i masc pl group
+
+:le:Gorgopas
+:no:Gorgop	as_ae masc person
+
+:le:Hegesianax
+:no:Hegesiana	x_ctis masc person
+
+:le:Ilotae
+:no:Ilot	a_ae masc fem group
+
+:le:Libertas
+:no:Libert as_atis fem
+
+:le:Ligurius
+:no:Ligur	ius_i masc person
+
+:le:Luxinius
+:no:Luxin	ius_i masc person
+
+:le:Lysimachensis
+:no:Lysimachens	is_e group
+
+:le:Magnetes
+:no:Magnet	as_ae fem pl
+
+:le:Malacini
+:no:Malacin	us_i masc group
+
+:le:Naris
+:no:Nar	es_is fem
+
+:le:Nicestratus
+:no:Nicestrat	us_i masc
+
+:le:Nisuetae
+:no:Nisuet	a_ae masc pl
+
+:le:Oenus
+:no:Oen	us_untis masc
+
+:le:Peonus
+:aj:Peon	us_a_um
+
+:le:Phillippus
+:no:Phillipp	us_i masc person
+
+:le:Pisuetae
+:no:Pisuet	a_ae masc person
+
+:le:Plataeensis
+:aj:Plataeens	is_e
+
+:le:Pulcher
+:aj:Pulch	er_ra_rum
+
+:le:Scotusaeus
+:aj:Scotusae	us_a_um
+
+:le:Sexetanus
+:no:Sexetan	us_a_um group
+
+:le:Sosilas
+:no:Sosil	as_ae masc person
+
+:le:Stratonidas
+:no:Stratonid	as_ae masc
+
+:le:Tamianus
+:no:Tamian	us_i masc
+
+:le:Thetideum
+:no:Thetide	us_i neut
+
+:le:Timocrates
+:no:Timocrat	es_ae masc person
+
+:le:Turda
+:no:Turd	a_ae fem place
+
+:le:Zeuxidas
+:no:Zeuxid	as_ae masc person
+
+#names for Livy 35
+:le:Bovarium
+:no:Bovari	us_i neut
+
+:le:Candina
+:no:Candin	a_ae fem place
+
+:le:Chaeronia
+:no:Chaeroni	a_ae fem place
+
+:le:Conribilo
+:no:Conribil	o_oLnis masc person
+
+:le:Euthymidas
+:no:Euthymid	as_ae masc person
+
+:le:Frentinum
+:no:Frentin	us_i neut place
+
+:le:Helone
+:no:Helon	e_es fem place
+
+:le:Hilernus
+:no:Hilern	us_i masc person
+
+:le:Inlucia
+:no:Inluci	a_ae fem
+
+:le:Innius
+:no:Inn	ius_i masc person
+
+:le:Iugarium
+:no:Iugar	ius_i neut place
+
+:le:Lacon
+:no:Lac	oLn_oLnis masc fem group
+
+:le:Licabrum
+:no:Licabr	us_i neut place
+
+:le:Micythio
+:no:Micythi	o_oLnis masc person
+
+:le:Minnio
+:no:Minni	o_oLnis masc person
+
+:le:Polyxenidas
+:no:Polyxenid	as_ae masc person
+
+:le:Tappo
+:no:Tapp	o_oLnis masc person
+
+:le:Tiso
+:no:Tis	o_oLnis masc person
+
+:le:Trigemina
+:no:Trigemin	a_ae fem place
+
+:le:Xenoclides
+:no:Xenoclid	es_ae masc person
+
+# livy 36
+:le:Bullinum
+:no:Bullin	us_i neut
+
+:le:Cephallania
+:no:Cephallani	a_ae fem
+
+:le:Cissus
+:no:Ciss	us_untis fem place
+
+:le:Crannon
+:no:Crann	oLn_oLnis fem place
+
+:le:Dicaerchum
+:no:Dicaerch	us_i masc person
+
+:le:Euphanes
+:no:Euphan	es_ae masc
+
+:le:Heracleensis
+:no:Heracleens	is_e
+
+:le:Hypatensis
+:no:Hypatens	is_e
+
+:le:Larisacus
+:aj:Larisac	us_a_um
+
+:le:Limnaeum
+:no:Limnae	us_i neut
+
+:le:Melas
+:no:Mel	as_anis fem
+
+:le:Menesta
+:no:Menest	a_ae fem place
+
+:le:Pellinacum
+:no:Pellinac	us_i neut
+
+:le:Phoenicus
+:no:Phoenic	us_untis fem place
+
+:le:Thyrreensis
+:aj:Thyrreens	is_e
+
+:le:Thyrreum
+:no:Thyrre	us_i neut
+
+# livy 37
+:le:Adramytteum
+:no:Adramytte	us_i neut place
+
+:le:Aethalia
+:no:Aethali	a_ae fem
+
+:le:Chariclitus
+:no:Chariclit	us_i masc
+
+:le:Elaeensis
+:aj:Elaeens is_e
+
+:le:Eudamus
+:no:Eudam	us_i masc
+
+:le:Hybristas
+:no:Hybrist	as_ae masc person
+
+:le:Hydrelitanum
+:no:Hydrelitan	us_i neut
+
+:le:Iasensis
+:no:Iasens	is_e
+
+:le:Lampter
+:no:Lampt	er_eris masc person
+
+:le:Lautumias
+:no:Lautumi	as_ae masc
+
+:le:Mitylenaeus
+:aj:Mitylenae	us_a_um
+
+:le:Pamphilidas
+:no:Pamphilid	as_ae masc person
+
+:le:Telmessium
+:no:Telmess	ius_i neut place
+
+:le:Timasicrates
+:no:Timasicrat	es_ae masc person
+
+:le:Troas
+:no:Troa	s_dis fem place
+
+:le:Zeuxis
+:no:Zeux	is_idis fem
+

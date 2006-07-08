@@ -3845,8 +3845,8 @@ Aecu^la_-nenses		<orth>Aecla_nenses</orth>	<itype>ium</itype>
 Aecu^la_ni	
 aede_s		<orth>aedis</orth>	
 :le:aedes
-:aj:aed	es_is fem
-:aj:aed	es_is fem orth
+:no:aed	es_is fem
+:no:aed	is_is fem
 
 
 	<orth type=alt>hive</orth>
@@ -15053,7 +15053,9 @@ arduum
 :no:ardu	us_i neut
 
 
-a_re^a	
+:le:area	
+:no:a_re^	a_ae fem
+	
 a_re^a_lis		
 :le:arealis
 :aj:a_re^a_l	is_e
@@ -58238,6 +58240,7 @@ de_tracto_rius
 de_trecta_ti^o		<orth type=alt>de_tract-</orth>	
 :le:detrectatio
 :no:de_trecta_ti^	o_oLnis fem
+:no:de_tracta_ti^	o_oLnis fem
 
 
 de_trecta_tor		<orth type=alt>de_tract-</orth>	
@@ -63305,6 +63308,7 @@ du^o^de^cim		<orth type=alt>XII.</orth>
 du^o^-de^ci^mus		
 :le:duodecimus
 :aj:du^o^-de^ci^m	us_a_um
+:aj:du^o^-de^cu^m	us_a_um
 
 
 du^o^de^ci^mo	
@@ -132453,7 +132457,7 @@ nec-non		<itype>also separately</itype>
 nec non		<orth>ne^que^ non</orth>
 ne^c-o^pi_nans		<orth>ne^c o^pi_nans</orth>	<itype>antis</itype>	
 :le:necopinans
-:wd:ne^c-o^pi_nans	adverb
+:aj:ne^c-o^pi_n	ans_adj
 
 
 ne^co^pi_nanter	
@@ -158190,6 +158194,7 @@ plaustrum
 plausus#3		<orth>plo_sus</orth>	<orth>plausus</orth>	
 :le:plausus#3
 :no:plaus	us_i masc
+:no:plaus	us_us masc
 :no:plo_s	us_i masc orth
 
 
@@ -174726,6 +174731,7 @@ re_^li^qui^ae		<orth>relli^qu-</orth>
 re^li^quus		<orth>re^li^cuus, rell-</orth>	<orth type=alt>-qus</orth>	
 :le:reliquus
 :aj:re^li^qu	us_a_um
+:aj:re^li^c	us_a_um
 
 
 re^li^quum		<orth type=alt>-quom</orth>	
@@ -210374,7 +210380,9 @@ Tu_bertus
 :no:Tu_bert	us_i masc
 
 
-tu^bi^cen		<itype>ci^nis</itype>	<gen>m.</gen>
+:le:tubicen
+:no:tu^bi^c	en_inis masc 
+
 tu^bi^lustri^um		<orth>tu^bu^lustri^um</orth>	
 :le:tubilustrium
 :no:tu^bi^lustr	ius_i neut
@@ -212062,6 +212070,7 @@ umbra
 umbra_cu^lum		
 :le:umbraculum
 :no:umbra_cu^l	us_i neut
+:no:umbra_cl	us_i neut
 
 
 umbra_li^ter		
@@ -215920,6 +215929,10 @@ ve_ri^lo^quus
 
 
 ve_ri^si^mi^lis		<orth type=alt>ve_ri^si^mi^li^ter</orth>	<orth>ve_ri^si^mi^li^tu_do</orth>	<itype>more correctly written separately</itype>
+
+:le:verisimilis
+:aj:ve_ri^si^mi^l is_e
+
 ve_ri_ si^mi^lis	
 ve_ri^tas		
 :le:veritas

@@ -1,3 +1,52 @@
+:le:undenonaginta
+:wd:undenonaginta numeral
+
+:le:sescenti
+:wd:sexcenti	numeral
+
+:le:sarisophorus
+:no:sarisophor	us_i masc
+
+:le:tegimen
+:no:te^gi^m en_inis neut
+:no:te^gu^m en_inis neut
+
+:le:sedecim
+:wd:sexdecim numeral
+
+:le:paluster
+:aj:palust	er_ris_re
+
+:le:apocletus
+:no:apoclet	us_i masc
+
+:le:temptatio
+:no:temptati	o_oLnis fem
+
+:le:undeoctoginta
+:wd:undeoctoginta numeral
+
+:le:undequadraginta
+:wd:undequadraginta	numeral
+
+:le:undequinquaginta
+:wd:undequinquaginta numeral
+
+:le:enim
+:wd:enimvero	adverb
+
+:le:tantusdem
+:wd:tantundem	adverb
+
+:le:tantus
+:wd:tantummodo	adverb
+
+:le:haud
+:wd:hauddum	adverb
+
+:le:ver
+:no:v	eLr_eLris neut
+
 :le:duumvir
 :no:duumvir	0_i masc
 
@@ -824,6 +873,8 @@
 
 :le:merces1
 :no:merc	es_idis fem
+:no:merc	es_is fem acc sg
+:no:merc	es_is fem abl dat pl
 
 :le:mercenarius
 :aj:merce_na_ri^	us_a_um
@@ -921,7 +972,7 @@
 :aj:Novembr is_e
 
 :le:novemdialis
-:aj:novemdial	0_adj
+:aj:novemdial	is_e
 
 :le:nox
 :no:no x_ctis fem

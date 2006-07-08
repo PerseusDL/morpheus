@@ -1114,6 +1114,10 @@
 :wd:alterutri_s   irreg_adj1 masc/neut abl pl
 :wd:alterutri_s   irreg_adj1 fem abl pl
 
+:le:unus
+:wd:unusquisque	us_a_um	masc nom sg
+:wd:unaquaeque	us_a_um	fem nom sg
+
 :le:uter
 :wd:utra   irreg_adj1 sg
 :wd:uter   irreg_adj1 masc nom/voc sg

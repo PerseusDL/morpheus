@@ -625,7 +625,8 @@
 :le:aeterno#2
 :de:aetern	are_vb
 :le:affecto
-:de:affect	are_vb
+:de:af-fect	are_vb
+:de:ad-fect	are_vb
 :le:affector
 :de:affect	are_vb dep
 :le:affiguro
@@ -6318,8 +6319,8 @@
 :de:ex-plant	are_vb
 :le:expleo
 :vs:ex-pl	conj2
-:vs:e_v perfstem
-:vs:e_t pp4
+:vs:ex-ple_v perfstem
+:vs:ex-ple_t pp4
 :le:explodo
 :vs:ex-plo_d	conj3
 :vs:ex-plo_s perfstem
@@ -6407,6 +6408,7 @@
 :de:exse^qui	are_vb
 :le:exsequor
 :vs:ex-se^qu	conj3
+:vs:ex-e^qu	conj3
 :vs:ex-se^cu_t pp4
 :le:exsero
 :vs:ex-ser	conj3
@@ -6621,6 +6623,7 @@
 :le:facio
 :vs:fa^c	conj3_io
 :vs:fe_c perfstem
+:vs:fax conj3_io archaic ind
 :vs:fact pp4
 :le:factito
 :de:facti^t	are_vb
@@ -10823,6 +10826,7 @@
 :vs:parc	conj3
 :vs:pe^perc perfstem
 :vs:parci^t pp4
+:vs:pars pp4
 :le:paregorizo
 :de:pa^re_go^riz	are_vb
 :le:parento
@@ -13846,7 +13850,9 @@
 :vs:re^-le_v perfstem
 :le:relinquo
 :vs:re^-linqu	conj3
+:vs:re^-linc	conj3
 :vs:re^-li_qu perfstem
+:vs:re^-li_c perfstem
 :vs:re^-lict pp4
 :le:reliquor
 :de:re^li^qu	are_vb dep
@@ -14061,6 +14067,8 @@
 :le:reprehendo
 :vs:re^-pre^hend	conj3
 :vs:re^-pre^hend perfstem
+:vs:re^-prend perfstem
+:vs:re^-prens perfstem
 :vs:re^-pre^hens pp4
 :le:reprehenso
 :de:re^pre^hens	are_vb
@@ -14792,6 +14800,7 @@
 :de:se^questr	are_vb
 :le:sequor
 :vs:se^qu	conj3
+:vs:se^c	conj3
 :vs:se^cu_t pp4
 :vs:se^se^cu_t pp4
 :le:sereno

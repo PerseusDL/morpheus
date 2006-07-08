@@ -662,6 +662,10 @@ alter-utra 	irreg_adj2 gen nom/voc sg
 alter-utrum 	irreg_adj2 neut nom/voc sg
 alter-utr@ille	irreg_adj2
 
+:le:unus
+:wd:unusquisque	us_a_um	masc nom sg
+:wd:unaquaeque	us_a_um	fem nom sg
+
 :le:uter
 uter 	irreg_adj2 masc nom/voc sg
 utra 	irreg_adj2 gen nom/voc sg
