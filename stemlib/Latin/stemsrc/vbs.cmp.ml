@@ -205,6 +205,7 @@ circum-jacio circumjacio
 circum-lavo circumlavo
 circum-linio circumlinio
 circum-loquor circumloquor
+circum-sedeo circumsideo
 circum-specio circumspicio
 circum-tondeo circumtondeo
 circum-tremo circumtremo
@@ -612,6 +613,7 @@ inter-sum#1 intersum
 inter-trituro intertritura
 inter-vento interventor
 inter-verto intervorto
+intro-eo#1 introeo
 ob-acerbo obacerbat
 ob-caedo occaedes
 ob-cano occano
@@ -626,7 +628,6 @@ ob-esco obescet
 ob-esito obesitas
 ob-facio officio
 ob-fero offero
-ob-fero offertor
 ob-flo offla
 ob-for offa
 ob-fuco offuco
@@ -659,6 +660,7 @@ ob-tracto obtractat
 ob-tueo obtueor
 ob-tueor obtueor
 ob-violo obviolo
+op-fero offero
 per-aresco peraresco
 per-audio peraudiendus
 per-caedo percaedo

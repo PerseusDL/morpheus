@@ -2059,8 +2059,9 @@
 :de:circum-se^c	are_vb
 :le:circumsedeo
 :vs:circum-se^d	conj2
-:vs:circum-se^se_d perfstem
-:vs:circum-se^sess pp4
+:vs:circum-si^d	conj2
+:vs:circum-se_d perfstem
+:vs:circum-sess pp4
 :le:circumseparo
 :de:circum-se_pa^r	are_vb
 :le:circumsero
@@ -6491,6 +6492,9 @@
 :vs:ex-stru^	conj3
 :vs:ex-strux perfstem
 :vs:ex-struct pp4
+:vs:ex-tru^	conj3
+:vs:ex-trux perfstem
+:vs:ex-truct pp4
 :le:exsuco
 :de:ex-su_c	are_vb
 :le:exsudo
@@ -7437,7 +7441,8 @@
 :vs:in-bu^	conj3
 :vs:im-bu^ perfstem
 :vs:in-bu^ perfstem
-:vs:imbu_t pp4
+:vs:im-bu_t pp4
+:vs:in-bu_t pp4
 :le:imitor
 :de:i^mi^t	are_vb dep
 :le:imito

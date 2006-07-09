@@ -94327,7 +94327,8 @@ impru_denti^a		<orth type=alt>inpr-</orth>
 impu_bes		<orth type=alt>inp-</orth>	<itype>e^ris, and</itype>
 impu_bis		
 :le:impubis
-:aj:impu_b	is_e
+:aj:im-pu_b	is_e
+:aj:in-pu_b	is_e
 
 
 impu_bes		
@@ -114507,6 +114508,7 @@ lo_^custa#1		<orth>lu^c-</orth>	<orth>lo^custa</orth>
 :le:locusta#1
 :no:lo_^cust	a_ae fem
 :no:lo^cust	a_ae fem orth
+:no:lu^cust	a_ae fem orth
 
 
 
@@ -150777,7 +150779,7 @@ pe^rendi^nus
 
 pe^rennis		<orth>pe^remnis</orth>	<pos>adj.</pos>	
 :le:perennis
-:wd:pe^rennis	adverb
+:aj:pe^renn	is_e
 
 :wd:pe^remnis	adverb orth
 
@@ -205188,6 +205190,9 @@ tho_ra_ci^cu^lus
 
 
 tho_rax		<itype>a_cis</itype>	<gen>c.</gen>
+:le:thorax
+:no:tho_ra	x_cis masc fem
+
 Tho^ri^us		
 :le:Thorius
 :no:Tho^r	ius_i masc
@@ -217461,6 +217466,7 @@ Victa
 victi^ma		
 :le:victima
 :no:victi^m	a_ae fem
+:no:victu^m	a_ae fem
 
 
 victi^ma_ri^us		

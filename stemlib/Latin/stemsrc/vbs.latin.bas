@@ -1,3 +1,10 @@
+:le:disicio
+:vs:disic	conj3_io
+:vs:disie_c	perfstem
+:vs:diiie_c	perfstem
+:vs:disiect	pp4
+:vs:diiect	pp4
+
 :le:aspergo1
 :vs:asperg	conj3
 :vs:aspers	perfstem
@@ -236,6 +243,7 @@
 :vs:demps perfstem
 :vs:dems perfstem
 :vs:dempt pp4
+:vs:demt pp4
 
 :le:denso
 :de:dens are_vb
@@ -852,7 +860,7 @@
 :vs:satisfac conj3_io
 :vb:satisfieri irreg_pp1 pres inf pass
 :vs:satisfe_c perfstem
-:vs:staisfact	pp4
+:vs:satisfact	pp4
 
 :le:scio
 :de:sc	ire_vb
@@ -906,6 +914,10 @@
 :vs:su^esc	conj3
 :vs:su^e_v	perfstem
 :vs:su^e_t	pp4
+:vb:suesti	irreg_pp2 2nd sg perf ind act
+:vb:suerunt	irreg_pp2 3rd pl perf ind act
+:vb:suesse	irreg_pp2 perf ind act
+:vb:suessent	irreg_pp2 3rd pl plup subj act
 
 :le:sumo
 :vs:sum		conj3

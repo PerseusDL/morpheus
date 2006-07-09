@@ -7,8 +7,8 @@
 :vb:a^ias   irreg_pp1 pres subj act 2nd sg
 :vb:a^iat   irreg_pp1 pres subj act 3rd sg
 :vb:aiant   irreg_pp1 pres subj act 3rd pl
-:vb:aiebam   irreg_pp1 imperf ind act 1st sg
 :vb:aibam   irreg_pp1 imperf ind act 1st sg early
+:vb:aiebam   irreg_pp1 imperf ind act 1st sg
 :vb:aieba_s   irreg_pp1 imperf ind act 2nd sg
 :vb:aiba_s   irreg_pp1 imperf ind act 2nd sg early
 :vb:aiebat   irreg_pp1 imperf ind act 3rd sg
@@ -17,8 +17,8 @@
 :vb:aiba_mus   irreg_pp1 imperf ind act 1st pl early
 :vb:aieba_tis   irreg_pp1 imperf ind act 2nd pl
 :vb:aiba_tis   irreg_pp1 imperf ind act 2nd pl early
-:vb:aiebant   irreg_pp1 imperf ind act 3rd pl
 :vb:aibant   irreg_pp1 imperf ind act 3rd pl early
+:vb:aiebant   irreg_pp1 imperf ind act 3rd pl
 
 :le:eo#1
 :vs:i		perfstem
@@ -51,60 +51,60 @@
 :vb:iens	irreg_pp1 pres part act masc fem nom voc
 :vb:iens	irreg_pp1 pres part act neut nom voc acc
 :vb:eundus   irreg_pp1 gerundive masc nom sg
-:vb:eunda   irreg_pp1 gerundive fem nom sg
 :vb:eunda   irreg_pp1 gerundive fem nom/voc sg
+:vb:eunda   irreg_pp1 gerundive fem nom sg
 :vb:ienda   irreg_pp1 gerundive fem nom/voc sg early
+:vb:eundom   irreg_pp1 gerundive neut nom/voc/acc sg early
 :vb:eundum   irreg_pp1 gerundive neut nom sg
 :vb:eundum   irreg_pp1 gerundive neut nom/voc/acc sg
-:vb:eundom   irreg_pp1 gerundive neut nom/voc/acc sg early
-:vb:iendum   irreg_pp1 gerundive neut nom/voc/acc sg early
 :vb:iendom   irreg_pp1 gerundive neut nom/voc/acc sg early
-:vb:eundi_   irreg_pp1 gerundive masc/neut gen sg
+:vb:iendum   irreg_pp1 gerundive neut nom/voc/acc sg early
 :vb:iendi_   irreg_pp1 gerundive masc/neut gen sg early
+:vb:eundi_   irreg_pp1 gerundive masc/neut gen sg
+:vb:ienda_i_   irreg_pp1 gerundive fem gen sg poetic early
 :vb:eundae   irreg_pp1 gerundive fem gen sg
 :vb:eunda_i_   irreg_pp1 gerundive fem gen sg poetic
 :vb:iendae   irreg_pp1 gerundive fem gen sg early
-:vb:ienda_i_   irreg_pp1 gerundive fem gen sg poetic early
 :vb:eundo_   irreg_pp1 gerundive masc/neut dat sg
 :vb:iendo_   irreg_pp1 gerundive masc/neut dat sg early
 :vb:eundae   irreg_pp1 gerundive fem dat sg
 :vb:iendae   irreg_pp1 gerundive fem dat sg early
-:vb:eundum   irreg_pp1 gerundive masc acc sg
-:vb:eundom   irreg_pp1 gerundive masc acc sg early
-:vb:iendum   irreg_pp1 gerundive masc acc sg early
 :vb:iendom   irreg_pp1 gerundive masc acc sg early
+:vb:eundom   irreg_pp1 gerundive masc acc sg early
+:vb:eundum   irreg_pp1 gerundive masc acc sg
+:vb:iendum   irreg_pp1 gerundive masc acc sg early
 :vb:eundam   irreg_pp1 gerundive fem acc sg
 :vb:iendam   irreg_pp1 gerundive fem acc sg early
-:vb:eunde   irreg_pp1 gerundive masc/neut voc sg
 :vb:iende   irreg_pp1 gerundive masc/neut voc sg early
-:vb:eundo_   irreg_pp1 gerundive masc/neut abl sg
+:vb:eunde   irreg_pp1 gerundive masc/neut voc sg
 :vb:iendo_   irreg_pp1 gerundive masc/neut abl sg early
-:vb:eunda_   irreg_pp1 gerundive fem abl sg
+:vb:eundo_   irreg_pp1 gerundive masc/neut abl sg
 :vb:ienda_   irreg_pp1 gerundive fem abl sg early
+:vb:eunda_   irreg_pp1 gerundive fem abl sg
 :vb:eundi_   irreg_pp1 gerundive masc nom/voc pl
 :vb:iendi_   irreg_pp1 gerundive masc nom/voc pl early
 :vb:eundae   irreg_pp1 gerundive fem nom/voc pl
 :vb:iendae   irreg_pp1 gerundive fem nom/voc pl early
 :vb:eunda   irreg_pp1 gerundive neut nom/voc/acc pl
 :vb:ienda   irreg_pp1 gerundive neut nom/voc/acc pl early
-:vb:eundo_rum   irreg_pp1 gerundive masc/neut gen pl
-:vb:eundu_m   irreg_pp1 gerundive masc/neut gen pl poetic
 :vb:iendo_rum   irreg_pp1 gerundive masc/neut gen pl early
+:vb:eundu_m   irreg_pp1 gerundive masc/neut gen pl poetic
+:vb:eundo_rum   irreg_pp1 gerundive masc/neut gen pl
 :vb:iendu_m   irreg_pp1 gerundive masc/neut gen pl poetic early
-:vb:eunda_rum   irreg_pp1 gerundive fem gen pl
 :vb:ienda_rum   irreg_pp1 gerundive fem gen pl early
+:vb:eunda_rum   irreg_pp1 gerundive fem gen pl
 :vb:eundi_s   irreg_pp1 gerundive masc/neut dat pl
 :vb:iendi_s   irreg_pp1 gerundive masc/neut dat pl early
-:vb:eundi_s   irreg_pp1 gerundive fem dat pl
 :vb:iendi_s   irreg_pp1 gerundive fem dat pl early
+:vb:eundi_s   irreg_pp1 gerundive fem dat pl
 :vb:eundo_s   irreg_pp1 gerundive masc acc pl
 :vb:iendo_s   irreg_pp1 gerundive masc acc pl early
-:vb:eunda_s   irreg_pp1 gerundive fem acc pl
 :vb:ienda_s   irreg_pp1 gerundive fem acc pl early
+:vb:eunda_s   irreg_pp1 gerundive fem acc pl
 :vb:eundi_s   irreg_pp1 gerundive masc/neut abl pl
 :vb:iendi_s   irreg_pp1 gerundive masc/neut abl pl early
-:vb:eundi_s   irreg_pp1 gerundive fem abl pl
 :vb:iendi_s   irreg_pp1 gerundive fem abl pl early
+:vb:eundi_s   irreg_pp1 gerundive fem abl pl
 :vb:eam   irreg_pp1 pres subj act 1st sg
 :vb:ea_s   irreg_pp1 pres subj act 2nd sg
 :vb:eat   irreg_pp1 pres subj act 3rd sg
@@ -119,8 +119,8 @@
 :vb:euntia   irreg_pp1 pres part act neut nom/voc/acc pl
 :vb:euntium   irreg_pp1 pres part act gen pl
 :vb:euntibus   irreg_pp1 pres part act dat pl
-:vb:eunte_s   irreg_pp1 pres part act masc/fem acc pl
 :vb:eunti_s   irreg_pp1 pres part act masc/fem acc pl
+:vb:eunte_s   irreg_pp1 pres part act masc/fem acc pl
 :vb:euntibus   irreg_pp1 pres part act abl pl
 :vb:ear   irreg_pp1 pres subj pass 1st sg comp_only
 :vb:ea_ris   irreg_pp1 pres subj pass 2nd sg comp_only
@@ -147,8 +147,8 @@
 :vb:it   perfstem perf ind act 3rd sg comp_only
 :vb:imus   perfstem perf ind act 1st pl comp_only
 :vb:istis   perfstem perf ind act 2nd pl comp_only
-:vb:e_runt   perfstem perf ind act 3rd pl comp_only
 :vb:e_re   perfstem perf ind act 3rd pl comp_only poetic
+:vb:e_runt   perfstem perf ind act 3rd pl comp_only
 :vb:ierim   irreg_pp2 perf subj act 1st sg
 :vb:ieri_s   irreg_pp2 perf subj act 2nd sg
 :vb:ierit   irreg_pp2 perf subj act 3rd sg
@@ -216,54 +216,54 @@
 :vb:de_-peri_sse	irreg_pp2 perf inf act syncop
 :vb:de_-periens	irreg_pp1 pres part act masc fem nom voc
 :vb:de_-periens	irreg_pp1 pres part act neut nom voc acc
-:vb:de_pereunda   irreg_pp1 gerundive fem nom/voc sg
 :vb:de_perienda   irreg_pp1 gerundive fem nom/voc sg early
-:vb:de_pereundum   irreg_pp1 gerundive neut nom/voc/acc sg
-:vb:de_pereundom   irreg_pp1 gerundive neut nom/voc/acc sg early
+:vb:de_pereunda   irreg_pp1 gerundive fem nom/voc sg
 :vb:de_periendum   irreg_pp1 gerundive neut nom/voc/acc sg early
+:vb:de_pereundum   irreg_pp1 gerundive neut nom/voc/acc sg
 :vb:de_periendom   irreg_pp1 gerundive neut nom/voc/acc sg early
+:vb:de_pereundom   irreg_pp1 gerundive neut nom/voc/acc sg early
 :vb:de_pereundi_   irreg_pp1 gerundive masc/neut gen sg
 :vb:de_periendi_   irreg_pp1 gerundive masc/neut gen sg early
+:vb:de_perienda_i_   irreg_pp1 gerundive fem gen sg poetic early
 :vb:de_pereundae   irreg_pp1 gerundive fem gen sg
 :vb:de_pereunda_i_   irreg_pp1 gerundive fem gen sg poetic
 :vb:de_periendae   irreg_pp1 gerundive fem gen sg early
-:vb:de_perienda_i_   irreg_pp1 gerundive fem gen sg poetic early
 :vb:de_pereundo_   irreg_pp1 gerundive masc/neut dat sg
 :vb:de_periendo_   irreg_pp1 gerundive masc/neut dat sg early
-:vb:de_pereundae   irreg_pp1 gerundive fem dat sg
 :vb:de_periendae   irreg_pp1 gerundive fem dat sg early
-:vb:de_pereundum   irreg_pp1 gerundive masc acc sg
+:vb:de_pereundae   irreg_pp1 gerundive fem dat sg
 :vb:de_pereundom   irreg_pp1 gerundive masc acc sg early
-:vb:de_periendum   irreg_pp1 gerundive masc acc sg early
 :vb:de_periendom   irreg_pp1 gerundive masc acc sg early
+:vb:de_periendum   irreg_pp1 gerundive masc acc sg early
+:vb:de_pereundum   irreg_pp1 gerundive masc acc sg
 :vb:de_pereundam   irreg_pp1 gerundive fem acc sg
 :vb:de_periendam   irreg_pp1 gerundive fem acc sg early
 :vb:de_pereunde   irreg_pp1 gerundive masc/neut voc sg
 :vb:de_periende   irreg_pp1 gerundive masc/neut voc sg early
 :vb:de_pereundo_   irreg_pp1 gerundive masc/neut abl sg
 :vb:de_periendo_   irreg_pp1 gerundive masc/neut abl sg early
-:vb:de_pereunda_   irreg_pp1 gerundive fem abl sg
 :vb:de_perienda_   irreg_pp1 gerundive fem abl sg early
+:vb:de_pereunda_   irreg_pp1 gerundive fem abl sg
 :vb:de_pereundi_   irreg_pp1 gerundive masc nom/voc pl
 :vb:de_periendi_   irreg_pp1 gerundive masc nom/voc pl early
-:vb:de_pereundae   irreg_pp1 gerundive fem nom/voc pl
 :vb:de_periendae   irreg_pp1 gerundive fem nom/voc pl early
-:vb:de_pereunda   irreg_pp1 gerundive neut nom/voc/acc pl
+:vb:de_pereundae   irreg_pp1 gerundive fem nom/voc pl
 :vb:de_perienda   irreg_pp1 gerundive neut nom/voc/acc pl early
+:vb:de_pereunda   irreg_pp1 gerundive neut nom/voc/acc pl
 :vb:de_pereundo_rum   irreg_pp1 gerundive masc/neut gen pl
-:vb:de_pereundu_m   irreg_pp1 gerundive masc/neut gen pl poetic
 :vb:de_periendo_rum   irreg_pp1 gerundive masc/neut gen pl early
 :vb:de_periendu_m   irreg_pp1 gerundive masc/neut gen pl poetic early
+:vb:de_pereundu_m   irreg_pp1 gerundive masc/neut gen pl poetic
 :vb:de_pereunda_rum   irreg_pp1 gerundive fem gen pl
 :vb:de_perienda_rum   irreg_pp1 gerundive fem gen pl early
-:vb:de_pereundi_s   irreg_pp1 gerundive masc/neut dat pl
 :vb:de_periendi_s   irreg_pp1 gerundive masc/neut dat pl early
-:vb:de_pereundi_s   irreg_pp1 gerundive fem dat pl
+:vb:de_pereundi_s   irreg_pp1 gerundive masc/neut dat pl
 :vb:de_periendi_s   irreg_pp1 gerundive fem dat pl early
+:vb:de_pereundi_s   irreg_pp1 gerundive fem dat pl
 :vb:de_pereundo_s   irreg_pp1 gerundive masc acc pl
 :vb:de_periendo_s   irreg_pp1 gerundive masc acc pl early
-:vb:de_pereunda_s   irreg_pp1 gerundive fem acc pl
 :vb:de_perienda_s   irreg_pp1 gerundive fem acc pl early
+:vb:de_pereunda_s   irreg_pp1 gerundive fem acc pl
 :vb:de_pereundi_s   irreg_pp1 gerundive masc/neut abl pl
 :vb:de_periendi_s   irreg_pp1 gerundive masc/neut abl pl early
 :vb:de_pereundi_s   irreg_pp1 gerundive fem abl pl
@@ -282,12 +282,12 @@
 :vb:de_pereuntia   irreg_pp1 pres part act neut nom/voc/acc pl
 :vb:de_pereuntium   irreg_pp1 pres part act gen pl
 :vb:de_pereuntibus   irreg_pp1 pres part act dat pl
-:vb:de_pereunte_s   irreg_pp1 pres part act masc/fem acc pl
 :vb:de_pereunti_s   irreg_pp1 pres part act masc/fem acc pl
+:vb:de_pereunte_s   irreg_pp1 pres part act masc/fem acc pl
 :vb:de_pereuntibus   irreg_pp1 pres part act abl pl
 :vb:de_perear   irreg_pp1 pres subj pass 1st sg
-:vb:de_perea_ris   irreg_pp1 pres subj pass 2nd sg
 :vb:de_perea_re   irreg_pp1 pres subj pass 2nd sg
+:vb:de_perea_ris   irreg_pp1 pres subj pass 2nd sg
 :vb:de_pereatur   irreg_pp1 pres subj pass 3rd sg
 :vb:de_perea_mur   irreg_pp1 pres subj pass 1st pl
 :vb:de_perea_mini   irreg_pp1 pres subj pass 2nd pl
@@ -372,54 +372,54 @@
 :vb:dis-peri_sse	irreg_pp2 perf inf act syncop
 :vb:dis-periens	irreg_pp1 pres part act masc fem nom voc
 :vb:dis-periens	irreg_pp1 pres part act neut nom voc acc
-:vb:dispereunda   irreg_pp1 gerundive fem nom/voc sg
 :vb:disperienda   irreg_pp1 gerundive fem nom/voc sg early
-:vb:dispereundum   irreg_pp1 gerundive neut nom/voc/acc sg
-:vb:dispereundom   irreg_pp1 gerundive neut nom/voc/acc sg early
+:vb:dispereunda   irreg_pp1 gerundive fem nom/voc sg
 :vb:disperiendum   irreg_pp1 gerundive neut nom/voc/acc sg early
+:vb:dispereundum   irreg_pp1 gerundive neut nom/voc/acc sg
 :vb:disperiendom   irreg_pp1 gerundive neut nom/voc/acc sg early
+:vb:dispereundom   irreg_pp1 gerundive neut nom/voc/acc sg early
 :vb:dispereundi_   irreg_pp1 gerundive masc/neut gen sg
 :vb:disperiendi_   irreg_pp1 gerundive masc/neut gen sg early
+:vb:disperienda_i_   irreg_pp1 gerundive fem gen sg poetic early
 :vb:dispereundae   irreg_pp1 gerundive fem gen sg
 :vb:dispereunda_i_   irreg_pp1 gerundive fem gen sg poetic
 :vb:disperiendae   irreg_pp1 gerundive fem gen sg early
-:vb:disperienda_i_   irreg_pp1 gerundive fem gen sg poetic early
 :vb:dispereundo_   irreg_pp1 gerundive masc/neut dat sg
 :vb:disperiendo_   irreg_pp1 gerundive masc/neut dat sg early
-:vb:dispereundae   irreg_pp1 gerundive fem dat sg
 :vb:disperiendae   irreg_pp1 gerundive fem dat sg early
-:vb:dispereundum   irreg_pp1 gerundive masc acc sg
+:vb:dispereundae   irreg_pp1 gerundive fem dat sg
 :vb:dispereundom   irreg_pp1 gerundive masc acc sg early
-:vb:disperiendum   irreg_pp1 gerundive masc acc sg early
 :vb:disperiendom   irreg_pp1 gerundive masc acc sg early
+:vb:disperiendum   irreg_pp1 gerundive masc acc sg early
+:vb:dispereundum   irreg_pp1 gerundive masc acc sg
 :vb:dispereundam   irreg_pp1 gerundive fem acc sg
 :vb:disperiendam   irreg_pp1 gerundive fem acc sg early
 :vb:dispereunde   irreg_pp1 gerundive masc/neut voc sg
 :vb:disperiende   irreg_pp1 gerundive masc/neut voc sg early
 :vb:dispereundo_   irreg_pp1 gerundive masc/neut abl sg
 :vb:disperiendo_   irreg_pp1 gerundive masc/neut abl sg early
-:vb:dispereunda_   irreg_pp1 gerundive fem abl sg
 :vb:disperienda_   irreg_pp1 gerundive fem abl sg early
+:vb:dispereunda_   irreg_pp1 gerundive fem abl sg
 :vb:dispereundi_   irreg_pp1 gerundive masc nom/voc pl
 :vb:disperiendi_   irreg_pp1 gerundive masc nom/voc pl early
-:vb:dispereundae   irreg_pp1 gerundive fem nom/voc pl
 :vb:disperiendae   irreg_pp1 gerundive fem nom/voc pl early
-:vb:dispereunda   irreg_pp1 gerundive neut nom/voc/acc pl
+:vb:dispereundae   irreg_pp1 gerundive fem nom/voc pl
 :vb:disperienda   irreg_pp1 gerundive neut nom/voc/acc pl early
+:vb:dispereunda   irreg_pp1 gerundive neut nom/voc/acc pl
 :vb:dispereundo_rum   irreg_pp1 gerundive masc/neut gen pl
-:vb:dispereundu_m   irreg_pp1 gerundive masc/neut gen pl poetic
 :vb:disperiendo_rum   irreg_pp1 gerundive masc/neut gen pl early
 :vb:disperiendu_m   irreg_pp1 gerundive masc/neut gen pl poetic early
+:vb:dispereundu_m   irreg_pp1 gerundive masc/neut gen pl poetic
 :vb:dispereunda_rum   irreg_pp1 gerundive fem gen pl
 :vb:disperienda_rum   irreg_pp1 gerundive fem gen pl early
-:vb:dispereundi_s   irreg_pp1 gerundive masc/neut dat pl
 :vb:disperiendi_s   irreg_pp1 gerundive masc/neut dat pl early
-:vb:dispereundi_s   irreg_pp1 gerundive fem dat pl
+:vb:dispereundi_s   irreg_pp1 gerundive masc/neut dat pl
 :vb:disperiendi_s   irreg_pp1 gerundive fem dat pl early
+:vb:dispereundi_s   irreg_pp1 gerundive fem dat pl
 :vb:dispereundo_s   irreg_pp1 gerundive masc acc pl
 :vb:disperiendo_s   irreg_pp1 gerundive masc acc pl early
-:vb:dispereunda_s   irreg_pp1 gerundive fem acc pl
 :vb:disperienda_s   irreg_pp1 gerundive fem acc pl early
+:vb:dispereunda_s   irreg_pp1 gerundive fem acc pl
 :vb:dispereundi_s   irreg_pp1 gerundive masc/neut abl pl
 :vb:disperiendi_s   irreg_pp1 gerundive masc/neut abl pl early
 :vb:dispereundi_s   irreg_pp1 gerundive fem abl pl
@@ -438,12 +438,12 @@
 :vb:dispereuntia   irreg_pp1 pres part act neut nom/voc/acc pl
 :vb:dispereuntium   irreg_pp1 pres part act gen pl
 :vb:dispereuntibus   irreg_pp1 pres part act dat pl
-:vb:dispereunte_s   irreg_pp1 pres part act masc/fem acc pl
 :vb:dispereunti_s   irreg_pp1 pres part act masc/fem acc pl
+:vb:dispereunte_s   irreg_pp1 pres part act masc/fem acc pl
 :vb:dispereuntibus   irreg_pp1 pres part act abl pl
 :vb:disperear   irreg_pp1 pres subj pass 1st sg
-:vb:disperea_ris   irreg_pp1 pres subj pass 2nd sg
 :vb:disperea_re   irreg_pp1 pres subj pass 2nd sg
+:vb:disperea_ris   irreg_pp1 pres subj pass 2nd sg
 :vb:dispereatur   irreg_pp1 pres subj pass 3rd sg
 :vb:disperea_mur   irreg_pp1 pres subj pass 1st pl
 :vb:disperea_mini   irreg_pp1 pres subj pass 2nd pl
@@ -714,7 +714,6 @@
 :vb:e_nte_s   irreg_pp1 pres part masc/fem nom/voc pl comp_only
 :vb:e_nta   irreg_pp1 pres part neut nom/voc/acc pl comp_only
 :vb:e_ntum   irreg_pp1 pres part masc/fem/neut gen pl comp_only
-:vb:e_ntium   irreg_pp1 pres part masc/fem/neut gen pl comp_only
 :vb:e_ntibus   irreg_pp1 pres part masc/fem/neut dat pl comp_only
 :vb:e_nte_s   irreg_pp1 pres part masc/fem acc pl comp_only
 :vb:e_ntibus   irreg_pp1 pres part masc/fem/neut abl pl comp_only
@@ -746,14 +745,14 @@
 :vb:forem   irreg_pp1 imperf subj act 1st sg early
 :vb:esse_s   irreg_pp1 imperf subj act 2nd sg
 :vb:fore_s   irreg_pp1 imperf subj act 2nd sg early
-:vb:esset   irreg_pp1 imperf subj act 3rd sg
 :vb:foret   irreg_pp1 imperf subj act 3rd sg early
-:vb:esse_mus   irreg_pp1 imperf subj act 1st pl
+:vb:esset   irreg_pp1 imperf subj act 3rd sg
 :vb:fore_mus   irreg_pp1 imperf subj act 1st pl early
+:vb:esse_mus   irreg_pp1 imperf subj act 1st pl
 :vb:esse_tis   irreg_pp1 imperf subj act 2nd pl
 :vb:fore_tis   irreg_pp1 imperf subj act 2nd pl early
-:vb:essent   irreg_pp1 imperf subj act 3rd pl
 :vb:forent   irreg_pp1 imperf subj act 3rd pl early
+:vb:essent   irreg_pp1 imperf subj act 3rd pl
 
 :le:prosum
 :vb:pro_sum		irreg_pp1 1st sg pres ind act
@@ -888,7 +887,6 @@
 
 :le:nequeo
 :vb:nequeo	irreg_pp1 1st sg pres indic act
-:vs:nequ	conj4 subj
 :vb:nequi_s	irreg_pp1 2nd sg pres indic act
 :vb:nequit	irreg_pp1 3rd sg pres indic act
 :vb:nequi_mus	irreg_pp1 1st pl pres indic act

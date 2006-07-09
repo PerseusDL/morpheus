@@ -1,3 +1,10 @@
+:le:ubi
+:wd:ubiubi	conj
+
+:le:caetrator
+:no:caetrat	or_oris masc
+:no:ce_trat	or_oris masc
+
 :le:interrex
 :no:inter-re	x_gis masc
 
@@ -1025,6 +1032,7 @@
 
 :le:optimas
 :aj:optima s_tis_adj
+:aj:optuma s_tis_adj
 :wd:optimatium s_tis_adj gen pl masc fem neut
 
 :le:Orgia
@@ -1479,6 +1487,7 @@
 :aj:ult	er_ra_rum no_comp
 :aj:ulter	ior_ius_comp irreg_comp
 :aj:ultim	us_a_um irreg_superl
+:aj:ultum	us_a_um irreg_superl
 
 :le:umquam
 :wd:umquam	adverb

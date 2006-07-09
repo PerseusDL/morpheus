@@ -11,3 +11,11 @@ errimus	superl masc nom sg
 errime	superl masc voc sg
 errima	superl fem voc sg
 errimum	superl neut voc sg
+
+errum@decl1 superl masc
+errum@decl1 superl neut
+errum@decl2 superl fem
+errumus	superl masc nom sg
+errume	superl masc voc sg
+erruma	superl fem voc sg
+errumum	superl neut voc sg
