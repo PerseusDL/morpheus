@@ -1,3 +1,14 @@
+:le:strepo
+:vs:strep 	conj3
+:vs:strepu	perfstem
+
+:le:praepedio
+:de:praeped	ire_vb
+
+:le:apiscor
+:vs:a^pisc	conj3
+:vs:apt	pp4
+
 :le:disicio
 :vs:disic	conj3_io
 :vs:disie_c	perfstem
@@ -16,7 +27,10 @@
 :vs:transi^li	perfstem
 
 :le:comminiscor
-:vs:commi^nisc	conj3
+:vs:com-mi^nisc	conj3
+:vs:com-ment	pp4
+:vs:con-mi^nisc	conj3
+:vs:con-ment	pp4
 
 :le:resipisco
 :vs:re^si^pisc	conj3
@@ -308,7 +322,9 @@
 
 :le:exsilio
 :vs:exsi^l	conj4
+:vs:exi^l	conj4
 :vs:exsi^lu^	perfstem
+:vs:exi^lu^	perfstem
 
 :le:exsisto
 :vs:exsist conj3
@@ -319,8 +335,13 @@
 :vs:exte^t pp4
 
 :le:exsto
-:de:exst are_vb
-:de:ext are_vb
+:vs:exst	conj1
+:vs:exstet	perfstem
+:vs:exstat	pp4
+:vs:ext	conj1
+:vs:extet	perfstem
+:vs:extit	perfstem
+:vs:extat	pp4
 
 :le:exspecto
 :de:exspect are_vb
@@ -850,6 +871,7 @@
 :vs:sanc	conj4
 :vs:sanx	perfstem
 :vs:sanct	pp4
+:vs:sancit	pp4
 
 :le:sapio
 :vs:sap		conj3_io
@@ -859,6 +881,7 @@
 :le:satisfacio
 :vs:satisfac conj3_io
 :vb:satisfieri irreg_pp1 pres inf pass
+:vb:satisfiat irreg_pp1 pres subj pass 3rd sg
 :vs:satisfe_c perfstem
 :vs:satisfact	pp4
 
@@ -917,6 +940,7 @@
 :vb:suesti	irreg_pp2 2nd sg perf ind act
 :vb:suerunt	irreg_pp2 3rd pl perf ind act
 :vb:suesse	irreg_pp2 perf ind act
+:vb:suesset	irreg_pp2 3rd sg plup subj act
 :vb:suessent	irreg_pp2 3rd pl plup subj act
 
 :le:sumo

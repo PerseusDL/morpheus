@@ -1,3 +1,13 @@
+:le:praedives
+:aj:praediv	es_itis masc fem neut
+
+:le:torquis
+:no:torqu	is_is masc fem
+:no:torqu	es_is masc fem
+
+:le:scaturex
+:no:sca^tu_r	ex_igis masc
+
 :le:ubi
 :wd:ubiubi	conj
 
@@ -1529,6 +1539,7 @@
 :le:vicesimus
 :aj:vi_ce_sim us_a_um
 :aj:vi_censim us_a_um
+:aj:vi_censum us_a_um
 
 :le:viciens
 :wd:viciens	adverb

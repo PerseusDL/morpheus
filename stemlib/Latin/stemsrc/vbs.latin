@@ -209,6 +209,7 @@
 :de:ac-cla_r	are_vb
 :le:acclino
 :de:ac-cli_n	are_vb
+:de:ad-cli_n	are_vb
 :le:accognosco
 :vs:ac-cognosc	conj3
 :le:accolo
@@ -1520,8 +1521,8 @@
 :de:belli^ge^r	are_vb
 :le:belligeror
 :de:belli^-ge^r	are_vb dep
-:le:bellor
-:de:bell	are_vb dep
+:le:bello
+:de:bell	are_vb 
 :le:benedico
 :vs:be^ne^di_c	conj3
 :vs:be^ne^di_x perfstem
@@ -2206,7 +2207,8 @@
 :vs:cle^ps perfstem
 :vs:cle^pt pp4
 :le:clipeo
-:de:cli^p	are_vb
+:de:cli^pe	are_vb
+:de:clu^pe	are_vb
 :le:clueo
 :vs:clu^	conj2
 :le:cluo
@@ -3811,7 +3813,7 @@
 :le:cunctor
 :de:cunct	are_vb dep
 :le:cuneo
-:de:cu^n	are_vb
+:de:cu^ne	are_vb
 :le:cupio
 :vs:cu^p	conj3_io
 :vs:cu^pi_v perfstem
@@ -6463,6 +6465,7 @@
 :vs:ex-spers pp4
 :le:exspiro
 :de:ex-spi_r	are_vb
+:de:ex-pi_r	are_vb
 :le:exsplendesco
 :vs:ex-splendesc	conj3
 :vs:ex-splendu^ perfstem
@@ -10963,9 +10966,12 @@
 :le:pejoro
 :de:pe_jo_r	are_vb
 :le:pellicio
-:vs:pelli^c	conj3_io
+:vs:pel-li^c	conj3_io
+:vs:per-li^c	conj3_io
 :vs:pellex perfstem
+:vs:per-lex perfstem
 :vs:pellect pp4
+:vs:per-lect pp4
 :le:pelliceo
 :vs:pelli^c	conj2
 :le:pellico
@@ -15023,8 +15029,8 @@
 :de:spo^li	are_vb
 :le:spondeo
 :vs:spond	conj2
-:vs:sponspo^pond perfstem
-:vs:sponspons pp4
+:vs:spo^pond perfstem
+:vs:spons pp4
 :le:spongio
 :de:spongi	are_vb
 :le:spongizo

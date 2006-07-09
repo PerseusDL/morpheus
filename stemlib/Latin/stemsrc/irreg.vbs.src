@@ -443,6 +443,7 @@ qui_@imperf	irreg_pp1 imperf indic act
 :vb:nequi_mus	irreg_pp1 1st pl pres indic act
 :vb:nequi_tis	irreg_pp1 2nd pl pres indic act
 :vb:nequeunt	irreg_pp1 3rd pl pres indic act
+nequir@emsub	irreg_pp1 imperf subj act
 nequea@basvb2	irreg_pp1 pres subj act
 nequi_@imperf	irreg_pp1 imperf indic act
 :vs:nequi_v	perfstem

@@ -907,6 +907,12 @@
 :vb:nequi_ba_mus   irreg_pp1 imperf ind act 1st pl
 :vb:nequi_ba_tis   irreg_pp1 imperf ind act 2nd pl
 :vb:nequi_bant   irreg_pp1 imperf ind act 3rd pl
+:vb:nequirem   irreg_pp1 imperf subj act 1st sg
+:vb:nequire_s   irreg_pp1 imperf subj act 2nd sg
+:vb:nequiret   irreg_pp1 imperf subj act 3rd sg
+:vb:nequire_mus   irreg_pp1 imperf subj act 1st pl
+:vb:nequire_tis   irreg_pp1 imperf subj act 2nd pl
+:vb:nequirent   irreg_pp1 imperf subj act 3rd pl
 
 :le:do
 :vs:d conj1

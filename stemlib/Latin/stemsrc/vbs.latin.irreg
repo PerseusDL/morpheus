@@ -95,6 +95,7 @@
 :vb:ma_volt	irreg_pp1 pres ind act 3rd sg archaic
 :vb:ma_lumus	irreg_pp1 pres ind act 1st pl
 :vb:ma_vultis	irreg_pp1 pres ind act 2nd pl
+:vb:ma_voltis	irreg_pp1 pres ind act 2nd pl
 :vb:ma_lunt	irreg_pp1 pres ind act 3rd pl
 :vb:mavolunt	irreg_pp1 pres ind act 3rd pl archaic
 :vb:malle	irreg_pp1 pres inf act

@@ -28214,6 +28214,7 @@ caetra		<orth>ce_tra</orth>
 caetra_tus		
 :le:caetratus
 :aj:caetra_t	us_a_um
+:aj:ce_tra_t	us_a_um
 
 
 caetra_-ti		
@@ -35902,6 +35903,9 @@ chalcanthum
 
 
 chalcaspis		<itype>idis</itype>	<pos>adj.</pos>
+:le:chalcaspis
+:no:chalcasp	is_idis masc fem neut
+
 Chalce_don		<orth>Calche_-don</orth>	
 :le:Chalcedon
 :no:Chalce_d	oLn_onis fem
@@ -42636,7 +42640,8 @@ commenti^ci^us		<orth>-ti^us</orth>
 
 commenta_tus		
 :le:commentatus
-:aj:commenta_t	us_a_um
+:aj:com-menta_t	us_a_um
+:aj:con-menta_t	us_a_um
 
 
 commentor#2		
@@ -63036,6 +63041,11 @@ du^cente_si^ma
 
 du^centi		<itype>ae, a</itype>
 du^centi^es		<orth>-i^ens</orth>	<pos>adv. num.</pos>
+du^centi^es		<orth>-i^ens</orth>	<pos>adv. num.</pos>
+:le:ducenties
+:wd:du^centi^es		numeral
+:wd:du^centi^ens		numeral
+
 du^ci^a_nus		
 :le:ducianus
 :aj:du^ci^a_n	us_a_um
@@ -74324,6 +74334,7 @@ febru^a_mentum
 Fe^bru^a_ri^us		
 :le:Februarius
 :no:Fe^bru^a_r	ius_i masc
+:no:Fe^bru^a_r	ius_ia_ium
 
 
 Fe^bru^a_ri-us mensis	
@@ -74395,6 +74406,8 @@ fe_-li_ne^us
 fe_lix#1		
 :le:felix#1
 :aj:fe_l	ix_adj
+:wd:fe_lici	ix_adj abl sg masc fem neut
+:wd:fe_licia	ix_adj neut nom voc acc pl
 
 
 Felix		<orth>fe_li_ci^ter</orth>
@@ -87593,7 +87606,7 @@ hippa^ce_
 hippa_gi^nes		<itype>naves, quibus equi vehuntur</itype>
 hippa^go_gi		
 :le:hippagogi
-:no:hippa^go_g	us_i fem pl
+:no:hippa^go_g	us_i fem 
 
 
 Hippa^lus		
@@ -95857,6 +95870,7 @@ incompos		<itype>o^tis</itype>	<pos>adj.</pos>
 in-compo^si^tus		
 :le:incompositus
 :aj:in-compo^si^t	us_a_um
+:aj:in-con-po^si^t	us_a_um
 
 
 incompo^-si^te_	
@@ -99537,8 +99551,8 @@ ingressus
 
 inguen		<itype>inis</itype>	<gen>n.</gen>
 ingui^-na		
-:le:inguina
-:no:ingui^-n	a_ae fem
+:le:inguen
+:no:ingu	en_inis neut
 
 
 ingui^na_lis		
@@ -107298,7 +107312,9 @@ K		<orth type=alt>k</orth>	<orth type=alt>C&aelig;so</orth>	<orth type=alt>Kar.;
 Ka^lendae		<orth>Cal-</orth>	
 :le:Kalendae
 :no:Ka^lend	a_ae fem pl
+:no:ka^lend	a_ae fem pl
 :no:Calend	a_ae fem pl orth
+:no:calend	a_ae fem pl orth
 
 
 
@@ -109493,7 +109509,7 @@ La_ri_num
 
 La_ri_-nas		
 :le:Larinas
-:no:La_ri_-nas	tas_tatis fem
+:aj:La_ri_-na	s_tis_adj
 
 
 La_-ri_na_tes		
@@ -115630,8 +115646,8 @@ lu_di^bundus
 
 lu_di^cer		<orth>lu_di_^crus</orth>	<itype>cra, crum</itype>	<pos>adj.</pos>
 lu_di_^-crum		
-:le:ludicrum
-:no:lu_di_^-cr	us_i neut
+:le:ludicer
+:no:lu_di_^-c	er_ra_rum
 
 
 lu_di^cer	<itype>Hence</itype>	
@@ -132254,6 +132270,7 @@ na_-vanter
 na_vus		<orth type=alt>gna_vus</orth>	
 :le:navus
 :aj:na_v	us_a_um
+:wd:na_viter	adverb
 
 	<pos>adv.</pos>
 na_ve_		<orth type=alt>gna_ve_</orth>	<orth>na_vi^ter</orth>	<orth>gna_vi^ter</orth>
@@ -197525,6 +197542,7 @@ suggrundium
 su_gilla_ti^o		
 :le:sugillatio
 :no:su_gilla_ti^	o_oLnis fem
+:no:suggilla_ti^	o_oLnis fem
 
 
 su_gilla_ti^uncu^la		
@@ -198022,6 +198040,8 @@ su^pellecti^ca_ri^us
 su^pellex		
 :le:supellex
 :no:su^pelle	x_cis fem
+:no:su^pellectil	is_is fem
+:no:su^pellectil	0_is fem abl
 
 
 su^per#2		
@@ -216615,6 +216635,10 @@ Vespasi^a
 
 
 vesper		<itype>e^ris and e^ri</itype>	<gen>m.</gen>
+:le:vesper
+:no:vesp	er_eris masc
+:no:vesper	0_i masc
+
 vespe^ra		
 :le:vespera
 :no:vespe^r	a_ae fem
