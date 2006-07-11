@@ -102,16 +102,25 @@
 :wd:ca^pi^tibus   irreg_nom3 neut dat pl
 :wd:ca^pi^tibus   irreg_nom3 neut abl pl
 
-:le:caro
+:le:caro2
 :wd:caro_   irreg_nom3 fem nom sg
 :wd:carnis   irreg_nom3 fem gen sg
+:wd:carnis   irreg_nom3 fem gen sg
+:wd:carni_   irreg_nom3 fem dat sg
 :wd:carni_   irreg_nom3 fem dat sg
 :wd:carnem   irreg_nom3 fem acc sg
+:wd:carnem   irreg_nom3 fem acc sg
+:wd:carne   irreg_nom3 fem abl sg
+:wd:carne_s   irreg_nom3 fem nom/voc pl
 :wd:carne_s   irreg_nom3 fem nom/voc pl
 :wd:carnium   irreg_nom3 fem gen pl
+:wd:carnum   irreg_nom3 fem gen pl
 :wd:carnibus   irreg_nom3 fem dat pl
-:wd:carne_s   irreg_nom3 fem acc pl
+:wd:carnibus   irreg_nom3 fem dat pl
 :wd:carni_s   irreg_nom3 fem acc pl
+:wd:carne_s   irreg_nom3 fem acc pl
+:wd:carne_s   irreg_nom3 fem acc pl
+:wd:carnibus   irreg_nom3 fem abl pl
 :wd:carnibus   irreg_nom3 fem abl pl
 
 :le:Ceres

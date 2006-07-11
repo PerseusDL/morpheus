@@ -297,9 +297,6 @@
 :vs:du_x perfstem
 :vs:du_ct pp4
 
-:le:duplex
-:aj:dupl	ex_icis
-
 :le:emo
 :vs:e^m	conj3 no_comp
 :vs:i^m	conj3 comp_only

@@ -87,6 +87,9 @@
 
 :le:colluvio
 :no:collu^vi^	o_oLnis fem
+:no:collu^ui^	o_oLnis fem
+:no:col-lu^ui^	o_oLnis fem
+:no:con-lu^ui^	o_oLnis fem
 
 :le:clades
 :no:cla_d	es_is fem
@@ -566,7 +569,7 @@
 :wd:dum	conj
 
 :le:duplex
-:aj:dupl	ex_icis 
+:aj:dupl	ex_icis_adj
 
 :le:dux
 :no:du 	x_cis masc fem
@@ -1011,7 +1014,7 @@
 
 :le:nox
 :no:no x_ctis fem
-:wd:noctu	x_ctis loc fem sg
+:wd:noctu	x_ctis abl fem sg
 
 :le:numquam
 :wd:numquam	adverb
@@ -1063,6 +1066,13 @@
 
 :le:par
 :aj:par		0_adj3
+
+:le:compar
+:aj:com-par		0_adj3
+:aj:con-par		0_adj3
+
+:le:dispar
+:aj:dis-par		0_adj3
 
 :le:parens#2
 :no:par	ens_entis masc fem

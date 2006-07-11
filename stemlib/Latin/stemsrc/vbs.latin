@@ -878,6 +878,9 @@
 :vs:a^ni^madvert	conj3
 :vs:a^ni^madvert perfstem
 :vs:a^ni^madvers pp4
+:vs:a^ni^maduert	conj3
+:vs:a^ni^maduert perfstem
+:vs:a^ni^maduers pp4
 :le:animo
 :de:a^ni^m	are_vb
 :le:annato
@@ -1166,11 +1169,17 @@
 :vs:ar-vect pp4
 :le:ascalpo
 :vs:a-scalp	conj3
+
 :le:ascendo
 :vs:a-scend	conj3
 :vs:a-scens perfstem
 :vs:a-scend perfstem
 :vs:a-scens pp4
+:vs:ad-scend	conj3
+:vs:ad-scens perfstem
+:vs:ad-scend perfstem
+:vs:ad-scens pp4
+
 :le:ascio#1
 :de:asci	are_vb
 :le:ascio#2
@@ -1218,8 +1227,11 @@
 :vs:ad-seru	perfstem orth
 :vs:as-sert	pp4
 :vs:ad-sert	pp4 orth
+
 :le:asservio
 :de:as-serv	ire_vb
+:de:ad-serv	ire_vb
+
 :le:asservo
 :de:as-serv	are_vb
 :le:assevero
@@ -2217,8 +2229,11 @@
 :de:clyste_ri_z	are_vb
 :le:coaccedo
 :vs:co^-acce_d	conj3
+
 :le:coacervo
 :de:co^-a^cerv	are_vb
+:de:co^-a^ceru	are_vb
+
 :le:coacto
 :de:co^act	are_vb
 :le:coaddo
@@ -3160,8 +3175,10 @@
 :le:congrego
 :de:con-gre^g	are_vb
 :le:congruo
+
 :vs:congru^	conj3
-:vs:congru^u^ perfstem
+:vs:congru^ perfstem
+
 :le:congyro
 :de:con-gy_r	are_vb
 :le:conicio
@@ -3467,6 +3484,12 @@
 :vs:con-text pp4
 :le:conticeo
 :vs:con-ti^c	conj2
+
+:le:conticesco
+:vs:conti^cesc	conj3
+:vs:conti^cisc	conj3
+:vs:conti^cu	perfstem
+
 :le:contigno
 :de:con-tign	are_vb
 :le:contineo
@@ -5093,7 +5116,7 @@
 :le:disperno
 :vs:di-spern	conj3
 :le:dispertior
-:de:dispert	ire_vb dep
+:de:dispert	ire_vb
 :le:dispesco
 :vs:dis-pesc	conj3
 :vs:dis-pest pp4

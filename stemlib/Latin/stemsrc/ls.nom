@@ -29678,6 +29678,9 @@ campe_
 
 Campensis	
 campester		<orth>campestris</orth>	<itype>tris, tre</itype>	<pos>adj.</pos>
+:le:campester
+:aj:campest	er_ris_re
+
 campe-stri^a		
 :le:campestria
 :no:campe-str	is_is neut pl
@@ -33168,6 +33171,7 @@ ca^te_na_tus
 ca^terva		
 :le:caterva
 :no:ca^terv	a_ae fem
+:no:ca^teru	a_ae fem
 
 
 ca^terva_ri^us		
@@ -33178,6 +33182,7 @@ ca^terva_ri^us
 ca^terva_tim		
 :le:catervatim
 :wd:ca^terva_tim	adverb
+:wd:ca^terua_tim	adverb
 
 
 ca^tharti^cum		
@@ -54947,6 +54952,7 @@ de^cemvi^ra_tus
 de^cem-vi^ri		<gen>m.</gen>
 :le:decemviri
 :no:de^cemvi^r	0_i masc 
+:no:de^cemui^r	0_i masc 
 :no:de^cemui^r	0_i masc pl orth
 
 de^cenna_lis		
@@ -58558,6 +58564,7 @@ dextro^che^ri^um
 dextrorsum		<orth>dextrorsus</orth>	<orth>dextrovorsum</orth>	
 :le:dextrorsum
 :wd:dextrorsum	adverb
+:wd:dextrorsus	adverb
 
 :wd:dextrovorsum	adverb orth
 

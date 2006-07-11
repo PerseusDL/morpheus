@@ -44,9 +44,10 @@ ca^pu^t		irreg_nom3 neut nom/voc/acc sg
 ca^pi^t@decl3	irreg_nom3 neut
 ca^pi^ti	irreg_nom3 neut abl sg
 
-:le:caro
+:le:caro2
 caro_		irreg_nom3 fem nom sg
 carn@decl3_i	irreg_nom3  fem
+carn@decl3	irreg_nom3  fem
 
 :le:Ceres
 Cere_s		irreg_nom3 fem nom sg
