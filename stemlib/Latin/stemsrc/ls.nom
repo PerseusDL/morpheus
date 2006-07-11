@@ -3725,6 +3725,8 @@ ad-versa
 adversus#2		<orth>adversum</orth>	<orth>advor-</orth>	
 :le:adversus#2
 :wd:adversus	adverb
+:wd:advorsus	prep orth
+:wd:adversus	prep
 :wd:advorsus	adverb orth
 
 	<pos>prep.</pos>
@@ -38140,6 +38142,7 @@ circi^nus		<itype>i</itype>
 circi^ter		
 :le:circiter
 :wd:circi^ter	adverb
+:wd:circi^ter	prep
 
 	<pos>prep.</pos>	
 :le:circiter
@@ -38221,6 +38224,7 @@ circlus
 circum		
 :le:circum
 :wd:circum	adverb
+:wd:circum	prep
 
 	<pos>prep.</pos>
 circumundique		
@@ -39031,8 +39035,9 @@ cito^ca^ci^um
 
 
 ci_^tra_		
-:le:citra
+:le:citer
 :wd:ci_^tra_	adverb
+:wd:ci_^tra_	prep
 
 
 ci_^tra_go		<orth>ci^tre^a_go</orth>	
@@ -39183,7 +39188,10 @@ cla^ga^lo_pes
 
 clam		<orth>callim</orth>	<itype>or</itype>
 calam		
-:le:calam
+:le:clam
+:wd:clam	prep
+:wd:clam	adverb
+:wd:calam	prep
 :wd:calam	adverb
 
 	<pos>prep.</pos>	
@@ -47505,6 +47513,7 @@ contortu^pli^ca_tus		<orth type=alt>-torti^p-</orth>
 contra_		
 :le:contra
 :wd:contra_	adverb
+:wd:contra_	prep
 
 	<pos>prep.</pos>	<itype>dicta, o_rum</itype>	<gen>n.</gen>
 contra^bi^um		
@@ -48448,6 +48457,7 @@ co^rallo^a^cha_tes
 co_ram		
 :le:coram
 :wd:co_ram	adverb
+:wd:co_ram	prep
 
 	<pos>prep.</pos>
 co^ramble_		
@@ -99210,6 +99220,7 @@ infossi^o
 infra_		
 :le:infra
 :wd:infra_	adverb
+:wd:infra_	prep
 
 	<pos>prep.</pos>
 infracti^o		
@@ -101864,6 +101875,7 @@ insumptum
 in-su^per		
 :le:insuper
 :wd:in-su^per	adverb
+:wd:in-su^per	prep
 
 	<pos>prep.</pos>
 in-su^pe^ra_bi^lis		
@@ -103532,6 +103544,7 @@ intorti^o
 intra_		
 :le:intra
 :wd:intra_	adverb
+:wd:intra_	prep
 
 	<pos>prep.</pos>	<pos>prep.</pos>
 intra_bi^lis		
@@ -107308,11 +107321,13 @@ Ju_verna		<orth>Ju_berna</orth>
 juxta_		
 :le:juxta
 :wd:juxta_	adverb
+:wd:juxta_	prep
 
 	<pos>prep.</pos>
 juxtim		
 :le:juxtim
 :wd:juxtim	adverb
+:wd:juxtim	prep
 
 	<pos>prep.</pos>
 K		<orth type=alt>k</orth>	<orth type=alt>C&aelig;so</orth>	<orth type=alt>Kar.; v. Carthago</orth>
@@ -144184,6 +144199,7 @@ palaga
 pa^lam		
 :le:palam
 :wd:pa^lam	adverb
+:wd:pa^lam	prep
 
 	<pos>prep.</pos>
 Pa^la^me_des		
@@ -154930,6 +154946,7 @@ pheuxaspi^di^on
 phi^a^la#1		
 :le:phiala#1
 :no:phi^a^l	a_ae fem
+:no:fi^a^l	a_ae fem
 
 
 Phi^a^la#2		
@@ -160092,6 +160109,7 @@ ponduscu^lum
 po_ne		
 :le:pone
 :wd:po_ne	adverb
+:wd:po_ne	prep
 
 	<pos>prep.</pos>
 pons#1		<itype>ntis</itype>	<gen>m.</gen>
@@ -161000,6 +161018,7 @@ po^tenter
 post		
 :le:post
 :wd:post	adverb
+:wd:post	prep
 
 	<pos>prep.</pos>
 post-auctumna_lis		<orth type=alt>-autumn-</orth>	
@@ -163719,6 +163738,7 @@ prae-te^nu^is
 praeter		
 :le:praeter
 :wd:praeter	adverb
+:wd:praeter	prep
 
 	<pos>prep.</pos>
 praete^r-e^a_		
@@ -164941,6 +164961,7 @@ pri_vus
 pro_#1		
 :le:pro#1
 :wd:pro_	adverb
+:wd:pro_	prep
 
 	<pos>prep.</pos>	<pos>prep.</pos>
 prout	
@@ -166642,6 +166663,7 @@ pro_pa^tu^lum
 pro^pe		
 :le:prope
 :wd:pro^pe	adverb
+:wd:pro^pe	prep
 
 	<pos>prep.</pos>
 pro^pe^di^em		<orth>prope diem</orth>	
@@ -167001,6 +167023,7 @@ propri^e_
 propter		
 :le:propter
 :wd:propter	adverb
+:wd:propter	prep
 
 	<pos>prep.</pos>
 propte^re^a_		
@@ -184148,6 +184171,7 @@ se^cundo_#1
 se^cundum		
 :le:secundum
 :wd:se^cundum	adverb
+:wd:se^cundum	prep
 
 	<pos>prep.</pos>
 se^cundus#1		
@@ -196252,6 +196276,7 @@ sub-te^nu^is
 subter		<orth>supter</orth>	
 :le:subter
 :wd:subter	adverb
+:wd:subter	prep
 
 :wd:supter	adverb orth
 
@@ -196391,6 +196416,7 @@ sub-turpis
 subtus		
 :le:subtus
 :wd:subtus	adverb
+:wd:subtus	prep
 
 
 sub-tu_sus		
@@ -198054,6 +198080,7 @@ su^pellex
 su^per#2		
 :le:super#2
 :wd:su^per	adverb
+:wd:su^per	prep
 
 	<pos>prep.</pos>
 su^pe^ra_bi^lis		
@@ -198953,6 +198980,7 @@ suppu^ta_to_ri^us		<orth type=alt>subp-</orth>
 su_^pra_		<orth>su^pe^ra_</orth>	
 :le:supra
 :wd:su_^pra_	adverb
+:wd:su_^pra_	prep
 
 	<pos>prep.</pos>	
 :le:supra
@@ -212009,6 +212037,7 @@ ulto_ri^us
 ultra_		
 :le:ultra
 :wd:ultra_	adverb
+:wd:ultra_	prep
 
 	<pos>prep.</pos>
 ulte^ri^us		<orth>ulti^me_</orth>
@@ -216323,6 +216352,7 @@ versu_ra		<orth type=alt>vors-</orth>
 versus#2		<orth type=alt>vors-</orth>	
 :le:versus#2
 :wd:versus	adverb
+:wd:versus	prep
 
 	<pos>prep.</pos>
 versus#3		<orth type=alt>vors-</orth>	

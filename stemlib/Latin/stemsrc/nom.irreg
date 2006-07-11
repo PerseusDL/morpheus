@@ -38,7 +38,7 @@
 :wd:alteri_s   irreg_nom2 fem abl pl
 
 :le:alius#2
-:wd:alius irreg_nom2 neut nom acc sg
+:wd:alius irreg_nom2 masc nom sg
 :wd:aliud irreg_nom2 neut nom acc sg
 :wd:alia   irreg_nom2 fem nom sg
 :wd:aliius   irreg_nom2 masc/fem/neut gen sg
@@ -1069,29 +1069,26 @@
 :wd:ruribus   irreg_nom3 neut abl pl
 
 :le:senex
-:wd:senior   irreg_nom3 masc/fem nom/voc sg
 :wd:senex   irreg_nom3 masc nom sg
-:wd:senius   irreg_nom3 neut nom/voc/acc sg
-:wd:senioris   irreg_nom3 gen sg
+:wd:senior   irreg_nom3 masc nom/voc sg
 :wd:senis   irreg_nom3 masc gen sg
-:wd:seniori_   irreg_nom3 dat sg
+:wd:senioris   irreg_nom3 masc gen sg
 :wd:seni_   irreg_nom3 masc dat sg
+:wd:seniori_   irreg_nom3 masc dat sg
 :wd:senem   irreg_nom3 masc acc sg
-:wd:seniorem   irreg_nom3 masc/fem acc sg
-:wd:seniore   irreg_nom3 abl sg
+:wd:seniorem   irreg_nom3 masc acc sg
+:wd:seniore   irreg_nom3 masc abl sg
 :wd:sene   irreg_nom3 masc abl sg
-:wd:seniore_s   irreg_nom3 masc/fem nom/voc pl
+:wd:seniore_s   irreg_nom3 masc nom/voc pl
 :wd:sene_s   irreg_nom3 masc nom/voc pl
-:wd:seniora   irreg_nom3 neut nom/voc/acc pl
-:wd:seniorum   irreg_nom3 gen pl
+:wd:seniorum   irreg_nom3 masc gen pl
 :wd:senum   irreg_nom3 masc gen pl
-:wd:senioribus   irreg_nom3 dat pl
 :wd:senibus   irreg_nom3 masc dat pl
+:wd:senioribus   irreg_nom3 masc dat pl
 :wd:sene_s   irreg_nom3 masc acc pl
-:wd:seniore_s   irreg_nom3 masc/fem acc pl
-:wd:senioribus   irreg_nom3 abl pl
+:wd:seniore_s   irreg_nom3 masc acc pl
 :wd:senibus   irreg_nom3 masc abl pl
-:wd:senius   irreg_nom3 adverbial
+:wd:senioribus   irreg_nom3 masc abl pl
 
 :le:sus
 :wd:su_s   irreg_nom3 masc/fem nom sg

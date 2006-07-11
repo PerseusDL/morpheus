@@ -9,7 +9,7 @@ alterum 	irreg_nom2 neut nom/voc sg
 alter@ille	irreg_nom2
 
 :le:alius#2
-:wd:alius irreg_nom2 neut nom acc sg
+:wd:alius irreg_nom2 masc nom sg
 :wd:aliud irreg_nom2 neut nom acc sg
 ali@ille irreg_nom2
 
@@ -640,7 +640,7 @@ rur@decl3	irreg_nom3 neut
 :le:senex
 senex	irreg_nom3 masc nom sg
 sen@decl3	irreg_nom3 masc
-sen@comp_adj  	irreg_nom3
+sen@comp_adj  	irreg_nom3 masc
 
 :le:sus
 su_s		irreg_nom3 masc fem nom sg

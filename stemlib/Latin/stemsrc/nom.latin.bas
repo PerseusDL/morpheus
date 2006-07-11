@@ -1,3 +1,10 @@
+:le:ficus
+:no:fic	us_i masc
+:no:fic	us_us masc
+
+:le:terraemotus
+:no:terraemot	us_us masc
+
 :le:praedives
 :aj:praediv	es_itis masc fem neut
 
