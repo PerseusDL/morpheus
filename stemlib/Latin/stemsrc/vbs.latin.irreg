@@ -45,6 +45,7 @@
 :vs:vol		conj3 fut ind act
 :vs:vol		conj3 part
 :vs:volu^	perfstem
+:vs:uolu^	perfstem
 
 :vb:velim	irreg_pp1 pres subj act 1st sg
 :vb:veli_s	irreg_pp1 pres subj act 2nd sg

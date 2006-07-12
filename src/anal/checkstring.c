@@ -239,6 +239,8 @@ enclitic_word LatinSuff[] = {
   "ve", 0,
   "ue", 0,
   "libet", 0,
+  "vis", 0, /* quantusvis */
+  "piam", 0, /* quempiam */
   "dem", 0,
   "met", PRONOUN|PERS_PRON,
   "", 0				/* sentinel */
@@ -322,8 +324,13 @@ checkstring3(gk_word *Gkword)
        * Vt --> ut
        * Vtinam --> utinam etc.
        */
-      if(*string == 'v' && isalpha(*(string+1)) &&
-	 ! strchr("aeiou",*(string+1)) ) {
+
+      if(*string == 'v' && isalpha(*(string+1)) /* &&
+	* 
+	 * 07/12/2006 grc
+	 * loosen this up for "vacuus/uacuus"
+	 *
+	 ! strchr("aeiou",*(string+1))*/ ) {
 	*string = 'u';
       }
     } else

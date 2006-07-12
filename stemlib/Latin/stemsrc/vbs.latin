@@ -7419,9 +7419,12 @@
 :vs:illex perfstem
 :vs:illect pp4
 :le:illido
-:vs:illi_d	conj3
-:vs:illi_s perfstem
-:vs:illi_s pp4
+:vs:il-li_d	conj3
+:vs:in-li_d	conj3
+:vs:il-li_s perfstem
+:vs:in-li_s perfstem
+:vs:il-li_s pp4
+:vs:in-li_s pp4
 :le:illigo
 :de:illi^g	are_vb
 :le:illino
@@ -8511,6 +8514,16 @@
 :vs:inter-ce_d	conj3
 :vs:inter-cess perfstem
 :vs:inter-cess pp4
+
+:le:intercido1
+:vs:interci_d	conj3
+:vs:interci_d	perfstem
+:vs:interci_s	pp4
+
+:le:intercido2
+:vs:interci^d	conj3
+:vs:interci^d	perfstem
+
 :le:intercino
 :vs:inter-ci^n	conj3
 :le:intercipio
@@ -10359,6 +10372,7 @@
 :vs:ob-si^t pp4
 :le:observo
 :de:ob-serv	are_vb
+:de:ob-seru	are_vb
 :le:obsibilo
 :de:ob-si_bi^l	are_vb
 :le:obsidior
@@ -12042,8 +12056,10 @@
 :vs:porc	conj2
 :le:porrigo#1
 :vs:porri^g	conj3
+:vs:porg	conj3
 :vs:porrex perfstem
 :vs:porrect pp4
+
 :le:porrixo
 :de:porrix	are_vb
 :le:portendo
@@ -14887,6 +14903,8 @@
 :vs:servi_t pp4
 :le:servo
 :de:serv	are_vb
+:de:seru	are_vb
+
 :le:sessito
 :de:sessi^t	are_vb
 :le:sevoco
@@ -15418,8 +15436,8 @@
 :de:subsi^di	are_vb dep
 :le:subsido
 :vs:sub-si_d	conj3
-:vs:sub-si_se_d perfstem
-:vs:sub-si_sess pp4
+:vs:sub-se_d perfstem
+:vs:sub-sess pp4
 :le:subsigno
 :de:sub-sign	are_vb
 :le:subsilio
@@ -15485,6 +15503,9 @@
 :vs:subter-ja^c	conj2
 :le:subterjacio
 :vs:subter-ja^c	conj3_io
+:le:subterlabor
+:vs:subter-la_b	conj3
+
 :le:subterlino
 :vs:subter-li^n	conj3
 :le:subterluo
@@ -15894,6 +15915,10 @@
 :vs:su^pe^r-inpo^sit pp4
 :le:superincendo
 :vs:super-incend	conj3
+
+:le:superincub
+:de:super-incub	are_vb
+
 :le:superincerno
 :vs:su^pe^rincern	conj3
 :le:superincido
@@ -16865,10 +16890,15 @@
 :de:ve^ne_n	are_vb
 :le:veneror
 :de:ve^ne^r	are_vb dep
+
 :le:venio
 :vs:ve^n	conj4
 :vs:ve_n perfstem
 :vs:vent pp4
+:vs:ue^n	conj4
+:vs:ue_n perfstem
+:vs:uent pp4
+
 :le:venor
 :de:ve_n	are_vb dep
 :le:ventilo
@@ -16943,10 +16973,15 @@
 :vs:ve^te^ra_v perfstem
 :le:vetero
 :de:ve^te^r	are_vb
+
 :le:veto
 :vs:ve^t	conj1
 :vs:ve^tu^ perfstem
 :vs:ve^ti^t pp4
+:vs:ue^t	conj1
+:vs:ue^tu^ perfstem
+:vs:ue^ti^t pp4
+
 :le:vexo
 :de:vex	are_vb
 :le:vibrisso

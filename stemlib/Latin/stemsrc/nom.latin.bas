@@ -1,3 +1,12 @@
+:le:undesexaginta
+:wd:unde_sexaginta numeral
+
+:le:undetriginta
+:wd:unde_tri_ginta numeral
+
+:le:femur
+:no:fe^m	ur_oris neut
+
 :le:ficus
 :no:fic	us_i masc
 :no:fic	us_us masc
@@ -36,6 +45,7 @@
 
 :le:municeps
 :no:mu_ni^c	eps_ipitis masc fem
+:no:mu_ni^c	eps_ipis masc fem
 
 :le:undenonaginta
 :wd:undenonaginta numeral
@@ -88,6 +98,7 @@
 
 :le:duumvir
 :no:duumvir	0_i masc
+:no:duumuir	0_i masc
 
 :le:duodetriginta
 :wd:du^o^de_tri_ginta numeral
@@ -1233,6 +1244,7 @@
 
 :le:quadriduum
 :no:quadridu	us_i neut
+:no:quatridu	us_i neut
 
 :le:qualibet
 :wd:qua_li^bet	adverb

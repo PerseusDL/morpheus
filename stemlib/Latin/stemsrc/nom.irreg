@@ -1,4 +1,18 @@
 
+:le:mas
+:wd:ma_s	irreg_adj3 masc nom sg
+:wd:ma_ris	irreg_adj3 fem nom sg
+:wd:maris   irreg_adj3 masc/fem/neut gen sg
+:wd:mari_   irreg_adj3 masc/fem/neut dat sg
+:wd:marem   irreg_adj3 masc/fem acc sg
+:wd:mare   irreg_adj3 masc/fem/neut abl sg
+:wd:mare_s   irreg_adj3 masc/fem nom/voc pl
+:wd:mara   irreg_adj3 neut nom/voc/acc pl
+:wd:marum   irreg_adj3 masc/fem/neut gen pl
+:wd:maribus   irreg_adj3 masc/fem/neut dat pl
+:wd:mare_s   irreg_adj3 masc/fem acc pl
+:wd:maribus   irreg_adj3 masc/fem/neut abl pl
+
 :le:aer
 :wd:ae_r   irreg_nom3 masc nom sg
 :wd:aeris   irreg_nom3 masc gen sg

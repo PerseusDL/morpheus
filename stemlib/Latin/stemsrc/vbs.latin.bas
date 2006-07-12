@@ -1,3 +1,18 @@
+:le:resilio
+:vs:re^si^l	conj4
+:vs:re^si^lu^	perfstem
+:vs:re^si^li^	perfstem
+:vs:re^si^li^v	perfstem
+
+:le:linter
+:no:lint	er_ris masc fem
+
+:le:licet
+:wd:li^center	adverb
+
+:le:lascivio
+:de:lasci_v	ire_vb
+
 :le:strepo
 :vs:strep 	conj3
 :vs:strepu	perfstem
@@ -363,8 +378,8 @@
 :vs:in-plici	pp4
 
 :le:explico
-:vs:explic	are_vb
-:vs:explicu	perfstem
+:de:explic	are_vb
+:de:explicu	perfstem
 
 :le:facio
 :vs:fac		conj3_io no_comp
@@ -644,9 +659,8 @@
 :vs:gno_t	pp4 orth
 
 :le:oboedio
-:vs:oboed	conj4
-:vs:oboedi_v	perfstem
-:vs:oboedi_t	pp4
+:de:oboed	ire_vb
+:de:obed	ire_vb
 
 :le:obsideo
 :vs:obsid	conj2
@@ -1110,6 +1124,9 @@
 :vs:volv	conj3
 :vs:volu	perfstem
 :vs:volut	pp4
+:vs:uolu	conj3
+:vs:uolu	perfstem
+:vs:uolut	pp4
 
 :le:vulnero
 :de:volner	are_vb orth

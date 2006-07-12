@@ -63414,6 +63414,9 @@ du^o^-et-vi_ce_si^ma_ni
 :le:duoetvicesimani
 :no:du^o^-et-vi_ce_si^ma_n	us_i masc pl
 
+:le:duodeviceni
+:aj:du^o^de_vi_ce_n	us_a_um
+:aj:du^o^de_ui_ce_n	us_a_um
 
 du^o^-et-vi_ce_si^mus		
 :le:duoetvicesimus
@@ -71990,6 +71993,9 @@ ex-somnis		<orth type=alt>exomn-</orth>
 
 
 ex-sors		<orth type=alt>exors</orth>	<itype>sortis</itype>	<pos>adj.</pos>
+:le:expors
+:aj:expor	s_dis_adj
+
 exspecta_bi^lis		<orth type=alt>expect-</orth>	
 :le:exspectabilis
 :aj:exspecta_bi^l	is_e
@@ -72564,6 +72570,7 @@ exu_ti^o
 exu^vi^ae		
 :le:exuviae
 :no:exu^vi^	a_ae fem pl
+:no:exu^ui^	a_ae fem pl
 
 
 F		<orth type=alt>f</orth>	<itype>indecl.</itype>	<gen>n.</gen>	<gen>f.</gen>
@@ -75622,6 +75629,7 @@ fi_la_tim
 fi_li^a		
 :le:filia
 :no:fi_li^	a_ae fem
+:no:fi_li^abus	a_ae fem dat abl pl
 
 
 fi_li^a_lis		
@@ -98846,8 +98854,7 @@ infe^ri^o_res
 
 infi^mus		<orth>i_mus</orth>	<orth>infi^mum</orth>	
 :le:infimus
-:no:infi^m	us_i neut
-:no:i_m	us_i neut orth
+:aj:infi^m	us_a_um
 
 
 
@@ -105256,7 +105263,8 @@ irru^ma_tor		<orth type=alt>inr-</orth>
 irrumpi^bi^lis	
 irrupti^o		
 :le:irruptio
-:no:irrupti^	o_oLnis fem
+:no:ir-rupti^	o_oLnis fem
+:no:in-rupti^	o_oLnis fem
 
 
 irruptus#1		
@@ -106237,6 +106245,7 @@ jectu_ra
 je^cur		<orth>jo^cur</orth>	<itype>je^ci^no^ris</itype>	<gen>n.</gen>
 :le:jecur
 :no:je^c	ur_oris neut
+:no:jo^c	ur_oris neut
 
 je^cuscu^lum		
 :le:jecusculum
@@ -128151,6 +128160,9 @@ morti^ci_nus
 
 morti^ci_na		<itype>orum</itype>
 morti^fer		<itype>or</itype>
+:le:mortifer
+:aj:morti^fe^r	0_adj3
+:aj:morti^fe^r	us_a_um
 morti^fe^rus		<itype>e^ra, e^rum</itype>	<pos>adj.</pos>
 morti^fe^ra		<itype>um</itype>	
 :le:mortifera
@@ -137225,6 +137237,9 @@ obnunti^a_ti^o		<orth type=alt>obnunc-</orth>
 :le:obnuntiatio
 :no:obnunti^a_ti^	o_oLnis fem
 
+o^boedi^ens
+:le:oboediens
+:aj:o^boedi^	ens_adj
 
 o^boedi^enter		
 :le:oboedienter
@@ -143821,6 +143836,8 @@ paene		<orth>pe_ne</orth>
 paeninsu^la		<orth type=alt>pe_n-</orth>	
 :le:paeninsula
 :no:paeninsu^l	a_ae fem
+:no:paeneinsu^l	a_ae fem
+:no:peninsu^l	a_ae fem
 
 
 paeni^tenti^a		
@@ -148445,6 +148462,14 @@ pectuscu^lum
 
 PectuscumPa^la_ti	
 pe^cu		<gen>n.</gen>
+:le:pecu
+:no:pe^cu	irreg_decl3 neut nom voc acc sg
+:no:pe^cui	irreg_decl3 neut dat sg
+:no:pe^cu	irreg_decl3 neut abl sg
+:no:pe^cua	irreg_decl3 neut nom voc acc pl
+:no:pe^cuda	irreg_decl3 neut nom voc acc pl
+:no:pe^cuum	irreg_decl3 neut gen pl
+
 pe^cu^a_lis		
 :le:pecualis
 :aj:pe^cu^a_l	is_e
@@ -163271,6 +163296,9 @@ prae-ru^ti^lus
 
 
 praes#1		<itype>praedis</itype>	<gen>m.</gen>
+:le:praes#1
+:no:prae	s_dis masc
+
 praes#2		
 :le:praes#2
 :wd:praes	adverb
@@ -166445,6 +166473,7 @@ pro_muntu^ri^um		<orth type=alt>pro_mon-</orth>
 :le:promunturium
 :no:pro_muntu^r	ius_i neut
 :no:pro_montu^r	ius_i neut orth
+:no:pro_munto^r	ius_i neut orth
 
 
 
@@ -169484,6 +169513,7 @@ pulvillus
 pulvi_nar		<orth type=alt>polv-</orth>	
 :le:pulvinar
 :no:pulvi_nar	0_is neut
+:no:pului_nar	0_is neut
 :no:polvi_nar	0_is neut orth
 
 
@@ -170805,6 +170835,7 @@ qua_^dra_ge_si^mus		<orth>qua_^-dra_gensu^mus</orth>
 qua_^-dra_ge_si^ma		
 :le:quadragesima
 :no:qua_^-dra_ge_si^m	a_ae fem
+:no:qua_^-dra_gensi^m	a_ae fem
 
 
 :le:quadragies
@@ -175557,6 +175588,8 @@ re^pu^ta_ti^o
 re^-qui^es		
 :le:requies
 :no:re^-qui^	es_eLtis fem
+:no:re^-qui^	us_i fem gen sg
+:no:re^-qui^	0_is fem abl sg
 
 
 re^qui^e_ti^o		
@@ -183178,6 +183211,9 @@ scorpi^na_ca
 
 
 scorpi^o		<itype>o_nis</itype>
+:le:scorpio
+:no:scorpi	o_oLnis masc
+
 scorpi^us		<orth>-o^s</orth>	
 :le:scorpius
 :no:scorp	ius_i masc
@@ -184525,6 +184561,9 @@ segni^tas
 
 segni^ti^a		<itype>ae, and</itype>
 segni^-ti^es		<itype>em, e_</itype>	<gen>f.</gen>
+:le:segnities
+:no:segni^-ti	es_ei fem
+
 Se_go^_bri_ga		
 :le:Segobriga
 :no:Se_go^_bri_g	a_ae fem
@@ -184841,6 +184880,7 @@ se_menti_vus
 se_mestris#1		
 :le:semestris#1
 :aj:se_mestr	is_e
+:aj:se_menstr	is_e
 
 
 se_-mestri^a		
@@ -186412,6 +186452,7 @@ septu^a_ge_ni		<itype>ae, a</itype>
 septu^a_ge_simus		
 :le:septuagesimus
 :aj:septu^a_ge_sim	us_a_um
+:aj:septu^a_gensim	us_a_um
 
 
 septu^a_gi^es		
@@ -186435,6 +186476,9 @@ septu^enni^um
 
 septenni^um	
 septunx		<itype>uncis</itype>	<gen>m.</gen>
+:le:septunx
+:no:septun	x_cis masc
+
 septu^o_se_		<orth type=alt>saep-</orth>	
 :le:septuose
 :wd:septu^o_se_	adverb
@@ -187091,6 +187135,7 @@ servi^cu^lus
 servi_lis		
 :le:servilis
 :aj:servi_l	is_e
+:aj:serui_l	is_e
 
 	<pos>adv.</pos>
 servi_le		<orth>servi_li^ter</orth>	<orth type=alt>class.</orth>	<pos>adj.</pos>	
@@ -187121,11 +187166,13 @@ Servi_li^a_nus
 servi^ti^um		
 :le:servitium
 :no:servi^t	ius_i neut
+:no:serui^t	ius_i neut
 
 
 servi_tor		
 :le:servitor
 :no:servi_t	or_oLris masc
+:no:serui_t	or_oLris masc
 
 
 servi^tri_ti^us		
@@ -187136,6 +187183,7 @@ servi^tri_ti^us
 servi^tu_do		
 :le:servitudo
 :no:servi^tu_d	o_inis fem
+:no:serui_t	or_oLris masc
 
 
 servi^tu_s		
@@ -187663,6 +187711,9 @@ sexta_ni
 
 
 sextans		<itype>antis</itype>	<gen>m.</gen>
+:le:sextans
+:no:sext	ans_antis masc
+
 sextanta_lis		
 :le:sextantalis
 :aj:sextanta_l	is_e
@@ -188629,6 +188680,7 @@ silva_ti^cus		<orth type=alt>sylv-</orth>
 silvestris		<orth>silvester</orth>	<orth>sylv-</orth>	
 :le:silvestris
 :aj:silvestr	is_e
+:aj:siluestr	is_e
 :aj:sylvestr	is_e orth
 
 
@@ -188852,6 +188904,9 @@ si^mu^l		<orth>se^mu^l</orth>	<orth>se^-mo^l</orth>
 
 
 si^mu^lac		<orth type=alt>si^mu^latque</orth>
+:le:simul
+:wd:simulac	conj
+
 si^mu^la_crum		
 :le:simulacrum
 :no:si^mu^la_cr	us_i neut
@@ -190313,6 +190368,7 @@ sollemni^tus		<orth type=alt>sollenn-, so_lenn-, so_lemn-</orth>
 
 sollers		<orth type=alt>so_lers</orth>	<itype>tis</itype>	<pos>adj.</pos>	<itype>Hence</itype>	
 :le:sollers
+:aj:soller	s_tis_adj
 :wd:sollers	adverb
 
 
@@ -202954,7 +203010,7 @@ tensu_ra
 tenta_bundus		<orth type=alt>tempt-</orth>	
 :le:tentabundus
 :aj:tenta_bund	us_a_um
-:aj:temptenta_bund	us_a_um orth
+:aj:tempta_bund	us_a_um orth
 
 
 
@@ -208640,6 +208696,7 @@ tri^bu^lus		<orth type=alt>tri^bo^l-</orth>
 tri^bu_nal		<orth>tri^bu_na_le</orth>	
 :le:tribunal
 :no:tri^bu_nal	0_is neut
+:no:tri^bu_nal	is_is neut nom voc acc pl
 
 
 tri^bu_na_tus		
@@ -208773,6 +208830,14 @@ tri_ce_si^ma_ni
 :le:tricesimani
 :no:tri_ce_si^ma_n	us_i masc pl
 
+
+tri_ce_si^mus		<orth>tri_ge_si^mus</orth>	<orth>Tri_ce_si^mae</orth>	<itype>a_rum</itype>	<gen>f.</gen>
+:le:tricesimus
+:aj:tri_ce_si^m	us_a_um
+:aj:tri_censi^m	us_a_um
+:aj:tri_ge_si^m	us_a_um
+
+us		<orth>tri_ge_si^mus</orth>	<orth>Tri_ce_si^mae</orth>	<itype>a_rum</itype>	<gen>f.</gen>
 
 tri_ce_si^mus		<orth>tri_ge_si^mus</orth>	<orth>Tri_ce_si^mae</orth>	<itype>a_rum</itype>	<gen>f.</gen>
 tri_cessis		
@@ -209468,6 +209533,9 @@ tri^parti_to_		<orth type=alt>-perti_to_</orth>
 tri^parti_tus		<orth>-perti_tus</orth>	
 :le:tripartitus
 :aj:tri^parti_t	us_a_um
+:aj:tri^perti_t	us_a_um
+:wd:tri^parti_to	adverb
+:wd:tri^perti_to	adverb
 
 
 Tri^perti_ta		
@@ -209950,6 +210018,7 @@ tri^umvi^ra_tus
 triumvi^ri		<orth>tresvi^ri</orth>	<orth>IIIvi^ri</orth>	<itype>o_rum or u_m</itype>	<gen>m.</gen>
 :le:triumviri
 :no:triumvi^r	0_i masc 
+:no:triumui^r	0_i masc 
 
 tri^uncis		
 :le:triuncis
@@ -212551,7 +212620,9 @@ unde_vi_ce_si^ma_ni
 unde_vi_ce_si^mus		<orth>unde_vi_ge_si^-mus</orth>	
 :le:undevicesimus
 :aj:unde_vi_ce_si^m	us_a_um
+:aj:unde_vi_censi^m	us_a_um
 :aj:unde_vi_ge_si^-m	us_a_um orth
+:aj:unde_vi_gensi^-m	us_a_um orth
 
 
 
@@ -213758,11 +213829,13 @@ Va^cu_na_lis
 va^cu^us		
 :le:vacuus
 :aj:va^cu^	us_a_um
+:aj:ua^cu^	us_a_um
 
 
 va^-cu^um		
 :le:vacuum
 :no:va^-cu^	us_i neut
+:no:ua^-cu^	us_i neut
 
 
 va^cu^um		
@@ -214435,6 +214508,10 @@ Varvarini
 
 
 va^s#1		<itype>va^dis</itype>	<gen>m.</gen>
+:le:vas1
+:no:va	s_dis masc
+:no:ua	s_dis masc
+
 va_s#2		<orth>va_sa</orth>	<itype>o_rum</itype>
 va_sum		
 :le:vasum
@@ -217668,6 +217745,7 @@ vi^du^a_ta
 vi^du^us		
 :le:viduus
 :aj:vi^du^	us_a_um
+:aj:ui^du^	us_a_um
 
 
 vi^du^a		
@@ -219196,6 +219274,7 @@ vi_ventes		<itype>ium</itype>
 vi_vus		
 :le:vivus
 :aj:vi_v	us_a_um
+:aj:ui_u	us_a_um
 
 	<pos>Adj.</pos>
 vi_vus		
