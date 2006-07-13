@@ -4,7 +4,7 @@
 #noanalysis:(?)
 
 :le:(anicius
-:no:(anici us_i masc
+:no:(anic ius_i masc
 
 #noanalysis:(anthus?)
 
@@ -18,14 +18,14 @@
 #noanalysis:(gallus?)
 
 :le:(genesius
-:no:(genesi us_i masc
+:no:(genes ius_i masc
 
 #noanalysis:(gens
 
 #noanalysis:(gregorius)
 
 :le:(greogorius
-:no:(greogori us_i masc
+:no:(greogor ius_i masc
 
 :le:(gyneus
 :no:(gyne us_i masc
@@ -66,7 +66,7 @@
 #noanalysis:Abelux
 
 :le:Abercius
-:no:Aberci us_i masc
+:no:Aberc ius_i masc
 
 :le:Abgarus
 :no:Abgar us_i masc
@@ -81,10 +81,10 @@
 :no:Abitian us_i masc
 
 :le:Ablabius
-:no:Ablabi us_i masc
+:no:Ablab ius_i masc
 
 :le:Ablavius
-:no:Ablavi us_i masc
+:no:Ablav ius_i masc
 
 #noanalysis:Abradatas
 
@@ -99,10 +99,10 @@
 #noanalysis:Abron
 
 :le:Abroniius
-:no:Abronii us_i masc
+:no:Abroni ius_i masc
 
 :le:Abronius
-:no:Abroni us_i masc
+:no:Abron ius_i masc
 
 :le:Abronychus
 :no:Abronych us_i masc
@@ -120,7 +120,7 @@
 :no:Absimar us_i masc
 
 :le:Abudius
-:no:Abudi us_i masc
+:no:Abud ius_i masc
 
 :le:Abulites
 :no:Abulit es_is fem
@@ -135,13 +135,13 @@
 :no:Acacall is_is fem
 
 :le:Acacesius
-:no:Acacesi us_i masc
+:no:Acaces ius_i masc
 
 :le:Acacetes
 :no:Acacet es_is fem
 
 :le:Acacius
-:no:Acaci us_i masc
+:no:Acac ius_i masc
 
 :le:Acacus
 :no:Acac us_i masc
@@ -155,7 +155,7 @@
 :no:Accolei a_ae fem
 
 :le:Accoleius
-:no:Accolei us_i masc
+:no:Accole ius_i masc
 
 :le:Aceratus
 :no:Acerat us_i masc
@@ -175,7 +175,7 @@
 #noanalysis:Acesias
 
 :le:Acesius
-:no:Acesi us_i masc
+:no:Aces ius_i masc
 
 :le:Acestodorus
 :no:Acestodor us_i masc
@@ -196,7 +196,7 @@
 #noanalysis:Achmet
 
 :le:Acholius
-:no:Acholi us_i masc
+:no:Achol ius_i masc
 
 :le:Acholoe
 :no:Acholo e_es fem
@@ -205,7 +205,7 @@
 :no:Ach us_i masc
 
 :le:Acichorius
-:no:Acichori us_i masc
+:no:Acichor ius_i masc
 
 :le:Acindynus
 :no:Acindyn us_i masc
@@ -252,7 +252,7 @@
 :no:Actisan es_is fem
 
 :le:Actuarius
-:no:Actuari us_i masc
+:no:Actuar ius_i masc
 
 :le:Acumenus
 :no:Acumen us_i masc
@@ -270,7 +270,7 @@
 :no:Adamantei a_ae fem
 
 :le:Adamantius
-:no:Adamanti us_i masc
+:no:Adamant ius_i masc
 
 :le:Adaulphus
 :no:Adaulph us_i masc
@@ -279,7 +279,7 @@
 :no:Adeimant us_i masc
 
 :le:Adgandestrius
-:no:Adgandestri us_i masc
+:no:Adgandestr ius_i masc
 
 #noanalysis:Adherbal
 
@@ -295,7 +295,7 @@
 :no:Adrastei a_ae fem
 
 :le:Adusius
-:no:Adusi us_i masc
+:no:Adus ius_i masc
 
 :le:Aeaces
 :no:Aeac es_is fem
@@ -304,7 +304,7 @@
 :no:Aeantid es_is fem
 
 :le:Aedesius
-:no:Aedesi us_i masc
+:no:Aedes ius_i masc
 
 :le:Aedesta
 :no:Aedest a_ae fem
@@ -324,12 +324,12 @@
 :no:Aegest us_i masc
 
 :le:Aegidius
-:no:Aegidi us_i masc
+:no:Aegid ius_i masc
 
 #noanalysis:Aegidu
 
 :le:Aegimius
-:no:Aegimi us_i masc
+:no:Aegim ius_i masc
 
 :le:Aegimus
 :no:Aegim us_i masc
@@ -370,7 +370,7 @@
 :no:Aelur us_i masc
 
 :le:Aemiilius
-:no:Aemiili us_i masc
+:no:Aemiil ius_i masc
 
 :le:Aenesidemus
 :no:Aenesidem us_i masc
@@ -385,7 +385,7 @@
 :no:Aepyt us_i masc
 
 :le:Aerius
-:no:Aeri us_i masc
+:no:Aer ius_i masc
 
 :le:Aesara
 :no:Aesar a_ae fem
@@ -413,7 +413,7 @@
 :no:Aethill a_ae fem
 
 :le:Aethlius
-:no:Aethli us_i masc
+:no:Aethl ius_i masc
 
 :le:Aethusa
 :no:Aethus a_ae fem
@@ -424,7 +424,7 @@
 #noanalysis:Aetion
 
 :le:Aetius
-:no:Aeti us_i masc
+:no:Aet ius_i masc
 
 #noanalysis:Afer
 
@@ -445,7 +445,7 @@
 :no:Agapet us_i masc
 
 :le:Agapius
-:no:Agapi us_i masc
+:no:Agap ius_i masc
 
 :le:Agarista
 :no:Agarist a_ae fem
@@ -503,7 +503,7 @@
 :no:Agelei a_ae fem
 
 :le:Agellius
-:no:Agelli us_i masc
+:no:Agell ius_i masc
 
 :le:Agepolis
 :no:Agepol is_is fem
@@ -565,7 +565,7 @@
 :no:Agnapt us_i masc
 
 :le:Agnius
-:no:Agni us_i masc
+:no:Agn ius_i masc
 
 :le:Agnodice
 :no:Agnodic e_es fem
@@ -578,7 +578,7 @@
 #noanalysis:Agon
 
 :le:Agonius
-:no:Agoni us_i masc
+:no:Agon ius_i masc
 
 :le:Agoracritus
 :no:Agoracrit us_i masc
@@ -587,7 +587,7 @@
 :no:Agorae a_ae fem
 
 :le:Agorius
-:no:Agori us_i masc
+:no:Agor ius_i masc
 
 :le:Agraeus
 :no:Agrae us_i masc
@@ -600,7 +600,7 @@
 :no:Agre us_i masc
 
 :le:Agrionius
-:no:Agrioni us_i masc
+:no:Agrion ius_i masc
 
 #noanalysis:Agriopas
 
@@ -608,7 +608,7 @@
 :no:Agrippin us_i masc
 
 :le:Agroecius
-:no:Agroeci us_i masc
+:no:Agroec ius_i masc
 
 #noanalysis:Agroetas
 
@@ -621,7 +621,7 @@
 :no:Agyie us_i masc
 
 :le:Agyrrhius
-:no:Agyrrhi us_i masc
+:no:Agyrrh ius_i masc
 
 :le:Aides
 :no:Aid es_is fem
@@ -630,7 +630,7 @@
 :no:Aidone us_i masc
 
 :le:Aius
-:no:Ai us_i masc
+:no:A ius_i masc
 
 :le:Alabandus
 :no:Alaband us_i masc
@@ -651,7 +651,7 @@
 :no:Alathe us_i masc
 
 :le:Alautius
-:no:Alauti us_i masc
+:no:Alaut ius_i masc
 
 :le:Albia
 :no:Albi a_ae fem
@@ -709,7 +709,7 @@
 :no:Alet es_is fem
 
 :le:Alethius
-:no:Alethi us_i masc
+:no:Aleth ius_i masc
 
 :le:Alexandra
 :no:Alexandr a_ae fem
@@ -741,7 +741,7 @@
 :no:Alexipp us_i masc
 
 :le:Alexius
-:no:Alexi us_i masc
+:no:Alex ius_i masc
 
 #noanalysis:Alexon
 
@@ -765,10 +765,10 @@
 :no:Allect us_i masc
 
 :le:Alledius
-:no:Alledi us_i masc
+:no:Alled ius_i masc
 
 :le:Allucius
-:no:Alluci us_i masc
+:no:Alluc ius_i masc
 
 #noanalysis:Almops
 
@@ -799,7 +799,7 @@
 :no:Alphen us_i masc
 
 :le:Alphius
-:no:Alphi us_i masc
+:no:Alph ius_i masc
 
 :le:Althemenes
 :no:Althemen es_is fem
@@ -811,7 +811,7 @@
 :no:Alyatt es_is fem
 
 :le:Alypius
-:no:Alypi us_i masc
+:no:Alyp ius_i masc
 
 :le:Alypus
 :no:Alyp us_i masc
@@ -826,7 +826,7 @@
 :no:Amaesi a_ae fem
 
 :le:Amafanius
-:no:Amafani us_i masc
+:no:Amafan ius_i masc
 
 :le:Amaltheia
 :no:Amalthei a_ae fem
@@ -847,7 +847,7 @@
 :no:Amathusi a_ae fem
 
 :le:Amatius
-:no:Amati us_i masc
+:no:Amat ius_i masc
 
 :le:Ambigatus
 :no:Ambigat us_i masc
@@ -866,7 +866,7 @@
 :no:Ambuli a_ae fem
 
 :le:Ambulii
-:no:Ambuli us_i masc pl
+:no:Ambul ius_i masc pl
 
 :le:Ambustus
 :no:Ambust us_i masc
@@ -882,7 +882,7 @@
 :no:Amelesagor hs_ou masc
 
 :le:Amelius
-:no:Ameli us_i masc
+:no:Amel ius_i masc
 
 :le:Amentes
 :no:Ament es_is fem
@@ -894,7 +894,7 @@
 :no:Amestr is_is fem
 
 :le:Amimonius
-:no:Amimoni us_i masc
+:no:Amimon ius_i masc
 
 :le:Amisodarus
 :no:Amisodar us_i masc
@@ -930,7 +930,7 @@
 :no:Amorg es_is fem
 
 :le:Ampelius
-:no:Ampeli us_i masc
+:no:Ampel ius_i masc
 
 #noanalysis:Amphianax
 
@@ -958,7 +958,7 @@
 :no:Amphigyee is_is fem
 
 :le:Amphiilochius
-:no:Amphiilochi us_i masc
+:no:Amphiiloch ius_i masc
 
 :le:Amphilytus
 :no:Amphilyt us_i masc
@@ -976,7 +976,7 @@
 :no:Amphithem is_is fem
 
 :le:Amphius
-:no:Amphi us_i masc
+:no:Amph ius_i masc
 
 :le:Amphoterus
 :no:Amphoter us_i masc
@@ -991,7 +991,7 @@
 #noanalysis:Amynander
 
 :le:Amynomacius
-:no:Amynomaci us_i masc
+:no:Amynomac ius_i masc
 
 :le:Amyntianus
 :no:Amyntian us_i masc
@@ -1012,16 +1012,16 @@
 :no:Anagnost es_is fem
 
 :le:Ananius
-:no:Anani us_i masc
+:no:Anan ius_i masc
 
 :le:Anastasia
 :no:Anastasi a_ae fem
 
 :le:Anastasius
-:no:Anastasi us_i masc
+:no:Anastas ius_i masc
 
 :le:Anatolius
-:no:Anatoli us_i masc
+:no:Anatol ius_i masc
 
 #noanalysis:Anax
 
@@ -1039,7 +1039,7 @@
 :no:Anaxibi a_ae fem
 
 :le:Anaxibius
-:no:Anaxibi us_i masc
+:no:Anaxib ius_i masc
 
 :le:Anaxicrates
 :no:Anaxicrat es_is fem
@@ -1067,10 +1067,10 @@
 #noanalysis:Anaxo
 
 :le:Anchesmius
-:no:Anchesmi us_i masc
+:no:Anchesm ius_i masc
 
 :le:Anchimolius
-:no:Anchimoli us_i masc
+:no:Anchimol ius_i masc
 
 :le:Anchinoe
 :no:Anchino e_es fem
@@ -1104,7 +1104,7 @@
 :no:Andre us_i masc
 
 :le:Androbius
-:no:Androbi us_i masc
+:no:Androb ius_i masc
 
 :le:Androbulus
 :no:Androbul us_i masc
@@ -1185,7 +1185,7 @@
 #noanalysis:Anteias
 
 :le:Anteius
-:no:Antei us_i masc
+:no:Ante ius_i masc
 
 :le:Anthaeus
 :no:Anthae us_i masc
@@ -1195,10 +1195,10 @@
 #noanalysis:Antheas
 
 :le:Anthelii
-:no:Antheli us_i masc pl
+:no:Anthel ius_i masc pl
 
 :le:Anthemius
-:no:Anthemi us_i masc
+:no:Anthem ius_i masc
 
 :le:Anthermus
 :no:Antherm us_i masc
@@ -1322,10 +1322,10 @@
 #noanalysis:Apellicon
 
 :le:Apemius
-:no:Apemi us_i masc
+:no:Apem ius_i masc
 
 :le:Apesantius
-:no:Apesanti us_i masc
+:no:Apesant ius_i masc
 
 :le:Aphacitis
 :no:Aphacit is_is fem
@@ -1335,7 +1335,7 @@
 #noanalysis:Aphepsion
 
 :le:Aphneius
-:no:Aphnei us_i masc
+:no:Aphne ius_i masc
 
 :le:Aphrodisianus
 :no:Aphrodisian us_i masc
@@ -1344,13 +1344,13 @@
 :no:Aphrodisiens is_is fem
 
 :le:Aphthonius
-:no:Aphthoni us_i masc
+:no:Aphthon ius_i masc
 
 :le:Apicata
 :no:Apicat a_ae fem
 
 :le:Apinius
-:no:Apini us_i masc
+:no:Apin ius_i masc
 
 #noanalysis:Apisaon
 
@@ -1366,7 +1366,7 @@
 :no:Apollothem is_is fem
 
 :le:Apomyius
-:no:Apomyi us_i masc
+:no:Apomy ius_i masc
 
 :le:Aponianus
 :no:Aponian us_i masc
@@ -1392,7 +1392,7 @@
 :no:Apusti a_ae fem
 
 :le:Apustius
-:no:Apusti us_i masc
+:no:Apust ius_i masc
 
 :le:Aquilinus
 :no:Aquilin us_i masc
@@ -1401,7 +1401,7 @@
 :no:Aquilli a_ae fem
 
 :le:Aquillius
-:no:Aquilli us_i masc
+:no:Aquill ius_i masc
 
 :le:Arabianus
 :no:Arabian us_i masc
@@ -1412,7 +1412,7 @@
 #noanalysis:Aracynthias
 
 :le:Ararsius
-:no:Ararsi us_i masc
+:no:Arars ius_i masc
 
 :le:Araspes
 :no:Arasp es_is fem
@@ -1420,10 +1420,10 @@
 #noanalysis:Arbiter
 
 :le:Arbius
-:no:Arbi us_i masc
+:no:Arb ius_i masc
 
 :le:Arborius
-:no:Arbori us_i masc
+:no:Arbor ius_i masc
 
 #noanalysis:Arcathias
 
@@ -1434,7 +1434,7 @@
 :no:Arceisiad es_is fem
 
 :le:Arceisius
-:no:Arceisi us_i masc
+:no:Arceis ius_i masc
 
 #noanalysis:Arceophon
 
@@ -1477,7 +1477,7 @@
 :no:Archetim us_i masc
 
 :le:Archibius
-:no:Archibi us_i masc
+:no:Archib ius_i masc
 
 :le:Archidameia
 :no:Archidamei a_ae fem
@@ -1541,10 +1541,10 @@
 :no:Areitho us_i masc
 
 :le:Arellius
-:no:Arelli us_i masc
+:no:Arell ius_i masc
 
 :le:Arennius
-:no:Arenni us_i masc
+:no:Arenn ius_i masc
 
 #noanalysis:Aresas
 
@@ -1571,7 +1571,7 @@
 :no:Argeiphont es_is fem
 
 :le:Argelius
-:no:Argeli us_i masc
+:no:Argel ius_i masc
 
 :le:Arges
 :no:Arg es_is fem
@@ -1751,7 +1751,7 @@
 :no:Arnae us_i masc
 
 :le:Arpineius
-:no:Arpinei us_i masc
+:no:Arpine ius_i masc
 
 :le:Arpoxais
 :no:Arpoxa is_is fem
@@ -1778,7 +1778,7 @@
 :no:Arsam es_is fem
 
 :le:Arsenius
-:no:Arseni us_i masc
+:no:Arsen ius_i masc
 
 :le:Arses
 :no:Ars es_is fem
@@ -1833,13 +1833,13 @@
 :no:Artem is_is fem
 
 :le:Artemisius
-:no:Artemisi us_i masc
+:no:Artemis ius_i masc
 
 :le:Artemius
-:no:Artemi us_i masc
+:no:Artem ius_i masc
 
 :le:Articuleius
-:no:Articulei us_i masc
+:no:Articule ius_i masc
 
 :le:Artoces
 :no:Artoc es_is fem
@@ -1848,10 +1848,10 @@
 :no:Arton is_is fem
 
 :le:Artorius
-:no:Artori us_i masc
+:no:Artor ius_i masc
 
 :le:Artybius
-:no:Artybi us_i masc
+:no:Artyb ius_i masc
 
 :le:Artystone
 :no:Artyston e_es fem
@@ -1860,7 +1860,7 @@
 :no:Arulen us_i masc
 
 :le:Aruntius
-:no:Arunti us_i masc
+:no:Arunt ius_i masc
 
 :le:Arusianus
 :no:Arusian us_i masc
@@ -1896,7 +1896,7 @@
 :no:Asclepiodor us_i masc
 
 :le:Asclepius
-:no:Asclepi us_i masc
+:no:Asclep ius_i masc
 
 :le:Ascus
 :no:Asc us_i masc
@@ -1907,13 +1907,13 @@
 :no:Asell us_i masc
 
 :le:Asidius
-:no:Asidi us_i masc
+:no:Asid ius_i masc
 
 :le:Asmmonius
-:no:Asmmoni us_i masc
+:no:Asmmon ius_i masc
 
 :le:Asopius
-:no:Asopi us_i masc
+:no:Asop ius_i masc
 
 :le:Asopodorus
 :no:Asopodor us_i masc
@@ -1922,7 +1922,7 @@
 :no:Aspal is_is fem
 
 :le:Aspasius
-:no:Aspasi us_i masc
+:no:Aspas ius_i masc
 
 :le:Aspathines
 :no:Aspathin es_is fem
@@ -1930,7 +1930,7 @@
 #noanalysis:Asper
 
 :le:Asphalius
-:no:Asphali us_i masc
+:no:Asphal ius_i masc
 
 #noanalysis:Aspledon
 
@@ -1950,7 +1950,7 @@
 #noanalysis:Assteas
 
 :le:Asterius
-:no:Asteri us_i masc
+:no:Aster ius_i masc
 
 :le:Asterodia
 :no:Asterodi a_ae fem
@@ -2006,10 +2006,10 @@
 :no:Asych is_is fem
 
 :le:Atabyrius
-:no:Atabyri us_i masc
+:no:Atabyr ius_i masc
 
 :le:Atanius
-:no:Atani us_i masc
+:no:Atan ius_i masc
 
 #noanalysis:Atarrhias
 
@@ -2023,7 +2023,7 @@
 :no:Aterian us_i masc
 
 :le:Aterius
-:no:Ateri us_i masc
+:no:Ater ius_i masc
 
 #noanalysis:Athanadas
 
@@ -2103,13 +2103,13 @@
 :no:Attilian us_i masc
 
 :le:Attilius
-:no:Attili us_i masc
+:no:Attil ius_i masc
 
 :le:Attus
 :no:Att us_i masc
 
 :le:Atymnius
-:no:Atymni us_i masc
+:no:Atymn ius_i masc
 
 :le:Auctus
 :no:Auct us_i masc
@@ -2118,12 +2118,12 @@
 :no:Audat a_ae fem
 
 :le:Audentius
-:no:Audenti us_i masc
+:no:Audent ius_i masc
 
 #noanalysis:Audoleon
 
 :le:Auffidius
-:no:Auffidi us_i masc
+:no:Auffid ius_i masc
 
 :le:Aufidienus
 :no:Aufidien us_i masc
@@ -2140,7 +2140,7 @@
 :no:Augustul us_i masc
 
 :le:Aulanius
-:no:Aulani us_i masc
+:no:Aulan ius_i masc
 
 :le:Aulanus
 :no:Aulan us_i masc
@@ -2149,10 +2149,10 @@
 :no:Auli a_ae fem
 
 :le:Aulius
-:no:Auli us_i masc
+:no:Aul ius_i masc
 
 :le:Aulonius
-:no:Auloni us_i masc
+:no:Aulon ius_i masc
 
 :le:Aurelus
 :no:Aurel us_i masc
@@ -2215,7 +2215,7 @@
 :no:Avidien us_i masc
 
 :le:Avidius
-:no:Avidi us_i masc
+:no:Avid ius_i masc
 
 :le:Aviola
 :no:Aviol a_ae fem
@@ -2254,7 +2254,7 @@
 :no:Aze us_i masc
 
 :le:Babrius
-:no:Babri us_i masc
+:no:Babr ius_i masc
 
 #noanalysis:Babys
 
@@ -2264,13 +2264,13 @@
 :no:Bacchyl us_i masc
 
 :le:Bachiarius
-:no:Bachiari us_i masc
+:no:Bachiar ius_i masc
 
 :le:Bacillus
 :no:Bacill us_i masc
 
 :le:Badius
-:no:Badi us_i masc
+:no:Bad ius_i masc
 
 :le:Badres
 :no:Badr es_is fem
@@ -2307,7 +2307,7 @@
 #noanalysis:Balas
 
 :le:Balbilius
-:no:Balbili us_i masc
+:no:Balbil ius_i masc
 
 :le:Balbinus
 :no:Balbin us_i masc
@@ -2321,13 +2321,13 @@
 #noanalysis:Balsamo
 
 :le:Balventius
-:no:Balventi us_i masc
+:no:Balvent ius_i masc
 
 :le:Bantius
-:no:Banti us_i masc
+:no:Bant ius_i masc
 
 :le:Baphius
-:no:Baphi us_i masc
+:no:Baph ius_i masc
 
 :le:Barbata
 :no:Barbat a_ae fem
@@ -2335,7 +2335,7 @@
 #noanalysis:Barbatio
 
 :le:Barbatius
-:no:Barbati us_i masc
+:no:Barbat ius_i masc
 
 :le:Barbatus
 :no:Barbat us_i masc
@@ -2347,7 +2347,7 @@
 :no:Barbill us_i masc
 
 :le:Barbius
-:no:Barbi us_i masc
+:no:Barb ius_i masc
 
 :le:Barbucallus
 :no:Barbucall us_i masc
@@ -2373,7 +2373,7 @@
 :no:Barsaent es_is fem
 
 :le:Barsanuphius
-:no:Barsanuphi us_i masc
+:no:Barsanuph ius_i masc
 
 :le:Barsine
 :no:Barsin e_es fem
@@ -2415,7 +2415,7 @@
 :no:Basilisc us_i masc
 
 :le:Basilius
-:no:Basili us_i masc
+:no:Basil ius_i masc
 
 :le:Bassaeus
 :no:Bassae us_i masc
@@ -2430,7 +2430,7 @@
 :no:Batei a_ae fem
 
 :le:Bathanatius
-:no:Bathanati us_i masc
+:no:Bathanat ius_i masc
 
 :le:Bathycles
 :no:Bathycl es_is fem
@@ -2441,7 +2441,7 @@
 #noanalysis:Baubo
 
 :le:Bebius
-:no:Bebi us_i masc
+:no:Beb ius_i masc
 
 :le:Begoe
 :no:Bego e_es fem
@@ -2450,10 +2450,10 @@
 :no:Beles is_is fem
 
 :le:Belgius
-:no:Belgi us_i masc
+:no:Belg ius_i masc
 
 :le:Belisarius
-:no:Belisari us_i masc
+:no:Belisar ius_i masc
 
 #noanalysis:Bellerophon
 
@@ -2461,7 +2461,7 @@
 :no:Beller us_i masc
 
 :le:Bellicius
-:no:Bellici us_i masc
+:no:Bellic ius_i masc
 
 :le:Bellinus
 :no:Bellin us_i masc
@@ -2473,7 +2473,7 @@
 :no:Bellut us_i masc
 
 :le:Bemarchius
-:no:Bemarchi us_i masc
+:no:Bemarch ius_i masc
 
 :le:Bendis
 :no:Bend is_is fem
@@ -2542,13 +2542,13 @@
 #noanalysis:Blasio
 
 :le:Blasius
-:no:Blasi us_i masc
+:no:Blas ius_i masc
 
 :le:Blastares
 :no:Blastar es_is fem
 
 :le:Blatius
-:no:Blati us_i masc
+:no:Blat ius_i masc
 
 #noanalysis:Blemmidas
 
@@ -2558,7 +2558,7 @@
 #noanalysis:Blitor
 
 :le:Blosius
-:no:Blosi us_i masc
+:no:Blos ius_i masc
 
 :le:Boadicea
 :no:Boadice a_ae fem
@@ -2574,7 +2574,7 @@
 :no:Boeb us_i masc
 
 :le:Boedromius
-:no:Boedromi us_i masc
+:no:Boedrom ius_i masc
 
 #noanalysis:Boeo
 
@@ -2595,7 +2595,7 @@
 #noanalysis:Boiorix
 
 :le:Bolgius
-:no:Bolgi us_i masc
+:no:Bolg ius_i masc
 
 :le:Bolus
 :no:Bol us_i masc
@@ -2604,7 +2604,7 @@
 :no:Bon a_ae fem
 
 :le:Bonifacius
-:no:Bonifaci us_i masc
+:no:Bonifac ius_i masc
 
 :le:Bonosus
 :no:Bonos us_i masc
@@ -2654,7 +2654,7 @@
 :no:Brett us_i masc
 
 :le:Briennius
-:no:Brienni us_i masc
+:no:Brienn ius_i masc
 
 #noanalysis:Brinno
 
@@ -2678,19 +2678,19 @@
 :no:Brontin us_i masc
 
 :le:Brunichius
-:no:Brunichi us_i masc
+:no:Brunich ius_i masc
 
 :le:Brusus
 :no:Brus us_i masc
 
 :le:Brutius
-:no:Bruti us_i masc
+:no:Brut ius_i masc
 
 :le:Brutulus
 :no:Brutul us_i masc
 
 :le:Bryennius
-:no:Bryenni us_i masc
+:no:Bryenn ius_i masc
 
 #noanalysis:Bryson
 
@@ -2698,7 +2698,7 @@
 :no:Bubar es_is fem
 
 :le:Bucculeius
-:no:Bucculei us_i masc
+:no:Buccule ius_i masc
 
 :le:Bucilianus
 :no:Bucilian us_i masc
@@ -2764,7 +2764,7 @@
 :no:Caburn us_i masc
 
 :le:Cadius
-:no:Cadi us_i masc
+:no:Cad ius_i masc
 
 :le:Cadmilus
 :no:Cadmil us_i masc
@@ -2773,13 +2773,13 @@
 :no:Caecilic us_i masc
 
 :le:Caecius
-:no:Caeci us_i masc
+:no:Caec ius_i masc
 
 :le:Caedicia
 :no:Caedici a_ae fem
 
 :le:Caedicius
-:no:Caedici us_i masc
+:no:Caedic ius_i masc
 
 :le:Caedicus
 :no:Caedic us_i masc
@@ -2788,7 +2788,7 @@
 :no:Cael es_is fem
 
 :le:Caelestrius
-:no:Caelestri us_i masc
+:no:Caelestr ius_i masc
 
 :le:Caeliomontanus
 :no:Caeliomontan us_i masc
@@ -2796,7 +2796,7 @@
 #noanalysis:Caepias
 
 :le:Caesarius
-:no:Caesari us_i masc
+:no:Caesar ius_i masc
 
 :le:Caesianus
 :no:Caesian us_i masc
@@ -2805,7 +2805,7 @@
 :no:Caesulen us_i masc
 
 :le:Caetronius
-:no:Caetroni us_i masc
+:no:Caetron ius_i masc
 
 #noanalysis:Cafo
 
@@ -2824,7 +2824,7 @@
 :no:Calapiiat es_is fem
 
 :le:Calavius
-:no:Calavi us_i masc
+:no:Calav ius_i masc
 
 :le:Calca
 :no:Calc a_ae fem
@@ -2861,7 +2861,7 @@
 #noanalysis:Callias
 
 :le:Callibius
-:no:Callibi us_i masc
+:no:Callib ius_i masc
 
 :le:Callicrates
 :no:Callicrat es_is fem
@@ -2875,7 +2875,7 @@
 :no:Callidem us_i masc
 
 :le:Callidius
-:no:Callidi us_i masc
+:no:Callid ius_i masc
 
 :le:Calligeitus
 :no:Calligeit us_i masc
@@ -2898,7 +2898,7 @@
 :no:Callin us_i masc
 
 :le:Calliopius
-:no:Calliopi us_i masc
+:no:Calliop ius_i masc
 
 :le:Calliphana
 :no:Calliphan a_ae fem
@@ -2926,7 +2926,7 @@
 :no:Calocyr us_i masc
 
 :le:Calusidius
-:no:Calusidi us_i masc
+:no:Calusid ius_i masc
 
 :le:Calva
 :no:Calv a_ae fem
@@ -2934,7 +2934,7 @@
 #noanalysis:Calvaster
 
 :le:Calventius
-:no:Calventi us_i masc
+:no:Calvent ius_i masc
 
 :le:Calvia
 :no:Calvi a_ae fem
@@ -2958,7 +2958,7 @@
 :no:Cambyl us_i masc
 
 :le:Camelius
-:no:Cameli us_i masc
+:no:Camel ius_i masc
 
 :le:Cameniata
 :no:Cameniat a_ae fem
@@ -2969,13 +2969,13 @@
 :no:Camissar es_is fem
 
 :le:Camonius
-:no:Camoni us_i masc
+:no:Camon ius_i masc
 
 :le:Campaspe
 :no:Campasp e_es fem
 
 :le:Camurius
-:no:Camuri us_i masc
+:no:Camur ius_i masc
 
 :le:Cananus
 :no:Canan us_i masc
@@ -2999,19 +2999,19 @@
 :no:Canthar us_i masc
 
 :le:Cantilius
-:no:Cantili us_i masc
+:no:Cantil ius_i masc
 
 :le:Cantius
-:no:Canti us_i masc
+:no:Cant ius_i masc
 
 :le:Canus
 :no:Can us_i masc
 
 :le:Canusius
-:no:Canusi us_i masc
+:no:Canus ius_i masc
 
 :le:Canutius
-:no:Canuti us_i masc
+:no:Canut ius_i masc
 
 :le:Capelianus
 :no:Capelian us_i masc
@@ -3024,7 +3024,7 @@
 #noanalysis:Capho
 
 :le:Caprarius
-:no:Caprari us_i masc
+:no:Caprar ius_i masc
 
 :le:Capratina
 :no:Capratin a_ae fem
@@ -3044,28 +3044,28 @@
 :no:Caractac us_i masc
 
 :le:Carausius
-:no:Carausi us_i masc
+:no:Caraus ius_i masc
 
 :le:Caravantius
-:no:Caravanti us_i masc
+:no:Caravant ius_i masc
 
 :le:Carbonarius
-:no:Carbonari us_i masc
+:no:Carbonar ius_i masc
 
 :le:Carcinus
 :no:Carcin us_i masc
 
 :le:Carcius
-:no:Carci us_i masc
+:no:Carc ius_i masc
 
 :le:Carinus
 :no:Carin us_i masc
 
 :le:Carisius
-:no:Carisi us_i masc
+:no:Caris ius_i masc
 
 :le:Carius
-:no:Cari us_i masc
+:no:Car ius_i masc
 
 #noanalysis:Carmanor
 
@@ -3076,10 +3076,10 @@
 :no:Carmen a_ae fem pl
 
 :le:Carneius
-:no:Carnei us_i masc
+:no:Carne ius_i masc
 
 :le:Carnulius
-:no:Carnuli us_i masc
+:no:Carnul ius_i masc
 
 :le:Carphyllides
 :no:Carphyllid es_is fem
@@ -3095,24 +3095,24 @@
 #noanalysis:Carrinas
 
 :le:Carsidius
-:no:Carsidi us_i masc
+:no:Carsid ius_i masc
 
 :le:Carsignatus
 :no:Carsignat us_i masc
 
 :le:Carsuleius
-:no:Carsulei us_i masc
+:no:Carsule ius_i masc
 
 #noanalysis:Carthalo
 
 :le:Cartilius
-:no:Cartili us_i masc
+:no:Cartil ius_i masc
 
 :le:Casmilus
 :no:Casmil us_i masc
 
 :le:Casperius
-:no:Casperi us_i masc
+:no:Casper ius_i masc
 
 :le:Cassandane
 :no:Cassandan e_es fem
@@ -3121,7 +3121,7 @@
 :no:Cassian us_i masc
 
 :le:Cassiodorius
-:no:Cassiodori us_i masc
+:no:Cassiodor ius_i masc
 
 :le:Cassiphone
 :no:Cassiphon e_es fem
@@ -3138,7 +3138,7 @@
 #noanalysis:Castorion
 
 :le:Castrinius
-:no:Castrini us_i masc
+:no:Castrin ius_i masc
 
 :le:Cataebates
 :no:Cataebat es_is fem
@@ -3150,10 +3150,10 @@
 :no:Caten a_ae fem
 
 :le:Catharsius
-:no:Catharsi us_i masc
+:no:Cathars ius_i masc
 
 :le:Catonius
-:no:Catoni us_i masc
+:no:Caton ius_i masc
 
 :le:Cattumerus
 :no:Cattumer us_i masc
@@ -3174,7 +3174,7 @@
 :no:Caucal us_i masc
 
 :le:Causius
-:no:Causi us_i masc
+:no:Caus ius_i masc
 
 :le:Cavarus
 :no:Cavar us_i masc
@@ -3195,7 +3195,7 @@
 :no:Cedren us_i masc
 
 :le:Ceionius
-:no:Ceioni us_i masc
+:no:Ceion ius_i masc
 
 :le:Celedones
 :no:Celedon es_is fem
@@ -3206,7 +3206,7 @@
 #noanalysis:Cenchrias
 
 :le:Centenius
-:no:Centeni us_i masc
+:no:Centen ius_i masc
 
 #noanalysis:Centho
 
@@ -3235,7 +3235,7 @@
 :no:Ceroess a_ae fem
 
 :le:Cerrinius
-:no:Cerrini us_i masc
+:no:Cerrin ius_i masc
 
 :le:Cersobleptes
 :no:Cersoblept es_is fem
@@ -3244,18 +3244,18 @@
 :no:Cert us_i masc
 
 :le:Cervarius
-:no:Cervari us_i masc
+:no:Cervar ius_i masc
 
 :le:Cervidius
-:no:Cervidi us_i masc
+:no:Cervid ius_i masc
 
 #noanalysis:Ceryx
 
 :le:Cesellius
-:no:Ceselli us_i masc
+:no:Cesell ius_i masc
 
 :le:Cesenius
-:no:Ceseni us_i masc
+:no:Cesen ius_i masc
 
 #noanalysis:Ceyx
 
@@ -3278,7 +3278,7 @@
 :no:Chalcide us_i masc
 
 :le:Chalcidius
-:no:Chalcidi us_i masc
+:no:Chalcid ius_i masc
 
 :le:Chalcioecus
 :no:Chalcioec us_i masc
@@ -3380,7 +3380,7 @@
 :no:Chiomar a_ae fem
 
 :le:Chirius
-:no:Chiri us_i masc
+:no:Chir ius_i masc
 
 :le:Chitone
 :no:Chiton e_es fem
@@ -3388,7 +3388,7 @@
 #noanalysis:Chlaeneas
 
 :le:Chnodomarius
-:no:Chnodomari us_i masc
+:no:Chnodomar ius_i masc
 
 :le:Choeroboscus
 :no:Choerobosc us_i masc
@@ -3397,13 +3397,13 @@
 :no:Chomatian us_i masc
 
 :le:Chondomarius
-:no:Chondomari us_i masc
+:no:Chondomar ius_i masc
 
 :le:Choniates
 :no:Choniat es_is fem
 
 :le:Choricius
-:no:Chorici us_i masc
+:no:Choric ius_i masc
 
 :le:Chosroes
 :no:Chosro es_is fem
@@ -3415,7 +3415,7 @@
 :no:Christophor us_i masc
 
 :le:Chromatius
-:no:Chromati us_i masc
+:no:Chromat ius_i masc
 
 #noanalysis:Chrysantas
 
@@ -3461,7 +3461,7 @@
 :no:Chumn us_i masc
 
 :le:Cicereius
-:no:Cicerei us_i masc
+:no:Cicere ius_i masc
 
 :le:Cicurinus
 :no:Cicurin us_i masc
@@ -3489,7 +3489,7 @@
 #noanalysis:Cingetorix
 
 :le:Cingonius
-:no:Cingoni us_i masc
+:no:Cingon ius_i masc
 
 :le:Cinnamus
 :no:Cinnam us_i masc
@@ -3497,7 +3497,7 @@
 #noanalysis:Cissidas
 
 :le:Citerius
-:no:Citeri us_i masc
+:no:Citer ius_i masc
 
 :le:Civica
 :no:Civic a_ae fem
@@ -3515,7 +3515,7 @@
 :no:Claud us_i masc
 
 :le:Clauidius
-:no:Clauidi us_i masc
+:no:Clauid ius_i masc
 
 :le:Cleaenetus
 :no:Cleaenet us_i masc
@@ -3527,7 +3527,7 @@
 #noanalysis:Clearidas
 
 :le:Cledonius
-:no:Cledoni us_i masc
+:no:Cledon ius_i masc
 
 :le:Cleemporus
 :no:Cleempor us_i masc
@@ -3641,7 +3641,7 @@
 :no:Cloeli a_ae fem
 
 :le:Cloelius
-:no:Cloeli us_i masc
+:no:Cloel ius_i masc
 
 #noanalysis:Clonas
 
@@ -3696,7 +3696,7 @@
 :no:Coelestin us_i masc
 
 :le:Coelestius
-:no:Coelesti us_i masc
+:no:Coelest ius_i masc
 
 :le:Coeliomontanus
 :no:Coeliomontan us_i masc
@@ -3735,7 +3735,7 @@
 :no:Comminian us_i masc
 
 :le:Commius
-:no:Commi us_i masc
+:no:Comm ius_i masc
 
 :le:Comnena
 :no:Comnen a_ae fem
@@ -3747,7 +3747,7 @@
 :no:Com us_i masc
 
 :le:Comvinius
-:no:Comvini us_i masc
+:no:Comvin ius_i masc
 
 :le:Concolerus
 :no:Concoler us_i masc
@@ -3764,7 +3764,7 @@
 :no:Conisal us_i masc
 
 :le:Conius
-:no:Coni us_i masc
+:no:Con ius_i masc
 
 :le:Cononeus
 :no:Conone us_i masc
@@ -3779,10 +3779,10 @@
 :no:Consent es_is fem
 
 :le:Consentius
-:no:Consenti us_i masc
+:no:Consent ius_i masc
 
 :le:Consevius
-:no:Consevi us_i masc
+:no:Consev ius_i masc
 
 :le:Considia
 :no:Considi a_ae fem
@@ -3802,16 +3802,16 @@
 :no:Cordac a_ae fem
 
 :le:Cordius
-:no:Cordi us_i masc
+:no:Cord ius_i masc
 
 :le:Cordus
 :no:Cord us_i masc
 
 :le:Corellius
-:no:Corelli us_i masc
+:no:Corell ius_i masc
 
 :le:Coriellius
-:no:Corielli us_i masc
+:no:Coriell ius_i masc
 
 :le:Corinnus
 :no:Corinn us_i masc
@@ -3828,7 +3828,7 @@
 #noanalysis:Cornicen
 
 :le:Corobius
-:no:Corobi us_i masc
+:no:Corob ius_i masc
 
 :le:Coronatus
 :no:Coronat us_i masc
@@ -3856,7 +3856,7 @@
 :no:Cosro es_is fem
 
 :le:Cotius
-:no:Coti us_i masc
+:no:Cot ius_i masc
 
 #noanalysis:Cotys
 
@@ -3876,7 +3876,7 @@
 :no:Crassip es_is fem
 
 :le:Crassitius
-:no:Crassiti us_i masc
+:no:Crassit ius_i masc
 
 :le:Cratesipolis
 :no:Cratesipol is_is fem
@@ -3898,7 +3898,7 @@
 #noanalysis:Crescens
 
 :le:Cresconius
-:no:Cresconi us_i masc
+:no:Crescon ius_i masc
 
 #noanalysis:Cresilas
 
@@ -3945,7 +3945,7 @@
 :no:Critodem us_i masc
 
 :le:Critonius
-:no:Critoni us_i masc
+:no:Criton ius_i masc
 
 :le:Crixus
 :no:Crix us_i masc
@@ -3991,16 +3991,16 @@
 :no:Ctesipp us_i masc
 
 :le:Ctesius
-:no:Ctesi us_i masc
+:no:Ctes ius_i masc
 
 :le:Ctesylla
 :no:Ctesyll a_ae fem
 
 :le:Cu&sect;rtius
-:no:Cu&sect;rti us_i masc
+:no:Cu&sect;rt ius_i masc
 
 :le:Cubidius
-:no:Cubidi us_i masc
+:no:Cubid ius_i masc
 
 :le:Culleolus
 :no:Culleol us_i masc
@@ -4113,7 +4113,7 @@
 :no:Daipp us_i masc
 
 :le:Dalmatius
-:no:Dalmati us_i masc
+:no:Dalmat ius_i masc
 
 :le:Damagetus
 :no:Damaget us_i masc
@@ -4186,13 +4186,13 @@
 #noanalysis:Dapyx
 
 :le:Dareius
-:no:Darei us_i masc
+:no:Dare ius_i masc
 
 :le:Dares
 :no:Dar es_is fem
 
 :le:Dasius
-:no:Dasi us_i masc
+:no:Das ius_i masc
 
 :le:Dataphernes
 :no:Dataphern es_is fem
@@ -4204,7 +4204,7 @@
 :no:Daz a_ae fem
 
 :le:Dcius
-:no:Dci us_i masc
+:no:Dc ius_i masc
 
 :le:Decatephorus
 :no:Decatephor us_i masc
@@ -4213,13 +4213,13 @@
 :no:Decebal us_i masc
 
 :le:Decimius
-:no:Decimi us_i masc
+:no:Decim ius_i masc
 
 :le:Decrianus
 :no:Decrian us_i masc
 
 :le:Decrius
-:no:Decri us_i masc
+:no:Decr ius_i masc
 
 :le:Dectades
 :no:Dectad es_is fem
@@ -4291,10 +4291,10 @@
 :no:Deipyl us_i masc
 
 :le:Dellius
-:no:Delli us_i masc
+:no:Dell ius_i masc
 
 :le:Delmatius
-:no:Delmati us_i masc
+:no:Delmat ius_i masc
 
 :le:Delphus
 :no:Delph us_i masc
@@ -4366,7 +4366,7 @@
 :no:Demophan es_is fem
 
 :le:Demophius
-:no:Demophi us_i masc
+:no:Demoph ius_i masc
 
 #noanalysis:Demophon
 
@@ -4420,7 +4420,7 @@
 :no:Derrhiat is_is fem
 
 :le:Desiiderius
-:no:Desiideri us_i masc
+:no:Desiider ius_i masc
 
 :le:Despoena
 :no:Despoen a_ae fem
@@ -4494,13 +4494,13 @@
 :no:Difphil us_i masc
 
 :le:Digitius
-:no:Digiti us_i masc
+:no:Digit ius_i masc
 
 :le:Diitrephes
 :no:Diitreph es_is fem
 
 :le:Dillius
-:no:Dilli us_i masc
+:no:Dill ius_i masc
 
 :le:Diocleides
 :no:Diocleid es_is fem
@@ -4558,7 +4558,7 @@
 :no:Dior es_is fem
 
 :le:Dioscorius
-:no:Dioscori us_i masc
+:no:Dioscor ius_i masc
 
 :le:Dioscorus
 :no:Dioscor us_i masc
@@ -4596,7 +4596,7 @@
 :no:Dipoen us_i masc
 
 :le:Disarius
-:no:Disari us_i masc
+:no:Disar ius_i masc
 
 #noanalysis:Ditalco
 
@@ -4604,7 +4604,7 @@
 :no:Diurpane us_i masc
 
 :le:Dius
-:no:Di us_i masc
+:no:D ius_i masc
 
 :le:Dives
 :no:Div es_is fem
@@ -4615,7 +4615,7 @@
 #noanalysis:Dodon
 
 :le:Dolius
-:no:Doli us_i masc
+:no:Dol ius_i masc
 
 #noanalysis:Dolops
 
@@ -4638,10 +4638,10 @@
 :no:Domn us_i masc
 
 :le:Domptius
-:no:Dompti us_i masc
+:no:Dompt ius_i masc
 
 :le:Donatius
-:no:Donati us_i masc
+:no:Donat ius_i masc
 
 #noanalysis:Dontas
 
@@ -4686,10 +4686,10 @@
 :no:Dracontid es_is fem
 
 :le:Dracontius
-:no:Draconti us_i masc
+:no:Dracont ius_i masc
 
 :le:Drepanius
-:no:Drepani us_i masc
+:no:Drepan ius_i masc
 
 :le:Drimacus
 :no:Drimac us_i masc
@@ -4712,35 +4712,35 @@
 :no:Drypet is_is fem
 
 :le:Dubius
-:no:Dubi us_i masc
+:no:Dub ius_i masc
 
 #noanalysis:Ducas
 
 :le:Ducennius
-:no:Ducenni us_i masc
+:no:Ducenn ius_i masc
 
 :le:Ducetius
-:no:Duceti us_i masc
+:no:Ducet ius_i masc
 
 :le:Duilia
 :no:Duili a_ae fem
 
 :le:Duilius
-:no:Duili us_i masc
+:no:Duil ius_i masc
 
 #noanalysis:Dumnorix
 
 :le:Durmius
-:no:Durmi us_i masc
+:no:Durm ius_i masc
 
 :le:Durus
 :no:Dur us_i masc
 
 :le:Dynamius
-:no:Dynami us_i masc
+:no:Dynam ius_i masc
 
 :le:Dyrrhachius
-:no:Dyrrhachi us_i masc
+:no:Dyrrhach ius_i masc
 
 :le:Dysaules
 :no:Dysaul es_is fem
@@ -4762,16 +4762,16 @@
 :no:Ecdem us_i masc
 
 :le:Ecdicius
-:no:Ecdici us_i masc
+:no:Ecdic ius_i masc
 
 :le:Ecdicus
 :no:Ecdic us_i masc
 
 :le:Ecdidius
-:no:Ecdidi us_i masc
+:no:Ecdid ius_i masc
 
 :le:Ecebolius
-:no:Eceboli us_i masc
+:no:Ecebol ius_i masc
 
 :le:Ececheiria
 :no:Ececheiri a_ae fem
@@ -4823,7 +4823,7 @@
 :no:Echidn a_ae fem
 
 :le:Echius
-:no:Echi us_i masc
+:no:Ech ius_i masc
 
 #noanalysis:Echo
 
@@ -4831,7 +4831,7 @@
 :no:Eclect us_i masc
 
 :le:Eclogius
-:no:Eclogi us_i masc
+:no:Eclog ius_i masc
 
 :le:Ecphantides
 :no:Ecphantid es_is fem
@@ -4845,7 +4845,7 @@
 :no:Egei a_ae fem
 
 :le:Egerius
-:no:Egeri us_i masc
+:no:Eger ius_i masc
 
 #noanalysis:Egesander
 
@@ -4853,7 +4853,7 @@
 :no:Egesin us_i masc
 
 :le:Egilius
-:no:Egili us_i masc
+:no:Egil ius_i masc
 
 :le:Eidomene
 :no:Eidomen e_es fem
@@ -4871,7 +4871,7 @@
 :no:Eiren e_es fem
 
 :le:Elaeusius
-:no:Elaeusi us_i masc
+:no:Elaeus ius_i masc
 
 :le:Elagabalus
 :no:Elagabal us_i masc
@@ -4900,7 +4900,7 @@
 :no:Elect us_i masc
 
 :le:Eleius
-:no:Elei us_i masc
+:no:Ele ius_i masc
 
 #noanalysis:Elephenor
 
@@ -4915,14 +4915,14 @@
 :no:Elioni a_ae fem
 
 :le:Elipirtius
-:no:Elipirti us_i masc
+:no:Elipirt ius_i masc
 
 #noanalysis:Ellopion
 
 #noanalysis:Ellops
 
 :le:Elpidius
-:no:Elpidi us_i masc
+:no:Elpid ius_i masc
 
 :le:Elva
 :no:Elv a_ae fem
@@ -4950,7 +4950,7 @@
 :no:Empod us_i masc
 
 :le:Emporius
-:no:Empori us_i masc
+:no:Empor ius_i masc
 
 :le:Empusa
 :no:Empus a_ae fem
@@ -4968,25 +4968,22 @@
 :no:Enaret e_es fem
 
 :le:Encolpius
-:no:Encolpi us_i masc
+:no:Encolp ius_i masc
 
 :le:Endeis
 :no:Ende is_is fem
 
 :le:Endius
-:no:Endi us_i masc
+:no:End ius_i masc
 
 :le:Endoeus
 :no:Endoe us_i masc
-
-:le:Enes
-:no:En es_is fem
 
 :le:Ennia
 :no:Enni a_ae fem
 
 :le:Ennodius
-:no:Ennodi us_i masc
+:no:Ennod ius_i masc
 
 :le:Ennomus
 :no:Ennom us_i masc
@@ -5001,7 +4998,7 @@
 :no:Entori a_ae fem
 
 :le:Enyalius
-:no:Enyali us_i masc
+:no:Enyal ius_i masc
 
 :le:Epactaeus
 :no:Epactae us_i masc
@@ -5022,7 +5019,7 @@
 :no:Epeige us_i masc
 
 :le:Epeius
-:no:Epei us_i masc
+:no:Epe ius_i masc
 
 :le:Eperatus
 :no:Eperat us_i masc
@@ -5036,7 +5033,7 @@
 #noanalysis:Ephraem
 
 :le:Epibaterius
-:no:Epibateri us_i masc
+:no:Epibater ius_i masc
 
 :le:Epicaste
 :no:Epicast e_es fem
@@ -5053,7 +5050,7 @@
 :no:Epicl es_is fem
 
 :le:Epicurius
-:no:Epicuri us_i masc
+:no:Epicur ius_i masc
 
 :le:Epicyides
 :no:Epicyid es_is fem
@@ -5062,7 +5059,7 @@
 :no:Epidot es_is fem
 
 :le:Epigenius
-:no:Epigeni us_i masc
+:no:Epigen ius_i masc
 
 :le:Epigonus
 :no:Epigon us_i masc
@@ -5080,7 +5077,7 @@
 :no:Epinic us_i masc
 
 :le:Epiphanius
-:no:Epiphani us_i masc
+:no:Epiphan ius_i masc
 
 :le:Epipole
 :no:Epipol e_es fem
@@ -5097,7 +5094,7 @@
 :no:Epithers es_is fem
 
 :le:Epldius
-:no:Epldi us_i masc
+:no:Epld ius_i masc
 
 :le:Epocillus
 :no:Epocill us_i masc
@@ -5106,7 +5103,7 @@
 :no:Epope us_i masc
 
 :le:Epopsius
-:no:Epopsi us_i masc
+:no:Epops ius_i masc
 
 #noanalysis:Eporedorix
 
@@ -5114,12 +5111,12 @@
 :no:Epponin a_ae fem
 
 :le:Eprius
-:no:Epri us_i masc
+:no:Epr ius_i masc
 
 #noanalysis:Equester
 
 :le:Equitius
-:no:Equiti us_i masc
+:no:Equit ius_i masc
 
 :le:Erasinides
 :no:Erasinid es_is fem
@@ -5144,7 +5141,7 @@
 :no:Eribot es_is fem
 
 :le:Erigyius
-:no:Erigyi us_i masc
+:no:Erigy ius_i masc
 
 :le:Erinnyes
 :no:Erinny es_is fem
@@ -5162,7 +5159,7 @@
 :no:Eriphyl us_i masc
 
 :le:Eriunius
-:no:Eriuni us_i masc
+:no:Eriun ius_i masc
 
 :le:Erophilus
 :no:Erophil us_i masc
@@ -5173,7 +5170,7 @@
 :no:Erotian us_i masc
 
 :le:Erotius
-:no:Eroti us_i masc
+:no:Erot ius_i masc
 
 :le:Erucia
 :no:Eruci a_ae fem
@@ -5181,7 +5178,7 @@
 #noanalysis:Erxias
 
 :le:Erycius
-:no:Eryci us_i masc
+:no:Eryc ius_i masc
 
 #noanalysis:Erymas
 
@@ -5220,7 +5217,7 @@
 :no:Etymocl es_is fem
 
 :le:Eubius
-:no:Eubi us_i masc
+:no:Eub ius_i masc
 
 #noanalysis:Eubotas
 
@@ -5249,7 +5246,7 @@
 :no:Eucheri a_ae fem
 
 :le:Eucherius
-:no:Eucheri us_i masc
+:no:Eucher ius_i masc
 
 :le:Eucleia
 :no:Euclei a_ae fem
@@ -5274,10 +5271,10 @@
 #noanalysis:Eudamidas
 
 :le:Eudamius
-:no:Eudami us_i masc
+:no:Eudam ius_i masc
 
 :le:Eudicius
-:no:Eudici us_i masc
+:no:Eudic ius_i masc
 
 :le:Eudicus
 :no:Eudic us_i masc
@@ -5292,7 +5289,7 @@
 :no:Eudoxi a_ae fem
 
 :le:Eudoxius
-:no:Eudoxi us_i masc
+:no:Eudox ius_i masc
 
 #noanalysis:Eugamon
 
@@ -5306,7 +5303,7 @@
 :no:Eugenic us_i masc
 
 :le:Eugenius
-:no:Eugeni us_i masc
+:no:Eugen ius_i masc
 
 #noanalysis:Eugeon
 
@@ -5317,13 +5314,13 @@
 :no:Eugramm us_i masc
 
 :le:Eugraphius
-:no:Eugraphi us_i masc
+:no:Eugraph ius_i masc
 
 :le:Euhodus
 :no:Euhod us_i masc
 
 :le:Eulogius
-:no:Eulogi us_i masc
+:no:Eulog ius_i masc
 
 :le:Eumachus
 :no:Eumach us_i masc
@@ -5334,16 +5331,16 @@
 :no:Eumar us_i masc
 
 :le:Eumathius
-:no:Eumathi us_i masc
+:no:Eumath ius_i masc
 
 :le:Eumenius
-:no:Eumeni us_i masc
+:no:Eumen ius_i masc
 
 :le:Eumnestus
 :no:Eumnest us_i masc
 
 :le:Eunapius
-:no:Eunapi us_i masc
+:no:Eunap ius_i masc
 
 :le:Euneice
 :no:Euneic e_es fem
@@ -5358,7 +5355,7 @@
 :no:Eunomi a_ae fem
 
 :le:Eunomius
-:no:Eunomi us_i masc
+:no:Eunom ius_i masc
 
 :le:Eunomus
 :no:Eunom us_i masc
@@ -5397,7 +5394,7 @@
 :no:Euphrad es_is fem
 
 :le:Euphrasius
-:no:Euphrasi us_i masc
+:no:Euphras ius_i masc
 
 #noanalysis:Euphron
 
@@ -5405,13 +5402,13 @@
 :no:Euphronid es_is fem
 
 :le:Euphronius
-:no:Euphroni us_i masc
+:no:Euphron ius_i masc
 
 :le:Eupihronides
 :no:Eupihronid es_is fem
 
 :le:Eupithius
-:no:Eupithi us_i masc
+:no:Eupith ius_i masc
 
 :le:Euplus
 :no:Eupl us_i masc
@@ -5489,24 +5486,24 @@
 :no:Eurysth e_es fem
 
 :le:Euseibius
-:no:Euseibi us_i masc
+:no:Euseib ius_i masc
 
 :le:Eustathius
-:no:Eustathi us_i masc
+:no:Eustath ius_i masc
 
 :le:Eusthenius
-:no:Eustheni us_i masc
+:no:Eusthen ius_i masc
 
 :le:Eustochius
-:no:Eustochi us_i masc
+:no:Eustoch ius_i masc
 
 :le:Eustratius
-:no:Eustrati us_i masc
+:no:Eustrat ius_i masc
 
 #noanalysis:Eutelidas
 
 :le:Euthalius
-:no:Euthali us_i masc
+:no:Euthal ius_i masc
 
 #noanalysis:Euthias
 
@@ -5528,16 +5525,16 @@
 :no:Euthymid es_is fem
 
 :le:Euthymius
-:no:Euthymi us_i masc
+:no:Euthym ius_i masc
 
 :le:Euthymus
 :no:Euthym us_i masc
 
 :le:Eutocius
-:no:Eutoci us_i masc
+:no:Eutoc ius_i masc
 
 :le:Eutolmius
-:no:Eutolmi us_i masc
+:no:Eutolm ius_i masc
 
 :le:Eutresites
 :no:Eutresit es_is fem
@@ -5558,7 +5555,7 @@
 :no:Eutychid es_is fem
 
 :le:Eutychius
-:no:Eutychi us_i masc
+:no:Eutych ius_i masc
 
 :le:Euxenidae
 :no:Euxenid a_ae fem pl
@@ -5592,7 +5589,7 @@
 :no:Evagor hs_ou masc
 
 :le:Evagrius
-:no:Evagri us_i masc
+:no:Evagr ius_i masc
 
 :le:Evalces
 :no:Evalc es_is fem
@@ -5609,7 +5606,7 @@
 :no:Evanth es_is fem
 
 :le:Evanthius
-:no:Evanthi us_i masc
+:no:Evanth ius_i masc
 
 :le:Evathlus
 :no:Evathl us_i masc
@@ -5628,7 +5625,7 @@
 :no:Evemer us_i masc
 
 :le:Evenius
-:no:Eveni us_i masc
+:no:Even ius_i masc
 
 #noanalysis:Evenor
 
@@ -5654,13 +5651,13 @@
 :no:Evodian us_i masc
 
 :le:Evodius
-:no:Evodi us_i masc
+:no:Evod ius_i masc
 
 :le:Evodus
 :no:Evod us_i masc
 
 :le:Exadius
-:no:Exadi us_i masc
+:no:Exad ius_i masc
 
 :le:Exaenetus
 :no:Exaenet us_i masc
@@ -5669,16 +5666,16 @@
 :no:Exedar es_is fem
 
 :le:Exitius
-:no:Exiti us_i masc
+:no:Exit ius_i masc
 
 :le:Exsuperantius
-:no:Exsuperanti us_i masc
+:no:Exsuperant ius_i masc
 
 :le:Exsuperatorius
-:no:Exsuperatori us_i masc
+:no:Exsuperator ius_i masc
 
 :le:Exsuperius
-:no:Exsuperi us_i masc
+:no:Exsuper ius_i masc
 
 :le:Ezekielus
 :no:Ezekiel us_i masc
@@ -5687,7 +5684,7 @@
 :no:Fabat us_i masc
 
 :le:Fabilius
-:no:Fabili us_i masc
+:no:Fabil ius_i masc
 
 :le:Facundus
 :no:Facund us_i masc
@@ -5699,7 +5696,7 @@
 :no:Fad us_i masc
 
 :le:Faenius
-:no:Faeni us_i masc
+:no:Faen ius_i masc
 
 #noanalysis:Falacer
 
@@ -5709,14 +5706,14 @@
 :no:Falconi a_ae fem
 
 :le:Falconius
-:no:Falconi us_i masc
+:no:Falcon ius_i masc
 
 #noanalysis:Falto
 
 #noanalysis:Fango
 
 :le:Farisuleius
-:no:Farisulei us_i masc
+:no:Farisule ius_i masc
 
 :le:Fascelis
 :no:Fascel is_is fem
@@ -5725,7 +5722,7 @@
 :no:Fascin us_i masc
 
 :le:Fastidius
-:no:Fastidi us_i masc
+:no:Fastid ius_i masc
 
 :le:Faucula
 :no:Faucul a_ae fem
@@ -5750,7 +5747,7 @@
 #noanalysis:Felix
 
 :le:Fenius
-:no:Feni us_i masc
+:no:Fen ius_i masc
 
 :le:Feretritis
 :no:Feretrit is_is fem
@@ -5783,16 +5780,16 @@
 :no:Flacill a_ae fem
 
 :le:Flamnius
-:no:Flamni us_i masc
+:no:Flamn ius_i masc
 
 :le:Flavus
 :no:Flav us_i masc
 
 :le:Florentius
-:no:Florenti us_i masc
+:no:Florent ius_i masc
 
 :le:Fltrius
-:no:Fltri us_i masc
+:no:Fltr ius_i masc
 
 :le:Foca
 :no:Foc a_ae fem
@@ -5817,23 +5814,23 @@
 :no:Fosli a_ae fem
 
 :le:Foslius
-:no:Fosli us_i masc
+:no:Fosl ius_i masc
 
 #noanalysis:Frango
 
 :le:Fuffetius
-:no:Fuffeti us_i masc
+:no:Fuffet ius_i masc
 
 :le:Fuficius
-:no:Fufici us_i masc
+:no:Fufic ius_i masc
 
 :le:Fufitius
-:no:Fufiti us_i masc
+:no:Fufit ius_i masc
 
 #noanalysis:Fullo
 
 :le:Fullonius
-:no:Fulloni us_i masc
+:no:Fullon ius_i masc
 
 :le:Fulvianus
 :no:Fulvian us_i masc
@@ -5854,12 +5851,12 @@
 :no:Gabae us_i masc
 
 :le:Gabius
-:no:Gabi us_i masc
+:no:Gab ius_i masc
 
 #noanalysis:Gabrias
 
 :le:Gabrielius
-:no:Gabrieli us_i masc
+:no:Gabriel ius_i masc
 
 #noanalysis:Gadatas
 
@@ -5877,7 +5874,7 @@
 #noanalysis:Galaton
 
 :le:Galaxius
-:no:Galaxi us_i masc
+:no:Galax ius_i masc
 
 :le:Galenus
 :no:Galen us_i masc
@@ -5889,7 +5886,7 @@
 :no:Galerian us_i masc
 
 :le:Galerius
-:no:Galeri us_i masc
+:no:Galer ius_i masc
 
 :le:Galeus
 :no:Gale us_i masc
@@ -5906,7 +5903,7 @@
 :no:Galvi a_ae fem
 
 :le:Gamelii
-:no:Gameli us_i masc pl
+:no:Gamel ius_i masc pl
 
 :le:Gannascus
 :no:Gannasc us_i masc
@@ -5922,7 +5919,7 @@
 :no:Gargar us_i masc
 
 :le:Gargonius
-:no:Gargoni us_i masc
+:no:Gargon ius_i masc
 
 #noanalysis:Garidas
 
@@ -5936,7 +5933,7 @@
 :no:Gaud a_ae fem
 
 :le:Gaudentius
-:no:Gaudenti us_i masc
+:no:Gaudent ius_i masc
 
 #noanalysis:Gauradas
 
@@ -5946,7 +5943,7 @@
 #noanalysis:Gelanor
 
 :le:Gelasius
-:no:Gelasi us_i masc
+:no:Gelas ius_i masc
 
 #noanalysis:Gelimer
 
@@ -5954,7 +5951,7 @@
 :no:Gemin a_ae fem
 
 :le:Geminius
-:no:Gemini us_i masc
+:no:Gemin ius_i masc
 
 :le:Geminus
 :no:Gemin us_i masc
@@ -5968,13 +5965,13 @@
 :no:Gen es_is fem
 
 :le:Genesius
-:no:Genesi us_i masc
+:no:Genes ius_i masc
 
 :le:Genetaeus
 :no:Genetae us_i masc
 
 :le:Genethlius
-:no:Genethli us_i masc
+:no:Genethl ius_i masc
 
 :le:Genetyllis
 :no:Genetyll is_is fem
@@ -5982,10 +5979,10 @@
 #noanalysis:Genitrix
 
 :le:Genius
-:no:Geni us_i masc
+:no:Gen ius_i masc
 
 :le:Gennadius
-:no:Gennadi us_i masc
+:no:Gennad ius_i masc
 
 #noanalysis:Gens
 
@@ -5996,10 +5993,10 @@
 :no:Genuci a_ae fem
 
 :le:Genucius
-:no:Genuci us_i masc
+:no:Genuc ius_i masc
 
 :le:Georgius
-:no:Georgi us_i masc
+:no:Georg ius_i masc
 
 :le:Gephyraei
 :no:Gephyrae us_i masc pl
@@ -6019,7 +6016,7 @@
 #noanalysis:Geron
 
 :le:Gerontius
-:no:Geronti us_i masc
+:no:Geront ius_i masc
 
 :le:Gerostratus
 :no:Gerostrat us_i masc
@@ -6055,7 +6052,7 @@
 :no:Glici a_ae fem
 
 :le:Glicius
-:no:Glici us_i masc
+:no:Glic ius_i masc
 
 :le:Globulus
 :no:Globul us_i masc
@@ -6108,7 +6105,7 @@
 #noanalysis:Gorgon
 
 :le:Gorgonius
-:no:Gorgoni us_i masc
+:no:Gorgon ius_i masc
 
 #noanalysis:Gorgopas
 
@@ -6139,7 +6136,7 @@
 :no:Grapt us_i masc
 
 :le:Grasidius
-:no:Grasidi us_i masc
+:no:Grasid ius_i masc
 
 :le:Grata
 :no:Grat a_ae fem
@@ -6148,7 +6145,7 @@
 :no:Grat us_i masc
 
 :le:Gregentius
-:no:Gregenti us_i masc
+:no:Gregent ius_i masc
 
 #noanalysis:Gregor
 
@@ -6159,7 +6156,7 @@
 :no:Gregorian us_i masc
 
 :le:Gregorius
-:no:Gregori us_i masc
+:no:Gregor ius_i masc
 
 :le:Griphus
 :no:Griph us_i masc
@@ -6228,7 +6225,7 @@
 #noanalysis:Halios
 
 :le:Halirrhothius
-:no:Halirrhothi us_i masc
+:no:Halirrhoth ius_i masc
 
 :le:Halitherses
 :no:Halithers es_is fem
@@ -6249,7 +6246,7 @@
 :no:Hanniballian us_i masc
 
 :le:Harmatius
-:no:Harmati us_i masc
+:no:Harmat ius_i masc
 
 :le:Harmenopulus
 :no:Harmenopul us_i masc
@@ -6265,7 +6262,7 @@
 #noanalysis:Hasdrubal
 
 :le:Haterius
-:no:Hateri us_i masc
+:no:Hater ius_i masc
 
 :le:Hebdomagetes
 :no:Hebdomaget es_is fem
@@ -6323,7 +6320,7 @@
 :no:Hegesila us_i masc
 
 :le:Hegesilocius
-:no:Hegesiloci us_i masc
+:no:Hegesiloc ius_i masc
 
 :le:Hegesippus
 :no:Hegesipp us_i masc
@@ -6345,7 +6342,7 @@
 :no:Helar a_ae fem
 
 :le:Heleius
-:no:Helei us_i masc
+:no:Hele ius_i masc
 
 #noanalysis:Helianax
 
@@ -6354,19 +6351,19 @@
 #noanalysis:Helios
 
 :le:Helius
-:no:Heli us_i masc
+:no:Hel ius_i masc
 
 :le:Helixus
 :no:Helix us_i masc
 
 :le:Helladius
-:no:Helladi us_i masc
+:no:Hellad ius_i masc
 
 :le:Hellotia
 :no:Helloti a_ae fem
 
 :le:Helpidius
-:no:Helpidi us_i masc
+:no:Helpid ius_i masc
 
 :le:Hemeresia
 :no:Hemeresi a_ae fem
@@ -6498,10 +6495,10 @@
 :no:Hesychi a_ae fem
 
 :le:Hesychius
-:no:Hesychi us_i masc
+:no:Hesych ius_i masc
 
 :le:Hetaereius
-:no:Hetaerei us_i masc
+:no:Hetaere ius_i masc
 
 :le:Heurippe
 :no:Heuripp e_es fem
@@ -6510,7 +6507,7 @@
 :no:Hican us_i masc
 
 :le:Hicesius
-:no:Hicesi us_i masc
+:no:Hices ius_i masc
 
 :le:Hidrieus
 :no:Hidrie us_i masc
@@ -6526,7 +6523,7 @@
 #noanalysis:Hierax
 
 :le:Hierius
-:no:Hieri us_i masc
+:no:Hier ius_i masc
 
 :le:Hierophilus
 :no:Hierophil us_i masc
@@ -6535,7 +6532,7 @@
 :no:Hierothe us_i masc
 
 :le:Hiicesius
-:no:Hiicesi us_i masc
+:no:Hiices ius_i masc
 
 #noanalysis:Hiippomedon
 
@@ -6548,13 +6545,13 @@
 #noanalysis:Hilario
 
 :le:Hilarius
-:no:Hilari us_i masc
+:no:Hilar ius_i masc
 
 :le:Hilderic
 :no:Hilderi c_kos masc ant_acc
 
 :le:Himerius
-:no:Himeri us_i masc
+:no:Himer ius_i masc
 
 :le:Himerus
 :no:Himer us_i masc
@@ -6577,7 +6574,7 @@
 :no:Hipparchi a_ae fem
 
 :le:Hippasius
-:no:Hippasi us_i masc
+:no:Hippas ius_i masc
 
 :le:Hippeus
 :no:Hippe us_i masc
@@ -6637,10 +6634,10 @@
 #noanalysis:Hippys
 
 :le:Hirrius
-:no:Hirri us_i masc
+:no:Hirr ius_i masc
 
 :le:Hirtuleius
-:no:Hirtulei us_i masc
+:no:Hirtule ius_i masc
 
 :le:Hisagus
 :no:Hisag us_i masc
@@ -6662,13 +6659,13 @@
 :no:Histor is_is fem
 
 :le:Hminucius
-:no:Hminuci us_i masc
+:no:Hminuc ius_i masc
 
 :le:Holmus
 :no:Holm us_i masc
 
 :le:Homagyrius
-:no:Homagyri us_i masc
+:no:Homagyr ius_i masc
 
 :le:Homoloeus
 :no:Homoloe us_i masc
@@ -6689,13 +6686,13 @@
 #noanalysis:Horapollo
 
 :le:Horcius
-:no:Horci us_i masc
+:no:Horc ius_i masc
 
 :le:Horcus
 :no:Horc us_i masc
 
 :le:Hordeonius
-:no:Hordeoni us_i masc
+:no:Hordeon ius_i masc
 
 :le:Horme
 :no:Horm e_es fem
@@ -6704,10 +6701,10 @@
 :no:Horm us_i masc
 
 :le:Hosidius
-:no:Hosidi us_i masc
+:no:Hosid ius_i masc
 
 :le:Hosius
-:no:Hosi us_i masc
+:no:Hos ius_i masc
 
 :le:Hospitalis
 :no:Hospital is_is fem
@@ -6732,7 +6729,7 @@
 :no:Hydrel us_i masc
 
 :le:Hyetius
-:no:Hyeti us_i masc
+:no:Hyet ius_i masc
 
 :le:Hygieia
 :no:Hygiei a_ae fem
@@ -6751,7 +6748,7 @@
 :no:Hypati a_ae fem
 
 :le:Hypatius
-:no:Hypati us_i masc
+:no:Hypat ius_i masc
 
 :le:Hypatodorus
 :no:Hypatodor us_i masc
@@ -6763,18 +6760,18 @@
 :no:Hyperanth es_is fem
 
 :le:Hyperasius
-:no:Hyperasi us_i masc
+:no:Hyperas ius_i masc
 
 #noanalysis:Hyperbatas
 
 :le:Hyperbius
-:no:Hyperbi us_i masc
+:no:Hyperb ius_i masc
 
 :le:Hypercheiria
 :no:Hypercheiri a_ae fem
 
 :le:Hyperechius
-:no:Hyperechi us_i masc
+:no:Hyperech ius_i masc
 
 #noanalysis:Hyperenor
 
@@ -6861,13 +6858,13 @@
 :no:Ichthyocentaur us_i masc
 
 :le:Idacius
-:no:Idaci us_i masc
+:no:Idac ius_i masc
 
 :le:Idanthyrsus
 :no:Idanthyrs us_i masc
 
 :le:Idatius
-:no:Idati us_i masc
+:no:Idat ius_i masc
 
 :le:Idothea
 :no:Idothe a_ae fem
@@ -6876,7 +6873,7 @@
 :no:Idrie us_i masc
 
 :le:Ignatius
-:no:Ignati us_i masc
+:no:Ignat ius_i masc
 
 #noanalysis:Iii.)
 
@@ -6890,7 +6887,7 @@
 :no:Ill us_i masc
 
 :le:Imarius
-:no:Imari us_i masc
+:no:Imar ius_i masc
 
 :le:Imbraia
 :no:Imbrai a_ae fem
@@ -6901,7 +6898,7 @@
 #noanalysis:Imbrex
 
 :le:Imbrius
-:no:Imbri us_i masc
+:no:Imbr ius_i masc
 
 :le:Imenarete
 :no:Imenaret e_es fem
@@ -6925,7 +6922,7 @@
 :no:Ingenu us_i masc
 
 :le:Innocentius
-:no:Innocenti us_i masc
+:no:Innocent ius_i masc
 
 #noanalysis:Ino
 
@@ -7040,7 +7037,7 @@
 #noanalysis:Ithomatas
 
 :le:Iturius
-:no:Ituri us_i masc
+:no:Itur ius_i masc
 
 #noanalysis:Itys
 
@@ -7056,7 +7053,7 @@
 #noanalysis:Ix.
 
 :le:Ixius
-:no:Ixi us_i masc
+:no:Ix ius_i masc
 
 #noanalysis:Iynx
 
@@ -7085,18 +7082,18 @@
 :no:Jovinian us_i masc
 
 :le:Jubellius
-:no:Jubelli us_i masc
+:no:Jubell ius_i masc
 
 :le:Judacilius
-:no:Judacili us_i masc
+:no:Judacil ius_i masc
 
 #noanalysis:Judex
 
 :le:Juius
-:no:Jui us_i masc
+:no:Ju ius_i masc
 
 :le:Jujiius
-:no:Jujii us_i masc
+:no:Juji ius_i masc
 
 :le:Jul1a
 :no:Jul1 a_ae fem
@@ -7114,7 +7111,7 @@
 #noanalysis:Jupiter
 
 :le:Justinushesychius
-:no:Justinushesychi us_i masc
+:no:Justinushesych ius_i masc
 
 :le:Justus
 :no:Just us_i masc
@@ -7131,7 +7128,7 @@
 #noanalysis:L.
 
 :le:L.junius
-:no:L.juni us_i masc
+:no:L.jun ius_i masc
 
 :le:Labda
 :no:Labd a_ae fem
@@ -7149,7 +7146,7 @@
 #noanalysis:Lacer
 
 :le:Lacerius
-:no:Laceri us_i masc
+:no:Lacer ius_i masc
 
 :le:Lachares
 :no:Lachar es_is fem
@@ -7158,7 +7155,7 @@
 :no:Lach es_is fem
 
 :le:Lacius
-:no:Laci us_i masc
+:no:Lac ius_i masc
 
 :le:Lacrates
 :no:Lacrat es_is fem
@@ -7201,10 +7198,10 @@
 :no:Laet us_i masc
 
 :le:Lafrenius
-:no:Lafreni us_i masc
+:no:Lafren ius_i masc
 
 :le:Lagius
-:no:Lagi us_i masc
+:no:Lag ius_i masc
 
 :le:Lagoras
 :no:Lagor hs_ou masc
@@ -7226,20 +7223,20 @@
 :no:Lamisc us_i masc
 
 :le:Lamius
-:no:Lami us_i masc
+:no:Lam ius_i masc
 
 :le:Lampadius
-:no:Lampadi us_i masc
+:no:Lampad ius_i masc
 
 #noanalysis:Lampido
 
 :le:Lamponius
-:no:Lamponi us_i masc
+:no:Lampon ius_i masc
 
 #noanalysis:Lamprias
 
 :le:Lampriius
-:no:Lamprii us_i masc
+:no:Lampri ius_i masc
 
 :le:Lamprocles
 :no:Lamprocl es_is fem
@@ -7250,7 +7247,7 @@
 #noanalysis:Lampter
 
 :le:Lamynthius
-:no:Lamynthi us_i masc
+:no:Lamynth ius_i masc
 
 :le:Lanassa
 :no:Lanass a_ae fem
@@ -7294,7 +7291,7 @@
 :no:Lapers a_ae fem pl
 
 :le:Lapersius
-:no:Lapersi us_i masc
+:no:Lapers ius_i masc
 
 :le:Laphaes
 :no:Lapha es_is fem
@@ -7306,7 +7303,7 @@
 :no:Laphri a_ae fem
 
 :le:Laphystius
-:no:Laphysti us_i masc
+:no:Laphyst ius_i masc
 
 :le:Lapis
 :no:Lap is_is fem
@@ -7317,13 +7314,13 @@
 :no:Largin us_i masc
 
 :le:Largius
-:no:Largi us_i masc
+:no:Larg ius_i masc
 
 :le:Larichus
 :no:Larich us_i masc
 
 :le:Laronius
-:no:Laroni us_i masc
+:no:Laron ius_i masc
 
 #noanalysis:Lars
 
@@ -7331,7 +7328,7 @@
 :no:Larti a_ae fem
 
 :le:Lartius
-:no:Larti us_i masc
+:no:Lart ius_i masc
 
 :le:Larvae
 :no:Larv a_ae fem pl
@@ -7366,7 +7363,7 @@
 :no:Leaneir a_ae fem
 
 :le:Lecanius
-:no:Lecani us_i masc
+:no:Lecan ius_i masc
 
 :le:Lecapenus
 :no:Lecapen us_i masc
@@ -7392,13 +7389,13 @@
 :no:Len is_is fem
 
 :le:Lenius
-:no:Leni us_i masc
+:no:Len ius_i masc
 
 :le:Lenticula
 :no:Lenticul a_ae fem
 
 :le:Lentidius
-:no:Lentidi us_i masc
+:no:Lentid ius_i masc
 
 :le:Leobotes
 :no:Leobot es_is fem
@@ -7427,7 +7424,7 @@
 #noanalysis:Leoidamas
 
 :le:Leonnorius
-:no:Leonnori us_i masc
+:no:Leonnor ius_i masc
 
 #noanalysis:Leontdas
 
@@ -7462,7 +7459,7 @@
 :no:Lepid a_ae fem
 
 :le:Leporius
-:no:Lepori us_i masc
+:no:Lepor ius_i masc
 
 :le:Lepreus
 :no:Lepre us_i masc
@@ -7482,7 +7479,7 @@
 :no:Lesch es_is fem
 
 :le:Lesius
-:no:Lesi us_i masc
+:no:Les ius_i masc
 
 :le:Letreus
 :no:Letre us_i masc
@@ -7510,24 +7507,24 @@
 :no:Liberat us_i masc
 
 :le:Liberius
-:no:Liberi us_i masc
+:no:Liber ius_i masc
 
 #noanalysis:Libertas
 
 :le:Libius
-:no:Libi us_i masc
+:no:Lib ius_i masc
 
 :le:Lichudes
 :no:Lichud es_is fem
 
 :le:Licknius
-:no:Lickni us_i masc
+:no:Lickn ius_i masc
 
 :le:Licnius
-:no:Licni us_i masc
+:no:Licn ius_i masc
 
 :le:Licymnius
-:no:Licymni us_i masc
+:no:Licymn ius_i masc
 
 :le:Ligeia
 :no:Ligei a_ae fem
@@ -7558,7 +7555,7 @@
 :no:Lindin us_i masc
 
 :le:Lipasius
-:no:Lipasi us_i masc
+:no:Lipas ius_i masc
 
 :le:Lipodorus
 :no:Lipodor us_i masc
@@ -7567,7 +7564,7 @@
 :no:Lit a_ae fem pl
 
 :le:Litorius
-:no:Litori us_i masc
+:no:Litor ius_i masc
 
 :le:Lityerses
 :no:Lityers es_is fem
@@ -7581,10 +7578,10 @@
 :no:Locr us_i masc
 
 :le:Locutius
-:no:Locuti us_i masc
+:no:Locut ius_i masc
 
 :le:Loemius
-:no:Loemi us_i masc
+:no:Loem ius_i masc
 
 :le:Logbasis
 :no:Logbas is_is fem
@@ -7604,10 +7601,10 @@
 #noanalysis:Loxo
 
 :le:Luceius
-:no:Lucei us_i masc
+:no:Luce ius_i masc
 
 :le:Lucerius
-:no:Luceri us_i masc
+:no:Lucer ius_i masc
 
 :le:Lucianus
 :no:Lucian us_i masc
@@ -7621,7 +7618,7 @@
 :no:Lucill a_ae fem
 
 :le:Lucillius
-:no:Lucilli us_i masc
+:no:Lucill ius_i masc
 
 :le:Lucillus
 :no:Lucill us_i masc
@@ -7630,7 +7627,7 @@
 :no:Lucirin a_ae fem
 
 :le:Lucterius
-:no:Lucteri us_i masc
+:no:Lucter ius_i masc
 
 :le:Luctus
 :no:Luct us_i masc
@@ -7639,13 +7636,13 @@
 :no:Lucust a_ae fem
 
 :le:Ludius
-:no:Ludi us_i masc
+:no:Lud ius_i masc
 
 :le:Luperccus
 :no:Lupercc us_i masc
 
 :le:Lurius
-:no:Luri us_i masc
+:no:Lur ius_i masc
 
 :le:Luscienus
 :no:Luscien us_i masc
@@ -7657,16 +7654,16 @@
 :no:Lustric us_i masc
 
 :le:Lutarius
-:no:Lutari us_i masc
+:no:Lutar ius_i masc
 
 :le:Lutorius
-:no:Lutori us_i masc
+:no:Lutor ius_i masc
 
 :le:Luxorius
-:no:Luxori us_i masc
+:no:Luxor ius_i masc
 
 :le:Lvius
-:no:Lvi us_i masc
+:no:Lv ius_i masc
 
 #noanalysis:Lyceas
 
@@ -7674,7 +7671,7 @@
 :no:Lycegen es_is fem
 
 :le:Lyceius
-:no:Lycei us_i masc
+:no:Lyce ius_i masc
 
 :le:Lycinus
 :no:Lycin us_i masc
@@ -7752,7 +7749,7 @@
 :no:Lysistratid es_is fem
 
 :le:Lysius
-:no:Lysi us_i masc
+:no:Lys ius_i masc
 
 :le:Lysizona
 :no:Lysizon a_ae fem
@@ -7761,7 +7758,7 @@
 :no:Lys us_i masc
 
 :le:Lyterius
-:no:Lyteri us_i masc
+:no:Lyter ius_i masc
 
 :le:Lytierses
 :no:Lytiers es_is fem
@@ -7779,7 +7776,7 @@
 :no:Macare us_i masc
 
 :le:Macarius
-:no:Macari us_i masc
+:no:Macar ius_i masc
 
 :le:Maccabaei
 :no:Maccabae us_i masc pl
@@ -7806,7 +7803,7 @@
 #noanalysis:Machon
 
 :le:Macistius
-:no:Macisti us_i masc
+:no:Macist ius_i masc
 
 :le:Macrianus
 :no:Macrian us_i masc
@@ -7829,7 +7826,7 @@
 :no:Maecili a_ae fem
 
 :le:Maecilius
-:no:Maecili us_i masc
+:no:Maecil ius_i masc
 
 :le:Maemactes
 :no:Maemact es_is fem
@@ -7856,7 +7853,7 @@
 #noanalysis:Magister
 
 :le:Magnentius
-:no:Magnenti us_i masc
+:no:Magnent ius_i masc
 
 :le:Magnia
 :no:Magni a_ae fem
@@ -7871,7 +7868,7 @@
 #noanalysis:Maior
 
 :le:Mairius
-:no:Mairi us_i masc
+:no:Mair ius_i masc
 
 :le:Maiximus
 :no:Maixim us_i masc
@@ -7926,7 +7923,7 @@
 #noanalysis:Manastabal
 
 :le:Mandubratius
-:no:Mandubrati us_i masc
+:no:Mandubrat ius_i masc
 
 #noanalysis:Maneros
 
@@ -7946,7 +7943,7 @@
 :no:Mantithe us_i masc
 
 :le:Mantius
-:no:Manti us_i masc
+:no:Mant ius_i masc
 
 #noanalysis:Manuel
 
@@ -7954,7 +7951,7 @@
 :no:Marcell a_ae fem
 
 :le:Marcilius
-:no:Marcili us_i masc
+:no:Marcil ius_i masc
 
 :le:Marcomannus
 :no:Marcomann us_i masc
@@ -7997,7 +7994,7 @@
 #noanalysis:Mascezel
 
 :le:Masistius
-:no:Masisti us_i masc
+:no:Masist ius_i masc
 
 :le:Massaliotes
 :no:Massaliot es_is fem
@@ -8009,7 +8006,7 @@
 :no:Massiv a_ae fem
 
 :le:Massurius
-:no:Massuri us_i masc
+:no:Massur ius_i masc
 
 #noanalysis:Mastanabal
 
@@ -8059,7 +8056,7 @@
 :no:Maxim is_is fem
 
 :le:Maximius
-:no:Maximi us_i masc
+:no:Maxim ius_i masc
 
 :le:Maximuis
 :no:Maximu is_is fem
@@ -8076,7 +8073,7 @@
 :no:Mebarsap es_is fem
 
 :le:Meccius
-:no:Mecci us_i masc
+:no:Mecc ius_i masc
 
 :le:Mechaneus
 :no:Mechane us_i masc
@@ -8085,7 +8082,7 @@
 :no:Mechophan es_is fem
 
 :le:Mecilius
-:no:Mecili us_i masc
+:no:Mecil ius_i masc
 
 :le:Mecisteus
 :no:Meciste us_i masc
@@ -8096,7 +8093,7 @@
 :no:Medei a_ae fem
 
 :le:Medeius
-:no:Medei us_i masc
+:no:Mede ius_i masc
 
 :le:Medesicaste
 :no:Medesicast e_es fem
@@ -8161,7 +8158,7 @@
 #noanalysis:Meilanion
 
 :le:Meilichius
-:no:Meilichi us_i masc
+:no:Meilich ius_i masc
 
 :le:Melaeneus
 :no:Melaene us_i masc
@@ -8192,7 +8189,7 @@
 :no:Melesipp us_i masc
 
 :le:Meletius
-:no:Meleti us_i masc
+:no:Melet ius_i masc
 
 :le:Meletus
 :no:Melet us_i masc
@@ -8231,7 +8228,7 @@
 :no:Mellobaud es_is fem
 
 :le:Melobius
-:no:Melobi us_i masc
+:no:Melob ius_i masc
 
 :le:Melobosis
 :no:Melobos is_is fem
@@ -8281,10 +8278,10 @@
 :no:Menesthe us_i masc
 
 :le:Menesthius
-:no:Menesthi us_i masc
+:no:Menesth ius_i masc
 
 :le:Menestihius
-:no:Menestihi us_i masc
+:no:Menestih ius_i masc
 
 :le:Menestratus
 :no:Menestrat us_i masc
@@ -8295,7 +8292,7 @@
 #noanalysis:Menidas
 
 :le:Mennius
-:no:Menni us_i masc
+:no:Menn ius_i masc
 
 :le:Menochares
 :no:Menochar es_is fem
@@ -8338,7 +8335,7 @@
 :no:Merg us_i masc
 
 :le:Mericurius
-:no:Mericuri us_i masc
+:no:Mericur ius_i masc
 
 :le:Mericus
 :no:Meric us_i masc
@@ -8371,7 +8368,7 @@
 :no:Messape us_i masc
 
 :le:Messius
-:no:Messi us_i masc
+:no:Mess ius_i masc
 
 :le:Messus
 :no:Mess us_i masc
@@ -8400,7 +8397,7 @@
 :no:Methap us_i masc
 
 :le:Methodius
-:no:Methodi us_i masc
+:no:Method ius_i masc
 
 #noanalysis:Methon
 
@@ -8429,7 +8426,7 @@
 :no:Metop us_i masc
 
 :le:Metrobius
-:no:Metrobi us_i masc
+:no:Metrob ius_i masc
 
 :le:Metrocles
 :no:Metrocl es_is fem
@@ -8438,7 +8435,7 @@
 :no:Metrophan es_is fem
 
 :le:Mettius
-:no:Metti us_i masc
+:no:Mett ius_i masc
 
 :le:Mezetulus
 :no:Mezetul us_i masc
@@ -8470,14 +8467,14 @@
 :no:Migonit is_is fem
 
 :le:Miinatius
-:no:Miinati us_i masc
+:no:Miinat ius_i masc
 
 #noanalysis:Miltas
 
 #noanalysis:Mimallon
 
 :le:Minacius
-:no:Minaci us_i masc
+:no:Minac ius_i masc
 
 :le:Minasitimus
 :no:Minasitim us_i masc
@@ -8489,7 +8486,7 @@
 :no:Mindar us_i masc
 
 :le:Mindiius
-:no:Mindii us_i masc
+:no:Mindi ius_i masc
 
 :le:Minervina
 :no:Minervin a_ae fem
@@ -8501,7 +8498,7 @@
 :no:Minici a_ae fem
 
 :le:Minidius
-:no:Minidi us_i masc
+:no:Minid ius_i masc
 
 #noanalysis:Mintanor
 
@@ -8610,7 +8607,7 @@
 :no:Modest us_i masc
 
 :le:Modius
-:no:Modi us_i masc
+:no:Mod ius_i masc
 
 :le:Moeragenes
 :no:Moeragen es_is fem
@@ -8659,7 +8656,7 @@
 :no:Monim us_i masc
 
 :le:Monius
-:no:Moni us_i masc
+:no:Mon ius_i masc
 
 :le:Monobazus
 :no:Monobaz us_i masc
@@ -8668,7 +8665,7 @@
 :no:Monomach us_i masc
 
 :le:Monunius
-:no:Monuni us_i masc
+:no:Monun ius_i masc
 
 :le:Morcus
 :no:Morc us_i masc
@@ -8708,10 +8705,10 @@
 #noanalysis:Mulciber
 
 :le:Mulius
-:no:Muli us_i masc
+:no:Mul ius_i masc
 
 :le:Murrhedius
-:no:Murrhedi us_i masc
+:no:Murrhed ius_i masc
 
 :le:Murtea
 :no:Murte a_ae fem
@@ -8726,7 +8723,7 @@
 :no:Mussidi a_ae fem
 
 :le:Mussidius
-:no:Mussidi us_i masc
+:no:Mussid ius_i masc
 
 :le:Mustela
 :no:Mustel a_ae fem
@@ -8771,7 +8768,7 @@
 :no:Myll us_i masc
 
 :le:Myndius
-:no:Myndi us_i masc
+:no:Mynd ius_i masc
 
 :le:Mynes
 :no:Myn es_is fem
@@ -8844,7 +8841,7 @@
 :no:Namus a_ae fem
 
 :le:Nannii
-:no:Nanni us_i masc pl
+:no:Nann ius_i masc pl
 
 #noanalysis:Nanno
 
@@ -8856,7 +8853,7 @@
 #noanalysis:Nasamon
 
 :le:Nasennius
-:no:Nasenni us_i masc
+:no:Nasenn ius_i masc
 
 :le:Natta
 :no:Natt a_ae fem
@@ -8871,7 +8868,7 @@
 :no:Naucyd es_is fem
 
 :le:Naumachius
-:no:Naumachi us_i masc
+:no:Naumach ius_i masc
 
 :le:Nausicrates
 :no:Nausicrat es_is fem
@@ -8891,7 +8888,7 @@
 :no:Nazianzen us_i masc
 
 :le:Nctius
-:no:Ncti us_i masc
+:no:Nct ius_i masc
 
 :le:Nealces
 :no:Nealc es_is fem
@@ -8913,7 +8910,7 @@
 #noanalysis:Nectar
 
 :le:Nectarius
-:no:Nectari us_i masc
+:no:Nectar ius_i masc
 
 :le:Nedusia
 :no:Nedusi a_ae fem
@@ -8931,7 +8928,7 @@
 :no:Nemert es_is fem
 
 :le:Nemesius
-:no:Nemesi us_i masc
+:no:Nemes ius_i masc
 
 :le:Neocles
 :no:Neocl es_is fem
@@ -8948,7 +8945,7 @@
 :no:Nephel e_es fem
 
 :le:Neratius
-:no:Nerati us_i masc
+:no:Nerat ius_i masc
 
 :le:Nereus
 :no:Nere us_i masc
@@ -9031,7 +9028,7 @@
 :no:Nicomach us_i masc
 
 :le:Nicomaciius
-:no:Nicomacii us_i masc
+:no:Nicomaci ius_i masc
 
 :le:Nicophanes
 :no:Nicophan es_is fem
@@ -9062,7 +9059,7 @@
 :no:Nitocr is_is fem
 
 :le:Nius
-:no:Ni us_i masc
+:no:N ius_i masc
 
 #noanalysis:Njcaeas
 
@@ -9073,7 +9070,7 @@
 :no:Nominat us_i masc
 
 :le:Nomius
-:no:Nomi us_i masc
+:no:Nom ius_i masc
 
 #noanalysis:Nomos
 
@@ -9104,13 +9101,13 @@
 :no:Novat us_i masc
 
 :le:Novellius
-:no:Novelli us_i masc
+:no:Novell ius_i masc
 
 :le:Novensiles
 :no:Novensil es_is fem
 
 :le:Nucius
-:no:Nuci us_i masc
+:no:Nuc ius_i masc
 
 :le:Nuiida
 :no:Nuiid a_ae fem
@@ -9119,19 +9116,19 @@
 :no:Numatian us_i masc
 
 :le:Numestius
-:no:Numesti us_i masc
+:no:Numest ius_i masc
 
 :le:Numidius
-:no:Numidi us_i masc
+:no:Numid ius_i masc
 
 :le:Numisa
 :no:Numis a_ae fem
 
 :le:Nummius
-:no:Nummi us_i masc
+:no:Numm ius_i masc
 
 :le:Numonius
-:no:Numoni us_i masc
+:no:Numon ius_i masc
 
 :le:Nus
 :no:N us_i masc
@@ -9152,7 +9149,7 @@
 :no:Nympiiodor us_i masc
 
 :le:Nypsius
-:no:Nypsi us_i masc
+:no:Nyps ius_i masc
 
 :le:Nyseus
 :no:Nyse us_i masc
@@ -9174,7 +9171,7 @@
 :no:Obrim us_i masc
 
 :le:Obultronius
-:no:Obultroni us_i masc
+:no:Obultron ius_i masc
 
 :le:Ocaleia
 :no:Ocalei a_ae fem
@@ -9198,7 +9195,7 @@
 :no:Ocrisi a_ae fem
 
 :le:Octacilius
-:no:Octacili us_i masc
+:no:Octacil ius_i masc
 
 :le:Octav1us
 :no:Octav1 us_i masc
@@ -9219,7 +9216,7 @@
 :no:Odenath us_i masc
 
 :le:Odius
-:no:Odi us_i masc
+:no:Od ius_i masc
 
 #noanalysis:Odoacer
 
@@ -9234,7 +9231,7 @@
 #noanalysis:Oebotas
 
 :le:Oecumenius
-:no:Oecumeni us_i masc
+:no:Oecumen ius_i masc
 
 :le:Oedipus
 :no:Oedip us_i masc
@@ -9295,7 +9292,7 @@
 :no:Olbiad es_is fem
 
 :le:Olennius
-:no:Olenni us_i masc
+:no:Olenn ius_i masc
 
 :le:Olopheirnes
 :no:Olopheirn es_is fem
@@ -9307,7 +9304,7 @@
 :no:Olthac us_i masc
 
 :le:Olymnius
-:no:Olymni us_i masc
+:no:Olymn ius_i masc
 
 #noanalysis:Olympiosth
 
@@ -9315,13 +9312,13 @@
 :no:Olynthiu is_is fem
 
 :le:Omadius
-:no:Omadi us_i masc
+:no:Omad ius_i masc
 
 :le:Ombrimus
 :no:Ombrim us_i masc
 
 :le:Ombrius
-:no:Ombri us_i masc
+:no:Ombr ius_i masc
 
 #noanalysis:Omias
 
@@ -9377,7 +9374,7 @@
 :no:Opat es_is fem
 
 :le:Opelius
-:no:Opeli us_i masc
+:no:Opel ius_i masc
 
 :le:Opeltus
 :no:Opelt us_i masc
@@ -9390,7 +9387,7 @@
 :no:Opite us_i masc pl
 
 :le:Opiternius
-:no:Opiterni us_i masc
+:no:Opitern ius_i masc
 
 :le:Oplacus
 :no:Oplac us_i masc
@@ -9399,12 +9396,12 @@
 :no:Oppian us_i masc
 
 :le:Oppidius
-:no:Oppidi us_i masc
+:no:Oppid ius_i masc
 
 #noanalysis:Ops
 
 :le:Opsius
-:no:Opsi us_i masc
+:no:Ops ius_i masc
 
 :le:Optatianus
 :no:Optatian us_i masc
@@ -9421,16 +9418,16 @@
 :no:Orbian a_ae fem
 
 :le:Orbicius
-:no:Orbici us_i masc
+:no:Orbic ius_i masc
 
 :le:Orbius
-:no:Orbi us_i masc
+:no:Orb ius_i masc
 
 :le:Orchius
-:no:Orchi us_i masc
+:no:Orch ius_i masc
 
 :le:Orchivius
-:no:Orchivi us_i masc
+:no:Orchiv ius_i masc
 
 :le:Orciiomenus
 :no:Orciiomen us_i masc
@@ -9447,12 +9444,12 @@
 :no:Orfit us_i masc
 
 :le:Orfius
-:no:Orfi us_i masc
+:no:Orf ius_i masc
 
 #noanalysis:Orgetorix
 
 :le:Oribasius
-:no:Oribasi us_i masc
+:no:Oribas ius_i masc
 
 :le:Ormenus
 :no:Ormen us_i masc
@@ -9469,7 +9466,7 @@
 :no:Ornyt us_i masc
 
 :le:Oroebantius
-:no:Oroebanti us_i masc
+:no:Oroebant ius_i masc
 
 :le:Oroeses
 :no:Oroes es_is fem
@@ -9478,7 +9475,7 @@
 :no:Orol us_i masc
 
 :le:Orontius
-:no:Oronti us_i masc
+:no:Oront ius_i masc
 
 :le:Orontobates
 :no:Orontobat es_is fem
@@ -9487,7 +9484,7 @@
 :no:Orophern es_is fem
 
 :le:Orphidius
-:no:Orphidi us_i masc
+:no:Orphid ius_i masc
 
 :le:Orphitus
 :no:Orphit us_i masc
@@ -9516,7 +9513,7 @@
 :no:Osir is_is fem
 
 :le:Osius
-:no:Osi us_i masc
+:no:Os ius_i masc
 
 :le:Osroes
 :no:Osro es_is fem
@@ -9536,10 +9533,10 @@
 #noanalysis:Otys
 
 :le:Oviidius
-:no:Oviidi us_i masc
+:no:Oviid ius_i masc
 
 :le:Oviinius
-:no:Oviini us_i masc
+:no:Oviin ius_i masc
 
 :le:Oxana
 :no:Oxan a_ae fem
@@ -9567,7 +9564,7 @@
 #noanalysis:P
 
 :le:Pacarius
-:no:Pacari us_i masc
+:no:Pacar ius_i masc
 
 :le:Pacatianus
 :no:Pacatian us_i masc
@@ -9579,13 +9576,13 @@
 :no:Paccian us_i masc
 
 :le:Paccius
-:no:Pacci us_i masc
+:no:Pacc ius_i masc
 
 :le:Paches
 :no:Pach es_is fem
 
 :le:Pachomius
-:no:Pachomi us_i masc
+:no:Pachom ius_i masc
 
 :le:Pachymeres
 :no:Pachymer es_is fem
@@ -9597,7 +9594,7 @@
 :no:Pacian us_i masc
 
 :le:Pacidii
-:no:Pacidi us_i masc pl
+:no:Pacid ius_i masc pl
 
 :le:Pacilus
 :no:Pacil us_i masc
@@ -9606,7 +9603,7 @@
 :no:Paconian us_i masc
 
 :le:Pactius
-:no:Pacti us_i masc
+:no:Pact ius_i masc
 
 :le:Pacutlla
 :no:Pacutll a_ae fem
@@ -9614,7 +9611,7 @@
 #noanalysis:Paean
 
 :le:Paeanius
-:no:Paeani us_i masc
+:no:Paean ius_i masc
 
 :le:Paedaritus
 :no:Paedarit us_i masc
@@ -9623,7 +9620,7 @@
 :no:Paerisad es_is fem
 
 :le:Paetilius
-:no:Paetili us_i masc
+:no:Paetil ius_i masc
 
 :le:Paetinus
 :no:Paetin us_i masc
@@ -9639,7 +9636,7 @@
 #noanalysis:Palamas
 
 :le:Palfurius
-:no:Palfuri us_i masc
+:no:Palfur ius_i masc
 
 #noanalysis:Palladas
 
@@ -9656,7 +9653,7 @@
 :no:Pampiil a_ae fem
 
 :le:Pamprepius
-:no:Pamprepi us_i masc
+:no:Pamprep ius_i masc
 
 #noanalysis:Pan
 
@@ -9685,7 +9682,7 @@
 :no:Pancrat is_is fem
 
 :le:Pancratius
-:no:Pancrati us_i masc
+:no:Pancrat ius_i masc
 
 #noanalysis:Pandareos
 
@@ -9698,7 +9695,7 @@
 :no:Pandor us_i masc
 
 :le:Panhellenius
-:no:Panhelleni us_i masc
+:no:Panhellen ius_i masc
 
 :le:Panides
 :no:Panid es_is fem
@@ -9737,7 +9734,7 @@
 #noanalysis:Pantoleon
 
 :le:Pantuleius
-:no:Pantulei us_i masc
+:no:Pantule ius_i masc
 
 :le:Papaeus
 :no:Papae us_i masc
@@ -9748,13 +9745,13 @@
 :no:Papian us_i masc
 
 :le:Papinius
-:no:Papini us_i masc
+:no:Papin ius_i masc
 
 :le:Papiprius
-:no:Papipri us_i masc
+:no:Papipr ius_i masc
 
 :le:Pappiius
-:no:Pappii us_i masc
+:no:Pappi ius_i masc
 
 :le:Pappus
 :no:Papp us_i masc
@@ -9790,10 +9787,10 @@
 #noanalysis:Parmys
 
 :le:Parnethius
-:no:Parnethi us_i masc
+:no:Parneth ius_i masc
 
 :le:Parnopius
-:no:Parnopi us_i masc
+:no:Parnop ius_i masc
 
 :le:Paroreus
 :no:Parore us_i masc
@@ -9845,25 +9842,25 @@
 :no:Pataec us_i masc
 
 :le:Patellarii
-:no:Patellari us_i masc pl
+:no:Patellar ius_i masc pl
 
 :le:Paternus
 :no:Patern us_i masc
 
 :le:Patisius
-:no:Patisi us_i masc
+:no:Patis ius_i masc
 
 :le:Patizeithes
 :no:Patizeith es_is fem
 
 :le:Patrcius
-:no:Patrci us_i masc
+:no:Patrc ius_i masc
 
 :le:Patricius
-:no:Patrici us_i masc
+:no:Patric ius_i masc
 
 :le:Patritcius
-:no:Patritci us_i masc
+:no:Patritc ius_i masc
 
 :le:Patroa
 :no:Patro a_ae fem
@@ -9881,7 +9878,7 @@
 :no:Patro us_i masc
 
 :le:Patuleius
-:no:Patulei us_i masc
+:no:Patule ius_i masc
 
 #noanalysis:Patzo
 
@@ -9910,7 +9907,7 @@
 :no:Pedarit us_i masc
 
 :le:Pedarius
-:no:Pedari us_i masc
+:no:Pedar ius_i masc
 
 :le:Pedianus
 :no:Pedian us_i masc
@@ -9958,7 +9955,7 @@
 #noanalysis:Pelagon
 
 :le:Pelagonius
-:no:Pelagoni us_i masc
+:no:Pelagon ius_i masc
 
 :le:Pelarge
 :no:Pelarg e_es fem
@@ -9980,7 +9977,7 @@
 :no:Penetral is_is fem
 
 :le:Pentadius
-:no:Pentadi us_i masc
+:no:Pentad ius_i masc
 
 :le:Penthesileia
 :no:Penthesilei a_ae fem
@@ -10012,7 +10009,7 @@
 :no:Peraeth us_i masc
 
 :le:Percennius
-:no:Percenni us_i masc
+:no:Percenn ius_i masc
 
 :le:Peregrinus
 :no:Peregrin us_i masc
@@ -10073,7 +10070,7 @@
 #noanalysis:Pertinax
 
 :le:Pesuvius
-:no:Pesuvi us_i masc
+:no:Pesuv ius_i masc
 
 #noanalysis:Peteos
 
@@ -10084,7 +10081,7 @@
 :no:Petilli a_ae fem
 
 :le:Petillius
-:no:Petilli us_i masc
+:no:Petill ius_i masc
 
 :le:Petines
 :no:Petin es_is fem
@@ -10093,12 +10090,12 @@
 :no:Petrich us_i masc
 
 :le:Petrocorius
-:no:Petrocori us_i masc
+:no:Petrocor ius_i masc
 
 #noanalysis:Petronas
 
 :le:Petrosidius
-:no:Petrosidi us_i masc
+:no:Petrosid ius_i masc
 
 :le:Petrus
 :no:Petr us_i masc
@@ -10181,7 +10178,7 @@
 :no:Phanodic us_i masc
 
 :le:Phanomachius
-:no:Phanomachi us_i masc
+:no:Phanomach ius_i masc
 
 :le:Phanosthenes
 :no:Phanosthen es_is fem
@@ -10277,7 +10274,7 @@
 :no:Phigal us_i masc
 
 :le:Phiiluscius
-:no:Phiilusci us_i masc
+:no:Phiilusc ius_i masc
 
 #noanalysis:Phil
 
@@ -10287,7 +10284,7 @@
 #noanalysis:Philager
 
 :le:Philagrius
-:no:Philagri us_i masc
+:no:Philagr ius_i masc
 
 :le:Philalethes
 :no:Philaleth es_is fem
@@ -10296,7 +10293,7 @@
 :no:Philarcih us_i masc
 
 :le:Philargyrius
-:no:Philargyri us_i masc
+:no:Philargyr ius_i masc
 
 :le:Philemenus
 :no:Philemen us_i masc
@@ -10306,7 +10303,7 @@
 #noanalysis:Philesias
 
 :le:Philesius
-:no:Philesi us_i masc
+:no:Philes ius_i masc
 
 :le:Philetaerus
 :no:Philetaer us_i masc
@@ -10333,7 +10330,7 @@
 :no:Philisc us_i masc
 
 :le:Phillatius
-:no:Phillati us_i masc
+:no:Phillat ius_i masc
 
 :le:Phillis
 :no:Phill is_is fem
@@ -10365,7 +10362,7 @@
 :no:Philodot us_i masc
 
 :le:Philoetius
-:no:Philoeti us_i masc
+:no:Philoet ius_i masc
 
 :le:Philomachus
 :no:Philomach us_i masc
@@ -10414,7 +10411,7 @@
 :no:Philostephan us_i masc
 
 :le:Philostorgius
-:no:Philostorgi us_i masc
+:no:Philostorg ius_i masc
 
 :le:Philostratus
 :no:Philostrat us_i masc
@@ -10438,7 +10435,7 @@
 :no:Philumen us_i masc
 
 :le:Philyllius
-:no:Philylli us_i masc
+:no:Philyll ius_i masc
 
 :le:Phineus
 :no:Phine us_i masc
@@ -10456,7 +10453,7 @@
 :no:Phocylid es_is fem
 
 :le:Phoebadius
-:no:Phoebadi us_i masc
+:no:Phoebad ius_i masc
 
 #noanalysis:Phoebidas
 
@@ -10481,7 +10478,7 @@
 :no:Phor us_i masc
 
 :le:Photius
-:no:Photi us_i masc
+:no:Phot ius_i masc
 
 #noanalysis:Phoxidas
 
@@ -10498,7 +10495,7 @@
 :no:Phrasaort es_is fem
 
 :le:Phrasius
-:no:Phrasi us_i masc
+:no:Phras ius_i masc
 
 :le:Phratagune
 :no:Phratagun e_es fem
@@ -10567,10 +10564,10 @@
 #noanalysis:Phyton
 
 :le:Phyxius
-:no:Phyxi us_i masc
+:no:Phyx ius_i masc
 
 :le:Piavvonius
-:no:Piavvoni us_i masc
+:no:Piavvon ius_i masc
 
 :le:Pierides
 :no:Pierid es_is fem
@@ -10596,7 +10593,7 @@
 :no:Pinne us_i masc
 
 :le:Pinnius
-:no:Pinni us_i masc
+:no:Pinn ius_i masc
 
 :le:Pinthia
 :no:Pinthi a_ae fem
@@ -10613,7 +10610,7 @@
 #noanalysis:Pisias
 
 :le:Pistius
-:no:Pisti us_i masc
+:no:Pist ius_i masc
 
 #noanalysis:Piston
 
@@ -10647,7 +10644,7 @@
 :no:Placidi a_ae fem
 
 :le:Placidius
-:no:Placidi us_i masc
+:no:Placid ius_i masc
 
 :le:Placidus
 :no:Placid us_i masc
@@ -10656,7 +10653,7 @@
 :no:Placit us_i masc
 
 :le:Plaguleius
-:no:Plagulei us_i masc
+:no:Plagule ius_i masc
 
 :le:Plaijtia
 :no:Plaijti a_ae fem
@@ -10671,7 +10668,7 @@
 :no:Planud es_is fem
 
 :le:Platonius
-:no:Platoni us_i masc
+:no:Platon ius_i masc
 
 #noanalysis:Plator
 
@@ -10679,7 +10676,7 @@
 :no:Platorin us_i masc
 
 :le:Plauius
-:no:Plaui us_i masc
+:no:Plau ius_i masc
 
 :le:Plautilla
 :no:Plautill a_ae fem
@@ -10696,13 +10693,13 @@
 #noanalysis:Pleistoanax
 
 :le:Pleminius
-:no:Plemini us_i masc
+:no:Plemin ius_i masc
 
 :le:Plemnaeus
 :no:Plemnae us_i masc
 
 :le:Plennius
-:no:Plenni us_i masc
+:no:Plenn ius_i masc
 
 :le:Plesimachus
 :no:Plesimach us_i masc
@@ -10716,7 +10713,7 @@
 :no:Plistonic us_i masc
 
 :le:Plladius
-:no:Plladi us_i masc
+:no:Pllad ius_i masc
 
 :le:Plocamus
 :no:Plocam us_i masc
@@ -10728,7 +10725,7 @@
 :no:Plotin a_ae fem
 
 :le:Plutarchius
-:no:Plutarchi us_i masc
+:no:Plutarch ius_i masc
 
 :le:Plutarchus
 :no:Plutarch us_i masc
@@ -10736,7 +10733,7 @@
 #noanalysis:Plution
 
 :le:Pluvius
-:no:Pluvi us_i masc
+:no:Pluv ius_i masc
 
 :le:Poblicia
 :no:Poblici a_ae fem
@@ -10748,7 +10745,7 @@
 :no:Pocyclet us_i masc
 
 :le:Podaleirius
-:no:Podaleiri us_i masc
+:no:Podaleir ius_i masc
 
 :le:Podarces
 :no:Podarc es_is fem
@@ -10765,7 +10762,7 @@
 :no:Pogonat us_i masc
 
 :le:Polemius
-:no:Polemi us_i masc
+:no:Polem ius_i masc
 
 :le:Polemocles
 :no:Polemocl es_is fem
@@ -10790,7 +10787,7 @@
 #noanalysis:Poliuchos
 
 :le:Pollenius
-:no:Polleni us_i masc
+:no:Pollen ius_i masc
 
 :le:Polles
 :no:Poll es_is fem
@@ -10915,7 +10912,7 @@
 :no:Polyzel us_i masc
 
 :le:Pompaedius
-:no:Pompaedi us_i masc
+:no:Pompaed ius_i masc
 
 #noanalysis:Pompeits
 
@@ -10931,7 +10928,7 @@
 :no:Pomposian us_i masc
 
 :le:Pomppilius
-:no:Pomppili us_i masc
+:no:Pomppil ius_i masc
 
 :le:Pompylus
 :no:Pompyl us_i masc
@@ -10946,13 +10943,13 @@
 :no:Pontidi a_ae fem
 
 :le:Pontidius
-:no:Pontidi us_i masc
+:no:Pontid ius_i masc
 
 :le:Pontificius
-:no:Pontifici us_i masc
+:no:Pontific ius_i masc
 
 :le:Pontilius
-:no:Pontili us_i masc
+:no:Pontil ius_i masc
 
 :le:Poplicola
 :no:Poplicol a_ae fem
@@ -10963,7 +10960,7 @@
 #noanalysis:Porphyrio
 
 :le:Porphyrius
-:no:Porphyri us_i masc
+:no:Porphyr ius_i masc
 
 :le:Porphyrogenitus
 :no:Porphyrogenit us_i masc
@@ -10979,13 +10976,13 @@
 #noanalysis:Poseidon
 
 :le:Poseidonius
-:no:Poseidoni us_i masc
+:no:Poseidon ius_i masc
 
 :le:Posis
 :no:Pos is_is fem
 
 :le:Possidius
-:no:Possidi us_i masc
+:no:Possid ius_i masc
 
 :le:Possis
 :no:Poss is_is fem
@@ -10997,7 +10994,7 @@
 :no:Pot a_ae fem
 
 :le:Potamius
-:no:Potami us_i masc
+:no:Potam ius_i masc
 
 :le:Pothaeus
 :no:Pothae us_i masc
@@ -11013,7 +11010,7 @@
 #noanalysis:Prachias
 
 :le:Praecilius
-:no:Praecili us_i masc
+:no:Praecil ius_i masc
 
 :le:Praeconiinus
 :no:Praeconiin us_i masc
@@ -11054,7 +11051,7 @@
 :no:Preci a_ae fem
 
 :le:Precius
-:no:Preci us_i masc
+:no:Prec ius_i masc
 
 :le:Prepelaus
 :no:Prepela us_i masc
@@ -11062,10 +11059,10 @@
 #noanalysis:Presbon
 
 :le:Presenteius
-:no:Presentei us_i masc
+:no:Presente ius_i masc
 
 :le:Priapatius
-:no:Priapati us_i masc
+:no:Priapat ius_i masc
 
 :le:Primus
 :no:Prim us_i masc
@@ -11085,7 +11082,7 @@
 #noanalysis:Privernas
 
 :le:Proaeresius
-:no:Proaeresi us_i masc
+:no:Proaeres ius_i masc
 
 :le:Proba
 :no:Prob a_ae fem
@@ -11096,7 +11093,7 @@
 :no:Prochor us_i masc
 
 :le:Procillius
-:no:Procilli us_i masc
+:no:Procill ius_i masc
 
 :le:Procillus
 :no:Procill us_i masc
@@ -11114,7 +11111,7 @@
 :no:Procn e_es fem
 
 :le:Procopius
-:no:Procopi us_i masc
+:no:Procop ius_i masc
 
 :le:Procris
 :no:Procr is_is fem
@@ -11166,7 +11163,7 @@
 #noanalysis:Prosper
 
 :le:Prostastius
-:no:Prostasti us_i masc
+:no:Prostast ius_i masc
 
 :le:Protagorides
 :no:Protagorid es_is fem
@@ -11366,31 +11363,31 @@
 :no:Quintill us_i masc
 
 :le:Quintlius
-:no:Quintli us_i masc
+:no:Quintl ius_i masc
 
 :le:Qutntilius
-:no:Qutntili us_i masc
+:no:Qutntil ius_i masc
 
 :le:Rabiius
-:no:Rabii us_i masc
+:no:Rabi ius_i masc
 
 :le:Rabonius
-:no:Raboni us_i masc
+:no:Rabon ius_i masc
 
 :le:Rabuleius
-:no:Rabulei us_i masc
+:no:Rabule ius_i masc
 
 :le:Racius
-:no:Raci us_i masc
+:no:Rac ius_i masc
 
 :le:Radagaisus
 :no:Radagais us_i masc
 
 :le:Ragonius
-:no:Ragoni us_i masc
+:no:Ragon ius_i masc
 
 :le:Rammius
-:no:Rammi us_i masc
+:no:Ramm ius_i masc
 
 :le:Ramnus
 :no:Ramn us_i masc
@@ -11399,10 +11396,10 @@
 :no:Rams es_is fem
 
 :le:Ranius
-:no:Rani us_i masc
+:no:Ran ius_i masc
 
 :le:Rebius
-:no:Rebi us_i masc
+:no:Reb ius_i masc
 
 :le:Recaranus
 :no:Recaran us_i masc
@@ -11467,7 +11464,7 @@
 :no:Rhegn us_i masc
 
 :le:Rhemnius
-:no:Rhemni us_i masc
+:no:Rhemn ius_i masc
 
 :le:Rheomithres
 :no:Rheomithr es_is fem
@@ -11507,7 +11504,7 @@
 #noanalysis:Ricimer
 
 :le:Rius
-:no:Ri us_i masc
+:no:R ius_i masc
 
 :le:Rocus
 :no:Roc us_i masc
@@ -11528,7 +11525,7 @@
 :no:Rosian us_i masc
 
 :le:Rubellius
-:no:Rubelli us_i masc
+:no:Rubell ius_i masc
 
 :le:Rubrenus
 :no:Rubren us_i masc
@@ -11545,7 +11542,7 @@
 #noanalysis:Rufio
 
 :le:Rufius
-:no:Rufi us_i masc
+:no:Ruf ius_i masc
 
 :le:Rullianus
 :no:Rullian us_i masc
@@ -11557,16 +11554,16 @@
 :no:Rup a_ae fem
 
 :le:Rupius
-:no:Rupi us_i masc
+:no:Rup ius_i masc
 
 :le:Rus
 :no:R us_i masc
 
 :le:Ruscius
-:no:Rusci us_i masc
+:no:Rusc ius_i masc
 
 :le:Rusius
-:no:Rusi us_i masc
+:no:Rus ius_i masc
 
 #noanalysis:Ruso
 
@@ -11574,7 +11571,7 @@
 :no:Rustian us_i masc
 
 :le:Rusticellius
-:no:Rusticelli us_i masc
+:no:Rusticell ius_i masc
 
 :le:Rusticellus
 :no:Rusticell us_i masc
@@ -11583,10 +11580,10 @@
 :no:Rustic us_i masc
 
 :le:Rustius
-:no:Rusti us_i masc
+:no:Rust ius_i masc
 
 :le:Rutiilius
-:no:Rutiili us_i masc
+:no:Rutiil ius_i masc
 
 :le:Rutilia
 :no:Rutili a_ae fem
@@ -11605,7 +11602,7 @@
 #noanalysis:Sabictas
 
 :le:Sabidius
-:no:Sabidi us_i masc
+:no:Sabid ius_i masc
 
 :le:Sabiinus
 :no:Sabiin us_i masc
@@ -11639,13 +11636,13 @@
 :no:Sadyatt es_is fem
 
 :le:Saenius
-:no:Saeni us_i masc
+:no:Saen ius_i masc
 
 :le:Saevius
-:no:Saevi us_i masc
+:no:Saev ius_i masc
 
 :le:Safinius
-:no:Safini us_i masc
+:no:Safin ius_i masc
 
 :le:Sagitta
 :no:Sagitt a_ae fem
@@ -11680,12 +11677,12 @@
 :no:Salonin us_i masc
 
 :le:Salonius
-:no:Saloni us_i masc
+:no:Salon ius_i masc
 
 #noanalysis:Salpion
 
 :le:Saltius
-:no:Salti us_i masc
+:no:Salt ius_i masc
 
 :le:Salus
 :no:Sal us_i masc
@@ -11694,7 +11691,7 @@
 :no:Salvidien us_i masc
 
 :le:Salynthius
-:no:Salynthi us_i masc
+:no:Salynth ius_i masc
 
 :le:Sammonicus
 :no:Sammonic us_i masc
@@ -11734,10 +11731,10 @@
 #noanalysis:Sannyrion
 
 :le:Sanquinius
-:no:Sanquini us_i masc
+:no:Sanquin ius_i masc
 
 :le:Saocondarius
-:no:Saocondari us_i masc
+:no:Saocondar ius_i masc
 
 #noanalysis:Saon
 
@@ -11773,10 +11770,10 @@
 :no:Satrien us_i masc
 
 :le:Satrius
-:no:Satri us_i masc
+:no:Satr ius_i masc
 
 :le:Satureius
-:no:Saturei us_i masc
+:no:Sature ius_i masc
 
 :le:Saturnnus
 :no:Saturnn us_i masc
@@ -11784,7 +11781,7 @@
 #noanalysis:Satyrion
 
 :le:Satyrius
-:no:Satyri us_i masc
+:no:Satyr ius_i masc
 
 :le:Satyrus
 :no:Satyr us_i masc
@@ -11809,7 +11806,7 @@
 :no:Scaevin us_i masc
 
 :le:Scaevius
-:no:Scaevi us_i masc
+:no:Scaev ius_i masc
 
 #noanalysis:Scamon
 
@@ -11833,7 +11830,7 @@
 :no:Scevin us_i masc
 
 :le:Schedius
-:no:Schedi us_i masc
+:no:Sched ius_i masc
 
 :le:Scholasticus
 :no:Scholastic us_i masc
@@ -11904,10 +11901,10 @@
 :no:Seleucid a_ae fem pl
 
 :le:Selicius
-:no:Selici us_i masc
+:no:Selic ius_i masc
 
 :le:Sellius
-:no:Selli us_i masc
+:no:Sell ius_i masc
 
 :le:Semele
 :no:Semel e_es fem
@@ -11919,10 +11916,10 @@
 :no:Senti a_ae fem
 
 :le:Seppius
-:no:Seppi us_i masc
+:no:Sepp ius_i masc
 
 :le:Septicius
-:no:Septici us_i masc
+:no:Septic ius_i masc
 
 :le:Septimianus
 :no:Septimian us_i masc
@@ -11931,10 +11928,10 @@
 :no:Septim us_i masc
 
 :le:Septitius
-:no:Septiti us_i masc
+:no:Septit ius_i masc
 
 :le:Sepullius
-:no:Sepulli us_i masc
+:no:Sepull ius_i masc
 
 #noanalysis:Sequester
 
@@ -11971,7 +11968,7 @@
 #noanalysis:Sex.
 
 :le:Sex.aurelius
-:no:Sex.aureli us_i masc
+:no:Sex.aurel ius_i masc
 
 :le:Sextinus
 :no:Sextin us_i masc
@@ -11979,19 +11976,19 @@
 #noanalysis:Sias
 
 :le:Siburius
-:no:Siburi us_i masc
+:no:Sibur ius_i masc
 
 :le:Sibyntius
-:no:Sibynti us_i masc
+:no:Sibynt ius_i masc
 
 :le:Sibyrtius
-:no:Sibyrti us_i masc
+:no:Sibyrt ius_i masc
 
 :le:Sicamius
-:no:Sicami us_i masc
+:no:Sicam ius_i masc
 
 :le:Siccius
-:no:Sicci us_i masc
+:no:Sicc ius_i masc
 
 :le:Sicinia
 :no:Sicini a_ae fem
@@ -12009,13 +12006,13 @@
 :no:Sigoves us_i masc
 
 :le:Silentiarius
-:no:Silentiari us_i masc
+:no:Silentiar ius_i masc
 
 :le:Silia
 :no:Sili a_ae fem
 
 :le:Silicius
-:no:Silici us_i masc
+:no:Silic ius_i masc
 
 #noanalysis:Sillax
 
@@ -12035,7 +12032,7 @@
 #noanalysis:Simplex
 
 :le:Simplicius
-:no:Simplici us_i masc
+:no:Simplic ius_i masc
 
 :le:Simus
 :no:Sim us_i masc
@@ -12061,13 +12058,13 @@
 :no:Siren es_is fem
 
 :le:Siricius
-:no:Sirici us_i masc
+:no:Siric ius_i masc
 
 :le:Sisamnes
 :no:Sisamn es_is fem
 
 :le:Sisennanummius
-:no:Sisennanummi us_i masc
+:no:Sisennanumm ius_i masc
 
 :le:Sisines
 :no:Sisin es_is fem
@@ -12107,7 +12104,7 @@
 :no:Soem is_is fem
 
 :le:Sofonius
-:no:Sofoni us_i masc
+:no:Sofon ius_i masc
 
 :le:Sogdianus
 :no:Sogdian us_i masc
@@ -12119,7 +12116,7 @@
 #noanalysis:Sol
 
 :le:Sollius
-:no:Solli us_i masc
+:no:Soll ius_i masc
 
 :le:Somis
 :no:Som is_is fem
@@ -12154,10 +12151,10 @@
 :no:Sophonisb a_ae fem
 
 :le:Sophonius
-:no:Sophoni us_i masc
+:no:Sophon ius_i masc
 
 :le:Sophronius
-:no:Sophroni us_i masc
+:no:Sophron ius_i masc
 
 :le:Sopylus
 :no:Sopyl us_i masc
@@ -12168,7 +12165,7 @@
 #noanalysis:Sosander
 
 :le:Sosibius
-:no:Sosibi us_i masc
+:no:Sosib ius_i masc
 
 :le:Sosicles
 :no:Sosicl es_is fem
@@ -12223,7 +12220,7 @@
 #noanalysis:Speio
 
 :le:Spendius
-:no:Spendi us_i masc
+:no:Spend ius_i masc
 
 #noanalysis:Spendon
 
@@ -12250,7 +12247,7 @@
 #noanalysis:Spitynchas
 
 :le:Spodius
-:no:Spodi us_i masc
+:no:Spod ius_i masc
 
 :le:Sponsianus
 :no:Sponsian us_i masc
@@ -12262,7 +12259,7 @@
 :no:Spurin us_i masc
 
 :le:Spurius
-:no:Spuri us_i masc
+:no:Spur ius_i masc
 
 :le:Squilla
 :no:Squill a_ae fem
@@ -12271,7 +12268,7 @@
 :no:Squill us_i masc
 
 :le:Ssius
-:no:Ssi us_i masc
+:no:Ss ius_i masc
 
 #noanalysis:St
 
@@ -12284,10 +12281,10 @@
 :no:Stadie us_i masc
 
 :le:Staius
-:no:Stai us_i masc
+:no:Sta ius_i masc
 
 :le:Stallius
-:no:Stalli us_i masc
+:no:Stall ius_i masc
 
 #noanalysis:Stasander
 
@@ -12324,19 +12321,19 @@
 :no:Statir a_ae fem
 
 :le:Stauracius
-:no:Stauraci us_i masc
+:no:Staurac ius_i masc
 
 :le:Stella
 :no:Stell a_ae fem
 
 :le:Stenius
-:no:Steni us_i masc
+:no:Sten ius_i masc
 
 :le:Stenyclerus
 :no:Stenycler us_i masc
 
 :le:Stercutius
-:no:Stercuti us_i masc
+:no:Stercut ius_i masc
 
 :le:Stesagoras
 :no:Stesagor hs_ou masc
@@ -12362,7 +12359,7 @@
 :no:Sthen is_is fem
 
 :le:Stichius
-:no:Stichi us_i masc
+:no:Stich ius_i masc
 
 :le:Stilbe
 :no:Stilb e_es fem
@@ -12373,7 +12370,7 @@
 :no:Stobae us_i masc
 
 :le:Stomius
-:no:Stomi us_i masc
+:no:Stom ius_i masc
 
 #noanalysis:Strabax
 
@@ -12409,23 +12406,23 @@
 #noanalysis:Styx
 
 :le:Subrius
-:no:Subri us_i masc
+:no:Subr ius_i masc
 
 :le:Suedius
-:no:Suedi us_i masc
+:no:Sued ius_i masc
 
 :le:Suetius
-:no:Sueti us_i masc
+:no:Suet ius_i masc
 
 #noanalysis:Sufenas
 
 #noanalysis:Suidas
 
 :le:Suilius
-:no:Suili us_i masc
+:no:Suil ius_i masc
 
 :le:Suillius
-:no:Suilli us_i masc
+:no:Suill ius_i masc
 
 #noanalysis:Summan
 
@@ -12436,7 +12433,7 @@
 :no:Superian us_i masc
 
 :le:Surdinius
-:no:Surdini us_i masc
+:no:Surdin ius_i masc
 
 :le:Surdinus
 :no:Surdin us_i masc
@@ -12456,18 +12453,18 @@
 #noanalysis:Syloson
 
 :le:Sylvius
-:no:Sylvi us_i masc
+:no:Sylv ius_i masc
 
 #noanalysis:Symeon
 
 :le:Symposius
-:no:Symposi us_i masc
+:no:Sympos ius_i masc
 
 :le:Syncellus
 :no:Syncell us_i masc
 
 :le:Synesius
-:no:Synesi us_i masc
+:no:Synes ius_i masc
 
 #noanalysis:Synnoon
 
@@ -12509,7 +12506,7 @@
 :no:Taleid es_is fem
 
 :le:Talius
-:no:Tali us_i masc
+:no:Tal ius_i masc
 
 :le:Talna
 :no:Taln a_ae fem
@@ -12517,14 +12514,14 @@
 #noanalysis:Talos
 
 :le:Tamisius
-:no:Tamisi us_i masc
+:no:Tamis ius_i masc
 
 #noanalysis:Tamos
 
 #noanalysis:Tanaquil
 
 :le:Tantasius
-:no:Tantasi us_i masc
+:no:Tantas ius_i masc
 
 :le:Tanyoxarces
 :no:Tanyoxarc es_is fem
@@ -12544,21 +12541,21 @@
 :no:Taraxipp us_i masc
 
 :le:Tarchetius
-:no:Tarcheti us_i masc
+:no:Tarchet ius_i masc
 
 :le:Tarchiesius
-:no:Tarchiesi us_i masc
+:no:Tarchies ius_i masc
 
 #noanalysis:Tarchon
 
 :le:Tarcondarius
-:no:Tarcondari us_i masc
+:no:Tarcondar ius_i masc
 
 :le:Targitaus
 :no:Targita us_i masc
 
 :le:Tarius
-:no:Tari us_i masc
+:no:Tar ius_i masc
 
 :le:Tarpa
 :no:Tarp a_ae fem
@@ -12601,7 +12598,7 @@
 :no:Tectae us_i masc
 
 :le:Tedius
-:no:Tedi us_i masc
+:no:Ted ius_i masc
 
 :le:Tegeates
 :no:Tegeat es_is fem
@@ -12610,10 +12607,10 @@
 :no:Tegul a_ae fem
 
 :le:Tegyreius
-:no:Tegyrei us_i masc
+:no:Tegyre ius_i masc
 
 :le:Tegyrius
-:no:Tegyri us_i masc
+:no:Tegyr ius_i masc
 
 #noanalysis:Teiresias
 
@@ -12694,7 +12691,7 @@
 :no:Temen us_i masc
 
 :le:Tempanius
-:no:Tempani us_i masc
+:no:Tempan ius_i masc
 
 :le:Tenerus
 :no:Tener us_i masc
@@ -12734,7 +12731,7 @@
 :no:Terpn us_i masc
 
 :le:Terpolius
-:no:Terpoli us_i masc
+:no:Terpol ius_i masc
 
 :le:Terpsicles
 :no:Terpsicl es_is fem
@@ -12745,7 +12742,7 @@
 :no:Terr a_ae fem
 
 :le:Terrasidius
-:no:Terrasidi us_i masc
+:no:Terrasid ius_i masc
 
 :le:Tertullinus
 :no:Tertullin us_i masc
@@ -12774,7 +12771,7 @@
 :no:Teutobod us_i masc
 
 :le:Teutomalius
-:no:Teutomali us_i masc
+:no:Teutomal ius_i masc
 
 :le:Thalamus
 :no:Thalam us_i masc
@@ -12798,7 +12795,7 @@
 :no:Thall us_i masc
 
 :le:Thalpius
-:no:Thalpi us_i masc
+:no:Thalp ius_i masc
 
 :le:Thamyrus
 :no:Thamyr us_i masc
@@ -12808,7 +12805,7 @@
 #noanalysis:Tharyps
 
 :le:Thascius
-:no:Thasci us_i masc
+:no:Thasc ius_i masc
 
 :le:Thaumacus
 :no:Thaumac us_i masc
@@ -12847,7 +12844,7 @@
 :no:Themistagor hs_ou masc
 
 :le:Themistius
-:no:Themisti us_i masc
+:no:Themist ius_i masc
 
 #noanalysis:Themisto
 
@@ -12867,7 +12864,7 @@
 :no:Theocl es_is fem
 
 :le:Theoclius
-:no:Theocli us_i masc
+:no:Theocl ius_i masc
 
 :le:Theoclymenus
 :no:Theoclymen us_i masc
@@ -12904,13 +12901,13 @@
 :no:Theodorit us_i masc
 
 :le:Theodosius
-:no:Theodosi us_i masc
+:no:Theodos ius_i masc
 
 :le:Theodota
 :no:Theodot a_ae fem
 
 :le:Theodotius
-:no:Theodoti us_i masc
+:no:Theodot ius_i masc
 
 :le:Theodotus
 :no:Theodot us_i masc
@@ -12967,7 +12964,7 @@
 :no:Theoxen a_ae fem
 
 :le:Theoxenius
-:no:Theoxeni us_i masc
+:no:Theoxen ius_i masc
 
 :le:Theoxenus
 :no:Theoxen us_i masc
@@ -13008,14 +13005,14 @@
 #noanalysis:Thoon
 
 :le:Thoranius
-:no:Thorani us_i masc
+:no:Thoran ius_i masc
 
 #noanalysis:Thorax
 
 #noanalysis:Thorismond
 
 :le:Thrasius
-:no:Thrasi us_i masc
+:no:Thras ius_i masc
 
 :le:Thrasonides
 :no:Thrasonid es_is fem
@@ -13046,7 +13043,7 @@
 #noanalysis:Thuro
 
 :le:Thyius
-:no:Thyi us_i masc
+:no:Thy ius_i masc
 
 :le:Thylacus
 :no:Thylac us_i masc
@@ -13075,10 +13072,10 @@
 :no:Tibul us_i masc
 
 :le:Tiburtius
-:no:Tiburti us_i masc
+:no:Tiburt ius_i masc
 
 :le:Tichonius
-:no:Tichoni us_i masc
+:no:Tichon ius_i masc
 
 :le:Tiheocleia
 :no:Tiheoclei a_ae fem
@@ -13106,7 +13103,7 @@
 :no:Timasithe us_i masc
 
 :le:Timasius
-:no:Timasi us_i masc
+:no:Timas ius_i masc
 
 #noanalysis:Timesias
 
@@ -13117,7 +13114,7 @@
 :no:Timesithe us_i masc
 
 :le:Timesius
-:no:Timesi us_i masc
+:no:Times ius_i masc
 
 #noanalysis:Timo
 
@@ -13156,7 +13153,7 @@
 :no:Tinc a_ae fem
 
 :le:Tineius
-:no:Tinei us_i masc
+:no:Tine ius_i masc
 
 :le:Tiribazus
 :no:Tiribaz us_i masc
@@ -13181,7 +13178,7 @@
 :no:Tithraust es_is fem
 
 :le:Titidius
-:no:Titidi us_i masc
+:no:Titid ius_i masc
 
 :le:Titinia
 :no:Titini a_ae fem
@@ -13197,7 +13194,7 @@
 #noanalysis:Tleson
 
 :le:Togonius
-:no:Togoni us_i masc
+:no:Togon ius_i masc
 
 :le:Tolmides
 :no:Tolmid es_is fem
@@ -13206,7 +13203,7 @@
 :no:Tolyn us_i masc
 
 :le:Tongilius
-:no:Tongili us_i masc
+:no:Tongil ius_i masc
 
 #noanalysis:Torismond
 
@@ -13217,7 +13214,7 @@
 :no:Toxe us_i masc
 
 :le:Toxotius
-:no:Toxoti us_i masc
+:no:Toxot ius_i masc
 
 :le:Trachalus
 :no:Trachal us_i masc
@@ -13247,7 +13244,7 @@
 :no:Trebellien us_i masc
 
 :le:Treblelius
-:no:Trebleli us_i masc
+:no:Treblel ius_i masc
 
 :le:Trebonia
 :no:Treboni a_ae fem
@@ -13326,19 +13323,19 @@
 :no:Tryphonin us_i masc
 
 :le:Tryphonius
-:no:Tryphoni us_i masc
+:no:Tryphon ius_i masc
 
 :le:Tullinus
 :no:Tullin us_i masc
 
 :le:Turanius
-:no:Turani us_i masc
+:no:Turan ius_i masc
 
 :le:Turcius
-:no:Turci us_i masc
+:no:Turc ius_i masc
 
 :le:Turibius
-:no:Turibi us_i masc
+:no:Turib ius_i masc
 
 :le:Turpilianus
 :no:Turpilian us_i masc
@@ -13350,16 +13347,16 @@
 :no:Turrin us_i masc
 
 :le:Turulius
-:no:Turuli us_i masc
+:no:Turul ius_i masc
 
 :le:Tuscenius
-:no:Tusceni us_i masc
+:no:Tuscen ius_i masc
 
 :le:Tuscianus
 :no:Tuscian us_i masc
 
 :le:Tuscilius
-:no:Tuscili us_i masc
+:no:Tuscil ius_i masc
 
 #noanalysis:Tutor
 
@@ -13372,7 +13369,7 @@
 #noanalysis:Tychon
 
 :le:Tychonius
-:no:Tychoni us_i masc
+:no:Tychon ius_i masc
 
 :le:Tycus
 :no:Tyc us_i masc
@@ -13413,7 +13410,7 @@
 :no:Ulyx es_is fem
 
 :le:Umbonius
-:no:Umboni us_i masc
+:no:Umbon ius_i masc
 
 #noanalysis:Umbrents
 
@@ -13421,22 +13418,22 @@
 :no:Ummidi a_ae fem
 
 :le:Ummidius
-:no:Ummidi us_i masc
+:no:Ummid ius_i masc
 
 :le:Upis
 :no:Up is_is fem
 
 :le:Uranius
-:no:Urani us_i masc
+:no:Uran ius_i masc
 
 :le:Urbica
 :no:Urbic a_ae fem
 
 :le:Urbicius
-:no:Urbici us_i masc
+:no:Urbic ius_i masc
 
 :le:Urbinius
-:no:Urbini us_i masc
+:no:Urbin ius_i masc
 
 :le:Urgulania
 :no:Urgulani a_ae fem
@@ -13445,10 +13442,10 @@
 :no:Urgulanill a_ae fem
 
 :le:Ursanius
-:no:Ursani us_i masc
+:no:Ursan ius_i masc
 
 :le:Urseius
-:no:Ursei us_i masc
+:no:Urse ius_i masc
 
 :le:Ursicinus
 :no:Ursicin us_i masc
@@ -13478,10 +13475,10 @@
 :no:Valentin us_i masc
 
 :le:Valentius
-:no:Valenti us_i masc
+:no:Valent ius_i masc
 
 :le:Vallius
-:no:Valli us_i masc
+:no:Vall ius_i masc
 
 #noanalysis:Vangio
 
@@ -13492,13 +13489,13 @@
 :no:Varili a_ae fem
 
 :le:Varinius
-:no:Varini us_i masc
+:no:Varin ius_i masc
 
 :le:Varrius
-:no:Varri us_i masc
+:no:Varr ius_i masc
 
 :le:Vasius
-:no:Vasi us_i masc
+:no:Vas ius_i masc
 
 :le:Vatatzes
 :no:Vatatz es_is fem
@@ -13513,16 +13510,16 @@
 :no:Vectien us_i masc
 
 :le:Veianius
-:no:Veiani us_i masc
+:no:Veian ius_i masc
 
 :le:Veiantanus
 :no:Veiantan us_i masc
 
 :le:Velanius
-:no:Velani us_i masc
+:no:Velan ius_i masc
 
 :le:Velius
-:no:Veli us_i masc
+:no:Vel ius_i masc
 
 :le:Vellocatus
 :no:Vellocat us_i masc
@@ -13541,16 +13538,16 @@
 :no:Venust us_i masc
 
 :le:Venutius
-:no:Venuti us_i masc
+:no:Venut ius_i masc
 
 :le:Verania
 :no:Verani a_ae fem
 
 :le:Veranius
-:no:Verani us_i masc
+:no:Veran ius_i masc
 
 :le:Veratius
-:no:Verati us_i masc
+:no:Verat ius_i masc
 
 #noanalysis:Verax
 
@@ -13560,7 +13557,7 @@
 :no:Vergasillaun us_i masc
 
 :le:Verginius
-:no:Vergini us_i masc
+:no:Vergin ius_i masc
 
 :le:Verina
 :no:Verin a_ae fem
@@ -13575,7 +13572,7 @@
 :no:Ver us_i masc
 
 :le:Vescularius
-:no:Vesculari us_i masc
+:no:Vescular ius_i masc
 
 :le:Vespa
 :no:Vesp a_ae fem
@@ -13586,19 +13583,19 @@
 #noanalysis:Vespillo
 
 :le:Vespronius
-:no:Vesproni us_i masc
+:no:Vespron ius_i masc
 
 :le:Vestia
 :no:Vesti a_ae fem
 
 :le:Vestilius
-:no:Vestili us_i masc
+:no:Vestil ius_i masc
 
 :le:Vestritius
-:no:Vestriti us_i masc
+:no:Vestrit ius_i masc
 
 :le:Vestrius
-:no:Vestri us_i masc
+:no:Vestr ius_i masc
 
 #noanalysis:Vetranio
 
@@ -13625,10 +13622,10 @@
 :no:Vibidi a_ae fem
 
 :le:Vibidius
-:no:Vibidi us_i masc
+:no:Vibid ius_i masc
 
 :le:Vibilius
-:no:Vibili us_i masc
+:no:Vibil ius_i masc
 
 :le:Vibulanus
 :no:Vibulan us_i masc
@@ -13643,18 +13640,18 @@
 :no:Victorin us_i masc
 
 :le:Victorius
-:no:Victori us_i masc
+:no:Victor ius_i masc
 
 #noanalysis:Victrix
 
 :le:Vigellius
-:no:Vigelli us_i masc
+:no:Vigell ius_i masc
 
 :le:Vigilius
-:no:Vigili us_i masc
+:no:Vigil ius_i masc
 
 :le:Viii
-:no:Vii us_i masc pl
+:no:Vi ius_i masc pl
 
 #noanalysis:Viii.
 
@@ -13662,7 +13659,7 @@
 :no:Villi a_ae fem
 
 :le:Vincentius
-:no:Vincenti us_i masc
+:no:Vincent ius_i masc
 
 #noanalysis:Vindex
 
@@ -13690,24 +13687,24 @@
 :no:Virgini a_ae fem
 
 :le:Virginius
-:no:Virgini us_i masc
+:no:Virgin ius_i masc
 
 #noanalysis:Viridovix
 
 :le:Virius
-:no:Viri us_i masc
+:no:Vir ius_i masc
 
 :le:Virrius
-:no:Virri us_i masc
+:no:Virr ius_i masc
 
 :le:Virtus
-:no:Virt us_i masc
+:no:Virtu s_tis masc
 
 :le:Viseius
-:no:Visei us_i masc
+:no:Vise ius_i masc
 
 :le:Visidius
-:no:Visidi us_i masc
+:no:Visid ius_i masc
 
 :le:Visolus
 :no:Visol us_i masc
@@ -13719,7 +13716,7 @@
 :no:Vital is_is fem
 
 :le:Vitrasius
-:no:Vitrasi us_i masc
+:no:Vitras ius_i masc
 
 :le:Vitulus
 :no:Vitul us_i masc
@@ -13739,16 +13736,16 @@
 #noanalysis:Volero
 
 :le:Volnius
-:no:Volni us_i masc
+:no:Voln ius_i masc
 
 :le:Volteia
 :no:Voltei a_ae fem
 
 :le:Volteius
-:no:Voltei us_i masc
+:no:Volte ius_i masc
 
 :le:Voltiircius
-:no:Voltiirci us_i masc
+:no:Voltiirc ius_i masc
 
 :le:Volusianus
 :no:Volusian us_i masc
@@ -13765,10 +13762,10 @@
 :no:Votien us_i masc
 
 :le:Vulcatius
-:no:Vulcati us_i masc
+:no:Vulcat ius_i masc
 
 :le:Vulteius
-:no:Vultei us_i masc
+:no:Vulte ius_i masc
 
 #noanalysis:X
 
@@ -13818,10 +13815,10 @@
 :no:X us_i masc pl
 
 :le:Xii
-:no:Xi us_i masc pl
+:no:X ius_i masc pl
 
 :le:Xiii
-:no:Xii us_i masc pl
+:no:Xi ius_i masc pl
 
 #noanalysis:Xiii.
 
@@ -13841,10 +13838,10 @@
 :no:Xv us_i masc pl
 
 :le:Xvii
-:no:Xvi us_i masc pl
+:no:Xv ius_i masc pl
 
 :le:Xviii
-:no:Xvii us_i masc pl
+:no:Xvi ius_i masc pl
 
 #noanalysis:Xx
 
@@ -13852,10 +13849,10 @@
 :no:Xx us_i masc pl
 
 :le:Xxii
-:no:Xxi us_i masc pl
+:no:Xx ius_i masc pl
 
 :le:Xxiii
-:no:Xxii us_i masc pl
+:no:Xxi ius_i masc pl
 
 #noanalysis:Xxiv
 
@@ -13864,10 +13861,10 @@
 #noanalysis:Xxv
 
 :le:Xxvii
-:no:Xxvi us_i masc pl
+:no:Xxv ius_i masc pl
 
 :le:Xxviii
-:no:Xxvii us_i masc pl
+:no:Xxvi ius_i masc pl
 
 #noanalysis:Xxx
 
@@ -13919,7 +13916,7 @@
 :no:Zen is_is fem
 
 :le:Zenobius
-:no:Zenobi us_i masc
+:no:Zenob ius_i masc
 
 :le:Zenodorus
 :no:Zenodor us_i masc
@@ -13964,7 +13961,7 @@
 :no:Zimisc es_is fem
 
 :le:Zmilius
-:no:Zmili us_i masc
+:no:Zmil ius_i masc
 
 :le:Zoeteus
 :no:Zoete us_i masc

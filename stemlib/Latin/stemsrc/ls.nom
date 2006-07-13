@@ -10985,6 +10985,7 @@ a^ni^ma_bi^lis
 a^ni^madversi^o		
 :le:animadversio
 :no:a^ni^madversi^	o_oLnis fem
+:no:a^ni^maduersi^	o_oLnis fem
 
 
 a^ni^madversor		
@@ -14995,8 +14996,8 @@ Arde^a#2
 
 Arde^as		<itype>a_tis</itype>	<pos>adj.</pos>
 Ardea_tes		
-:le:Ardeates
-:no:Ardea_t	is_is masc pl
+:le:Ardeas
+:aj:Ardea	s_tis_adj
 
 
 Arde^a_ti_nus		
@@ -21600,6 +21601,7 @@ balne^ae
 bal-ne^a		
 :le:balnea
 :no:bal-ne^	us_i neut pl
+:no:ba^li^-ne^	us_i neut pl
 
 
 ba^li^ne^um		<itype>also in use</itype>
@@ -27578,6 +27580,7 @@ Caecus#2
 caedes		
 :le:caedes
 :aj:caed	es_is fem
+:wd:caedium	irreg_nom3	fem gen pl
 
 
 caedo		<itype>ce^ci_di</itype>
@@ -27901,8 +27904,9 @@ Caere		<gen>n.</gen>
 Caere	<itype>indecl.</itype>	<gen>f.</gen>
 Caeres		<itype>i^tis and e_tis</itype>	<pos>adj.</pos>
 Caeri^tes		<orth type=alt>Caere_tes</orth>	
-:le:Caerites
-:no:Caeri^t	0_is masc pl
+:le:Caeretes
+:no:Caeri^	s_tis_adj
+:no:Caere^	s_tis_adj
 
 
 Caere_ta_-nus		
@@ -29313,6 +29317,7 @@ Calvi_na
 Calvi_nus		
 :le:Calvinus
 :no:Calvi_n	us_i masc
+:no:Calui_n	us_i masc
 
 
 Calvi^si^us		
@@ -34643,11 +34648,13 @@ cente_ni^o_na_lisnummus
 cente_si^mus		
 :le:centesimus
 :aj:cente_si^m	us_a_um
+:aj:centensi^m	us_a_um
 
 
 cente_si^ma		
 :le:centesima
 :no:cente_si^m	a_ae fem
+:no:centensi^m	a_ae fem
 
 
 centi^ceps		
@@ -40050,7 +40057,7 @@ Clu^enti^us
 
 Clu^i^li^us		
 :le:Cluilius
-:no:Clu^i^l	ius_i masc
+:no:Clu^i^l	ius_ia_ium
 
 
 cluior		<itype>nobilior</itype>
@@ -46299,6 +46306,7 @@ conserva_ti^o
 conserva_tor		
 :le:conservator
 :no:conserva_t	or_oLris masc
+:no:conserua_t	or_oLris masc
 
 
 conserva_trix		
@@ -47395,9 +47403,8 @@ conti^nenti^a
 :no:conti^nent	is_is neut pl
 
 
-conti^nens		
-:le:continens
-:no:conti^n	ens_entis fem
+:le:contineo
+:wd:conti^nenter	adverb
 
 
 conti^nens		
@@ -48780,6 +48787,12 @@ corne^us#2
 
 
 corni^cen#1		<itype>ci^nis</itype>	<gen>m.</gen>
+:le:corni^cen#1
+:no:corni^c	en_inis masc
+
+:le:Corni^cen#2
+:no:Corni^c	en_inis masc
+
 Corni^cen#2		<itype>i^nis</itype>	<gen>m.</gen>
 Corni^-ci^nus	
 corni_cu^la		
@@ -49493,6 +49506,7 @@ corvi_nus
 Corvi_nus		
 :le:Corvinus
 :no:Corvi_n	us_i masc
+:no:Corui_n	us_i masc
 
 
 corvus		
@@ -51139,7 +51153,7 @@ Corto_na		<orth>Cro^to_ni^a_tes</orth>
 Cro^to_ni^a_tae		<orth>Cro^to_-ni^ensis</orth>	<itype>e</itype>
 Cro^to_ni^enses		
 :le:Crotonienses
-:no:Cro^to_ni^ens	is_is masc pl
+:no:Cro^to_ni^ens	is_is masc
 
 
 Cro^to_nenses	
@@ -54532,7 +54546,7 @@ Darda^nus#2
 Da^res		<itype>e_tis and is</itype>	<gen>m.</gen>
 Da_re_us		<orth>Da_-ri_us</orth>	
 :le:Dareus
-:no:Da_re_us	ius_i masc
+:no:Da_re_	us_i masc
 :no:Da_-r	ius_i masc orth
 
 
@@ -54948,6 +54962,7 @@ decem-scalmus
 de^cemvi^ra_lis		
 :le:decemviralis
 :aj:de^cemvi^ra_l	is_e
+:aj:de^cemui^ra_l	is_e
 
 
 de^cemvi^ra_li^ter	
@@ -54957,6 +54972,7 @@ de^cemvi^ra_li^ter
 de^cemvi^ra_tus		
 :le:decemviratus
 :no:de^cemvi^ra_t	us_us masc
+:no:de^cemui^ra_t	us_us masc
 
 
 de^cem-vi^ri		<gen>m.</gen>
@@ -63054,6 +63070,7 @@ du^ce_ni		<itype>ae, a</itype>
 du^cente_si^ma		
 :le:ducentesima
 :no:du^cente_si^m	a_ae fem
+:no:du^centensi^m	a_ae fem
 
 
 du^centi		<itype>ae, a</itype>
@@ -73045,7 +73062,10 @@ faena_ri^us
 
 faene_^bris		<orth>fe_n-, foen-</orth>	
 :le:faenebris
-:aj:faene_^br	is_e
+:aj:faene_br	is_e
+:aj:faene^br	is_e
+:aj:fene^br	is_e
+:aj:fene_br	is_e
 
 
 faene^ra_ri^us#1		
@@ -73076,6 +73096,7 @@ faene^ra_to		<orth>fe_n-, foen-</orth>
 faene^ra_tor		<orth>fe_n-, foen-</orth>	
 :le:faenerator
 :no:faene^ra_t	or_oLris masc
+:no:fene^ra_t	or_oLris masc
 
 
 faene^ra_to_ri^us		<orth type=alt>fe_n-, foen-</orth>	
@@ -73150,6 +73171,7 @@ faenus		<orth>fe_n-</orth>	<orth>foen-</orth>
 :le:faenus
 :no:faen	us_oris neut
 :no:foen	us_oris neut orth
+:no:fe_n	us_oris neut
 
 
 
@@ -75431,7 +75453,7 @@ Fi_de_na
 Fi_de_nas		<itype>a_tis</itype>	<pos>adj.</pos>
 Fi_de_na_tes		
 :le:Fidenates
-:no:Fi_de_na_t	is_is masc pl
+:aj:Fi_de_na	s_tis_adj
 
 
 fi_denter		
@@ -109098,6 +109120,7 @@ la_nu^la
 La_nu^vi^um		<orth type=alt>L&auml;ni^v-</orth>	
 :le:Lanuvium
 :no:La_nu^v	ius_i neut
+:no:La_nu^u	ius_i neut
 :no:L&auml;ni^v	ius_i neut orth
 
 
@@ -121213,6 +121236,10 @@ Mauso_le_um		<orth>Me_so_lum</orth>
 
 
 Ma_vors		<itype>vortis</itype>	<gen>m.</gen>
+:le:Mavors
+:no:Mavor	s_tis masc
+:no:Mauor	s_tis masc
+
 Ma_vortius		
 :le:Mavortius
 :aj:Ma_vort	ius_ia_ium
@@ -134956,6 +134983,7 @@ no_ni^ge_si^mus		<orth>nonge_si^mus</orth>
 no_ningente_si^mus		
 :le:noningentesimus
 :aj:no_ningente_si^m	us_a_um
+:aj:no_ningentensi^m	us_a_um
 
 
 no_ningenti^es		<orth>-ti^ens</orth>	
@@ -138531,6 +138559,10 @@ octinge_na_ri^us
 
 octinge_ni		<orth>octingente_ni</orth>	<itype>ae, a</itype>
 octingente_si^mus	
+:le:octingentesimus	
+:aj:octingente_si^m	us_a_um
+:aj:octingentensi^m	us_a_um
+
 octingenti		<itype>ae, a</itype>
 octingenti^es		<orth>-tiens</orth>	<pos>adv. num.</pos>
 octi^pe_s		<itype>e^dis</itype>	<pos>adj.</pos>
@@ -138589,6 +138621,7 @@ Octoge_sa
 octo_ge_si^mus		
 :le:octogesimus
 :aj:octo_ge_si^m	us_a_um
+:aj:octo_gensi^m	us_a_um
 
 
 octo_gi^es		<orth>-iens</orth>
@@ -148462,13 +148495,6 @@ pectuscu^lum
 
 PectuscumPa^la_ti	
 pe^cu		<gen>n.</gen>
-:le:pecu
-:no:pe^cu	irreg_decl3 neut nom voc acc sg
-:no:pe^cui	irreg_decl3 neut dat sg
-:no:pe^cu	irreg_decl3 neut abl sg
-:no:pe^cua	irreg_decl3 neut nom voc acc pl
-:no:pe^cuda	irreg_decl3 neut nom voc acc pl
-:no:pe^cuum	irreg_decl3 neut gen pl
 
 pe^cu^a_lis		
 :le:pecualis
@@ -149099,8 +149125,8 @@ pe_li^ca_tus		<orth type=alt>pelli-, paeli-</orth>
 
 Pe_ligni		<orth>Paeligni</orth>	
 :le:Peligni
-:no:Pe_lign	us_i masc pl
-:no:Paelign	us_i masc pl orth
+:no:Pe_lign	us_a_um
+:no:Paelign	us_a_um
 
 
 
@@ -164936,12 +164962,14 @@ pri_ve^ras		<itype>mulieres privatas dicebant</itype>
 Pri_vernum		
 :le:Privernum
 :no:Pri_vern	us_i neut
+:no:Pri_uern	us_i neut
 
 
 Pri_vernas		<itype>a_tis</itype>	<pos>adj.</pos>
 Pri_verna_tes		
 :le:Privernates
-:no:Pri_verna_t	is_is masc pl
+:aj:Pri_verna_	s_tis adj
+:aj:Pri_uerna_	s_tis adj
 
 
 Pri_vernus		
@@ -171142,6 +171170,7 @@ qua_^drige_ni
 qua_^dringente_si^mus		
 :le:quadringentesimus
 :aj:qua_^dringente_si^m	us_a_um
+:aj:qua_^dringentensi^m	us_a_um
 
 
 qua_^dringenti		<itype>ae, a</itype>	<pos>adj.</pos>
@@ -172005,6 +172034,7 @@ quingente_ni		<itype>ae, a</itype>
 quingente_si^mus		
 :le:quingentesimus
 :aj:quingente_si^m	us_a_um
+:aj:quingentensi^m	us_a_um
 
 
 quingenti		<pos>num. adj.</pos>
@@ -180166,7 +180196,7 @@ sa^lu_bris
 
 sa^lu_-ber		<itype>salubris</itype>	<gen>m.</gen>	<pos>adj.</pos>	<itype>infra</itype>	
 :le:saluber
-:wd:sa^lu_-ber	adverb
+:aj:sa^lu_-b	er_ris_re
 
 	
 :le:saluber
@@ -181605,7 +181635,7 @@ Satri^cum
 
 Sa-tri^ca_ni		
 :le:Satricani
-:no:Sa-tri^ca_n	us_i masc pl
+:no:Sa-tri^ca_n	us_i masc 
 
 
 Sa^tri^cus		
@@ -185007,6 +185037,7 @@ se_mi^-ca^per
 se_mi^-cente_si^ma		
 :le:semicentesima
 :no:se_mi^-cente_si^m	a_ae fem
+:no:se_mi^-centensi^m	a_ae fem
 
 
 Se_mi^-christi^a_nus		
@@ -186415,6 +186446,7 @@ septinge_ni		<itype>ae, a</itype>
 septingente_si^mus		
 :le:septingentesimus
 :aj:septingente_si^m	us_a_um
+:aj:septingentensi^m	us_a_um
 
 
 septingenti		<itype>ae, a</itype>	<pos>num. adj.</pos>
@@ -187119,6 +187151,7 @@ serva_tio
 serva_tor		
 :le:servator
 :no:serva_t	or_oLris masc
+:no:serua_t	or_oLris masc
 
 
 serva_to_ri^um	
@@ -187146,6 +187179,7 @@ servi_le		<orth>servi_li^ter</orth>	<orth type=alt>class.</orth>	<pos>adj.</pos>
 Servi_li^us		
 :le:Servilius
 :no:Servi_l	ius_i masc
+:no:Serui_l	ius_i masc
 
 
 Servi_li^a		
@@ -187189,6 +187223,7 @@ servi^tu_do
 servi^tu_s		
 :le:servitus
 :no:servi^tu_	s_tis fem
+:no:serui^tu_	s_tis fem
 
 
 Servi^us		
@@ -187271,6 +187306,7 @@ sescente_si^mus		<orth>sexc-</orth>
 :le:sescentesimus
 :aj:sescente_si^m	us_a_um
 :aj:sexcente_si^m	us_a_um orth
+:aj:sexcentensi^m	us_a_um orth
 
 
 
@@ -205930,8 +205966,8 @@ Ti_bur
 Ti_burs		<itype>urtis</itype>	<pos>adj.</pos>
 Ti_burs		<itype>urtis</itype>	<gen>n.</gen>
 Ti_burtes		
-:le:Tiburtes
-:no:Ti_burt	0_is masc pl
+:le:Tiburs
+:aj:Ti_bur	s_tis_adj
 
 
 Ti_-burti_nus		
@@ -208480,6 +208516,7 @@ tre^cente_ni		<itype>ae, a</itype>
 tre^cente_si^mus		
 :le:trecentesimus
 :aj:tre^cente_si^m	us_a_um
+:aj:tre^centensi^m	us_a_um
 
 
 tre^centi		<orth>tri^centi</orth>	<pos>num. adj.</pos>
@@ -210013,6 +210050,7 @@ tri^umvi^ra_lis
 tri^umvi^ra_tus		
 :le:triumviratus
 :no:tri^umvi^ra_t	us_us masc
+:no:tri^umui^ra_t	us_us masc
 
 
 triumvi^ri		<orth>tresvi^ri</orth>	<orth>IIIvi^ri</orth>	<itype>o_rum or u_m</itype>	<gen>m.</gen>
@@ -212539,6 +212577,7 @@ unde^
 unde_cente_si^mus		
 :le:undecentesimus
 :aj:unde_cente_si^m	us_a_um
+:aj:unde_centensi^m	us_a_um
 
 	<pos>num. adj.</pos>
 unde_centum		<pos>num. adj.</pos>

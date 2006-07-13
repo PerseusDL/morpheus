@@ -1,3 +1,15 @@
+:le:pecu
+:wd:pe^cu	irreg_nom3 neut nom voc acc sg
+:wd:pe^cui	irreg_nom3 neut dat sg
+:wd:pe^cu	irreg_nom3 neut abl sg
+:wd:pe^cua	irreg_nom3 neut nom voc acc pl
+:wd:pe^cuda	irreg_nom3 neut nom voc acc pl
+:wd:pe^cuum	irreg_nom3 neut gen pl
+
+:le:femur
+:wd:fe^mur	irreg_nom3 masc nom sg
+femin@decl3	irreg_nom3 masc
+
 :le:mas
 :wd:ma_s	irreg_adj3 masc nom sg
 :wd:ma_ris	irreg_adj3 fem nom sg

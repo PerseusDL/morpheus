@@ -1,11 +1,16 @@
+:le:insilio
+:de:insil ire_vb
+
+:le:aboleo
+:vs:a^bo^l	conj2
+:vs:a^bo^le^v	perfstem
+:vs:a^bo^li^t	pp4
+
 :le:resilio
 :vs:re^si^l	conj4
 :vs:re^si^lu^	perfstem
 :vs:re^si^li^	perfstem
 :vs:re^si^li^v	perfstem
-
-:le:linter
-:no:lint	er_ris masc fem
 
 :le:licet
 :wd:li^center	adverb
@@ -949,6 +954,7 @@
 :vs:su^e_v	perfstem
 :vs:su^e_t	pp4
 :vb:suesti	irreg_pp2 2nd sg perf ind act
+:vb:suestis	irreg_pp2 2nd pl perf ind act
 :vb:suerunt	irreg_pp2 3rd pl perf ind act
 :vb:suesse	irreg_pp2 perf ind act
 :vb:suesset	irreg_pp2 3rd sg plup subj act

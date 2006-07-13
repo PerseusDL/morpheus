@@ -1,11 +1,20 @@
+:le:nurus
+:no:nu^r	us_us fem
+
+:le:Diespiter
+:no:Di^espi^t	er_ris masc
+
+:le:scabies
+:no:scabi	es_ei fem
+
+:le:linter
+:no:lint	er_ris masc fem
+
 :le:undesexaginta
 :wd:unde_sexaginta numeral
 
 :le:undetriginta
 :wd:unde_tri_ginta numeral
-
-:le:femur
-:no:fe^m	ur_oris neut
 
 :le:ficus
 :no:fic	us_i masc

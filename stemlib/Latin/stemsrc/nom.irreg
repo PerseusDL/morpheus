@@ -1,4 +1,24 @@
 
+:le:pecu
+:wd:pe^cu	irreg_nom3 neut nom voc acc sg
+:wd:pe^cui	irreg_nom3 neut dat sg
+:wd:pe^cu	irreg_nom3 neut abl sg
+:wd:pe^cua	irreg_nom3 neut nom voc acc pl
+:wd:pe^cuda	irreg_nom3 neut nom voc acc pl
+:wd:pe^cuum	irreg_nom3 neut gen pl
+
+:le:femur
+:wd:fe^mur	irreg_nom3 masc nom sg
+:wd:feminis   irreg_nom3 masc gen sg
+:wd:femini_   irreg_nom3 masc dat sg
+:wd:feminem   irreg_nom3 masc acc sg
+:wd:femine   irreg_nom3 masc abl sg
+:wd:femine_s   irreg_nom3 masc nom/voc pl
+:wd:feminum   irreg_nom3 masc gen pl
+:wd:feminibus   irreg_nom3 masc dat pl
+:wd:femine_s   irreg_nom3 masc acc pl
+:wd:feminibus   irreg_nom3 masc abl pl
+
 :le:mas
 :wd:ma_s	irreg_adj3 masc nom sg
 :wd:ma_ris	irreg_adj3 fem nom sg
@@ -286,9 +306,11 @@
 :wd:huic	demonstr masc/fem/neut dat sg
 :wd:huici	demonstr masc/fem/neut dat sg
 :wd:hunc demonstr masc acc sg
+:wd:hunci demonstr masc acc sg
 :wd:hanc demonstr fem acc sg
 :wd:ho_c demonstr masc neut abl sg
 :wd:ha_c demonstr fem abl sg
+:wd:ha_ci_ demonstr fem abl sg
 :wd:hi_sce	demonstr masc fem neut dat pl
 :wd:hi_sce	demonstr masc fem neut abl pl
 :wd:ho_runce	demonstr masc neut gen pl

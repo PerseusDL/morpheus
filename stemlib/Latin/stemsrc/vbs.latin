@@ -13,6 +13,12 @@
 :vs:ab-di_c	conj3
 :vs:ab-di_x perfstem
 :vs:ab-di_ct pp4
+
+:le:abdo
+:vs:ab-d	conj3
+:vs:ab-did	perfstem
+:vs:ab-dit	pp4
+
 :le:abduco
 :vs:ab-du_c	conj3
 :vs:ab-du_x perfstem
@@ -259,6 +265,7 @@
 :de:a^cerb	are_vb
 :le:acervo
 :de:a^cerv	are_vb
+:de:a^ceru	are_vb
 :le:acetasco
 :vs:a^ce_tasc	conj3
 :vs:a^ce_ta_v perfstem
@@ -4076,6 +4083,7 @@
 :le:deficio
 :vs:de_-fi^c	conj3_io
 :vs:de_-fe_c perfstem
+:vs:de_-fex perfstem
 :vs:de_-fect pp4
 :le:defigo
 :vs:de_-fi_g	conj3
@@ -7415,7 +7423,8 @@
 :le:illecto
 :de:illect	are_vb
 :le:illicio
-:vs:illi^c	conj3_io
+:vs:il-li^c	conj3_io
+:vs:in-li^c	conj3_io
 :vs:illex perfstem
 :vs:illect pp4
 :le:illido
@@ -7429,8 +7438,11 @@
 :de:illi^g	are_vb
 :le:illino
 :vs:illi^n	conj3
+:vs:in-li^n	conj3
 :vs:ille_v perfstem
-:vs:illi^t pp4
+:vs:in-le_v perfstem
+:vs:il-li^t pp4
+:vs:in-li^t pp4
 :le:illuceo
 :vs:illu_c	conj2
 :le:illucesco
@@ -7826,8 +7838,12 @@
 :de:incox	are_vb
 :le:incrasso
 :de:in-crass	are_vb
+
 :le:increbesco
 :vs:incre_be-sc	conj3
+:vs:incre_bre-sc	conj3
+:vs:increbru	perfstem
+
 :le:increbro
 :de:in-cre_br	are_vb
 :le:incremento
@@ -9614,10 +9630,12 @@
 :vs:mansu^e_fa^c	conj3_io
 :vs:mansu^e_fe_c perfstem
 :vs:mansu^e_fact pp4
+
 :le:mansuesco
 :vs:mansu^esc	conj3
-:vs:mansu^esu^e_v perfstem
-:vs:mansu^esu^e_t pp4
+:vs:mansu^e_v perfstem
+:vs:mansu^e_t pp4
+
 :le:mansueto
 :de:mansu^e_t	are_vb
 :le:manticinor
@@ -14896,11 +14914,14 @@
 :vs:serpt pp4
 :le:serro
 :de:serr	are_vb
+
 :le:servio
 :vs:serv	conj4
 :vs:servi_v perfstem
 :vs:servi^ perfstem
 :vs:servi_t pp4
+:de:seru	ire_vb
+
 :le:servo
 :de:serv	are_vb
 :de:seru	are_vb
@@ -16824,6 +16845,10 @@
 :vs:va^l	conj2
 :vs:va^lu^ perfstem
 :vs:va^li^t pp4
+:vs:ua^l	conj2
+:vs:ua^lu^ perfstem
+:vs:ua^li^t pp4
+
 :le:valedico
 :vs:va^le^di_c	conj3
 :le:valesco
@@ -16894,6 +16919,7 @@
 :le:venio
 :vs:ve^n	conj4
 :vs:ve_n perfstem
+:vs:ve_ni perfstem
 :vs:vent pp4
 :vs:ue^n	conj4
 :vs:ue_n perfstem
