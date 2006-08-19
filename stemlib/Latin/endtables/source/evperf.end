@@ -10,6 +10,11 @@ e_ver@ofut	futperf ind act 1st pl
 e_ver@ofut	futperf ind act 2nd pl
 e_verint futperf ind act 3rd pl
 
+ess@ofut	futperf ind act sg
+ess@ofut	futperf ind act 1st pl
+ess@ofut	futperf ind act 2nd pl
+essint futperf ind act 3rd pl
+
 e_veri@basvb2	perf subj act
 e_visse	perf inf act
 

@@ -1,3 +1,6 @@
 s	nom voc sg masc fem
 e	abl sg
 @decl3_i masc fem
+um	gen pl
+es	nom voc masc fem pl
+a	neut nom voc acc pl

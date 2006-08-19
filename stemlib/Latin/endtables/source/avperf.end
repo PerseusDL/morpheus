@@ -3,11 +3,17 @@ a_v@perfind	perf ind act
 a_ver@past	plup ind act
 
 a_viss@emsub	plup subj act
+a_ss@emsub	plup subj act
 
 a_ver@ofut	futperf ind act sg
 a_ver@ofut	futperf ind act 1st pl
 a_ver@ofut	futperf ind act 2nd pl
 a_verint futperf ind act 3rd pl
+
+ass@ofut	futperf ind act sg
+ass@ofut	futperf ind act 1st pl
+ass@ofut	futperf ind act 2nd pl
+assint futperf ind act 3rd pl
 
 a_veri@basvb2	perf subj act
 a_visse	perf inf act

@@ -210,9 +210,12 @@
 :le:accipitro
 :de:acci^pi^tr	are_vb
 :le:acclamo
+
 :de:ac-cla_m	are_vb
 :le:acclaro
 :de:ac-cla_r	are_vb
+:de:ad-cla_r	are_vb
+
 :le:acclino
 :de:ac-cli_n	are_vb
 :de:ad-cli_n	are_vb
@@ -820,6 +823,10 @@
 :vs:amb-a^d-e^d	conj3
 :le:ambigo
 :vs:amb-i^g	conj3
+
+:le:ambio
+:de:amb	ire_vb
+
 :le:ambulo
 :de:ambu^l	are_vb
 :le:amburo
@@ -937,7 +944,8 @@
 :le:anquiro
 :vs:an-qui_r	conj3
 :vs:an-qui_si_v perfstem
-:vs:an-si_t pp4
+:vs:an-qui_si_t pp4
+
 :le:antecapio
 :vs:ante^-ca^p	conj3_io
 :vs:ante^-ce_p perfstem
@@ -1286,12 +1294,15 @@
 :vs:as-su_dass	conj3
 :le:assudesco
 :vs:as-su_desc	conj3
+
 :le:assuefacio
 :vs:assu^e_-fa^c	conj3_io
 :vs:adsu^e_-fa^c	conj3_io orth
 :vs:assu^e_-fe_c perfstem
 :vs:adsu^e_-fe_c perfstem orth
 :vs:assu^e_-fact pp4
+:vs:ad-su^e_-fact pp4
+
 :le:assugo
 :vs:as-su_g	conj3
 :vs:as-su_gct pp4
@@ -3675,6 +3686,7 @@
 :de:co^-o^pe^r	are_vb dep
 :le:coopto
 :de:co^-opt	are_vb
+
 :le:coorior
 :vs:co^-o^r	conj4
 :vs:co^-ort pp4
@@ -5677,6 +5689,7 @@
 :de:e_-ma^cu^l	are_vb
 :le:emancipo
 :de:e_-manci^p	are_vb
+:de:e_-mancu^p	are_vb
 :le:emanco
 :de:e_-manc	are_vb
 :le:emaneo
@@ -6263,6 +6276,12 @@
 :de:ex-occu^p	are_vb
 :le:exoculo
 :de:ex-o^cu^l	are_vb
+
+:le:exolesco
+:vs:exolesc	conj3
+:vs:exole_v	perfstem
+:vs:exole_t	pp4
+
 :le:exonero
 :de:ex-o^ne^r	are_vb
 :le:exopinisso
@@ -10290,6 +10309,7 @@
 :vs:ob-li^tu^ perfstem
 :le:oblittero
 :de:oblitte^r	are_vb
+:de:oblite^r	are_vb
 :le:obliviscor
 :vs:obli_visc	conj3
 :vs:obli_t pp4
@@ -13962,6 +13982,7 @@
 :vs:re^-ma^le^di_c	conj3
 :le:remancipo
 :de:re^-manci^p	are_vb
+:de:re^-mancu^p	are_vb
 :le:remando#1
 :de:re^-mand	are_vb
 :le:remando#2

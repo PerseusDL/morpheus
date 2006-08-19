@@ -1,3 +1,9 @@
+:le:dum
+:wd:dummodo	conj
+
+:le:ago
+:wd:agitedum	adverb
+
 :le:nurus
 :no:nu^r	us_us fem
 

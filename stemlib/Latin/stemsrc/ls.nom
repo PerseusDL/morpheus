@@ -6523,6 +6523,7 @@ A^la^ri_cus
 a_la_ri^us		
 :le:alarius
 :aj:a_la_r	ius_ia_ium
+:aj:a_la_r	is_e
 
 
 a_la_ris		<pos>adj.</pos>	<pos>Subst.</pos>
@@ -12820,6 +12821,7 @@ a^pi^nae
 a^pis#1		<orth>-es</orth>	
 :le:apis#1
 :no:a^p	is_is fem
+:no:a^p	s_is fem
 
 
 A_pis#2		
@@ -17540,6 +17542,7 @@ asse^cla		<orth>ads-</orth>	<orth>ass-</orth>
 :le:assecla
 :no:asse^cl	a_ae masc fem
 :no:adse^cl	a_ae masc fem orth
+:no:adse^cul	a_ae masc fem 
 
 
 
@@ -27605,7 +27608,13 @@ caela_tu_ra
 
 
 caelebs		<orth>coelebs</orth>	<itype>li^bis</itype>	<pos>adj.</pos>
+:le:caelebs
+:aj:caeleb	s_e
+
 caele^s		<orth type=alt>coel-</orth>	<itype>i^tis</itype>	<pos>adj.</pos>
+:le:caeles
+:no:cael	es_itis masc fem
+
 caeli^-tes	
 Caelesti_ni		
 :le:Caelestini
@@ -42357,6 +42366,8 @@ co_mi^ter
 co_missa_bundus		<orth type=alt>co_mess-</orth>	
 :le:comissabundus
 :aj:co_missa_bund	us_a_um
+:aj:co_messa_bund	us_a_um
+:aj:co_misa_bund	us_a_um
 
 
 co_missa_li^ter		<orth type=alt>co_mess-</orth>	
@@ -51314,6 +51325,7 @@ cru_ri^fra_gi^us
 
 cru_s		
 :le:crus
+:wd:cru_s	irreg_nom3 neut nom voc acc sg
 :no:cr	uLs_uLris neut
 
 
@@ -61757,6 +61769,7 @@ di_vi_su_ra
 di_vi_sus#2		
 :le:divisus#2
 :no:di_vi_s	us_us masc
+:no:di_ui_s	us_us masc
 
 
 di_vi^ta_ti^o		
@@ -63381,6 +63394,9 @@ du^o^de_na_ri^us
 
 
 du^o^-de_ni		<itype>ae, a</itype>
+:le:duodeni
+:aj:du^o^-de_n	us_a_um
+
 du^o^dennium		
 :le:duodennium
 :no:du^o^denn	ius_i neut
@@ -127781,6 +127797,7 @@ mo^nu^mentum		<orth type=alt>mo^ni^m-</orth>
 :le:monumentum
 :no:mo^nu^ment	us_i neut
 :no:mo^ni^mo^nu^ment	us_i neut orth
+:no:mo^ni^mo^ni^ment	us_i neut orth
 
 
 
@@ -132758,16 +132775,19 @@ neglectus#2
 negle^genti^a		<orth>necle^g-</orth>	<orth>negli^g-</orth>	
 :le:neglegentia
 :no:negle^genti^	a_ae fem
+:no:negli^genti^	a_ae fem
 
 
 neg-le^gens		<orth type=alt>negli^g-, necle^g-</orth>	<itype>entis</itype>	
 :le:neglegens
 :wd:neg-le^gens	adverb
+:wd:neg-li^gens	adverb
 
 
 negle^genter		<orth type=alt>negli^g-</orth>	<orth>neglectus</orth>	<itype>a, um</itype>	
 :le:neglegenter
 :wd:negle^genter	adverb
+:wd:negli^genter	adverb
 
 
 neglecte_	
@@ -135016,6 +135036,7 @@ nonnulli
 non-numquam		<orth>-nunquam</orth>
 :le:nonnumquam
 :wd:nonnumquam	adverb
+:wd:nonnunquam	adverb
 
 nonnus		
 :le:nonnus
@@ -151630,6 +151651,7 @@ pe^r-invi_tus
 Pe^ri^o^cha		
 :le:Periocha
 :no:Pe^ri^o^ch	a_ae fem
+:no:pe^ri^o^ch	a_ae fem
 
 
 pe^ri^o^deuta		
@@ -179040,6 +179062,7 @@ sa^_cri^fi^ca_tus
 sa^_cri^fi^ci^o^lus		
 :le:sacrificiolus
 :no:sa^_cri^fi^ci^o^l	us_i masc
+:no:sa^_cri^fi^co^l	us_i masc
 
 
 sa^_cri^fi^ci^um		
@@ -212421,6 +212444,7 @@ u_mi^-fi^cus		<orth>hu_-</orth>
 u_mor		<orth>hu-</orth>	
 :le:umor
 :no:u_m	or_oLris masc
+:no:hu_m	or_oLris masc
 
 
 u_mo_ro_sus		
