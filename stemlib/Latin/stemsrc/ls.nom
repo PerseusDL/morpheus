@@ -62177,6 +62177,8 @@ Do^lo#3
 Do^lo^pes		
 :le:Dolopes
 :no:Do^lo^p	0_is masc pl
+:no:Do^lo^p	s_is masc pl
+:wd:Do^lo^pas	s_is acc masc pl
 
 
 Do^lo^pe_i^us		
@@ -108637,6 +108639,7 @@ la_mi^na		<orth>lammi^na</orth>	<orth>lamna</orth>
 :le:lamina
 :no:la_mi^n	a_ae fem
 :no:lamn	a_ae fem orth
+:no:lammi^n	a_ae fem orth
 
 
 	<pos>adj.</pos>
@@ -133323,6 +133326,7 @@ Nequi_na_tes
 ne_qui_quam		
 :le:nequiquam
 :wd:ne_qui_quam	adverb
+:wd:ne_quidquam	adverb
 
 
 ne_qui^ti^a		
@@ -134088,6 +134092,7 @@ ni^hi^lum		<orth>ni_lum</orth>
 ni^hil		
 :le:nihil
 :wd:ni^hil	adverb
+:wd:nonni^hil	adverb
 
 
 ni^hi^lum		
@@ -152628,6 +152633,7 @@ per-pro^ba_bi^lis
 per-pro^pinquus		
 :le:perpropinquus
 :aj:per-pro^pinqu	us_a_um
+:aj:per-pro^pinc	us_a_um
 
 
 per-prosper		
@@ -158404,6 +158410,8 @@ ple_bi^co^la
 :le:plebicola
 :no:ple_bi^co^l	a_ae masc fem
 
+:le:plebiscitu
+:no:ple_bisci_t us_i neut
 
 ple_bi^tas		
 :le:plebitas
@@ -166884,6 +166892,7 @@ pro^pinquum
 pro^pinquus		
 :le:propinquus
 :no:pro^pinqu	us_i masc
+:no:pro^pinc	us_i masc
 
 
 pro^-pinqua		
@@ -171299,6 +171308,9 @@ qua_^dru^pe_s		<orth type=alt>qua_^dri^pes</orth>
 
 
 qua_^dru^pe_s		<itype>e^dis</itype>	<gen>c.</gen>	<gen>n.</gen>
+:le:quadrupes
+:aj:quadru	peLs_pedis_adj
+
 qua_^dru^pla_ris		
 :le:quadruplaris
 :aj:qua_^dru^pla_r	is_e
@@ -180905,6 +180917,7 @@ sanni^o
 Sanqua_lis		<orth type=alt>Sangua_lis</orth>	
 :le:Sanqualis
 :aj:Sanqua_l	is_e
+:aj:sanqua_l	is_e
 
 
 santerna		

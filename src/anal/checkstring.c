@@ -242,6 +242,7 @@ enclitic_word LatinSuff[] = {
   "vis", 0, /* quantusvis */
   "piam", 0, /* quempiam */
   "dem", 0,
+  "dum", 0,
   "met", PRONOUN|PERS_PRON,
   "", 0				/* sentinel */
 };

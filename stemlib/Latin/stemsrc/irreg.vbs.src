@@ -40,7 +40,9 @@ i_b@ofut	irreg_pp1 fut ind act
 i_ba@basvb2	irreg_pp1 imperf ind act
 #
 i_b@ofut	irreg_pp1 fut ind pass comp_only
-i_ba@basvb2	irreg_pp1 imperf ind pass comp_only
+#i_ba@basvb2	irreg_pp1 imperf ind pass comp_only
+#ibatur shows up in Livy
+i_ba@basvb2	irreg_pp1 imperf ind pass 
 #
 :vb:i_		irreg_pp1 2nd sg pres imperat act
 :vb:i_te	irreg_pp1 2nd sg pres imperat act

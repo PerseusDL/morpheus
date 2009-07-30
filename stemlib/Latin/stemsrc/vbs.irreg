@@ -173,13 +173,13 @@
 :vb:i_re_mus   irreg_pp1 imperf subj act 1st pl
 :vb:i_re_tis   irreg_pp1 imperf subj act 2nd pl
 :vb:i_rent   irreg_pp1 imperf subj act 3rd pl
-:vb:i_bar   irreg_pp1 imperf ind pass 1st sg comp_only
-:vb:i_ba_ris   irreg_pp1 imperf ind pass 2nd sg comp_only
-:vb:i_ba_re   irreg_pp1 imperf ind pass 2nd sg comp_only
-:vb:i_batur   irreg_pp1 imperf ind pass 3rd sg comp_only
-:vb:i_ba_mur   irreg_pp1 imperf ind pass 1st pl comp_only
-:vb:i_ba_mini   irreg_pp1 imperf ind pass 2nd pl comp_only
-:vb:i_bantur   irreg_pp1 imperf ind pass 3rd pl comp_only
+:vb:i_bar   irreg_pp1 imperf ind pass 1st sg
+:vb:i_ba_ris   irreg_pp1 imperf ind pass 2nd sg
+:vb:i_ba_re   irreg_pp1 imperf ind pass 2nd sg
+:vb:i_batur   irreg_pp1 imperf ind pass 3rd sg
+:vb:i_ba_mur   irreg_pp1 imperf ind pass 1st pl
+:vb:i_ba_mini   irreg_pp1 imperf ind pass 2nd pl
+:vb:i_bantur   irreg_pp1 imperf ind pass 3rd pl
 :vb:i_rer   irreg_pp1 imperf subj pass 1st sg comp_only
 :vb:i_re_ris   irreg_pp1 imperf subj pass 2nd sg comp_only
 :vb:i_re_re   irreg_pp1 imperf subj pass 2nd sg comp_only
@@ -714,7 +714,6 @@
 :vb:e_nte_s   irreg_pp1 pres part masc/fem nom/voc pl comp_only
 :vb:e_nta   irreg_pp1 pres part neut nom/voc/acc pl comp_only
 :vb:e_ntum   irreg_pp1 pres part masc/fem/neut gen pl comp_only
-:vb:e_ntium   irreg_pp1 pres part masc/fem/neut gen pl comp_only
 :vb:e_ntibus   irreg_pp1 pres part masc/fem/neut dat pl comp_only
 :vb:e_nte_s   irreg_pp1 pres part masc/fem acc pl comp_only
 :vb:e_ntibus   irreg_pp1 pres part masc/fem/neut abl pl comp_only
@@ -754,9 +753,6 @@
 :vb:fore_tis   irreg_pp1 imperf subj act 2nd pl early
 :vb:forent   irreg_pp1 imperf subj act 3rd pl early
 :vb:essent   irreg_pp1 imperf subj act 3rd pl
-
-:le:absum
-abs@ens_adj	irreg_pp1 pres part act
 
 :le:prosum
 :vb:pro_sum		irreg_pp1 1st sg pres ind act

@@ -70,7 +70,7 @@ CombPbStemL(char *curpb, char *restofs, Dialect dial, MorphFlags *pbflags)
 		}
 	}
 
-	if( !strcmp("ex",curpb)) {
+	if( !strcmp("ex",curpb) || !strcmp("ec",curpb)) {
 		if( ! strchr("aeioucpqtf",*restofs) ) {
 			add_morphflag(pbflags,RAW_PREVERB);
 		}
