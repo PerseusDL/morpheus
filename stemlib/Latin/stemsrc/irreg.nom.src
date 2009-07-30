@@ -737,3 +737,10 @@ volg@decl2	irreg_nom2 neut sg orth
 :le:satis
 :wd:satis	adverb
 :wd:satis	neut indecl
+
+:le:utcumque
+:wd:ut-cumque	adverb
+:wd:ut-cumque	conj
+
+:le:magnus
+:wd:magis adverb irreg_comp

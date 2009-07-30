@@ -458,6 +458,8 @@ ex-fervesco effervesco
 ex-fio effio
 ex-fleo effleo
 ex-fodio effodio
+ec-freno effreno
+ex-freno effreno
 ex-frico effrico
 ex-gestio#2 egestio
 ex-gurgito exgurgito

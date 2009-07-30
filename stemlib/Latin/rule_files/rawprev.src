@@ -33,7 +33,8 @@ dis	dis
 #
 e	ex
 ex	ex
-ec	ex
+#ec	ex
+ec	ec
 ef	ex
 #
 im	in

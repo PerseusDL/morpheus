@@ -1604,3 +1604,6 @@
 
 :le:vox
 :no:vo	x_cis fem
+
+:le:nudius
+:wd:nud	ius_i masc

@@ -306,11 +306,9 @@
 :wd:huic	demonstr masc/fem/neut dat sg
 :wd:huici	demonstr masc/fem/neut dat sg
 :wd:hunc demonstr masc acc sg
-:wd:hunci demonstr masc acc sg
 :wd:hanc demonstr fem acc sg
 :wd:ho_c demonstr masc neut abl sg
 :wd:ha_c demonstr fem abl sg
-:wd:ha_ci_ demonstr fem abl sg
 :wd:hi_sce	demonstr masc fem neut dat pl
 :wd:hi_sce	demonstr masc fem neut abl pl
 :wd:ho_runce	demonstr masc neut gen pl
@@ -1278,3 +1276,10 @@
 :le:satis
 :wd:satis	adverb
 :wd:satis	neut indecl
+
+:le:utcumque
+:wd:ut-cumque	adverb
+:wd:ut-cumque	conj
+
+:le:magnus
+:wd:magis adverb irreg_comp

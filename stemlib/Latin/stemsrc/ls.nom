@@ -1205,6 +1205,8 @@ acco^la
 :le:accola
 :no:acco^l	a_ae fem
 :no:ad-co^l	a_ae fem
+:no:acco^l	a_ae masc
+:no:ad-co^l	a_ae masc
 
 	<itype>Tacitus</itype>	<pos>adj.</pos>
 accommo^da_ti^o		
@@ -213510,6 +213512,7 @@ ut		<orth>u^ti_</orth>	<orth>u^tei</orth>
 ut-cumque		<orth>-cunq-</orth>	
 :le:utcumque
 :wd:ut-cumque	adverb
+:wd:ut-cumque	conj
 
 	<pos>adj.</pos>
 Utens#2		<orth>Uti_s</orth>	
