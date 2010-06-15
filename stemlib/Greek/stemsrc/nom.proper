@@ -13,7 +13,7 @@
 :le:*)akarna/n
 :no:*)akarna n_nos masc stem_acc 
 
-:le:*)akarnani/h
+:le:*)akarnani/a
 :no:*)akarnani h_hs fem  
 
 :le:*)ako/nths
@@ -289,7 +289,7 @@
 :le:*)anqhlei/a
 :no:*)anqhlei a_hs fem  
 
-:le:*)anqemo/eis
+:le:*)anqemou=s
 :no:*)anqem oeis_oentos suff_acc masc 
 
 :le:*)anqi/pph
@@ -556,7 +556,7 @@
 :le:*kalia/dnh
 :no:*kaliadn h_hs fem  
 
-:le:*kalli/hs
+:le:*kalli/as
 :no:*kalli hs_ou masc  
 
 :le:*kalli/xoron
@@ -1108,7 +1108,7 @@
 :le:*)elaxei/h
 :no:*)elaxei h_hs fem  
 
-:le:*)elaio/eis
+:le:*)elaiou=s
 :aj:*)elai oeis_oentos   
 
 :le:*)elai/s
@@ -1642,7 +1642,7 @@
 :le:*iapeto/s
 :no:*iapet os_ou masc suff_acc 
 
-:le:*)ibhri/h
+:le:*)ibhri/a
 :no:*)ibhri h_hs fem  
 
 :le:*)ibhriko/s
@@ -1800,6 +1800,7 @@
 
 :le:*la/rissa
 :no:*lariss a_hs fem  
+:no:*laris a_hs fem  
 
 :le:*larissai=os
 :aj:*larissai os_h_on stem_acc  
@@ -1930,10 +1931,10 @@
 :le:*maxai/reus
 :no:*maxair eus_ews masc  
 
-:le:*male/h
+:le:*male/a
 :no:*male h_hs fem  
 
-:le:*mantinei/a
+:le:*manti/neia
 :no:*mantinei a_hs fem  
 
 :le:*manti/neus
@@ -2239,6 +2240,8 @@
 :le:*)/wkutos
 :no:*)wkut os_ou masc  
 
+:le:*)odru/sai
+:no:*)odrus h_hs fem pl stem_acc
 :le:*oi)/agros
 :no:*oi)agr os_ou masc  
 
@@ -4735,13 +4738,13 @@
 :le:*(ierw/numos
 :no:*(ierwnum os_ou masc  
 
-:le:*(/imera
-:no:*(imer a_hs fem  
+:le:*(ime/ra
+:no:*(imer h_hs fem  
 
 :le:*(/ipparxos
 :no:*(ipparx os_ou masc  
 
-:le:*(ippi/hs
+:le:*(ippi/as
 :no:*(ippi hs_ou masc  
 
 :le:*(ippoklei/dhs
@@ -6493,7 +6496,7 @@
 :le:*)almw/pios
 :aj:*)almwpi os_h_on   
 
-:le:*)ampraki/h
+:le:*)ampraki/a
 :no:*)ampraki h_hs fem  
 
 :le:*)ampraki/s
@@ -6697,7 +6700,7 @@
 :le:*kleo/pompos
 :no:*kleopomp os_ou masc  
 
-:le:*kleini/hs
+:le:*kleini/as
 :no:*kleini hs_ou masc  
 
 :le:*knh=mos
@@ -7297,7 +7300,7 @@
 :le:*puqo/dwros
 :no:*puqodwr os_ou masc  
 
-:le:*(ramfi/hs
+:le:*(ramfi/as
 :no:*(ramfi hs_ou masc  
 
 :le:*(rei=toi
@@ -10207,7 +10210,7 @@
 :le:*)hxw/
 :no:*)hx w_oos fem suff_acc 
 
-:le:*)egestai=os
+:le:*segestai=os
 :aj:*)egestai os_h_on stem_acc  
 
 :le:*)elai/h
@@ -11197,8 +11200,11 @@
 :le:*leukw/nios
 :aj:*leukwni os_h_on   
 
-:le:*leu=ktron
-:no:*leuktr os_ou neut  
+:le:*leu=ktra
+:no:*leuktr os_ou neut  pl
+
+:le:*leukadi/a
+:no:*leukadi h_hs fem sg
 
 :le:*leukuani/hs
 :no:*leukuani hs_ou masc  
@@ -13969,7 +13975,7 @@
 :le:*)ekba/tana
 :no:*)ekbatan os_ou neut pl 
 
-:le:*)/egesta
+:le:*se/gesta
 :no:*)egest a_hs fem  
 
 :le:*)ele/poros

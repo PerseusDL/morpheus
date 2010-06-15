@@ -13561,6 +13561,7 @@
 :de:meig numi
 ;pr
 :de:meig reg_conj
+;pr
 ;fu
 ;ao
 ;fp

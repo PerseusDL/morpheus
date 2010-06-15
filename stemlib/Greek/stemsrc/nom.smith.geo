@@ -16539,7 +16539,7 @@ stemacc:*sousouda/ta
 :no:*suqarit hs_ou masc
 
 :le:*surakou=sai
-:no:*surakou_s h_hs fem pl
+:no:*surakou_s h_hs fem pl stem_acc
 
 :le:*suria/s
 :no:*suri hs_ou masc suff_acc suff_acc

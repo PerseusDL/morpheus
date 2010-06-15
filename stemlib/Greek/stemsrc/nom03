@@ -4281,7 +4281,7 @@
 :le:*(hrai=os
 :aj:*(hrai_ os_h_on stem_acc
 
-:le:*(hrakle/hs
+:le:*(hraklh=s
 :no:*(hra klehs_kleous,masc
 @ end:klhs
 @ end:kleous
@@ -4297,6 +4297,8 @@
 @ end:klea attic
 @ end:klh attic
 @ end:kle/hn acc
+
+:le:*(hraklei/dhs
 :no:*(hraklei+d hs_ou masc epic
 
 :le:*(hra/kleidai
@@ -7540,6 +7542,8 @@
 
 :le:i)sqmo/s
 :no:i)sqm os_ou suff_acc   masc
+
+:le:*)isqmo/s
 :no:*)isqm os_ou suff_acc   masc geog_name
 
 :le:i)sqmw/dhs
