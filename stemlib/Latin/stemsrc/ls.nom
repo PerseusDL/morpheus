@@ -8902,6 +8902,7 @@ am-bu_ba_i^ae
 ambube_i^a		
 :le:ambubeia
 :no:ambube_i^	a_ae fem
+:no:ambube_j	a_ae fem
 
 
 ambu^la_crum		
@@ -40561,6 +40562,7 @@ co^cle^a_re		<itype>is</itype>
 cocle^a_rum		
 :le:coclearum
 :no:cocle^a_r	us_i neut
+:no:cochle^a_r	us_i neut
 
 
 cocle^a_ri^um		<orth type=alt>cochl-</orth>	
@@ -84999,6 +85001,7 @@ Hammo_ni^i
 Hammo_ni^a^cus		<orth type=alt>Amm-</orth>	
 :le:Hammoniacus
 :aj:Hammo_ni^a^c	us_a_um
+:aj:ammo_ni^a^c	us_a_um
 
 
 Hammo_ni^a^-cum		
@@ -129187,6 +129190,7 @@ multo_		<orth>plu_s</orth>	<pos>adj.</pos>
 plu_ri^mus		
 :le:plurimus
 :no:plu_ri^m	us_a_um masc
+:no:plu_ru^m	us_a_um masc
 
 
 plu_ri^mum	
@@ -134093,6 +134097,7 @@ ni^hil
 :le:nihil
 :wd:ni^hil	adverb
 :wd:nonni^hil	adverb
+:wd:ni^hilominus	adverb
 
 
 ni^hi^lum		
@@ -172112,6 +172117,7 @@ quinqua_ge_si^ma
 quinqua_gi^ens		
 :le:quinquagiens
 :wd:quinqua_gi^ens	adverb
+:wd:quinqua_gi^es	adverb
 
 
 quinqua_ginta		<pos>num. adj.</pos>
@@ -197174,6 +197180,7 @@ su^cu^lus
 su_cus		<orth type=alt>succus</orth>	
 :le:sucus
 :no:su_c	us_i masc
+:no:succ	us_i masc
 
 
 su_da_bundus		
@@ -214127,16 +214134,19 @@ Va^le^ri^a_nus
 va^le_tu_di^na_ri^us		
 :le:valetudinarius
 :aj:va^le_tu_di^na_r	ius_ia_ium
+:aj:va^li_tu_di^na_r	ius_ia_ium
 
 
 va^le_tu_di^na_-ri^us		
 :le:valetudinarius
 :no:va^le_tu_di^na_-r	ius_i masc
+:no:va^li_tu_di^na_-r	ius_i masc
 
 
 va^le_tu_di^na_ri^um		
 :le:valetudinarium
 :no:va^le_tu_di^na_r	ius_i neut
+:no:va^li_tu_di^na_r	ius_i neut
 
 
 va^le_tu_do		<orth type=alt>va^li_tu_do</orth>	

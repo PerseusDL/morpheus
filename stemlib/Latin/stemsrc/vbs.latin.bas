@@ -566,6 +566,7 @@
 
 :le:loquor
 :vs:lo^qu conj3 dep
+:vs:lo^c conj3 dep #locuntur in Sen. Ep. 22.10
 :vs:lo^cu_t pp4
 :vs:lo^quu_t pp4 old
 
@@ -849,6 +850,7 @@
 :le:reperio
 :vs:repe^r	conj4
 :vs:repper	perfstem
+:vs:reper	perfstem
 :vs:repert	pp4
 
 :le:repleo

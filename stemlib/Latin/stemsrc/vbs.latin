@@ -1321,10 +1321,16 @@
 :le:assugo
 :vs:as-su_g	conj3
 :vs:as-su_gct pp4
+
 :le:assumo
+:vs:ad-su_m	conj3
 :vs:as-su_m	conj3
+:vs:ad-su_mps perfstem
 :vs:as-su_mps perfstem
 :vs:as-su_mpt pp4
+:vs:ad-su_mpt pp4
+:vs:as-su_mt pp4
+
 :le:assuo
 :vs:as-su^	conj3
 :le:assurgo
@@ -1410,6 +1416,7 @@
 :vs:at-tact pp4
 :le:attigo
 :vs:atti^g	conj3
+:vs:adti^g	conj3
 :le:attinguo
 :vs:at-tingu	conj3
 :vs:at-tinct pp4
@@ -8224,6 +8231,7 @@
 :de:i^n-hu^m	are_vb
 :le:inicio
 :vs:i_ni^c	conj3_io
+:vs:i_nji^c	conj3_io
 :le:inigo
 :vs:i^ni^g	conj3
 :vs:i^ne_g perfstem
@@ -14940,6 +14948,7 @@
 :vs:se^qu	conj3
 :vs:se^c	conj3
 :vs:se^cu_t pp4
+:vs:se^quu_t pp4
 :vs:se^se^cu_t pp4
 :le:sereno
 :de:se^re_n	are_vb
@@ -15832,7 +15841,10 @@
 :le:sumo
 :vs:su_m	conj3
 :vs:sumps perfstem
+:vs:sums perfstem
 :vs:sumpt pp4
+:vs:sumt pp4
+
 :le:sumptifacio
 :vs:sumpti^-fa^c	conj3_io
 :vs:sumpti^-fe_c perfstem

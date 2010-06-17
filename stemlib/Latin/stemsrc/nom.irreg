@@ -302,7 +302,9 @@
 :wd:haec demonstr fem nom sg
 :wd:hoc demonstr neut nom/acc sg
 :wd:huius	demonstr masc/fem/neut gen sg
+:wd:hujus	demonstr masc/fem/neut gen sg
 :wd:huiusce	demonstr masc/fem/neut gen sg
+:wd:hujusce	demonstr masc/fem/neut gen sg
 :wd:huic	demonstr masc/fem/neut dat sg
 :wd:huici	demonstr masc/fem/neut dat sg
 :wd:hunc demonstr masc acc sg
@@ -848,18 +850,19 @@
 :wd:id 	pron3 neut nom/acc sg
 :wd:ea   pron3 fem nom sg
 :wd:eius   pron3 masc/fem/neut gen sg
+:wd:ejus   pron3 masc/fem/neut gen sg
 :wd:ei_   pron3 masc/fem/neut dat sg
-:wd:eum   pron3 masc acc sg
 :wd:eom   pron3 masc acc sg early
+:wd:eum   pron3 masc acc sg
 :wd:eam   pron3 fem acc sg
 :wd:eo_   pron3 masc/neut abl sg
 :wd:ea_   pron3 fem abl sg
-:wd:ii_   pron3 masc nom pl
 :wd:ei_   pron3 masc nom/voc pl
+:wd:ii_   pron3 masc nom pl
 :wd:eae   pron3 fem nom/voc pl
 :wd:ea   pron3 neut nom/voc/acc pl
-:wd:eo_rum   pron3 masc/neut gen pl
 :wd:eu_m   pron3 masc/neut gen pl poetic
+:wd:eo_rum   pron3 masc/neut gen pl
 :wd:ea_rum   pron3 fem gen pl
 :wd:ii_s   pron3 masc/fem/neut dat pl
 :wd:ei_s   pron3 masc/neut dat pl
@@ -874,6 +877,7 @@
 :wd:idem 	pron3 neut nom/acc sg
 :wd:eadem	pron3 fem nom sg
 :wd:eiusdem	pron3 masc/fem/neut gen sg
+:wd:ejusdem	pron3 masc/fem/neut gen sg
 :wd:eo_dem	pron3 masc/fem/neut dat sg
 :wd:eundem	pron3 masc acc sg
 :wd:eandem	pron3 fem acc sg

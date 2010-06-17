@@ -147,7 +147,9 @@ niv@decl3_i 	irreg_nom3 fem
 :wd:haec demonstr fem nom sg
 :wd:hoc demonstr neut nom/acc sg
 :wd:huius	demonstr masc/fem/neut gen sg
+:wd:hujus	demonstr masc/fem/neut gen sg
 :wd:huiusce	demonstr masc/fem/neut gen sg
+:wd:hujusce	demonstr masc/fem/neut gen sg
 :wd:huic	demonstr masc/fem/neut dat sg
 :wd:huici	demonstr masc/fem/neut dat sg
 :wd:hunc demonstr masc acc sg
@@ -484,6 +486,7 @@ ips@ille demonstr
 :le:is
 e@decl1 pron3 fem nom sg
 eius	pron3 masc fem neut gen sg
+ejus	pron3 masc fem neut gen sg
 ei_	pron3 masc fem neut dat sg
 e@decl1 pron3 fem acc sg
 e@decl1 pron3 fem abl sg
@@ -502,6 +505,7 @@ e@decl2 pron3 masc neut pl
 :wd:idem 	pron3 neut nom/acc sg
 :wd:eadem	pron3 fem nom sg
 :wd:eiusdem	pron3 masc/fem/neut gen sg
+:wd:ejusdem	pron3 masc/fem/neut gen sg
 :wd:eo_dem	pron3 masc/fem/neut dat sg
 :wd:eundem	pron3 masc acc sg
 :wd:eandem	pron3 fem acc sg

@@ -643,7 +643,7 @@
 :le:sofi/stria
 :no:sofistri a_hs fem
 
-:le:*sofokle/hs
+:le:*sofoklh=s
 :no:*sofo klehs_kleous,masc,pers_name
 @ end:h_s nom sg
 @ end:e/ous gen sg
@@ -949,6 +949,7 @@
 
 :le:*sta/geiros
 :no:*stageir os_ou fem
+:no:*stagir os_ou fem
 
 :le:*stageirei/ths
 :no:*stageireit hs_ou,stem_acc,masc
@@ -3263,7 +3264,7 @@
 :le:*su/ra
 :no:*sur h_hs fem
 
-:le:*sura/kousai
+:le:*surakou=sai
 :no:*su^ra_kous h_hs masc fem  pl
 
 :le:*surako/sios
