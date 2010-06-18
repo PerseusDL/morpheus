@@ -3267,9 +3267,10 @@
 :le:*surakou=sai
 :no:*su^ra_kous h_hs masc fem  pl
 
-:le:*surako/sios
+:le:*surakou/sios
 :aj:*su^ra_kosi os_h_on
 :aj:*su^rhkousi os_h_on ionic
+:aj:*su^rakousi os_h_on 
 :aj:*su^rhkosi os_h_on ionic poetic
 
 :le:*surakosi/a
@@ -7404,10 +7405,12 @@
 :le:*tunda/reos
 :no:*tundare os_ou masc
 :no:*tundare ws_w masc  attic
-:no:*tundari^d hs_ou stem_acc masc
 :aj:*tundare os_h_on
 :aj:*tundare os_on
 :no:*tundar is_idos suff_acc fem
+
+:le:*tundari/dhs
+:no:*tundari^d hs_ou stem_acc masc
 
 :le:tunno/s
 :aj:tunn os_h_on suff_acc
