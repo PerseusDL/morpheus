@@ -1,3 +1,136 @@
+:le:*ferw/ras
+:no:*ferwr hs_ou masc pers_name
+
+:le:*ta/nai+s
+:no:*ta/nai+ s_dos fem geog_name
+
+:le:*gada/tas
+:no:*gadat as_ou masc pers_name
+
+:le:*)/axabos
+:no:*)axab hs_ou masc pers_name
+
+:le:*gabi/nios
+:no:*gabini os_ou masc pers_name
+
+:le:*)antwni/a
+:no:*)antwni h_hs fem pers_name
+
+:le:*le/pidos
+:no:*lepid os_ou masc pers_name
+
+:le:*parquai=os
+:no:*parquai os_h_on stem_acc ethnic
+
+:le:*)/aiakos
+:no:*)aiak os_ou masc pers_name
+
+:le:*)/epoy
+:no:*)epo y_pos masc pers_name
+
+:le:*gra/kxos
+:no:*grakx os_ou masc pers_name
+
+:le:*ne/rwn
+:no:*nerw n_nos masc pers_name
+
+:le:*)elea/zaros
+:no:*)eleazar os_ou masc pers_name
+
+:le:*sebasto/s
+:no:*sebast os_ou masc pers_name suff_acc
+
+:le:*solo/mwn
+:no:*solomw n_nos masc pers_name
+
+:le:*)iwa/nhs
+:no:*)iwan hs_ou masc 
+
+:le:*peila=tos
+:no:*peila_t os_ou masc stem_acc pers_name
+
+:le:*ma=rkos
+:no:*ma_rk os_ou masc pers_name
+
+:le:*kike/rwn
+:no:*kikerw n_nos masc ant_acc pers_name
+
+:le:*ai)/akos
+:no:*ai)ak os_ou masc pers_name
+
+:le:*)antio/xeia
+:no:*)antioxei a_hs fem geog_nae
+
+:le:*kaisa/reia
+:no:*kaisarei a_hs fem geog_name
+
+:le:*)iorda/nhs
+:no:*)iordan hs_ou masc geog_name
+
+:le:*brou=tos
+:no:*brout os_ou masc pers_name
+
+:le:*saou=los
+:no:*saoul os_ou masc stem_acc pers_name
+
+:le:*ou)espasiano/s
+:no:*ou)espasian os_ou masc suff_acc pers_name
+
+:le:*galilai/a
+:no:*galilai h_hs fem
+
+:le:*galilai=os
+:no:*galilai os_h_on stem_acc ethnic
+
+:le:*)euelpi/dhs
+:no:*)euelpid hs_ou masc pers_name
+
+:le:*)iwna/qhs
+:no:*)iwnaq hs_ou masc pers_name
+
+:le:*pracago/ras
+:no:*pracagor hs_ou masc pers_name
+
+:le:*maria/m
+:wd:*maria/m irreg_decl3 fem nom voc acc gen dat sg pers_name
+
+:le:*)iwsh/f
+:wd:*)iwsh/f irreg_decl3 masc nom voc acc gen dat sg pers_name
+
+:le:*daui/dhs
+:no:*dauid hs_ou masc pers_name
+:wd:*dauei/d irreg_decl3 neut nom voc acc gen dat sg pers_name
+
+:le:*mwush=s
+:no:*mwus ehs_eou masc pers_name
+:no:*mwus eus_ews masc pers_name suff_acc
+
+:le:*kratu/los
+:no:*kratul os_ou masc stem_acc pers_name
+
+:le:*xristo/s
+:no:*xrist os_ou masc suff_acc pers_name
+
+:le:*)abraa/m
+:wd:*)abraa/m irreg_decl3 neut nom voc acc gen dat sg pers_name
+
+:le:*)israh/l
+:wd:*)israh/l irreg_decl3 neut nom voc acc gen dat sg geog_name
+
+:le:*)israhli/ths
+:no:*)israhli_t hs_ou masc stem_acc ethnic
+:no:*)israhleit hs_ou masc stem_acc ethnic
+
+:le:*(ieroso/luma
+:no:*(ierosolum os_ou neut pl
+:no:*)ierosolum os_ou neut pl
+:wd:*)ierousalh/m irreg_decl3 neut nom voc acc sg
+:wd:*(ierousalh/m irreg_decl3 neut nom voc acc sg
+
+:le:*(ierosolumi/ths
+:no:*(ierosolumi_t hs_ou masc stem_acc
+:no:*(ierosolumeit hs_ou masc stem_acc
+
 :le:*)/abdhra
 :no:*)abdhr a_hs fem  
 
@@ -1249,6 +1382,9 @@
 :le:*eu)h/ras
 :no:*eu)hr hs_eos masc  
 
+:le:*eu)qu/frwn
+:no:*eu)qufr wn_onos masc pers_name
+
 :le:*eu)lime/nh
 :no:*eu)limen h_hs fem  
 
@@ -1669,14 +1805,15 @@
 :le:*)illuri/h
 :no:*)illuri h_hs fem  
 
-:le:*)illurio/s
+:le:*)illu/rios
 :aj:*)illuri os_h_on suff_acc  
+:no:*)illuri os_ou masc suff_acc 
+:aj:*)illuri os_h_on 
+:no:*)illuri os_ou masc 
 
 :le:*)illuri/s
 :no:*)illur is_idos fem suff_acc 
 
-:le:*)illurio/s
-:no:*)illuri os_ou masc suff_acc 
 
 :le:*)imeu/simos
 :no:*)imeusim os_ou masc  
@@ -2128,6 +2265,9 @@
 
 :le:*selh/nh
 :no:*selhn h_hs fem  
+
+:le:*skipi/wn
+:no:*skipiw n_nos masc 
 
 :le:*mo/yos
 :no:*moy os_ou masc  
@@ -8621,8 +8761,10 @@
 :le:*)apte/raios
 :aj:*)apterai os_h_on   
 
-:le:*)/arabos
+:le:*)/aray
+:aj:*)ara y_bos masc fem
 :aj:*)arab os_h_on   
+:aj:*)arabi os_h_on   
 
 :le:*)/arakos
 :no:*)arak os_ou masc  
@@ -13097,6 +13239,9 @@
 :le:*suh/nh
 :no:*suhn h_hs fem  
 
+:le:*su/llas
+:no:*sull hs_ou masc pers_name
+
 :le:*sulli/s
 :no:*sull is_idos fem suff_acc 
 
@@ -14847,7 +14992,8 @@
 :no:*dromokleid hs_ou masc  
 
 :le:*gnai=os
-:no:*gnai os_ou masc  
+:no:*gnai os_ou masc pers_name
+:no:*gnai+ os_ou masc pers_name
 
 :le:*ma/llios
 :no:*malli os_ou masc  
@@ -15259,6 +15405,9 @@
 
 :le:*lewtrofi/dhs
 :no:*lewtrofid hs_ou masc  
+
+:le:*leu/kollos
+:no:*leukoll os_ou masc pers_name
 
 :le:*leukolo/fhs
 :no:*leukolof hs_ou masc doric 

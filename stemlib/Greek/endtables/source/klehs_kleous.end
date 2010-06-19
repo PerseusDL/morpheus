@@ -7,8 +7,9 @@ kle-es klehs_kleous neut nom voc acc sg
 klh-hs klehs_kleous nom sg epic
 klees klehs_kleous voc sg   masc fem
 kle/-eos klehs_kleous gen sg 
-kle-@decl3 klehs_kleous sg ionic not nom voc sg
-klh-@decl3 klehs_kleous gen dat acc sg epic
+kle-@decl3 klehs_kleous sg ionic not nom voc sg needs_acc
+klh-@decl3 klehs_kleous gen dat acc sg epic needs_acc
+kle-@decl3 klehs_kleous gen sg needs_acc
 kleei klehs_kleous dat sg  
 kle-a_ klehs_kleous acc sg  masc fem attic
 kle-a klehs_kleous acc masc fem sg epic

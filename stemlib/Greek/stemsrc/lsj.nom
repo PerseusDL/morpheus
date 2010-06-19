@@ -1,3 +1,38 @@
+:le:*stra/bwn
+:no:*strabw n_nos masc pers_name
+
+:le:*(/abramos
+:no:*(abram os_ou masc pers_name
+
+:le:*)idoumai=os
+:no:*)idoumai os_h_on stem_acc ethnic
+
+:le:*ai)soni/dhs
+:no:*ai)sonid hs_ou masc pers_name
+
+:le:*dolabe/llas
+:no:*dolabell hs_ou masc pers_name
+:no:*dolobell hs_ou masc pers_name
+
+:le:*koma/tas
+:no:*koma_t hs_ou masc stem_acc
+:no:*komht hs_ou masc stem_acc
+
+:le:*)iw/abos
+:no:*)iwab os_ou masc pers_name
+
+:le:*kelti/bhr
+:no:*keltibh r_ros masc fem ethnic
+
+:le:*leu/kollos
+:no:*leukoll os_ou masc pers_name
+
+:le:*pasi/wn
+:no:*pasiw n_nos masc pers_name
+
+:le:*samouh=los
+:no:*samouhl os_ou masc stem_acc pers_name
+
 :le:a)adh/s
 :aj:a)ad hs_es suff_acc
 
@@ -133045,6 +133080,7 @@
 
 :le:*sura/kousa
 :no:*surakous a_hs fem
+:no:*surakouss a_hs fem
 
 :le:*surakoseu/s
 :no:*surakos eus_ews masc suff_acc
