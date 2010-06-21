@@ -12275,9 +12275,8 @@
 
 :le:*)olu/mpia
 :aj:*)olumpi os_ou,neut,pl
-
-:le:*)olumpi/aze
 :wd:*)olumpi/aze	adverb
+:wd:*)olumpi/a_si	adverb
 
 :le:*o)lumpiako/s
 :aj:*)olumpiak os_h_on suff_acc
@@ -12290,8 +12289,6 @@
 #way to avoid conflicts in gen sg. with *)olumpios.
 :no:o)lumpi hs_ou masc stem_acc
 
-:le:*)olumpi/asi
-:wd:*)olumpi/a_si	adverb
 
 :le:*)olumpiei=on
 :no:*)olumpiei_ os_ou stem_acc neut

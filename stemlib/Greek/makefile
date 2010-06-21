@@ -8,7 +8,7 @@ STEMPROG= stemsrc/stripref stemsrc/zapfirstf stemsrc/headnolen \
 # Get all noms files, but without emacs backups
 nomsrc= $(filter-out %~,$(wildcard stemsrc/nom.* stemsrc/nom[0-9]*))
 
-all: $(STEMPROG) ends noms vbs deriv
+all: $(STEMPROG) ends noms vbs deriv entities
 
 ends: nends vends
 
@@ -28,7 +28,7 @@ deriv:
 	buildderiv all
 	indderivtables
 
-noms:	stemsrc/nom.irreg stemind/nomind
+noms:	stemsrc/nom.irreg stemind/nomind entities
 
 vbs:	stemsrc/lsj.vbs stemsrc/vbs.irreg stemind/vbind
 
@@ -55,6 +55,10 @@ stemind/nomind:	stemsrc/lsj.nom
 	    stemsrc/lsj.byhand > /tmp/nommorph
 	indexnoms
 
+entities: 
+	getentities.pl  $(nomsrc) stemsrc/lsj.nom stemsrc/lsj.byhand > steminds/entitylist.txt
+	
+
 ia.noms:
 	echo "[aehuwo]i h_hs" > /tmp/skip.ia
 	echo ":wd:" >> /tmp/skip.ia
@@ -73,3 +77,4 @@ lsj.morph:	${LSJDIR}/lemmata
 	cp /tmp/lsj.vbs stemsrc
 	fgrep -v "0:" /tmp/lsj.morph > stemsrc/lsj.nom
 	cp /tmp/lsj.morph .
+

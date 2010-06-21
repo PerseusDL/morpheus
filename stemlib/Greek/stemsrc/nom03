@@ -6817,9 +6817,9 @@
 :no:i)h-paih wn_onos stem_acc   masc
 
 :le:*)ihsou=s
-:no:*)ihs oos_oou,masc,suff_acc
+:no:*)ihs oos_oou,masc,suff_acc pers_name
 @ end:oi dat sg
-:wd:*)ihsou= oos_oou masc dat sg
+:wd:*)ihsou= oos_oou masc dat sg pers_name
 
 :le:i)qagenh/s
 :aj:i)qa_-gen hs_es suff_acc

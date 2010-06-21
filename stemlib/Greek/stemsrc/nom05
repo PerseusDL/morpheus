@@ -4432,7 +4432,7 @@
 :le:phmosu/nh
 :no:phmosun h_hs stem_acc fem
 
-:le:*phnelo/peia
+:le:*phnelo/ph
 :no:*phnelopei a_hs fem
 :no:*phnelop h_hs,stem_acc,fem
 :no:*pa_nelop h_hs,stem_acc,fem   doric
@@ -4896,6 +4896,7 @@
 :le:*pla/taia
 :no:*platai a_hs fem
 :no:*platai h_hs,fem,pl
+:no:*platai h_hs,fem,pl suff_acc
 
 :le:*plataia=si
 :wd:*plataia=si   adverb
@@ -7249,7 +7250,7 @@
 :le:po/se
 :wd:po/se	adverb
 
-:le:*poseidew/n
+:le:*poseidw=n
 :no:*poseidew n_nos,stem_acc,masc
 :no:*poseidaw n_nos,masc
 
@@ -9631,7 +9632,8 @@
 :no:*pu_qi h_hs,fem,stem_acc
 
 :le:*pu/qia
-:no:*puqi os_ou,neut,pl
+:no:*puqi os_ou,neut,pl geogn_name
+:wd:*pu_qoi=	adverb geogn_name
 
 :le:*puqia/s
 :no:*pu_qia s_dos stem_acc   	fem
@@ -9657,8 +9659,6 @@
 :le:puqmh/n
 :no:puqm hn_enos suff_acc masc
 
-:le:*puqoi=
-:wd:*pu_qoi=	adverb
 
 :le:*puqo/krantos
 :aj:*pu_qo-krant os_on
@@ -11783,7 +11783,7 @@
 :le:*sikuw/nia
 :no:*si^kuwni os_on,neut,pl
 
-:le:*silhno/s
+:le:*seilhno/s
 :no:*silhn os_ou suff_acc masc
 
 :le:si/li

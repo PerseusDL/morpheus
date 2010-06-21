@@ -243,6 +243,9 @@
 
 :le:*(imi/lkwn
 :no:*(imilk wn_onos masc
+:no:*(amilk wn_onos masc
+:no:*)imilk wn_onos masc
+:no:*)amilk wn_onos masc
 
 :le:*(iouliano/s
 :no:*(ioulian os_ou masc suff_acc suff_acc
@@ -1797,8 +1800,9 @@ stemacc:*)ismh/nos
 :le:*)isxago/ras
 :no:*)isxagor hs_ou masc
 
-:le:*)iw/annhs
+:le:*)iwa/nnhs
 :no:*)iwann hs_ou masc
+:no:*)iwan hs_ou masc
 
 :le:*)iw/shpos
 :no:*)iwshp os_ou masc

@@ -1190,7 +1190,7 @@
 :le:a)dh/ritos
 :aj:a)-dhri_t os_on
 
-:le:*(/a|dhs
+:le:*(/aidhs
 :no:*(a|d hs_ou masc
 :no:*(aid hs_ou masc
 :no:*)ai+d hs_ou masc doric
@@ -1794,13 +1794,16 @@
 :le:a)/qhlus
 :no:a)-qhl us_eia_u
 
-:le:*)aqh/naze
-:wd:*)aqh/naze adverb
 
 :le:*)aqh=nai
 :no:*)aqhn h_hs fem pl geog_name	stem_acc
 :no:*)aqhn h_hs fem sg geog_name epic	stem_acc
 :no:*)aqa_n h_hs fem pl doric geog_name	stem_acc
+:wd:*)aqh/naze adverb geog_name
+:wd:*)aqh/nhqen adverb geog_name
+:wd:*)aqh/noqen adverb geog_name
+:wd:*)aqh/nhsin adverb geog_name
+:wd:*)aqh/nhsi adverb geog_name
 
 :le:*)aqh/naion
 :no:*)aqhnai os_ou neut
@@ -1815,13 +1818,6 @@
 :no:*)aqhn ah_ahs suff_acc fem div_name attic
 :no:*)aqhn h_hs stem_acc fem
 :no:*)aqhnai h_hs fem stem_acc div_name
-
-:le:*)aqh/nhqen
-:wd:*)aqh/nhqen adverb
-:wd:*)aqh/noqen adverb
-
-:le:*)aqh/nhsin
-:wd:*)aqh/nhsin adverb
 
 :le:a)qh/r
 :no:a)q hr_eros suff_acc masc
@@ -5523,7 +5519,7 @@
 :no:*)amfi-ktuonei h_hs stem_acc fem
 
 :le:*)amfiktu/ones
-:no:*)amfiktu wn_onos masc pl
+:no:*)amfiktu wn_onos masc pl group_name
 
 :le:*)amfiktuoniko/s
 :aj:*)amfiktuonik os_h_on suff_acc
@@ -17768,6 +17764,7 @@
 
 :le:*dhmh/thr
 :no:*dhmht hr_eros fem stem_acc
+:no:*dhmht hr_eros fem 
 :wd:*dh/mhtros hr_eros fem gen sg
 :no:*dhmhtr a_hs fem
 
