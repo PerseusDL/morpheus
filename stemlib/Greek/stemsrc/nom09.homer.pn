@@ -362,8 +362,8 @@
 :le:*)amfi/nomos
 :no:*)amfinom	os_ou masc
 
-:le:*)/amfiwn
-:no:*)amfi	wn_onos masc
+:le:*)amfi/wn
+:no:*)amfi	wn_onos masc 
 
 :le:*)/amfios
 :no:*)amfi	os_ou masc
@@ -1198,7 +1198,8 @@
 :le:*)ihluso/s
 :no:*)ihlus	os_ou masc suff_acc
 
-:le:*)ih/swn
+:le:*)ia/swn
+:no:*)ia_s	wn_onos masc stem_acc
 :no:*)ihs	wn_onos masc stem_acc
 
 :le:*)ihsoni/dhs

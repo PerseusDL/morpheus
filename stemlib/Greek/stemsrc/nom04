@@ -4695,9 +4695,9 @@
 :no:*maiw_t hs_ou stem_acc masc  pl
 :no:*maih_t hs_ou stem_acc masc pl  ionic
 
-:le:*maiw/ths
-:no:*maiwt hs_ou masc stem_acc
+:le:*maiw=tis
 :no:*maiwt is_idos fem stem_acc
+:no:*maiwt hs_ou masc stem_acc
 :aj:*maiwtik os_h_on suff_acc
 
 :le:*maiwtisti/
@@ -7865,8 +7865,8 @@
 :no:moiro-krant os_ou masc
 
 :le:*moi=sa
-:no:*moi_s a_hs,fem,aeolic
-@ end:a=n
+:no:*moi_s a_hs,fem,aeolic group_name
+@ end:a=n group_name
 
 :le:moixa/gria
 :no:moix-agri os_ou neut   pl
@@ -12272,11 +12272,12 @@
 
 :le:*)olumpi/a
 :no:*)olumpi h_hs,fem,stem_acc
+:wd:*)olumpi/aze	adverb
+:wd:*)olumpi/a_si	adverb
+:wd:*)olumpi/a_sin	adverb
 
 :le:*)olu/mpia
 :aj:*)olumpi os_ou,neut,pl
-:wd:*)olumpi/aze	adverb
-:wd:*)olumpi/a_si	adverb
 
 :le:*o)lumpiako/s
 :aj:*)olumpiak os_h_on suff_acc

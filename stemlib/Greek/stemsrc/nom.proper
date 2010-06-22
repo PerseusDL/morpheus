@@ -1,3 +1,146 @@
+:le:*nabouxodono/soros
+:no:*nabouxodonosor os_ou masc pers_name
+
+:le:*messa/las
+:no:*messal as_a masc stem_acc
+
+:le:*na/rbwn
+:no:*narbw n_nos fem geog_name
+
+:le:*maurou/sios
+:aj:*maurousi os_h_on
+
+:le:*ke/stios
+:no:*kesti os_ou masc 
+
+:le:*foulbi/a
+:no:*foulbi h_hs fem pers_name
+
+:le:*flw=ros
+:no:*flwr os_ou masc
+
+:le:*dani/hlos
+:no:*danihl os_ou masc pers_name
+
+:le:*)io/rdanos
+:aj:*)iordan os_h_on 
+
+:le:*pla/gkos
+:no:*plagk os_ou masc pers_name
+
+:le:*dwri/maxos
+:no:*dwrimax os_ou masc
+
+:le:*mou=rkos
+:no:*mourk os_ou masc pers_name
+
+:le:*nasi/kas
+:no:*nasik as_a masc pers_name stem_acc
+
+:le:*)aya/lwmos
+:no:*)ayalwm os_ou masc pers_name
+
+:le:*)isaa/k
+:wd:*)isaa/k irreg_decl3 masc nom voc acc gen dat sg pers_name
+
+:le:*kafarnaou/m
+:wd:*kafarnaou/m irreg_decl3 masc nom voc acc gen dat sg geog_name
+
+:le:*)oktaoui/a
+:no:*)oktaoui h_hs fem pers_name
+
+:le:*)oktaou/ios
+:no:*)oktaoui os_ou fem pers_name
+
+:le:*sodomi/ths
+:no:*sodomi_t hs_ou masc stem_acc is_etnic
+
+:le:*paflagoni/a
+:no:*paflagoni h_hs fem 
+
+:le:*dikaioge/nhs
+:no:*dikaiogen hs_eos masc pers_name
+
+:le:*ou)i+te/llios
+:no:*ou)i+telli os_ou masc pers_name
+
+:le:*prai/nestos
+:no:*prainest os_ou masc geog_name
+:no:*prainest h_hs fem geog_name
+
+:le:*prainesti=nos
+:no:*prainesti_n os_h_on stem_acc is_ethnic
+:no:*prainesthn os_h_on suff_acc is_ethnic
+
+:le:*)arxia/dhs
+:no:*)arxiad hs_ou masc stem_acc pers_name
+
+:le:*dhmoxa/rhs
+:no:*dhmoxar hs_eos masc pers_name
+
+:le:*sinai=on
+:no:*sinai os_ou neut geog_name stem_acc
+
+:le:*(iero/bamos
+:no:*(ierobam os_ou masc pers_name
+
+:le:*(ieroboamos
+:no:*(ieroboam os_ou masc pers_name
+
+:le:*ki/rwn
+:no:*kirw n_nos masc pers_name
+
+:le:*su/llaios
+:no:*sullai os_ou masc pers_name
+
+:le:*)/oqwn
+:no:*)oqw n_nos masc pers_name
+
+:le:*fh=lic
+:no:*fhli c_kos masc pers_name
+
+:le:*de/kmos
+:no:*dekm os_ou masc pers_name
+
+:le:*perpe/nnas
+:no:*perpenn as_a masc pers_name stem_acc
+
+:le:*katili/nas
+:no:*katilin as_a masc pers_name stem_acc
+
+:le:*megalopoli/ths
+:no:*megalopoli_t hs_ou masc stem_acc
+
+:le:*le/ntlos
+:no:*lentl os_ou masc pers_name
+
+:le:*(rwmu/los
+:no:*(rwmul os_ou masc stem_acc
+
+:le:*ga/lba
+:wd:*ga/lba a_hs masc nom sg pers_name
+:wd:*ga/lbas a_hs masc gen sg pers_name
+:wd:*ga/lba| a_hs masc dat sg pers_name
+:wd:*ga/lban a_hs masc acc sg pers_name
+
+:le:*ka/millos
+:no:*kamill os_ou masc pers_name
+
+:le:*ka/twn
+:no:*katw n_nos masc pers_name
+
+:le:*lou/koullos
+:no:*loukoull os_ou masc pers_name
+
+:le:*ma/rkellos
+:no:*markell os_ou masc pers_name
+
+:le:*timole/wn
+:no:*timole wn_ontos
+
+:le:*la/i+os
+:no:*lai+ os_ou masc pers_name
+
 :le:*zakanqai=os
 :aj:*zakanqai os_h_on stem_acc ethnic
 
@@ -18,6 +161,7 @@
 
 :le:*zakunqai=os
 :aj:*zakunqai os_h_on stem_acc ethnic
+
 
 :le:*)ierixw/
 :wd:*)ierixw/ irreg_decl3 fem nom sg
@@ -148,6 +292,13 @@
 
 :le:*pracago/ras
 :no:*pracagor hs_ou masc pers_name
+
+:le:*beniami/ths
+:no:*beniami_t hs_ou masc pers_name stem_acc
+:no:*beniami_t is_idos fem pers_name stem_acc
+
+:le:*beniami/n
+:wd:*beniami/n irreg_decl3 masc nom voc acc gen dat sg pers_name
 
 :le:*)iakw/b
 :wd:*)iakw/b irreg_decl3 masc nom voc acc gen dat sg pers_name
@@ -2162,7 +2313,7 @@
 :le:*mh/dh
 :no:*mhd h_hs fem  
 
-:le:*mhdei/a
+:le:*mh/deia
 :no:*mhdei a_hs fem  
 
 :le:*mhdi/h
@@ -2229,10 +2380,11 @@
 :no:*meliss eus_ews masc  
 
 :le:*me/mfis
-:no:*memf is_idos fem  
+:no:*memf is_idos fem 
 
 :le:*mena/lkhs
-:no:*menalk hs_eos masc  
+:no:*menalk hs_eos masc  pers_name
+:no:*menalk hs_ou masc  pers_name
 
 :le:*mene/maxos
 :no:*menemax os_ou masc  
@@ -2329,6 +2481,7 @@
 
 :le:*skipi/wn
 :no:*skipiw n_nos masc 
+:no:*skhpiw n_nos masc 
 
 :le:*mo/yos
 :no:*moy os_ou masc  
@@ -3235,8 +3388,8 @@
 :le:*qe/rsandros
 :no:*qersandr os_ou masc  
 
-:le:*qespi/h
-:no:*qespi h_hs fem pl 
+:le:*qespiai/
+:no:*qespi h_hs fem pl suff_acc
 
 :le:*qe/spios
 :no:*qespi os_ou masc  
@@ -5012,7 +5165,7 @@
 :no:*(uperanq hs_eos masc  
 
 :le:*(uperbo/reos
-:aj:*(uperbore os_h_on   
+:aj:*(uperbore os_h_on   group_name
 
 :le:*(upero/xh
 :no:*(uperox h_hs fem  
@@ -7757,8 +7910,6 @@
 :le:*)/alecis
 :no:*)alec is_idos fem  
 
-:le:*)alwpekh=qen
-:wd:*)alwpekh=qen adverb   
 
 :le:*)amfitropaieu/s
 :no:*)amfitropai eus_ews masc suff_acc 
@@ -8058,7 +8209,7 @@
 :no:*faidr os_ou masc  
 
 :le:*falhreu/s
-:no:*falhr eus_ews masc suff_acc 
+:no:*falhr eus_ews masc suff_acc pers_name
 
 :le:*fainippi/dhs
 :no:*fainippid hs_ou masc  
@@ -8381,8 +8532,8 @@
 :le:*)aga/qinos
 :no:*)agaqin os_ou masc  
 
-:le:*)aga/qokleas
-:no:*)agaqo klehs_kleous masc  
+:le:*)agaqoklh=s
+:no:*)agaqo klehs_kleous masc  pers_name
 
 :le:*)/agdistis
 :no:*)agdist is_ews fem  
@@ -8539,6 +8690,7 @@
 
 :le:*)alw/pekos
 :no:*)alwpek os_ou masc  
+:wd:*)alwpekh=qen adverb   
 
 :le:*)/alfios
 :no:*)alfi os_ou masc  
@@ -8817,7 +8969,7 @@
 :no:*)apollwniat is_ews fem  
 
 :le:*)/appios
-:no:*)appi os_ou masc  
+:no:*)appi os_ou masc  pers_name
 
 :le:*)apte/raios
 :aj:*)apterai os_h_on   
@@ -11552,7 +11704,7 @@
 :no:*makari h_hs fem  
 
 :le:*maka/rtatos
-:no:*makartat os_ou masc  
+:no:*makartat os_ou masc  pers_name
 
 :le:*ma/khris
 :no:*makhr is_idos fem  
@@ -11720,7 +11872,7 @@
 :no:*metapontin hs_eos masc  
 
 :le:*me/tellos
-:no:*metell os_ou masc  
+:no:*metell os_ou masc  pers_name
 
 :le:*me/qana
 :no:*meqan a_hs fem  
@@ -13153,7 +13305,7 @@
 :le:*se/lemnos
 :no:*selemn os_ou masc  
 
-:le:*seleukei/a
+:le:*seleu/keia
 :no:*seleukei a_hs fem  
 
 :le:*se/leukos
@@ -13280,7 +13432,7 @@
 :no:*strogguliw n_nos masc  
 
 :le:*soulpi/kios
-:no:*soulpiki os_ou masc  
+:no:*soulpiki os_ou masc  pers_name
 
 :le:*souma/teus
 :no:*soumat eus_ews masc  
@@ -13848,7 +14000,7 @@
 :no:*)akragantin h_hs fem  
 
 :le:*)akra/gas
-:no:*)akrag as_antos masc  
+:no:*)akrag as_antos masc  geog_name
 
 :le:*ai)bou/tios
 :no:*ai)bouti os_ou masc  
@@ -13857,13 +14009,13 @@
 :no:*ai)gest a_hs fem  
 
 :le:*ai)miliano/s
-:no:*ai)milian os_ou masc suff_acc 
+:no:*ai)milian os_ou masc suff_acc pers_name
 
 :le:*ai)mi/lios
-:no:*ai)mili os_ou masc  
+:no:*ai)mili os_ou masc  pers_name
 
 :le:*)aga/qarxos
-:no:*)agaqarx os_ou masc  
+:no:*)agaqarx os_ou masc  pers_name
 
 :le:*)agu/llh
 :no:*)agull h_hs fem  
@@ -13953,7 +14105,7 @@
 :no:*)astibar hs_ou masc  
 
 :le:*)astu/filos
-:no:*)astufil os_ou masc  
+:no:*)astufil os_ou masc  pers_name
 
 :le:*)aqh/neus
 :no:*)aqhn eus_ews masc  
@@ -13962,7 +14114,7 @@
 :no:*)atili os_ou masc  
 
 :le:*au)=los
-:no:*au)l os_ou masc  
+:no:*au)l os_ou masc  pers_name
 
 :le:*ba/ktra
 :no:*baktr os_ou neut pl 
@@ -14033,7 +14185,7 @@
 :le:*kersoble/pths
 :no:*kersoblept hs_ou masc  
 
-:le:*xa/ras
+:le:*xa/rhs
 :aj:*xarh s_tos   
 
 :le:*xari/dhmos
@@ -14055,7 +14207,7 @@
 :no:*xortakan a_hs fem  
 
 :le:*xre/mhs
-:aj:*xremh s_tos   
+:no:*xremh s_tos   pers_name
 
 :le:*kixw/rios
 :no:*kixwri os_ou masc  
@@ -14097,7 +14249,7 @@
 :no:*kotuwr a_hs fem  
 
 :le:*kra/ssos
-:no:*krass os_ou masc  
+:no:*krass os_ou masc  pers_name
 
 :le:*kratero/s
 :no:*krater os_ou masc suff_acc 
@@ -14346,7 +14498,7 @@
 :no:*)iss os_ou masc suff_acc 
 
 :le:*)iou/lios
-:no:*)iouli os_ou masc  
+:no:*)iouli os_ou masc  pers_name
 
 :le:*)/ioulos
 :no:*)ioul os_ou masc  
@@ -14433,7 +14585,7 @@
 :no:*mantiqe os_ou masc  
 
 :le:*ma/rkios
-:no:*marki os_ou masc  
+:no:*marki os_ou masc  pers_name
 
 :le:*ma/rkos
 :no:*mark os_ou masc  
@@ -14918,7 +15070,7 @@
 :no:*zhnw n_nos masc  
 
 :le:*serou/i+os
-:no:*seroui+ os_ou masc  
+:no:*seroui+ os_ou masc  pers_name
 
 :le:*tu/llios
 :no:*tulli os_ou masc  
@@ -14987,7 +15139,7 @@
 :no:*ou)ergini os_ou masc  
 
 :le:*galati/h
-:no:*galati h_hs fem  
+:no:*galati h_hs fem  geog_name
 
 :le:*pisidikh/
 :no:*pisidik h_hs fem suff_acc 
@@ -15039,13 +15191,13 @@
 :no:*ou)iblan os_ou masc suff_acc 
 
 :le:*ou)ale/rios
-:no:*ou)aleri os_ou masc  
+:no:*ou)aleri os_ou masc  pers_name
 
 :le:*mutilhnai=os
 :aj:*mutilhnai os_h_on stem_acc  
 
 :le:*fou/rios
-:no:*fouri os_ou masc  
+:no:*fouri os_ou masc  pers_name
 
 :le:*polu/zhlos
 :no:*poluzhl os_ou masc  
@@ -15058,7 +15210,7 @@
 :no:*gnai+ os_ou masc pers_name
 
 :le:*ma/llios
-:no:*malli os_ou masc  
+:no:*malli os_ou masc  pers_name
 
 :le:*(etoimari/dhs
 :no:*(etoimarid hs_ou masc doric 
@@ -15082,10 +15234,10 @@
 :no:*kremer h_hs fem  
 
 :le:*seroui/lios
-:no:*serouili os_ou masc  
+:no:*serouili os_ou masc  pers_name
 
 :le:*lusiqei/dhs
-:no:*lusiqeid hs_ou masc  
+:no:*lusiqeid hs_ou masc  pers_name
 
 :le:*puco/eis
 :no:*puc oeis_oentos fem  
@@ -15199,7 +15351,7 @@
 :no:*panta klehs_kleous masc  
 
 :le:*polueu/ktos
-:no:*polueukt os_ou masc  
+:no:*polueukt os_ou masc  pers_name
 
 :le:*qhmako/s
 :no:*qhmak os_ou masc suff_acc 

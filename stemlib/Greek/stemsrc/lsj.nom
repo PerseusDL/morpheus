@@ -15,8 +15,8 @@
 :no:*dolobell hs_ou masc pers_name
 
 :le:*koma/tas
-:no:*koma_t hs_ou masc stem_acc
-:no:*komht hs_ou masc stem_acc
+:no:*koma_t hs_ou masc stem_acc pers_name
+:no:*komht hs_ou masc stem_acc pers_name
 
 :le:*)iw/abos
 :no:*)iwab os_ou masc pers_name

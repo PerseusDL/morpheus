@@ -9495,7 +9495,7 @@
 :le:*ptolemaiko/s
 :aj:*ptolemai+k os_h_on suff_acc
 
-:le:*ptolemai/s
+:le:*ptolemai+/s
 :no:*ptolema is_idos suff_acc fem
 
 :le:ptoli/eqron
@@ -9619,8 +9619,8 @@
 @ doric end:a gen sg
 
 :le:*puqago/reios
-:aj:*pu_qa^gorei os_on
-:aj:*pu_qa^gorik os_h_on suff_acc
+:aj:*pu_qa^gorei os_on group_name
+:aj:*pu_qa^gorik os_h_on suff_acc group_name
 
 :le:*puqaeu/s
 :no:*puqa_ eus_ews suff_acc masc
@@ -9633,7 +9633,6 @@
 
 :le:*pu/qia
 :no:*puqi os_ou,neut,pl geogn_name
-:wd:*pu_qoi=	adverb geogn_name
 
 :le:*puqia/s
 :no:*pu_qia s_dos stem_acc   	fem
@@ -9682,6 +9681,7 @@
 :le:*puqw/
 :no:*pu_q w_oos,fem,suff_acc
 @ end:oi dat
+:wd:*pu_qoi=	adverb geogn_name
 
 :le:*puqw/de
 :wd:*pu_qw/de	adverb

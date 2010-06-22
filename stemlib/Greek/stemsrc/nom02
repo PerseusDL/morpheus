@@ -9532,12 +9532,12 @@
 :aj:ei)rine os_h_on  ionic
 
 :le:*)erinu/s
-:no:*)erin uLs_uos suff_acc,fem
-:no:e)rin uLs_uos suff_acc,fem
-@ end:uos
-@ end:ues
-@ end:u_s contr
-@ end:u=n gen pl attic
+:no:*)erin uLs_uos suff_acc,fem group_name
+:no:e)rin uLs_uos suff_acc,fem group_name
+@ end:uos group_name
+@ end:ues group_name
+@ end:u_s contr group_name
+@ end:u=n gen pl attic group_name
 
 :le:e)/rion
 :no:e)ri os_ou neut
