@@ -1,3 +1,132 @@
+:le:*solomw/n
+:no:*solomw n_nos masc pers_name stem_acc
+
+:le:*sourh/nas
+:no:*sourhn as_a masc pers_name stem_acc
+
+:le:*plakenti/a
+:no:*plakenti h_hs fem geog_name
+
+:le:*mourh/nas
+:no:*mourhn as_a masc stem_acc pers_name
+
+:le:*kri/twn
+:no:*kritw n_nos masc 
+
+:le:*kornhli/a
+:no:*kornhli h_hs fem pers_name
+
+:le:*kitieu/s
+:no:*kiti eus_ews masc suff_acc pers_name
+
+
+:le:*kitiai=os
+:aj:*kitiai os_h_on stem_acc ethnic
+
+:le:*kampani/a
+:no:*kampani h_hs fem 
+
+:le:*kadou/sios
+:no:*kadousi os_ou masc
+
+:no:*ka/tlos
+:no:*katl os_ou masc pers_name
+
+:le:*fou/lbios
+:no:*foulbi os_ou masc pers_name
+
+:le:*baktriano/s
+:no:*baktrian os_h_on suff_acc is_ethnic
+
+:le:*)okta/bios
+:no:*)oktabi os_ou masc pers_name
+
+:le:*)iou=stos
+:no:*)iou=st os_ou masc pers_name
+:le:*drou=sos
+:no:*drous os_ou masc pers_name
+
+:le:*lai/lios
+:no:*laili os_ou masc pers_name
+
+:le:*ka/ssandros
+:no:*kasandr os_ou masc pers_name
+
+:le:*mo/mmios
+:no:*mommi os_ou masc pers_name
+
+:le:*swsikra/ths
+:no:*swsikrat hs_eos masc pers_name
+
+:le:*so/ssios
+:no:*sossi os_ou masc pers_name
+
+:le:*so/fac
+:no:*sofa c_kos masc pers_name
+
+:le:*kallisqe/nhs
+:no:*kallisqen hs_eos masc pers_name
+
+:le:*samyw/n
+:no:*samyw n_nos masc pers_name stem_acc
+
+:le:*milu/as
+:no:*milu hs_ou masc pers_name
+
+:le:*)albi=nos
+:no:*)albi_n os_ou stem_acc pers_name
+
+:le:*)ahno/barbos
+:no:*)ahnobarb os_ou masc 
+
+:le:*)ariai=os
+:no:*)ariai os_ou masc stem_acc pers_name
+
+:le:*)iza/ths
+:no:*)izat	hs_ou masc pers_name
+
+:le:*bou/selos
+:no:*bousel os_ou masc pers_name
+
+:le:*khnswri=nos
+:no:*khnswri_n os_ou masc stem_acc
+
+:le:*ma/lixos
+:no:*malix os_ou masc pers_name
+
+:le:*nomanti=nos
+:no:*nomanti_n os_h_on stem_acc
+
+:le:*noumanti/a
+:no:*nomanti h_hs fem 
+
+:le:*ou)enti/dios
+:no:*ou)entidi os_ou masc 
+
+:le:*praxino/a
+:no:*praxino h_hs fem pers_name
+
+:le:*se/pfwris
+:no:*sepfwr is_ews fem
+
+:le:*sepfwri/ths
+:no:*sepfwri_t hs_ou masc stem_acc 
+
+:le:*tarku/nios
+:no:*tarkuni os_ou masc pers_name
+
+:le:*)aarw/n
+:no:*)aarw n_nos masc pers_name stem_acc
+
+:le:*)itukai=os
+:aj:*)itukai os_h_on stem_acc is_ethnic
+
+:le:*ou)alle/rios
+:no:*ou)alleri os_ou masc pers_name
+
+:le:*)ihou=s
+:no:*)ih oos_oou masc pers_name suff_acc
+
 :le:*nabouxodono/soros
 :no:*nabouxodonosor os_ou masc pers_name
 
@@ -34,11 +163,28 @@
 :le:*mou=rkos
 :no:*mourk os_ou masc pers_name
 
-:le:*nasi/kas
-:no:*nasik as_a masc pers_name stem_acc
+:le:*nasika=s
+:no:*nasik eas_ea masc pers_name
+:wd:*nasika=s indecl_noun masc nom sg pers_name
+:wd:*nasika= indecl_noun masc gen sg pers_name
+:wd:*nasika=| indecl_noun masc dat sg pers_name
+:wd:*nasika=n indecl_noun masc acc sg pers_name
 
 :le:*)aya/lwmos
 :no:*)ayalwm os_ou masc pers_name
+
+:le:*garizei/n
+:wd:*garizei/n irreg_decl3 neut nom voc acc gen dat sg geog_name
+
+:le:*flami/nios
+:no:*flamini os_ou masc
+
+:le:*fimbri/as
+:no:*fimbri as_a masc pers_name stem_acc
+
+:le:*amuni/as
+:no:*amuni hs_ou masc masc pers_name
+
 
 :le:*)isaa/k
 :wd:*)isaa/k irreg_decl3 masc nom voc acc gen dat sg pers_name
@@ -66,6 +212,7 @@
 
 :le:*prai/nestos
 :no:*prainest os_ou masc geog_name
+:no:*prainest os_ou masc geog_name suff_acc
 :no:*prainest h_hs fem geog_name
 
 :le:*prainesti=nos
@@ -15917,3 +16064,846 @@
 :le:*(aghsi/as
 :no:*(aghsi hs_ou masc  
 
+# quick extracts
+:le:*(agnwni/dhs
+:no:*(agnwnid hs_ou masc stem_acc
+
+:le:*(alai=os
+:aj:*(alai os_h_on stem_acc
+
+:le:*(alaieu/s
+:no:*(alai eus_ews masc suff_acc
+
+:le:*(alikarnaseu/s
+:no:*(alikarnas eus_ews masc suff_acc
+
+:le:*(arpakti/dhs
+:no:*(arpaktid hs_ou masc stem_acc
+
+:le:*(azhnieu/s
+:no:*(azhni eus_ews masc suff_acc
+
+:le:*(erxieu/s
+:no:*(erxi eus_ews masc suff_acc
+
+:le:*(idrieu/s
+:no:*(idri eus_ews masc suff_acc
+
+:le:*(pwmai=os
+:aj:*(pwmai os_h_on stem_acc
+
+:le:*(uperhsieu/s
+:no:*(uperhsi eus_ews masc suff_acc
+
+:le:*(uyai=os
+:aj:*(uyai os_h_on stem_acc
+
+:le:*)abessai=os
+:aj:*)abessai os_h_on stem_acc
+
+:le:*)afutai=os
+:aj:*)afutai os_h_on stem_acc
+
+:le:*)agapai=os
+:aj:*)agapai os_h_on stem_acc
+
+:le:*)aggai=os
+:aj:*)aggai os_h_on stem_acc
+
+:le:*)agullai=os
+:aj:*)agullai os_h_on stem_acc
+
+:le:*)akamanti/dhs
+:no:*)akamantid hs_ou masc stem_acc
+
+:le:*)alkmaiwni/dhs
+:no:*)alkmaiwnid hs_ou masc stem_acc
+
+:le:*)alkmewni/dhs
+:no:*)alkmewnid hs_ou masc stem_acc
+
+:le:*)ambrosseu/s
+:no:*)ambross eus_ews masc suff_acc
+
+:le:*)amfistreu/s
+:no:*)amfistr eus_ews masc suff_acc
+
+:le:*)amnai=os
+:aj:*)amnai os_h_on stem_acc
+
+:le:*)amorrai=os
+:aj:*)amorrai os_h_on stem_acc
+
+:le:*)anakaieu/s
+:no:*)anakai eus_ews masc suff_acc
+
+:le:*)anilai=os
+:aj:*)anilai os_h_on stem_acc
+
+:le:*)antidwri/dhs
+:no:*)antidwrid hs_ou masc stem_acc
+
+:le:*)antioxeu/s
+:no:*)antiox eus_ews masc suff_acc
+
+:le:*)antissai=os
+:aj:*)antissai os_h_on stem_acc
+
+:le:*)antissai=os
+:aj:*)antissai os_h_on stem_acc
+
+:le:*)aqhai=os
+:aj:*)aqhai os_h_on stem_acc
+
+:le:*)aqroggai=os
+:aj:*)aqroggai os_h_on stem_acc
+
+:le:*)aramai=os
+:aj:*)aramai os_h_on stem_acc
+
+:le:*)ardiai=os
+:aj:*)ardiai os_h_on stem_acc
+
+:le:*)ardiai=os
+:aj:*)ardiai os_h_on stem_acc
+
+:le:*)arestori/dhs
+:no:*)arestorid hs_ou masc stem_acc
+
+:le:*)argippai=os
+:aj:*)argippai os_h_on stem_acc
+
+:le:*)arkteu/s
+:no:*)arkt eus_ews masc suff_acc
+
+:le:*)arofai=os
+:aj:*)arofai os_h_on stem_acc
+
+:le:*)aromeu/s
+:no:*)arom eus_ews masc suff_acc
+
+:le:*)aroudai=os
+:aj:*)aroudai os_h_on stem_acc
+
+:le:*)aroukai=os
+:aj:*)aroukai os_h_on stem_acc
+
+:le:*)arxenomi/dhs
+:no:*)arxenomid hs_ou masc stem_acc
+
+:le:*)asamwnai=os
+:aj:*)asamwnai os_h_on stem_acc
+
+:le:*)asklai=os
+:aj:*)asklai os_h_on stem_acc
+
+:le:*)aspaneu/s
+:no:*)aspan eus_ews masc suff_acc
+
+:le:*)astapai=os
+:aj:*)astapai os_h_on stem_acc
+
+:le:*)astupalaieu/s
+:no:*)astupalai eus_ews masc suff_acc
+
+:le:*)aswxai=os
+:aj:*)aswxai os_h_on stem_acc
+
+:le:*)azhnieu/s
+:no:*)azhni eus_ews masc suff_acc
+
+:le:*)ebrai=os
+:aj:*)ebrai os_h_on stem_acc
+
+:le:*)ebrai=os
+:aj:*)ebrai os_h_on stem_acc
+
+:le:*)ednai=os
+:aj:*)ednai os_h_on stem_acc
+
+:le:*)elissai=os
+:aj:*)elissai os_h_on stem_acc
+
+:le:*)eloulai=os
+:aj:*)eloulai os_h_on stem_acc
+
+:le:*)elumai=os
+:aj:*)elumai os_h_on stem_acc
+
+:le:*)epitimi/dhs
+:no:*)epitimid hs_ou masc stem_acc
+
+:le:*)epmeni/dhs
+:no:*)epmenid hs_ou masc stem_acc
+
+:le:*)erusixai=os
+:aj:*)erusixai os_h_on stem_acc
+
+:le:*)erxieu/s
+:no:*)erxi eus_ews masc suff_acc
+
+:le:*)essai=os
+:aj:*)essai os_h_on stem_acc
+
+:le:*)essai=os
+:aj:*)essai os_h_on stem_acc
+
+:le:*)euripi/dhs
+:no:*)euripid hs_ou masc stem_acc
+
+:le:*)eurusqeu/s
+:no:*)eurusq eus_ews masc suff_acc
+
+:le:*)heti/dhs
+:no:*)hetid hs_ou masc stem_acc
+
+:le:*)iapetioni/dhs
+:no:*)iapetionid hs_ou masc stem_acc
+
+:le:*)idrieu/s
+:no:*)idri eus_ews masc suff_acc
+
+:le:*)iebousai=os
+:aj:*)iebousai os_h_on stem_acc
+
+:le:*)iessai=os
+:aj:*)iessai os_h_on stem_acc
+
+:le:*)ikarieu/s
+:no:*)ikari eus_ews masc suff_acc
+
+:le:*)imai=os
+:aj:*)imai os_h_on stem_acc
+
+:le:*)isai=os
+:aj:*)isai os_h_on stem_acc
+
+:le:*)itourai=os
+:aj:*)itourai os_h_on stem_acc
+
+:le:*)lgkai=os
+:aj:*)lgkai os_h_on stem_acc
+
+:le:*)olonqeu/s
+:no:*)olonq eus_ews masc suff_acc
+
+:le:*)otruneu/s
+:no:*)otrun eus_ews masc suff_acc
+
+:le:*)ouakkai=os
+:aj:*)ouakkai os_h_on stem_acc
+
+:le:*ai)cwneu/s
+:no:*ai)cwn eus_ews masc suff_acc
+
+:le:*ai)gestai=os
+:aj:*ai)gestai os_h_on stem_acc
+
+:le:*ai)gilieu/s
+:no:*ai)gili eus_ews masc suff_acc
+
+:le:*aqhnai=os
+:aj:*aqhnai os_h_on stem_acc
+
+:le:*au)toklei/dhs
+:no:*au)tokleid hs_ou masc stem_acc
+
+:le:*barkai=os
+:aj:*barkai os_h_on stem_acc
+
+:le:*barkai=os
+:aj:*barkai os_h_on stem_acc
+
+:le:*barqolomai=os
+:aj:*barqolomai os_h_on stem_acc
+
+:le:*bazai=os
+:aj:*bazai os_h_on stem_acc
+
+:le:*belefa/nths
+:no:*belefant hs_ou masc stem_acc
+
+:le:*beroiai=os
+:aj:*beroiai os_h_on stem_acc
+
+:le:*beroieu/s
+:no:*beroi eus_ews masc suff_acc
+
+:le:*berzelai=os
+:aj:*berzelai os_h_on stem_acc
+
+:le:*bhnai=os
+:aj:*bhnai os_h_on stem_acc
+
+:le:*bhsaieu/s
+:no:*bhsai eus_ews masc suff_acc
+
+:le:*boubasti/ths
+:no:*boubasti_t hs_ou masc stem_acc
+
+:le:*braxulli/dhs
+:no:*braxullid hs_ou masc stem_acc
+
+:le:*dabi/dhs
+:no:*dabid hs_ou masc stem_acc
+
+:le:*dafnai=os
+:aj:*dafnai os_h_on stem_acc
+
+:le:*dai+fa/nths
+:no:*dai+fant hs_ou masc stem_acc
+
+:le:*derbai=os
+:aj:*derbai os_h_on stem_acc
+
+:le:*derketai=os
+:aj:*derketai os_h_on stem_acc
+
+:le:*deu/s
+:no:*d eus_ews masc suff_acc
+
+:le:*deutuxi/dhs
+:no:*deutuxid hs_ou masc stem_acc
+
+:le:*dhrousiai=os
+:aj:*dhrousiai os_h_on stem_acc
+
+:le:*diogni/dhs
+:no:*diognid hs_ou masc stem_acc
+
+:le:*dionusi/dhs
+:no:*dionusid hs_ou masc stem_acc
+
+:le:*dirkai=os
+:aj:*dirkai os_h_on stem_acc
+
+:le:*drwpi/dhs
+:no:*drwpid hs_ou masc stem_acc
+
+:le:*dumai=os
+:aj:*dumai os_h_on stem_acc
+
+:le:*dumai=os
+:aj:*dumai os_h_on stem_acc
+
+:le:*ei)lati/dhs
+:no:*ei)latid hs_ou masc stem_acc
+
+:le:*eu)ergi/dhs
+:no:*eu)ergid hs_ou masc stem_acc
+
+:le:*eu)fori/dhs
+:no:*eu)forid hs_ou masc stem_acc
+
+:le:*eu)frai=os
+:aj:*eu)frai os_h_on stem_acc
+
+:le:*eu)franti/dhs
+:no:*eu)frantid hs_ou masc stem_acc
+
+:le:*eu)lai=os
+:aj:*eu)lai os_h_on stem_acc
+
+:le:*eu)mhli/dhs
+:no:*eu)mhlid hs_ou masc stem_acc
+
+:le:*eu)rupwnti/dhs
+:no:*eu)rupwntid hs_ou masc stem_acc
+
+:le:*eu)wnumeu/s
+:no:*eu)wnum eus_ews masc suff_acc
+
+:le:*euripi/dhs
+:no:*euripid hs_ou masc stem_acc
+
+:le:*fagrwriopoli/ths
+:no:*fagrwriopoli_t hs_ou masc stem_acc
+
+:le:*filai=os
+:aj:*filai os_h_on stem_acc
+
+:le:*filisti/dhs
+:no:*filistid hs_ou masc stem_acc
+
+:le:*filluri/dhs
+:no:*fillurid hs_ou masc stem_acc
+
+:le:*filuri/dhs
+:no:*filurid hs_ou masc stem_acc
+
+:le:*flu[eu/s
+:no:*flu[ eus_ews masc suff_acc
+
+:le:*flueu/s
+:no:*flu eus_ews masc suff_acc
+
+:le:*frasihri/dhs
+:no:*frasihrid hs_ou masc stem_acc
+
+:le:*fwki/dhs
+:no:*fwkid hs_ou masc stem_acc
+
+:le:*galadi/ths
+:no:*galadi_t hs_ou masc stem_acc
+
+:le:*gaulani/ths
+:no:*gaulani_t hs_ou masc stem_acc
+
+:le:*gazai=os
+:aj:*gazai os_h_on stem_acc
+
+:le:*gefurai=os
+:aj:*gefurai os_h_on stem_acc
+
+:le:*gelmwnai=os
+:aj:*gelmwnai os_h_on stem_acc
+
+:le:*gerrai=os
+:aj:*gerrai os_h_on stem_acc
+
+:le:*ghqeu/s
+:no:*ghq eus_ews masc suff_acc
+
+:le:*gittai=os
+:aj:*gittai os_h_on stem_acc
+
+:le:*glaukwni/dhs
+:no:*glaukwnid hs_ou masc stem_acc
+
+:le:*gorduai=os
+:aj:*gorduai os_h_on stem_acc
+
+:le:*kabeirai=os
+:aj:*kabeirai os_h_on stem_acc
+
+:le:*kaisareu/s
+:no:*kaisar eus_ews masc suff_acc
+
+:le:*kamireu/s
+:no:*kamir eus_ews masc suff_acc
+
+:le:*kananai=os
+:aj:*kananai os_h_on stem_acc
+
+:le:*kanwbeu/s
+:no:*kanwb eus_ews masc suff_acc
+
+:le:*kapuai=os
+:aj:*kapuai os_h_on stem_acc
+
+:le:*kapuai=os
+:aj:*kapuai os_h_on stem_acc
+
+:le:*karkini/ths
+:no:*karkini_t hs_ou masc stem_acc
+
+:le:*karuneu/s
+:no:*karun eus_ews masc suff_acc
+
+:le:*kassai=os
+:aj:*kassai os_h_on stem_acc
+
+:le:*kasswpai=os
+:aj:*kasswpai os_h_on stem_acc
+
+:le:*kaukai=os
+:aj:*kaukai os_h_on stem_acc
+
+:le:*kenedai=os
+:aj:*kenedai os_h_on stem_acc
+
+:le:*khreu/s
+:no:*khr eus_ews masc suff_acc
+
+:le:*killai=os
+:aj:*killai os_h_on stem_acc
+
+:le:*kittieu/s
+:no:*kitti eus_ews masc suff_acc
+
+:le:*kleidhmi/dhs
+:no:*kleidhmid hs_ou masc stem_acc
+
+:le:*kodri/dhs
+:no:*kodrid hs_ou masc stem_acc
+
+:le:*kolluteu/s
+:no:*kollut eus_ews masc suff_acc
+
+:le:*kolwnaeu/s
+:no:*kolwna eus_ews masc suff_acc
+
+:le:*koqwki/dhs
+:no:*koqwkid hs_ou masc stem_acc
+
+:le:*kossai=os
+:aj:*kossai os_h_on stem_acc
+
+:le:*kthsiklei/dhs
+:no:*kthsikleid hs_ou masc stem_acc
+
+:le:*kudanti/dhs
+:no:*kudantid hs_ou masc stem_acc
+
+:le:*kurwni/dhs
+:no:*kurwnid hs_ou masc stem_acc
+
+:le:*kuxrei/dhs
+:no:*kuxreid hs_ou masc stem_acc
+
+:le:*kwrukai=os
+:aj:*kwrukai os_h_on stem_acc
+
+:le:*labai=os
+:aj:*labai os_h_on stem_acc
+
+:le:*laodikeu/s
+:no:*laodik eus_ews masc suff_acc
+
+:le:*lappai=os
+:aj:*lappai os_h_on stem_acc
+
+:le:*lebbai=os
+:aj:*lebbai os_h_on stem_acc
+
+:le:*leontopoli/ths
+:no:*leontopoli_t hs_ou masc stem_acc
+
+:le:*letrinai=os
+:aj:*letrinai os_h_on stem_acc
+
+:le:*leuei/ths
+:no:*leuei_t hs_ou masc stem_acc
+
+:le:*leui/ths
+:no:*leui_t hs_ou masc stem_acc
+
+:le:*leukonoeu/s
+:no:*leukono eus_ews masc suff_acc
+
+:le:*li)soni/dhs
+:no:*li)sonid hs_ou masc stem_acc
+
+:le:*lurnai=os
+:aj:*lurnai os_h_on stem_acc
+
+:le:*madai=os
+:aj:*madai os_h_on stem_acc
+
+:le:*magkai=os
+:aj:*magkai os_h_on stem_acc
+
+:le:*makabai=os
+:aj:*makabai os_h_on stem_acc
+
+:le:*makkabai=os
+:aj:*makkabai os_h_on stem_acc
+
+:le:*maqqai=os
+:aj:*maqqai os_h_on stem_acc
+
+:le:*mardoxai=os
+:aj:*mardoxai os_h_on stem_acc
+
+:le:*mazai=os
+:aj:*mazai os_h_on stem_acc
+
+:le:*mazai=os
+:aj:*mazai os_h_on stem_acc
+
+:le:*meiduli/dhs
+:no:*meidulid hs_ou masc stem_acc
+
+:le:*mela/nths
+:no:*melant hs_ou masc stem_acc
+
+:le:*melai=os
+:aj:*melai os_h_on stem_acc
+
+:le:*melitai=os
+:aj:*melitai os_h_on stem_acc
+
+:le:*meswgi/ths
+:no:*meswgi_t hs_ou masc stem_acc
+
+:le:*minai=os
+:aj:*minai os_h_on stem_acc
+
+:le:*mintournai=os
+:aj:*mintournai os_h_on stem_acc
+
+:le:*moqwnai=os
+:aj:*moqwnai os_h_on stem_acc
+
+:le:*motuai=os
+:aj:*motuai os_h_on stem_acc
+
+:le:*mulasseu/s
+:no:*mulass eus_ews masc suff_acc
+
+:le:*murai=os
+:aj:*murai os_h_on stem_acc
+
+:le:*mwmemfi/ths
+:no:*mwmemfi_t hs_ou masc stem_acc
+
+:le:*nabai=os
+:aj:*nabai os_h_on stem_acc
+
+:le:*nabatai=os
+:aj:*nabatai os_h_on stem_acc
+
+:le:*nabatai=os
+:aj:*nabatai os_h_on stem_acc
+
+:le:*nausiklei/dhs
+:no:*nausikleid hs_ou masc stem_acc
+
+:le:*nazwrai=os
+:aj:*nazwrai os_h_on stem_acc
+
+:le:*nikaeu/s
+:no:*nika eus_ews masc suff_acc
+
+:le:*nikeu/s
+:no:*nik eus_ews masc suff_acc
+
+:le:*niyai=os
+:aj:*niyai os_h_on stem_acc
+
+:le:*nusaeu/s
+:no:*nusa eus_ews masc suff_acc
+
+:le:*ou(dusseu/s
+:no:*ou(duss eus_ews masc suff_acc
+
+:le:*ou)akkai=os
+:aj:*ou)akkai os_h_on stem_acc
+
+:le:*padai=os
+:aj:*padai os_h_on stem_acc
+
+:le:*panqialai=os
+:aj:*panqialai os_h_on stem_acc
+
+:le:*panteu/s
+:no:*pant eus_ews masc suff_acc
+
+:le:*paprhmi/ths
+:no:*paprhmi_t hs_ou masc stem_acc
+
+:le:*parwrai=os
+:aj:*parwrai os_h_on stem_acc
+
+:le:*pellai=os
+:aj:*pellai os_h_on stem_acc
+
+:le:*pergai=os
+:aj:*pergai os_h_on stem_acc
+
+:le:*periqoi/dhs
+:no:*periqoid hs_ou masc stem_acc
+
+:le:*piqeu/s
+:no:*piq eus_ews masc suff_acc
+
+:le:*pitanai=os
+:aj:*pitanai os_h_on stem_acc
+
+:le:*plhrai=os
+:aj:*plhrai os_h_on stem_acc
+
+:le:*plwqeieu/s
+:no:*plwqei eus_ews masc suff_acc
+
+:le:*plwqeu/s
+:no:*plwq eus_ews masc suff_acc
+
+:le:*poleu/s
+:no:*pol eus_ews masc suff_acc
+
+:le:*prhsentai=os
+:aj:*prhsentai os_h_on stem_acc
+
+:le:*prini/dhs
+:no:*prinid hs_ou masc stem_acc
+
+:le:*proswpi/ths
+:no:*proswpi_t hs_ou masc stem_acc
+
+:le:*prousieu/s
+:no:*prousi eus_ews masc suff_acc
+
+:le:*prwtarxi/dhs
+:no:*prwtarxid hs_ou masc stem_acc
+
+:le:*ptolemaeu/s
+:no:*ptolema eus_ews masc suff_acc
+
+:le:*pudnai=os
+:aj:*pudnai os_h_on stem_acc
+
+:le:*pureti/dhs
+:no:*puretid hs_ou masc stem_acc
+
+:le:*purrai=os
+:aj:*purrai os_h_on stem_acc
+
+:le:*qaddai=os
+:aj:*qaddai os_h_on stem_acc
+
+:le:*qeai=os
+:aj:*qeai os_h_on stem_acc
+
+:le:*qeozoti/dhs
+:no:*qeozotid hs_ou masc stem_acc
+
+:le:*qhrai=os
+:aj:*qhrai os_h_on stem_acc
+
+:le:*qhrai=os
+:aj:*qhrai os_h_on stem_acc
+
+:le:*qhrippi/dhs
+:no:*qhrippid hs_ou masc stem_acc
+
+:le:*qh|bai=os
+:aj:*qh|bai os_h_on stem_acc
+
+:le:*qolemai=os
+:aj:*qolemai os_h_on stem_acc
+
+:le:*qolomai=os
+:aj:*qolomai os_h_on stem_acc
+
+:le:*qonkudi/dhs
+:no:*qonkudid hs_ou masc stem_acc
+
+:le:*qraswni/dhs
+:no:*qraswnid hs_ou masc stem_acc
+
+:le:*rwmai=os
+:aj:*rwmai os_h_on stem_acc
+
+:le:*sabai=os
+:aj:*sabai os_h_on stem_acc
+
+:le:*sabai=os
+:aj:*sabai os_h_on stem_acc
+
+:le:*sabbai=os
+:aj:*sabbai os_h_on stem_acc
+
+:le:*sapai=os
+:aj:*sapai os_h_on stem_acc
+
+:le:*sauni/ths
+:no:*sauni_t hs_ou masc stem_acc
+
+:le:*seghdai=os
+:aj:*seghdai os_h_on stem_acc
+
+:le:*seleukeu/s
+:no:*seleuk eus_ews masc suff_acc
+
+:le:*seqrwi/ths
+:no:*seqrwi_t hs_ou masc stem_acc
+
+:le:*serebai=os
+:aj:*serebai os_h_on stem_acc
+
+:le:*skambwni/dhs
+:no:*skambwnid hs_ou masc stem_acc
+
+:le:*skotousai=os
+:aj:*skotousai os_h_on stem_acc
+
+:le:*skotoussai=os
+:aj:*skotoussai os_h_on stem_acc
+
+:le:*skubali/ths
+:no:*skubali_t hs_ou masc stem_acc
+
+:le:*stageiri/ths
+:no:*stageiri_t hs_ou masc stem_acc
+
+:le:*stiboi/ths
+:no:*stiboi_t hs_ou masc stem_acc
+
+:le:*stirieu/s
+:no:*stiri eus_ews masc suff_acc
+
+:le:*stoixeu/s
+:no:*stoix eus_ews masc suff_acc
+
+:le:*sullai=os
+:aj:*sullai os_h_on stem_acc
+
+:le:*supalhtteu/s
+:no:*supalhtt eus_ews masc suff_acc
+
+:le:*swklei/dhs
+:no:*swkleid hs_ou masc stem_acc
+
+:le:*swlofa/nths
+:no:*swlofant hs_ou masc stem_acc
+
+:le:*swmarai=os
+:aj:*swmarai os_h_on stem_acc
+
+:le:*swpai=os
+:aj:*swpai os_h_on stem_acc
+
+:le:*tabai=os
+:aj:*tabai os_h_on stem_acc
+
+:le:*telmhsseu/s
+:no:*telmhss eus_ews masc suff_acc
+
+:le:*tiqoraieu/s
+:no:*tiqorai eus_ews masc suff_acc
+
+:le:*tiqoreu/s
+:no:*tiqor eus_ews masc suff_acc
+
+:le:*trikwnieu/s
+:no:*trikwni eus_ews masc suff_acc
+
+:le:*trixwneu/s
+:no:*trixwn eus_ews masc suff_acc
+
+:le:*trwadeu/s
+:no:*trwad eus_ews masc suff_acc
+
+:le:*tumfai=os
+:aj:*tumfai os_h_on stem_acc
+
+:le:*xemmi/ths
+:no:*xemmi_t hs_ou masc stem_acc
+
+:le:*xettai=os
+:aj:*xettai os_h_on stem_acc
+
+:le:*xouqai=os
+:aj:*xouqai os_h_on stem_acc
+
+:le:*xouqai=os
+:aj:*xouqai os_h_on stem_acc
+
+:le:*xousai=os
+:aj:*xousai os_h_on stem_acc
+
+:le:*zagklai=os
+:aj:*zagklai os_h_on stem_acc
+
+:le:*zagklai=os
+:aj:*zagklai os_h_on stem_acc
+
+:le:*zakxai=os
+:aj:*zakxai os_h_on stem_acc
+
+:le:*zarai=os
+:aj:*zarai os_h_on stem_acc
+
+:le:*zelei/ths
+:no:*zelei_t hs_ou masc stem_acc
