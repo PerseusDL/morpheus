@@ -1,0 +1,2657 @@
+## lemmas extracted algorithmically from upper case words with no analyses
+## in this method, we used heuristics to confirm
+## e.g., if we see poli/ths and poli/tou, we assume we have an hs_ou masc noun
+:le:*(/hrillos
+:no:*(hrill	os_ou masc
+
+
+:le:*(/irtios
+:no:*(irti	os_ou masc
+
+
+:le:*(age/polis
+:no:*(agepol	is_ews masc
+:no:*(agepol	is_idos fem
+
+
+:le:*(aghsi/loxos
+:no:*(aghsilox	os_ou masc
+
+
+:le:*(agno/filos
+:no:*(agnofil	os_ou masc
+
+
+:le:*(agnou/sios
+:no:*(agnousios	os_ou masc
+
+
+:le:*(ali/arxos
+:no:*(aliarx	os_ou masc
+
+
+:le:*(ebrw/n
+:no:*(ebrw	n_nos masc stem_acc
+
+
+:le:*(elew/n
+:no:*(elew	n_nos masc stem_acc
+
+
+:le:*(elki/as
+:no:*(elki	hs_ou masc stem_acc
+
+
+:le:*(ellanodikaiw/n
+:no:*(ellanodikaiw	n_nos masc stem_acc
+
+
+:le:*(ere/nnios
+:no:*(erennios	os_ou masc
+
+
+:le:*(ermi/as
+:no:*(ermi	hs_ou masc stem_acc
+
+
+:le:*(hgh/sippos
+:no:*(hghsipp	os_ou masc
+
+
+:le:*(hliopoli/ths
+:no:*(hliopoli_t	hs_ou masc stem_acc
+
+
+:le:*(ieremi/as
+:no:*(ieremi	hs_ou masc stem_acc
+
+
+:le:*(omolo/i+xos
+:no:*(omoloi+x	os_ou masc
+
+
+:le:*(orth/sios
+:no:*(orthsios	os_ou masc
+
+
+:le:*(orthsi/as
+:no:*(orthsi	hs_ou masc stem_acc
+
+
+:le:*(osti/lios
+:no:*(ostilios	os_ou masc
+
+
+:le:*(ragouh=los
+:no:*(ragouhl	os_ou masc stem_acc
+
+
+:le:*(raskou/polis
+:no:*(raskoupol	is_ews masc
+:no:*(raskoupol	is_idos fem
+
+
+:le:*(re/bilos
+:no:*(rebil	os_ou masc
+
+
+:le:*(re/mos
+:no:*(rem	os_ou masc
+
+
+:le:*(rh=glos
+:no:*(rhgl	os_ou masc stem_acc
+
+
+:le:*(robo/amos
+:no:*(roboam	os_ou masc
+
+
+:le:*(roisa/khs
+:no:*(roisak	hs_ou masc stem_acc
+
+
+:le:*(rombi/ths
+:no:*(rombi_t	hs_ou masc stem_acc
+
+
+:le:*(rou/brios
+:no:*(roubrios	os_ou masc
+
+
+:le:*(rou=mos
+:no:*(rou_m	os_ou masc stem_acc
+
+
+:le:*(routi/lios
+:no:*(routilios	os_ou masc
+
+
+:le:*(ru/ndakos
+:no:*(rundak	os_ou masc
+
+
+:le:*(rw/skios
+:no:*(rwskios	os_ou masc
+
+
+:le:*(ua/rwtis
+:no:*(uarwt	is_ews masc
+:no:*(uarwt	is_idos fem
+
+
+:le:*(ublh/sios
+:no:*(ublhsios	os_ou masc
+
+
+:le:*(urw/dhs
+:no:*(urwd	hs_ou masc stem_acc
+
+
+:le:*(wra/tios
+:no:*(wratios	os_ou masc
+
+
+:le:*)/abelos
+:no:*)abel	os_ou masc
+
+
+:le:*)/adados
+:no:*)adad	os_ou masc
+
+
+:le:*)/aderos
+:no:*)ader	os_ou masc
+
+
+:le:*)/ambrakos
+:no:*)ambrak	os_ou masc
+
+
+:le:*)/ambrossos
+:no:*)ambross	os_ou masc
+
+
+:le:*)/asanos
+:no:*)asan	os_ou masc
+
+
+:le:*)/asellos
+:no:*)asell	os_ou masc
+
+
+:le:*)/askalis
+:no:*)askal	is_ews masc
+:no:*)askal	is_idos fem
+
+
+:le:*)/attios
+:no:*)atti	os_ou masc
+
+
+:le:*)/axaros
+:no:*)axar	os_ou masc
+
+
+:le:*)/axazos
+:no:*)axaz	os_ou masc
+
+
+:le:*)/ebousos
+:no:*)ebous	os_ou masc
+
+
+:le:*)/erutos
+:no:*)erut	os_ou masc
+
+
+:le:*)/hlanos
+:no:*)hlan	os_ou masc
+
+
+:le:*)/isakos
+:no:*)isak	os_ou masc
+
+
+:le:*)/iswkos
+:no:*)iswk	os_ou masc
+
+
+:le:*)/ogxhsmos
+:no:*)ogxhsm	os_ou masc
+
+
+:le:*)/oppios
+:no:*)oppi	os_ou masc
+
+
+:le:*)abdaga/shs
+:no:*)abdagas	hs_ou masc stem_acc
+
+
+:le:*)abdh/mounos
+:no:*)abdhmoun	os_ou masc
+
+
+:le:*)abe/lhs
+:no:*)abel	hs_ou masc stem_acc
+
+
+:le:*)abennh/rigos
+:no:*)abennhrig	os_ou masc
+
+
+:le:*)abennh=ros
+:no:*)abennhr	os_ou masc stem_acc
+
+
+:le:*)abia/qaros
+:no:*)abiaqar	os_ou masc
+
+
+:le:*)abime/lexos
+:no:*)abimelex	os_ou masc
+
+
+:le:*)abudw/n
+:no:*)abudw	n_nos masc stem_acc
+
+
+:le:*)adrano/dwros
+:no:*)adranodwr	os_ou masc
+
+
+:le:*)adw/ramos
+:no:*)adwram	os_ou masc
+
+
+:le:*)afra/nios
+:no:*)afranios	os_ou masc
+
+
+:le:*)agrippi=nos
+:no:*)agrippi_n	os_ou masc stem_acc
+
+
+:le:*)agxa/rios
+:no:*)agxari	os_ou masc
+
+
+:le:*)akarw/n
+:no:*)akarw	n_nos masc stem_acc
+
+
+:le:*)akkarw/n
+:no:*)akkarw	n_nos masc stem_acc
+
+
+:le:*)akoui=nos
+:no:*)akoui_n	os_ou masc stem_acc
+
+
+:le:*)akro/lissos
+:no:*)akroliss	os_ou masc
+
+
+:le:*)aku/lios
+:no:*)akuli	os_ou masc
+
+
+:le:*)aku/llios
+:no:*)akulli	os_ou masc
+
+
+:le:*)alazo/nios
+:no:*)alazoni	os_ou masc
+
+
+:le:*)albi/nios
+:no:*)albinios	os_ou masc
+
+
+:le:*)alecandro/polis
+:no:*)alecandropol	is_ews masc
+:no:*)alecandropol	is_idos fem
+
+
+:le:*)aleci/damos
+:no:*)alecidam	os_ou masc
+
+
+:le:*)aleci/neios
+:no:*)alecinei	os_ou masc
+
+
+:le:*)alka/nhs
+:no:*)alkan	hs_ou masc stem_acc
+
+
+:le:*)alki/qos
+:no:*)alkiq	os_ou masc
+
+
+:le:*)ama/tios
+:no:*)amatios	os_ou masc
+
+
+:le:*)amalhki/ths
+:no:*)amalhki_t	hs_ou masc stem_acc
+
+
+:le:*)amara/mhs
+:no:*)amaram	hs_ou masc stem_acc
+
+
+:le:*)amari=nos
+:no:*)amari_n	os_ou masc stem_acc
+
+
+:le:*)amasi/as
+:no:*)amasi	hs_ou masc stem_acc
+
+
+:le:*)ame/nwfis
+:no:*)amenwf	is_ews masc
+:no:*)amenwf	is_idos fem
+
+
+:le:*)amfi/damos
+:no:*)amfidam	os_ou masc
+
+
+:le:*)amfia/rhos
+:no:*)amfiarh	os_ou masc
+
+
+:le:*)ammw/n
+:no:*)ammw	n_nos masc stem_acc
+
+
+:le:*)amnw/n
+:no:*)amnw	n_nos masc stem_acc
+
+
+:le:*)amo/llios
+:no:*)amollios	os_ou masc
+
+
+:le:*)amou/lios
+:no:*)amoulios	os_ou masc
+
+
+:le:*)ana/nhlos
+:no:*)ananhl	os_ou masc
+
+
+:le:*)anhroe/sths
+:no:*)anhroest	hs_ou masc stem_acc
+
+
+:le:*)ani/kios
+:no:*)anikios	os_ou masc
+
+
+:le:*)anti/tauros
+:no:*)antitaur	os_ou masc
+
+
+:le:*)antu/llios
+:no:*)antullios	os_ou masc
+
+
+:le:*)antu/llos
+:no:*)antull	os_ou masc
+
+
+:le:*)apellikw/n
+:no:*)apellikw	n_nos masc stem_acc
+
+
+:le:*)apenni=nos
+:no:*)apenni_n	os_ou masc stem_acc
+
+
+:le:*)apollodw/reios
+:no:*)apollodwrei	os_ou masc
+
+
+:le:*)apollwnia=tis
+:no:*)apollwnia_t	is_ews masc stem_acc
+:no:*)apollwnia_t	is_idos fem stem_acc
+
+
+:le:*)apoulh/ios
+:no:*)apoulhios	os_ou masc
+
+
+:le:*)ara/nhs
+:no:*)aran	hs_ou masc stem_acc
+
+
+:le:*)aramaqw/n
+:no:*)aramaqw	n_nos masc stem_acc
+
+
+:le:*)arfaca/dhs
+:no:*)arfacad	hs_ou masc stem_acc
+
+
+:le:*)arhci/damos
+:no:*)arhcidam	os_ou masc
+
+
+:le:*)ari/bazos
+:no:*)aribaz	os_ou masc
+
+
+:le:*)ario/bistos
+:no:*)ariobist	os_ou masc
+
+
+:le:*)ario/xhs
+:no:*)ariox	hs_ou masc stem_acc
+
+
+:le:*)aristo/damos
+:no:*)aristodam	os_ou masc
+
+
+:le:*)arko/nhsos
+:no:*)arkonhs	os_ou masc
+
+
+:le:*)armaqw/n
+:no:*)armaqw	n_nos masc stem_acc
+
+
+:le:*)arnw/n
+:no:*)arnw	n_nos masc stem_acc
+
+
+:le:*)arou/ntios
+:no:*)arountios	os_ou masc
+
+
+:le:*)arra/nhs
+:no:*)arran	hs_ou masc stem_acc
+
+
+:le:*)arrou/ntios
+:no:*)arrounti	os_ou masc
+
+
+:le:*)arsaki/as
+:no:*)arsaki	hs_ou masc stem_acc
+
+
+:le:*)artafe/rnhs
+:no:*)artafern	hs_ou masc stem_acc
+
+
+:le:*)artage/rshs
+:no:*)artagers	hs_ou masc stem_acc
+
+
+:le:*)artapa/ths
+:no:*)artapat	hs_ou masc stem_acc
+
+
+:le:*)artoce/rchs
+:no:*)artocerc	hs_ou masc stem_acc
+
+
+:le:*)arxe/ptolis
+:no:*)arxeptol	is_ews masc
+:no:*)arxeptol	is_idos fem
+
+
+:le:*)asa/hlos
+:no:*)asahl	os_ou masc
+
+
+:le:*)asfalti=tis
+:no:*)asfalti_t	is_ews masc stem_acc
+:no:*)asfalti_t	is_idos fem stem_acc
+
+
+:le:*)asi/nios
+:no:*)asinios	os_ou masc
+
+
+:le:*)asi/nnios
+:no:*)asinni	os_ou masc
+
+
+:le:*)ata/buris
+:no:*)atabur	is_ews masc
+:no:*)atabur	is_idos fem
+
+
+:le:*)ath/ios
+:no:*)athi	os_ou masc
+
+
+:le:*)ati/llios
+:no:*)atillios	os_ou masc
+
+
+:le:*)atti/as
+:no:*)atti	hs_ou masc stem_acc
+
+
+:le:*)atti/dios
+:no:*)attidios	os_ou masc
+
+
+:le:*)axa/zhs
+:no:*)axaz	hs_ou masc stem_acc
+
+
+:le:*)axelw=os
+:no:*)axelw	os_ou masc stem_acc
+
+
+:le:*)axi/twbos
+:no:*)axitwb	os_ou masc
+
+
+:le:*)axito/felos
+:no:*)axitofel	os_ou masc
+
+
+:le:*)axo/nios
+:no:*)axonios	os_ou masc
+
+
+:le:*)aza/hlos
+:no:*)azahl	os_ou masc
+
+
+:le:*)ebrw/n
+:no:*)ebrw	n_nos masc stem_acc
+
+
+:le:*)edekw/n
+:no:*)edekw	n_nos masc stem_acc
+
+
+:le:*)efra/nhs
+:no:*)efran	hs_ou masc stem_acc
+
+
+:le:*)eglw/n
+:no:*)eglw	n_nos masc stem_acc
+
+
+:le:*)egna/tios
+:no:*)egnatios	os_ou masc
+
+
+:le:*)egnati/as
+:no:*)egnati	hs_ou masc stem_acc
+
+
+:le:*)eposo/gnatos
+:no:*)eposognat	os_ou masc
+
+
+:le:*)erasistra/teios
+:no:*)erasistratei	os_ou masc
+
+
+:le:*)ere/nnios
+:no:*)erennios	os_ou masc
+
+
+:le:*)esrw/n
+:no:*)esrw	n_nos masc stem_acc
+
+
+:le:*)ezeki/as
+:no:*)ezeki	hs_ou masc stem_acc
+
+
+:le:*)htei=os
+:no:*)htei_	os_ou masc stem_acc
+
+
+:le:*)ia/keimos
+:no:*)iakeim	os_ou masc
+
+
+:le:*)ia/kimos
+:no:*)iakim	os_ou masc
+
+
+:le:*)ia/redos
+:no:*)iared	os_ou masc
+
+
+:le:*)ibrw/n
+:no:*)ibrw	n_nos masc stem_acc
+
+
+:le:*)ie/bwsqos
+:no:*)iebwsq	os_ou masc
+
+
+:le:*)ieremi/as
+:no:*)ieremi	hs_ou masc stem_acc
+
+
+:le:*)iexoni/as
+:no:*)iexoni	hs_ou masc stem_acc
+
+
+:le:*)ifia/dhs
+:no:*)ifiad	hs_ou masc stem_acc
+
+
+:le:*)ike/lios
+:no:*)ikeli	os_ou masc
+
+
+:le:*)iskariw/ths
+:no:*)iskariwt	hs_ou masc stem_acc
+
+
+:le:*)isma/hlos
+:no:*)ismahl	os_ou masc
+
+
+:le:*)ismah=los
+:no:*)ismahl	os_ou masc stem_acc
+
+
+:le:*)issaxa/rhs
+:no:*)issaxar	hs_ou masc stem_acc
+
+
+:le:*)isxo/laos
+:no:*)isxola	os_ou masc
+
+
+:le:*)iw/asos
+:no:*)iwas	os_ou masc
+
+
+:le:*)iw/azos
+:no:*)iwaz	os_ou masc
+
+
+:le:*)iw/zaros
+:no:*)iwzar	os_ou masc
+
+
+:le:*)iwa/dhs
+:no:*)iwad	hs_ou masc stem_acc
+
+
+:le:*)iwa/keimos
+:no:*)iwakeim	os_ou masc
+
+
+:le:*)iwa/shs
+:no:*)iwas	hs_ou masc stem_acc
+
+
+:le:*)iwa/zhs
+:no:*)iwaz	hs_ou masc stem_acc
+
+
+:le:*)iwqa/mhs
+:no:*)iwqam	hs_ou masc stem_acc
+
+
+:le:*)iwsa/dakos
+:no:*)iwsadak	os_ou masc
+
+
+:le:*)iwsa/fatos
+:no:*)iwsafat	os_ou masc
+
+
+:le:*)iwsafa/ths
+:no:*)iwsafat	hs_ou masc stem_acc
+
+
+:le:*)iwsi/as
+:no:*)iwsi	hs_ou masc stem_acc
+
+
+:le:*)ofe/llios
+:no:*)ofellios	os_ou masc
+
+
+:le:*)oktaou/i+os
+:no:*)oktaoui+	os_ou masc
+
+
+:le:*)olu/mpixos
+:no:*)olumpix	os_ou masc
+
+
+:le:*)olusipw/n
+:no:*)olusipw	n_nos masc stem_acc
+
+
+:le:*)ombri/kios
+:no:*)ombrikios	os_ou masc
+
+
+:le:*)opi/mios
+:no:*)opimios	os_ou masc
+
+
+:le:*)oro/bazos
+:no:*)orobaz	os_ou masc
+
+
+:le:*)otaki/lios
+:no:*)otakili	os_ou masc
+
+
+:le:*)oua=ros
+:no:*)oua_r	os_ou masc stem_acc
+
+
+:le:*)ouenti/dios
+:no:*)ouentidios	os_ou masc
+
+
+:le:*)ouibw/n
+:no:*)ouibw	n_nos masc stem_acc
+
+
+:le:*)oxozi/as
+:no:*)oxozi	hs_ou masc stem_acc
+
+
+:le:*)wbedi/as
+:no:*)wbedi	hs_ou masc stem_acc
+
+
+:le:*)wbh/dhs
+:no:*)wbhd	hs_ou masc stem_acc
+
+
+:le:*au)/aros
+:no:*au)ar	os_ou masc
+
+
+:le:*au)eniw/n
+:no:*au)eniw	n_nos masc stem_acc
+
+
+:le:*au)fi/dios
+:no:*au)fidios	os_ou masc
+
+
+:le:*au)rh/lios
+:no:*au)rhli	os_ou masc
+
+
+:le:*ba/lakos
+:no:*balak	os_ou masc
+
+
+:le:*ba/lamos
+:no:*balam	os_ou masc
+
+
+:le:*ba/ndios
+:no:*bandios	os_ou masc
+
+
+:le:*ba/sillos
+:no:*basill	os_ou masc
+
+
+:le:*ba/silos
+:no:*basil	os_ou masc
+
+
+:le:*ba/ttalos
+:no:*battal	os_ou masc
+
+
+:le:*babu/lw/n
+:no:*babu/lw	n_nos masc stem_acc
+
+
+:le:*bai/bios
+:no:*baibios	os_ou masc
+
+
+:le:*balta/saros
+:no:*baltasar	os_ou masc
+
+
+:le:*banai/as
+:no:*banai	hs_ou masc stem_acc
+
+
+:le:*baraxi/as
+:no:*baraxi	hs_ou masc stem_acc
+
+
+:le:*barba/tios
+:no:*barbatios	os_ou masc
+
+
+:le:*bati/nios
+:no:*batinios	os_ou masc
+
+
+:le:*bazafra/nhs
+:no:*bazafran	hs_ou masc stem_acc
+
+
+:le:*bee/rzelos
+:no:*beerzel	os_ou masc
+
+
+:le:*beliw/n
+:no:*beliw	n_nos masc stem_acc
+
+
+:le:*benti/dios
+:no:*bentidios	os_ou masc
+
+
+:le:*bese/bhlos
+:no:*besebhl	os_ou masc
+
+
+:le:*bhrisa/dhs
+:no:*bhrisad	hs_ou masc stem_acc
+
+
+:le:*bhsti/as
+:no:*bhsti	hs_ou masc stem_acc
+
+
+:le:*bi/lios
+:no:*bili	os_ou masc
+
+
+:le:*bi/toitos
+:no:*bitoit	os_ou masc
+
+
+:le:*bih/sios
+:no:*bihsi	os_ou masc
+
+
+:le:*bla/tios
+:no:*blatios	os_ou masc
+
+
+:le:*blo/ssios
+:no:*blossios	os_ou masc
+
+
+:le:*bo/azos
+:no:*boaz	os_ou masc
+
+
+:le:*bo/rkios
+:no:*borki	os_ou masc
+
+
+:le:*bokw/nios
+:no:*bokwnios	os_ou masc
+
+
+:le:*bologe/shs
+:no:*bologes	hs_ou masc stem_acc
+
+
+:le:*bolou/mnios
+:no:*boloumnios	os_ou masc
+
+
+:le:*boutew/n
+:no:*boutew	n_nos masc stem_acc
+
+
+:le:*bow/zhs
+:no:*bowz	hs_ou masc stem_acc
+
+
+:le:*braxu/llhs
+:no:*braxull	hs_ou masc stem_acc
+
+
+:le:*brito/maris
+:no:*britomar	is_ews masc
+:no:*britomar	is_idos fem
+
+
+:le:*bw=lis
+:no:*bwl	is_ews masc stem_acc
+:no:*bwl	is_idos fem stem_acc
+
+
+:le:*ckiroforiw/n
+:no:*ckiroforiw	n_nos masc stem_acc
+
+
+:le:*da/ndamis
+:no:*dandam	is_ews masc
+:no:*dandam	is_idos fem
+
+
+:le:*da/oxos
+:no:*daox	os_ou masc
+
+
+:le:*da=los
+:no:*da_l	os_ou masc stem_acc
+
+
+:le:*dagw/n
+:no:*dagw	n_nos masc stem_acc
+
+
+:le:*damo/fantos
+:no:*damofant	os_ou masc
+
+
+:le:*daqa/mhs
+:no:*daqam	hs_ou masc stem_acc
+
+
+:le:*de/kimos
+:no:*dekim	os_ou masc
+
+
+:le:*de/lfis
+:no:*delf	is_ews masc
+:no:*delf	is_idos fem
+
+
+:le:*de/llios
+:no:*dellios	os_ou masc
+
+
+:le:*dei/dios
+:no:*deidios	os_ou masc
+
+
+:le:*dekai/neos
+:no:*dekaine	os_ou masc
+
+
+:le:*deki/dios
+:no:*dekidi	os_ou masc
+
+
+:le:*dhma/retos
+:no:*dhmaret	os_ou masc
+
+
+:le:*dome/tios
+:no:*dometios	os_ou masc
+
+
+:le:*du/rraxos
+:no:*durrax	os_ou masc
+
+
+:le:*du/teutos
+:no:*duteut	os_ou masc
+
+
+:le:*dw/hgos
+:no:*dwhg	os_ou masc
+
+
+:le:*ei)/rwmos
+:no:*ei)rwm	os_ou masc
+
+
+:le:*eu)/aifnos
+:no:*eu)aifn	os_ou masc
+
+
+:le:*eu)/ergos
+:no:*eu)erg	os_ou masc
+
+
+:le:*eu)/rwmos
+:no:*eu)rwm	os_ou masc
+
+
+:le:*eu)/tuxos
+:no:*eu)tux	os_ou masc
+
+
+:le:*eu)ce/nippos
+:no:*eu)cenipp	os_ou masc
+
+
+:le:*eu)fro/nios
+:no:*eu)fronios	os_ou masc
+
+
+:le:*eu)qu/fhmos
+:no:*eu)qufhm	os_ou masc
+
+
+:le:*eu)sebew/n
+:no:*eu)sebew	n_nos masc stem_acc
+
+
+:le:*fa/batos
+:no:*fabat	os_ou masc
+
+
+:le:*fa/legos
+:no:*faleg	os_ou masc
+
+
+:le:*fa/lernos
+:no:*falern	os_ou masc
+
+
+:le:*fa/nnios
+:no:*fannios	os_ou masc
+
+
+:le:*fa/ulos
+:no:*faul	os_ou masc
+
+
+:le:*fa=dos
+:no:*fa_d	os_ou masc stem_acc
+
+
+:le:*fabri/kios
+:no:*fabriki	os_ou masc
+
+
+:le:*fai/stios
+:no:*faistios	os_ou masc
+
+
+:le:*faisti/as
+:no:*faisti	hs_ou masc stem_acc
+
+
+:le:*faistu/los
+:no:*faistul	os_ou masc
+
+
+:le:*fake/as
+:no:*fake	hs_ou masc stem_acc
+
+
+:le:*faleri=nos
+:no:*faleri_n	os_ou masc stem_acc
+
+
+:le:*fame/as
+:no:*fame	hs_ou masc stem_acc
+
+
+:le:*faraw/n
+:no:*faraw	n_nos masc stem_acc
+
+
+:le:*faraw/qhs
+:no:*farawq	hs_ou masc stem_acc
+
+
+:le:*fau=stos
+:no:*fau_st	os_ou masc stem_acc
+
+
+:le:*faw/nios
+:no:*fawnios	os_ou masc
+
+
+:le:*fazhmw/n
+:no:*fazhmw	n_nos masc stem_acc
+
+
+:le:*fazhmwni=tis
+:no:*fazhmwni_t	is_ews masc stem_acc
+:no:*fazhmwni_t	is_idos fem stem_acc
+
+
+:le:*febrouari/as
+:no:*febrouari	hs_ou masc stem_acc
+
+
+:le:*fh=stos
+:no:*fhst	os_ou masc stem_acc
+
+
+:le:*filhmoni/dhs
+:no:*filhmonid	hs_ou masc stem_acc
+
+
+:le:*filwta/dhs
+:no:*filwtad	hs_ou masc stem_acc
+
+
+:le:*finee/shs
+:no:*finees	hs_ou masc stem_acc
+
+
+:le:*fla/uios
+:no:*flaui	os_ou masc
+
+
+:le:*flamini=nos
+:no:*flamini_n	os_ou masc stem_acc
+
+
+:le:*flau/ios
+:no:*flauios	os_ou masc
+
+
+:le:*fo/louios
+:no:*foloui	os_ou masc
+
+
+:le:*folou/ios
+:no:*folouios	os_ou masc
+
+
+:le:*fonth/ios
+:no:*fonthi	os_ou masc
+
+
+:le:*fou/fios
+:no:*foufios	os_ou masc
+
+
+:le:*fou/louios
+:no:*fouloui	os_ou masc
+
+
+:le:*fou/rnios
+:no:*fournios	os_ou masc
+
+
+:le:*fraa/ths
+:no:*fraat	hs_ou masc stem_acc
+
+
+:le:*fraata/khs
+:no:*fraatak	hs_ou masc stem_acc
+
+
+:le:*fw/kritos
+:no:*fwkrit	os_ou masc
+
+
+:le:*ga/dhs
+:no:*gad	hs_ou masc stem_acc
+
+
+:le:*ga/llios
+:no:*gallios	os_ou masc
+
+
+:le:*gabaqw/n
+:no:*gabaqw	n_nos masc stem_acc
+
+
+:le:*gadali/as
+:no:*gadali	hs_ou masc stem_acc
+
+
+:le:*galli/as
+:no:*galli	hs_ou masc stem_acc
+
+
+:le:*garsu/hris
+:no:*garsuhr	is_ews masc
+:no:*garsuhr	is_idos fem
+
+
+:le:*gau=dos
+:no:*gau_d	os_ou masc stem_acc
+
+
+:le:*gazhlw/n
+:no:*gazhlw	n_nos masc stem_acc
+
+
+:le:*ge/llios
+:no:*gellios	os_ou masc
+
+
+:le:*ge/mellos
+:no:*gemell	os_ou masc
+
+
+:le:*ge/nqios
+:no:*genqios	os_ou masc
+
+
+:le:*ge/ssios
+:no:*gessios	os_ou masc
+
+
+:le:*gedew/n
+:no:*gedew	n_nos masc stem_acc
+
+
+:le:*gemi/nios
+:no:*geminios	os_ou masc
+
+
+:le:*gergi/qios
+:no:*gergiqi	os_ou masc
+
+
+:le:*gh=rsos
+:no:*ghrs	os_ou masc stem_acc
+
+
+:le:*gi/gis
+:no:*gig	is_ews masc
+:no:*gig	is_idos fem
+
+
+:le:*gibrw/n
+:no:*gibrw	n_nos masc stem_acc
+
+
+:le:*goli/aqos
+:no:*goliaq	os_ou masc
+
+
+:le:*golia/qhs
+:no:*goliaq	hs_ou masc stem_acc
+
+
+:le:*golo/sshs
+:no:*goloss	hs_ou masc stem_acc
+
+
+:le:*gorgu/los
+:no:*gorgul	os_ou masc
+
+
+:le:*gra/gxos
+:no:*gragx	os_ou masc
+
+
+:le:*gra/nios
+:no:*grani	os_ou masc
+
+
+:le:*gu=lis
+:no:*gu_l	is_ews masc stem_acc
+:no:*gu_l	is_idos fem stem_acc
+
+
+:le:*gurtw/n
+:no:*gurtw	n_nos masc stem_acc
+
+
+:le:*ka/fauros
+:no:*kafaur	os_ou masc
+
+
+:le:*ka/fis
+:no:*kaf	is_ews masc
+:no:*kaf	is_idos fem
+
+
+:le:*ka/is
+:no:*ka	is_ews masc
+:no:*ka	is_idos fem
+
+
+:le:*ka/llaros
+:no:*kallar	os_ou masc
+
+
+:le:*ka/rmhlos
+:no:*karmhl	os_ou masc
+
+
+:le:*kafisi/as
+:no:*kafisi	hs_ou masc stem_acc
+
+
+:le:*kai/lios
+:no:*kailios	os_ou masc
+
+
+:le:*kaidi/kios
+:no:*kaidikios	os_ou masc
+
+
+:le:*kaininh/ths
+:no:*kaininht	hs_ou masc stem_acc
+
+
+:le:*kaise/nnios
+:no:*kaisennios	os_ou masc
+
+
+:le:*kaish/tios
+:no:*kaishti	os_ou masc
+
+
+:le:*kaloui/sios
+:no:*kalouisios	os_ou masc
+
+
+:le:*kalpou/rnios
+:no:*kalpournios	os_ou masc
+
+
+:le:*kalpourni/as
+:no:*kalpourni	hs_ou masc stem_acc
+
+
+:le:*kambu/los
+:no:*kambul	os_ou masc
+
+
+:le:*kapetwli=nos
+:no:*kapetwli_n	os_ou masc stem_acc
+
+
+:le:*kapitwli=nos
+:no:*kapitwli_n	os_ou masc stem_acc
+
+
+:le:*karsoulh/ios
+:no:*karsoulhios	os_ou masc
+
+
+:le:*kastalw/n
+:no:*kastalw	n_nos masc stem_acc
+
+
+:le:*kastlw/n
+:no:*kastlw	n_nos masc stem_acc
+
+
+:le:*kastolw/n
+:no:*kastolw	n_nos masc stem_acc
+
+
+:le:*ke/qhgos
+:no:*keqhg	os_ou masc
+
+
+:le:*kedrw/n
+:no:*kedrw	n_nos masc stem_acc
+
+
+:le:*keki/lios
+:no:*kekili	os_ou masc
+
+
+:le:*kemme/nhs
+:no:*kemmen	hs_ou masc stem_acc
+
+
+:le:*kerbh/sios
+:no:*kerbhsi	os_ou masc
+
+
+:le:*khfisia/dhs
+:no:*khfisiad	hs_ou masc stem_acc
+
+
+:le:*ki/mbros
+:no:*kimbr	os_ou masc
+
+
+:le:*kiggw/nios
+:no:*kiggwnios	os_ou masc
+
+
+:le:*klei/nios
+:no:*kleini	os_ou masc
+
+
+:le:*kloe/ntios
+:no:*kloentios	os_ou masc
+
+
+:le:*kloi/lios
+:no:*kloilios	os_ou masc
+
+
+:le:*klou/ios
+:no:*kloui	os_ou masc
+
+
+:le:*knakiw/n
+:no:*knakiw	n_nos masc stem_acc
+
+
+:le:*knw/sios
+:no:*knwsi	os_ou masc
+
+
+:le:*knw/ssios
+:no:*knwssios	os_ou masc
+
+
+:le:*ko/klios
+:no:*kokli	os_ou masc
+
+
+:le:*ko/lapis
+:no:*kolap	is_ews masc
+:no:*kolap	is_idos fem
+
+
+:le:*koi+/ntios
+:no:*koi+nti	os_ou masc
+
+
+:le:*koi/+nktios
+:no:*koi+nkti	os_ou masc
+
+
+:le:*koi/+ntios
+:no:*koi+nti	os_ou masc
+
+
+:le:*kokkh/ios
+:no:*kokkhios	os_ou masc
+
+
+:le:*koni/storgis
+:no:*konistorg	is_ews masc
+:no:*konistorg	is_idos fem
+
+
+:le:*konsi/dios
+:no:*konsidios	os_ou masc
+
+
+:le:*korbilw/n
+:no:*korbilw	n_nos masc stem_acc
+
+
+:le:*kore/as
+:no:*kore	hs_ou masc stem_acc
+
+
+:le:*kornifi/kios
+:no:*kornifikios	os_ou masc
+
+
+:le:*koskw/nios
+:no:*koskwni	os_ou masc
+
+
+:le:*kossi/nios
+:no:*kossini	os_ou masc
+
+
+:le:*kosto/baros
+:no:*kostobar	os_ou masc
+
+
+:le:*kou/spios
+:no:*kouspios	os_ou masc
+
+
+:le:*koua/rios
+:no:*kouarios	os_ou masc
+
+
+:le:*kouadra=tos
+:no:*kouadra_t	os_ou masc stem_acc
+
+
+:le:*koullew/n
+:no:*koullew	n_nos masc stem_acc
+
+
+:le:*kranw/n
+:no:*kranw	n_nos masc stem_acc
+
+
+:le:*krassi/nios
+:no:*krassini	os_ou masc
+
+
+:le:*kremmuw/n
+:no:*kremmuw	n_nos masc stem_acc
+
+
+:le:*kremw/n
+:no:*kremw	n_nos masc stem_acc
+
+
+:le:*kri/mhsos
+:no:*krimhs	os_ou masc
+
+
+:le:*kri/spos
+:no:*krisp	os_ou masc
+
+
+:le:*kri=nis
+:no:*kri_n	is_ews masc stem_acc
+:no:*kri_n	is_idos fem stem_acc
+
+
+:le:*kri=sos
+:no:*kri_s	os_ou masc stem_acc
+
+
+:le:*krispi=nos
+:no:*krispi_n	os_ou masc stem_acc
+
+
+:le:*kritw/nios
+:no:*kritwnios	os_ou masc
+
+
+:le:*kuintili/as
+:no:*kuintili	hs_ou masc stem_acc
+
+
+:le:*kuri/nios
+:no:*kurinios	os_ou masc
+
+
+:le:*kuri=nos
+:no:*kuri_n	os_ou masc stem_acc
+
+
+:le:*kwpw/nios
+:no:*kwpwnios	os_ou masc
+
+
+:le:*la/banos
+:no:*laban	os_ou masc
+
+
+:le:*la/mexos
+:no:*lamex	os_ou masc
+
+
+:le:*la/qouros
+:no:*laqour	os_ou masc
+
+
+:le:*la/rkios
+:no:*larkios	os_ou masc
+
+
+:le:*la/zaros
+:no:*lazar	os_ou masc
+
+
+:le:*labew/n
+:no:*labew	n_nos masc stem_acc
+
+
+:le:*lafrh/nios
+:no:*lafrhnios	os_ou masc
+
+
+:le:*laitw/rios
+:no:*laitwri	os_ou masc
+
+
+:le:*laouini/as
+:no:*laouini	hs_ou masc stem_acc
+
+
+:le:*lari/sios
+:no:*larisi	os_ou masc
+
+
+:le:*larw/nios
+:no:*larwnios	os_ou masc
+
+
+:le:*leu/koullos
+:no:*leukoull	os_ou masc
+
+
+:le:*leu=ktros
+:no:*leu_ktr	os_ou masc stem_acc
+
+
+:le:*leukwni/dhs
+:no:*leukwnid	hs_ou masc stem_acc
+
+
+:le:*lew/stratos
+:no:*lewstrat	os_ou masc
+
+
+:le:*libi/as
+:no:*libi	hs_ou masc stem_acc
+
+
+:le:*liga/rios
+:no:*ligarios	os_ou masc
+
+
+:le:*liki/nnios
+:no:*likinnios	os_ou masc
+
+
+:le:*likinni/as
+:no:*likinni	hs_ou masc stem_acc
+
+
+:le:*lioui/as
+:no:*lioui	hs_ou masc stem_acc
+
+
+:le:*lokrh/tios
+:no:*lokrhtios	os_ou masc
+
+
+:le:*lokri=nos
+:no:*lokri_n	os_ou masc stem_acc
+
+
+:le:*lou=ppos
+:no:*lou_pp	os_ou masc stem_acc
+
+
+:le:*louki/lios
+:no:*loukili	os_ou masc
+
+
+:le:*loukou/llos
+:no:*loukoull	os_ou masc
+
+
+:le:*louta/tios
+:no:*loutatios	os_ou masc
+
+
+:le:*lukou/rgeios
+:no:*lukourgei	os_ou masc
+
+
+:le:*luta/tios
+:no:*lutatios	os_ou masc
+
+
+:le:*ma/gios
+:no:*magi	os_ou masc
+
+
+:le:*ma/rsos
+:no:*mars	os_ou masc
+
+
+:le:*ma/rullos
+:no:*marull	os_ou masc
+
+
+:le:*ma/xeiros
+:no:*maxeir	os_ou masc
+
+
+:le:*ma=gnos
+:no:*ma_gn	os_ou masc stem_acc
+
+
+:le:*mada/nhs
+:no:*madan	hs_ou masc stem_acc
+
+
+:le:*magki=nos
+:no:*magki_n	os_ou masc stem_acc
+
+
+:le:*maisa/dhs
+:no:*maisad	hs_ou masc stem_acc
+
+
+:le:*malah=los
+:no:*malahl	os_ou masc stem_acc
+
+
+:le:*malaw/n
+:no:*malaw	n_nos masc stem_acc
+
+
+:le:*mana/hmos
+:no:*manahm	os_ou masc
+
+
+:le:*mando/nios
+:no:*mandonios	os_ou masc
+
+
+:le:*maneqw/n
+:no:*maneqw	n_nos masc stem_acc
+
+
+:le:*manw/xhs
+:no:*manwx	hs_ou masc stem_acc
+
+
+:le:*maqqi/as
+:no:*maqqi	hs_ou masc stem_acc
+
+
+:le:*marfada/ths
+:no:*marfadat	hs_ou masc stem_acc
+
+
+:le:*markelli=nos
+:no:*markelli_n	os_ou masc stem_acc
+
+
+:le:*masana/sshs
+:no:*masanass	hs_ou masc stem_acc
+
+
+:le:*massu/as
+:no:*massu	hs_ou masc stem_acc
+
+
+:le:*matqi/as
+:no:*matqi	hs_ou masc stem_acc
+
+
+:le:*mattaqi/as
+:no:*mattaqi	hs_ou masc stem_acc
+
+
+:le:*mazh/nhs
+:no:*mazhn	hs_ou masc stem_acc
+
+
+:le:*me/mmios
+:no:*memmios	os_ou masc
+
+
+:le:*megalopoli=tis
+:no:*megalopoli_t	is_ews masc stem_acc
+:no:*megalopoli_t	is_idos fem stem_acc
+
+
+:le:*memfi/bosqos
+:no:*memfibosq	os_ou masc
+
+
+:le:*meti/lios
+:no:*metilios	os_ou masc
+
+
+:le:*mi/ndios
+:no:*mindios	os_ou masc
+
+
+:le:*milhtou/polis
+:no:*milhtoupol	is_ews masc
+:no:*milhtoupol	is_idos fem
+
+
+:le:*miltoku/qhs
+:no:*miltokuq	hs_ou masc stem_acc
+
+
+:le:*minu/kios
+:no:*minukios	os_ou masc
+
+
+:le:*miqrida/teios
+:no:*miqridatei	os_ou masc
+
+
+:le:*misa/hlos
+:no:*misahl	os_ou masc
+
+
+:le:*mixai/as
+:no:*mixai	hs_ou masc stem_acc
+
+
+:le:*mneu=is
+:no:*mneu_	is_ews masc stem_acc
+:no:*mneu_	is_idos fem stem_acc
+
+
+:le:*mnhsarxi/dhs
+:no:*mnhsarxid	hs_ou masc stem_acc
+
+
+:le:*moage/ths
+:no:*moaget	hs_ou masc stem_acc
+
+
+:le:*mou/kios
+:no:*moukios	os_ou masc
+
+
+:le:*mou/mmios
+:no:*moummios	os_ou masc
+
+
+:le:*mou=ndos
+:no:*mou_nd	os_ou masc stem_acc
+
+
+:le:*mouki/as
+:no:*mouki	hs_ou masc stem_acc
+
+
+:le:*mouna/tios
+:no:*mounatios	os_ou masc
+
+
+:le:*mukeri=nos
+:no:*mukeri_n	os_ou masc stem_acc
+
+
+:le:*mwabi=tis
+:no:*mwabi_t	is_ews masc stem_acc
+:no:*mwabi_t	is_idos fem stem_acc
+
+
+:le:*na/bados
+:no:*nabad	os_ou masc
+
+
+:le:*na/balos
+:no:*nabal	os_ou masc
+
+
+:le:*na/bwqos
+:no:*nabwq	os_ou masc
+
+
+:le:*na/kebos
+:no:*nakeb	os_ou masc
+
+
+:le:*naa/shs
+:no:*naas	hs_ou masc stem_acc
+
+
+:le:*nabo/nnhdos
+:no:*nabonnhd	os_ou masc
+
+
+:le:*nabokodro/soros
+:no:*nabokodrosor	os_ou masc
+
+
+:le:*nabrw/dhs
+:no:*nabrwd	hs_ou masc stem_acc
+
+
+:le:*nabw/qhs
+:no:*nabwq	hs_ou masc stem_acc
+
+
+:le:*narbwni=tis
+:no:*narbwni_t	is_ews masc stem_acc
+:no:*narbwni_t	is_idos fem stem_acc
+
+
+:le:*nasamw/n
+:no:*nasamw	n_nos masc stem_acc
+
+
+:le:*nausi/filos
+:no:*nausifil	os_ou masc
+
+
+:le:*naxw/rhs
+:no:*naxwr	hs_ou masc stem_acc
+
+
+:le:*ne/mausos
+:no:*nemaus	os_ou masc
+
+
+:le:*nebrw/n
+:no:*nebrw	n_nos masc stem_acc
+
+
+:le:*neemi/as
+:no:*neemi	hs_ou masc stem_acc
+
+
+:le:*nekta/nabis
+:no:*nektanab	is_ews masc
+:no:*nektanab	is_idos fem
+
+
+:le:*nexaw/n
+:no:*nexaw	n_nos masc stem_acc
+
+
+:le:*ni/baros
+:no:*nibar	os_ou masc
+
+
+:le:*ni/sibis
+:no:*nisib	is_ews masc
+:no:*nisib	is_idos fem
+
+
+:le:*nou=dos
+:no:*nou_d	os_ou masc stem_acc
+
+
+:le:*nw/nios
+:no:*nwnios	os_ou masc
+
+
+:le:*nw=xos
+:no:*nwx	os_ou masc stem_acc
+
+
+:le:*oi)asw/n
+:no:*oi)asw	n_nos masc stem_acc
+
+
+:le:*ou)a/rios
+:no:*ou)arios	os_ou masc
+
+
+:le:*ou)a=ros
+:no:*ou)a_r	os_ou masc stem_acc
+
+
+:le:*ou)ari/nios
+:no:*ou)arinios	os_ou masc
+
+
+:le:*ou)ati/nios
+:no:*ou)atinios	os_ou masc
+
+
+:le:*ou)e/rsos
+:no:*ou)ers	os_ou masc
+
+
+:le:*ou)e/ttios
+:no:*ou)ettios	os_ou masc
+
+
+:le:*ou)eti/lios
+:no:*ou)etilios	os_ou masc
+
+
+:le:*ou)etou/rios
+:no:*ou)etouri	os_ou masc
+
+
+:le:*ou)i/bios
+:no:*ou)ibios	os_ou masc
+
+
+:le:*ou)i/nios
+:no:*ou)inios	os_ou masc
+
+
+:le:*ou)ibw/n
+:no:*ou)ibw	n_nos masc stem_acc
+
+
+:le:*ou)idaki/lios
+:no:*ou)idakilios	os_ou masc
+
+
+:le:*ou)indi/kios
+:no:*ou)indiki	os_ou masc
+
+
+:le:*ou)olo/mnios
+:no:*ou)olomnios	os_ou masc
+
+
+:le:*ou)olou/mnios
+:no:*ou)oloumni	os_ou masc
+
+
+:le:*pa/koros
+:no:*pakor	os_ou masc
+
+
+:le:*pai=tos
+:no:*pai_t	os_ou masc stem_acc
+
+
+:le:*pairisa/dhs
+:no:*pairisad	hs_ou masc stem_acc
+
+
+:le:*palai/pafos
+:no:*palaipaf	os_ou masc
+
+
+:le:*palai/skhyis
+:no:*palaiskhy	is_ews masc
+:no:*palaiskhy	is_idos fem
+
+
+:le:*pantai/netos
+:no:*pantainet	os_ou masc
+
+
+:le:*papei/rios
+:no:*papeirios	os_ou masc
+
+
+:le:*papi/nios
+:no:*papini	os_ou masc
+
+
+:le:*parmh/sios
+:no:*parmhsi	os_ou masc
+
+
+:le:*pasi/mhlos
+:no:*pasimhl	os_ou masc
+
+
+:le:*pasi/tigris
+:no:*pasitigr	is_ews masc
+:no:*pasitigr	is_idos fem
+
+
+:le:*patro/bios
+:no:*patrobios	os_ou masc
+
+
+:le:*pausi/maxos
+:no:*pausimax	os_ou masc
+
+
+:le:*peiqo/laos
+:no:*peiqola	os_ou masc
+
+
+:le:*petrh/ios
+:no:*petrhios	os_ou masc
+
+
+:le:*pi/naros
+:no:*pinar	os_ou masc
+
+
+:le:*pila=tos
+:no:*pila_t	os_ou masc stem_acc
+
+
+:le:*pitta/lakos
+:no:*pittalak	os_ou masc
+
+
+:le:*pla/kidos
+:no:*plakid	os_ou masc
+
+
+:le:*ple/nios
+:no:*plenios	os_ou masc
+
+
+:le:*pleura=tos
+:no:*pleura_t	os_ou masc stem_acc
+
+
+:le:*plhmi/nios
+:no:*plhminios	os_ou masc
+
+
+:le:*plw/tios
+:no:*plwtios	os_ou masc
+
+
+:le:*po/rdalos
+:no:*pordal	os_ou masc
+
+
+:le:*po/rkios
+:no:*porkios	os_ou masc
+
+
+:le:*poda/nemos
+:no:*podanem	os_ou masc
+
+
+:le:*polu/nikos
+:no:*polunik	os_ou masc
+
+
+:le:*pompai/dios
+:no:*pompaidios	os_ou masc
+
+
+:le:*pomph/dios
+:no:*pomphdios	os_ou masc
+
+
+:le:*pompi/lios
+:no:*pompilios	os_ou masc
+
+
+:le:*ponti=nos
+:no:*ponti_n	os_ou masc stem_acc
+
+
+:le:*porfurew/n
+:no:*porfurew	n_nos masc stem_acc
+
+
+:le:*porki/as
+:no:*porki	hs_ou masc stem_acc
+
+
+:le:*posei/dippos
+:no:*poseidipp	os_ou masc
+
+
+:le:*posto/mios
+:no:*postomi	os_ou masc
+
+
+:le:*proba/linqos
+:no:*probalinq	os_ou masc
+
+
+:le:*probali/sios
+:no:*probalisi	os_ou masc
+
+
+:le:*qa/llhstris
+:no:*qallhstr	is_ews masc
+:no:*qallhstr	is_idos fem
+
+
+:le:*qe/rros
+:no:*qerr	os_ou masc
+
+
+:le:*qe/wlos
+:no:*qewl	os_ou masc
+
+
+:le:*qeai/dhtos
+:no:*qeaidht	os_ou masc
+
+
+:le:*qeodw/reios
+:no:*qeodwrei	os_ou masc
+
+
+:le:*qeofili/skos
+:no:*qeofilisk	os_ou masc
+
+
+:le:*qou/frastos
+:no:*qoufrast	os_ou masc
+
+
+:le:*qou/kritos
+:no:*qoukrit	os_ou masc
+
+
+:le:*qoukriti/dhs
+:no:*qoukritid	hs_ou masc stem_acc
+
+
+:le:*qrasu/los
+:no:*qrasul	os_ou masc
+
+
+:le:*qrasu/loxos
+:no:*qrasulox	os_ou masc
+
+
+:le:*qrasua/lkhs
+:no:*qrasualk	hs_ou masc stem_acc
+
+
+:le:*qu/bris
+:no:*qubr	is_ews masc
+:no:*qubr	is_idos fem
+
+
+:le:*quw/nixos
+:no:*quwnix	os_ou masc
+
+
+:le:*sa/ddwkos
+:no:*saddwk	os_ou masc
+
+
+:le:*sa/dwkos
+:no:*sadwk	os_ou masc
+
+
+:le:*sa/lbios
+:no:*salbi	os_ou masc
+
+
+:le:*sa/lmocis
+:no:*salmoc	is_ews masc
+:no:*salmoc	is_idos fem
+
+
+:le:*sa/louios
+:no:*saloui	os_ou masc
+
+
+:le:*sa/oulos
+:no:*saoul	os_ou masc
+
+
+:le:*sa/rmentos
+:no:*sarment	os_ou masc
+
+
+:le:*safa/ths
+:no:*safat	hs_ou masc stem_acc
+
+
+:le:*salaggw/n
+:no:*salaggw	n_nos masc stem_acc
+
+
+:le:*salmana/sshs
+:no:*salmanass	hs_ou masc stem_acc
+
+
+:le:*salou/stios
+:no:*saloustios	os_ou masc
+
+
+:le:*salw/nios
+:no:*salwni	os_ou masc
+
+
+:le:*samou/is
+:no:*samou	is_ews masc
+:no:*samou	is_idos fem
+
+
+:le:*sanaballe/ths
+:no:*sanaballet	hs_ou masc stem_acc
+
+
+:le:*sardw/n
+:no:*sardw	n_nos masc stem_acc
+
+
+:le:*sarw/n
+:no:*sarw	n_nos masc stem_acc
+
+
+:le:*satorni=nos
+:no:*satorni_n	os_ou masc stem_acc
+
+
+:le:*saufh/ios
+:no:*saufhios	os_ou masc
+
+
+:le:*saxxi/as
+:no:*saxxi	hs_ou masc stem_acc
+
+
+:le:*se/cstios
+:no:*secstios	os_ou masc
+
+
+:le:*se/cstos
+:no:*secst	os_ou masc
+
+
+:le:*se/rouios
+:no:*seroui	os_ou masc
+
+
+:le:*seme/lios
+:no:*semelios	os_ou masc
+
+
+:le:*semew/n
+:no:*semew	n_nos masc stem_acc
+
+
+:le:*senaxei/rimos
+:no:*senaxeirim	os_ou masc
+
+
+:le:*septi/mios
+:no:*septimios	os_ou masc
+
+
+:le:*serbi/lios
+:no:*serbilios	os_ou masc
+
+
+:le:*serou=gos
+:no:*serou_g	os_ou masc stem_acc
+
+
+:le:*sh/rippos
+:no:*shripp	os_ou masc
+
+
+:le:*si/louios
+:no:*siloui	os_ou masc
+
+
+:le:*si/ttios
+:no:*sittios	os_ou masc
+
+
+:le:*signi=nos
+:no:*signi_n	os_ou masc stem_acc
+
+
+:le:*siki/nnios
+:no:*sikinni	os_ou masc
+
+
+:le:*sisi/nnhs
+:no:*sisinn	hs_ou masc stem_acc
+
+
+:le:*sisimi/qrhs
+:no:*sisimiqr	hs_ou masc stem_acc
+
+
+:le:*sisu/ggambris
+:no:*sisuggambr	is_ews masc
+:no:*sisuggambr	is_idos fem
+
+
+:le:*sixw/n
+:no:*sixw	n_nos masc stem_acc
+
+
+:le:*ski/louros
+:no:*skilour	os_ou masc
+
+
+:le:*skuqo/polis
+:no:*skuqopol	is_ews masc
+:no:*skuqopol	is_idos fem
+
+
+:le:*so/aimos
+:no:*soaim	os_ou masc
+
+
+:le:*soba/dakos
+:no:*sobadak	os_ou masc
+
+
+:le:*sodomi=tis
+:no:*sodomi_t	is_ews masc stem_acc
+:no:*sodomi_t	is_idos fem stem_acc
+
+
+:le:*solomw/n
+:no:*solomw	n_nos masc stem_acc
+
+
+:le:*solpi/kios
+:no:*solpikios	os_ou masc
+
+
+:le:*sou/perbos
+:no:*souperb	os_ou masc
+
+
+:le:*sou/rhs
+:no:*sour	hs_ou masc stem_acc
+
+
+:le:*soumou/is
+:no:*soumou	is_ews masc
+:no:*soumou	is_idos fem
+
+
+:le:*soumou/isos
+:no:*soumouis	os_ou masc
+
+
+:le:*spoudi/as
+:no:*spoudi	hs_ou masc stem_acc
+
+
+:le:*stati/lios
+:no:*statilios	os_ou masc
+
+
+:le:*sumew/n
+:no:*sumew	n_nos masc stem_acc
+
+
+:le:*swfroni/skos
+:no:*swfronisk	os_ou masc
+
+
+:le:*swmarew/n
+:no:*swmarew	n_nos masc stem_acc
+
+
+:le:*swrna/tios
+:no:*swrnati	os_ou masc
+
+
+:le:*swsi/patros
+:no:*swsipatr	os_ou masc
+
+
+:le:*ta/tios
+:no:*tatios	os_ou masc
+
+
+:le:*te/stimos
+:no:*testim	os_ou masc
+
+
+:le:*telesi=nos
+:no:*telesi_n	os_ou masc stem_acc
+
+
+:le:*temeni/dhs
+:no:*temenid	hs_ou masc stem_acc
+
+
+:le:*thle/as
+:no:*thle	hs_ou masc stem_acc
+
+
+:le:*thri/bazos
+:no:*thribaz	os_ou masc
+
+
+:le:*ti/bios
+:no:*tibi	os_ou masc
+
+
+:le:*ti/buros
+:no:*tibur	os_ou masc
+
+
+:le:*ti/llios
+:no:*tillios	os_ou masc
+
+
+:le:*ti/tios
+:no:*titios	os_ou masc
+
+
+:le:*ti=tos
+:no:*ti_t	os_ou masc stem_acc
+
+
+:le:*tigelli=nos
+:no:*tigelli_n	os_ou masc stem_acc
+
+
+:le:*tisafe/rnhs
+:no:*tisafern	hs_ou masc stem_acc
+
+
+:le:*to/maros
+:no:*tomar	os_ou masc
+
+
+:le:*torkoua=tos
+:no:*torkoua_t	os_ou masc stem_acc
+
+
+:le:*traxeiw=tis
+:no:*traxeiwt	is_ews masc stem_acc
+:no:*traxeiwt	is_idos fem stem_acc
+
+
+:le:*treba/tios
+:no:*trebatios	os_ou masc
+
+
+:le:*trebe/llios
+:no:*trebellios	os_ou masc
+
+
+:le:*trebw/nios
+:no:*trebwnios	os_ou masc
+
+
+:le:*tria/rios
+:no:*triarios	os_ou masc
+
+
+:le:*triko/runqos
+:no:*trikorunq	os_ou masc
+
+
+:le:*tu/rtaios
+:no:*turtai	os_ou masc
+
+
+:le:*tu/rtamos
+:no:*turtam	os_ou masc
+
+
+:le:*tu/xikos
+:no:*tuxik	os_ou masc
+
+
+:le:*xaire/stratos
+:no:*xairestrat	os_ou masc
+
+
+:le:*xairestra/ths
+:no:*xairestrat	hs_ou masc stem_acc
+
+
+:le:*xairh/tios
+:no:*xairhti	os_ou masc
+
+
+:le:*xalwni=tis
+:no:*xalwni_t	is_ews masc stem_acc
+:no:*xalwni_t	is_idos fem stem_acc
+
+
+:le:*xari=nos
+:no:*xari_n	os_ou masc stem_acc
+
+
+:le:*xaria/dhs
+:no:*xariad	hs_ou masc stem_acc
+
+
+:le:*xatramwti=tis
+:no:*xatramwti_t	is_ews masc stem_acc
+:no:*xatramwti_t	is_idos fem stem_acc
+
+
+:le:*xebrw/n
+:no:*xebrw	n_nos masc stem_acc
+
+
+:le:*xei/dwros
+:no:*xeidwr	os_ou masc
+
+
+:le:*xei/rwmos
+:no:*xeirwm	os_ou masc
+
+
+:le:*xeidw/n
+:no:*xeidw	n_nos masc stem_acc
+
+
+:le:*xelki/as
+:no:*xelki	hs_ou masc stem_acc
+
+
+:le:*xelliw/n
+:no:*xelliw	n_nos masc stem_acc
+
+
+:le:*xurw/n
+:no:*xurw	n_nos masc stem_acc
+
+
+:le:*yeudoma/rios
+:no:*yeudomari	os_ou masc
+
+
+:le:*za/boulos
+:no:*zaboul	os_ou masc
+
+
+:le:*za/maris
+:no:*zamar	is_ews masc
+:no:*zamar	is_idos fem
+
+
+:le:*za/molcis
+:no:*zamolc	is_ews masc
+:no:*zamolc	is_idos fem
+
+
+:le:*zabou/lhs
+:no:*zaboul	hs_ou masc stem_acc
+
+
+:le:*zambri/as
+:no:*zambri	hs_ou masc stem_acc
+
+
+:le:*zh/larxos
+:no:*zhlarx	os_ou masc
+
+
+:le:*zhli=tis
+:no:*zhli_t	is_ews masc stem_acc
+:no:*zhli_t	is_idos fem stem_acc
+
+
+:le:*zoroba/bhlos
+:no:*zorobabhl	os_ou masc
+
+
+:le:*zuga/kths
+:no:*zugakt	hs_ou masc stem_acc
+
+
+:le:*zwroa/strhs
+:no:*zwroastr	hs_ou masc stem_acc
+
+
