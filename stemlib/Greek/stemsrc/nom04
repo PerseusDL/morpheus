@@ -725,6 +725,8 @@
 
 :le:*kri=sa
 :no:*kri_s a_hs,fem
+
+:le:*krisai=os
 :aj:*krisai_ os_h_on stem_acc
 
 :le:kri/simos
@@ -3624,6 +3626,8 @@
 
 :le:*lipa/ra
 :no:*li^p^ar h_hs stem_acc fem
+
+:le:*liparai=os
 :aj:*li^pa^rai_ os_h_on stem_acc
 
 :le:lipara/mpuc
@@ -4584,7 +4588,7 @@
 :no:*magnht is_idos,fem,stem_acc
 
 :le:*ma/gos
-:no:*ma^g os_ou    masc
+:no:*ma^g os_ou    masc group_name
 :no:ma^g os_ou    masc
 
 :le:magofo/nia

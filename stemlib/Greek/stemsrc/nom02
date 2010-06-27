@@ -4233,17 +4233,17 @@
 :no:ei)lu_ os_ou suff_acc masc
 
 :le:*ei(/lws
-:no:*ei(lw s_tos masc
-:no:ei(lw s_tos masc
-:no:ei(lwt hs_ou masc stem_acc
+:no:*ei(lw s_tos masc is_ethnic
+:no:ei(lw s_tos masc is_ethnic
+:no:ei(lwt hs_ou masc stem_acc is_ethnic
 
 :le:*ei(lwtei/a
 :no:*ei(lwtei h_hs stem_acc fem
 :no:ei(lwtei h_hs stem_acc fem
 
 :le:*ei(lwtiko/s
-:aj:*ei(lwtik os_h_on suff_acc
-:aj:ei(lwtik os_h_on suff_acc
+:aj:*ei(lwtik os_h_on suff_acc is_ethnic
+:aj:ei(lwtik os_h_on suff_acc is_ethnic
 
 :le:ei(=ma
 :no:ei( ma_matos neut
@@ -5610,8 +5610,8 @@
 :aj:e)l-lesx os_on
 
 :le:*(/ellhn
-:no:*(ellh n_nos masc fem
-:no:*(ella_ n_nos masc fem doric aeolic
+:no:*(ellh n_nos masc fem is_ethnic
+:no:*(ella_ n_nos masc fem doric aeolic is_ethnic
 
 :le:*(ellhniko/s
 :aj:*(ellhnik os_h_on suff_acc

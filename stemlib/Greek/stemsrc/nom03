@@ -6473,8 +6473,8 @@
 :aj:*)iaoni os_h_on
 
 :le:*)ia=puc
-:no:*)ia_pu^ c_gos ant_acc masc
-:no:*)ihpu^ c_gos ant_acc masc  ionic
+:no:*)ia_pu^ c_gos ant_acc masc pers_name sg
+:no:*)ihpu^ c_gos ant_acc masc  ionic pers_name sg
 
 :le:*)ia/puges
 :no:*)iapu^ c_gos,ant_acc,masc,pl
@@ -10206,6 +10206,8 @@
 
 :le:*kau/kasos
 :no:*kauka^s os_ou masc
+
+:le:*kauka/sios
 :aj:*kauka^si os_h_on
 :no:*kaukas is_ews fem ionic gen sg end:ios
 
@@ -10702,6 +10704,8 @@
 
 :le:*ke/rkura
 :no:*kerku_r a_hs fem
+
+:le:*kerukurai=os
 :aj:*kerkurai_ os_h_on stem_acc
 :aj:*kerkurai+k os_h_on suff_acc
 
@@ -10821,6 +10825,8 @@
 :le:*ke/ws
 :no:*ke ws_w,fem
 :no:*ke os_ou fem ionic
+
+:no:*kei=os
 :aj:*kei os_h_on
 :aj:*khi+ os_h_on ionic
 

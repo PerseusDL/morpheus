@@ -1,8 +1,18 @@
-## lemmas extracted algorithmically from upper case words with no analyses
-## in this method, we used heuristics to confirm
-## e.g., if we see poli/ths and poli/tou, we assume we have an hs_ou masc noun
+
+:le:*(/abrwn
+:no:*(abrw	n_nos masc
+
+
+:le:*(/hlwn
+:no:*(hlw	n_nos masc
+
+
 :le:*(/hrillos
 :no:*(hrill	os_ou masc
+
+
+:le:*(/ippwn
+:no:*(ippw	n_nos masc
 
 
 :le:*(/irtios
@@ -28,10 +38,6 @@
 
 :le:*(ali/arxos
 :no:*(aliarx	os_ou masc
-
-
-:le:*(ebrw/n
-:no:*(ebrw	n_nos masc stem_acc
 
 
 :le:*(elew/n
@@ -62,8 +68,28 @@
 :no:*(hliopoli_t	hs_ou masc stem_acc
 
 
+:le:*(hma/wn
+:no:*(hmaw	n_nos masc
+
+
+:le:*(hrakle/wn
+:no:*(hraklew	n_nos masc
+
+
+:le:*(hrw|di/wn
+:no:*(hrw|diw	n_nos masc
+
+
 :le:*(ieremi/as
 :no:*(ieremi	hs_ou masc stem_acc
+
+
+:le:*(imi/lkwn
+:no:*(imilkw	n_nos masc
+
+
+:le:*(ippoko/rwn
+:no:*(ippokorw	n_nos masc
 
 
 :le:*(omolo/i+xos
@@ -99,8 +125,16 @@
 :no:*(rem	os_ou masc
 
 
+:le:*(resti/wn
+:no:*(restiw	n_nos masc
+
+
 :le:*(rh=glos
 :no:*(rhgl	os_ou masc stem_acc
+
+
+:le:*(ri/nwn
+:no:*(rinw	n_nos masc
 
 
 :le:*(robo/amos
@@ -121,6 +155,14 @@
 
 :le:*(rou=mos
 :no:*(rou_m	os_ou masc stem_acc
+
+
+:le:*(roubi/kwn
+:no:*(roubikw	n_nos masc
+
+
+:le:*(rouski/nwn
+:no:*(rouskinw	n_nos masc
 
 
 :le:*(routi/lios
@@ -148,6 +190,10 @@
 :no:*(urwd	hs_ou masc stem_acc
 
 
+:le:*(uyi/wn
+:no:*(uyiw	n_nos masc
+
+
 :le:*(wra/tios
 :no:*(wrati	os_ou masc
 
@@ -164,12 +210,40 @@
 :no:*)ader	os_ou masc
 
 
+:le:*)/akrwn
+:no:*)akrw	n_nos masc
+
+
 :le:*)/ambrakos
 :no:*)ambrak	os_ou masc
 
 
 :le:*)/ambrossos
 :no:*)ambross	os_ou masc
+
+
+:le:*)/andrwn
+:no:*)andrw	n_nos masc
+
+
+:le:*)/antwn
+:no:*)antw	n_nos masc
+
+
+:le:*)/aprwn
+:no:*)aprw	n_nos masc
+
+
+:le:*)/aqwn
+:no:*)aqw	n_nos masc
+
+
+:le:*)/arbwn
+:no:*)arbw	n_nos masc
+
+
+:le:*)/arxwn
+:no:*)arxw	n_nos masc
 
 
 :le:*)/asanos
@@ -183,6 +257,10 @@
 :le:*)/askalis
 :no:*)askal	is_ews masc
 :no:*)askal	is_idos fem
+
+
+:le:*)/astwn
+:no:*)astw	n_nos masc
 
 
 :le:*)/attios
@@ -209,6 +287,10 @@
 :no:*)hlan	os_ou masc
 
 
+:le:*)/hlwn
+:no:*)hlw	n_nos masc
+
+
 :le:*)/isakos
 :no:*)isak	os_ou masc
 
@@ -223,6 +305,14 @@
 
 :le:*)/oppios
 :no:*)oppi	os_ou masc
+
+
+:le:*)/orswn
+:no:*)orsw	n_nos masc
+
+
+:le:*)/ortwn
+:no:*)ortw	n_nos masc
 
 
 :le:*)abdaga/shs
@@ -269,6 +359,10 @@
 :no:*)afrani	os_ou masc
 
 
+:le:*)aglai/+wn
+:no:*)aglai+w	n_nos masc
+
+
 :le:*)agrippi=nos
 :no:*)agrippi_n	os_ou masc stem_acc
 
@@ -277,12 +371,12 @@
 :no:*)agxari	os_ou masc
 
 
-:le:*)akarw/n
-:no:*)akarw	n_nos masc stem_acc
+:le:*)aki/dwn
+:no:*)akidw	n_nos masc
 
 
-:le:*)akkarw/n
-:no:*)akkarw	n_nos masc stem_acc
+:le:*)akka/rwn
+:no:*)akkarw	n_nos masc
 
 
 :le:*)akoui=nos
@@ -291,6 +385,10 @@
 
 :le:*)akro/lissos
 :no:*)akroliss	os_ou masc
+
+
+:le:*)akte/wn
+:no:*)aktew	n_nos masc
 
 
 :le:*)aku/lios
@@ -307,6 +405,10 @@
 
 :le:*)albi/nios
 :no:*)albini	os_ou masc
+
+
+:le:*)ale/cwn
+:no:*)alecw	n_nos masc
 
 
 :le:*)alecandro/polis
@@ -359,12 +461,12 @@
 :no:*)amfidam	os_ou masc
 
 
+:le:*)amfi/wn
+:no:*)amfiw	n_nos masc
+
+
 :le:*)amfia/rhos
 :no:*)amfiarh	os_ou masc
-
-
-:le:*)ammw/n
-:no:*)ammw	n_nos masc stem_acc
 
 
 :le:*)amnw/n
@@ -383,12 +485,20 @@
 :no:*)ananhl	os_ou masc
 
 
+:le:*)anaci/wn
+:no:*)anaciw	n_nos masc
+
+
 :le:*)anhroe/sths
 :no:*)anhroest	hs_ou masc stem_acc
 
 
 :le:*)ani/kios
 :no:*)aniki	os_ou masc
+
+
+:le:*)ani/wn
+:no:*)aniw	n_nos masc
 
 
 :le:*)anti/tauros
@@ -403,12 +513,12 @@
 :no:*)antull	os_ou masc
 
 
-:le:*)apellikw/n
-:no:*)apellikw	n_nos masc stem_acc
-
-
 :le:*)apenni=nos
 :no:*)apenni_n	os_ou masc stem_acc
+
+
+:le:*)api/wn
+:no:*)apiw	n_nos masc
 
 
 :le:*)apollodw/reios
@@ -424,12 +534,20 @@
 :no:*)apoulhi	os_ou masc
 
 
+:le:*)aqhni/wn
+:no:*)aqhniw	n_nos masc
+
+
 :le:*)ara/nhs
 :no:*)aran	hs_ou masc stem_acc
 
 
-:le:*)aramaqw/n
-:no:*)aramaqw	n_nos masc stem_acc
+:le:*)arabi/wn
+:no:*)arabiw	n_nos masc
+
+
+:le:*)are/twn
+:no:*)aretw	n_nos masc
 
 
 :le:*)arfaca/dhs
@@ -458,14 +576,6 @@
 
 :le:*)arko/nhsos
 :no:*)arkonhs	os_ou masc
-
-
-:le:*)armaqw/n
-:no:*)armaqw	n_nos masc stem_acc
-
-
-:le:*)arnw/n
-:no:*)arnw	n_nos masc stem_acc
 
 
 :le:*)arou/ntios
@@ -509,9 +619,17 @@
 :no:*)asahl	os_ou masc
 
 
+:le:*)aselli/wn
+:no:*)aselliw	n_nos masc
+
+
 :le:*)asfalti=tis
 :no:*)asfalti_t	is_ews masc stem_acc
 :no:*)asfalti_t	is_idos fem stem_acc
+
+
+:le:*)ash/rwn
+:no:*)ashrw	n_nos masc
 
 
 :le:*)asi/nios
@@ -543,6 +661,10 @@
 :no:*)attidi	os_ou masc
 
 
+:le:*)axa/mwn
+:no:*)axamw	n_nos masc
+
+
 :le:*)axa/zhs
 :no:*)axaz	hs_ou masc stem_acc
 
@@ -567,20 +689,12 @@
 :no:*)azahl	os_ou masc
 
 
-:le:*)ebrw/n
-:no:*)ebrw	n_nos masc stem_acc
-
-
 :le:*)edekw/n
 :no:*)edekw	n_nos masc stem_acc
 
 
 :le:*)efra/nhs
 :no:*)efran	hs_ou masc stem_acc
-
-
-:le:*)eglw/n
-:no:*)eglw	n_nos masc stem_acc
 
 
 :le:*)egna/tios
@@ -591,6 +705,18 @@
 :no:*)egnati	hs_ou masc stem_acc
 
 
+:le:*)empe/dwn
+:no:*)empedw	n_nos masc
+
+
+:le:*)empedi/wn
+:no:*)empediw	n_nos masc
+
+
+:le:*)enati/wn
+:no:*)enatiw	n_nos masc
+
+
 :le:*)eposo/gnatos
 :no:*)eposognat	os_ou masc
 
@@ -599,8 +725,16 @@
 :no:*)erasistratei	os_ou masc
 
 
+:le:*)ere/mmwn
+:no:*)eremmw	n_nos masc
+
+
 :le:*)ere/nnios
 :no:*)erenni	os_ou masc
+
+
+:le:*)eri/gwn
+:no:*)erigw	n_nos masc
 
 
 :le:*)esrw/n
@@ -615,6 +749,10 @@
 :no:*)htei_	os_ou masc stem_acc
 
 
+:le:*)ia/dwn
+:no:*)iadw	n_nos masc
+
+
 :le:*)ia/keimos
 :no:*)iakeim	os_ou masc
 
@@ -627,8 +765,8 @@
 :no:*)iared	os_ou masc
 
 
-:le:*)ibrw/n
-:no:*)ibrw	n_nos masc stem_acc
+:le:*)ie/brwn
+:no:*)iebrw	n_nos masc
 
 
 :le:*)ie/bwsqos
@@ -649,6 +787,10 @@
 
 :le:*)ike/lios
 :no:*)ikeli	os_ou masc
+
+
+:le:*)imi/lkwn
+:no:*)imilkw	n_nos masc
 
 
 :le:*)iskariw/ths
@@ -719,6 +861,14 @@
 :no:*)iwsi	hs_ou masc stem_acc
 
 
+:le:*)lpo/llwn
+:no:*)lpollw	n_nos masc
+
+
+:le:*)obou/lkwn
+:no:*)oboulkw	n_nos masc
+
+
 :le:*)ofe/llios
 :no:*)ofelli	os_ou masc
 
@@ -731,8 +881,8 @@
 :no:*)olumpix	os_ou masc
 
 
-:le:*)olusipw/n
-:no:*)olusipw	n_nos masc stem_acc
+:le:*)olumpi/wn
+:no:*)olumpiw	n_nos masc
 
 
 :le:*)ombri/kios
@@ -759,12 +909,12 @@
 :no:*)ouentidi	os_ou masc
 
 
-:le:*)ouibw/n
-:no:*)ouibw	n_nos masc stem_acc
-
-
 :le:*)oxozi/as
 :no:*)oxozi	hs_ou masc stem_acc
+
+
+:le:*)wari/wn
+:no:*)wariw	n_nos masc
 
 
 :le:*)wbedi/as
@@ -775,8 +925,32 @@
 :no:*)wbhd	hs_ou masc stem_acc
 
 
+:le:*)wfeli/wn
+:no:*)wfeliw	n_nos masc
+
+
+:le:*ai)/gwn
+:no:*ai)gw	n_nos masc
+
+
+:le:*ai)oli/wn
+:no:*ai)oliw	n_nos masc
+
+
+:le:*ai)si/wn
+:no:*ai)siw	n_nos masc
+
+
+:le:*ai)sxri/wn
+:no:*ai)sxriw	n_nos masc
+
+
 :le:*au)/aros
 :no:*au)ar	os_ou masc
+
+
+:le:*au)eni/wn
+:no:*au)eniw	n_nos masc
 
 
 :le:*au)eniw/n
@@ -803,6 +977,10 @@
 :no:*bandi	os_ou masc
 
 
+:le:*ba/rrwn
+:no:*barrw	n_nos masc
+
+
 :le:*ba/sillos
 :no:*basill	os_ou masc
 
@@ -815,12 +993,12 @@
 :no:*battal	os_ou masc
 
 
-:le:*babu/lw/n
-:no:*babu/lw	n_nos masc stem_acc
-
-
 :le:*bai/bios
 :no:*baibi	os_ou masc
+
+
+:le:*bali/qwn
+:no:*baliqw	n_nos masc
 
 
 :le:*balta/saros
@@ -851,12 +1029,12 @@
 :no:*beerzel	os_ou masc
 
 
-:le:*beliw/n
-:no:*beliw	n_nos masc stem_acc
-
-
 :le:*benti/dios
 :no:*bentidi	os_ou masc
+
+
+:le:*bergeli/wn
+:no:*bergeliw	n_nos masc
 
 
 :le:*bese/bhlos
@@ -879,8 +1057,16 @@
 :no:*bitoit	os_ou masc
 
 
+:le:*bi/wn
+:no:*biw	n_nos masc
+
+
 :le:*bih/sios
 :no:*bihsi	os_ou masc
+
+
+:le:*bla/skwn
+:no:*blaskw	n_nos masc
 
 
 :le:*bla/tios
@@ -891,12 +1077,24 @@
 :no:*blossi	os_ou masc
 
 
+:le:*blo/swn
+:no:*blosw	n_nos masc
+
+
 :le:*bo/azos
 :no:*boaz	os_ou masc
 
 
+:le:*bo/lkwn
+:no:*bolkw	n_nos masc
+
+
 :le:*bo/rkios
 :no:*borki	os_ou masc
+
+
+:le:*bo/ttwn
+:no:*bottw	n_nos masc
 
 
 :le:*bokw/nios
@@ -911,8 +1109,16 @@
 :no:*boloumni	os_ou masc
 
 
-:le:*boutew/n
-:no:*boutew	n_nos masc stem_acc
+:le:*botruli/wn
+:no:*botruliw	n_nos masc
+
+
+:le:*bouh/dwn
+:no:*bouhdw	n_nos masc
+
+
+:le:*boute/wn
+:no:*boutew	n_nos masc
 
 
 :le:*bow/zhs
@@ -928,13 +1134,17 @@
 :no:*britomar	is_idos fem
 
 
+:le:*bru/swn
+:no:*brusw	n_nos masc
+
+
 :le:*bw=lis
 :no:*bwl	is_ews masc stem_acc
 :no:*bwl	is_idos fem stem_acc
 
 
-:le:*ckiroforiw/n
-:no:*ckiroforiw	n_nos masc stem_acc
+:le:*da/hmwn
+:no:*dahmw	n_nos masc
 
 
 :le:*da/ndamis
@@ -962,6 +1172,10 @@
 :no:*daqam	hs_ou masc stem_acc
 
 
+:le:*dassi/wn
+:no:*dassiw	n_nos masc
+
+
 :le:*de/kimos
 :no:*dekim	os_ou masc
 
@@ -975,8 +1189,16 @@
 :no:*delli	os_ou masc
 
 
+:le:*de/rqwn
+:no:*derqw	n_nos masc
+
+
 :le:*dei/dios
 :no:*deidi	os_ou masc
+
+
+:le:*dei/nwn
+:no:*deinw	n_nos masc
 
 
 :le:*dekai/neos
@@ -987,8 +1209,20 @@
 :no:*dekidi	os_ou masc
 
 
+:le:*dh/mwn
+:no:*dhmw	n_nos masc
+
+
 :le:*dhma/retos
 :no:*dhmaret	os_ou masc
+
+
+:le:*didu/mwn
+:no:*didumw	n_nos masc
+
+
+:le:*dita/lkwn
+:no:*ditalkw	n_nos masc
 
 
 :le:*dome/tios
@@ -1005,6 +1239,10 @@
 
 :le:*dw/hgos
 :no:*dwhg	os_ou masc
+
+
+:le:*dw/swn
+:no:*dwsw	n_nos masc
 
 
 :le:*ei)/rwmos
@@ -1027,6 +1265,10 @@
 :no:*eu)tux	os_ou masc
 
 
+:le:*eu)ameri/wn
+:no:*eu)ameriw	n_nos masc
+
+
 :le:*eu)ce/nippos
 :no:*eu)cenipp	os_ou masc
 
@@ -1035,16 +1277,20 @@
 :no:*eu)froni	os_ou masc
 
 
+:le:*eu)qeti/wn
+:no:*eu)qetiw	n_nos masc
+
+
 :le:*eu)qu/fhmos
 :no:*eu)qufhm	os_ou masc
 
 
-:le:*eu)sebew/n
-:no:*eu)sebew	n_nos masc stem_acc
-
-
 :le:*fa/batos
 :no:*fabat	os_ou masc
+
+
+:le:*fa/ggwn
+:no:*faggw	n_nos masc
 
 
 :le:*fa/legos
@@ -1057,6 +1303,10 @@
 
 :le:*fa/nnios
 :no:*fanni	os_ou masc
+
+
+:le:*fa/swn
+:no:*fasw	n_nos masc
 
 
 :le:*fa/ulos
@@ -1091,16 +1341,20 @@
 :no:*faleri_n	os_ou masc stem_acc
 
 
+:le:*falli/wn
+:no:*falliw	n_nos masc
+
+
 :le:*fame/as
 :no:*fame	hs_ou masc stem_acc
 
 
-:le:*faraw/n
-:no:*faraw	n_nos masc stem_acc
-
-
 :le:*faraw/qhs
 :no:*farawq	hs_ou masc stem_acc
+
+
+:le:*farmi/wn
+:no:*farmiw	n_nos masc
 
 
 :le:*fau=stos
@@ -1109,10 +1363,6 @@
 
 :le:*faw/nios
 :no:*fawni	os_ou masc
-
-
-:le:*fazhmw/n
-:no:*fazhmw	n_nos masc stem_acc
 
 
 :le:*fazhmwni=tis
@@ -1128,8 +1378,20 @@
 :no:*fhst	os_ou masc stem_acc
 
 
+:le:*fhliki/wn
+:no:*fhlikiw	n_nos masc
+
+
 :le:*filhmoni/dhs
 :no:*filhmonid	hs_ou masc stem_acc
+
+
+:le:*filippi/wn
+:no:*filippiw	n_nos masc
+
+
+:le:*filisti/wn
+:no:*filistiw	n_nos masc
 
 
 :le:*filwta/dhs
@@ -1154,6 +1416,10 @@
 
 :le:*fo/louios
 :no:*foloui	os_ou masc
+
+
+:le:*foki/wn
+:no:*fokiw	n_nos masc
 
 
 :le:*folou/ios
@@ -1184,6 +1450,22 @@
 :no:*fraatak	hs_ou masc stem_acc
 
 
+:le:*fro/ntwn
+:no:*frontw	n_nos masc
+
+
+:le:*fruni/wn
+:no:*fruniw	n_nos masc
+
+
+:le:*fu/skwn
+:no:*fuskw	n_nos masc
+
+
+:le:*fu/twn
+:no:*futw	n_nos masc
+
+
 :le:*fw/kritos
 :no:*fwkrit	os_ou masc
 
@@ -1196,16 +1478,16 @@
 :no:*galli	os_ou masc
 
 
-:le:*gabaqw/n
-:no:*gabaqw	n_nos masc stem_acc
-
-
 :le:*gadali/as
 :no:*gadali	hs_ou masc stem_acc
 
 
 :le:*galli/as
 :no:*galli	hs_ou masc stem_acc
+
+
+:le:*galli/wn
+:no:*galliw	n_nos masc
 
 
 :le:*garsu/hris
@@ -1215,10 +1497,6 @@
 
 :le:*gau=dos
 :no:*gau_d	os_ou masc stem_acc
-
-
-:le:*gazhlw/n
-:no:*gazhlw	n_nos masc stem_acc
 
 
 :le:*ge/llios
@@ -1258,8 +1536,16 @@
 :no:*gig	is_idos fem
 
 
-:le:*gibrw/n
-:no:*gibrw	n_nos masc stem_acc
+:le:*gi/skwn
+:no:*giskw	n_nos masc
+
+
+:le:*gi/wn
+:no:*giw	n_nos masc
+
+
+:le:*glabri/wn
+:no:*glabriw	n_nos masc
 
 
 :le:*goli/aqos
@@ -1274,6 +1560,10 @@
 :no:*goloss	hs_ou masc stem_acc
 
 
+:le:*gorgi/wn
+:no:*gorgiw	n_nos masc
+
+
 :le:*gorgu/los
 :no:*gorgul	os_ou masc
 
@@ -1284,6 +1574,14 @@
 
 :le:*gra/nios
 :no:*grani	os_ou masc
+
+
+:le:*grulli/wn
+:no:*grulliw	n_nos masc
+
+
+:le:*gu/lwn
+:no:*gulw	n_nos masc
 
 
 :le:*gu=lis
@@ -1317,6 +1615,14 @@
 :no:*karmhl	os_ou masc
 
 
+:le:*ka/stlwn
+:no:*kastlw	n_nos masc
+
+
+:le:*kaballi/wn
+:no:*kaballiw	n_nos masc
+
+
 :le:*kafisi/as
 :no:*kafisi	hs_ou masc stem_acc
 
@@ -1331,6 +1637,14 @@
 
 :le:*kaininh/ths
 :no:*kaininht	hs_ou masc stem_acc
+
+
+:le:*kaipi/wn
+:no:*kaipiw	n_nos masc
+
+
+:le:*kaisari/wn
+:no:*kaisariw	n_nos masc
 
 
 :le:*kaise/nnios
@@ -1361,32 +1675,48 @@
 :no:*kapetwli_n	os_ou masc stem_acc
 
 
+:le:*kapi/twn
+:no:*kapitw	n_nos masc
+
+
 :le:*kapitwli=nos
 :no:*kapitwli_n	os_ou masc stem_acc
+
+
+:le:*karqa/lwn
+:no:*karqalw	n_nos masc
 
 
 :le:*karsoulh/ios
 :no:*karsoulhi	os_ou masc
 
 
-:le:*kastalw/n
-:no:*kastalw	n_nos masc stem_acc
-
-
-:le:*kastlw/n
-:no:*kastlw	n_nos masc stem_acc
-
-
-:le:*kastolw/n
-:no:*kastolw	n_nos masc stem_acc
+:le:*ke/ntwn
+:no:*kentw	n_nos masc
 
 
 :le:*ke/qhgos
 :no:*keqhg	os_ou masc
 
 
+:le:*ke/rdwn
+:no:*kerdw	n_nos masc
+
+
+:le:*ke/rwn
+:no:*kerw	n_nos masc
+
+
 :le:*kedrw/n
 :no:*kedrw	n_nos masc stem_acc
+
+
+:le:*kefa/lwn
+:no:*kefalw	n_nos masc
+
+
+:le:*kefali/wn
+:no:*kefaliw	n_nos masc
 
 
 :le:*keki/lios
@@ -1397,8 +1727,20 @@
 :no:*kemmen	hs_ou masc stem_acc
 
 
+:le:*kera/mwn
+:no:*keramw	n_nos masc
+
+
 :le:*kerbh/sios
 :no:*kerbhsi	os_ou masc
+
+
+:le:*kh/dwn
+:no:*khdw	n_nos masc
+
+
+:le:*khfisi/wn
+:no:*khfisiw	n_nos masc
 
 
 :le:*khfisia/dhs
@@ -1413,8 +1755,16 @@
 :no:*kiggwni	os_ou masc
 
 
+:le:*kina/dwn
+:no:*kinadw	n_nos masc
+
+
 :le:*klei/nios
 :no:*kleini	os_ou masc
+
+
+:le:*klei/twn
+:no:*kleitw	n_nos masc
 
 
 :le:*kloe/ntios
@@ -1429,16 +1779,16 @@
 :no:*kloui	os_ou masc
 
 
-:le:*knakiw/n
-:no:*knakiw	n_nos masc stem_acc
-
-
 :le:*knw/sios
 :no:*knwsi	os_ou masc
 
 
 :le:*knw/ssios
 :no:*knwssi	os_ou masc
+
+
+:le:*knwsi/wn
+:no:*knwsiw	n_nos masc
 
 
 :le:*ko/klios
@@ -1479,12 +1829,20 @@
 :no:*korbilw	n_nos masc stem_acc
 
 
+:le:*korduli/wn
+:no:*korduliw	n_nos masc
+
+
 :le:*kore/as
 :no:*kore	hs_ou masc stem_acc
 
 
 :le:*kornifi/kios
 :no:*kornifiki	os_ou masc
+
+
+:le:*koru/dwn
+:no:*korudw	n_nos masc
 
 
 :le:*koskw/nios
@@ -1511,32 +1869,40 @@
 :no:*kouadra_t	os_ou masc stem_acc
 
 
-:le:*koullew/n
-:no:*koullew	n_nos masc stem_acc
+:le:*koui+nti/wn
+:no:*koui+ntiw	n_nos masc
 
 
-:le:*kranw/n
-:no:*kranw	n_nos masc stem_acc
+:le:*koule/wn
+:no:*koulew	n_nos masc
+
+
+:le:*koulle/wn
+:no:*koullew	n_nos masc
+
+
+:le:*kouri/wn
+:no:*kouriw	n_nos masc
 
 
 :le:*krassi/nios
 :no:*krassini	os_ou masc
 
 
-:le:*kremmuw/n
-:no:*kremmuw	n_nos masc stem_acc
-
-
-:le:*kremw/n
-:no:*kremw	n_nos masc stem_acc
-
-
 :le:*kri/mhsos
 :no:*krimhs	os_ou masc
 
 
+:le:*kri/nwn
+:no:*krinw	n_nos masc
+
+
 :le:*kri/spos
 :no:*krisp	os_ou masc
+
+
+:le:*kri/swn
+:no:*krisw	n_nos masc
 
 
 :le:*kri=nis
@@ -1554,6 +1920,10 @@
 
 :le:*kritw/nios
 :no:*kritwni	os_ou masc
+
+
+:le:*kth/swn
+:no:*kthsw	n_nos masc
 
 
 :le:*kuintili/as
@@ -1576,6 +1946,10 @@
 :no:*laban	os_ou masc
 
 
+:le:*la/ggwn
+:no:*laggw	n_nos masc
+
+
 :le:*la/mexos
 :no:*lamex	os_ou masc
 
@@ -1586,6 +1960,10 @@
 
 :le:*la/rkios
 :no:*larki	os_ou masc
+
+
+:le:*la/xwn
+:no:*laxw	n_nos masc
 
 
 :le:*la/zaros
@@ -1604,6 +1982,10 @@
 :no:*laitwri	os_ou masc
 
 
+:le:*lampuri/wn
+:no:*lampuriw	n_nos masc
+
+
 :le:*laouini/as
 :no:*laouini	hs_ou masc stem_acc
 
@@ -1614,6 +1996,10 @@
 
 :le:*larw/nios
 :no:*larwni	os_ou masc
+
+
+:le:*lau/rwn
+:no:*laurw	n_nos masc
 
 
 :le:*leu/koullos
@@ -1630,6 +2016,14 @@
 
 :le:*lew/stratos
 :no:*lewstrat	os_ou masc
+
+
+:le:*lh/rwn
+:no:*lhrw	n_nos masc
+
+
+:le:*li)gai/wn
+:no:*li)gaiw	n_nos masc
 
 
 :le:*libi/as
@@ -1652,6 +2046,10 @@
 :no:*lioui	hs_ou masc stem_acc
 
 
+:le:*lipari/wn
+:no:*lipariw	n_nos masc
+
+
 :le:*lokrh/tios
 :no:*lokrhti	os_ou masc
 
@@ -1670,6 +2068,10 @@
 
 :le:*loukou/llos
 :no:*loukoull	os_ou masc
+
+
+:le:*loukou/mwn
+:no:*loukoumw	n_nos masc
 
 
 :le:*louta/tios
@@ -1696,8 +2098,16 @@
 :no:*marull	os_ou masc
 
 
+:le:*ma/swn
+:no:*masw	n_nos masc
+
+
 :le:*ma/xeiros
 :no:*maxeir	os_ou masc
+
+
+:le:*ma/xwn
+:no:*maxw	n_nos masc
 
 
 :le:*ma=gnos
@@ -1718,10 +2128,6 @@
 
 :le:*malah=los
 :no:*malahl	os_ou masc stem_acc
-
-
-:le:*malaw/n
-:no:*malaw	n_nos masc stem_acc
 
 
 :le:*mana/hmos
@@ -1772,8 +2178,20 @@
 :no:*mazhn	hs_ou masc stem_acc
 
 
+:le:*me/lwn
+:no:*melw	n_nos masc
+
+
 :le:*me/mmios
 :no:*memmi	os_ou masc
+
+
+:le:*me/rmnwn
+:no:*mermnw	n_nos masc
+
+
+:le:*me/rtwn
+:no:*mertw	n_nos masc
 
 
 :le:*megalopoli=tis
@@ -1785,12 +2203,28 @@
 :no:*memfibosq	os_ou masc
 
 
+:le:*mete/wn
+:no:*metew	n_nos masc
+
+
 :le:*meti/lios
 :no:*metili	os_ou masc
 
 
+:le:*mi/dwn
+:no:*midw	n_nos masc
+
+
 :le:*mi/ndios
 :no:*mindi	os_ou masc
+
+
+:le:*miki/wn
+:no:*mikiw	n_nos masc
+
+
+:le:*mikkali/wn
+:no:*mikkaliw	n_nos masc
 
 
 :le:*milhtou/polis
@@ -1818,6 +2252,10 @@
 :no:*mixai	hs_ou masc stem_acc
 
 
+:le:*mna/swn
+:no:*mnasw	n_nos masc
+
+
 :le:*mneu=is
 :no:*mneu_	is_ews masc stem_acc
 :no:*mneu_	is_idos fem stem_acc
@@ -1825,6 +2263,14 @@
 
 :le:*mnhsarxi/dhs
 :no:*mnhsarxid	hs_ou masc stem_acc
+
+
+:le:*mo/rswn
+:no:*morsw	n_nos masc
+
+
+:le:*mo/rwn
+:no:*morw	n_nos masc
 
 
 :le:*moage/ths
@@ -1851,8 +2297,16 @@
 :no:*mounati	os_ou masc
 
 
+:le:*mu/gdwn
+:no:*mugdw	n_nos masc
+
+
 :le:*mukeri=nos
 :no:*mukeri_n	os_ou masc stem_acc
+
+
+:le:*munni/wn
+:no:*munniw	n_nos masc
 
 
 :le:*mwabi=tis
@@ -1874,6 +2328,14 @@
 
 :le:*na/kebos
 :no:*nakeb	os_ou masc
+
+
+:le:*na/rwn
+:no:*narw	n_nos masc
+
+
+:le:*na/swn
+:no:*nasw	n_nos masc
 
 
 :le:*naa/shs
@@ -1901,8 +2363,12 @@
 :no:*narbwni_t	is_idos fem stem_acc
 
 
-:le:*nasamw/n
-:no:*nasamw	n_nos masc stem_acc
+:le:*nasa/mwn
+:no:*nasamw	n_nos masc
+
+
+:le:*nati/swn
+:no:*natisw	n_nos masc
 
 
 :le:*nausi/filos
@@ -1913,12 +2379,16 @@
 :no:*naxwr	hs_ou masc stem_acc
 
 
+:le:*ne/dwn
+:no:*nedw	n_nos masc
+
+
 :le:*ne/mausos
 :no:*nemaus	os_ou masc
 
 
-:le:*nebrw/n
-:no:*nebrw	n_nos masc stem_acc
+:le:*ne/sswn
+:no:*nessw	n_nos masc
 
 
 :le:*neemi/as
@@ -1930,10 +2400,6 @@
 :no:*nektanab	is_idos fem
 
 
-:le:*nexaw/n
-:no:*nexaw	n_nos masc stem_acc
-
-
 :le:*ni/baros
 :no:*nibar	os_ou masc
 
@@ -1941,6 +2407,10 @@
 :le:*ni/sibis
 :no:*nisib	is_ews masc
 :no:*nisib	is_idos fem
+
+
+:le:*nomi/strwn
+:no:*nomistrw	n_nos masc
 
 
 :le:*nou=dos
@@ -1955,12 +2425,16 @@
 :no:*nwx	os_ou masc stem_acc
 
 
-:le:*oi)asw/n
-:no:*oi)asw	n_nos masc stem_acc
+:le:*nwbeli/wn
+:no:*nwbeliw	n_nos masc
 
 
 :le:*ou)a/rios
 :no:*ou)ari	os_ou masc
+
+
+:le:*ou)a/rrwn
+:no:*ou)arrw	n_nos masc
 
 
 :le:*ou)a=ros
@@ -1973,6 +2447,10 @@
 
 :le:*ou)ati/nios
 :no:*ou)atini	os_ou masc
+
+
+:le:*ou)e/ntwn
+:no:*ou)entw	n_nos masc
 
 
 :le:*ou)e/rsos
@@ -1991,16 +2469,16 @@
 :no:*ou)etouri	os_ou masc
 
 
+:le:*ou)h/rwn
+:no:*ou)hrw	n_nos masc
+
+
 :le:*ou)i/bios
 :no:*ou)ibi	os_ou masc
 
 
 :le:*ou)i/nios
 :no:*ou)ini	os_ou masc
-
-
-:le:*ou)ibw/n
-:no:*ou)ibw	n_nos masc stem_acc
 
 
 :le:*ou)idaki/lios
@@ -2017,6 +2495,10 @@
 
 :le:*ou)olou/mnios
 :no:*ou)oloumni	os_ou masc
+
+
+:le:*ou)ou/lswn
+:no:*ou)oulsw	n_nos masc
 
 
 :le:*pa/koros
@@ -2065,6 +2547,14 @@
 :no:*pasitigr	is_idos fem
 
 
+:le:*pasiwn
+:no:*pasiw	n_nos masc
+
+
+:le:*patri/wn
+:no:*patriw	n_nos masc
+
+
 :le:*patro/bios
 :no:*patrobi	os_ou masc
 
@@ -2083,6 +2573,10 @@
 
 :le:*pi/naros
 :no:*pinar	os_ou masc
+
+
+:le:*pieri/wn
+:no:*pieriw	n_nos masc
 
 
 :le:*pila=tos
@@ -2125,12 +2619,20 @@
 :no:*podanem	os_ou masc
 
 
+:le:*polli/wn
+:no:*polliw	n_nos masc
+
+
 :le:*polu/nikos
 :no:*polunik	os_ou masc
 
 
 :le:*pompai/dios
 :no:*pompaidi	os_ou masc
+
+
+:le:*pompe/lwn
+:no:*pompelw	n_nos masc
 
 
 :le:*pomph/dios
@@ -2145,12 +2647,12 @@
 :no:*ponti_n	os_ou masc stem_acc
 
 
-:le:*porfurew/n
-:no:*porfurew	n_nos masc stem_acc
-
-
 :le:*porki/as
 :no:*porki	hs_ou masc stem_acc
+
+
+:le:*pornopi/wn
+:no:*pornopiw	n_nos masc
 
 
 :le:*posei/dippos
@@ -2161,12 +2663,40 @@
 :no:*postomi	os_ou masc
 
 
+:le:*pota/mwn
+:no:*potamw	n_nos masc
+
+
+:le:*pra/cwn
+:no:*pracw	n_nos masc
+
+
 :le:*proba/linqos
 :no:*probalinq	os_ou masc
 
 
 :le:*probali/sios
 :no:*probalisi	os_ou masc
+
+
+:le:*prw/mwn
+:no:*prwmw	n_nos masc
+
+
+:le:*pu/rrwn
+:no:*purrw	n_nos masc
+
+
+:le:*pu/rwn
+:no:*purw	n_nos masc
+
+
+:le:*puqi/wn
+:no:*puqiw	n_nos masc
+
+
+:le:*pwli/wn
+:no:*pwliw	n_nos masc
 
 
 :le:*qa/llhstris
@@ -2182,8 +2712,20 @@
 :no:*qewl	os_ou masc
 
 
+:le:*qe/wn
+:no:*qew	n_nos masc
+
+
 :le:*qeai/dhtos
 :no:*qeaidht	os_ou masc
+
+
+:le:*qeari/wn
+:no:*qeariw	n_nos masc
+
+
+:le:*qemi/swn
+:no:*qemisw	n_nos masc
 
 
 :le:*qeodw/reios
@@ -2192,6 +2734,18 @@
 
 :le:*qeofili/skos
 :no:*qeofilisk	os_ou masc
+
+
+:le:*qeudi/wn
+:no:*qeudiw	n_nos masc
+
+
+:le:*qhruki/wn
+:no:*qhrukiw	n_nos masc
+
+
+:le:*qi/mbrwn
+:no:*qimbrw	n_nos masc
 
 
 :le:*qou/frastos
@@ -2204,6 +2758,10 @@
 
 :le:*qoukriti/dhs
 :no:*qoukritid	hs_ou masc stem_acc
+
+
+:le:*qra/swn
+:no:*qrasw	n_nos masc
 
 
 :le:*qrasu/los
@@ -2248,6 +2806,14 @@
 :no:*saloui	os_ou masc
 
 
+:le:*sa/lwn
+:no:*salw	n_nos masc
+
+
+:le:*sa/ndwn
+:no:*sandw	n_nos masc
+
+
 :le:*sa/oulos
 :no:*saoul	os_ou masc
 
@@ -2256,12 +2822,20 @@
 :no:*sarment	os_ou masc
 
 
+:le:*sa/swn
+:no:*sasw	n_nos masc
+
+
+:le:*sabbi/wn
+:no:*sabbiw	n_nos masc
+
+
 :le:*safa/ths
 :no:*safat	hs_ou masc stem_acc
 
 
-:le:*salaggw/n
-:no:*salaggw	n_nos masc stem_acc
+:le:*sai/+wn
+:no:*sai+w	n_nos masc
 
 
 :le:*salmana/sshs
@@ -2285,12 +2859,12 @@
 :no:*sanaballet	hs_ou masc stem_acc
 
 
-:le:*sardw/n
-:no:*sardw	n_nos masc stem_acc
+:le:*sanni/wn
+:no:*sanniw	n_nos masc
 
 
-:le:*sarw/n
-:no:*sarw	n_nos masc stem_acc
+:le:*sati/wn
+:no:*satiw	n_nos masc
 
 
 :le:*satorni=nos
@@ -2333,6 +2907,10 @@
 :no:*septimi	os_ou masc
 
 
+:le:*serapi/wn
+:no:*serapiw	n_nos masc
+
+
 :le:*serbi/lios
 :no:*serbili	os_ou masc
 
@@ -2345,8 +2923,16 @@
 :no:*shripp	os_ou masc
 
 
+:le:*sh/rwn
+:no:*shrw	n_nos masc
+
+
 :le:*si/louios
 :no:*siloui	os_ou masc
+
+
+:le:*si/lwn
+:no:*silw	n_nos masc
 
 
 :le:*si/ttios
@@ -2359,6 +2945,10 @@
 
 :le:*siki/nnios
 :no:*sikinni	os_ou masc
+
+
+:le:*sisa/pwn
+:no:*sisapw	n_nos masc
 
 
 :le:*sisi/nnhs
@@ -2378,8 +2968,24 @@
 :no:*sixw	n_nos masc stem_acc
 
 
+:le:*ska/twn
+:no:*skatw	n_nos masc
+
+
 :le:*ski/louros
 :no:*skilour	os_ou masc
+
+
+:le:*ski/twn
+:no:*skitw	n_nos masc
+
+
+:le:*skipiwn
+:no:*skipiw	n_nos masc
+
+
+:le:*sku/rwn
+:no:*skurw	n_nos masc
 
 
 :le:*skuqo/polis
@@ -2387,8 +2993,16 @@
 :no:*skuqopol	is_idos fem
 
 
+:le:*smikri/wn
+:no:*smikriw	n_nos masc
+
+
 :le:*so/aimos
 :no:*soaim	os_ou masc
+
+
+:le:*so/fwn
+:no:*sofw	n_nos masc
 
 
 :le:*soba/dakos
@@ -2400,12 +3014,16 @@
 :no:*sodomi_t	is_idos fem stem_acc
 
 
-:le:*solomw/n
-:no:*solomw	n_nos masc stem_acc
-
-
 :le:*solpi/kios
 :no:*solpiki	os_ou masc
+
+
+:le:*sou/krwn
+:no:*soukrw	n_nos masc
+
+
+:le:*sou/lmwn
+:no:*soulmw	n_nos masc
 
 
 :le:*sou/perbos
@@ -2433,16 +3051,24 @@
 :no:*statili	os_ou masc
 
 
+:le:*sti/lbwn
+:no:*stilbw	n_nos masc
+
+
+:le:*sto/lwn
+:no:*stolw	n_nos masc
+
+
+:le:*stru/mwn
+:no:*strumw	n_nos masc
+
+
 :le:*sumew/n
 :no:*sumew	n_nos masc stem_acc
 
 
 :le:*swfroni/skos
 :no:*swfronisk	os_ou masc
-
-
-:le:*swmarew/n
-:no:*swmarew	n_nos masc stem_acc
 
 
 :le:*swrna/tios
@@ -2453,16 +3079,52 @@
 :no:*swsipatr	os_ou masc
 
 
+:le:*swti/wn
+:no:*swtiw	n_nos masc
+
+
+:le:*ta/rkwn
+:no:*tarkw	n_nos masc
+
+
 :le:*ta/tios
 :no:*tati	os_ou masc
+
+
+:le:*tarou/skwn
+:no:*tarouskw	n_nos masc
+
+
+:le:*tarra/kwn
+:no:*tarrakw	n_nos masc
+
+
+:le:*tauri/wn
+:no:*tauriw	n_nos masc
 
 
 :le:*te/stimos
 :no:*testim	os_ou masc
 
 
+:le:*te/xnwn
+:no:*texnw	n_nos masc
+
+
+:le:*tea/rkwn
+:no:*tearkw	n_nos masc
+
+
+:le:*tei/swn
+:no:*teisw	n_nos masc
+
+
 :le:*telesi=nos
 :no:*telesi_n	os_ou masc stem_acc
+
+
+:le:*tembri/wn
+:no:*tembriw	n_nos masc
 
 
 :le:*temeni/dhs
@@ -2501,6 +3163,10 @@
 :no:*tigelli_n	os_ou masc stem_acc
 
 
+:le:*timasi/wn
+:no:*timasiw	n_nos masc
+
+
 :le:*tisafe/rnhs
 :no:*tisafern	hs_ou masc stem_acc
 
@@ -2511,6 +3177,14 @@
 
 :le:*torkoua=tos
 :no:*torkoua_t	os_ou masc stem_acc
+
+
+:le:*toube/rwn
+:no:*touberw	n_nos masc
+
+
+:le:*tra/xwn
+:no:*traxw	n_nos masc
 
 
 :le:*traxeiw=tis
@@ -2538,6 +3212,10 @@
 :no:*trikorunq	os_ou masc
 
 
+:le:*tru/fwn
+:no:*trufw	n_nos masc
+
+
 :le:*tu/rtaios
 :no:*turtai	os_ou masc
 
@@ -2550,6 +3228,10 @@
 :no:*tuxik	os_ou masc
 
 
+:le:*turanni/wn
+:no:*turanniw	n_nos masc
+
+
 :le:*xaire/stratos
 :no:*xairestrat	os_ou masc
 
@@ -2560,6 +3242,10 @@
 
 :le:*xairh/tios
 :no:*xairhti	os_ou masc
+
+
+:le:*xairi/wn
+:no:*xairiw	n_nos masc
 
 
 :le:*xalwni=tis
@@ -2575,6 +3261,10 @@
 :no:*xariad	hs_ou masc stem_acc
 
 
+:le:*xarmi/wn
+:no:*xarmiw	n_nos masc
+
+
 :le:*xatramwti=tis
 :no:*xatramwti_t	is_ews masc stem_acc
 :no:*xatramwti_t	is_idos fem stem_acc
@@ -2588,24 +3278,24 @@
 :no:*xeidwr	os_ou masc
 
 
+:le:*xei/lwn
+:no:*xeilw	n_nos masc
+
+
 :le:*xei/rwmos
 :no:*xeirwm	os_ou masc
-
-
-:le:*xeidw/n
-:no:*xeidw	n_nos masc stem_acc
 
 
 :le:*xelki/as
 :no:*xelki	hs_ou masc stem_acc
 
 
-:le:*xelliw/n
-:no:*xelliw	n_nos masc stem_acc
+:le:*xrusondu/wn
+:no:*xrusonduw	n_nos masc
 
 
-:le:*xurw/n
-:no:*xurw	n_nos masc stem_acc
+:le:*ya/mmwn
+:no:*yammw	n_nos masc
 
 
 :le:*yeudoma/rios
@@ -2614,6 +3304,10 @@
 
 :le:*za/boulos
 :no:*zaboul	os_ou masc
+
+
+:le:*za/brwn
+:no:*zabrw	n_nos masc
 
 
 :le:*za/maris
@@ -2643,8 +3337,16 @@
 :no:*zhli_t	is_idos fem stem_acc
 
 
+:le:*zhno/miwn
+:no:*zhnomiw	n_nos masc
+
+
 :le:*zoroba/bhlos
 :no:*zorobabhl	os_ou masc
+
+
+:le:*zti/lpwn
+:no:*ztilpw	n_nos masc
 
 
 :le:*zuga/kths
@@ -2653,5 +3355,4 @@
 
 :le:*zwroa/strhs
 :no:*zwroastr	hs_ou masc stem_acc
-
 

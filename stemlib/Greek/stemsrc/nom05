@@ -11722,9 +11722,11 @@
 
 :le:*sidw/n
 :no:*si_dw n_nos stem_acc fem
-:aj:*si_doni os_h_on
-:aj:*si_dwni os_h_on
-:no:*sidwnia s_dos stem_acc   	fem
+
+:le:*sidw/nios
+:aj:*si_doni os_h_on is_ethnic
+:aj:*si_dwni os_h_on is_ethnic
+:no:*sidwnia s_dos stem_acc   	fem is_ethnic
 
 :le:*sido/nes
 :no:*si_d wn_onos,masc,suff_acc pl

@@ -1812,12 +1812,12 @@
 :aj:*)aqhnai_ os_h_on stem_acc
 
 :le:*)aqh/nh
-:no:*)aqa_n h_hs fem div_name doric	stem_acc
-:no:*)aqa_na+ h_hs fem div_name aeolic alcae. *theocr
-:no:*)aqa_nai h_hs fem div_name doric
-:no:*)aqhn ah_ahs suff_acc fem div_name attic
-:no:*)aqhn h_hs stem_acc fem
-:no:*)aqhnai h_hs fem stem_acc div_name
+:no:*)aqa_n h_hs fem div_name doric	stem_acc sg
+:no:*)aqa_na+ h_hs fem div_name aeolic alcae. *theocr sg
+:no:*)aqa_nai h_hs fem div_name doric sg
+:no:*)aqhn ah_ahs suff_acc fem div_name attic sg
+:no:*)aqhn h_hs stem_acc fem sg
+:no:*)aqhnai h_hs fem stem_acc div_name sg
 
 :le:a)qh/r
 :no:a)q hr_eros suff_acc masc
@@ -3543,7 +3543,7 @@
 :aj:a)kro-kom os_on
 
 :le:*)akroko/rinqos
-:no:*)akro-korinq os_ou masc
+:no:*)akro-korinq os_ou masc pers_name
 
 :le:a)kro/liqos
 :aj:a)kro-li^q os_on

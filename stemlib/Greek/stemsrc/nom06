@@ -1761,6 +1761,8 @@
 
 :le:*strumw/n
 :no:*stru_m wn_onos suff_acc masc
+
+:le:*strumo/nios
 :aj:*strumoni os_h_on
 :aj:*strumonik os_h_on suff_acc
 
@@ -7315,8 +7317,8 @@
 :aj:*trwo-fqor os_on stem_acc
 
 :le:*trw/s
-:no:*trw s_os masc
-@ gen masc pl contr
+:no:*trw s_os masc is_ethnic
+@ gen masc pl contr is_ethnic
 
 :le:trwto/s
 :aj:trwt os_h_on suff_acc

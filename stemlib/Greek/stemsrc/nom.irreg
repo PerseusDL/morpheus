@@ -399,12 +399,12 @@
 :wd:*di_/ irreg_decl3 masc sg pers_name dat
 :wd:*zh=n irreg_decl3 masc sg pers_name acc
 :wd:*dio/qen adverb epic
-:wd:*dios   irreg_decl3 masc gen sg pers_name needs_acc
-:wd:*zhnos   irreg_decl3 masc gen sg pers_name needs_acc poetic
-:wd:*za_nos   irreg_decl3 masc gen sg doric pers_name needs_acc
+:wd:*dio/s   irreg_decl3 masc gen sg pers_name 
+:wd:*zhno/s   irreg_decl3 masc gen sg pers_name poetic
+:wd:*za_no/s   irreg_decl3 masc gen sg doric pers_name 
 :wd:*dii   irreg_decl3 masc dat sg pers_name needs_acc
-:wd:*zhni   irreg_decl3 masc dat sg pers_name needs_acc poetic
-:wd:*za_ni   irreg_decl3 masc dat sg doric pers_name needs_acc
+:wd:*zhni/   irreg_decl3 masc dat sg pers_name needs_acc poetic
+:wd:*za_ni/   irreg_decl3 masc dat sg doric pers_name needs_acc
 :wd:*dia   irreg_decl3 masc acc sg pers_name needs_acc
 :wd:*zhna   irreg_decl3 masc acc sg pers_name needs_acc poetic
 :wd:*za_na   irreg_decl3 masc acc sg doric pers_name needs_acc
