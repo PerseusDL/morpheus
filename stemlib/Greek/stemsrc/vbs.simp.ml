@@ -17332,6 +17332,7 @@
 ;fu mid
 ;ao
 ;ao epic unaugmented
+:vs:pluq aor_pass
 
 :le:plwi/zw
 :de:plw izw

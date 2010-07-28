@@ -1,3 +1,134 @@
+:le:*(roumi=na
+:no:*(roumi_n a_hs fem stem_acc pers_name
+
+:le:*(roumina=lis
+:no:*(roumina_l is_idos fem stem_acc pers_name 
+
+:le:*)/akka
+:no:*)akk a_hs fem pers_name
+
+:le:*)/antrwn
+:no:*)antrw n_nos masc pers_name
+
+:le:*)abenti=nos
+:no:*)abenti_n os_ou masc stem_acc geog_name
+
+:le:*)akmoni/dhs
+:no:*)akmonid hs_ou masc stem_acc pers_name
+
+:le:*)antife/ra
+:no:*)antifer h_hs fem pers_name
+
+:le:*ai)mili/a
+:no:*ai)mili h_hs fem pers_name
+
+:le:*ba/rros
+:no:*barr os_ou masc pers_name
+
+:le:*betou/tios
+:no:*betouti os_ou masc pers_name
+
+:le:*bletonh/sios
+:aj:*bletonhsi os_h_on is_ethnic
+
+:le:*kaikili/an
+:no:*kaikili h_hs fem 
+
+:le:*karbi/lios
+:no:*karbili os_ou masc pers_name
+
+:le:*kaikili/a
+:no:*kaikili h_hs fem pers_name
+
+:le:genei/ta
+:no:genei/t h_hs fem pers_name
+
+:le:*klou/bios
+:no:*kloubi os_ou masc pers_name
+
+:le:*komi/tios
+:le:*komiti os_ou masc pers_name
+
+:le:*kora/tios
+:le:*korati os_ou masc pers_name
+
+:le:*kuri=tis
+:no:*kuri_t is_idos fem stem_acc pers_name 
+
+:le:*larenti/a
+:no:*larenti h_hs fem stem_acc pers_name
+
+:le:*libiti/nh
+:no:*libitin h_hs fem stem_acc pers_name
+
+:le:*louki=na
+:no:*louki_n a_hs fem stem_acc pers_name
+
+:le:*lusita/neia
+:no:*lusitanei a_hs fem geog_name
+
+:le:*ma/llios
+:no:*malli os_ou masc pers_name
+
+:le:*meze/ntios
+:no:*mezenti os_ou masc pers_name
+
+:le:*mourki/a
+:no:*mourki h_hs fem pers_name
+
+:le:*nigi/dios
+:no:*nigidi os_ou masc pers_name
+
+:le:*te/rminos
+:no:*termin os_ou masc pers_name
+
+:le:*termina/lia
+:no:*terminali os_ou neut pl
+
+
+
+
+:le:*)aristi=nos
+:no:*)aristi_n os_ou masc stem_acc
+
+:le:*)elbi/a
+:no:*)elbi h_hs fem pers_name
+
+:le:*)iano/s
+:no:*)ian os_ou masc suff_acc pers_name
+
+:le:*(/istros
+:no:*(istr os_ou masc pers_name
+
+:le:*(/orta
+:no:*(ort h_hs fem pers_name
+
+:le:*(rhgi/a
+:no:*(rhgi h_hs fem geog_name stem_acc
+
+:le:*primige/neia
+:no:*primigenei a_hs fem pers_name
+
+:le:*qu/mbris
+:no:*qumbr is_ews fem geog_name
+
+:le:*sa/gktos
+:no:*sagkt os_ou masc pers_name
+
+:le:*se/rbios
+:no:*serbi os_ou masc pers_name
+
+:le:*sh/ios
+:no:*shi os_ou masc pers_name
+
+:le:*subou/rh
+:no:*subour h_hs fem geog_name
+
+:le:*sui/llioi
+:aj:*suilli os_h_on is_ethnic
+
+:le:*swrano/s
+:no:*swran os_ou masc suff_acc pers_name
 
 :le:pa/qhma
 :no:pa^qh ma_matos neut
@@ -976,6 +1107,7 @@
 
 :le:*paniko/s
 :aj:*pa_ni^k os_h_on suff_acc
+:aj:pa_ni^k os_h_on suff_acc
 
 :le:pani/meros
 :aj:pa^n-i_mer os_on
