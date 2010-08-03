@@ -1807,9 +1807,11 @@
 
 :le:*)aqh/naion
 :no:*)aqhnai os_ou neut
+:no:*)aqa_nai os_ou neut doric aeolic
 
 :le:*)aqhnai=os
 :aj:*)aqhnai_ os_h_on stem_acc
+:aj:*)aqa_nai_ os_h_on stem_acc doric aeolic
 
 :le:*)aqh/nh
 :no:*)aqa_n h_hs fem div_name doric	stem_acc sg
@@ -13664,6 +13666,11 @@
 :le:*bakxei=on
 :no:*bakxei_ os_ou stem_acc neut
 :no:bakxei_ os_ou stem_acc neut
+
+:le:bakxiko/s
+:aj:bakxik os_h_on suff_acc
+
+
 
 :le:*ba/kxeios
 :aj:bakxei os_h_on
