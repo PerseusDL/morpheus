@@ -1,9 +1,101 @@
+:le:*timoce/na
+:no:*timocen h_hs fem pers_name
+
+:le:*qeofilh/s
+:no:*qeofil hs_eos masc pers_name
+
+:le:*patrokle/hs
+:no:*patrokle hs_ou masc pers_name
+
+:le:*)ofeltia/dhs
+:no:*)ofeltiad hs_ou masc is_ethnic
+
+:le:*satilai=os
+:no:*satilai os_h_on is_group
+
+:le:*)epixa/rmeios
+:aj:*)epixarmei os_h_on
+
+:le:*dasku/lhs
+:no:*daskul hs_ou masc pers_name
+
+:le:*bere/kus
+:no:*berek us_uos masc geog_name
+
+:le:*bo/rboros
+:no:*borbor os_ou masc geog_name
+
+:le:*skillo/eis
+:no:*skill oeis_oentos masc geog_name
+
+:le:*(hlio/ph
+:no:*(hliop h_hs fem pers_name
+
+:le:*dhnai/h
+:no:*dhnai h_hs fem pers_name
+
+:le:*ai)/sxrh
+:no:*ai)sxr h_hs fem pers_name
+
+:le:*)asa/feia
+:no:*)asafei a_hs fem pers_name
+
+:le:*stoa/
+:no:*sto h_hs fem suff_acc orgname
+
+:le:*mena/ndreios
+:aj:*menandrei os_h_on
+
+:le:*)antisqe/neios
+:aj:*)antisqenei os_h_on
+
+:le:*lesxhno/rios
+:no:*lesxhnori os_h_on is_epithet
+
+:le:*planhtia/dhs
+:no:*planhtiad hs_ou masc pers_name
+
+:le:*eu)rukle/hs
+:no:*eu)ru klehs_kleous masc is_group
+
+:le:*)empedo/kleios
+:aj:*)empedoklei os_h_on
+
 :le:*)/apopis
 :no:*)apop is_ews masc pers_name
 
 :le:*)/omfis
 :no:*)omf is_ews masc pers_name
 
+:le:*neobou/lh
+:no:*neoboul h_hs fem pers_name
+
+:le:*)ih/ios 
+:aj:*)ihi os_h_on is_epithet
+
+:le:*sko/tios
+:aj:*skoti os_h_on is_epithet
+
+:le:*qew/rios
+:aj:*qewri os_h_on is_epithet
+
+:le:*mnhsare/thn
+:no:*mnhsaret h_hs fem pers_name
+
+:le:*mnhsino/h
+:no:*mnhsino h_hs fem pers_name
+
+:le:*murta/lh
+:no:*murtal h_hs fem pers_name
+
+:le:*kleo/timos
+:no:*kleotim os_ou masc pers_name
+
+:le:*(opli/ths
+:no:*(oplit hs_ou masc geog_name
+
+:le:*neo/xwros
+:no:*neoxwr os_ou masc pers_name
 
 :le:*promaqei/a
 :no:*promaqei h_hs fem pers_name
@@ -805,7 +897,22 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :no:*brettani h_hs fem stem_acc geog_name
 
 :le:*brettano/s
-:aj:*brettan os_h_on is_ethnic
+:aj:*brettan os_h_on suff_acc is_ethnic
+
+:le:*dru/os
+:no:*dru os_ou masc pers_name
+
+:le:*trwsobio/s
+:no:*trwsobi os_ou masc pers_name
+
+:le:*mousw/nios
+:no:*mouswni os_ou masc pers_name
+
+:le:*)arkadi/wn
+:no:*)arkadiw n_nos masc pers_name
+
+:le:*(eli/kwna
+:no:*(elikw n_nos masc geog_name
 
 :le:*)amoibeu/s
 :no:*)amoib eus_ews masc suff_acc pers_name
