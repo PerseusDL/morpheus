@@ -5208,7 +5208,8 @@ stemacc:*pompu/los
 :no:*qeofan h_hs fem
 
 :le:*qeofa/nhs
-:no:*qeofan hs_ou masc
+:no:*qeofan hs_ou masc pers_name
+:no:*qeofan hs_eos masc pers_name
 
 :le:*qeofula/ktos
 :no:*qeofulakt os_ou masc

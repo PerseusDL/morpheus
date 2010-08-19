@@ -1,8 +1,125 @@
+:le:Helvia
+:no:*(elbi h_hs fem pers_name
+
+:le:Tullus
+:no:*tull os_ou masc pers_name
+
+:le:Scaurus
+:no:*skaur os_ou masc pers_name
+
+:le:Verres
+:no:*berr hs_ou masc pers_name
+
+:le:Terentia
+:no:*terenti h_hs fem pers_name
+
+:le:Macer
+:no:*ma_ke r_ros masc pers_name
+
+:le:Arrius
+:no:*)arri os_ou masc pers_name
+
+:le:Stator
+:no:*sthsi os_ou masc is_epithet
+
+:le:Clodia
+:no:*klwdi h_hs fem pers_name
+
+:le:Quadrantarius
+:no:*kouadrantari os_h_on is_epithet
+
+:le:Nonnius
+:no:*nonni os_ou masc pers_name
+
+:le:Vibo
+:no:ou)ibw n_nos stem_acc pers_name
+
+:le:Vergilius
+:no:*ou)ergili os_ou masc pers_name
+
+:le:Tiro
+:no:*tirw n_nos masc pers_name
+
+:le:Tullia
+:no:*tulli h_hs fem pers_name
+
+:le:Volusci
+:aj:*ou)olou_sk os_h_on stem_acc is_ethnic
+
+:le:Vindex
+:no:*ou)indi c_kos masc pers_name
+
+:le:Aemilius
+:aj:*ai)mili os_h_on is_ethnic
+
+:le:Aelius
+:aj:*ai)li os_h_on is_ethnic
+
+:le:*)elimi/ai
+:no:*)elimi h_hs fem pl geog_name
+
+:le:*baste/rnhs
+:no:*bastern hs_ou masc is_ethnic
+
+:le:*gnaqai/nios
+:no:*gnaqaini os_ou fem pers_name
+
+:le:*papiri/a
+:no:*papiri h_hs fem pers_name
+
 :le:*timoce/na
 :no:*timocen h_hs fem pers_name
 
 :le:*qeofilh/s
 :no:*qeofil hs_eos masc pers_name
+
+:le:*peligno/s
+:aj:*pelign os_h_on suff_acc is_ethnic
+
+:le:*eu)=ktos
+:no:*eu)kt os_ou masc pers_name
+
+:le:*)oroa/ndhs
+:no:*)oroand hs_ou masc pers_name
+
+:le:*filo/neikos
+:no:*filoneik os_ou masc pers_name
+
+:le:Carbo
+:no:*karbw n_nos masc pers_name
+
+:le:Canidius
+:no:*kanidi os_ou masc pers_name
+
+:le:Celsus
+:no:*kels os_ou masc pers_name
+
+:le:*)amfa/rhs
+:no:*)amfar hs_ou masc pers_name
+
+:le:Servilia
+:no:*serbili h_hs fem pers_name
+
+:le:*numfi/dios
+:no:*numfidi os_ou masc pers_name
+
+:le:*keki/nas
+:no:*kekin as_a masc pers_name
+
+:le:Casca
+:no:*kask as_a masc pers_name
+
+:le:Tullus
+:no:*tull os_ou masc pers_name
+
+:le:*)antiath/s
+:no:*)antiat hs_ou masc suff_acc is_ethnic
+
+:le:*(ekatombaiw/n
+:no:*(ekatombaiw n_nos masc stem_acc is_month
+
+:le:*megisto/nous
+:no:*megiston oos_oou masc pers_name
 
 :le:*patrokle/hs
 :no:*patrokle hs_ou masc pers_name
@@ -120,6 +237,16 @@
 
 :le:Pansa
 :no:*pass as_a masc pers_name
+:no:*pans as_a masc pers_name
+
+:le:Bononia
+:no:*bonwni h_hs fem pers_name
+
+:le:Pomponia
+:no:*pompwni h_hs fem pers_name
+
+:le:*filo/logos
+:no:*filolog os_ou masc pers_name
 
 :le:Silvia
 :no:*silbi h_hs fem pers_name
@@ -1860,8 +1987,53 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :le:*ou)alle/rios
 :no:*ou)alleri os_ou masc pers_name
 
+:le:*ou)alle/ri
+:no:*ou)alleri h_hs fem pers_name
+
+:le:*nikoge/nhs
+:no:*nikogen hs_eos masc pers_name
+
+:le:Clodia
+:no:*klwdi h_hs fem pers_name
+
+:le:Clodius
+:no:*klwdi os_ou masc pers_name
+
+:le:Flora
+:no:*flwr h_hs fem pers_name
+
+:le:Faestulus
+:no:*faistul os_ou masc stem_acc pers_name
+
 :le:*)ihou=s
 :no:*)ih oos_oou masc pers_name suff_acc
+
+:le:*)ardea/ths
+:no:*)ardeat hs_ou masc is_ethnic
+
+:le:*terenti/a
+:no:*terenti h_hs fem pers_name
+
+:le:*timofa/nhs
+:no:*timofan hs_eos masc pers_name
+
+:le:*xalkhdw/n
+:no:*xalkhd wn_onos fem suff_acc geog_name
+
+:le:*tarphi/a
+:no:*tarphi h_hs fem pers_name
+
+:le:*tarph/ios
+:no:*tarph/i os_ou masc geog_name
+
+:le:*ta/xws
+:no:*tax ws_w masc pers_name
+
+:le:*poppai/a
+:no:*poppai h_hs fem pers_name
+
+:le:Volumnia
+:no:*ou)oloumni h_hs fem pers_name
 
 :le:*nabouxodono/soros
 :no:*nabouxodonosor os_ou masc pers_name
