@@ -1,3 +1,10 @@
+:le:Voconius
+:no:*bwkwni os_ou masc pers_name
+
+:le:Aurelia
+:no:*au)rhli h_hs fem pers_name
+
+
 :le:Helvia
 :no:*(elbi h_hs fem pers_name
 
@@ -32,7 +39,7 @@
 :no:*nonni os_ou masc pers_name
 
 :le:Vibo
-:no:ou)ibw n_nos stem_acc pers_name
+:no:*ou)ibw n_nos masc stem_acc pers_name
 
 :le:Vergilius
 :no:*ou)ergili os_ou masc pers_name
@@ -105,6 +112,9 @@
 
 :le:*keki/nas
 :no:*kekin as_a masc pers_name
+
+:le:Consta
+:no:*kwnst as_a masc pers_name
 
 :le:Casca
 :no:*kask as_a masc pers_name
