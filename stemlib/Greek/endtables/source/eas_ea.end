@@ -1,0 +1,9 @@
+# Greek version of Latin: Nasica: 
+#   3 *nasika=
+#   4 *nasika=n
+#  18 *nasika=s
+#   3 *nasika=|
+a=s	nom sg masc as_a
+a=	gen sg masc as_a
+a=|	dat sg masc as_a
+a=n	acc sg masc as_a
