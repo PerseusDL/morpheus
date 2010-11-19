@@ -1,3 +1,13 @@
+:le:*)=isis
+:no:*)i_s is_idos fem pers_name
+:no:*)is is_idos fem pers_name
+
+:le:Cyrus
+:no:*ku_r os_ou masc pers_name
+
+:le:Rufinus
+:no:*(roufi_n os_ou masc stem_acc pers_name
+
 :le:Voconius
 :no:*bwkwni os_ou masc pers_name
 
@@ -250,7 +260,7 @@
 :no:*pans as_a masc pers_name
 
 :le:Bononia
-:no:*bonwni h_hs fem pers_name
+:no:*bonwni h_hs fem place_name
 
 :le:Pomponia
 :no:*pompwni h_hs fem pers_name
@@ -1574,8 +1584,6 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :le:*porhdo/ric
 :no:*porhdori c_gos masc ant_acc pers_name
 
-:le:*krito/la
-:no:*kritol h_hs fem pers_name
 
 :le:*kru/assos
 :no:*kruass os_ou masc geog_name
@@ -8842,7 +8850,7 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :no:*turodiz a_hs fem  
 
 :le:*ca/nqhs
-:no:*canq hs_eos masc  
+:no:*canq hs_eos masc  pers_name
 
 :le:*ceinago/ras
 :no:*ceinagor hs_ou masc  
@@ -12243,7 +12251,8 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :no:*kritodam os_ou masc  
 
 :le:*krito/laos
-:no:*kritola os_ou masc  
+:no:*kritola os_ou masc  pers_name
+:no:*kritol as_a masc  pers_name
 
 :le:*kro/keai
 :no:*kroke h_hs fem pl 
@@ -19116,7 +19125,7 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :aj:*garhsk os_h_on suff_acc
 
 :le:*germaniko/s
-:aj:*germanik os_h_on suff_acc
+:aj:*germanik os_h_on suff_acc is_ethnic
 
 :le:*kallai+ko/s
 :aj:*kallai+k os_h_on suff_acc
@@ -19791,6 +19800,12 @@ aj:*koropai os_h_on stem_acc is_ethnic
 
 :le:*teu/tones
 :no:*teut wn_onos masc fem is_ethnic
+
+:le:*fqi/a
+:no:*fqi h_hs fem pers_name
+
+:le:*)indi/a
+:no:*)indi h_hs fem place_name
 
 :le:*(eka/taios
 :aj:*(ekatai os_h_on

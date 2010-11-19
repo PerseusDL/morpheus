@@ -90,7 +90,7 @@
 :wd:*)ari/sbhqen adverb
 
 :le:*)arka/s
-:aj:*)arka s_dos stem_acc masc
+:aj:*)arka s_dos stem_acc masc is_ethnic
 
 :le:*(/arma
 :no:*(ar ma_matos neut geog_name
@@ -591,9 +591,6 @@
 
 :le:*moi=ra
 :no:*moir a_hs,fem
-
-:le:*mou=sa
-:no:*mous a_hs fem
 
 :le:*mu/dwn
 :no:*mudw n_nos masc

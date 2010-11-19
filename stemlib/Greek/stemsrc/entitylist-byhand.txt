@@ -1,3 +1,9 @@
+*kalano/s	person
+*maked/nios ethnic
+*makedoniko/s	ethnic
+*qai/s	person
+*)alecandristh/s	person
+*ca/nqhs	person
 *(/abrwn	person
 *(/arpuia	person
 *(/hraion	person
@@ -51,7 +57,7 @@
 *(rh=glos	person
 *(rhnei/a	person
 *(rhta=na	person
-*(rodiako/s	person
+*(rodiako/s	ethnic
 *(roisa/khs	person
 *(rou/brios	person
 *(roubi/kwn	person
@@ -321,7 +327,6 @@
 *)isqmia/s	person
 *)issw/rios	person
 *)italiko/s	ethnic
-*)italiko/s	person
 *)itw/nios	person
 *)itwni/s	person
 *)iwni/s	person
@@ -335,7 +340,6 @@
 *)olumpi/eion	person
 *)olumpiako/s	person
 *)olumpiako/s	place
-*)olumpiei=on	person
 *)olumpioni/kh	person
 *)ombri/kios	person
 *)ono/skelis	person
@@ -511,7 +515,6 @@
 *eu)molpi/dai	person
 *eu)no/sta	person
 *eu)qume/nhs	person
-*eu)ripi/deios	person
 *eu)ru/anassa	person
 *eu)rupw/n	person
 *eu)te/rph	person
@@ -611,7 +614,6 @@
 *gra/gxos	person
 *gra/nios	person
 *grai+ko/s	ethnic
-*graniko/s	person
 *graniko/s	place
 *gru/llos	person
 *gu/lwn	person
@@ -1219,7 +1221,7 @@
 *sparto/s	person
 *spe/rxis	person
 *spo/rios	person
-*stageiri/ths	person
+*stageiri/ths	is_ethnic
 *stati/lios	person
 *ste/fon	person
 *sterti/nios	person
@@ -1229,7 +1231,6 @@
 *stroi=bos	person
 *strou/qios	person
 *stwiko/s	group
-*stwiko/s	person
 *su/baris	person
 *su/baris	place
 *su/rtis	person

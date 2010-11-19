@@ -8373,7 +8373,7 @@ stemacc:*kana/sis
 :no:*kappado c_kos masc ant_acc
 
 :le:*kappado/khs
-:no:*kappadok hs_ou masc
+:no:*kappadok hs_ou masc stem_acc
 
 :le:*kaprari/a
 :no:*kaprari a_hs fem
@@ -13374,7 +13374,7 @@ stemacc:*ou)istou/la
 :no:*parq os_ou neut
 
 :le:*pa/rqos
-:no:*parq os_ou masc
+:no:*parq os_ou masc is_ethnic
 
 :le:*pa/rwpos
 :no:*parwp os_ou masc

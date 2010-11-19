@@ -4749,6 +4749,8 @@
 
 :le:*makedw/n
 :no:*ma^ked wn_onos suff_acc masc fem
+
+:le:*maked/nios
 :aj:*makedoni os_h_on
 :aj:*makedon is_idos,suff_acc,fem
 :aj:*makedonik os_h_on   suff_acc
@@ -8310,8 +8312,10 @@
 
 :le:*mou=sa
 :no:mou_s a_hs fem
+:no:*mous a_hs fem
 :no:mws a_hs fem doric
 :no:mois a_hs fem aeolic
+
 
 :le:*mousage/ths
 :no:mous-a_get hs_ou stem_acc masc  doric
@@ -12302,9 +12306,9 @@
 
 
 :le:*)olumpiei=on
-:no:*)olumpiei_ os_ou stem_acc neut
-:no:*)olumpiei os_ou neut  	stem_acc
-:no:*)olumpi os_ou neut
+:no:*)olumpiei_ os_ou stem_acc neut is_building
+:no:*)olumpiei os_ou neut  	stem_acc is_building
+:no:*)olumpi os_ou neut is_building
 
 :le:*)olumpiko/s
 :aj:*)olumpik os_h_on suff_acc

@@ -5828,13 +5828,13 @@
 :le:*qrh/|khnde
 :wd:*qrh/|khnde adverb
 
-:le:*qra/kios
+:le:*qra=|c
 :aj:*qraki os_h_on
 :aj:*qrhi+ki os_h_on
 :aj:*qrh|ki os_h_on
 :aj:*qra|ki os_h_on
 :aj:*qra| c_kos masc
-:aj:*qra c_kos masc
+:aj:*qra_ c_kos masc
 
 :le:*qra|kisti/
 :wd:*qra|kisti/ adverb
@@ -9138,9 +9138,6 @@
 
 :le:kapno/s
 :no:kapn os_ou suff_acc    masc
-
-:le:*kappado/kai
-:no:*kappadok hs_ou,stem_acc,masc,pl
 
 :le:ka/pparis
 :no:kappa^r is_ews fem

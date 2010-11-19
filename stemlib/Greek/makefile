@@ -32,6 +32,9 @@ noms:	stemsrc/nom.irreg stemind/nomind entities
 
 vbs:	stemsrc/lsj.vbs stemsrc/vbs.irreg stemind/vbind
 
+enclitics:  
+	cat stemsrc/vbs.irreg stemsrc/nom* | fgrep enclitic > enclitics
+
 stemind/vbind:
 	cat stemsrc/vbs.irreg stemsrc/vbs.simp.ml stemsrc/vbs.simp.02.new stemsrc/lsj.vbs \
 	    > conjfile
@@ -51,11 +54,11 @@ stemsrc/lemlist:
 	    cut -d":" -f 3 | sort | awk '{print $$1 " "}' > stemsrc/lemlist
 
 stemind/nomind:	stemsrc/lsj.nom
-	cat $(nomsrc) stemsrc/lsj.nom \
+	addconstraints.pl $(nomsrc) stemsrc/lsj.nom \
 	    stemsrc/lsj.byhand > /tmp/nommorph
 	indexnoms
 
-entities: 
+entities: stemsrc/entitylist-byhand.txt
 	getentities.pl  $(nomsrc) stemsrc/lsj.nom stemsrc/lsj.byhand > steminds/entitylist.txt
 	
 
