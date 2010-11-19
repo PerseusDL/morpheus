@@ -18,8 +18,13 @@ while(<FIN>) {
 		$is_geogname{$curlem}++;
 	}
 	
-	if( /groupname|group_name/ ) {
+	if( /groupname|group_name|group\b/ ) {
 		$is_groupname{$curlem}++;
+	}
+	
+	if( /month/ ) {
+print STDERR "month $curlem\n";
+		$is_monthname{$curlem}++;
 	}
 	
 	if( /buildingname|building_name/ ) {
@@ -52,6 +57,10 @@ while(<>) {
 		$is_groupname{$curlem}++;
 	}
 	
+	if( /month/ ) {
+		$is_month{$curlem}++;
+	}
+	
 	if( /buildingname|building_name/ ) {
 		$is_buildingname{$curlem}++;
 	}
@@ -60,7 +69,7 @@ while(<>) {
 }
 
 foreach my $tmps (sort keys % totalkeys) {
-		next unless ($is_persname{$tmps} or $is_geogname{$tmps} or $is_ethnicname{$tmps} or $is_groupname{$tmps} or $is_buildingname{$tmps} );
+		next unless ($is_persname{$tmps} or $is_geogname{$tmps} or $is_ethnicname{$tmps} or $is_groupname{$tmps} or $is_buildingname{$tmps} or $is_monthname{$tmps});
 
 		print "$tmps";
 		if( $is_persname{$tmps} ) {
@@ -81,6 +90,10 @@ foreach my $tmps (sort keys % totalkeys) {
 
 		if(  $is_buildingname{$tmps} ) {
 			print "\tbuilding";
+		}
+
+		if(  $is_monthname{$tmps} ) {
+			print "\tmonth";
 		}
 		print "\n";
 }

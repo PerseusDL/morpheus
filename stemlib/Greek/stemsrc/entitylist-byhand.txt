@@ -1,3 +1,4 @@
+*sikelo/s	ethnic
 *kalano/s	person
 *maked/nios ethnic
 *makedoniko/s	ethnic
@@ -383,7 +384,7 @@
 *ai)sw/peios	person
 *ai)twli/s	person
 *ai)twliko/s	person
-*au)/gour	role
+*au)/gour	group
 *au)/goustos	person
 *au)/sic	person
 *au)fi/dios	person

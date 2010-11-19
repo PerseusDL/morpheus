@@ -59,7 +59,7 @@ stemind/nomind:	stemsrc/lsj.nom
 	indexnoms
 
 entities: stemsrc/entitylist-byhand.txt
-	getentities.pl  $(nomsrc) stemsrc/lsj.nom stemsrc/lsj.byhand > steminds/entitylist.txt
+	getentities.pl stemsrc/entitylist-byhand.txt  $(nomsrc) stemsrc/lsj.nom stemsrc/lsj.byhand > steminds/entitylist.txt
 	
 
 ia.noms:
