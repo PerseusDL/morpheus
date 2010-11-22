@@ -3071,7 +3071,8 @@ stemacc:*eu)po/los
 :no:*filhsi hs_ou masc
 
 :le:*filhta=s
-:no:*filht ehs_eou masc suff_acc suff_acc
+:no:*filht ehs_eou masc suff_acc pers_name
+:no:*filit hs_ou masc pers_name
 
 :le:*fili/das
 :no:*filid hs_ou masc doric aeolic

@@ -5153,7 +5153,11 @@ stemacc:*baria/na
 :no:*belwni os_ou masc
 
 :le:*benebento/s
-:no:*benebent os_ou masc suff_acc suff_acc
+:no:*benebent os_ou masc suff_acc 
+:no:*benebent os_ou masc 
+
+:le:sunophdo/s
+:aj:sunophd os_on suff_acc
 
 :le:*beneouento/n
 :no:*beneouent os_ou neut suff_acc suff_acc
