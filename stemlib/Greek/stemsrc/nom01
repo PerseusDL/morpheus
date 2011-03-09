@@ -13126,9 +13126,9 @@
 :aj:a)-fwn os_on
 
 :le:*)axai/a
-:no:*)axai h_hs stem_acc ionic	fem
-:no:*)axaii+ h_hs stem_acc fem ionic
-:no:*)axai+ h_hs fem
+:no:*)axai h_hs stem_acc ionic	fem sg
+:no:*)axaii+ h_hs stem_acc fem ionic sg
+:no:*)axai+ h_hs fem sg
 
 :le:*)axaiiko/s
 :aj:*)axaii+k os_h_on suff_acc

@@ -1,6 +1,8 @@
+*danao/s	ethnic
+*)amazw/n	ethnic
 *sikelo/s	ethnic
 *kalano/s	person
-*maked/nios ethnic
+*makedo/nios ethnic
 *makedoniko/s	ethnic
 *qai/s	person
 *)alecandristh/s	person
@@ -37,6 +39,7 @@
 *(hliopoli/ths	person
 *(hrai=os	person
 *(hraklei/teios	person
+*(hraklei/dai	ethnic
 *(hraklew/ths	person
 *(hrofi/lh	person
 *(hrw/ndas	person
@@ -254,6 +257,7 @@
 *)atlantiko/s	place
 *)atti/as	person
 *)axaii/s	ethnic
+*)axaio/s	ethnic
 *)axaiiko/s	person
 *)axradinh/	person
 *)axradinh/	place
@@ -1207,7 +1211,7 @@
 *sko/tios	person
 *skotousai=os	person
 *skumbra/ths	person
-*skuqiko/s	person
+*skuqiko/s	ethnic
 *smi/kuqos	person
 *so/filos	person
 *so/gxitos	person
@@ -1249,7 +1253,7 @@
 *swkratiko/s	person
 *swrna/tios	person
 *swte/lhs	person
-*ta/nais	person
+*ta/nais	place
 *ta/tios	person
 *ta/xws	person
 *tala/sios	person

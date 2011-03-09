@@ -1,7 +1,25 @@
-:le:bu/blios
-:aj:bubli os_h_on is_ethnic
-:aj:bibli os_h_on is_ethnic
-:aj:biblin os_h_on is_ethnic
+:le:*(hraklei/dai
+:no:*(hraklei+d hs_ou masc stem_acc is_group pl
+
+:le:*naukra/tios
+:no:*naukrati os_ou masc pers_name
+
+:le:*mace/ntios
+:no:*macenti os_ou masc pers_name
+
+:le:*)emmeli/a
+:no:*)emmeli h_hs fem pers_name
+
+:le:*makri/na
+:no:*makrin h_hs fem pers_name
+
+:le:*qeose/bios
+:no:*qeosebi os_ou masc pers_name
+
+:le:*bu/blios
+:aj:*bubli os_h_on is_ethnic
+:aj:*bibli os_h_on is_ethnic
+:aj:*biblin os_h_on is_ethnic
 
 :le:*(/uperos
 :no:*(uper os_ou masc pers_name
@@ -31,8 +49,13 @@
 :no:*ou)espasian os_ou masc suff_acc pers_name
 :no:*ou)espesian os_ou masc suff_acc pers_name
 
+:le:Valentinianus
+:no:*ou)alentian os_ou suff_acc masc pers_name
+:no:*balentinan os_ou suff_acc masc pers_name
+
 :le:Valens
 :no:*ou)al hs_entos masc pers_name
+:no:*bal hs_entos masc pers_name
 
 :le:*)aku/nion
 :no:*)akuni os_ou neut place_name
@@ -5928,7 +5951,14 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :no:*)anaxars is_ews fem  
 
 :le:*)anakre/wn
-:no:*)anakre wn_ontos masc  
+:no:*)anakre wn_ontos masc  pers_name
+:no:*)anakrei wn_ontos masc  pers_name
+
+:le:*kaisa/rios
+:no:*kaisari os_ou masc pers_name
+
+:le:*martiniano/s
+:no:*martinian os_ou masc suff_acc pers_name
 
 :le:*)anakto/rios
 :aj:*)anaktori os_h_on   

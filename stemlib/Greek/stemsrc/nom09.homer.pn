@@ -1,2416 +1,2416 @@
 :le:*)abarbare/h
-:no:*)abarbare	h_hs fem stem_acc
+:no:*)abarbare	h_hs fem stem_acc sg
 
 :le:*)/abas
-:no:*)ab as_antos masc
+:no:*)ab as_antos masc sg
 
 :le:*)/ablhros
-:no:*)ablhr	os_ou masc
+:no:*)ablhr	os_ou masc sg
 
 :le:*)aga/qwn
-:no:*)agaqw	n_nos masc
+:no:*)agaqw	n_nos masc sg
 
 :le:*)agakleu/s
-:no:*)agakl	eus_ews masc suff_acc
+:no:*)agakl	eus_ews masc suff_acc sg
 
 :le:*)agamh/dh
-:no:*)agamhd	h_hs fem stem_acc
+:no:*)agamhd	h_hs fem stem_acc sg
 
 :le:*)agaph/nwr
-:no:*)agaphn	wr_oros masc stem_acc
+:no:*)agaphn	wr_oros masc stem_acc sg
 
 :le:*)agasqe/nhs
-:no:*)agasqen	hs_eos masc stem_acc
+:no:*)agasqen	hs_eos masc stem_acc sg
 
 :le:*)aga/strofos
-:no:*)agastrof	os_ou masc
+:no:*)agastrof	os_ou masc sg
 
 :le:*)agauh/
-:no:*)agau	h_hs fem suff_acc
+:no:*)agau	h_hs fem suff_acc sg
 
 :le:*)agauo/s
-:no:*)agau	os_ou masc suff_acc
+:no:*)agau	os_ou masc suff_acc sg
 
 :le:*)age/laos
-:no:*)agela	os_ou masc
+:no:*)agela	os_ou masc sg
 
 :le:*)age/lews
-:no:*)agele ws_w masc
+:no:*)agele ws_w masc sg
 
 :le:*)agh/nwr
-:no:*)aghn	wr_oros masc stem_acc
+:no:*)aghn	wr_oros masc stem_acc sg
 
 :le:*)aglai/a
-:no:*)aglai h_hs fem 
+:no:*)aglai h_hs fem  sg
 
 :le:*)agkai=os
-:no:*)agkai_	os_ou masc stem_acc
+:no:*)agkai_	os_ou masc stem_acc sg
 
 :le:*)/agrios
-:no:*)agri os_ou masc
+:no:*)agri os_ou masc sg
 
 :le:*)agxi/alos
-:no:*)agxial	os_ou masc
+:no:*)agxial	os_ou masc sg
 
 :le:*)agxi/shs
-:no:*)agxis	hs_ou masc stem_acc
+:no:*)agxis	hs_ou masc stem_acc sg
 
 :le:*)agxisia/dhs
-:no:*)agxisiad	hs_ou masc stem_acc
+:no:*)agxisiad	hs_ou masc stem_acc sg
 
 :le:*)ada/mas
-:no:*)adam	as_antos masc stem_acc
+:no:*)adam	as_antos masc stem_acc sg
 
 :le:*)/admhtos
-:no:*)admht	os_ou masc
+:no:*)admht	os_ou masc sg
 
 :le:*)adrh/sth
-:no:*)adrhst	h_hs fem stem_acc
+:no:*)adrhst	h_hs fem stem_acc sg
 
 :le:*)adrhsti/nh
-:no:*)adrhstin h_hs fem
+:no:*)adrhstin h_hs fem sg
 
 :le:*)/adrhstos
-:no:*)adrhst	os_ou masc
+:no:*)adrhst	os_ou masc sg
 
 :le:*)azei/+dhs
-:no:*)azei+d	hs_ou masc stem_acc
+:no:*)azei+d	hs_ou masc stem_acc sg
 
 :le:*ai)ai/h
-:no:*ai)ai	h_hs fem stem_acc
+:no:*ai)ai	h_hs fem stem_acc sg
 
 :le:*ai)ako/s
-:no:*ai)ak	os_ou masc suff_acc
+:no:*ai)ak	os_ou masc suff_acc sg
 
 :le:*ai)/as
-:no:*ai)	as_antos masc stem_acc
+:no:*ai)	as_antos masc stem_acc sg
 
 :le:*ai)gai/
-:no:*ai)g	hs_ou fem pl suff_acc
+:no:*ai)g	hs_ou fem pl suff_acc 
 
 :le:*ai)gei/+dhs
-:no:*ai)gei+d	hs_ou masc stem_acc
+:no:*ai)gei+d	hs_ou masc stem_acc sg
 
 :le:*ai)gia/leia
-:no:*ai)gialei	a_hs fem
+:no:*ai)gialei	a_hs fem sg
 
 :le:*ai)gialo/s
-:no:*ai)gial	os_ou masc suff_acc
+:no:*ai)gial	os_ou masc suff_acc sg
 
 :le:*ai)gi/liy
-:no:*ai)gili y_pos fem geog_name
+:no:*ai)gili y_pos fem geog_name sg
 
 :le:*ai)/gion
-:no:*ai)gi	os_ou neut geog_name
+:no:*ai)gi	os_ou neut geog_name sg
 
 :le:*ai)/gisqos
-:no:*ai)gisq	os_ou masc
+:no:*ai)gisq	os_ou masc sg
 
 :le:*ai)/guptos
-:no:*ai)gupt	os_ou masc
+:no:*ai)gupt	os_ou masc sg
 
 :le:*ai)h/ths
-:no:*ai)ht	hs_ou masc stem_acc
+:no:*ai)ht	hs_ou masc stem_acc sg
 
 :le:*ai)/qh
-:no:*ai)q	h_hs fem stem_acc
+:no:*ai)q	h_hs fem stem_acc sg
 
 :le:*ai)/qic
-:no:*ai)qi	c_kos masc stem_acc
+:no:*ai)qi	c_kos masc stem_acc sg
 
 :le:*ai)/qrh
-:no:*ai)qr	h_hs fem stem_acc
+:no:*ai)qr	h_hs fem stem_acc sg
 
 :le:*ai)/qwn
-:no:*ai)q	wn_onos masc stem_acc
+:no:*ai)q	wn_onos masc stem_acc sg
 
 :le:*ai(/mwn
-:no:*ai(m	wn_onos masc stem_acc
+:no:*ai(m	wn_onos masc stem_acc sg
 
 :le:*ai(moni/dhs
-:no:*ai(monid	hs_ou masc stem_acc
+:no:*ai(monid	hs_ou masc stem_acc sg
 
 :le:*ai)/nios
-:no:*ai)ni	os_ou masc
+:no:*ai)ni	os_ou masc sg
 
 :le:*ai)=nos
-:no:*ai)n os_ou masc geog_name
+:no:*ai)n os_ou masc geog_name sg
 :wd:*ai)no/qen adverb
 
 :le:*ai)oli/dhs
-:no:*ai)olid	hs_ou masc stem_acc
+:no:*ai)olid	hs_ou masc stem_acc sg
 
 :le:*ai)oli/h
-:no:*ai)oli	h_hs fem stem_acc
+:no:*ai)oli	h_hs fem stem_acc sg
 
 :le:*ai)/olos
-:no:*ai)ol	os_ou masc
+:no:*ai)ol	os_ou masc sg
 
 :le:*ai)/peia
-:no:*ai)pei	a_hs fem
+:no:*ai)pei	a_hs fem sg
 
 :le:*ai)pu/
-:no:*ai)p	us_ews neut suff_acc
+:no:*ai)p	us_ews neut suff_acc sg
 
 :le:*ai)pu/tios
-:no:*ai)puti	os_ou masc
+:no:*ai)puti	os_ou masc sg
 
 :le:*ai)/shpos
-:no:*ai)shp	os_ou masc
+:no:*ai)shp	os_ou masc sg
 
 :le:*ai)/swn
-:no:*ai)s	wn_onos masc stem_acc
+:no:*ai)s	wn_onos masc stem_acc sg
 
 :le:*ai)suh/ths
-:no:*ai)suht	hs_ou masc stem_acc
+:no:*ai)suht	hs_ou masc stem_acc sg
 
 :le:*ai)/sumnos
-:no:*ai)sumn	os_ou masc
+:no:*ai)sumn	os_ou masc sg
 
 :le:*ai)tw/lios
-:no:*ai)twli	os_ou masc
+:no:*ai)twli	os_ou masc sg
 
 :le:*)aka/mas
-:no:*)akam	as_antos masc stem_acc
+:no:*)akam	as_antos masc stem_acc sg
 
 :le:*)/akastos
-:no:*)akast	os_ou masc
+:no:*)akast	os_ou masc sg
 
 :le:*)akessameno/s
-:no:*)akessamen	os_ou masc suff_acc
+:no:*)akessamen	os_ou masc suff_acc sg
 
 :le:*)akrisiw/nh
-:no:*)akrisiwn	h_hs fem stem_acc
+:no:*)akrisiwn	h_hs fem stem_acc sg
 
 :le:*)akro/news
-:no:*)akrone	ws_w masc
+:no:*)akrone	ws_w masc sg
 
 :le:*)aktai/h
-:no:*)aktai	h_hs fem stem_acc
+:no:*)aktai	h_hs fem stem_acc sg
 
 :le:*)aktori/dhs
-:no:*)aktorid	hs_ou masc stem_acc
+:no:*)aktorid	hs_ou masc stem_acc sg
 
 :le:*)aktori/s
-:no:*)aktor	is_idos fem suff_acc
+:no:*)aktor	is_idos fem suff_acc sg
 
 :le:*)aktori/wn
-:no:*)aktoriw	n_nos masc
+:no:*)aktoriw	n_nos masc sg
 
 :le:*)/aktwr
-:no:*)akt	wr_oros masc
+:no:*)akt	wr_oros masc sg
 
 :le:*)ala/stwr
-:no:*)alast	wr_oros masc stem_acc
+:no:*)alast	wr_oros masc stem_acc sg
 
 :le:*)alastori/dhs
-:no:*)alastorid	hs_ou masc stem_acc
+:no:*)alastorid	hs_ou masc stem_acc sg
 
 :le:*)aleghnori/dhs
-:no:*)aleghnorid	hs_ou masc stem_acc
+:no:*)aleghnorid	hs_ou masc stem_acc sg
 
 :le:*)ale/ktwr
-:no:*)alekt	wr_oros masc stem_acc
+:no:*)alekt	wr_oros masc stem_acc sg
 
 :le:*)alektruw/n
-:no:*)alektru	wn_onos masc suff_acc
+:no:*)alektru	wn_onos masc suff_acc sg
 
 :le:*)ale/candros
-:no:*)alecandr	os_ou masc
+:no:*)alecandr	os_ou masc sg
 
 :le:*)alh/sios
-:no:*)alhsi	os_ou masc
+:no:*)alhsi	os_ou masc sg
 
 :le:*)alqai/h
-:no:*)alqai	h_hs fem stem_acc
+:no:*)alqai	h_hs fem stem_acc sg
 
 :le:*(ali/artos
-:no:*(aliart	os_ou masc
+:no:*(aliart	os_ou masc sg
 
 :le:*(alizw/n
-:no:*(alizw	n_nos masc
+:no:*(alizw	n_nos masc sg
 
 :le:*(ali/h
-:no:*(ali	h_hs fem stem_acc
+:no:*(ali	h_hs fem stem_acc sg
 
 :le:*(/alios
-:no:*(ali	os_ou masc
+:no:*(ali	os_ou masc sg
 
 :le:*)alka/qoos
-:no:*)alkaqo	os_ou masc
+:no:*)alkaqo	os_ou masc sg
 
 :le:*)alka/ndrh
-:no:*)alkandr	h_hs fem stem_acc
+:no:*)alkandr	h_hs fem stem_acc sg
 
 :le:*)/alkandros
-:no:*)alkandr	os_ou masc
+:no:*)alkandr	os_ou masc sg
 
 :le:*)alkh/
-:no:*)alk	h_hs fem suff_acc
+:no:*)alk	h_hs fem suff_acc sg
 
 :le:*)/alkhstis
-:no:*)alkhst	is_idos fem
+:no:*)alkhst	is_idos fem sg
 
 :le:*)alkime/dwn
-:no:*)alkimed	wn_ontos masc
+:no:*)alkimed	wn_ontos masc sg
 
 :le:*)alkimi/dhs
-:no:*)alkimid	hs_ou masc stem_acc
+:no:*)alkimid	hs_ou masc stem_acc sg
 
 :le:*)/alkimos
-:no:*)alkim	os_ou masc
+:no:*)alkim	os_ou masc sg
 
 :le:*)alki/noos
-:no:*)alkino	os_ou masc
+:no:*)alkino	os_ou masc sg
 
 :le:*)alki/pph
-:no:*)alkipp	h_hs fem stem_acc
+:no:*)alkipp	h_hs fem stem_acc sg
 
 :le:*)alkmai/wn
-:no:*)alkmai	wn_onos masc stem_acc
+:no:*)alkmai	wn_onos masc stem_acc sg
 
 :le:*)alkma/wn
-:no:*)alkma	wn_onos masc stem_acc
+:no:*)alkma	wn_onos masc stem_acc sg
 
 :le:*)alkmh/nh
-:no:*)alkmhn	h_hs fem stem_acc
+:no:*)alkmhn	h_hs fem stem_acc sg
 
 :le:*)alkuo/nh
-:no:*)alkuon	h_hs fem stem_acc
+:no:*)alkuon	h_hs fem stem_acc sg
 
 :le:*)/alos
-:no:*)al	os_ou masc
+:no:*)al	os_ou masc sg
 
 :le:*)alo/ph
-:no:*)alop	h_hs fem stem_acc
+:no:*)alop	h_hs fem stem_acc sg
 
 :le:*)/alths
-:no:*)alt	hs_ou masc
+:no:*)alt	hs_ou masc sg
 
 :le:*)/alubas
-:no:*)alub	as_antos masc
+:no:*)alub	as_antos masc sg
 
 :le:*)alu/bh
-:no:*)alub	h_hs fem stem_acc
+:no:*)alub	h_hs fem stem_acc sg
 
 :le:*)alfeio/s
-:no:*)alfei	os_ou masc suff_acc
+:no:*)alfei	os_ou masc suff_acc sg
 
 :le:*)alweu/s
-:no:*)alw	eus_ews masc suff_acc
+:no:*)alw	eus_ews masc suff_acc sg
 
 :le:*)ama/qeia
-:no:*)amaqei	a_hs fem
+:no:*)amaqei	a_hs fem sg
 
 :le:*)/amaca
-:no:*)amac a_hs fem
+:no:*)amac a_hs fem sg
 
 :le:*)amarugkeu/s
-:no:*)amarugk	eus_ews masc suff_acc
+:no:*)amarugk	eus_ews masc suff_acc sg
 
 :le:*)amarugkei/+dhs
-:no:*)amarugkei+d	hs_ou masc stem_acc
+:no:*)amarugkei+d	hs_ou masc stem_acc sg
 
 :le:*)amisw/daros
-:no:*)amiswdar	os_ou masc
+:no:*)amiswdar	os_ou masc sg
 
 :le:*)amniso/s
-:no:*)amnis os_ou fem suff_acc geog_name
+:no:*)amnis os_ou fem suff_acc geog_name sg
 
 :le:*)amopa/wn
-:no:*)amopa	wn_onos masc stem_acc
+:no:*)amopa	wn_onos masc stem_acc sg
 
 :le:*)amudw/n
-:no:*)amudw	n_nos masc stem_acc
+:no:*)amudw	n_nos masc stem_acc sg
 
 :le:*)amuqa/wn
-:no:*)amuqa	wn_onos masc stem_acc
+:no:*)amuqa	wn_onos masc stem_acc sg
 
 :le:*)amu/ntwr
-:no:*)amunt	wr_oros masc stem_acc
+:no:*)amunt	wr_oros masc stem_acc sg
 
 :le:*)amfi/alos
-:no:*)amfial	os_ou masc
+:no:*)amfial	os_ou masc sg
 
 :le:*)amfige/neia
-:no:*)amfigenei	a_hs fem
+:no:*)amfigenei	a_hs fem sg
 
 :le:*)amfida/mas
-:no:*)amfidam	as_antos masc stem_acc
+:no:*)amfidam	as_antos masc stem_acc sg
 
 :le:*)amfiqe/h
-:no:*)amfiqe	h_hs fem stem_acc
+:no:*)amfiqe	h_hs fem stem_acc sg
 
 :le:*)amfiqo/h
-:no:*)amfiqo	h_hs fem stem_acc
+:no:*)amfiqo	h_hs fem stem_acc sg
 
 :le:*)/amfiklos
-:no:*)amfikl	os_ou masc
+:no:*)amfikl	os_ou masc sg
 
 :le:*)amfi/loxos
-:no:*)amfilox	os_ou masc
+:no:*)amfilox	os_ou masc sg
 
 :le:*)amfi/maxos
-:no:*)amfimax	os_ou masc
+:no:*)amfimax	os_ou masc sg
 
 :le:*)amfime/dwn
-:no:*)amfimed	wn_ontos masc
+:no:*)amfimed	wn_ontos masc sg
 
 :le:*)amfino/mh
-:no:*)amfinom	h_hs fem stem_acc
+:no:*)amfinom	h_hs fem stem_acc sg
 
 :le:*)amfi/nomos
-:no:*)amfinom	os_ou masc
+:no:*)amfinom	os_ou masc sg
 
 :le:*)amfi/wn
-:no:*)amfi	wn_onos masc 
+:no:*)amfi	wn_onos masc  sg
 
 :le:*)/amfios
-:no:*)amfi	os_ou masc
+:no:*)amfi	os_ou masc sg
 
 :le:*)amfitri/th
-:no:*)amfitrit	h_hs fem stem_acc
+:no:*)amfitrit	h_hs fem stem_acc sg
 
 :le:*)amfitru/wn
-:no:*)amfitruw	n_nos masc
+:no:*)amfitruw	n_nos masc sg
 
 :le:*)amfotero/s
-:no:*)amfoter	os_ou masc suff_acc
+:no:*)amfoter	os_ou masc suff_acc sg
 
 :le:*)anabhsi/news
-:no:*)anabhsine ws_w masc
+:no:*)anabhsine ws_w masc sg
 
 :le:*)andraimoni/dhs
-:no:*)andraimonid	hs_ou masc stem_acc
+:no:*)andraimonid	hs_ou masc stem_acc sg
 
 :le:*)andrai/mwn
-:no:*)andraim	wn_onos masc stem_acc
+:no:*)andraim	wn_onos masc stem_acc sg
 
 :le:*)androma/xh
-:no:*)andromax	h_hs fem stem_acc
+:no:*)andromax	h_hs fem stem_acc sg
 
 :le:*)anemw/reia
-:no:*)anemwrei	a_hs fem
+:no:*)anemwrei	a_hs fem sg
 
 :le:*)/anqeia
-:no:*)anqei	a_hs fem
+:no:*)anqei	a_hs fem sg
 
 :le:*)anqemi/dhs
-:no:*)anqemid	hs_ou masc stem_acc
+:no:*)anqemid	hs_ou masc stem_acc sg
 
 :le:*)anqemi/wn
-:no:*)anqemiw	n_nos masc
+:no:*)anqemiw	n_nos masc sg
 
 :le:*)anqhdw/n
-:no:*)anqhd	wn_onos masc suff_acc
+:no:*)anqhd	wn_onos masc suff_acc sg
 
 :le:*)/anteia
-:no:*)antei	a_hs fem
+:no:*)antei	a_hs fem sg
 
 :le:*)anthnori/dhs
-:no:*)anthnorid	hs_ou masc stem_acc
+:no:*)anthnorid	hs_ou masc stem_acc sg
 
 :le:*)anti/kleia
-:no:*)antiklei	a_hs fem
+:no:*)antiklei	a_hs fem sg
 
 :le:*)/antiklos
-:no:*)antikl	os_ou masc
+:no:*)antikl	os_ou masc sg
 
 :le:*)anti/loxos
-:no:*)antilox	os_ou masc
+:no:*)antilox	os_ou masc sg
 
 :le:*)anti/maxos
-:no:*)antimax os_ou masc
+:no:*)antimax os_ou masc sg
 
 :le:*)anti/noos
-:no:*)antino	os_ou masc
+:no:*)antino	os_ou masc sg
 
 :le:*)antio/ph
-:no:*)antiop	h_hs fem stem_acc
+:no:*)antiop	h_hs fem stem_acc sg
 
 :le:*)antifa/ths
-:no:*)antifat	hs_ou masc stem_acc
-:no:*)antifat	eus_ews masc suff_acc
+:no:*)antifat	hs_ou masc stem_acc sg
+:no:*)antifat	eus_ews masc suff_acc sg
 
 :le:*)/antifos
-:no:*)antif	os_ou masc
+:no:*)antif	os_ou masc sg
 
 :le:*)anti/fonos
-:no:*)antifon os_ou masc
+:no:*)antifon os_ou masc sg
 
 :le:*)antrw/n
-:no:*)antrw	n_nos masc stem_acc
+:no:*)antrw	n_nos masc stem_acc sg
 
 :le:*)acio/s
-:no:*)aci	os_ou masc suff_acc
+:no:*)aci	os_ou masc suff_acc sg
 
 :le:*)/aculos
-:no:*)acul	os_ou masc
+:no:*)acul	os_ou masc sg
 
 :le:*)apaiso/s
-:no:*)apais	os_ou masc suff_acc
+:no:*)apais	os_ou masc suff_acc sg
 
 :le:*)apisa/wn
-:no:*)apisa	wn_onos masc stem_acc
+:no:*)apisa	wn_onos masc stem_acc sg
 
 :le:*)araiqure/h
-:no:*)araiqure	h_hs fem stem_acc
+:no:*)araiqure	h_hs fem stem_acc sg
 
 :le:*)argea/dhs
-:no:*)argead	hs_ou masc stem_acc
+:no:*)argead	hs_ou masc stem_acc sg
 
 :le:*)/argissa
-:no:*)argiss	a_hs fem
+:no:*)argiss	a_hs fem sg
 
 :le:*)/argos
-:no:*)arg	os_ou masc
+:no:*)arg	os_ou masc sg
 
 :le:*)areta/wn
-:no:*)areta	wn_onos masc stem_acc
+:no:*)areta	wn_onos masc stem_acc sg
 
 :le:*)arhi/+qoos
-:no:*)arhi+qo	os_ou masc
+:no:*)arhi+qo	os_ou masc sg
 
 :le:*)arhi/+lukos
-:no:*)arhi+luk	os_ou masc
+:no:*)arhi+luk	os_ou masc sg
 
 :le:*)arh/nh
-:no:*)arhn	h_hs fem stem_acc
+:no:*)arhn	h_hs fem stem_acc sg
 
 :le:*)arh/th
-:no:*)arht	h_hs fem stem_acc
+:no:*)arht	h_hs fem stem_acc sg
 
 :le:*)arhtia/dhs
-:no:*)arhtiad	hs_ou masc stem_acc
+:no:*)arhtiad	hs_ou masc stem_acc sg
 
 :le:*)/arhtos
-:no:*)arht	os_ou masc
+:no:*)arht	os_ou masc sg
 
 :le:*)aria/dnh
-:no:*)ariadn	h_hs fem stem_acc
+:no:*)ariadn	h_hs fem stem_acc sg
 
 :le:*)ari/wn
-:no:*)ari	wn_onos masc stem_acc
+:no:*)ari	wn_onos masc stem_acc sg
 
 :le:*)ari/sbas
-:no:*)arisb	as_antos masc stem_acc
+:no:*)arisb	as_antos masc stem_acc sg
 
 :le:*)arkadi/h
-:no:*)arkadi	h_hs fem stem_acc
+:no:*)arkadi	h_hs fem stem_acc sg
 
 :le:*)arkeisia/dhs
-:no:*)arkeisiad	hs_ou masc stem_acc
+:no:*)arkeisiad	hs_ou masc stem_acc sg
 
 :le:*)arkei/sios
-:no:*)arkeisi	os_ou masc
+:no:*)arkeisi	os_ou masc sg
 
 :le:*)arkesi/laos
-:no:*)arkesila	os_ou masc
+:no:*)arkesila	os_ou masc sg
 
 :le:*)/arktos
-:no:*)arkt	os_ou masc
+:no:*)arkt	os_ou masc sg
 
 :le:*(armoni/dhs
-:no:*(armonid	hs_ou masc stem_acc
+:no:*(armonid	hs_ou masc stem_acc sg
 
 :le:*)/arnh
-:no:*)arn	h_hs fem
+:no:*)arn	h_hs fem sg
 
 :le:*(arpali/wn
-:no:*(arpali	wn_onos masc stem_acc
+:no:*(arpali	wn_onos masc stem_acc sg
 
 :le:*(/arpuia
-:no:*(arpui	a_hs fem
+:no:*(arpui	a_hs fem sg
 
 :le:*)arsi/noos
-:no:*)arsino	os_ou masc
+:no:*)arsino	os_ou masc sg
 
 :le:*)artaki/h
-:no:*)artaki	h_hs fem stem_acc
+:no:*)artaki	h_hs fem stem_acc sg
 
 :le:*)aru/bas
-:no:*)arub	as_antos masc stem_acc
+:no:*)arub	as_antos masc stem_acc sg
 
 :le:*)arxe/loxos
-:no:*)arxelox	os_ou masc
+:no:*)arxelox	os_ou masc sg
 
 :le:*)arxepto/lemos
-:no:*)arxeptolem	os_ou masc
+:no:*)arxeptolem	os_ou masc sg
 
 :le:*)asai=os
-:no:*)asai_	os_ou masc stem_acc
+:no:*)asai_	os_ou masc stem_acc sg
 
 :le:*)asia/dhs
-:no:*)asiad	hs_ou masc stem_acc
+:no:*)asiad	hs_ou masc stem_acc sg
 
 :le:*)asi/nh
-:no:*)asin	h_hs fem stem_acc
+:no:*)asin	h_hs fem stem_acc sg
 
 :le:*)aska/lafos
-:no:*)askalaf	os_ou masc
+:no:*)askalaf	os_ou masc sg
 
 :le:*)askani/h
-:no:*)askani	h_hs fem stem_acc
+:no:*)askani	h_hs fem stem_acc sg
 
 :le:*)aska/nios
-:no:*)askani	os_ou masc
+:no:*)askani	os_ou masc sg
 
 :le:*)asplhdw/n
-:no:*)asplhd	wn_onos masc suff_acc
+:no:*)asplhd	wn_onos masc suff_acc sg
 
 :le:*)assa/rakos
-:no:*)assarak	os_ou masc
+:no:*)assarak	os_ou masc sg
 
 :le:*)aste/rios
-:no:*)asteri	os_ou masc
+:no:*)asteri	os_ou masc sg
 
 :le:*)asteri/s
-:no:*)aster	is_idos fem suff_acc
+:no:*)aster	is_idos fem suff_acc sg
 
 :le:*)asteropai=os
-:no:*)asteropai_	os_ou masc stem_acc
+:no:*)asteropai_	os_ou masc stem_acc sg
 
 :le:*)astu/alos
-:no:*)astual	os_ou masc
+:no:*)astual	os_ou masc sg
 
 :le:*)astua/nac
-:no:*)astuana	c_ktos masc ant_acc
+:no:*)astuana	c_ktos masc ant_acc sg
 
 :le:*)astu/noos
-:no:*)astuno	os_ou masc
+:no:*)astuno	os_ou masc sg
 
 :le:*)astuo/xeia
-:no:*)astuoxei	a_hs fem
+:no:*)astuoxei	a_hs fem sg
 
 :le:*)astuo/xh
-:no:*)astuox	h_hs fem stem_acc
+:no:*)astuox	h_hs fem stem_acc sg
 
 :le:*)astu/pulos
-:no:*)astupul	os_ou masc
+:no:*)astupul	os_ou masc sg
 
 :le:*)asfali/wn
-:no:*)asfali	wn_onos masc stem_acc
+:no:*)asfali	wn_onos masc stem_acc sg
 
 :le:*)aswpo/s
-:no:*)aswp	os_ou masc suff_acc
+:no:*)aswp	os_ou masc suff_acc sg
 
 :le:*)/ath
-:no:*)at	h_hs fem
+:no:*)at	h_hs fem sg
 
 :le:*)atreu/s
-:no:*)atr	eus_ews masc suff_acc
+:no:*)atr	eus_ews masc suff_acc sg
 
 :le:*)atumnia/dhs
-:no:*)atumniad	hs_ou masc stem_acc
+:no:*)atumniad	hs_ou masc stem_acc sg
 
 :le:*)atu/mnios
-:no:*)atumni	os_ou masc
+:no:*)atumni	os_ou masc sg
 
 :le:*au)gei/as
-:no:*au)gei	hs_ou masc stem_acc
+:no:*au)gei	hs_ou masc stem_acc sg
 
 :le:*au)ghi+a/dhs
-:no:*au)ghi+ad	hs_ou masc stem_acc
+:no:*au)ghi+ad	hs_ou masc stem_acc sg
 
 :le:*au)li/s
-:no:*au)l	is_idos fem suff_acc
+:no:*au)l	is_idos fem suff_acc sg
 
 :le:*au)to/lukos
-:no:*au)toluk	os_ou masc
+:no:*au)toluk	os_ou masc sg
 
 :le:*au)tome/dwn
-:no:*au)tomed	wn_ontos masc
+:no:*au)tomed	wn_ontos masc sg
 
 :le:*au)tono/h
-:no:*au)tono	h_hs fem stem_acc
+:no:*au)tono	h_hs fem stem_acc sg
 
 :le:*au)to/noos
-:no:*au)tono	os_ou masc
+:no:*au)tono	os_ou masc sg
 
 :le:*au)to/fonos
-:no:*au)tofon	os_ou masc
+:no:*au)tofon	os_ou masc sg
 
 :le:*)afareu/s
-:no:*)afar	eus_ews masc suff_acc
+:no:*)afar	eus_ews masc suff_acc sg
 
 :le:*)ayeudh/s
-:no:*)ayeud	hs_ou masc suff_acc
+:no:*)ayeud	hs_ou masc suff_acc sg
 
 :le:*baqukleu/s
-:no:*baqukl	eus_ews masc suff_acc
+:no:*baqukl	eus_ews masc suff_acc sg
 
 :le:*bali/os
-:no:*bali os_ou masc stem_acc
+:no:*bali os_ou masc stem_acc sg
 
 :le:*bati/eia
-:no:*batiei a_hs fem geog_name
+:no:*batiei a_hs fem geog_name sg
 
 :le:*bellerofo/nths
-:no:*bellerofont	hs_ou masc stem_acc
+:no:*bellerofont	hs_ou masc stem_acc sg
 
 :le:*bh=ssa
-:no:*bhss	a_hs fem stem_acc
+:no:*bhss	a_hs fem stem_acc sg
 
 :le:*bia/nwr
-:no:*bian	wr_oros masc stem_acc
+:no:*bian	wr_oros masc stem_acc sg
 
 :le:*bi/as
-:no:*bi	as_antos masc stem_acc
+:no:*bi	as_antos masc stem_acc sg
 
 :le:*boa/grios
-:no:*boagri	os_ou masc
+:no:*boagri	os_ou masc sg
 
 :le:*bohqoi/+dhs
-:no:*bohqoi+d	hs_ou masc stem_acc
+:no:*bohqoi+d	hs_ou masc stem_acc sg
 
 :le:*boi/bh
-:no:*boib	h_hs fem stem_acc
+:no:*boib	h_hs fem stem_acc sg
 
 :le:*boibhi/s
-:no:*boibh is_idos fem suff_acc geog_name
+:no:*boibh is_idos fem suff_acc geog_name sg
 
 :le:*bore/hs
-:no:*bore	hs_ou masc stem_acc
+:no:*bore	hs_ou masc stem_acc sg
 
 :le:*bou/deion
-:no:*boudei	os_ou neut geog_name
+:no:*boudei	os_ou neut geog_name sg
 
 :le:*boukoli/dhs
-:no:*boukolid	hs_ou masc stem_acc
+:no:*boukolid	hs_ou masc stem_acc sg
 
 :le:*boupra/sios
-:no:*bouprasi	os_ou masc
+:no:*bouprasi	os_ou masc sg
 
 :le:*bow/ths
-:no:*bowt	hs_ou masc stem_acc
+:no:*bowt	hs_ou masc stem_acc sg
 
 :le:*bria/rews
 
 
 :le:*briseu/s
-:no:*bris	eus_ews masc suff_acc
+:no:*bris	eus_ews masc suff_acc sg
 
 :le:*bw=ros
-:no:*bw_r	os_ou masc stem_acc
+:no:*bw_r	os_ou masc stem_acc sg
 
 :le:*gala/teia
-:no:*galatei	a_hs fem
+:no:*galatei	a_hs fem sg
 
 :le:*ga/rgaron
-:no:*gargar	os_ou neut geog_name
+:no:*gargar	os_ou neut geog_name sg
 
 :le:*geraisto/s
-:no:*geraist	os_ou masc suff_acc
+:no:*geraist	os_ou masc suff_acc sg
 
 :le:*gerh/nios
-:no:*gerhni	os_ou masc
+:no:*gerhni	os_ou masc sg
 
 :le:*gi/gas
-:no:*gig	as_antos masc stem_acc
+:no:*gig	as_antos masc stem_acc sg
 
 :le:*glau/kh
-:no:*glauk	h_hs fem stem_acc
+:no:*glauk	h_hs fem stem_acc sg
 
 :le:*glau=kos
-:no:*glau_k	os_ou masc stem_acc
+:no:*glau_k	os_ou masc stem_acc sg
 
 :le:*gouneu/s
-:no:*goun	eus_ews masc suff_acc
+:no:*goun	eus_ews masc suff_acc sg
 
 :le:*grh/nikos
-:no:*grhnik	os_ou masc
+:no:*grhnik	os_ou masc sg
 
 :le:*gugai/h
-:no:*gugai	h_hs fem stem_acc
+:no:*gugai	h_hs fem stem_acc sg
 
 :le:*dai/dalos
-:no:*daidal	os_ou masc
+:no:*daidal	os_ou masc sg
 
 :le:*dai/tora
-:no:*daitor	a_hs fem
+:no:*daitor	a_hs fem sg
 
 :le:*da/mason
-:no:*damas	os_ou neut geog_name
+:no:*damas	os_ou neut geog_name sg
 
 :le:*damastori/dhs
-:no:*damastorid	hs_ou masc stem_acc
+:no:*damastorid	hs_ou masc stem_acc sg
 
 :le:*dana/h
-:no:*dana	h_hs fem stem_acc
+:no:*dana	h_hs fem stem_acc sg
 
 :le:*dei=mos
-:no:*dei_m	os_ou masc stem_acc
+:no:*dei_m	os_ou masc stem_acc sg
 
 :le:*deish/nwr
-:no:*deishn	wr_oros masc stem_acc
+:no:*deishn	wr_oros masc stem_acc sg
 
 :le:*decame/nh
-:no:*decamen	h_hs fem stem_acc
+:no:*decamen	h_hs fem stem_acc sg
 
 :le:*decia/dh
-:no:*deciad	h_hs fem stem_acc
+:no:*deciad	h_hs fem stem_acc sg
 
 :le:*deukali/dh
-:no:*deukalid	h_hs fem stem_acc
+:no:*deukalid	h_hs fem stem_acc sg
 
 :le:*dhi+opi/ths
-:no:*dhi+opit	hs_ou masc stem_acc
+:no:*dhi+opit	hs_ou masc stem_acc sg
 
 :le:*dhi/+oxos
-:no:*dhi+ox	os_ou masc
+:no:*dhi+ox	os_ou masc sg
 
 :le:*dhi/+pulos
-:no:*dhi+pul	os_ou masc
+:no:*dhi+pul	os_ou masc sg
 
 :le:*dhi/+puros
-:no:*dhi+pur	os_ou masc
+:no:*dhi+pur	os_ou masc sg
 
 :le:*dhi/+fobos
-:no:*dhi+fob	os_ou masc
+:no:*dhi+fob	os_ou masc sg
 
 :le:*dhmo/dokos
-:no:*dhmodok	os_ou masc
+:no:*dhmodok	os_ou masc sg
 
 :le:*dhmopto/lemos
-:no:*dhmoptolem	os_ou masc
+:no:*dhmoptolem	os_ou masc sg
 
 :le:*dhmou=xos
-:no:*dhmou_x	os_ou masc stem_acc
+:no:*dhmou_x	os_ou masc stem_acc sg
 
 :le:*di/h
-:no:*di	h_hs fem stem_acc pers_name
+:no:*di	h_hs fem stem_acc pers_name sg
 
 :le:*diw/nh
-:no:*diwn	h_hs fem stem_acc
+:no:*diwn	h_hs fem stem_acc sg
 
 :le:*dmh/twr
-:no:*dmht	wr_oros masc stem_acc
+:no:*dmht	wr_oros masc stem_acc sg
 
 :le:*doli/os
-:no:*doli	os_ou masc stem_acc
+:no:*doli	os_ou masc stem_acc sg
 
 :le:*do/ruklos
-:no:*dorukl	os_ou masc
+:no:*dorukl	os_ou masc sg
 
 :le:*doulixieu/s
-:no:*doulixi	eus_ews masc suff_acc
+:no:*doulixi	eus_ews masc suff_acc sg
 
 :le:*douli/xios
-:no:*doulixi	os_ou masc
+:no:*doulixi	os_ou masc sg
 :wd:*douli/xionde adverb
 
 :le:*draki/os
-:no:*draki	os_ou masc stem_acc
+:no:*draki	os_ou masc stem_acc sg
 
 :le:*drh=son
-:no:*drh_s	os_ou neut geog_name stem_acc
+:no:*drh_s	os_ou neut geog_name stem_acc sg
 
 :le:*dru/as
-:no:*dru	as_antos masc stem_acc
+:no:*dru	as_antos masc stem_acc sg
 
 :le:*du/mas
-:no:*dum	as_antos masc stem_acc
+:no:*dum	as_antos masc stem_acc sg
 
 :le:*duname/nh
-:no:*dunamen	h_hs fem stem_acc
+:no:*dunamen	h_hs fem stem_acc sg
 
 :le:*ei)doqe/h
-:no:*ei)doqe	h_hs fem stem_acc
+:no:*ei)doqe	h_hs fem stem_acc sg
 
 :le:*ei)le/sion
-:no:*ei)lesi	os_ou neut geog_name
+:no:*ei)lesi	os_ou neut geog_name sg
 
 :le:*(eka/bh
-:no:*(ekab	h_hs fem stem_acc
+:no:*(ekab	h_hs fem stem_acc sg
 
 :le:*(ekamh/dh
-:no:*(ekamhd	h_hs fem stem_acc
+:no:*(ekamhd	h_hs fem stem_acc sg
 
 :le:*(/ektwr
-:no:*(ekt	wr_oros masc
+:no:*(ekt	wr_oros masc sg
 
 :le:*(ektori/dhs
-:no:*(ektorid	hs_ou masc
+:no:*(ektorid	hs_ou masc sg
 
 :le:*)/elasos
-:no:*)elas	os_ou masc
+:no:*)elas	os_ou masc sg
 
 :le:*)/elatos
-:no:*)elat	os_ou masc
+:no:*)elat	os_ou masc sg
 
 :le:*)elatreu/s
-:no:*)elatr	eus_ews masc suff_acc
+:no:*)elatr	eus_ews masc suff_acc sg
 
 :le:*(ele/nh
-:no:*(elen	h_hs fem stem_acc
+:no:*(elen	h_hs fem stem_acc sg
 
 :le:*(/elenos
-:no:*(elen	os_ou masc
+:no:*(elen	os_ou masc sg
 
 :le:*)elefh/nwr
-:no:*)elefhn	wr_oros masc stem_acc
+:no:*)elefhn	wr_oros masc stem_acc sg
 
 :le:*(elika/wn
-:no:*(elika	wn_onos masc stem_acc
+:no:*(elika	wn_onos masc stem_acc sg
 
 :le:*(eli/kh
-:no:*(elik	h_hs fem stem_acc
+:no:*(elik	h_hs fem stem_acc sg
 
 :le:*)elph/nwr
-:no:*)elphn	wr_oros masc stem_acc
+:no:*)elphn	wr_oros masc stem_acc sg
 
 :le:*)enetoi/
-:no:*)enet	os_ou masc pl suff_acc
+:no:*)enet	os_ou masc pl suff_acc 
 
 :le:*)enipeu/s
-:no:*)enip	eus_ews masc suff_acc
+:no:*)enip	eus_ews masc suff_acc sg
 
 :le:*)/ennomos
-:no:*)ennom	os_ou masc
+:no:*)ennom	os_ou masc sg
 
 :le:*)enua/lios
-:no:*)enuali	os_ou masc
+:no:*)enuali	os_ou masc sg
 
 :le:*)enueu/s
-:no:*)enu	eus_ews masc suff_acc
+:no:*)enu	eus_ews masc suff_acc sg
 
 :le:*)eca/dios
-:no:*)ecadi	os_ou masc
+:no:*)ecadi	os_ou masc sg
 
 :le:*)epa/lths
-:no:*)epalt	hs_ou masc stem_acc
+:no:*)epalt	hs_ou masc stem_acc sg
 
 :le:*)epeigeu/s
-:no:*)epeig	eus_ews masc suff_acc
+:no:*)epeig	eus_ews masc suff_acc sg
 
 :le:*)eph/ritos
-:no:*)ephrit	os_ou masc
+:no:*)ephrit	os_ou masc sg
 
 :le:*)epikle/hs
-:no:*)epi	klehs_kleous masc suff_acc
+:no:*)epi	klehs_kleous masc suff_acc sg
 
 :le:*)epi/strofos
-:no:*)epistrof	os_ou masc
+:no:*)epistrof	os_ou masc sg
 
 :le:*)epi/stwr
-:no:*)epist wr_oros masc
+:no:*)epist wr_oros masc sg
 
 :le:*(epta/poros
-:no:*(eptapor	os_ou masc
+:no:*(eptapor	os_ou masc sg
 
 :le:*)eremboi/
-:no:*)eremb	os_ou masc pl suff_acc
+:no:*)eremb	os_ou masc pl suff_acc 
 
 :le:*)eretmeu/s
-:no:*)eretm	eus_ews masc suff_acc
+:no:*)eretm	eus_ews masc suff_acc sg
 
 :le:*)/eris
-:no:*)er	is_idos fem
+:no:*)er	is_idos fem sg
 
 :le:*)erifu/lh
-:no:*)eriful	h_hs fem stem_acc
+:no:*)eriful	h_hs fem stem_acc sg
 
 :le:*)erixqo/nios
-:no:*)erixqoni	os_ou masc
+:no:*)erixqoni	os_ou masc sg
 
 :le:*)eriw=pis
-:no:*)eriw_p	is_idos fem stem_acc
+:no:*)eriw_p	is_idos fem stem_acc sg
 
 :le:*(/ermaios
-:no:*(ermai	os_ou masc
+:no:*(ermai	os_ou masc sg
 
 :le:*)eruqi=noi
-:no:*)eruqi_n	os_ou masc pl stem_acc
+:no:*)eruqi_n	os_ou masc pl stem_acc 
 
 :le:*)etewneu/s
-:no:*)etewn	eus_ews masc suff_acc
+:no:*)etewn	eus_ews masc suff_acc sg
 
 :le:*eu)aimoni/dhs
-:no:*eu)aimonid	hs_ou masc stem_acc
+:no:*eu)aimonid	hs_ou masc stem_acc sg
 
 :le:*eu)ai/mwn
-:no:*eu)aim	wn_onos masc stem_acc
+:no:*eu)aim	wn_onos masc stem_acc sg
 
 :le:*eu)/dwros
-:no:*eu)dwr	os_ou masc
+:no:*eu)dwr	os_ou masc sg
 
 :le:*eu)hni/nh
-:no:*eu)hnin	h_hs fem stem_acc
+:no:*eu)hnin	h_hs fem stem_acc sg
 
 :le:*eu)hno/s
-:no:*eu)hn	os_ou masc suff_acc
+:no:*eu)hn	os_ou masc suff_acc sg
 
 :le:*eu)hnori/dhs
-:no:*eu)hnorid	hs_ou masc stem_acc
+:no:*eu)hnorid	hs_ou masc stem_acc sg
 
 :le:*eu)/ippos
-:no:*eu)ipp	os_ou masc
+:no:*eu)ipp	os_ou masc sg
 
 :le:*eu)/maios
-:no:*eu)mai	os_ou masc
+:no:*eu)mai	os_ou masc sg
 
 :le:*eu)/mhlos
-:no:*eu)mhl	os_ou masc
+:no:*eu)mhl	os_ou masc sg
 
 :le:*eu)/nhos
-:no:*eu)nh	os_ou masc
+:no:*eu)nh	os_ou masc sg
 
 :le:*eu)=ros
-:no:*eu)_r	os_ou masc stem_acc
+:no:*eu)_r	os_ou masc stem_acc sg
 
 :le:*eu)rua/dhs
-:no:*eu)ruad	hs_ou masc stem_acc
+:no:*eu)ruad	hs_ou masc stem_acc sg
 
 :le:*eu)ru/alos
-:no:*eu)rual	os_ou masc
+:no:*eu)rual	os_ou masc sg
 
 :le:*eu)ruba/ths
-:no:*eu)rubat	hs_ou masc stem_acc
+:no:*eu)rubat	hs_ou masc stem_acc sg
 
 :le:*eu)ruda/mas
-:no:*eu)rudam	as_antos masc stem_acc
+:no:*eu)rudam	as_antos masc stem_acc sg
 
 :le:*eu)rudi/kh
-:no:*eu)rudik	h_hs fem stem_acc
+:no:*eu)rudik	h_hs fem stem_acc sg
 
 :le:*eu)ru/kleia
-:no:*eu)ruklei	a_hs fem
+:no:*eu)ruklei	a_hs fem sg
 
 :le:*eu)ru/loxos
-:no:*eu)rulox	os_ou masc
+:no:*eu)rulox	os_ou masc sg
 
 :le:*eu)ru/maxos
-:no:*eu)rumax	os_ou masc
+:no:*eu)rumax	os_ou masc sg
 
 :le:*eu)rume/dwn
-:no:*eu)rumed	wn_ontos masc stem_acc
+:no:*eu)rumed	wn_ontos masc stem_acc sg
 
 :le:*eu)rume/dousa
-:no:*eu)rumedous	a_hs fem
+:no:*eu)rumedous	a_hs fem sg
 
 :le:*eu)rumi/dhs
-:no:*eu)rumid	hs_ou masc stem_acc
+:no:*eu)rumid	hs_ou masc stem_acc sg
 
 :le:*eu)runo/mh
-:no:*eu)runom	h_hs fem stem_acc
+:no:*eu)runom	h_hs fem stem_acc sg
 
 :le:*eu)ru/nomos
-:no:*eu)runom	os_ou masc
+:no:*eu)runom	os_ou masc sg
 
 :le:*eu)ru/pulos
-:no:*eu)rupul	os_ou masc
+:no:*eu)rupul	os_ou masc sg
 
 :le:*eu)rusqeu/s
-:no:*eu)rusq	eus_ews masc suff_acc
+:no:*eu)rusq	eus_ews masc suff_acc sg
 
 :le:*eu)ruti/dhs
-:no:*eu)rutid	hs_ou masc stem_acc
+:no:*eu)rutid	hs_ou masc stem_acc sg
 
 :le:*eu)/rutos
-:no:*eu)rut	os_ou masc
+:no:*eu)rut	os_ou masc sg
 
 :le:*)eu/+sswros
-:no:*)eu+sswr	os_ou masc
+:no:*)eu+sswr	os_ou masc sg
 
 :le:*eu)/fhmos
-:no:*eu)fhm	os_ou masc
+:no:*eu)fhm	os_ou masc sg
 
 :le:*eu)fh/ths
-:no:*eu)fht	hs_ou masc stem_acc
+:no:*eu)fht	hs_ou masc stem_acc sg
 
 :le:*eu)/forbos
-:no:*eu)forb	os_ou masc
+:no:*eu)forb	os_ou masc sg
 
 :le:*eu)xh/nwr
-:no:*eu)xhn	wr_oros masc stem_acc
+:no:*eu)xhn	wr_oros masc stem_acc sg
 
 :le:*)efia/lths
-:no:*)efialt	hs_ou masc stem_acc
+:no:*)efialt	hs_ou masc stem_acc sg
 
 :le:*)efu/roi
-:no:*)efur	os_ou masc pl stem_acc
+:no:*)efur	os_ou masc pl stem_acc 
 
 :le:*)exekle/hs
-:no:*)exe	klehs_kleous masc suff_acc
+:no:*)exe	klehs_kleous masc suff_acc sg
 
 :le:*)/exeklos
-:no:*)exekl	os_ou masc
+:no:*)exekl	os_ou masc sg
 
 :le:*)exe/mmwn
-:no:*)exemm	wn_onos masc stem_acc
+:no:*)exemm	wn_onos masc stem_acc sg
 
 :le:*)exe/nhos
-:no:*)exenh	os_ou masc
+:no:*)exenh	os_ou masc sg
 
 :le:*)exe/pwlos
-:no:*)exepwl	os_ou masc
+:no:*)exepwl	os_ou masc sg
 
 :le:*)/exetos
-:no:*)exet	os_ou masc
+:no:*)exet	os_ou masc sg
 
 :le:*)exe/frwn
-:no:*)exefr	wn_onos masc stem_acc
+:no:*)exefr	wn_onos masc stem_acc sg
 
 :le:*)exi/os
-:no:*)exi	os_ou masc stem_acc
+:no:*)exi	os_ou masc stem_acc sg
 
 :le:*zefuri/h
-:no:*zefuri	h_hs fem stem_acc
+:no:*zefuri	h_hs fem stem_acc sg
 
 :le:*ze/furos
-:no:*zefur	os_ou masc
+:no:*zefur	os_ou masc sg
 
 :le:*zh=qos
-:no:*zh_q	os_ou masc stem_acc
+:no:*zh_q	os_ou masc stem_acc sg
 
 :le:*(/hbh
-:no:*(hb	h_hs fem
+:no:*(hb	h_hs fem sg
 
 :le:*)heri/boia
-:no:*)heriboi	a_hs fem
+:no:*)heriboi	a_hs fem sg
 
 :le:*)hi+oneu/s
-:no:*)hi+on	eus_ews masc suff_acc
+:no:*)hi+on	eus_ews masc suff_acc sg
 
 :le:*)hlw/nh
-:no:*)hlwn	h_hs fem stem_acc
+:no:*)hlwn	h_hs fem stem_acc sg
 
 :le:*)hmaqi/h
-:no:*)hmaqi	h_hs fem stem_acc
+:no:*)hmaqi	h_hs fem stem_acc sg
 
 :le:*)hniopeu/s
-:no:*)hniop	eus_ews masc suff_acc
+:no:*)hniop	eus_ews masc suff_acc sg
 
 :le:*)hnopi/dhs
-:no:*)hnopid	hs_ou masc stem_acc
+:no:*)hnopid	hs_ou masc stem_acc sg
 
 :le:*)hputi/dhs
-:no:*)hputid	hs_ou masc stem_acc
+:no:*)hputid	hs_ou masc stem_acc sg
 
 :le:*qa/leia
-:no:*qalei	a_hs fem
+:no:*qalei	a_hs fem sg
 
 :le:*qa/lpios
-:no:*qalpi	os_ou masc
+:no:*qalpi	os_ou masc sg
 
 :le:*qalusia/dhs
-:no:*qalusiad	hs_ou masc stem_acc
+:no:*qalusiad	hs_ou masc stem_acc sg
 
 :le:*qa/natos
-:no:*qanat	os_ou masc
+:no:*qanat	os_ou masc sg
 
 :le:*qaumaki/h
-:no:*qaumaki	h_hs fem stem_acc
+:no:*qaumaki	h_hs fem stem_acc sg
 
 :le:*qeanw/
-:no:*qean	w_oos fem suff_acc
+:no:*qean	w_oos fem suff_acc sg
 
 :le:*qe/mistos
-:no:*qemist	os_ou masc
+:no:*qemist	os_ou masc sg
 
 :le:*qeoklu/menos
-:no:*qeoklumen	os_ou masc
+:no:*qeoklumen	os_ou masc sg
 
 :le:*qersi/loxos
-:no:*qersilox	os_ou masc
+:no:*qersilox	os_ou masc sg
 
 :le:*qesprwtoi/
-:no:*qesprwt	os_ou masc pl suff_acc
+:no:*qesprwt	os_ou masc pl suff_acc 
 
 :le:*qe/stwr
-:no:*qest	wr_oros masc stem_acc
+:no:*qest	wr_oros masc stem_acc sg
 
 :le:*qestori/dhs
-:no:*qestorid	hs_ou masc stem_acc
+:no:*qestorid	hs_ou masc stem_acc sg
 
 :le:*qo/as
-:no:*qo	as_antos masc stem_acc
+:no:*qo	as_antos masc stem_acc sg
 
 :le:*qo/h
-:no:*qo	h_hs fem stem_acc
+:no:*qo	h_hs fem stem_acc sg
 
 :le:*qow/ths
-:no:*qowt	hs_ou masc stem_acc
+:no:*qowt	hs_ou masc stem_acc sg
 
 :le:*qrasi/os
-:no:*qrasi	os_ou masc stem_acc
+:no:*qrasi	os_ou masc stem_acc sg
 
 :le:*qrasu/mhlos
-:no:*qrasumhl	os_ou masc
+:no:*qrasumhl	os_ou masc sg
 
 :le:*qro/nion
-:no:*qroni	os_ou neut geog_name
+:no:*qroni	os_ou neut geog_name sg
 
 :le:*qruo/essa
-:no:*qruoess	a_hs fem
+:no:*qruoess	a_hs fem sg
 
 :le:*qru/on
-:no:*qru	os_ou neut geog_name stem_acc
+:no:*qru	os_ou neut geog_name stem_acc sg
 
 :le:*que/sths
-:no:*quest	hs_ou masc stem_acc
+:no:*quest	hs_ou masc stem_acc sg
 
 :le:*questia/dhs
-:no:*questiad	hs_ou masc stem_acc
+:no:*questiad	hs_ou masc stem_acc sg
 
 :le:*qumbrai=os
-:no:*qumbrai_	os_ou masc stem_acc
+:no:*qumbrai_	os_ou masc stem_acc sg
 
 :le:*qu/mbrhs
-:no:*qumbr	hs_ou masc stem_acc
+:no:*qumbr	hs_ou masc stem_acc sg
 
 :le:*qumoi/ths
-:no:*qumoit	hs_ou masc stem_acc
+:no:*qumoit	hs_ou masc stem_acc sg
 
 :le:*)/iaira
-:no:*)iair	a_hs fem
+:no:*)iair	a_hs fem sg
 
 :le:*)ia/lmenos
-:no:*)ialmen	os_ou masc
+:no:*)ialmen	os_ou masc sg
 
 :le:*)iameno/s
-:no:*)iamen	os_ou masc suff_acc
+:no:*)iamen	os_ou masc suff_acc sg
 
 :le:*)ia/nassa
-:no:*)ianass	a_hs fem
+:no:*)ianass	a_hs fem sg
 
 :le:*)ia/neira
-:no:*)ianeir	a_hs fem
+:no:*)ianeir	a_hs fem sg
 
 :le:*)ia/petos
-:no:*)iapet	os_ou masc
+:no:*)iapet	os_ou masc sg
 
 :le:*)ia/rdanos
-:no:*)iardan	os_ou masc
+:no:*)iardan	os_ou masc sg
 
 :le:*)iasi/dhs
-:no:*)iasid	hs_ou masc stem_acc
+:no:*)iasid	hs_ou masc stem_acc sg
 
 :le:*)/iasos
-:no:*)i_as	os_ou masc
+:no:*)i_as	os_ou masc sg
 
 :le:*)iawlko/s
-:no:*)iawlk	os_ou masc suff_acc
+:no:*)iawlk	os_ou masc suff_acc sg
 
 :le:*)/idhs
-:no:*)id	hs_ou masc
+:no:*)id	hs_ou masc sg
 
 :le:*)ihluso/s
-:no:*)ihlus	os_ou masc suff_acc
+:no:*)ihlus	os_ou masc suff_acc sg
 
 :le:*)ia/swn
-:no:*)ia_s	wn_onos masc stem_acc
-:no:*)ihs	wn_onos masc stem_acc
+:no:*)ia_s	wn_onos masc stem_acc sg
+:no:*)ihs	wn_onos masc stem_acc sg
 
 :le:*)ihsoni/dhs
-:no:*)ihsonid	hs_ou masc stem_acc
+:no:*)ihsonid	hs_ou masc stem_acc sg
 
 :le:*)iqaime/nhs
-:no:*)iqaimen	hs_eos masc stem_acc
+:no:*)iqaimen	hs_eos masc stem_acc sg
 
 :le:*)iqw/mh
-:no:*)iqwm h_hs fem geog_name
+:no:*)iqwm h_hs fem geog_name sg
 
 :le:*(iketa/wn
-:no:*(iketa	wn_onos masc stem_acc
+:no:*(iketa	wn_onos masc stem_acc sg
 
 :le:*(iketaoni/dhs
-:no:*(iketaonid	hs_ou masc stem_acc
+:no:*(iketaonid	hs_ou masc stem_acc sg
 
 :le:*)ikmua/lios
-:no:*)ikmuali	os_ou masc
+:no:*)ikmuali	os_ou masc sg
 
 :le:*)ilh/i+os
-:no:*)ilhi+	os_ou masc
+:no:*)ilhi+	os_ou masc sg
 
 :le:*)ilioneu/s
-:no:*)ilion	eus_ews masc suff_acc
+:no:*)ilion	eus_ews masc suff_acc sg
 
 :le:*)=ilos
-:no:*)i_l	os_ou masc
+:no:*)i_l	os_ou masc sg
 
 :le:*)imbrasi/dhs
-:no:*)imbrasid	hs_ou masc stem_acc
+:no:*)imbrasid	hs_ou masc stem_acc sg
 
 :le:*)/imbrios
-:no:*)imbri	os_ou masc
+:no:*)imbri	os_ou masc sg
 
 :le:*(ippasi/dhs
-:no:*(ippasid	hs_ou masc stem_acc
+:no:*(ippasid	hs_ou masc stem_acc sg
 
 :le:*(/ippasos
-:no:*(ippas	os_ou masc
+:no:*(ippas	os_ou masc sg
 
 :le:*(ippoda/mas
-:no:*(ippodam	as_antos masc stem_acc
+:no:*(ippodam	as_antos masc stem_acc sg
 
 :le:*(ippoda/meia
-:no:*(ippodamei	a_hs fem
+:no:*(ippodamei	a_hs fem sg
 
 :le:*(ippo/damos
-:no:*(ippodam	os_ou masc
+:no:*(ippodam	os_ou masc sg
 
 :le:*(ippo/qoos
-:no:*(ippoqo	os_ou masc
+:no:*(ippoqo	os_ou masc sg
 
 :le:*(ippo/loxos
-:no:*(ippolox	os_ou masc
+:no:*(ippolox	os_ou masc sg
 
 :le:*(ippo/maxos
-:no:*(ippomax	os_ou masc
+:no:*(ippomax	os_ou masc sg
 
 :le:*(ippo/noos
-:no:*(ippono	os_ou masc
+:no:*(ippono	os_ou masc sg
 
 :le:*(ippota/dhs
-:no:*(ippotad	hs_ou masc stem_acc
+:no:*(ippotad	hs_ou masc stem_acc sg
 
 :le:*)=iris
-:no:*)i_r	is_idos fem
+:no:*)i_r	is_idos fem sg
 
 :le:*)=iros
-:no:*)i_r	os_ou masc
-:no:*)ai+r	os_ou masc
+:no:*)i_r	os_ou masc sg
+:no:*)ai+r	os_ou masc sg
 
 :le:*)/isandros
-:no:*)isandr	os_ou masc
+:no:*)isandr	os_ou masc sg
 
 :le:*)/ismaros
-:no:*)ismar	os_ou masc
+:no:*)ismar	os_ou masc sg
 
 :le:*)=isos
-:no:*)i_s	os_ou masc
+:no:*)i_s	os_ou masc sg
 
 :le:*)/itulos
-:no:*)itul	os_ou masc
+:no:*)itul	os_ou masc sg
 
 :le:*)itumoneu/s
-:no:*)itumon	eus_ews masc suff_acc
+:no:*)itumon	eus_ews masc suff_acc sg
 
 :le:*)ifeu/s
-:no:*)if	eus_ews masc suff_acc
+:no:*)if	eus_ews masc suff_acc sg
 
 :le:*)ifqi/mh
-:no:*)ifqim	h_hs fem stem_acc
+:no:*)ifqim	h_hs fem stem_acc sg
 
 :le:*)ifida/mas
-:no:*)ifidam	as_antos masc stem_acc
+:no:*)ifidam	as_antos masc stem_acc sg
 
 :le:*)ifiklhei/h
-:no:*)ifiklhei	h_hs fem stem_acc
+:no:*)ifiklhei	h_hs fem stem_acc sg
 
 :le:*)/ifiklos
-:no:*)ifikl	os_ou masc
+:no:*)ifikl	os_ou masc sg
 
 :le:*)ifime/deia
-:no:*)ifimedei	a_hs fem
+:no:*)ifimedei	a_hs fem sg
 
 :le:*)ifi/noos
-:no:*)ifino	os_ou masc
+:no:*)ifino	os_ou masc sg
 
 :le:*)=ifis
-:no:*)i_f	is_idos fem
+:no:*)i_f	is_idos fem sg
 
 :le:*)ifiti/dhs
-:no:*)ifitid	hs_ou masc stem_acc
+:no:*)ifitid	hs_ou masc stem_acc sg
 
 :le:*)/ifitos
-:no:*)ifit	os_ou masc
+:no:*)ifit	os_ou masc sg
 
 :le:*)iwkh/
-:no:*)iwk	h_hs fem suff_acc
+:no:*)iwk	h_hs fem suff_acc sg
 
 :le:*kaineu/s
-:no:*kain	eus_ews masc suff_acc
+:no:*kain	eus_ews masc suff_acc sg
 
 :le:*kainei/+dhs
-:no:*kainei+d	hs_ou masc stem_acc
+:no:*kainei+d	hs_ou masc stem_acc sg
 
 :le:*kalh/sios
-:no:*kalhsi	os_ou masc
+:no:*kalhsi	os_ou masc sg
 
 :le:*kalh/twr
-:no:*kalht	wr_oros masc stem_acc
+:no:*kalht	wr_oros masc stem_acc sg
 
 :le:*kalhtori/dhs
-:no:*kalhtorid	hs_ou masc stem_acc
+:no:*kalhtorid	hs_ou masc stem_acc sg
 
 :le:*kallia/nassa
-:no:*kallianass	a_hs fem
+:no:*kallianass	a_hs fem sg
 
 :le:*kallia/neira
-:no:*kallianeir	a_hs fem
+:no:*kallianeir	a_hs fem sg
 
 :le:*kalu/dnai
-:no:*kaludn	hs_ou fem pl stem_acc
+:no:*kaludn	hs_ou fem pl stem_acc 
 
 :le:*kaluyw/
-:no:*kaluy	w_oos fem suff_acc
+:no:*kaluy	w_oos fem suff_acc sg
 
 :le:*kapanhi+a/dhs
-:no:*kapanhi+ad	hs_ou masc stem_acc
+:no:*kapanhi+ad	hs_ou masc stem_acc sg
 
 :le:*ka/pus
-:no:*kap	us_uos masc stem_acc
+:no:*kap	us_uos masc stem_acc sg
 
 :le:*kardamu/lh
-:no:*kardamul	h_hs fem stem_acc
+:no:*kardamul	h_hs fem stem_acc sg
 
 :le:*ka/rhsos
-:no:*karhs	os_ou masc
+:no:*karhs	os_ou masc sg
 
 :le:*kassa/ndrh
-:no:*kassandr	h_hs fem stem_acc
+:no:*kassandr	h_hs fem stem_acc sg
 
 :le:*kastia/neira
-:no:*kastianeir	a_hs fem
+:no:*kastianeir	a_hs fem sg
 
 :le:*kea/dhs
-:no:*kead	hs_ou masc stem_acc
+:no:*kead	hs_ou masc stem_acc sg
 
 :le:*kebrio/nhs
-:no:*kebrion	hs_ou masc stem_acc
+:no:*kebrion	hs_ou masc stem_acc sg
 
 :le:*kh/teioi
-:no:*khtei	os_ou masc pl
+:no:*khtei	os_ou masc pl 
 
 :le:*khfisi/s
-:no:*khfis	is_idos fem suff_acc
+:no:*khfis	is_idos fem suff_acc sg
 
 :le:*kinu/rhs
-:no:*kinur	hs_ou masc stem_acc
+:no:*kinur	hs_ou masc stem_acc sg
 
 :le:*klei=tos
-:no:*klei_t	os_ou masc stem_acc
+:no:*klei_t	os_ou masc stem_acc sg
 
 :le:*kleo/boulos
-:no:*kleoboul	os_ou masc
+:no:*kleoboul	os_ou masc sg
 
 :le:*kleopa/trh
-:no:*kleopatr	h_hs fem stem_acc pers_name
+:no:*kleopatr	h_hs fem stem_acc pers_name sg
 
 :le:*kloni/os
-:no:*kloni	os_ou masc stem_acc
+:no:*kloni	os_ou masc stem_acc sg
 
 :le:*klume/nh
-:no:*klumen	h_hs fem stem_acc
+:no:*klumen	h_hs fem stem_acc sg
 
 :le:*klu/menos
-:no:*klumen	os_ou masc
+:no:*klumen	os_ou masc sg
 
 :le:*klutaimnh/strh
-:no:*klutaimnhstr	h_hs fem stem_acc
+:no:*klutaimnhstr	h_hs fem stem_acc sg
 
 :le:*kluti/dhs
-:no:*klutid	hs_ou masc stem_acc
+:no:*klutid	hs_ou masc stem_acc sg
 
 :le:*kluti/os
-:no:*kluti	os_ou masc stem_acc
+:no:*kluti	os_ou masc stem_acc sg
 
 :le:*klutomh/dhs
-:no:*klutomhd	hs_ou masc stem_acc
+:no:*klutomhd	hs_ou masc stem_acc sg
 
 :le:*kluto/nhos
-:no:*klutonh	os_ou masc
+:no:*klutonh	os_ou masc sg
 
 :le:*koi/ranos
-:no:*koiran	os_ou masc
+:no:*koiran	os_ou masc sg
 
 :le:*kopreu/s
-:no:*kopr	eus_ews masc suff_acc
+:no:*kopr	eus_ews masc suff_acc sg
 
 :le:*ko/rwnos
-:no:*korwn	os_ou masc
+:no:*korwn	os_ou masc sg
 
 :le:*kra/taiis
-:no:*kratai	is_idos fem
+:no:*kratai	is_idos fem sg
 
 :le:*kreiontia/dhs
-:no:*kreiontiad	hs_ou masc stem_acc
+:no:*kreiontiad	hs_ou masc stem_acc sg
 
 :le:*krhqeu/s
-:no:*krhq	eus_ews masc suff_acc
+:no:*krhq	eus_ews masc suff_acc sg
 
 :le:*kroi=smos
-:no:*kroi_sm	os_ou masc stem_acc
+:no:*kroi_sm	os_ou masc stem_acc sg
 
 :le:*kte/atos
-:no:*kteat	os_ou masc
+:no:*kteat	os_ou masc sg
 
 :le:*kth/sios
-:no:*kthsi	os_ou masc
+:no:*kthsi	os_ou masc sg
 
 :le:*kth/sippos
-:no:*kthsipp	os_ou masc
+:no:*kthsipp	os_ou masc sg
 
 :le:*ktime/nh
-:no:*ktimen	h_hs fem stem_acc
+:no:*ktimen	h_hs fem stem_acc sg
 
 :le:*kudoimo/s
-:no:*kudoim	os_ou masc suff_acc
+:no:*kudoim	os_ou masc suff_acc sg
 
 :le:*kumoqo/h
-:no:*kumoqo	h_hs fem stem_acc
+:no:*kumoqo	h_hs fem stem_acc sg
 
 :le:*ku=non
-:no:*ku_n	os_ou neut geog_name stem_acc
+:no:*ku_n	os_ou neut geog_name stem_acc sg
 
 :le:*kw/kutos
-:no:*kwkut	os_ou masc
+:no:*kwkut	os_ou masc sg
 
 :le:*lae/rths
-:no:*laert	hs_ou masc stem_acc
+:no:*laert	hs_ou masc stem_acc sg
 
 :le:*laertia/dhs
-:no:*laertiad	hs_ou masc stem_acc
+:no:*laertiad	hs_ou masc stem_acc sg
 
 :le:*la/mos
-:no:*lam	os_ou masc stem_acc
+:no:*lam	os_ou masc stem_acc sg
 
 :le:*lampeti/dhs
-:no:*lampetid	hs_ou masc stem_acc
+:no:*lampetid	hs_ou masc stem_acc sg
 
 :le:*lampeti/h
-:no:*lampeti	h_hs fem stem_acc
+:no:*lampeti	h_hs fem stem_acc sg
 
 :le:*lao/gonos
-:no:*laogon	os_ou masc
+:no:*laogon	os_ou masc sg
 
 :le:*laoda/mas
-:no:*laodam	as_antos masc stem_acc
+:no:*laodam	as_antos masc stem_acc sg
 
 :le:*laoda/meia
-:no:*laodamei	a_hs fem
+:no:*laodamei	a_hs fem sg
 
 :le:*laodi/kh
-:no:*laodik	h_hs fem stem_acc
+:no:*laodik	h_hs fem stem_acc sg
 
 :le:*lao/dokos
-:no:*laodok	os_ou masc
+:no:*laodok	os_ou masc sg
 
 :le:*laoqo/h
-:no:*laoqo	h_hs fem stem_acc
+:no:*laoqo	h_hs fem stem_acc sg
 
 :le:*laomedontia/dhs
-:no:*laomedontiad	hs_ou masc stem_acc
+:no:*laomedontiad	hs_ou masc stem_acc sg
 
 :le:*lapi/qai
-:no:*lapiq	hs_ou masc pl stem_acc
+:no:*lapiq	hs_ou masc pl stem_acc 
 
 :le:*leiw/kritos
-:no:*leiwkrit	os_ou masc
+:no:*leiwkrit	os_ou masc sg
 
 :le:*lekto/s
-:no:*lekt	os_ou masc suff_acc
+:no:*lekt	os_ou masc suff_acc sg
 
 :le:*leonteu/s
-:no:*leont	eus_ews masc suff_acc
+:no:*leont	eus_ews masc suff_acc sg
 
 :le:*lesbi/s
-:no:*lesb	is_idos fem suff_acc
+:no:*lesb	is_idos fem suff_acc sg
 
 :le:*leu=kos
-:no:*leu_k	os_ou masc stem_acc
+:no:*leu_k	os_ou masc stem_acc sg
 
 :le:*lh/dh
-:no:*lhd	h_hs fem stem_acc
+:no:*lhd	h_hs fem stem_acc sg
 
 :le:*lh=qos
-:no:*lh_q	os_ou masc stem_acc
+:no:*lh_q	os_ou masc stem_acc sg
 
 :le:*lh/i+tos
-:no:*lhi+t	os_ou masc
+:no:*lhi+t	os_ou masc sg
 
 :le:*liku/mnion
-:no:*likumni	os_ou neut geog_name
+:no:*likumni	os_ou neut geog_name sg
 
 :le:*limnw/reia
-:no:*limnwrei	a_hs fem
+:no:*limnwrei	a_hs fem sg
 
 :le:*luka/wn
-:no:*luka	wn_onos masc stem_acc
+:no:*luka	wn_onos masc stem_acc sg
 
 :le:*lu/kioi
-:no:*luki	os_ou masc pl
+:no:*luki	os_ou masc pl 
 
 :le:*lukomh/dhs
-:no:*lukomhd	hs_eos masc stem_acc
+:no:*lukomhd	hs_eos masc stem_acc sg
 
 :le:*lukofo/nths
-:no:*lukofont	hs_ou masc stem_acc
+:no:*lukofont	hs_ou masc stem_acc sg
 
 :le:*luko/frwn
-:no:*lukofr	wn_onos masc stem_acc
+:no:*lukofr	wn_onos masc stem_acc sg
 
 :le:*lu/kwn
-:no:*luk	wn_onos masc stem_acc
+:no:*luk	wn_onos masc stem_acc sg
 
 :le:*lu/sandros
-:no:*lusandr	os_ou masc
+:no:*lusandr	os_ou masc sg
 
 :le:*lwtofa/goi
-:no:*lwtofag	os_ou masc pl stem_acc
+:no:*lwtofag	os_ou masc pl stem_acc 
 
 :le:*maimali/dhs
-:no:*maimalid	hs_ou masc stem_acc
+:no:*maimalid	hs_ou masc stem_acc sg
 
 :le:*mai/wn
-:no:*mai	wn_onos masc stem_acc
+:no:*mai	wn_onos masc stem_acc sg
 
 :le:*ma/ntios
-:no:*manti	os_ou masc
+:no:*manti	os_ou masc sg
 
 :le:*marph/ssh
-:no:*marphss	h_hs fem stem_acc
+:no:*marphss	h_hs fem stem_acc sg
 
 :le:*ma/rwn
-:no:*mar	wn_onos masc stem_acc
+:no:*mar	wn_onos masc stem_acc sg
 
 :le:*mastori/dhs
-:no:*mastorid	hs_ou masc stem_acc
+:no:*mastorid	hs_ou masc stem_acc sg
 
 :le:*ma/stwr
-:no:*mast	wr_oros masc stem_acc
+:no:*mast	wr_oros masc stem_acc sg
 
 :le:*mega/dhs
-:no:*megad	hs_ou masc stem_acc
+:no:*megad	hs_ou masc stem_acc sg
 
 :le:*mega/rh
-:no:*megar	h_hs fem stem_acc
+:no:*megar	h_hs fem stem_acc sg
 
 :le:*me/dwn
-:no:*med	wn_ontos masc stem_acc
+:no:*med	wn_ontos masc stem_acc sg
 
 :le:*melaneu/s
-:no:*melan	eus_ews masc suff_acc
+:no:*melan	eus_ews masc suff_acc sg
 
 :le:*melanqeu/s
-:no:*melanq	eus_ews masc suff_acc
+:no:*melanq	eus_ews masc suff_acc sg
 
 :le:*mela/nqios
-:no:*melanqi	os_ou masc
+:no:*melanqi	os_ou masc sg
 
 :le:*melanqw/
-:no:*melanq	w_oos fem suff_acc
+:no:*melanq	w_oos fem suff_acc sg
 
 :le:*mela/nippos
-:no:*melanipp	os_ou masc
+:no:*melanipp	os_ou masc sg
 
 :le:*me/las
-:no:*mel	as_antos masc stem_acc
+:no:*mel	as_antos masc stem_acc sg
 
 :le:*mele/agros
-:no:*meleagr	os_ou masc
+:no:*meleagr	os_ou masc sg
 
 :le:*meli/boia
-:no:*meliboi a_hs fem
+:no:*meliboi a_hs fem sg
 
 
 :le:*meli/th
-:no:*melit	h_hs fem stem_acc
+:no:*melit	h_hs fem stem_acc sg
 
 :le:*mene/laos
-:no:*menela os_ou masc pers_name
-:no:*menele ws_w masc stem_acc pers_name
+:no:*menela os_ou masc pers_name sg
+:no:*menele ws_w masc stem_acc pers_name sg
 
 :le:*mene/sqhs
-:no:*menesq	hs_ou masc stem_acc
+:no:*menesq	hs_ou masc stem_acc sg
 
 :le:*mene/sqios
-:no:*menesqi	os_ou masc
+:no:*menesqi	os_ou masc sg
 
 :le:*menoitia/dhs
-:no:*menoitiad	hs_ou masc stem_acc
+:no:*menoitiad	hs_ou masc stem_acc sg
 
 :le:*menoi/tios
-:no:*menoiti	os_ou masc
+:no:*menoiti	os_ou masc sg
 
 :le:*me/nths
-:no:*ment	hs_ou masc stem_acc
+:no:*ment	hs_ou masc stem_acc sg
 
 :le:*me/ntwr
-:no:*ment	wr_oros masc stem_acc
+:no:*ment	wr_oros masc stem_acc sg
 
 :le:*mermeri/dhs
-:no:*mermerid	hs_ou masc stem_acc
+:no:*mermerid	hs_ou masc stem_acc sg
 
 :le:*me/rmeros
-:no:*mermer	os_ou masc
+:no:*mermer	os_ou masc sg
 
 :le:*mesau/lios
-:no:*mesauli	os_ou masc
+:no:*mesauli	os_ou masc sg
 
 :le:*me/sqlhs
-:no:*mesql	hs_ou masc stem_acc
+:no:*mesql	hs_ou masc stem_acc sg
 
 :le:*messh/nioi
-:no:*messhni	os_ou masc pl
+:no:*messhni	os_ou masc pl 
 
 :le:*mhkisteu/s
-:no:*mhkist	eus_ews masc suff_acc
+:no:*mhkist	eus_ews masc suff_acc sg
 
 :le:*mhkisthi+a/dhs
-:no:*mhkisthi+ad	hs_ou masc stem_acc
+:no:*mhkisthi+ad	hs_ou masc stem_acc sg
 
 :le:*mh/|wn
-:no:*mh|	wn_onos masc stem_acc
+:no:*mh|	wn_onos masc stem_acc sg
 
 :le:*mhrio/nhs
-:no:*mhrion	hs_ou masc stem_acc
+:no:*mhrion	hs_ou masc stem_acc sg
 
 :le:*mh/stwr
-:no:*mhst	wr_oros masc stem_acc
+:no:*mhst	wr_oros masc stem_acc sg
 
 :le:*mi/mas
-:no:*mim	as_antos masc stem_acc
+:no:*mim	as_antos masc stem_acc sg
 
 :le:*mnh=sos
-:no:*mnh_s	os_ou masc stem_acc
+:no:*mnh_s	os_ou masc stem_acc sg
 
 :le:*moli/wn
-:no:*moli	wn_onos masc stem_acc
+:no:*moli	wn_onos masc stem_acc sg
 
 :le:*mo/los
-:no:*mol	os_ou masc stem_acc
+:no:*mol	os_ou masc stem_acc sg
 
 :le:*mo/rus
-:no:*mor	us_uos masc stem_acc
+:no:*mor	us_uos masc stem_acc sg
 
 :le:*mou/lios
-:no:*mouli	os_ou masc
+:no:*mouli	os_ou masc sg
 
 :le:*mugdw/n
-:no:*mugd	wn_onos masc suff_acc
+:no:*mugd	wn_onos masc suff_acc sg
 
 :le:*na/sths
-:no:*nast	hs_ou masc stem_acc
+:no:*nast	hs_ou masc stem_acc sg
 
 :le:*nauboli/dhs
-:no:*naubolid	hs_ou masc stem_acc
+:no:*naubolid	hs_ou masc stem_acc sg
 
 :le:*nausi/qoos
-:no:*nausiqo	os_ou masc
+:no:*nausiqo	os_ou masc sg
 
 :le:*nausika/a
-:no:*nausika	h_hs fem stem_acc
+:no:*nausika	h_hs fem stem_acc sg
 
 :le:*nauteu/s
-:no:*naut	eus_ews masc suff_acc
+:no:*naut	eus_ews masc suff_acc sg
 
 :le:*ne/aira
-:no:*neair	a_hs fem
+:no:*neair	a_hs fem sg
 
 :le:*nestori/dhs
-:no:*nestorid	hs_ou masc stem_acc
+:no:*nestorid	hs_ou masc stem_acc sg
 
 :le:*nhlhi+a/dhs
-:no:*nhlhi+ad	hs_ou masc stem_acc
+:no:*nhlhi+ad	hs_ou masc stem_acc sg
 
 :le:*nh/rikos
-:no:*nhrik	os_ou masc
+:no:*nhrik	os_ou masc sg
 
 :le:*nh/ritos
-:no:*nhrit	os_ou masc
+:no:*nhrit	os_ou masc sg
 
 :le:*nhsai/h
-:no:*nhsai	h_hs fem stem_acc
+:no:*nhsai	h_hs fem stem_acc sg
 
 :le:*nio/bh
-:no:*niob	h_hs fem stem_acc
+:no:*niob	h_hs fem stem_acc sg
 
 :le:*nireu/s
-:no:*nir	eus_ews masc suff_acc
+:no:*nir	eus_ews masc suff_acc sg
 
 :le:*ni=sos
-:no:*ni_s	os_ou masc stem_acc
+:no:*ni_s	os_ou masc stem_acc sg
 
 :le:*noh/mwn
-:no:*nohm	wn_onos masc stem_acc
+:no:*nohm	wn_onos masc stem_acc sg
 
 :le:*nomi/wn
-:no:*nomi	wn_onos masc stem_acc
+:no:*nomi	wn_onos masc stem_acc sg
 
 :le:*no/tos
-:no:*not	os_ou masc stem_acc
+:no:*not	os_ou masc stem_acc sg
 
 :le:*ca/nqos
-:no:*canq	os_ou masc stem_acc
+:no:*canq	os_ou masc stem_acc sg
 
 :le:*)ogxhsto/n
-:no:*)ogxhst	os_ou neut geog_name suff_acc
+:no:*)ogxhst	os_ou neut geog_name suff_acc sg
 
 :le:*)odi/os
-:no:*)odi	os_ou masc stem_acc
+:no:*)odi	os_ou masc stem_acc sg
 
 :le:*)oqruoneu/s
-:no:*)oqruon	eus_ews masc suff_acc
+:no:*)oqruon	eus_ews masc suff_acc sg
 
 :le:*)oi+kle/hs
-:no:*)oi+	klehs_kleous masc suff_acc
+:no:*)oi+	klehs_kleous masc suff_acc sg
 
 :le:*)oi+leu/s
-:no:*)oi+l eus_ews masc suff_acc
+:no:*)oi+l eus_ews masc suff_acc sg
 
 :le:*)oi+lia/dhs
-:no:*)oi+liad	hs_ou masc stem_acc
+:no:*)oi+liad	hs_ou masc stem_acc sg
 
 :le:*oi)nei/+dhs
-:no:*oi)nei+d	hs_ou masc stem_acc
+:no:*oi)nei+d	hs_ou masc stem_acc sg
 
 :le:*oi)neu/s
-:no:*oi)n	eus_ews masc suff_acc
+:no:*oi)n	eus_ews masc suff_acc sg
 
 :le:*oi)no/maos
-:no:*oi)noma	os_ou masc
+:no:*oi)noma	os_ou masc sg
 
 :le:*oi)nopi/dhs
-:no:*oi)nopid	hs_ou masc stem_acc
+:no:*oi)nopid	hs_ou masc stem_acc sg
 
 :le:*oi)/tulos
-:no:*oi)tul	os_ou masc
+:no:*oi)tul	os_ou masc sg
 
 :le:*oixalieu/s
-:no:*oixali	eus_ews masc suff_acc
+:no:*oixali	eus_ews masc suff_acc sg
 
 :le:*)onhtori/dhs
-:no:*)onhtorid	hs_ou masc stem_acc
+:no:*)onhtorid	hs_ou masc stem_acc sg
 
 :le:*)onh/twr
-:no:*)onht	wr_oros masc stem_acc
+:no:*)onht	wr_oros masc stem_acc sg
 
 :le:*)opi/ths
-:no:*)opit	hs_ou masc stem_acc
+:no:*)opit	hs_ou masc stem_acc sg
 
 :le:*)ore/sbios
-:no:*)oresbi	os_ou masc
+:no:*)oresbi	os_ou masc sg
 
 :le:*)ore/sths
-:no:*)orest	hs_ou masc stem_acc
+:no:*)orest	hs_ou masc stem_acc sg
 
 :le:*)orqai=os
-:no:*)orqai_	os_ou masc stem_acc
+:no:*)orqai_	os_ou masc stem_acc sg
 
 :le:*)ormeni/dhs
-:no:*)ormenid	hs_ou masc stem_acc
+:no:*)ormenid	hs_ou masc stem_acc sg
 
 :le:*)orme/nios
-:no:*)ormeni	os_ou masc
+:no:*)ormeni	os_ou masc sg
 
 :le:*)/ormenos
-:no:*)ormen	os_ou masc
+:no:*)ormen	os_ou masc sg
 
 :le:*)orsi/loxos
-:no:*)orsilox	os_ou masc
+:no:*)orsilox	os_ou masc sg
 
 :le:*)orti/loxos
-:no:*)ortilox	os_ou masc
+:no:*)ortilox	os_ou masc sg
 
 :le:*)otreu/s
-:no:*)otr	eus_ews masc suff_acc
+:no:*)otr	eus_ews masc suff_acc sg
 
 :le:*)otruntei/+dhs
-:no:*)otruntei+d	hs_ou masc stem_acc
+:no:*)otruntei+d	hs_ou masc stem_acc sg
 
 :le:*)otrunteu/s
-:no:*)otrunt	eus_ews masc suff_acc
+:no:*)otrunt	eus_ews masc suff_acc sg
 
 :le:*)ofele/sths
-:no:*)ofelest	hs_ou masc stem_acc
+:no:*)ofelest	hs_ou masc stem_acc sg
 
 :le:*)ofe/ltios
-:no:*)ofelti	os_ou masc
+:no:*)ofelti	os_ou masc sg
 
 :le:*)oxh/sios
-:no:*)oxhsi	os_ou masc
+:no:*)oxhsi	os_ou masc sg
 
 :le:*paih/wn
-:no:*paih	wn_onos masc stem_acc
+:no:*paih	wn_onos masc stem_acc sg
 
 :le:*pai/wn
-:no:*pai wn_onos masc
+:no:*pai wn_onos masc sg
 
 :le:*paioni/hs
-:no:*paioni	hs_ou masc stem_acc
+:no:*paioni	hs_ou masc stem_acc sg
 
 :le:*paiso/s
-:no:*pais	os_ou masc suff_acc
+:no:*pais	os_ou masc suff_acc sg
 
 :le:*pa/lmus
-:no:*palm	us_uos masc stem_acc
+:no:*palm	us_uos masc stem_acc sg
 
 :le:*pa/mmwn
-:no:*pamm	wn_onos masc stem_acc
+:no:*pamm	wn_onos masc stem_acc sg
 
 :le:*pa/ndaros
-:no:*pandar	os_ou masc
+:no:*pandar	os_ou masc sg
 
 :le:*pa/ndokos
-:no:*pandok	os_ou masc
+:no:*pandok	os_ou masc sg
 
 :le:*panqoi/+dhs
-:no:*panqoi+d	hs_ou masc stem_acc
+:no:*panqoi+d	hs_ou masc stem_acc sg
 
 :le:*pa/nqoos
-:no:*panqo	os_ou masc
+:no:*panqo	os_ou masc sg
 
 :le:*pa/nqos
-:no:*panq	os_ou masc stem_acc
+:no:*panq	os_ou masc stem_acc sg
 
 :le:*pano/ph
-:no:*panop	h_hs fem stem_acc
+:no:*panop	h_hs fem stem_acc sg
 
 :le:*panopeu/s
-:no:*panop	eus_ews masc suff_acc
+:no:*panop	eus_ews masc suff_acc sg
 
 :le:*pasiqe/h
-:no:*pasiqe	h_hs fem stem_acc
+:no:*pasiqe	h_hs fem stem_acc sg
 
 :le:*patrokle/hs
-:no:*patro	klehs_kleous masc suff_acc
+:no:*patro	klehs_kleous masc suff_acc sg
 
 :le:*peirai/+dhs
-:no:*peirai+d	hs_ou masc stem_acc
+:no:*peirai+d	hs_ou masc stem_acc sg
 
 :le:*pei/raios
-:no:*peirai	os_ou masc
+:no:*peirai	os_ou masc sg
 
 :le:*pei/rhs
-:no:*peir	hs_ou masc stem_acc
+:no:*peir	hs_ou masc stem_acc sg
 
 :le:*peiri/qoos
-:no:*peiriqo	os_ou masc
+:no:*peiriqo	os_ou masc sg
 
 :le:*pei/roos
-:no:*peiro	os_ou masc
+:no:*peiro	os_ou masc sg
 
 :le:*pei/sandros
-:no:*peisandr	os_ou masc
+:no:*peisandr	os_ou masc sg
 
 :le:*peishnori/dhs
-:no:*peishnorid	hs_ou masc stem_acc
+:no:*peishnorid	hs_ou masc stem_acc sg
 
 :le:*peish/nwr
-:no:*peishn	wr_oros masc stem_acc
+:no:*peishn	wr_oros masc stem_acc sg
 
 :le:*peisi/stratos
-:no:*peisistrat	os_ou masc
+:no:*peisistrat	os_ou masc sg
 
 :le:*peli/hs
-:no:*peli	hs_ou masc stem_acc
+:no:*peli	hs_ou masc stem_acc sg
 
 :le:*peraiboi/
-:no:*peraib os_ou masc suff_acc pl
+:no:*peraib os_ou masc suff_acc pl 
 
 :le:*pergasi/dhs
-:no:*pergasid	hs_ou masc stem_acc
+:no:*pergasid	hs_ou masc stem_acc sg
 
 :le:*peri/boia
-:no:*periboi	a_hs fem
+:no:*periboi	a_hs fem sg
 
 :le:*periklu/menos
-:no:*periklumen	os_ou masc
+:no:*periklumen	os_ou masc sg
 
 :le:*perimh/dhs
-:no:*perimhd	hs_eos masc stem_acc
+:no:*perimhd	hs_eos masc stem_acc sg
 
 :le:*pe/rimos
-:no:*perim	os_ou masc
+:no:*perim	os_ou masc sg
 
 :le:*peri/fas
-:no:*perif	as_antos masc stem_acc
+:no:*perif	as_antos masc stem_acc sg
 
 :le:*perifh/ths
-:no:*perifht	hs_ou masc stem_acc
+:no:*perifht	hs_ou masc stem_acc sg
 
 :le:*perkw/sios
-:no:*perkwsi	os_ou masc
+:no:*perkwsi	os_ou masc sg
 
 :le:*perkw/ths
-:no:*perkwt	hs_ou masc stem_acc
+:no:*perkwt	hs_ou masc stem_acc sg
 
 :le:*persefo/neia
-:no:*persefonei	a_hs fem
+:no:*persefonei	a_hs fem sg
 
 :le:*petew/n
-:no:*petew n_nos masc stem_acc
+:no:*petew n_nos masc stem_acc sg
 
 :le:*petew/s
 :wd:*petew=o irreg_decl3 gen sg
 
 :le:*ph/daios
-:no:*phdai	os_ou masc
+:no:*phdai	os_ou masc sg
 
 :le:*ph/dasos
-:no:*phdas	os_ou masc
+:no:*phdas	os_ou masc sg
 
 :le:*phlegw/n
-:no:*phleg	wn_onos masc suff_acc
+:no:*phleg	wn_onos masc suff_acc sg
 
 :le:*phlhi+a/dhs
-:no:*phlhi+ad	hs_ou masc stem_acc
+:no:*phlhi+ad	hs_ou masc stem_acc sg
 
 :le:*phneio/s
-:no:*phnei	os_ou masc suff_acc
+:no:*phnei	os_ou masc suff_acc sg
 
 :le:*phnelo/ph
-:no:*phnelopei	a_hs fem
+:no:*phnelopei	a_hs fem sg
 
 :le:*phrw/
-:no:*phr	w_oos fem suff_acc
+:no:*phr	w_oos fem suff_acc sg
 
 :le:*pidu/ths
-:no:*pidut	hs_ou masc stem_acc
+:no:*pidut	hs_ou masc stem_acc sg
 
 :le:*pitqeu/s
-:no:*pitq	eus_ews masc suff_acc
+:no:*pitq	eus_ews masc suff_acc sg
 
 :le:*plagktai/
-:no:*plagkt	hs_ou fem pl suff_acc
+:no:*plagkt	hs_ou fem pl suff_acc 
 
 :le:*pla/kos
-:no:*plak	os_ou masc stem_acc
+:no:*plak	os_ou masc stem_acc sg
 
 :le:*pleurw/nios
-:no:*pleurwni os_ou masc
+:no:*pleurwni os_ou masc sg
 
 :le:*podalei/rios
-:no:*podaleiri	os_ou masc
+:no:*podaleiri	os_ou masc sg
 
 :le:*po/dargos
-:no:*podarg	os_ou masc
+:no:*podarg	os_ou masc sg
 
 :le:*poda/rgh
-:no:*podarg	h_hs fem stem_acc
+:no:*podarg	h_hs fem stem_acc sg
 
 :le:*poia/ntios
-:no:*poianti	os_ou masc
+:no:*poianti	os_ou masc sg
 
 :le:*poli/ths
-:no:*polit	hs_ou masc stem_acc
+:no:*polit	hs_ou masc stem_acc sg
 
 :le:*poluaimoni/dhs
-:no:*poluaimonid	hs_ou masc stem_acc
+:no:*poluaimonid	hs_ou masc stem_acc sg
 
 :le:*po/lubos
-:no:*polub	os_ou masc
+:no:*polub	os_ou masc sg
 
 :le:*polu/damna
-:no:*poludamn	a_hs fem
+:no:*poludamn	a_hs fem sg
 
 :le:*poludw/rh
-:no:*poludwr	h_hs fem stem_acc
+:no:*poludwr	h_hs fem stem_acc sg
 
 :le:*polu/dwros
-:no:*poludwr	os_ou masc
+:no:*poludwr	os_ou masc sg
 
 :le:*poluqersei/+dhs
-:no:*poluqersei+d	hs_ou masc stem_acc
+:no:*poluqersei+d	hs_ou masc stem_acc sg
 
 :le:*polu/i+dos
-:no:*polui+d	os_ou masc
+:no:*polui+d	os_ou masc sg
 
 :le:*poluka/sth
-:no:*polukast	h_hs fem stem_acc
+:no:*polukast	h_hs fem stem_acc sg
 
 :le:*poluktori/dhs
-:no:*poluktorid	hs_ou masc stem_acc
+:no:*poluktorid	hs_ou masc stem_acc sg
 
 :le:*polu/ktwr
-:no:*polukt	wr_oros masc stem_acc
+:no:*polukt	wr_oros masc stem_acc sg
 
 :le:*polumh/lh
-:no:*polumhl	h_hs fem stem_acc
+:no:*polumhl	h_hs fem stem_acc sg
 
 :le:*polu/mhlos
-:no:*polumhl	os_ou masc
+:no:*polumhl	os_ou masc sg
 
 :le:*polu/nhos
-:no:*polunh	os_ou masc
+:no:*polunh	os_ou masc sg
 
 :le:*polu/ceinos
-:no:*polucein	os_ou masc
+:no:*polucein	os_ou masc sg
 
 :le:*polupoi/ths
-:no:*polupoit	hs_ou masc stem_acc
+:no:*polupoit	hs_ou masc stem_acc sg
 
 :le:*polu/fhmos
-:no:*polufhm	os_ou masc
+:no:*polufhm	os_ou masc sg
 
 :le:*polufh/ths
-:no:*polufht	hs_ou masc stem_acc
+:no:*polufht	hs_ou masc stem_acc sg
 
 :le:*polufo/nths
-:no:*polufont	hs_ou masc stem_acc
+:no:*polufont	hs_ou masc stem_acc sg
 
 :le:*ponteu/s
-:no:*pont	eus_ews masc suff_acc
+:no:*pont	eus_ews masc suff_acc sg
 
 :le:*ponto/noos
-:no:*pontono	os_ou masc
+:no:*pontono	os_ou masc sg
 
 :le:*pouluda/mas
-:no:*pouludam	as_antos masc stem_acc
+:no:*pouludam	as_antos masc stem_acc sg
 
 :le:*proqoh/nwr
-:no:*proqohn	wr_oros masc stem_acc
+:no:*proqohn	wr_oros masc stem_acc sg
 
 :le:*pro/qoos
-:no:*proqo	os_ou masc
+:no:*proqo	os_ou masc sg
 
 :le:*proi=tos
-:no:*proi_t	os_ou masc stem_acc
+:no:*proi_t	os_ou masc stem_acc sg
 
 :le:*pro/kris
-:no:*prokr	is_idos fem stem_acc
+:no:*prokr	is_idos fem stem_acc sg
 
 :le:*pro/maxos
-:no:*promax	os_ou masc
+:no:*promax	os_ou masc sg
 
 :le:*pro/noos
-:no:*prono	os_ou masc
+:no:*prono	os_ou masc sg
 
 :le:*protia/wn
-:no:*protia	wn_onos masc stem_acc
+:no:*protia	wn_onos masc stem_acc sg
 
 :le:*pru/tanis
-:no:*prutan	is_idos fem
+:no:*prutan	is_idos fem sg
 
 :le:*prwreu/s
-:no:*prwr	eus_ews masc suff_acc
+:no:*prwr	eus_ews masc suff_acc sg
 
 :le:*prwteu/s
-:no:*prwt	eus_ews masc suff_acc
+:no:*prwt	eus_ews masc suff_acc sg
 
 :le:*prwtw/
-:no:*prwt	w_oos fem suff_acc
+:no:*prwt	w_oos fem suff_acc sg
 
 :le:*pteleo/n
-:no:*ptele	os_ou neut geog_name suff_acc
+:no:*ptele	os_ou neut geog_name suff_acc sg
 
 :le:*ptolemai=os
-:no:*ptolemai_	os_ou masc stem_acc
+:no:*ptolemai_	os_ou masc stem_acc sg
 
 :le:*pugmai=oi
-:no:*pugmai_	os_ou masc pl stem_acc
+:no:*pugmai_	os_ou masc pl stem_acc 
 
 :le:*pulaime/nhs
-:no:*pulaimen	hs_eos masc stem_acc
+:no:*pulaimen	hs_eos masc stem_acc sg
 
 :le:*pu/laios
-:no:*pulai	os_ou masc
+:no:*pulai	os_ou masc sg
 
 :le:*pula/rths
-:no:*pulart	hs_ou masc stem_acc
+:no:*pulart	hs_ou masc stem_acc sg
 
 :le:*pu/lioi
-:no:*puli	os_ou masc pl
+:no:*puli	os_ou masc pl 
 
 :le:*purai/xmhs
-:no:*puraixm	hs_ou masc stem_acc
+:no:*puraixm	hs_ou masc stem_acc sg
 
 :le:*pu/rasos
-:no:*puras	os_ou masc
+:no:*puras	os_ou masc sg
 
 :le:*(rada/manqus
-:no:*(radamanq	us_uos masc
+:no:*(radamanq	us_uos masc sg
 
 :le:*(ri/gmos
-:no:*(rigm	os_ou masc stem_acc
+:no:*(rigm	os_ou masc stem_acc sg
 
 :le:*(rodi/os
-:no:*(rodi	os_ou masc stem_acc
+:no:*(rodi	os_ou masc stem_acc sg
 
 :le:*sagga/rios
-:no:*saggari	os_ou masc
+:no:*saggari	os_ou masc sg
 
 :le:*salmwneu/s
-:no:*salmwn	eus_ews masc suff_acc
+:no:*salmwn	eus_ews masc suff_acc sg
 
 :le:*sa/tnion
-:no:*satni	os_ou neut geog_name
+:no:*satni	os_ou neut geog_name sg
 
 :le:*se/lagos
-:no:*selag	os_ou masc
+:no:*selag	os_ou masc sg
 
 :le:*selhpia/dhs
-:no:*selhpiad	hs_ou masc stem_acc
+:no:*selhpiad	hs_ou masc stem_acc sg
 
 :le:*seme/lh
-:no:*semel	h_hs fem stem_acc
+:no:*semel	h_hs fem stem_acc sg
 
 :le:*sh/samos
-:no:*shsam	os_ou masc
+:no:*shsam	os_ou masc sg
 
 :le:*sqe/nelos
-:no:*sqenel	os_ou masc
+:no:*sqenel	os_ou masc sg
 
 :le:*sqene/laos
-:no:*sqenela	os_ou masc
+:no:*sqenela	os_ou masc sg
 
 :le:*skaiai/
-:no:*skai	hs_ou fem pl suff_acc
+:no:*skai	hs_ou fem pl suff_acc 
 
 :le:*ska/ndeia
-:no:*skandei	a_hs fem
+:no:*skandei	a_hs fem sg
 
 :le:*so/lumoi
-:no:*solum	os_ou masc pl
+:no:*solum	os_ou masc pl 
 
 :le:*speiw/
-:no:*spei	w_oos fem suff_acc
+:no:*spei	w_oos fem suff_acc sg
 
 :le:*stixi/os
-:no:*stixi	os_ou masc stem_acc
+:no:*stixi	os_ou masc stem_acc sg
 
 :le:*strati/os
-:no:*strati	os_ou masc stem_acc
+:no:*strati	os_ou masc stem_acc sg
 
 :le:*stro/fios
-:no:*strofi	os_ou masc
+:no:*strofi	os_ou masc sg
 
 :le:*sfh=los
-:no:*sfh_l	os_ou masc stem_acc
+:no:*sfh_l	os_ou masc stem_acc sg
 
 :le:*sxedi/os
-:no:*sxedi	os_ou masc stem_acc
+:no:*sxedi	os_ou masc stem_acc sg
 
 :le:*sw=kos
-:no:*sw_k	os_ou masc stem_acc
+:no:*sw_k	os_ou masc stem_acc sg
 
 :le:*talaime/nhs
-:no:*talaimen	hs_eos masc stem_acc
+:no:*talaimen	hs_eos masc stem_acc sg
 
 :le:*talai+oni/dhs
-:no:*talai+onid	hs_ou masc stem_acc
+:no:*talai+onid	hs_ou masc stem_acc sg
 
 :le:*talqu/bios
-:no:*talqubi	os_ou masc
+:no:*talqubi	os_ou masc sg
 
 :le:*ta/fioi
-:no:*tafi	os_ou masc pl
+:no:*tafi	os_ou masc pl 
 
 :le:*teiresi/as
-:no:*teiresi	hs_ou masc stem_acc
+:no:*teiresi	hs_ou masc stem_acc sg
 
 :le:*tektoni/dhs
-:no:*tektonid	hs_ou masc stem_acc
+:no:*tektonid	hs_ou masc stem_acc sg
 
 :le:*telamwnia/dhs
-:no:*telamwniad	hs_ou masc stem_acc
+:no:*telamwniad	hs_ou masc stem_acc sg
 
 :le:*tenqrhdw/n
-:no:*tenqrhd	wn_onos masc suff_acc
+:no:*tenqrhd	wn_onos masc suff_acc sg
 
 :le:*teuqrani/dhs
-:no:*teuqranid	hs_ou masc stem_acc
+:no:*teuqranid	hs_ou masc stem_acc sg
 
 :le:*teu/qras
-:no:*teuqr	as_antos masc stem_acc
+:no:*teuqr	as_antos masc stem_acc sg
 
 :le:*teu=kros
-:no:*teu_kr	os_ou masc stem_acc
+:no:*teu_kr	os_ou masc stem_acc sg
 
 :le:*teutami/dhs
-:no:*teutamid	hs_ou masc stem_acc
+:no:*teutamid	hs_ou masc stem_acc sg
 
 :le:*thle/maxos
-:no:*thlemax	os_ou masc
+:no:*thlemax	os_ou masc sg
 
 :le:*th/lemos
-:no:*thlem	os_ou masc
+:no:*thlem	os_ou masc sg
 
 :le:*thlefi/dhs
-:no:*thlefid	hs_ou masc stem_acc
+:no:*thlefid	hs_ou masc stem_acc sg
 
 :le:*tlhpo/lemos
-:no:*tlhpolem	os_ou masc
+:no:*tlhpolem	os_ou masc sg
 
 :le:*trh=xos
-:no:*trh_x	os_ou masc stem_acc
+:no:*trh_x	os_ou masc stem_acc sg
 
 :le:*troi/zhnos
-:no:*troizhn	os_ou masc
+:no:*troizhn	os_ou masc sg
 
 :le:*trwi/+los
-:no:*trwi+l	os_ou masc stem_acc
+:no:*trwi+l	os_ou masc stem_acc sg
 
 :le:*tudei/+dhs
-:no:*tudei+d	hs_ou masc stem_acc
+:no:*tudei+d	hs_ou masc stem_acc sg
 
 :le:*turw/
-:no:*tur	w_oos fem suff_acc
+:no:*tur	w_oos fem suff_acc sg
 
 :le:*tuxi/os
-:no:*tuxi	os_ou masc stem_acc
+:no:*tuxi	os_ou masc stem_acc sg
 
 :le:*(ulaki/dhs
-:no:*(ulakid	hs_ou masc stem_acc
+:no:*(ulakid	hs_ou masc stem_acc sg
 
 :le:*(/ullos
-:no:*(ull	os_ou masc
+:no:*(ull	os_ou masc sg
 
 :le:*(upei/rwn
-:no:*(upeir	wn_onos masc stem_acc
+:no:*(upeir	wn_onos masc stem_acc sg
 
 :le:*(upeiroxi/dhs
-:no:*(upeiroxid	hs_ou masc stem_acc
+:no:*(upeiroxid	hs_ou masc stem_acc sg
 
 :le:*(upei/roxos
-:no:*(upeirox	os_ou masc
+:no:*(upeirox	os_ou masc sg
 
 :le:*(uperh/nwr
-:no:*(uperhn	wr_oros masc stem_acc
+:no:*(uperhn	wr_oros masc stem_acc sg
 
 :le:*(/upnos
-:no:*(upn	os_ou masc
+:no:*(upn	os_ou masc sg
 
 :le:*(urtaki/dhs
-:no:*(urtakid	hs_ou masc stem_acc
+:no:*(urtakid	hs_ou masc stem_acc sg
 
 :le:*(/urtakos
-:no:*(urtak	os_ou masc
+:no:*(urtak	os_ou masc sg
 
 :le:*(/urtios
-:no:*(urti	os_ou masc
+:no:*(urti	os_ou masc sg
 
 :le:*(uyh/nwr
-:no:*(uyhn	wr_oros masc stem_acc
+:no:*(uyhn	wr_oros masc stem_acc sg
 
 :le:*(uyipu/lh
-:no:*(uyipul	h_hs fem stem_acc
+:no:*(uyipul	h_hs fem stem_acc sg
 
 :le:*fae/qousa
-:no:*faeqous	a_hs fem
+:no:*faeqous	a_hs fem sg
 
 :le:*fai/dimos
-:no:*faidim	os_ou masc
+:no:*faidim	os_ou masc sg
 
 :le:*fai/drh
-:no:*faidr	h_hs fem stem_acc
+:no:*faidr	h_hs fem stem_acc sg
 
 :le:*faisto/s
-:no:*faist	os_ou masc suff_acc
+:no:*faist	os_ou masc suff_acc sg
 
 :le:*fai=stos
-:no:*faist	os_ou masc
+:no:*faist	os_ou masc sg
 
 :le:*fa/lkhs
-:no:*falk	hs_ou masc stem_acc
+:no:*falk	hs_ou masc stem_acc sg
 
 :le:*fausia/dhs
-:no:*fausiad	hs_ou masc stem_acc
+:no:*fausiad	hs_ou masc stem_acc sg
 
 :le:*fei/das
-:no:*feid	as_antos masc stem_acc
+:no:*feid	as_antos masc stem_acc sg
 
 :le:*fei/dippos
-:no:*feidipp	os_ou masc
+:no:*feidipp	os_ou masc sg
 
 :le:*fei/dwn
-:no:*feid	wn_onos masc stem_acc
+:no:*feid	wn_onos masc stem_acc sg
 
 :le:*fe/reklos
-:no:*ferekl	os_ou masc
+:no:*ferekl	os_ou masc sg
 
 :le:*fe/rousa
-:no:*ferous	a_hs fem
+:no:*ferous	a_hs fem sg
 
 :le:*fhgeu/s
-:no:*fhg	eus_ews masc suff_acc
+:no:*fhg	eus_ews masc suff_acc sg
 
 :le:*fh/mios
-:no:*fhmi	os_ou masc
+:no:*fhmi	os_ou masc sg
 
 :le:*fhrh/
-:no:*fhr	h_hs fem suff_acc
+:no:*fhr	h_hs fem suff_acc sg
 
 :le:*fhrhtia/dhs
-:no:*fhrhtiad	hs_ou masc stem_acc
+:no:*fhrhtiad	hs_ou masc stem_acc sg
 
 :le:*filhtori/dhs
-:no:*filhtorid	hs_ou masc stem_acc
+:no:*filhtorid	hs_ou masc stem_acc sg
 
 :le:*filoi/tios
-:no:*filoiti	os_ou masc
+:no:*filoiti	os_ou masc sg
 
 :le:*filokth/ths
-:no:*filoktht	hs_ou masc stem_acc
+:no:*filoktht	hs_ou masc stem_acc sg
 
 :le:*filomhlei/+dhs
-:no:*filomhlei+d	hs_ou masc stem_acc
+:no:*filomhlei+d	hs_ou masc stem_acc sg
 
 :le:*fo/bos
-:no:*fob	os_ou masc stem_acc
+:no:*fob	os_ou masc stem_acc sg
 
 :le:*foi=bos
-:no:*foi_b	os_ou masc stem_acc
+:no:*foi_b	os_ou masc stem_acc sg
 
 :le:*fo/rbas
-:no:*forb	as_antos masc stem_acc
+:no:*forb	as_antos masc stem_acc sg
 
 :le:*fradmoni/dhs
-:no:*fradmonid	hs_ou masc stem_acc
+:no:*fradmonid	hs_ou masc stem_acc sg
 
 :le:*fro/nios
-:no:*froni	os_ou masc
+:no:*froni	os_ou masc sg
 
 :le:*fro/ntis
-:no:*front	is_idos fem stem_acc
+:no:*front	is_idos fem stem_acc sg
 
 :le:*fula/kh
-:no:*fulak	h_hs fem stem_acc
+:no:*fulak	h_hs fem stem_acc sg
 
 :le:*fulaki/dhs
-:no:*fulakid	hs_ou masc stem_acc
+:no:*fulakid	hs_ou masc stem_acc sg
 
 :le:*fu/lakos
-:no:*fulak	os_ou masc
+:no:*fulak	os_ou masc sg
 
 :le:*fu/las
-:no:*ful	as_antos masc stem_acc
+:no:*ful	as_antos masc stem_acc sg
 
 :le:*fulei/+dhs
-:no:*fulei+d	hs_ou masc stem_acc
+:no:*fulei+d	hs_ou masc stem_acc sg
 
 :le:*fuleu/s
-:no:*ful	eus_ews masc suff_acc
+:no:*ful	eus_ews masc suff_acc sg
 
 :le:*fulome/dousa
-:no:*fulomedous	a_hs fem
+:no:*fulomedous	a_hs fem sg
 
 :le:*fulw/
-:no:*ful	w_oos fem suff_acc
+:no:*ful	w_oos fem suff_acc sg
 
 :le:*xalkwdontia/dhs
-:no:*xalkwdontiad	hs_ou masc stem_acc
+:no:*xalkwdontiad	hs_ou masc stem_acc sg
 
 :le:*xa/ropos
-:no:*xarop	os_ou masc
+:no:*xarop	os_ou masc sg
 
 :le:*xersida/mas
-:no:*xersidam	as_antos masc stem_acc
+:no:*xersidam	as_antos masc stem_acc sg
 
 :le:*xi/maira
-:no:*ximair	a_hs fem
+:no:*ximair	a_hs fem sg
 
 :le:*xlw=ris
-:no:*xlw_r	is_idos fem stem_acc
+:no:*xlw_r	is_idos fem stem_acc sg
 
 :le:*xromi/os
-:no:*xromi	os_ou masc stem_acc
+:no:*xromi	os_ou masc stem_acc sg
 
 :le:*xru/sh
-:no:*xrus	h_hs fem stem_acc
+:no:*xrus	h_hs fem stem_acc sg
 
 :le:*)wkeano/s
-:no:*)wkean	os_ou masc suff_acc
+:no:*)wkean	os_ou masc suff_acc sg
 
 :le:*)wku/alos
-:no:*)wkual	os_ou masc
+:no:*)wkual	os_ou masc sg
 
 :le:*)=wron
-:no:*)wr	os_ou neut geog_name
+:no:*)wr	os_ou neut geog_name sg
 
 :le:*)=wtos
-:no:*)wt	os_ou masc
+:no:*)wt	os_ou masc sg
 
