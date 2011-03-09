@@ -2596,12 +2596,13 @@
 :no:patro-ka^signht os_ou masc
 
 :le:*pa/troklos
-:aj:*patrokl os_ou,masc
-@ pl
-:aj:*patrokl eus_ews,masc end:klh=os gen sg
-@ end:h=a acc sg
-@ end:eis voc sg
-@ end:h=s nom pl
+:no:*patrokl os_ou,masc pers_name
+:no:*patrokle hs_ou masc sg pers_name
+:no:*patro	klehs_kleous masc sg pers_name
+#:aj:*patrokl eus_ews,masc end:klh=os gen sg
+#@ end:h=a acc sg
+#@ end:eis voc sg
+#@ end:h=s nom pl
 
 :le:patroktoni/a
 :no:patroktoni h_hs stem_acc fem
