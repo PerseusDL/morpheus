@@ -7050,13 +7050,13 @@
 :no:*trwi h_hs fem  doric
 
 :le:*troi/aqen
-:wd:*troi/a_qen adverb
-:wd:*troi/hqen adverb ionic epic
+:wd:*troi/a_qen adverb geog_name
+:wd:*troi/hqen adverb ionic epic geog_name
 
 :le:*troi/ande
-:wd:*troi/a_nde adverb
-:wd:*troi/hnde adverb  ionic epic
-:wd:*trw/|ande adverb  ionic
+:wd:*troi/a_nde adverb geog_name
+:wd:*troi/hnde adverb  ionic epic geog_name
+:wd:*trw/|ande adverb  ionic geog_name
 
 :le:*troizh/n
 :no:*troizh n_nos stem_acc fem

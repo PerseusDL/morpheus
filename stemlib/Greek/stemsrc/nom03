@@ -7017,13 +7017,13 @@
 :le:*)/ilios
 :no:*)i_li os_ou   fem
 :no:*)ili os_ou neut
-:wd:*)ilio/fi  os_ou gen sg epic fem
+:wd:*)ilio/fi  os_ou gen sg epic fem geog_name
 
 :le:*)ilio/qen
-:wd:*)ilio/qen adverb
+:wd:*)ilio/qen adverb geog_name
 
 :le:*)ilio/qi
-:wd:*)ilio/qi  adverb
+:wd:*)ilio/qi  adverb geog_name
 
 :le:*)/ilios
 :aj:*)ili os_h_on

@@ -66,868 +66,874 @@
 
 #proper names
 :le:*ai)nei/as
-:no:*ai)nei hs_ou masc
-:no:*ai)ne hs_ou masc epic
+:no:*ai)nei hs_ou masc sg
+:no:*ai)ne hs_ou masc epic sg
 
 :le:*ai)su/mh
-:no:*ai)sum h_hs fem 
+:no:*ai)sum h_hs fem  sg
 :wd:*ai)su/mhqen adverb
 
 :le:*ai)twlo/s
-:no:*ai)twl os_h_on suff_acc
+:no:*ai)twl os_h_on suff_acc sg
 
 :le:*(aliqe/rshs
-:no:*(aliqers hs_eos masc
+:no:*(aliqers hs_eos masc sg
 
 :le:*)anth/nwr
-:no:*)anthn wr_oros stem_acc masc
+:no:*)anthn wr_oros stem_acc masc sg
 
 :le:*)/arimoi
-:no:*)arim os_h_on pl
+:no:*)arim os_h_on pl 
 
 :le:*)ari/sbh
-:no:*)arisb h_hs fem geog_name
+:no:*)arisb h_hs fem geog_name sg
 :wd:*)ari/sbhqen adverb
 
 :le:*)arka/s
 :aj:*)arka s_dos stem_acc masc is_ethnic
 
 :le:*(/arma
-:no:*(ar ma_matos neut geog_name
+:no:*(ar ma_matos neut geog_name sg
 
 :le:*)arnai=os
-:no:*)arnai os_ou masc stem_acc
+:no:*)arnai os_ou masc stem_acc sg
 
 :le:*)atrei/dhs
-:no:*)atrei+d hs_ou masc stem_acc
-:no:*)atreid hs_ou masc stem_acc
+:no:*)atrei+d hs_ou masc stem_acc sg pers_name
+:no:*)atreid hs_ou masc stem_acc sg pers_name
+:no:*)atreid hs_ou masc stem_acc pl is_group
+:no:*)atrei+d hs_ou masc stem_acc pl is_group
 
 :le:*au)geiai/
-:no:*au)gei h_hs fem pl suff_acc
+:no:*au)gei h_hs fem pl suff_acc 
 
 :le:*)atrei/+wn
-:no:*)atrei+w n_nos masc
+:no:*)atrei+w n_nos masc sg pers_name
+:no:*)atrei+w n_nos masc pl is_group
 
 :le:*)afei/das
-:no:*)afeid as_antos masc
+:no:*)afeid as_antos masc sg
 
 :le:*boukoli/wn
-:no:*boukoliw n_nos masc
+:no:*boukoliw n_nos masc sg
 
 :le:*brishi/+s
-:no:*brish is_idos fem suff_acc
+:no:*brish is_idos fem suff_acc sg
 
 :le:*bruseiai/
-:no:*brusei h_hs fem suff_acc geog_name
+:no:*brusei h_hs fem suff_acc geog_name sg
 
 :le:*gai=a
-:no:*gai a_hs fem
-:no:*g eh_ehs fem
+:no:*gai a_hs fem sg
+:no:*g eh_ehs fem sg
 
 :le:*gaih/ios
-:no:*gaihi+ os_h_on patron
+:no:*gaihi+ os_h_on patron sg
 
 :le:*ganumh/dhs
-:no:*ganumhd hs_eos masc
+:no:*ganumhd hs_eos masc sg
 
 :le:*glafu/rai
-:no:*glafur h_hs fem stem_acc pl geog_name
+:no:*glafur h_hs fem stem_acc pl geog_name 
 
 :le:*glisa=s
-:no:*glis heis_hessa suff_acc masc geog_name
+:no:*glis heis_hessa suff_acc masc geog_name sg
 
 :le:*gono/essa
-:no:*gonoess a_hs fem
+:no:*gonoess a_hs fem sg
 
 :le:*gorguqi/wn
-:no:*gorguqiw n_nos masc pers_name
+:no:*gorguqiw n_nos masc pers_name sg
 
 :le:*go/rtus
-:no:*gortu s_nos masc geog_name
+:no:*gortu s_nos masc geog_name sg
 
 :le:*grai=a
-:no:*grai a_hs fem
+:no:*grai a_hs fem sg
 
 :le:*gurai/
-:no:*gur h_hs fem suff_acc geog_name
-:no:*gurai os_h_on geog_name
+:no:*gur h_hs fem suff_acc geog_name sg
+:no:*gurai os_h_on geog_name sg
 
 :le:*gurtia/dhs
-:no:*gurtiad hs_ou masc
+:no:*gurtiad hs_ou masc sg
 
 :le:*gurtw/nh
-:no:*gurtwn h_hs fem geog_name
+:no:*gurtwn h_hs fem geog_name sg
 
 :le:*dardani/wn
-:no:*dardaniw n_nos masc
+:no:*dardaniw n_nos masc sg
 
 :le:*da/rhs
-:no:*darh s_tos masc
+:no:*darh s_tos masc sg
 
 :le:*deukali/dhs
-:no:*deukalid hs_ou masc
+:no:*deukalid hs_ou masc sg
 
 :le:*deukali/wn
-:no:*deukaliw n_nos masc
+:no:*deukaliw n_nos masc sg
 
 :le:*dhi+ko/wn
-:no:*dhi+kow n_ntos masc
+:no:*dhi+kow n_ntos masc sg
 
 :le:*dhmoko/wn
-:no:*dhmokow n_ntos masc
+:no:*dhmokow n_ntos masc sg
 
 :le:*dhmole/wn
-:no:*dhmole wn_ontos masc
+:no:*dhmole wn_ontos masc sg
 
 :le:*diokle/hs
-:no:*dio klehs_kleous masc 
+:no:*dio klehs_kleous masc  sg
 
 :le:*diomh/dhs
-:no:*diomhd hs_eos masc
+:no:*diomhd hs_eos masc sg
 
 :le:*diomh/dh
-:no:*diomhd h_hs fem nom sg
+:no:*diomhd h_hs fem nom sg sg
 
 :le:*di=on
-:no:*di_ os_ou neut geog_name
+:no:*di_ os_ou neut geog_name sg
 
 :le:*diw/rhs
-:no:*diwr hs_eos masc
+:no:*diwr hs_eos masc sg
 
 :le:*dolopi/wn
-:no:*dolopi wn_onos masc
+:no:*dolopi wn_onos masc sg
 
 :le:*do/loy
-:no:*dolo y_pos masc
+:no:*dolo y_pos masc sg
 
 :le:*do/lwn
-:no:*dolw n_nos masc
+:no:*dolw n_nos masc sg
 
 :le:*dru/oy
-:no:*druo y_pos masc
+:no:*druo y_pos masc sg
 
 :le:*ei)re/tria
-:no:*ei)retri a_hs fem
+:no:*ei)retri a_hs fem sg
 
 :le:*(/ektwr
-:no:*(ekt wr_oros masc
-:no:*(ektore os_h_on
+:no:*(ekt wr_oros masc sg
+:no:*(ektore os_h_on sg
 
 :le:*)elew/n
-:no:*)elew n_nos stem_acc masc geog_name
+:no:*)elew n_nos stem_acc masc geog_name sg
 
 :le:*(eli/kh
-:no:*(elik h_hs fem geog_name
+:no:*(elik h_hs fem geog_name sg
 
 :le:*(/elos
-:no:*(el hs_eos neut geog_name
+:no:*(el hs_eos neut geog_name sg
 
 :le:*)enih=nes
-:no:*)enih n_nos masc stem_acc pl
+:no:*)enih n_nos masc stem_acc pl 
 
 :le:*)eni/sph
-:no:*)enisp h_hs fem geog_name
+:no:*)enisp h_hs fem geog_name sg
 
 :le:*)eno/ph
-:no:*)enop h_hs fem geog_name
+:no:*)enop h_hs fem geog_name sg
 
 :le:*)enuw/
-:no:*)enu w_oos fem suff_acc
+:no:*)enu w_oos fem suff_acc sg
 
 :le:*)epeio/s
-:aj:*)epei os_h_on suff_acc
+:no:*)epei os_ou suff_acc pers_name sg
+
+:le:*)epeioi/
+:no:*)epei os_h_on suff_acc is_ethnic
 
 :le:*)epi/dauros
-:no:*)epidaur os_ou masc geog_name
+:no:*)epidaur os_ou masc geog_name sg
 
 :le:*)/iqakos
-:no:*)iqak os_ou masc
+:no:*)iqak os_ou masc sg
 
 :le:*)ioka/sth
-:no:*)iokast h_hs fem
-:no:*)epikast h_hs fem
+:no:*)iokast h_hs fem sg
+:no:*)epikast h_hs fem sg
 
 :le:*)/erebos
-:no:*)ereb hs_eos neut geog_name
+:no:*)ereb hs_eos neut geog_name sg
 :wd:*)/erebo/sde adverb geog_name
 
 :le:*)ereuqali/wn
-:no:*)ereuqaliw n_nos masc
+:no:*)ereuqaliw n_nos masc sg
 
 :le:*(ermio/nh
-:no:*(ermion h_hs fem geog_name
+:no:*(ermion h_hs fem geog_name sg
 
 :le:*(/ermos
-:no:*(erm os_ou masc geog_name
+:no:*(erm os_ou masc geog_name sg
 
 :le:*)eruqrai/
-:no:*)eruqr h_hs fem suff_acc geog_name
+:no:*)eruqr h_hs fem suff_acc geog_name sg
 
 :le:*)eru/laos
-:no:*)erula os_ou masc
+:no:*)erula os_ou masc sg
 
 :le:*)eru/mas
-:no:*)erum as_antos masc stem_acc
+:no:*)erum as_antos masc stem_acc sg
 
 :le:*)eru/manqos
-:no:*)erumanq os_ou masc geog_name
+:no:*)erumanq os_ou masc geog_name sg
 
 :le:*)etewno/s
-:no:*)etewn os_ou masc suff_acc
+:no:*)etewn os_ou masc suff_acc sg
 
 :le:*)eteoklh=s
-:no:*)eteo klehs_kleous masc suff_acc
-:no:*)eteoklhei os_h_on 
+:no:*)eteo klehs_kleous masc suff_acc sg
+:no:*)eteoklhei os_h_on  sg
 
 :le:*eu)a/nqhs
-:no:*eu)anq hs_eos masc
+:no:*eu)anq hs_eos masc sg
 
 :le:*eu)/boia
-:no:*eu)boi a_hs fem geog_name
+:no:*eu)boi a_hs fem geog_name sg
 
 :le:*eu)mh/dhs
-:no:*eu)mhd hs_eos masc
+:no:*eu)mhd hs_eos masc sg
 
 :le:*eu)pei/qhs
-:no:*eu)peiq hs_eos masc
+:no:*eu)peiq hs_eos masc sg
 
 :le:*eu)ruti/wn
-:no:*eu)rutiw n_nos masc
+:no:*eu)rutiw n_nos masc sg
 
 :le:*eu)/trhsis
-:no:*eu)trhs is_ews fem geog_name
+:no:*eu)trhs is_ews fem geog_name sg
 
 :le:*za/kunqos
-:no:*zakunq os_ou fem geog_name
+:no:*zakunq os_ou fem geog_name sg
 
 :le:*ze/leia
-:no:*zelei a_hs fem geog_name
+:no:*zelei a_hs fem geog_name sg
 
 :le:*(/hlios
-:no:*(hli os_ou
-:no:*)heli os_ou epic
+:no:*(hli os_ou sg
+:no:*)heli os_ou epic sg
 
 :le:*)heti/wn
-:no:*)hetiw n_nos masc
+:no:*)hetiw n_nos masc sg
 
 :le:*)hi+w/n
-:no:*)hi+ wn_onos masc suff_acc geog_name
+:no:*)hi+ wn_onos masc suff_acc geog_name sg
 
 :le:*)=hlis
-:no:*)hl is_idos fem geog_name
+:no:*)hl is_idos fem geog_name sg
 
 :le:*)hlei=os
-:no:*)hlei os_h_on stem_acc
+:no:*)hlei os_h_on stem_acc sg
 
 :le:*)/hnoy
-:no:*)hno y_pos masc
+:no:*)hno y_pos masc sg
 
 :le:*)hw/s
-:no:*)h ws_oos,fem,suff_acc
+:no:*)h ws_oos,fem,suff_acc sg
 
 :le:*qa/muris
-:no:*qamur is_idos masc 
+:no:*qamur is_idos masc  sg
 
 :le:*qe/mis
-:no:*qem is_itos fem
-:no:*qemis s_tos fem sg epic dat
-:no:*qemis s_tos fem sg epic acc
+:no:*qem is_itos fem sg
+:no:*qemis s_tos fem sg epic dat sg
+:no:*qemis s_tos fem sg epic acc sg
 
 :le:*qe/mistis
-:no:*qemist is_idos fem
+:no:*qemist is_idos fem sg
 
 :le:*qe/speia
-:no:*qespei a_hs fem geog_name
+:no:*qespei a_hs fem geog_name sg
 
 :le:*qi/sbh
-:no:*qisb h_hs fem geog_name
+:no:*qisb h_hs fem geog_name sg
 
 :le:*qo/wn
-:no:*qow n_nos masc
+:no:*qow n_nos masc sg
 
 :le:*qrasumh/dhs
-:no:*qrasumhd hs_eos masc
+:no:*qrasumhd hs_eos masc sg
 
 :le:*qw=nos
 :wd:*qw=nos  irreg_decl3 gen sg epic
 
 :le:*)iasi/wn
-:no:*)iasiw n_nos masc
+:no:*)iasiw n_nos masc sg
 
 :le:*)iqakh/sios
-:no:*)i^qakhsi os_h_on 
+:no:*)i^qakhsi os_h_on  sg
 
 :le:*)/imbros
-:no:*)imbr os_ou masc
+:no:*)imbr os_ou masc sg
 
 :le:*(ippoko/wn
-:no:*(ippokow n_ntos masc 
+:no:*(ippokow n_ntos masc  sg
 
 :le:*(ippoti/wn
-:no:*(ippotiw n_nos masc
+:no:*(ippotiw n_nos masc sg
 
 :le:*(irh/
-:no:*(ir h_hs fem suff_acc geog_name
+:no:*(ir h_hs fem suff_acc geog_name sg
 
 :le:*(isti/aia
-:no:*(istiai a_hs fem geog_name
+:no:*(istiai a_hs fem geog_name sg
 
 :le:*)/itwn
-:no:*)itw n_nos masc
+:no:*)itw n_nos masc sg
 
 :le:*)ifiti/wn
-:no:*)ifitiw n_nos amsc
+:no:*)ifitiw n_nos amsc sg
 
 :le:*kabhso/s
-:no:*kabhs os_ou fem suff_acc
+:no:*kabhs os_ou fem suff_acc sg
 :wd:*kabhso/qen adverb
 
 :le:*kalli/aros
-:no:*kalliar os_ou fem geog_name
+:no:*kalliar os_ou fem geog_name sg
 
 :le:*kaludw/n
-:no:*kaludw n_nos fem stem_acc
+:no:*kaludw n_nos fem stem_acc sg
 
 :le:*ka/meiros
-:no:*kameir os_ou fem geog_name
+:no:*kameir os_ou fem geog_name sg
 
 :le:*kapaneu/s
-:no:*kapan eus_ews masc suff_acc
-:no:*kapanhi+ os_h_on
+:no:*kapan eus_ews masc suff_acc sg
+:no:*kapanhi+ os_h_on sg
 
 :le:*ka/rustos
-:no:*karust os_ou fem geog_name
+:no:*karust os_ou fem geog_name sg
 
 :le:*ka/sos
-:no:*kas os_ou fem geog_name
+:no:*kas os_ou fem geog_name sg
 
 :le:*kau/kwnes
-:no:*kaukw n_nos masc pl
+:no:*kaukw n_nos masc pl 
 
 :le:*kela/dwn
-:no:*kelad wn_ontos masc geog_name
+:no:*kelad wn_ontos masc geog_name sg
 
 :le:*kefallh/n
-:no:*kefallh n_nos masc stem_acc
+:no:*kefallh n_nos masc stem_acc sg
 
 :le:*kh/r
-:no:*kh r_ros fem
+:no:*kh r_ros fem sg
 
 :le:*kh/rinqos
-:no:*khrinq os_ou fem geog_name
+:no:*khrinq os_ou fem geog_name sg
 
 :le:*ki/kones
-:no:*kik wn_onos pl masc
+:no:*kik wn_onos pl masc 
 
 :le:*ki/lla
-:no:*kill a_hs fem
+:no:*kill a_hs fem sg
 
 :le:*kisshi/+s
-:no:*kissh is_idos fem suff_acc
+:no:*kissh is_idos fem suff_acc sg
 
 :le:*kissh=s
-:no:*kiss eh_ehs fem suff_acc
+:no:*kiss eh_ehs fem suff_acc sg
 
 :le:*klewnai/
-:no:*klewn h_hs fem pl suff_acc geog_name
+:no:*klewn h_hs fem pl suff_acc geog_name 
 
 :le:*knwsso/s
-:no:*knws os_ou fem suff_acc
-:no:*knwss os_ou fem suff_acc
+:no:*knws os_ou fem suff_acc sg
+:no:*knwss os_ou fem suff_acc sg
 
 :le:*ko/rac
-:no:*kora c_kos masc 
+:no:*kora c_kos masc  sg
 
 :le:*korw/neia
-:no:*korwnei a_hs fem
+:no:*korwnei a_hs fem sg
 
 :le:*kourh=tes
-:no:*kourh s_tos fem stem_acc
+:no:*kourh s_tos fem stem_acc sg
 
 :le:*ko/wn
-:no:*kow n_nos masc
+:no:*kow n_nos masc sg
 
 :le:*kranah/
-:no:*krana h_hs fem suff_acc geog_name
+:no:*krana h_hs fem suff_acc geog_name sg
 
 :le:*krei/wn
-:no:*krei wn_ontos masc
+:no:*krei wn_ontos masc sg
 
 :le:*krh/qwn
-:no:*krhqw n_nos masc
+:no:*krhqw n_nos masc sg
 
 :le:*kroku/leia
-:no:*krokulei a_hs fem geog_name
+:no:*krokulei a_hs fem geog_name sg
 
 :le:*krounoi/
-:no:*kroun os_ou fem pl suff_acc geog_name
+:no:*kroun os_ou fem pl suff_acc geog_name 
 
 :le:*krw=mna
-:no:*krwmn a_hs fem geog_name
+:no:*krwmn a_hs fem geog_name sg
 
 :le:*ku/dwnes
-:no:*kudw n_nos masc pl
+:no:*kudw n_nos masc pl 
 
 :le:*kuparissh/eis
 :wd:*kuparissh/enta  irreg_decl3 fem geog_name acc sg
 
 :le:*kupa/rissos
-:no:*kupariss os_ou fem geog_name
+:no:*kupariss os_ou fem geog_name sg
 
 :le:*ku/twros
-:no:*kutwr os_ou fem geog_name
+:no:*kutwr os_ou fem geog_name sg
 
 :le:*ku/fos
-:no:*kuf os_ou fem geog_name
+:no:*kuf os_ou fem geog_name sg
 
 :le:*kw/pai
-:no:*kwp h_hs fem pl geog_name
+:no:*kwp h_hs fem pl geog_name 
 
 :le:*kw=s
 :wd:*kw=s irreg_decl3 fem nom sg contr geog_name
 :wd:*kw=n irreg_decl3 fem acc sg contr geog_name
 
 :le:*la/as
-:no:*la as_antos neut geog_name
+:no:*la as_antos neut geog_name sg
 
 :le:*lae/rkhs
-:no:*laerk hs_eos masc
+:no:*laerk hs_eos masc sg
 
 :le:*laistrugw/n
-:no:*laistrug wn_onos masc suff_acc
+:no:*laistrug wn_onos masc suff_acc sg
 
 :le:*laistrugoni/h
-:no:*laistrugoni h_hs fem geog_name
+:no:*laistrugoni h_hs fem geog_name sg
 
 :le:*laome/dwn
-:no:*laomed wn_ontos masc
+:no:*laomed wn_ontos masc sg
 
 :le:*leiw/dhs
-:no:*leiwd hs_eos masc
+:no:*leiwd hs_eos masc sg
 
 :le:*le/leges
-:no:*lele c_gos masc
+:no:*lele c_gos masc sg
 
 :le:*le/sbos
-:no:*lesb os_ou fem geog_name
+:no:*lesb os_ou fem geog_name sg
 :wd:*lesbo/qen adverb geog_name
 
 :le:*leuka/s
-:no:*leuka s_dos stem_acc fem
+:no:*leuka s_dos stem_acc fem sg
 
 :le:*li/laia
-:no:*lilai a_hs fem geog_name
+:no:*lilai a_hs fem geog_name sg
 
 :le:*li/ndos
-:no:*lind os_ou fem geog_name
+:no:*lind os_ou fem geog_name sg
 
 :le:*lu/kastos
-:no:*lukast os_ou fem geog_name
+:no:*lukast os_ou fem geog_name sg
 
 :le:*lukou=rgos
-:no:*lukourg os_ou masc
-:no:*lukoorg os_ou masc
+:no:*lukourg os_ou masc sg
+:no:*lukoorg os_ou masc sg
 
 :le:*lu/ktos
-:no:*lukt os_ou fem geog_name
+:no:*lukt os_ou fem geog_name sg
 
 :le:*lurnhsso/s
-:no:*lurnhss os_ou fem suff_acc geog_name
+:no:*lurnhss os_ou fem suff_acc geog_name sg
 
 :le:*ma/kar
-:no:*maka r_ros masc
+:no:*maka r_ros masc sg
 
 :le:*ma/leia
-:no:*malei a_hs fem
+:no:*malei a_hs fem sg
 
 :le:*mantine/h
-:no:*mantine h_hs fem geog_name
+:no:*mantine h_hs fem geog_name sg
 
 :le:*ma/ris
 :wd:*ma/ris irreg_decl3 masc sg nom 
 
 :le:*ma/shs
-:no:*mash s_tos fem geog_name
+:no:*mash s_tos fem geog_name sg
 
 :le:*megape/nqhs
-:no:*megapenq hs_eos masc
+:no:*megapenq hs_eos masc sg
 
 :le:*me/ghs
-:no:*meg hs_ou masc
-:no:*megh s_tos masc
+:no:*meg hs_ou masc sg
+:no:*megh s_tos masc sg
 
 :le:*medew/n
-:no:*medew n_nos stem_acc masc
+:no:*medew n_nos stem_acc masc sg
 
 :le:*mela/mpous
-:no:*melam pous_podos masc
+:no:*melam pous_podos masc sg
 
 :le:*me/nwn
-:no:*menw n_nos masc
+:no:*menw n_nos masc sg
 
 :le:*me/roy
-:no:*mero y_pos masc
+:no:*mero y_pos masc sg
 
 :le:*messhi/+s
-:no:*messh is_idos suff_acc fem
+:no:*messh is_idos suff_acc fem sg
 
 :le:*messh/nh
-:no:*messhn h_hs fem geog_name
+:no:*messhn h_hs fem geog_name sg
 
 :le:*me/ssh
-:no:*mess h_hs fem geog_name
+:no:*mess h_hs fem geog_name sg
 
 :le:*mhqw/nh
-:no:*mhqwn h_hs fem geog_name
+:no:*mhqwn h_hs fem geog_name sg
 
 :le:*mh|oni/h
-:no:*mh|oni h_hs fem geog_name
+:no:*mh|oni h_hs fem geog_name sg
 
 :le:*mh|oni/s
-:no:*mh|on is_idos fem suff_acc
+:no:*mh|on is_idos fem suff_acc sg
 
 :le:*mi/deia
-:no:*midei a_hs fem geog_name
+:no:*midei a_hs fem geog_name sg
 
 :le:*moi=ra
-:no:*moir a_hs,fem
+:no:*moir a_hs,fem sg
 
 :le:*mu/dwn
-:no:*mudw n_nos masc
+:no:*mudw n_nos masc sg
 
 :le:*muka/lh
-:no:*mukal h_hs fem geog_name
+:no:*mukal h_hs fem geog_name sg
 
 :le:*mukalhsso/s
-:no:*mukalhss os_ou fem suff_acc geog_name
+:no:*mukalhss os_ou fem suff_acc geog_name sg
 
 :le:*mu/nhs
-:no:*munh s_tos masc
+:no:*munh s_tos masc sg
 
 :le:*muri/nh
-:no:*murin h_hs fem geog_name
+:no:*murin h_hs fem geog_name sg
 
 :le:*mu/rsinos
-:no:*mursin os_ou fem geog_name
+:no:*mursin os_ou fem geog_name sg
 
 :le:*ne/stwr
-:no:*nest wr_oros masc
-:no:*nestore os_h_on 
+:no:*nest wr_oros masc sg
+:no:*nestore os_h_on  sg
 
 :le:*nh/i+on
-:no:*nhi+ os_ou neut geog_name
+:no:*nhi+ os_ou neut geog_name sg
 
 :le:*nhmerth/s
-:no:*nhmert hs_es suff_acc fem
+:no:*nhmert hs_es suff_acc fem sg
 
 :le:*ni=sa
-:no:*ni_s a_hs fem geog_name
+:no:*ni_s a_hs fem geog_name sg
 
 :le:*ni/suros
-:no:*nisur os_ou fem geog_name
+:no:*nisur os_ou fem geog_name sg
 
 :le:*nu/c
-:no:*nu c_ktos fem
+:no:*nu c_ktos fem sg
 
 :le:*oi)/noy
-:no:*oi)no y_pos masc
+:no:*oi)no y_pos masc sg
 
 :le:*)olizw/n
-:no:*)olizw n_nos masc stem_acc
+:no:*)olizw n_nos masc stem_acc sg
 
 :le:*)oloossw/n
-:no:*)olooss wn_onos fem suff_acc geog_name
+:no:*)olooss wn_onos fem suff_acc geog_name sg
 
 :le:*)opo/eis
-:no:*)op oeis_oentos fem suff_acc
+:no:*)op oeis_oentos fem suff_acc sg
 
 :le:*)/orqh
-:no:*)orq h_hs fem geog_name
+:no:*)orq h_hs fem geog_name sg
 
 :le:*)orneiai/
-:no:*)ornei h_hs fem suff_acc geog_name
+:no:*)ornei h_hs fem suff_acc geog_name sg
 
 :le:*)/ossa
-:no:*)oss a_hs fem geog_name
+:no:*)oss a_hs fem geog_name sg
 
 :le:*ou)kale/gwn
-:no:*ou)kaleg wn_ontos masc
+:no:*ou)kaleg wn_ontos masc sg
 
 :le:*ou)rano/s
-:no:*ou)ran os_ou masc suff_acc
+:no:*ou)ran os_ou masc suff_acc sg
 
 :le:*ou)=tis
 :wd:*ou)=tis irreg_decl3 masc nom sg
 :wd:*ou)=tin irreg_decl3 masc acc sg
 
 :le:*paioni/dhs
-:no:*paionid hs_ou masc
+:no:*paionid hs_ou masc sg
 
 :le:*pa/ndaros
-:no:*pandar os_ou masc
-:no:*pandare os_h_on 
+:no:*pandar os_ou masc sg
+:no:*pandare os_h_on  sg
 
 :le:*parqe/nios
-:no:*parqeni os_ou masc geog_name
+:no:*parqeni os_ou masc geog_name sg
 
 :le:*pa/ris
-:no:*par is_idos masc 
+:no:*par is_idos masc  sg
 
 :le:*parrasi/h
-:no:*parrasi h_hs fem geog_name
+:no:*parrasi h_hs fem geog_name sg
 
 :le:*pei/rws
 :wd:*pei/rws irreg_decl3 nom masc sg
 
 :le:*pela/gwn
-:no:*pelag wn_ontos masc
+:no:*pelag wn_ontos masc sg
 
 :le:*pellh/nh
-:no:*pellhn h_hs fem geog_name
+:no:*pellhn h_hs fem geog_name sg
 
 :le:*perih/rhs
-:no:*perihr hs_eos masc
+:no:*perihr hs_eos masc sg
 
 :le:*petew/n
-:no:*petew n_nos masc stem_acc
+:no:*petew n_nos masc stem_acc sg
 
 :le:*phne/lews
-:no:*phnele ws_w masc
+:no:*phnele ws_w masc sg
 
 :le:*phrei/h
-:no:*phrei h_hs fem geog_name
+:no:*phrei h_hs fem geog_name sg
 
 :le:*pitu/eia
-:no:*pituei a_hs fem geog_name
+:no:*pituei a_hs fem geog_name sg
 
 :le:*pleurw/n
-:no:*pleurw n_nos fem stem_acc geog_name
+:no:*pleurw n_nos fem stem_acc geog_name sg
 
 :le:*poda/rkhs
-:no:*podark hs_eos masc
+:no:*podark hs_eos masc sg
 
 :le:*podh=s
-:no:*pod ehs_eou masc suff_acc
+:no:*pod ehs_eou masc suff_acc sg
 
 :le:*polu/eidon
-:no:*polueid os_ou neut geog_name
+:no:*polueid os_ou neut geog_name sg
 
 :le:*polunei/khs
-:no:*poluneik hs_eos masc
+:no:*poluneik hs_eos masc sg
 
 :le:*polufei/dhs
-:no:*polufeid hs_eos masc
+:no:*polufeid hs_eos masc sg
 
 :le:*pra/ktios
-:no:*prakti os_ou masc geog_name
+:no:*prakti os_ou masc geog_name sg
 
 :le:*proqo/wn
-:no:*proqow n_nos masc
+:no:*proqow n_nos masc sg
 
 :le:*pulh/nh
-:no:*pulhn h_hs fem geog_name
+:no:*pulhn h_hs fem geog_name sg
 
 :le:*pu/lwn
-:no:*pulw n_nos masc
+:no:*pulw n_nos masc sg
 
 :le:*pu/ris
-:no:*pur is_idos masc
+:no:*pur is_idos masc sg
 
 :le:*puriflege/qwn
-:no:*puriflegeq wn_ontos masc geog_name
+:no:*puriflegeq wn_ontos masc geog_name sg
 
 :le:*(rei=qron
-:no:*(reiqr os_ou neut geog_name
+:no:*(reiqr os_ou neut geog_name sg
 
 :le:*(rh/nh
-:no:*(rhn h_hs fem geog_name
+:no:*(rhn h_hs fem geog_name sg
 
 :le:*(rhch/nwr
-:no:*(rhchn wr_oros masc
+:no:*(rhchn wr_oros masc sg
 
 :le:*(rh=sos
-:no:*(rhs os_ou masc
+:no:*(rhs os_ou masc sg
 
 :le:*(ri/ph
-:no:*(rip h_hs fem geog_name
+:no:*(rip h_hs fem geog_name sg
 
 :le:*(ru/tios
-:no:*(ruti os_ou fem geog_name
+:no:*(ruti os_ou fem geog_name sg
 
 :le:*satnio/eis
-:no:*satni oeis_oentos masc geog_name
+:no:*satni oeis_oentos masc geog_name sg
 
 :le:*sellh/eis
-:no:*sell heis_hessa masc geog_name
+:no:*sell heis_hessa masc geog_name sg
 
 :le:*si/pulos
-:no:*sipul os_ou fem geog_name
+:no:*sipul os_ou fem geog_name sg
 
 :le:*ska/rfh
-:no:*skarf h_hs fem geog_name
+:no:*skarf h_hs fem geog_name sg
 
 :le:*skw=los
-:no:*skwl os_ou fem geog_name
+:no:*skwl os_ou fem geog_name sg
 
 :le:*strati/h
-:no:*strati h_hs fem geog_name
+:no:*strati h_hs fem geog_name sg
 
 :le:*stu/c
-:no:*stu c_gos fem geog_name
+:no:*stu c_gos fem geog_name sg
 
 :le:*stu/ra
-:no:*stur os_ou neut pl geog_name
+:no:*stur os_ou neut pl geog_name 
 
 :le:*su/mh
-:no:*sum h_hs fem geog_name
+:no:*sum h_hs fem geog_name sg
 :wd:*su/mhqen adverb geog_name
 
 :le:*sxoi=nos
-:no:*sxoin os_ou fem geog_name
+:no:*sxoin os_ou fem geog_name sg
 
 :le:*ta/rnh
-:no:*tarn h_hs fem geog_name
+:no:*tarn h_hs fem geog_name sg
 
 :le:*ta/rfh
-:no:*tarf h_hs fem geog_name
+:no:*tarf h_hs fem geog_name sg
 
 :le:*ta/fos
-:no:*taf os_ou fem geog_name
+:no:*taf os_ou fem geog_name sg
 
 :le:*telamw/n
-:no:*telamw n_nos masc stem_acc
+:no:*telamw n_nos masc stem_acc sg
 :aj:*telamwni os_h_on
 
 :le:*teme/sh
-:no:*temes h_hs fem geog_name
+:no:*temes h_hs fem geog_name sg
 
 :le:*te/nedos
-:no:*tened os_ou fem geog_name
+:no:*tened os_ou fem geog_name sg
 
 :le:*thle/pulos
-:no:*thlepul os_ou fem geog_name
+:no:*thlepul os_ou fem geog_name sg
 
 :le:*th/reia
-:no:*threi a_hs fem geog_name
+:no:*threi a_hs fem geog_name sg
 
 :le:*ti/runs
 :wd:*ti/runqa irreg_decl3 acc sg  fem
 
 :le:*ti/tanos
-:no:*titan os_ou fem geog_name
+:no:*titan os_ou fem geog_name sg
 
 :le:*titarhsso/s
-:no:*titarhss os_ou fem suff_acc geog_name
+:no:*titarhss os_ou fem suff_acc geog_name sg
 
 :le:*tri/kkh
-:no:*trikk h_hs fem geog_name
-:no:*trik h_hs fem geog_name
+:no:*trikk h_hs fem geog_name sg
+:no:*trik h_hs fem geog_name sg
 
 :le:*(ua/mpolis
-:no:*(uampol is_ews fem geog_name
+:no:*(uampol is_ews fem geog_name sg
 
 :le:*(/udh
-:no:*(ud h_hs fem geog_name
+:no:*(ud h_hs fem geog_name sg
 
 :le:*(/ulh
-:no:*(ul h_hs fem geog_name
+:no:*(ul h_hs fem geog_name sg
 
 :le:*(upe/reia
-:no:*(uperei a_hs fem geog_name
+:no:*(uperei a_hs fem geog_name sg
 
 :le:*(uperhsi/h
-:no:*(uperhsi h_hs fem geog_name
+:no:*(uperhsi h_hs fem geog_name sg
 :wd:*(uperhsi/hnde adverb geog_name
 
 :le:*(upoqh=bai
-:no:*(upoqhb h_hs fem pl geog_name
+:no:*(upoqhb h_hs fem pl geog_name 
 
 :le:*(upoplaki/h
-:no:*(upoplaki h_hs fem geog_name
+:no:*(upoplaki h_hs fem geog_name sg
 
 :le:*(uri/h
-:no:*(uri h_hs fem geog_name
+:no:*(uri h_hs fem geog_name sg
 
 :le:*(urmi/nh
-:no:*(urmin h_hs fem geog_name
+:no:*(urmin h_hs fem geog_name sg
 
 :le:*fai/noy
-:no:*faino y_pos masc
+:no:*faino y_pos masc sg
 
 :le:*fa=ris
-:no:*fa_r is_ews fem geog_name
+:no:*fa_r is_ews fem geog_name sg
 
 :le:*feai/
-:no:*fe h_hs fem pl suff_acc geog_name
+:no:*fe h_hs fem pl suff_acc geog_name 
 
 :le:*feia/
-:no:*fei h_hs fem suff_acc geog_name
+:no:*fei h_hs fem suff_acc geog_name sg
 
 :le:*feneo/s
-:no:*fene os_ou fem suff_acc geog_name
+:no:*fene os_ou fem suff_acc geog_name sg
 
 :le:*ferai/
-:no:*fer h_hs fem pl geog_name suff_acc
+:no:*fer h_hs fem pl geog_name suff_acc 
 
 :le:*fe/rhs
-:no:*ferh s_tos masc
+:no:*ferh s_tos masc sg
 
 :le:*fh/r
-:no:*fh r_ros masc
+:no:*fh r_ros masc sg
 
 :le:*fhrai/
-:no:*fhr h_hs fem suff_acc geog_name  pl
+:no:*fhr h_hs fem suff_acc geog_name  pl 
 
 :le:*fhrh/
-:no:*fhr h_hs fem suff_acc sg
+:no:*fhr h_hs fem suff_acc sg sg
 
 :le:*fqirai/
-:no:*fqir h_hs fem suff_acc pl geog_name 
+:no:*fqir h_hs fem suff_acc pl geog_name  
 
 :le:*flegu/s
-:no:*fleg us_uos suff_acc masc
+:no:*fleg us_uos suff_acc masc sg
 
 :le:*foini/kh
-:no:*foinik h_hs fem geog_name
+:no:*foinik h_hs fem geog_name sg
 
 :le:*foi=nic
-:no:*foini c_kos masc
+:no:*foini c_kos masc sg
 
 :le:*fo/rkus
-:no:*forku s_nos fem geog_name
+:no:*forku s_nos fem geog_name sg
 
 :le:*xa/lkwn
-:no:*xalkw n_nos masc
+:no:*xalkw n_nos masc sg
 
 :le:*xa/ris
-:no:*xar is_itos fem
+:no:*xar is_itos fem sg
 
 :le:*xa/roy
-:no:*xaro y_pos masc
+:no:*xaro y_pos masc sg
 
 :le:*xro/mis
-:no:*xrom is_idos fem geog_name
+:no:*xrom is_idos fem geog_name sg
 
 :le:*xruso/qemis
-:no:*xrusoqem is_itos fem
+:no:*xrusoqem is_itos fem sg
 
 :le:*yuri/h
-:no:*yuri h_hs fem geog_name
+:no:*yuri h_hs fem geog_name sg
 
 :le:*)wkale/h
-:no:*)wkale h_hs fem geog_name
+:no:*)wkale h_hs fem geog_name sg
 
 :le:*)wleni/h
-:no:*)wleni h_hs fem geog_name
+:no:*)wleni h_hs fem geog_name sg
 
 :le:*)=wy
-:no:*)w y_pos fem contr
+:no:*)w y_pos fem contr sg
 
 :le:*(/wra
-:no:*(wr h_hs fem
+:no:*(wr h_hs fem sg
 
 :le:*)wrei/quia
-:no:*)wreiqui a_hs fem
+:no:*)wreiqui a_hs fem sg
 
 #more stuff
 

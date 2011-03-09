@@ -84,6 +84,7 @@
 
 :le:*ai)/as
 :no:*ai)	as_antos masc stem_acc sg pers_name
+:no:*ai)	as_antos masc stem_acc pl is_group
 
 :le:*ai)gai/
 :no:*ai)g	hs_ou fem pl suff_acc geog_name

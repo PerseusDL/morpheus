@@ -2000,9 +2000,6 @@
 :aj:ai)a_n hs_es suff_acc
 :aj:ai)hn hs_es suff_acc ionic
 
-:le:*ai)/as
-:no:*ai) as_antos,masc
-@ voc sg
 
 :le:ai)boi=
 :wd:ai)boi= exclam
@@ -12112,7 +12109,7 @@
 :aj:a)-tru_t os_on
 
 :le:*)atrutw/nh
-:no:*)a-tru_twn h_hs stem_acc fem
+:no:*)a-tru_twn h_hs stem_acc fem pers_name sg
 
 :le:a)/trwtos
 :aj:a)-trwt os_on
