@@ -60769,9 +60769,6 @@
 :le:h)raiwme/nws
 :wd:h)raiwme/nws adverb
 
-:le:*(hraklei=dai
-:no:*(hrakleid hs_ou masc pl stem_acc
-
 :le:h)pioh/ios
 :aj:h)piohi os_h_on
 
@@ -81309,9 +81306,6 @@
 
 :le:*lati/nh
 :no:*latin h_hs fem
-
-:le:*latinos
-:aj:*latin os_h_on
 
 :le:*la/tion
 :no:*lati os_ou neut
@@ -140052,7 +140046,7 @@
 :no:turoforei os_ou neut stem_acc
 
 :le:*turrhniko/s
-:aj:*turrhnik os_h_on suff_acc
+:aj:*turrhnik os_h_on suff_acc is_ethnic
 
 :le:*turrhnikourgh/s
 :aj:*turrhnikourg hs_es suff_acc
@@ -140061,7 +140055,7 @@
 :no:*turrhn is_idos fem suff_acc
 
 :le:*turrhno/s
-:aj:*turrhn os_h_on suff_acc
+:aj:*turrhn os_h_on suff_acc is_ethnic
 
 :le:turri/dion
 :no:turridi os_ou neut

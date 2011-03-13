@@ -6964,9 +6964,9 @@
 :no:*mhlia s_dos stem_acc masc fem  pl
 
 :le:*mhlieu/s
-:no:*mhli eus_ews masc suff_acc
-:aj:*mhliak os_h_on suff_acc
-:aj:*mhl is_idos fem suff_acc
+:no:*mhli eus_ews masc suff_acc is_ethnic
+:aj:*mhliak os_h_on suff_acc is_ethnic
+:aj:*mhl is_idos fem suff_acc is_ethnic
 
 :le:*mh/lios
 :aj:*mhli os_h_on
@@ -9979,9 +9979,9 @@
 @ ionic end:hos gen sg
 
 :le:*nhrhi/s
-:no:*nhrh is_idos suff_acc fem
-:no:*nhre is_idos suff_acc fem
-:no:*nhrh| s_dos stem_acc fem
+:no:*nhrh is_idos suff_acc fem is_group
+:no:*nhre is_idos suff_acc fem is_group
+:no:*nhrh| s_dos stem_acc fem is_group
 
 :le:nh/riqmos
 :aj:nhriqm os_on

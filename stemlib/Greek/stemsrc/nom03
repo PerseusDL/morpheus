@@ -4316,10 +4316,7 @@
 @ end:kle/hn acc
 
 :le:*(hraklei/dhs
-:no:*(hraklei+d hs_ou masc epic
-
-:le:*(hra/kleidai
-:no:*(hrakleid hs_ou,masc,pl
+:no:*(hraklei+d hs_ou masc stem_acc is_group 
 
 :le:*(hra/kleios
 :aj:*(hraklei os_h_on
@@ -5451,7 +5448,7 @@
 :aj:*qhbai+k os_h_on suff_acc
 
 :le:*qhbai/s
-:no:*qhba_+ is_idos suff_acc fem
+:no:*qhba_+ is_idos suff_acc fem geog_name
 
 :le:*qh/basde
 :wd:*qh/basde	adverb
@@ -6494,8 +6491,8 @@
 :no:*)ihpu^ c_gos ant_acc masc  ionic pers_name sg
 
 :le:*)ia/puges
-:no:*)iapu^ c_gos,ant_acc,masc,pl
-:no:*)ihpu^ c_gos,ant_acc,masc,pl ionic
+:no:*)iapu^ c_gos,ant_acc,masc is_ethnic
+:no:*)ihpu^ c_gos,ant_acc,masc,pl ionic is_ethnic
 
 :le:*)iapugi/a
 :no:*)ia_pugi stem_acc h_hs fem
@@ -7869,9 +7866,9 @@
 :wd:i)=fi adverb
 
 :le:i)fige/neia
-:no:*)ifi^-genei a_hs fem
-:no:*)ifi^-genei h_hs fem poetic
-:no:*)ifianass a_hs fem epic
+:no:*)ifi^-genei a_hs fem pers_name
+:no:*)ifi^-genei h_hs fem poetic pers_name
+:no:*)ifianass a_hs fem epic pers_name
 
 :le:i)/fios
 :aj:i)fi os_h_on
@@ -7990,13 +7987,16 @@
 :no:i)w c_kos,masc,stem_acc
 
 :le:*)/iwn
-:no:*)iw n_nos    masc
+:no:*)iw n_nos    masc pers_name sg
+
+:le:*)/iwnes
+:no:*)iw n_nos    masc pl is_ethnic
 
 :le:i)wnih/
-:no:i)wni h_hs suff_acc fem
+:no:i)wni h_hs suff_acc fem geog_name
 
 :le:*)iwniko/s
-:no:*)iwnik os_h_on suff_acc
+:no:*)iwnik os_h_on suff_acc is_ethnic
 
 :le:i)w=ta
 :wd:i)w=ta indecl

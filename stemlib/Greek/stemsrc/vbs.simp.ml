@@ -6013,8 +6013,8 @@
 :de:dwri euw pass comp_only
 :de:dwri ow_denom pass comp_only
 
-:le:*dwri/zw
-:de:*dwr izw
+:le:dwri/zw
+:de:dwr izw
 ;pr
 ;pr,-isd doric
 ;fu,-is

@@ -2958,7 +2958,10 @@
 :wd:pe/la^s	adverb
 
 :le:*pelasgo/s
-:no:*pelasg os_ou suff_acc masc
+:no:*pelasg os_ou suff_acc masc sg pers_name
+
+:le:*pelasgo/s
+:no:*pelasg os_ou suff_acc masc is_ethnic
 
 :le:*pelasgiko/s
 :aj:*pelasgik os_h_on suff_acc
@@ -11362,9 +11365,9 @@
 :no:*sa^tu^risk os_ou stem_acc masc   diminutive
 
 :le:*sa/turos
-:no:*satu^r os_ou masc
-:no:satu^r os_ou masc
-:no:*titu^r os_ou masc
+:no:*satu^r os_ou masc is_group
+:no:satu^r os_ou masc is_group
+:no:*titu^r os_ou masc is_group
 
 :le:sau=los
 :aj:sau_l os_h_on

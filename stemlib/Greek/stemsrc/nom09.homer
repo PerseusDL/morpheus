@@ -292,13 +292,13 @@
 :no:*eu)boi a_hs fem geog_name sg
 
 :le:*eu)mh/dhs
-:no:*eu)mhd hs_eos masc sg
+:no:*eu)mhd hs_eos masc sg pers_name
 
 :le:*eu)pei/qhs
-:no:*eu)peiq hs_eos masc sg
+:no:*eu)peiq hs_eos masc sg pers_name
 
 :le:*eu)ruti/wn
-:no:*eu)rutiw n_nos masc sg
+:no:*eu)rutiw n_nos masc sg pers_name
 
 :le:*eu)/trhsis
 :no:*eu)trhs is_ews fem geog_name sg
@@ -326,7 +326,7 @@
 :no:*)hlei os_h_on stem_acc sg
 
 :le:*)/hnoy
-:no:*)hno y_pos masc sg
+:no:*)hno y_pos masc sg pers_name
 
 :le:*)hw/s
 :no:*)h ws_oos,fem,suff_acc sg

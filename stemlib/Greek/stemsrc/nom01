@@ -3784,7 +3784,7 @@
 :no:a)la^lht os_ou suff_acc masc
 
 :le:*)alalkomenhi/s
-:no:*)alalkomenh	is_idos suff_acc fem
+:no:*)alalkomenh	is_idos suff_acc fem pers_name
 
 :le:a)lalkome/nios
 :no:a)lalkomeni os_ou masc
@@ -11971,7 +11971,7 @@
 :aj:*)atlantik os_h_on suff_acc
 
 :le:*)atlanti/s
-:no:*)atlant is_idos suff_acc fem
+:no:*)atlant is_idos suff_acc fem pers_name
 
 :le:*)/atlas
 :no:*)atl as_antos masc
@@ -16365,7 +16365,7 @@
 :aj:*gorgo-fon os_on stem_acc
 
 :le:*gorgw/
-:no:*gorg w_oos,fem,suff_acc
+:no:*gorg w_oos,fem,suff_acc,sg,pers_name
 @ gen sg
 @ end:oi dat sg
 :no:*gorg wn_onos,fem,suff_acc

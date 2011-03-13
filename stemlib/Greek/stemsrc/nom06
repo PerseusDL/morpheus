@@ -5698,9 +5698,9 @@
 :no:ti^s is_ews fem
 
 :le:*tita/n
-:no:*ti_ta_ n_nos,stem_acc,masc
+:no:*ti_ta_ n_nos,stem_acc,masc group_name
 @ nom pl
-:no:*ti_th n_nos,stem_acc,masc  ionic
+:no:*ti_th n_nos,stem_acc,masc  ionic group_name
 @ nom pl
 @ dat pl end:si
 @ dat pl end:nessi epic
@@ -7505,10 +7505,10 @@
 :le:*turrhnole/ths
 :no:*turrhn-olet hs_ou stem_acc masc
 
-:le:*turshno/s
-:aj:*turshn os_h_on suff_acc   ionic attic
-:aj:*turshnik os_h_on suff_acc
-:aj:*turrhn os_h_on suff_acc
+:le:*turhhno/s
+:aj:*turshn os_h_on suff_acc   ionic attic is_ethnic
+:aj:*turshnik os_h_on suff_acc is_ethnic
+:aj:*turrhn os_h_on suff_acc is_ethnic
 
 :le:tu/rsis
 :no:turs is_ews,fem
@@ -10028,7 +10028,7 @@
 :wd:*fqi/hfi adverb
 
 :le:*fqiw/ths
-:no:*fqi_wt hs_ou stem_acc masc
+:no:*fqi_wt hs_ou stem_acc masc is_ethnic
 
 :le:*fqiw=tis
 :no:*fqi_wt is_idos fem  stem_acc
@@ -12192,8 +12192,8 @@
 :le:xalkh/rhs
 :aj:xal-khr hs_es stem_acc
 
-:le:*xalkidei=s
-:no:*xalki^d eus_ews,suff_acc,masc pl
+:le:*xalkideu/s
+:no:*xalki^d eus_ews,suff_acc,masc pl is_ethnic
 
 :le:*xalkidiko/s
 :aj:*xalki^dik os_h_on suff_acc
