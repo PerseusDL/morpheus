@@ -2836,8 +2836,11 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :le:*)/ayurtos
 :no:*)ayurt os_ou masc  
 
+:le:*)/arbhla
+:no:*)arbhl os_ou neut pl place_name
+
 :le:*)/arbhlos
-:no:*)arbhl os_ou masc  
+:no:*)arbhl os_ou masc  sg pers_name 
 
 :le:*)arkadiko/s
 :aj:*)arkadik os_h_on suff_acc  
@@ -3163,8 +3166,8 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :le:*khfeu/s
 :no:*khf eus_ews masc suff_acc 
 
-:le:*kerau/nios
-:aj:*kerauni os_h_on   
+:le:*kerau/nia
+:aj:*kerauni os_h_on   neut pl 
 
 :le:*kerao/s
 :no:*kera os_ou masc suff_acc 
@@ -6082,9 +6085,6 @@ aj:*koropai os_h_on stem_acc is_ethnic
 
 :le:*)ara/chs
 :no:*)arac hs_eos masc  
-
-:le:*)arkesi/leus
-:no:*)arkesil eus_ews masc  
 
 :le:*)/arxandros
 :no:*)arxandr os_ou masc  
@@ -11824,8 +11824,8 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :le:*khlou/sh
 :no:*khlous h_hs fem doric 
 
-:le:*kegxre/h
-:no:*kegxre h_hs fem  
+:le:*kegxreai/
+:no:*kegxre h_hs fem suff_acc pl
 
 :le:*kegxre/h
 :no:*kegxre h_hs fem pl 

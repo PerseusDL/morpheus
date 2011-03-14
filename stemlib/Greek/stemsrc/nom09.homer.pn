@@ -505,8 +505,10 @@
 :le:*)arkei/sios
 :no:*)arkeisi	os_ou masc sg pers_name
 
+
 :le:*)arkesi/laos
 :no:*)arkesila	os_ou masc sg pers_name
+:no:*)arkesil eus_ews masc  
 
 :le:*)/arktos
 :no:*)arkt	os_ou masc sg pers_name
