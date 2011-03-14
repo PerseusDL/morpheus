@@ -1,3 +1,6 @@
+*ligustiko/s	place
+*dwriko/s	ethnic
+*ti=tos	person
 *)iliako/s	ethnic
 *strou=ktos	person
 *su/rtis	place
@@ -1190,8 +1193,8 @@ kou/rhtes	group
 *salou/stios	person
 *salw/nios	person
 *samni/ths	ethnic
-*samoqra/|kh	person
-*samoqra/|kion	person
+*samoqra/|kh	place
+*samoqra/|kion	ethnic
 *sapfiko/s	person
 *sarapi/wn	person
 *sardana/pallos	person

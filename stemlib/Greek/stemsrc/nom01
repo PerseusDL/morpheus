@@ -1817,7 +1817,7 @@
 :no:*)aqa_n h_hs fem div_name doric	stem_acc sg
 :no:*)aqa_na+ h_hs fem div_name aeolic alcae. *theocr sg
 :no:*)aqa_nai h_hs fem div_name doric sg
-:no:*)aqhn ah_ahs suff_acc fem div_name attic sg
+#:no:*)aqhn ah_ahs suff_acc fem div_name attic sg
 :no:*)aqhn h_hs stem_acc fem sg
 :no:*)aqhnai h_hs fem stem_acc div_name sg
 
