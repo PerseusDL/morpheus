@@ -1312,6 +1312,14 @@ kou/rhtes	group
 *lew/stratos	person
 *na/bwqos	person
 *pa/tala	place
+*pitta/lakos	person
+*prhca/sphs	person
+*priami/dhs	group
+*saddoukai=oi	group
+*saxxi/as	person
+*ti=fus	person
+*xa/luy	group
+*zoroba/bhlos	person
 *kleiw/	person
 *li/ghr	ethnic
 *mardoxai=os	person
