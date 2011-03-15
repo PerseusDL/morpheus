@@ -1,3 +1,9 @@
+:le:*dai/dala
+:no:*daidal os_ou neut pl geog_name
+
+:le:*di/nwn
+:no:*din wn_onos masc pers_name sg
+
 :le:*nu/mfai
 :no:*numf h_hs fem is_group
 
@@ -5548,9 +5554,6 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :le:*qe/spios
 :no:*qespi os_ou masc  
 
-:le:*qesprwto/s
-:no:*qesprwt os_ou masc suff_acc 
-
 :le:*qessali/h
 :no:*qessali h_hs fem  
 
@@ -8132,9 +8135,6 @@ aj:*koropai os_h_on stem_acc is_ethnic
 
 :le:*pe/rshs
 :no:*pers hs_ou masc  
-
-:le:*pe/rseus
-:no:*pers eus_ews masc  
 
 :le:*pe/trh
 :no:*petr h_hs fem  
@@ -12424,9 +12424,6 @@ aj:*koropai os_h_on stem_acc is_ethnic
 
 :le:*daidali/wn
 :no:*daidaliw n_nos masc  
-
-:le:*dai/dalos
-:no:*daidal os_ou neut  
 
 :le:*daitw/ndhs
 :no:*daitwnd hs_ou masc doric 
@@ -19820,7 +19817,7 @@ le:*)ari/a
 :no:*kossur	hs_ou masc stem_acc
 
 
-:le:*lhoui/tas
+:le:*lhoui/ths
 :no:*lhouit	hs_ou masc stem_acc
 
 

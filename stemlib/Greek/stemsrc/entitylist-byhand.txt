@@ -1,3 +1,9 @@
+*lhoui/ths	group
+*gorgo/nes	group
+*dai/dala	place
+*qesprwto/s	ethnic
+*pe/rshs	ethnic
+*lampitw/	person
 *)alkisqe/nhs	person
 *)/alkwn	person
 *)ago/ratos	person
@@ -59,7 +65,7 @@
 *penqesilei/a	person
 *sata/n	person
 *trifuli/h	place
-*)/altis	building
+*)/altis	place
 *leui/ths	group
 *ligustiko/s	place
 *dwriko/s	ethnic
@@ -262,6 +268,7 @@ kou/rhtes	group
 *)alfeo/s	person
 *)alia/s	person
 *)alkaqo/h	person
+*)/alkaqos	person
 *)alkme/wn	person
 *)alli/a	person
 *)alli/as	person
@@ -1317,7 +1324,8 @@ kou/rhtes	group
 *priami/dhs	group
 *saddoukai=oi	group
 *saxxi/as	person
-*ti=fus	person
+*ti/fus	person
+*)alkmewni/dhs	group
 *xa/luy	group
 *zoroba/bhlos	person
 *kleiw/	person

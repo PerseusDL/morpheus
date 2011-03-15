@@ -4231,10 +4231,10 @@
 :no:perse-ptol is_ews masc fem  poetic
 
 :le:*perseu/s
-:no:*pers eus_ews,suff_acc,masc
+:no:*pers eus_ews,suff_acc,masc,sg,pers_name
 @ end:eos ionic
 @ end:h acc sg
-:no:*persei stem_acc,os_h_on
+#:no:*persei stem_acc,os_h_on
 :no:*perseid hs_ou,masc,stem_acc
 :no:*pershiad hs_ou,masc,stem_acc epic
 

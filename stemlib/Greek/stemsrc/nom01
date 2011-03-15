@@ -16368,10 +16368,9 @@
 :no:*gorg w_oos,fem,suff_acc,sg,pers_name
 @ gen sg
 @ end:oi dat sg
-:no:*gorg wn_onos,fem,suff_acc
-@ dat sg
-@ nom pl
-@ acc pl
+
+:le:*gorgo/nes
+:no:*gorg wn_onos,fem,suff_acc,pl
 
 :le:gorgwpo/s
 :aj:gorg-wp os_on suff_acc
