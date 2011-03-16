@@ -2059,9 +2059,11 @@
 :no:lada^n os_ou neut
 :no:lhdan os_ou neut  ionic
 
-:le:lae/rths
-:no:laert hs_ou stem_acc masc
+:le:*lae/rths
+:no:*laert hs_ou stem_acc masc
 :no:*laerti os_ou   		masc
+:no:*larti os_ou masc
+
 
 :le:laqhtiko/s
 :aj:la^qhtik os_h_on suff_acc
@@ -2436,9 +2438,6 @@
 :le:laro/s
 :aj:la_r os_on suff_acc
 :aj:la_rwtat os_h_on irreg_superl
-
-:le:*la/rtios
-:no:*larti os_ou masc
 
 :le:la/rugc
 :no:la^rug c_gos masc

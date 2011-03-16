@@ -1995,11 +1995,17 @@ stemacc:*)aki/la
 :le:*)alou/ntion
 :no:*)alounti os_ou neut
 
-:le:*)alpeina
-:no:*)alpein a_hs fem
+:le:*)alpeina/
+:no:*)alpein os_ou neut suff_acc pl
 
 :le:*)alphno/s
 :no:*)alphn os_ou masc suff_acc suff_acc
+
+:le:*)apenni=nos
+:no:*)apenni_n os_ou masc stem_acc place
+
+:le:*)eruqrai/
+:no:*)eruqr	h_hs fem pl suff_acc geog_name
 
 #noanalysis:*)alphno\s
 
@@ -5711,9 +5717,6 @@ stemacc:*boumw/dos
 
 :le:*brasia/ths
 :no:*brasiat hs_ou masc
-
-:le:*braxma/nwn
-:no:*braxman wn_onos masc
 
 #noanalysis:*braxma=nes
 

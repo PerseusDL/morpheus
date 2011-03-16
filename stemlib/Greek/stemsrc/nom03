@@ -6479,9 +6479,6 @@
 :le:*)iaonau=
 :wd:*)ia_onau=  irreg_decl3 masc voc sg
 
-:le:*)ia/ones
-:no:*)ia_ wn_onos,masc pl
-@ sg rare
 
 :le:*)iao/nios
 :aj:*)iaoni os_h_on
@@ -7991,6 +7988,9 @@
 
 :le:*)/iwnes
 :no:*)iw n_nos    masc pl is_ethnic
+:no:*)ia_ wn_onos,masc pl
+@ sg rare
+
 
 :le:i)wnih/
 :no:i)wni h_hs suff_acc fem geog_name

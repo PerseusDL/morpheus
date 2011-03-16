@@ -1,3 +1,16 @@
+:le:*sa/bata
+:no:*sabat os_ou neut pl geog_name
+
+:le:*gara/mantes
+:no:*garam as_antos masc 
+
+:le:*braxma=nes
+:no:*braxma_ n_nos stem_acc masc
+
+:le:*fulli/das
+:no:*fullid hs_ou masc pers_name
+
+
 :le:*dai/dala
 :no:*daidal os_ou neut pl geog_name
 
@@ -2504,7 +2517,10 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :no:*(ierosolumeit hs_ou masc stem_acc
 
 :le:*)/abdhra
-:no:*)abdhr a_hs fem  
+:no:*)abdhr os_ou neut pl
+
+:le:*)apameu/s
+:no:*)apam eus_ews masc ethnic
 
 :le:*)abdhri/h
 :no:*)abdhri h_hs fem  
@@ -5773,7 +5789,7 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :le:*ai)gi/lea
 :no:*ai)gile a_hs fem  
 
-:le:*ai)gei/ra
+:le:*ai)/geira
 :no:*ai)geir a_hs fem  
 
 :le:*ai)giro/essa
@@ -6566,8 +6582,8 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :le:*kau=nos
 :no:*kaun os_ou masc  
 
-:le:*kelai/nhs
-:no:*kelain hs_ou masc pl suff_acc
+:le:*kelainai/
+:no:*kelain h_hs fem pl suff_acc
 
 :le:*kele/as
 :no:*kele hs_ou masc doric 
@@ -8203,7 +8219,10 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :no:*fil hs_ou masc suff_acc 
 
 :le:*fi/lippos
-:no:*filipp os_ou masc  
+:no:*filipp os_ou masc sg pers_name
+
+:le:*fi/lippoi
+:no:*filipp os_ou masc pl place_name
 
 :le:*fi/listos
 :no:*filist os_ou masc  
@@ -9130,9 +9149,6 @@ aj:*koropai os_h_on stem_acc is_ethnic
 
 :le:*botti/h
 :no:*botti h_hs fem  
-
-:le:*botti/aios
-:aj:*bottiai os_h_on   
 
 :le:*bottiai=os
 :aj:*bottiai os_h_on stem_acc  
@@ -13160,7 +13176,7 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :le:*(agnw/
 :no:*(agn w_oos fem suff_acc 
 
-:le:*(/alh
+:le:*(/alai
 :no:*(al h_hs fem pl suff_acc
 
 :le:*(aliarti/h
