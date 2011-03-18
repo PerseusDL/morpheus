@@ -1,3 +1,33 @@
+:le:*)ina/xios 
+:aj:*)inaxi os_h_on geog_name
+
+:le:*)arsako/mas
+:no:*)arsakom as_a masc stem_acc pers_name
+
+:le:*)ao/nios
+:aj:*)aoni os_h_on
+
+:le:*)/abantes
+:no:*)ab as_antos masc is_ethnic
+
+:le:*(udraw/ths
+:no:*(udrawt hs_ou masc geog_name
+
+:le:*bhqlee/m
+:wd:*bhqlee/m 	indecl neut nom voc gen dat acc sg geog_name
+
+:le:*mousa/rion
+:no:*mousari os_ou neut pers_name
+
+:le:*eu)qu/nous
+:no:*eu)qun oos_oou masc pers_name
+
+:le:*qe/rmon
+:no:*qerm os_ou neut geog_name
+
+:le:*pannuxi/s
+:no:*pannux is_idos fem pers_name
+
 :le:*prwte/as
 :no:*prwte hs_ou masc stem_acc pers_name
 
@@ -15,6 +45,90 @@
 
 :le:*pi/qwn
 :no:*piqw n_nos masc pers_name
+
+:le:*mnh/sippos
+:no:*mnhsipp os_ou masc pers_name
+
+:le:*misgo/las
+:no:*misgol as_a masc stem_acc pers_name
+
+
+:le:*melxisede/k
+:wd:*melxisede/k indecl masc nom gen voc acc dat sg pers_name 
+
+
+:le: *kuniko/s
+:no: *kunik os_h_on suff_acc
+
+:le:*krwbu/lh
+:no:*krwbul h_hs fem pers_name
+
+:le:*klwna/rion
+:no:*klwnari os_ou neut pers_name
+
+:le:*ka/rabos
+:no:*karab os_ou masc pers_name
+
+:le:gra=tos
+:no:gra_t os_ou masc pers_name
+
+:le:*fra/stwr
+:no:*frast wr_oros masc pers_name
+
+:le:*dau/nios
+:aj:*dauni os_h_on is_ethnic
+
+:le:boi=os
+:aj:boi os_h_on is_ethnic
+
+:le:*)arridai=os
+:no:*)arridai os_ou masc stem_acc pers_name
+
+:le:*)amfi/loxos
+:no:*)amfilox os_ou masc is_ethnic
+
+
+:le:*trwglodutiko/s
+:aj:*trwglodutik os_h_on is_ethnic
+
+:le:*sogdiano/s
+:no:*sogdian os_ou suff_acc is_ethnic
+
+:le:*sa/rra
+:no:*sarr h_hs fem pers_name
+
+:le:*pontiano/s
+:no:*pontian os_ou masc suff_acc pers_name
+
+:le:*plaggw/n
+:no:*plaggw n_nos stem_acc fem pers_name
+
+:le:*pelwria/s
+:no:*pelwria s_dos fem geog_name
+
+:le:*maxairou=s
+:no:*maxair oeis_oentos masc suff_acc pers_name 
+
+:le:*make/nths
+:no:*makent hs_ou masc stem_acc pers_name
+
+:le:*komba/bos
+:no:*kombab os_ou masc stem_acc pers_name
+
+:le:*ko/rinana
+:no:*korinan a_hs fem pers_name
+
+:le:*ka/ntabros
+:no:*kantabr os_ou masc is_ethnic
+
+:le:*eu)rwpiako/s
+:aj:*eu)rwpiak os_h_on suff_acc geog_name
+
+:le:*parrhsia/dhs
+:no:*parrhsiad hs_ou masc pers_name
+
+:le:*pei/qwn
+:no:*peiqw n_nos masc pers_name
 
 :le:*kori/skos
 :no:*korisk os_ou masc pers_name

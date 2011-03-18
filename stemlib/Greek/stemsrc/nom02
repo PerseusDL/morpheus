@@ -1183,8 +1183,10 @@
 :no:dioskorei os_ou neut
 
 :le:*dio/skoroi
-:no:dios-kor os_ou masc pl
-:no:dios-kour os_ou masc pl ionic
+:no:*dios-kor os_ou masc is_group
+:no:dios-kor os_ou masc is_group
+:no:*dios-kour os_ou masc ionic is_group
+:no:dios-kour os_ou masc ionic is_group
 
 :le:dio/ti
 :wd:di-o/ti conj

@@ -14662,11 +14662,12 @@
 :no:*bore hs_ou,stem_acc,masc
 @  ionic
 :no:bore hs_ou masc
-:no:*bor ehs_eou,masc
+:no:*bor ehs_eou,masc pers_name
 @ end:ew ionic gen sg
 :no:bor ehs_eou,masc
 :no:*borr ehs_eou masc attic suff_acc
 :no:borr ehs_eou masc attic suff_acc
+:no:*bor	eus_ews masc suff_acc sg pers_name
 
 :le:bo/reios
 :aj:borei os_h_on
@@ -17771,6 +17772,7 @@
 :le:*dhmh/thr
 :no:*dhmht hr_eros fem stem_acc
 :no:*dhmht hr_eros fem 
+:no:*da_ma_t hr_eros fem 
 :wd:*dh/mhtros hr_eros fem gen sg
 :no:*dhmhtr a_hs fem
 
