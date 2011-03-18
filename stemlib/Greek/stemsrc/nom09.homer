@@ -323,7 +323,7 @@
 :no:*)hl is_idos fem geog_name sg
 
 :le:*)hlei=os
-:no:*)hlei os_h_on stem_acc sg
+:no:*)hlei os_h_on stem_acc is_ethnic
 
 :le:*)/hnoy
 :no:*)hno y_pos masc sg pers_name
@@ -596,7 +596,7 @@
 :no:*midei a_hs fem geog_name sg
 
 :le:*moi=ra
-:no:*moir a_hs,fem sg
+:no:*moir a_hs,fem 
 
 :le:*mu/dwn
 :no:*mudw n_nos masc sg
@@ -906,7 +906,7 @@
 :no:*xalkw n_nos masc sg
 
 :le:*xa/ris
-:no:*xar is_itos fem sg
+:no:*xar is_itos fem
 
 :le:*xa/roy
 :no:*xaro y_pos masc sg

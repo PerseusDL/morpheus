@@ -1,3 +1,82 @@
+:le:*(ippw=nac
+:no:*(ippwna c_kos ant_acc masc pers_name
+
+:le:*xelido/nion
+:no:*xelidoni os_ou neut pers_name
+
+:le:*pi/qwn
+:no:*piqw n_nos masc pers_name
+
+:le:*kori/skos
+:no:*korisk os_ou masc pers_name
+
+:le:*to/caris
+:no:*tocar is_ews masc pers_name
+
+:le:*no/nna
+:no:*nonn	a_hs fem pers_name
+
+
+:le:*kefallh=nes
+:no:*kefallh_ n_nos stem_acc is_ethnic
+
+:le:*kampanoi/
+:no:*kampan os_h_on suff_acc is_ethnic
+
+:le:*pa=n
+:no:*pa_ n_nos masc pers_name
+
+:le:*pa=nes
+:no:*pa_ n_nos masc pl is_group
+
+:le:*)oni/as
+:no:*)oni hs_ou masc stem_acc pers_name
+
+:le:*ku/noulkos
+:no:*kunoulk os_ou masc pers_name
+
+:le:*shmwni/dhs
+:no:*shmwnid hs_ou masc stem_acc pers_name
+
+:le:*dhriadeu/s
+:no:*dhriad eus_ews masc suff_acc pers_name
+
+:le:*le/leges
+:no:*lele c_gos masc fem is_ethnic
+
+:le:*faini/as
+:no:*faini hs_ou masc stem_acc pers_name 
+
+:le:*sa/mippos
+:no:*samipp os_ou masc pers_name
+
+:le:*mnh/sippos
+:no:*mnhsipp os_ou masc pers_name
+
+:le:*dorka/s
+:no:*dorka	s_dos fem stem_acc pers_name
+
+:le:*xalkome/dh
+:no:*xalkomed h_hs fem pers_name
+
+:le:*dw=ris
+:no:*dwr is_idos fem pers_name
+
+:le:*morreu/s
+:no:*morr eus_ews masc suff_acc pers_name
+
+:le:*tuxia/dhs
+:no:*tuxiad hs_ou masc stem_acc
+
+:le:*)agora/sths
+:no:*)agorast hs_ou masc pers_name
+
+:le:*bassari/dhs
+:no:*bassarid hs_ou masc group
+
+:le:*dhria/dhs
+:no:*dhriad hs_ou masc pers_name
+
 :le:*sa/bata
 :no:*sabat os_ou neut pl geog_name
 
@@ -7153,8 +7232,12 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :le:*go/rgw
 :no:*gorg w_oos fem sg  pers_name
 
-:le:*go/rgwn
-:no:*gorg wn_onos fem masc  is_group
+:le:*gorgw/n
+:no:*gorg wn_onos fem suff_acc  is_group
+
+:le:*mi/kullos
+:no:*mikull os_ou masc pers_name
+
 
 :le:*go/rgos
 :no:*gorg os_ou masc  
@@ -7625,7 +7708,7 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :no:*man hs_ou masc  
 
 :le:*mantineu/s
-:no:*mantin eus_ews masc suff_acc pers_name
+:no:*mantin eus_ews masc suff_acc ethnic
 
 :le:*mantu/hs
 :no:*mantu hs_ou masc  

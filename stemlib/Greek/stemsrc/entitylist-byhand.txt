@@ -1,3 +1,11 @@
+*xa/ris	group
+*tuxia/dhs	person
+*ba/kxos	person
+*kuni/skos	group
+*mi/kullos	person
+*moi=ra	group
+*gi/gas	group
+*(/uhttos	person
 *me/gara/de	place
 *poteidea/ths	ethnic
 *qe/oklos	person
@@ -1224,8 +1232,9 @@ kou/rhtes	group
 *nhrhi/s	group
 *pelopi/dhs	group
 *ko/mwn	person
-*kuni/skos	person
 *pasi/as	person
+*)agora/sths	person
+*)hlei=os	ethnic
 *tritoge/neia	person
 *)abennh=ros	person
 *)abia/qaros	person
