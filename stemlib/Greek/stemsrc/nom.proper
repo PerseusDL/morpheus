@@ -1,3 +1,12 @@
+:le:*prwte/as
+:no:*prwte hs_ou masc stem_acc pers_name
+
+:le:*ghruta/dhs
+:no:*ghrutad	hs_ou masc stem_acc pers_name
+
+:le:trwglodu/ths
+:no:trwglodut hs_ou masc stem_acc is_group
+
 :le:*(ippw=nac
 :no:*(ippwna c_kos ant_acc masc pers_name
 
@@ -38,8 +47,15 @@
 :le:*shmwni/dhs
 :no:*shmwnid hs_ou masc stem_acc pers_name
 
-:le:*dhriadeu/s
+:le:*dhria/dhs
+:no:*dhriad hs_ou masc pers_name
 :no:*dhriad eus_ews masc suff_acc pers_name
+
+:le:*)iw/das
+:no:*)iwd as_a masc pers_name
+
+:le:*)anani/as
+:no:*)anani hs_ou masc stem_acc
 
 :le:*le/leges
 :no:*lele c_gos masc fem is_ethnic
@@ -72,11 +88,29 @@
 :no:*)agorast hs_ou masc pers_name
 
 :le:*bassari/dhs
-:no:*bassarid hs_ou masc group
+:no:*bassarid hs_ou masc is_ethnic
+:no:*bassar is_idos fem  suff_acc is_ethnic
 
-:le:*dhria/dhs
-:no:*dhriad hs_ou masc pers_name
+:le:*)adai=os
+:no:*)adai os_ou masc stem_acc pers_name
 
+:le:*(hliodw/ra
+:no:*(hliodwr h_hs fem pers_nameo
+
+:le:*spitame/nhs
+:no:*spitamen hs_ou masc stem_name pers_name
+
+:le:*ai)gokereu/s
+:no:*ai)goker eus_ews suff_acc pers_name
+
+:le:*)io/essa
+:no:*)ioess a_hs fem pers_name
+
+:le:*)hrige/neia
+:no:*)hrigenei a_hs fem pers_name
+
+:le:*)/afobos
+:no:*)afob os_ou masc pers_name
 :le:*sa/bata
 :no:*sabat os_ou neut pl geog_name
 
@@ -11555,7 +11589,12 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :no:*bakx is_idos fem  
 
 :le:*ba/kxeios
-:no:*bakxei os_ou masc  
+:no:*bakxei os_h_on masc  is_group
+:aj:*bakxi os_h_on is_group
+
+:le:*larh/nsios
+:no:*larhnsi os_ou masc pers_name
+
 
 :le:*bai=tis
 :no:*bait is_idos fem  
