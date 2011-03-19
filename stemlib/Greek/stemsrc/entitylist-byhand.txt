@@ -1,4 +1,15 @@
+*ka/rneia	festival
+*koumano/s	person
+*pleia/des	constellation
+*(hrippi/das	person
+*dwri/maxos	person
+*)anilai=os	person
+*meiduli/dhs	person
+*drosi/s	person
+*drwpi/dhs	person
+*eu)rubia/dhs	person
 *fulh/	place
+*pa=nes	group
 *dionu/sia	festival
 *panaqh/naia	festival
 *xa/ris	group
@@ -8,6 +19,7 @@
 *tuxia/dhs	person
 *ba/kxos	person
 *kuni/skos	group
+*kuniko/s	group
 *mi/kullos	person
 *moi=ra	group
 *gi/gas	group
@@ -1407,7 +1419,8 @@
 *qa/llos	person
 *qamou=s	person
 *qamu/ras	person
-*qargh/lia	person
+*qargh/lia	festival
+*skerdilai/+das	person
 *qarghliw/n	person
 *qe/rsippos	person
 *qe/sth	person
