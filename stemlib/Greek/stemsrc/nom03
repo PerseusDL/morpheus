@@ -5340,9 +5340,9 @@
 :le:qesmosu/nh
 :no:qesmosun h_hs stem_acc fem
 
-:le:qesmofo/ria
-:no:qesmofori os_ou neut pl
-:no:*qesmofori os_ou neut pl
+:le:*qesmofo/ria
+:no:qesmofori os_ou neut pl is_festival
+:no:*qesmofori os_ou neut pl is_festival
 
 :le:qesmofo/rion
 :no:qesmofori os_ou neut
@@ -7530,27 +7530,27 @@
 :no:i)sqmi os_ou neut pl
 
 :le:*)isqmia/s
-:no:*)isqmia s_dos stem_acc   fem
-:no:i)sqmia s_dos stem_acc   fem
+:no:*)isqmia s_dos stem_acc   fem	geog_name
+:no:i)sqmia s_dos stem_acc   fem	geog_name
 
 :le:i)/sqmion
-:no:i)sqmi os_ou neut
+:no:i)sqmi os_ou neut	geog_name
 
 :le:i)/sqmios
-:aj:i)sqmi os_h_on
-:aj:i)sqmi os_on
+:aj:i)sqmi os_h_on	geog_name
+:aj:i)sqmi os_on	geog_name
 
 :le:*)isqmo/qen
-:wd:*)isqmo/qen	adverb
-:wd:i)sqmo/qen	adverb
+:wd:*)isqmo/qen	adverb	geog_name
+:wd:i)sqmo/qen	adverb	geog_name
 
 :le:*)isqmo/qi
-:wd:*)isqmo/qi	adverb
-:wd:i)sqmo/qi	adverb
+:wd:*)isqmo/qi	adverb	geog_name
+:wd:i)sqmo/qi	adverb	geog_name
 
 :le:*)isqmoi=
-:wd:*)isqmoi=	adverb
-:wd:i)sqmoi=	adverb
+:wd:*)isqmoi=	adverb	geog_name
+:wd:i)sqmoi=	adverb	geog_name
 
 :le:i)sqmo/s
 :no:i)sqm os_ou suff_acc   masc
@@ -7862,7 +7862,7 @@
 :le:i)=fi
 :wd:i)=fi adverb
 
-:le:i)fige/neia
+:le:*)ifige/neia
 :no:*)ifi^-genei a_hs fem pers_name
 :no:*)ifi^-genei h_hs fem poetic pers_name
 :no:*)ifianass a_hs fem epic pers_name
@@ -7990,10 +7990,6 @@
 :no:*)iw n_nos    masc pl is_ethnic
 :no:*)ia_ wn_onos,masc pl
 @ sg rare
-
-
-:le:i)wnih/
-:no:i)wni h_hs suff_acc fem geog_name
 
 :le:*)iwniko/s
 :no:*)iwnik os_h_on suff_acc is_ethnic

@@ -1036,7 +1036,9 @@
 
 :le:di=nos
 :no:di_n os_ou masc
-:no:*di_n os_ou masc
+
+:le:*di=nos
+:no:*di_n os_ou masc pers_name sg
 
 :le:dinw/dhs
 :aj:di_n-wd hs_es stem_acc
@@ -9796,7 +9798,12 @@
 :le:e)/rws
 :no:e)rw s_tos ,masc
 @ dat
-:no:*)erw s_tos ,masc
+
+:le:*)/erws
+:no:*)erw s_tos ,masc,sg,pers_name
+
+:le:*)/erwtes
+:no:*)erw s_tos ,masc,pl,is_group
 
 :le:e)rwta/rion
 :no:e)rwtari os_ou neut diminutive

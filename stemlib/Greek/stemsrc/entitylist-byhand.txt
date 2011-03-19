@@ -1,4 +1,10 @@
+*fulh/	place
+*dionu/sia	festival
+*panaqh/naia	festival
 *xa/ris	group
+*)/erwtes	group
+*streyia/dhs	person
+*gorgw/n	group
 *tuxia/dhs	person
 *ba/kxos	person
 *kuni/skos	group
@@ -272,7 +278,7 @@
 *tri/kostos	person
 *nau/tios	person
 *kw=|os	ethnic
-kou/rhtes	group
+*kou/rhtes	group
 *ai)nia/n	ethnic
 *ai)qa/leia	place
 *)imi/lkwn	person
@@ -616,6 +622,7 @@ kou/rhtes	group
 *)ismhnodw/ra	person
 *)isodi/kh	person
 *)isqmia/s	person
+*)/isqmia	festival
 *)issw/rios	person
 *)italiko/s	ethnic
 *)itw/nios	person
@@ -1784,8 +1791,8 @@ Volumnia	person
 Volumnia	place
 Volusci	ethnic
 Xenares	person
-bria/rews	person
-di=nos	person
-e)/rws	person
-qesmofo/ria	festival
-qesmofo/ria	person
+*bria/rews	person
+*di=nos	person
+*)/erws	person
+*qesmofo/ria	festival
+*qesmofo/ria	person

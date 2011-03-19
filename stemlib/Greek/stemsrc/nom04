@@ -276,9 +276,9 @@
 :le:kourh/ios
 :aj:kourhi os_h_on
 
-:le:kou/rhtes
-:no:kourh s_tos,masc,pl
+:le:*kou/rhtes
 :no:*kourh s_tos,masc,pl
+:no:kourh s_tos,masc,pl
 
 :le:kouri/as
 :no:kouri hs_ou stem_acc    masc
