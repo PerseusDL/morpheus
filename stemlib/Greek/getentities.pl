@@ -49,6 +49,7 @@ $/ = ":le";
 while(<>) {
 	next unless /^:(.+)/;
 	$curlem = $1;
+	$curlem =~ s#,.+##g;
 
 	if( /ethnic/ ) {
 		$is_ethnicname{$curlem}++;

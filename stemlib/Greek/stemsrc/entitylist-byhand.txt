@@ -1,6 +1,10 @@
+*(/arpuiai	group
+*dio/skoroi	group
+*ba/kxeios	group
 *ka/rneia	festival
 *koumano/s	person
-*pleia/des	constellation
+*pleia/s	constellation
+*koru/dwn	person
 *(hrippi/das	person
 *dwri/maxos	person
 *)anilai=os	person

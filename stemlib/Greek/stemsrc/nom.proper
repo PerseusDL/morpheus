@@ -40,7 +40,8 @@
 :le:*ghruta/dhs
 :no:*ghrutad	hs_ou masc stem_acc pers_name
 
-:le:trwglodu/ths
+:le:*trwglodu/ths
+:no:*trwglodut hs_ou masc stem_acc is_group
 :no:trwglodut hs_ou masc stem_acc is_group
 
 :le:*(ippw=nac
@@ -5669,7 +5670,7 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :no:*tarthss os_ou masc suff_acc 
 
 :le:*tauro/polos
-:no:*tauropol os_ou masc  
+:no:*tauropol os_ou masc  fem pers_name
 
 :le:*tau=ros
 :no:*taur os_ou masc  
@@ -5683,7 +5684,7 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :le:*tegu/rios
 :no:*teguri os_ou masc  
 
-:le:*thlebo/hs
+:le:*thlebo/as
 :no:*thlebo hs_ou pl masc 
 
 :le:*thlebo/hs
@@ -9774,7 +9775,7 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :le:*lewko/reion
 :no:*lewkorei os_ou neut  
 
-:le:*lewtuxi/das
+:le:*lewtuxi/dhs
 :no:*lewtuxid hs_ou masc  
 
 :le:*le/sbios
@@ -12277,7 +12278,7 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :le:*kinai/qwn
 :no:*kinaiqw n_nos masc  
 
-:le:*ki/rrh
+:le:*ki/rra
 :no:*kirr h_hs fem  
 
 :le:*ki/ssh
@@ -13542,7 +13543,7 @@ aj:*koropai os_h_on stem_acc is_ethnic
 :no:*(ippi os_ou masc  
 
 :le:*(ippw/
-:no:*(ipp w_oos fem suff_acc 
+:no:*(ipp w_oos fem suff_acc pers_name
 
 :le:*(ippoda/meion
 :no:*(ippodamei os_ou neut  

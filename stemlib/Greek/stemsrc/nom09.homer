@@ -448,7 +448,13 @@
 :no:*korwnei a_hs fem sg
 
 :le:*kourh=tes
-:no:*kourh s_tos fem stem_acc sg
+:no:*kourh s_tos fem stem_acc is_group
+
+:le:*garou/nas
+:no:*garoun as_a masc geog_name
+
+:le:*qou/lh
+:no:*qoul h_hs fem geog_name
 
 :le:*ko/wn
 :no:*kow n_nos masc sg
