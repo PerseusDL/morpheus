@@ -9652,13 +9652,13 @@
 :aj:e(rmhneutik os_h_on suff_acc
 
 :le:*(ermh=s
-:no:*(erm ehs_eou,masc,suff_acc
+:no:*(erm ehs_eou,masc,suff_acc,pers_name
 @ end:h=n acc
 @ end:h=| dat
 @ end:h= voc
 @ end:e/w epic gen
 @ end:ei/w epic gen
-:no:*(ermei hs_ou masc
+:no:*(ermei hs_ou masc,pers_name
 
 :le:*(ermi/dion
 :no:*(ermi_di os_ou neut diminutive
