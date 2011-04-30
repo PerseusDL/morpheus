@@ -39,6 +39,14 @@ print STDERR "month $curlem\n";
 		$is_constellation{$curlem}++;
 	}
 
+	if( /language/ ) {
+		$is_language{$curlem}++;
+	}
+
+	if( /title/ ) {
+		$is_title{$curlem}++;
+	}
+
 	$totalkeys{$curlem}++;
 }
 
@@ -63,7 +71,7 @@ while(<>) {
 		$is_geogname{$curlem}++;
 	}
 	
-	if( /groupname|group_name/ ) {
+	if( /is_group|groupname|group_name/ ) {
 		$is_groupname{$curlem}++;
 	}
 	
@@ -77,6 +85,12 @@ while(<>) {
 	if( /constellation/ ) {
 		$is_constellation{$curlem}++;
 	}
+	if( /language/ ) {
+		$is_language{$curlem}++;
+	}
+	if( /title/ ) {
+		$is_title{$curlem}++;
+	}
 	if( /festival/ ) {
 		$is_festival{$curlem}++;
 	}
@@ -86,7 +100,7 @@ while(<>) {
 }
 
 foreach my $tmps (sort keys % totalkeys) {
-		next unless ($is_persname{$tmps} or $is_geogname{$tmps} or $is_ethnicname{$tmps} or $is_groupname{$tmps} or $is_buildingname{$tmps} or $is_monthname{$tmps} or $is_festival{$tmps} or $is_constellation{$tmps});
+		next unless ($is_persname{$tmps} or $is_geogname{$tmps} or $is_ethnicname{$tmps} or $is_groupname{$tmps} or $is_buildingname{$tmps} or $is_monthname{$tmps} or $is_festival{$tmps} or $is_constellation{$tmps} or $is_language{$tmps} or $is_title{$tmps});
 
 		print "$tmps";
 		if( $is_persname{$tmps} ) {
@@ -119,6 +133,13 @@ foreach my $tmps (sort keys % totalkeys) {
 
 		if(  $is_constellation{$tmps} ) {
 			print "\tconstellation";
+		}
+		if(  $is_language{$tmps} ) {
+			print "\tlanguage";
+		}
+
+		if(  $is_title{$tmps} ) {
+			print "\ttitle";
 		}
 		print "\n";
 }

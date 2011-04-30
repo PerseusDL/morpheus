@@ -16034,9 +16034,6 @@ stemacc:*sirbwni/dos
 :le:*ski/a
 :no:*ski a_hs fem
 
-:le:*ski/piwnos
-:no:*skipiwn os_ou masc
-
 :le:*skia/qios
 :no:*skiaqi os_ou masc
 

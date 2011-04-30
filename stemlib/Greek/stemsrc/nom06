@@ -350,7 +350,7 @@
 @ end:in
 
 :le:*skuqisti/
-:wd:*sku^qist^i/	adverb
+:wd:*sku^qist^i/	adverb language
 :wd:sku^qist^i/	adverb
 
 :le:*skuqotoco/ths
@@ -3317,7 +3317,7 @@
 :no:su_rist hs_ou suff_acc masc
 
 :le:*suristi/
-:wd:*su^risti/  adverb
+:wd:*su^risti/  adverb language
 
 :le:su/rma
 :no:sur ma_matos neut
@@ -5149,7 +5149,7 @@
 :wd:tetra^-podhdo/n	adverb
 
 :le:tetrapodisti/
-:wd:tetra^-podisti/	adverb
+:wd:tetra^-podisti/	adverb language
 
 :le:tetra/polis
 :no:tetra^-pol is_ews fem
@@ -7612,7 +7612,7 @@
 :no:u(ain a_hs fem
 
 :le:*(uaki/nqia
-:no:*(uakinqi os_ou,neut,pl
+:no:*(uakinqi os_ou,neut,pl,is_festival
 
 :le:u(akinqinobafh/s
 :aj:u(akinqi^no-ba^f hs_es suff_acc
@@ -11179,7 +11179,7 @@
 :no:foini_kist hs_ou suff_acc masc
 
 :le:*foinikisti/
-:wd:*foini_kisti/	adverb
+:wd:*foini_kisti/	adverb language
 
 :le:foiniko/baptos
 :aj:foini_ko-bapt os_on
@@ -11636,7 +11636,7 @@
 :no:*frugi h_hs fem
 
 :le:*frugisti/
-:wd:fru^gisti/	adverb
+:wd:fru^gisti/	adverb language
 
 :le:frukto/s
 :aj:frukt os_h_on suff_acc
@@ -12711,8 +12711,11 @@
 :wd:xe/reia wn_on_comp acc pl neut epic irreg_comp
 :aj:xeirist os_h_on   irreg_superl
 
+:le:*xei/rwnes
+:no:*xeirw n_nos masc title
+
 :le:*xei/rwn
-:no:*xeirw n_nos masc
+:no:*xeirw n_nos masc pers_name
 
 :le:xeirw=nac
 :no:xeir-w_na c_ktos ant_acc masc

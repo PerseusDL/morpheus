@@ -2223,8 +2223,8 @@
 :le:*)adw/neios
 :aj:*)adwnei os_h_on
 
-:le:*)adwnia/
-:no:*)adwni os_ou neut pl
+:le:*)adw/nia
+:no:*)adwni os_ou neut pl is_festival
 
 :le:*)adwniako/s
 :aj:*)adwniak os_h_on suff_acc
@@ -18766,7 +18766,7 @@
 :no:*)arab is_idos fem suff_acc
 
 :le:*)arabisti/
-:wd:*)arabisti/ adverb
+:wd:*)arabisti/ adverb language
 
 :le:a)rabi/s
 :no:a)rab is_idos fem suff_acc
@@ -18979,7 +18979,7 @@
 :no:a)rgoqanat os_on
 
 :le:*)argolisti/
-:wd:*)argolisti/ adverb
+:wd:*)argolisti/ adverb language
 
 :le:a)rgome/twpos
 :no:a)rgometwp os_on
@@ -19699,7 +19699,7 @@
 :no:*)armeniarx hs_ou masc stem_acc
 
 :le:*)armenisti/
-:wd:*)armenisti/ adverb
+:wd:*)armenisti/ adverb language
 
 :le:*)arme/nion
 :no:*)armeni os_ou neut
@@ -60950,7 +60950,7 @@
 :wd:hu)tomatisme/nws adverb
 
 :le:*(hfaistei=on
-:no:*(hfaistei os_ou neut stem_acc
+:no:*(hfaistei os_ou neut stem_acc buildingname
 
 :le:*(hfai/stia
 :no:*(hfaisti os_ou neut pl
@@ -65036,7 +65036,7 @@
 :no:*)ind is_idos fem suff_acc
 
 :le:*)indisti/
-:wd:*)indisti/ adverb
+:wd:*)indisti/ adverb language
 
 :le:*)indogenh/s
 :aj:*)indogen hs_es suff_acc
@@ -66767,7 +66767,7 @@
 :no:i)wnisk os_ou masc stem_acc
 
 :le:*)iwnisti/
-:wd:*)iwnisti/ adverb
+:wd:*)iwnisti/ adverb language
 
 :le:*)iwnoka/mpths
 :no:*)iwnokampt hs_ou masc stem_acc
@@ -69446,7 +69446,7 @@
 :no:karioqrept os_on
 
 :le:*karisti/
-:wd:*karisti/ adverb
+:wd:*karisti/ adverb language
 
 :le:*kari/wn
 :no:*kariw n_nos masc
@@ -69767,7 +69767,7 @@
 :no:karu^ h_hs fem
 
 :le:*karua=tis
-:no:*karua_t is_idos fem stem_acc
+:no:*karua_t is_idos fem stem_acc is_group
 
 :le:*karua/teia
 :no:*karua_tei os_ou neut pl
@@ -79691,7 +79691,7 @@
 :no:kunokefali os_ou neut
 
 :le:kunokefalisti/
-:wd:kunokefalisti/ adverb
+:wd:kunokefalisti/ adverb language
 
 :le:kunokefaloke/rdwn
 :no:kunokefalokerdw n_nos masc
@@ -84185,7 +84185,7 @@
 :no:lokal os_ou masc
 
 :le:*lokristi/
-:wd:*lokristi/ adverb
+:wd:*lokristi/ adverb language
 
 :le:*lokriko/s
 :aj:*lokrik os_h_on suff_acc
@@ -87506,7 +87506,7 @@
 :no:melist hs_ou masc suff_acc
 
 :le:melisti/
-:wd:melisti/ adverb
+:wd:melisti/ adverb language
 
 :le:*melitai=os
 :aj:*melitai os_h_on
@@ -89069,7 +89069,7 @@
 :no:mhdi os_ou neut
 
 :le:*mhdisti/
-:wd:*mhdisti/ adverb
+:wd:*mhdisti/ adverb language
 
 :le:mhdo/lws
 :wd:mhdo/lws adverb
@@ -149478,7 +149478,7 @@
 :aj:*xaldaik os_h_on suff_acc
 
 :le:*xaldaisti/
-:wd:*xaldaisti/ adverb
+:wd:*xaldaisti/ adverb language
 
 :le:xaleptu/s
 :no:xalept us_uos fem suff_acc

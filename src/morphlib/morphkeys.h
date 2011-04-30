@@ -80,6 +80,7 @@ Morph_args arg_morphflags[] = {
 	"uncontracted",	UNCONTR_END,	new_morphflags,
 	"uncontr_stem",		UNCONTR_STEM,	new_morphflags,
 	"pers_name",	PERS_NAME,	new_morphflags,
+	"is_group",	GROUP_NAME,	new_morphflags,
 	"prevb_aug",	PREVB_AUGMENT,	new_morphflags,
 	"prevb_augment",	PREVB_AUGMENT,	new_morphflags,
 	"double_aug",	DOUBLE_AUGMENT,	new_morphflags,

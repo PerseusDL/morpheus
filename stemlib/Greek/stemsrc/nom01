@@ -1382,9 +1382,6 @@
 :le:*)/adwn
 :no:*)a^dw n_nos masc
 
-:le:*)adw/nia
-:no:*)adwni os_ou neut pl
-
 :le:*)/adwnis
 :no:*)adwn is_idos masc
 
@@ -2132,8 +2129,8 @@
 :aj:*ai)gupti os_h_on
 
 :le:*ai)guptisti/
-:wd:*ai)guptisti/ adverb
-:wd:ai)guptisti/ adverb
+:wd:*ai)guptisti/ adverb language
+:wd:ai)guptisti/ adverb language
 
 :le:*ai)guptogenh/s
 :aj:*ai)gupto-gen hs_es suff_acc
@@ -6554,7 +6551,7 @@
 :aj:a)ndriste os_on stem_acc  verb_adj1
 
 :le:a)ndristi/
-:wd:a)ndristi/ adverb
+:wd:a)ndristi/ adverb language
 
 :le:a)ndrobo/ros
 :aj:a)ndro-bor os_on stem_acc
@@ -7981,7 +7978,7 @@
 :wd:a)/nwqen adverb
 
 :le:a)nwisti/
-:wd:a)n-wi+_sti/ adverb
+:wd:a)n-wi+_sti/ adverb language
 
 :le:a)nw/istos
 :aj:a)n-wi+st os_on a_priv
@@ -12140,7 +12137,7 @@
 :no:a)ttikism os_ou suff_acc masc
 
 :le:*)attikisti/
-:wd:*)attikisti/ adverb
+:wd:*)attikisti/ adverb language
 :wd:a)ttikisti/ adverb
 
 :le:*a)ttiki/wn
@@ -16609,7 +16606,7 @@
 :aj:gumn os_h_on suff_acc
 
 :le:*gumnosofistai/
-:no:*gumno-sofist hs_ou masc suff_acc pl
+:no:*gumno-sofist hs_ou masc suff_acc pl is_group
 
 :le:gumno/ths
 :no:gumnoth s_tos   fem 	ant_acc

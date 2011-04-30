@@ -2271,7 +2271,7 @@
 :no:par-qesi h_hs,stem_acc,fem
 
 :le:*parqisti/
-:wd:*parqisti/	adverb
+:wd:*parqisti/	adverb language
 
 :le:*pa/rqoi
 :no:*parq os_ou masc  pl
@@ -3035,7 +3035,7 @@
 :aj:*peloponnhsiak os_h_on suff_acc
 
 :le:*peloponnasisti/
-:wd:*peloponna_sisti/  adverb
+:wd:*peloponna_sisti/  adverb language
 
 :le:pelo/s
 :aj:pel os_h_on suff_acc
@@ -4235,8 +4235,10 @@
 @ end:eos ionic
 @ end:h acc sg
 #:no:*persei stem_acc,os_h_on
-:no:*perseid hs_ou,masc,stem_acc
-:no:*pershiad hs_ou,masc,stem_acc epic
+
+:le:*persei/dhs
+:no:*perseid hs_ou,masc,stem_acc is_group
+:no:*pershiad hs_ou,masc,stem_acc epic is_group
 
 :le:*persefo/nh
 :no:*persefon h_hs stem_acc fem
@@ -4266,8 +4268,8 @@
 :no:*pers is_idos suff_acc   	fem
 
 :le:*persisti/
-:wd:*persi^sti/	adverb
-:wd:persi^sti/	adverb
+:wd:*persi^sti/	adverb language
+:wd:persi^sti/	adverb language
 
 :le:*persodiw/kths
 :no:*perso-diwkt hs_ou stem_acc masc
@@ -11021,7 +11023,7 @@
 :aj:*(rwmai os_h_on stem_acc
 
 :le:*(rwmaisti/
-:wd:*(rwmai+sti/	adverb
+:wd:*(rwmai+sti/	adverb language
 
 :le:r(wmale/os
 :aj:r(wma^le os_h_on stem_acc

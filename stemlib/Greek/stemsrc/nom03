@@ -5834,7 +5834,7 @@
 :aj:*qra_ c_kos masc
 
 :le:*qra|kisti/
-:wd:*qra|kisti/ adverb
+:wd:*qra|kisti/ adverb language
 
 :le:qrani/ths
 :no:qra_ni_t hs_ou stem_acc   masc
@@ -9089,10 +9089,12 @@
 :no:ka^nonis ma_matos neut
 
 :le:*ka/nwbos
-:no:*kanwb os_ou masc
-:no:*kanwp os_ou masc
-:no:*kanwbi_t hs_ou masc  stem_acc
-:no:*kanwbik os_h_on suff_acc
+:no:*kanwb os_ou masc geog_name
+:no:*kanwp os_ou masc geog_name
+
+:le:*kanwbi/ths 
+:no:*kanwbi_t hs_ou masc  stem_acc is_ethnic
+:no:*kanwbik os_h_on suff_acc is_ethnic
 
 :le:kanw/n
 :no:ka^n wn_onos suff_acc    masc
@@ -10447,7 +10449,7 @@
 :no:kelhti os_ou neut   diminutive
 
 :le:*keltisti/
-:wd:*keltisti/	adverb
+:wd:*keltisti/	adverb language
 
 :le:*keltoi/
 :no:*kelt os_ou suff_acc masc  pl

@@ -2894,7 +2894,10 @@
 :aj:leuk-hr hs_es stem_acc
 
 :le:*leukippi/des
-:no:*leukipp is_idos,fem,suff_acc,pl
+:no:*leukipp is_idos,fem,suff_acc,pl group_name
+
+:le:*le/sxhs
+:no:*lesx hs_ou masc pers_name
 
 :le:leu/kippos
 :aj:leuk-ipp os_on
@@ -4148,8 +4151,8 @@
 :aj:*ludi os_on
 
 :le:*ludisti/
-:wd:*lu_di^sti/	adverb
-:wd:lu_di^sti/	adverb
+:wd:*lu_di^sti/	adverb language
+:wd:lu_di^sti/	adverb language
 
 :le:*ludo/s
 :no:*lu_d os_ou suff_acc   masc
@@ -4704,7 +4707,7 @@
 :aj:*maiwtik os_h_on suff_acc
 
 :le:*maiwtisti/
-:wd:*maiwtisti/	adverb
+:wd:*maiwtisti/	adverb language
 
 :le:mai/wtra
 :no:maiwtr os_ou neut   pl
@@ -4741,7 +4744,7 @@
 :aj:ma^kedn os_h_on suff_acc
 
 :le:*makedonisti/
-:wd:*ma^kedonisti/ adverb
+:wd:*ma^kedonisti/ adverb language
 
 :le:*makedw/n
 :no:*ma^ked wn_onos suff_acc masc fem
@@ -7510,8 +7513,8 @@
 :aj:mico-lu_di os_on
 
 :le:micoludisti/
-:wd:mico-lu_disti/	adverb
-:wd:meico-lu_disti/	adverb
+:wd:mico-lu_disti/	adverb language
+:wd:meico-lu_disti/	adverb language
 
 :le:micopa/rqenos
 :aj:mico-parqen os_on
@@ -9393,6 +9396,9 @@
 
 :le:neme/twr
 :no:nemet wr_oros stem_acc masc
+
+:le:*neme/twr
+:no:*nemet wr_oros stem_acc masc pers_name 
 
 :le:ne/mos
 :no:nem hs_eos   neut
@@ -11896,7 +11902,7 @@
 :no:o)kla^di hs_ou,stem_acc,masc
 
 :le:o)kladisti/
-:wd:o)kladisti/	adverb
+:wd:o)kladisti/	adverb language
 
 :le:o)knhro/s
 :aj:o)knhr os_h_on suff_acc
@@ -12440,7 +12446,7 @@
 :no:*(omhrid hs_ou stem_acc masc  pl
 
 :le:*(omhriko/s
-:aj:*(omhrik os_h_on suff_acc
+:aj:*(omhrik os_h_on suff_acc is_group
 
 :le:*(/omhros
 :no:*(omhr os_ou masc

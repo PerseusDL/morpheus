@@ -85,6 +85,11 @@ printf("AvoidEnd:"); PrntAGstr(&AvoidEnd,stdout); printf("\n");
 			set_number(forminfo_of(&WantEnd),SINGULAR);
 	}
 
+	if( Is_group_name(morphflags_of(&WantEnd)) ) {
+		if( ! number_of(forminfo_of(&WantEnd)) ) 
+			set_number(forminfo_of(&WantEnd),PLURAL);
+	}
+
 /*
 	if( !(gstring = RetrCompEnds(&WantEnd,&AvoidEnd,nends,OrDialect))) {
 		return(NULL);

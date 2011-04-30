@@ -3423,7 +3423,7 @@
 :no:*dwr is_idos suff_acc fem
 
 :le:*dwristi/
-:wd:*dwri^sti/	adverb
+:wd:*dwri^sti/	adverb language
 :wd:dwri^sti/	adverb
 
 :le:dwrodo/khma
@@ -3433,7 +3433,7 @@
 :no:dwrodoki h_hs stem_acc fem
 
 :le:dwrodokisti/
-:wd:dwrodokisti/	adverb
+:wd:dwrodokisti/	adverb language
 
 :le:dwrodo/kos
 :aj:dwro-dok os_on stem_acc
@@ -3569,7 +3569,7 @@
 :aj:*(ebrai+ is_idos fem suff_acc
 
 :le:*(ebraisti/
-:wd:*(ebraisti/ adverb
+:wd:*(ebraisti/ adverb language
 
 :le:e)/ggaios
 :aj:e)g-gai os_h_on
@@ -5634,7 +5634,7 @@
 :no:*(ellhnist hs_ou suff_acc   masc
 
 :le:*(ellhnisti/
-:wd:*(ellhnisti/	adverb
+:wd:*(ellhnisti/	adverb language
 
 :le:*(ellhnotami/ai
 :no:*(ellhno-ta^mi hs_ou masc pl stem_acc

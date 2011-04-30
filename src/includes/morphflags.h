@@ -96,6 +96,7 @@ typedef unsigned char MorphFlags;
 #define METRICAL_LONG		81
 #define D_PREVB		82
 #define T_PREVB		83
+#define GROUP_NAME		110
 
 #define morphflags_of( X ) (X)->gs_morphflags
 
@@ -115,6 +116,7 @@ typedef unsigned char MorphFlags;
 #define Is_ultima_accent(gs) (has_morphflag(gs,SUFF_ACC))
 #define Is_pers_name(gs) (has_morphflag(gs,PERS_NAME))
 #define Is_geog_name(gs) (has_morphflag(gs,GEOG_NAME))
+#define Is_group_name(gs) (has_morphflag(gs,GROUP_NAME))
 #define Needs_accent(gs) (has_morphflag(gs,NEEDS_ACCENT))
 
 #define Is_irregcomp(gs) (has_morphflag(gs,IRREG_COMP))
