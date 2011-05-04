@@ -1191,12 +1191,13 @@
 :aj:a)-dhri_t os_on
 
 :le:*(/aidhs
-:no:*(a|d hs_ou masc
-:no:*(aid hs_ou masc
-:no:*)ai+d hs_ou masc doric
+:no:*(a|d hs_ou masc pers_name
+:no:*(a|d hs_ou masc pers_name
+:no:*(aid hs_ou masc pers_name
+:no:*)ai+d hs_ou masc doric pers_name
 :no:*)ai+d hs_ou masc,epic
 @ end:ew
-:no:*a)i s_dos,masc,sg gen
+:no:*a)i s_dos,masc,sg gen pers_name
 @ dat
 
 :le:a)dhfa/gos
@@ -17950,6 +17951,7 @@
 :wd:*dhw/ irreg_decl3 nom fem sg
 :wd:*dho/os irreg_decl3 gen fem sg
 :wd:*dhou=s irreg_decl3 gen fem sg contr
+:wd:*dhoi= irreg_decl3 gen dat sg contr
 
 :le:*dhw=|os
 :aj:*dhw_| os_h_on stem_acc

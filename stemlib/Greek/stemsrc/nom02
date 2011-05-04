@@ -1111,14 +1111,14 @@
 :no:*dionu^si os_ou neut pl
 
 :le:*dionusiako/s
-:aj:*dionu_siak os_h_on suff_acc
+:aj:*dionu_siak os_h_on suff_acc is_group
 
 :le:*dionusia/s
-:no:*dionu_sia s_dos stem_acc   fem
+:no:*dionu_sia s_dos stem_acc   fem is_festival
 
 :le:*dio/nusos
-:no:*dionu_s os_ou masc
-:no:*diwnu_s os_ou masc epic
+:no:*dionu_s os_ou masc pers_name
+:no:*diwnu_s os_ou masc epic pers_name
 
 :le:*dio/pais
 :no:*dio-pai s_dos masc 	ant_acc

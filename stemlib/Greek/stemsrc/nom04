@@ -3276,8 +3276,10 @@
 @ voc
 
 :le:*lhtw=|os
-:aj:*lhtw_| os_h_on stem_acc
-:no:*lhtw is_idos suff_acc fem
+:aj:*lhtw_| os_h_on stem_acc pers_name
+
+:le:*lhtwi/s
+:no:*lhtw is_idos suff_acc fem pers_name
 
 :le:lh=yis
 :no:lhy is_ews fem
@@ -3339,7 +3341,7 @@
 :aj:*libustik os_h_on suff_acc
 
 :le:*libufoi=nic
-:no:*li^bu^-foini c_kos masc ant_acc
+:no:*li^bu^-foini c_kos masc ant_acc is_ethnic
 
 :le:li/ga
 :wd:li/^ga	adverb

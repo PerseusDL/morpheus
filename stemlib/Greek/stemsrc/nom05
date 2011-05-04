@@ -4515,8 +4515,10 @@
 :no:phlh c_kos fem
 
 :le:*phliako/s
-:aj:*phlia^k os_h_on suff_acc
-:no:*phlia s_dos stem_acc   		fem
+:aj:*phlia^k os_h_on suff_acc pers_name
+
+:le:*phli/as
+:no:*phlia s_dos stem_acc   		fem pers_name
 
 :le:phli/kos
 :aj:phli^k os_h_on stem_acc
@@ -5111,7 +5113,7 @@
 :no:pla^tuth s_tos ant_acc fem
 
 :le:*pla/twn
-:no:*pla^tw n_nos masc
+:no:*pla^tw n_nos masc pers_name
 
 :le:*platwniko/s
 :aj:*platwnik os_h_on suff_acc

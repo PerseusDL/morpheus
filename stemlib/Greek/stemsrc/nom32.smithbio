@@ -1517,7 +1517,7 @@ stemacc:*)autolu/kos
 :no:*)emmenid hs_ou masc stem_acc pl  pers_name
 
 :le:*)empedoklh=s
-:no:*)empedo klehs_kleous masc suff_acc suff_acc sg pers_name
+:no:*)empedo klehs_kleous masc sg pers_name
 
 :le:*)enarhfo/ros
 :no:*)enarhfor os_ou masc stem_acc sg pers_name
@@ -5024,6 +5024,12 @@ stemacc:*parqe/nos
 
 :le:*polubia/dhs
 :no:*polubiad hs_ou masc sg pers_name
+
+:le:*polucei/nh
+:no:*polucein h_hs fem pers_name
+
+:le:*pra/sinos
+:no:*prasin os_ou masc is_group
 
 :le:*poluceni/das
 :no:*polucenid hs_ou masc doric aeolic sg pers_name

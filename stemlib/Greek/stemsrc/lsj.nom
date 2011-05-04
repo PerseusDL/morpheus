@@ -27157,7 +27157,7 @@
 :no:bordw n_nos masc stem_acc
 
 :le:*borea/dhs
-:no:*boread hs_ou masc stem_acc
+:no:*boread hs_ou masc stem_acc is_group
 
 :le:*boreia/s
 :no:*boreia s_dos fem stem_acc
@@ -53825,7 +53825,7 @@
 :no:*(esperi_t hs_ou masc stem_acc
 
 :le:*(esperi=tis
-:no:*(esperi_t is_idos fem stem_acc
+:no:*(esperi_t is_idos fem stem_acc geog_name
 
 :le:*(espero/qen
 :wd:*(espero/qen adverb
@@ -59537,7 +59537,7 @@
 :aj:h)lektrwd hs_es stem_acc
 
 :le:*(hlia/dhs
-:no:*(hliad hs_ou masc stem_acc
+:no:*(hliad hs_ou masc stem_acc is_group
 
 :le:*(hliai=a
 :no:*(hliai os_ou neut pl stem_acc
@@ -95138,7 +95138,7 @@
 :aj:*nu_si os_h_on
 
 :le:*nusai=oi
-:no:*nusai os_ou masc pl stem_acc
+:no:*nusai os_ou masc pl stem_acc is_ethnic
 
 :le:nu/sa
 :no:nus h_hs fem
@@ -137022,7 +137022,7 @@
 :no:*titanolet hs_ou masc stem_acc
 
 :le:*titanomaxi/a
-:no:*titanomaxi h_hs fem
+:no:*titanomaxi h_hs fem is_title
 
 :le:titanwto/s
 :aj:titanwt os_h_on suff_acc
