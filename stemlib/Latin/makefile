@@ -46,8 +46,9 @@ stemsrc/lemlist:
 	    stemsrc/vbs.simp.ml stemsrc/vbs.simp.02.new | fgrep ":le:" | \
 	    cut -d":" -f 3 | sort | awk '{print $$1 " "}' > stemsrc/lemlist
 
-stemind/nomind:	stemsrc/ls.nom
+stemind/nomind:	stemsrc/ls.nom ../Greek/getentities.pl
 	cat stemsrc/nom.* stemsrc/ls.nom > /tmp/nommorph
+	../Greek/getentities.pl /tmp/nommorph  > steminds/entitylist.txt
 	indexnoms -L
 
 ia.noms:

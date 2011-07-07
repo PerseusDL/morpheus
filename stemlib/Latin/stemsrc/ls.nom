@@ -5377,7 +5377,7 @@ Ae-to_lus
 
 Aeto_li		
 :le:Aetoli
-:no:Aeto_l	us_i masc pl
+:no:Aeto_l	us_i masc ethnic
 
 
 aevi^tas		
@@ -7970,7 +7970,7 @@ a^lo_pex		<itype>e^cis</itype>	<gen>f.</gen>
 Alpes		<itype>i^um</itype>
 Alpis		
 :le:Alpis
-:no:Alp	is_is fem
+:no:Alp	is_is fem geog_name
 
 
 alpha		
@@ -12573,7 +12573,7 @@ A_penni_ni^ge^na
 A_penni_nus		<orth>Appenni_nus</orth>	
 :le:Apenninus
 :no:A_penni_n	us_i masc
-:no:Appenni_n	us_i masc orth
+:no:Appenni_n	us_i masc orth geog_name
 
 
 
@@ -13632,7 +13632,7 @@ Appu^le_ius
 
 
 Appu_li^a		<orth>A_pu_l-</orth>	
-:le:Appulia
+:le:Apulia
 :no:Appu_li^	a_ae fem
 :no:A_pu_li^	a_ae fem orth
 
@@ -13646,7 +13646,7 @@ Appu_li^cus		<orth type=alt>A_pu_l-</orth>
 
 
 Appu^lus		<orth type=alt>A_pu^l-</orth>	
-:le:Appulus
+:le:Apulus
 :aj:Appu^l	us_a_um
 :aj:A_pu^l	us_a_um orth
 
@@ -18774,7 +18774,7 @@ A_ti_na_tes
 A_ti_nas		<itype>a_tis</itype>	<pos>adj.</pos>
 A^ti_ni^us		
 :le:Atinius
-:aj:A^ti_n	ius_ia_ium
+:aj:A^ti_n	ius_i masc pers_name
 
 
 A^tinta_ni^a		
@@ -28146,8 +28146,8 @@ Caesi^us#2
 
 Caeso		<orth>Kaeso</orth>	
 :le:Caeso
-:no:Caes	o_oLnis masc
-:no:Kaes	o_oLnis masc orth
+:no:Caes	o_oLnis masc pers_name
+:no:Kaes	o_oLnis masc orth pers_name
 
 
 
@@ -30836,7 +30836,7 @@ Ca^pi^to_li_ni
 
 Ca^pi^to_li^um		
 :le:Capitolium
-:no:Ca^pi^to_l	ius_i neut
+:no:Ca^pi^to_l	ius_i neut geog_name
 
 
 Ca^pi^to_li^um Ve^tus	
@@ -69122,7 +69122,7 @@ E_^truscus
 
 Etrusci		
 :le:Etrusci
-:no:Etrusc	us_i masc pl
+:no:Etrusc	us_i masc pl ethnic
 
 
 et-si	
@@ -75475,7 +75475,7 @@ Fi_de_na
 Fi_de_nas		<itype>a_tis</itype>	<pos>adj.</pos>
 Fi_de_na_tes		
 :le:Fidenates
-:aj:Fi_de_na	s_tis_adj
+:aj:Fi_de_na	s_tis masc fem ethnic
 
 
 fi_denter		
@@ -79836,7 +79836,7 @@ Ga^bi^i
 
 Ga^bi_nus		
 :le:Gabinus
-:aj:Ga^bi_n	us_a_um
+:aj:Ga^bi_n	us_a_um group
 
 
 Ga^bi_ni		
@@ -80234,7 +80234,7 @@ Galli^a
 
 Galli^cus		
 :le:Gallicus
-:aj:Galli^c	us_a_um
+:aj:Galli^c	us_a_um ethnic
 
 
 galli^ca		
@@ -86851,7 +86851,7 @@ herni^a
 
 Herni^ci		
 :le:Hernici
-:no:Herni^c	us_i masc pl
+:no:Herni^c	us_i masc ethnic
 
 
 Herni^-cus		
@@ -87433,7 +87433,7 @@ Hi^e^ri^cu_s
 
 Je^ri^cho	
 Hi^e^ro		
-:le:Hiero
+:le:Hieron
 :no:Hi^e^r	o_oLnis masc
 
 
@@ -106200,8 +106200,9 @@ Ja_na_lis
 
 ja_ne^us		<itype>janitor</itype>
 Ja_ni^cu^lum		
-:le:Janiculum
-:no:Ja_ni^cu^l	us_i neut
+:le:Ianiculum
+:no:Ja_ni^cu^l	us_i neut geog_name
+:no:Ia_ni^cu^l	us_i neut geog_name
 
 
 Ja_ni^cu^la_ris		
@@ -106932,13 +106933,10 @@ ju_ni^pe^rus		<orth>ju_ni^pi^rus</orth>
 
 
 Ju_ni^us		
-:le:Junius
-:aj:Ju_n	ius_ia_ium
+:le:Iunius
+:no:Iu_n	ius_i masc pers_name
+:no:Ju_n	ius_i masc pers_name
 
-
-Ju_ni^us		
-:le:Junius
-:aj:Ju_n	ius_ia_ium
 
 
 Ju_ni^us	
@@ -117171,8 +117169,8 @@ Ma^ce^-do^ni^a_nus
 
 
 Ma^ce^do^nes		
-:le:Macedones
-:no:Ma^ce^do^n	0_is masc pl
+:le:Macedo
+:no:Ma^ce^d	o_oLnis masc ethnic
 
 
 Ma^ce^do		<itype>o^nis</itype>	<gen>m.</gen>
@@ -152954,9 +152952,9 @@ Persi^cus
 
 Perseus#1		<itype>e^i and e^os</itype>	<gen>m.</gen>
 Per-se_us		
-:le:Perseus1
-:no:Per-se_	us_i masc
-:no:Per-s	eus_ei masc
+:le:Perseus
+:no:Per-se_	us_i masc pers_name
+:no:Per-s	eus_ei masc pers_name
 
 
 Per-se_i+us		
@@ -159175,12 +159173,12 @@ Poeni
 
 Poenus		
 :le:Poenus
-:no:Poen	us_i masc
+:no:Poen	us_i masc ethnic
 
 
 Poenus		
 :le:Poenus
-:aj:Poen	us_a_um
+:aj:Poen	us_a_um ethnic
 
 
 Pu_ni^-cus		<orth type=alt>Poen-</orth>	
@@ -160320,7 +160318,8 @@ po^pellus
 
 Popili^a		<orth type=alt>Popill-</orth>	<itype>tribus</itype>
 Popi^li^us		<orth type=alt>Popill-</orth>	
-:le:Popilius
+:le:Poppilius
+:no:Poppi^l	ius_i masc
 :no:Popi^l	ius_i masc
 :no:Popill	ius_i masc orth
 
@@ -160334,7 +160333,8 @@ Popi-li^a		<orth type=alt>Popill-</orth>
 
 
 Popi^li^us		
-:le:Popilius
+:le:Poppilius
+:aj:Poppi^l	ius_ia_ium
 :aj:Popi^l	ius_ia_ium
 
 
@@ -165002,8 +165002,8 @@ Pri_vernum
 Pri_vernas		<itype>a_tis</itype>	<pos>adj.</pos>
 Pri_verna_tes		
 :le:Privernates
-:aj:Pri_verna_	s_tis adj
-:aj:Pri_uerna_	s_tis adj
+:aj:Pri_verna_	s_tis ethnic
+:aj:Pri_uerna_	s_tis ethnic
 
 
 Pri_vernus		
@@ -172467,7 +172467,7 @@ Qui^ri_na
 qui^ris#1		<orth>cu^ris</orth>
 Qui^ri_s#2		<itype>i_tis</itype>
 :le:Quiris
-:no:Qui^ri_	s_tis	masc
+:no:Qui^ri_	s_tis	masc is_group
 
 Qui^-ri_tes		<itype>ti^um</itype>	<orth type=alt>tum, Aus. Prof. 22, 9</orth>	<gen>m.</gen>
 qui^ri_ta_ti^o		
@@ -174617,7 +174617,8 @@ re^gisto_ri^a
 
 
 Re_gium(Rhe_g-		<orth type=alt>Le^pi^di</orth>	
-:le:Regium
+:le:Rhegium
+:no:Rhe_g	ius_i neut
 :no:Re_g	ius_i neut
 
 
@@ -201583,7 +201584,7 @@ tardus
 tarde_	
 Ta^rentum		
 :le:Tarentum
-:no:Ta^rent	us_i neut
+:no:Ta^rent	us_i neut 
 
 
 Ta^rentus		
@@ -201597,7 +201598,7 @@ Ta^renti_nus
 
 
 Ta^renti_ni		
-:le:Tarentini
+:le:Tarentinus
 :no:Ta^renti_n	us_i masc pl
 
 
@@ -205437,6 +205438,9 @@ Thre_i^ci^us
 :le:Threicius
 :aj:Thre_i^c	ius_ia_ium
 
+
+:le:Thrax
+:no:Thra x_cis masc fem 
 
 Thrax		<itype>a_cis</itype>	<gen>m.</gen>	<pos>adj.</pos>
 Thre_ci^di^cus		<orth type=alt>Thraec-</orth>	
