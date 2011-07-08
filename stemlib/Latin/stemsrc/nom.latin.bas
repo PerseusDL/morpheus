@@ -241,7 +241,7 @@
 :no:academi 	a_ae fem
 :no:Academi 	a_ae fem 
 
-:le:acer#2
+:le:acer
 :aj:ac	er_ris_re 
 
 :le:ad
@@ -333,11 +333,11 @@
 :le:astutus
 :aj:astut	us_a_um
 
-:le:assiduus#1
+:le:assiduus
 :no:assidu us_i masc
 :no:ad-sidu us_i masc
 
-:le:assiduus#2
+:le:assiduus
 :aj:assidu us_a_um
 :aj:ad-sidu us_a_um
 
@@ -356,7 +356,7 @@
 :wd:at-qui	conj
 :wd:ad-qui	conj
 
-:le:aula#1
+:le:aula
 :no:aul	a_ae fem
 :le:Aulis
 :no:Aul	is_is fem
@@ -398,10 +398,10 @@
 :le:Calidius
 :aj:Calid	ius_ia_ium
 
-:le:canis#1
+:le:canis
 :no:can is_is_C	masc fem
 
-:le:casus#1
+:le:casus
 :no:ca_s	us_us masc
 :no:cass	us_us masc
 
@@ -409,7 +409,7 @@
 :aj:cele_b er_ris_re
 :aj:cele^b er_ris_re
 
-:le:celer#1
+:le:celer
 :aj:cel	er_era_erum superl
 @	comp
 :aj:celer		0_adj3 
@@ -420,7 +420,7 @@
 :le:celere
 :wd:celere	adverb
 
-:le:celsus#1
+:le:celsus
 :aj:cels	us_a_um
 
 :le:centum
@@ -463,7 +463,7 @@
 :le:Climachias
 :no:Climachi as_ae masc
 
-:le:coitus#2
+:le:coitus
 :no:coet	us_us masc
 
 :le:cohors
@@ -562,7 +562,7 @@
 :le:dibaphus
 :aj:dibaph	us_a_um
 
-:le:Dido#2
+:le:Dido
 :no:Did	o_oLnis fem
 :no:Did	o_us fem
 
@@ -574,7 +574,7 @@
 :le:dioecesis
 :no:dioeces	is_eos fem
 
-:le:Dis#2
+:le:Dis
 :no:Di_	s_tis masc sg
 
 :le:disjunctio
@@ -688,18 +688,18 @@
 :le:fessus
 :aj:fess	us_a_um
 
-:le:fides#1
+:le:fides
 :no:fid	es_ei	fem
 :no:fid is_is	fem poetic
 
-:le:fides#2
+:le:fides
 :no:fid is_is fem
 
 :le:flos
 :no:fl	or_oLris masc
 :wd:flo_s	irreg_nom3 masc nom sg
 
-:le:foris#1
+:le:foris
 :no:for is_is fem
 
 :le:fors
@@ -894,7 +894,7 @@
 :no:Liby	a_ae fem
 :no:Liby	a_es fem
 
-:le:Lupus#2
+:le:Lupus
 :no:Lup us_i masc
 
 :le:Luscius
@@ -913,7 +913,7 @@
 :le:Magius
 :no:Mag	ius_i masc
 
-:le:magnus#1
+:le:magnus
 :aj:magn	us_a_um no_comp
 :aj:maxi^m	us_a_um irreg_superl
 :aj:maxu^m	us_a_um irreg_superl
@@ -988,7 +988,7 @@
 :vs:nat	us_i masc
 :vs:gnat	us_i masc
 
-:le:ne#1
+:le:ne
 :wd:ne_	adverb
 :wd:ne_	conj
 
@@ -1107,7 +1107,7 @@
 :le:dispar
 :aj:dis-par		0_adj3
 
-:le:parens#2
+:le:parens
 :no:par	ens_entis masc fem
 
 :le:pars
@@ -1129,10 +1129,10 @@
 :le:pater
 :no:pa^t	er_ris masc
 
-:le:pecus#1
+:le:pecus
 :no:pec 	or_oris	neut
 
-:le:pecus#2
+:le:pecus
 :no:pecu 	s_dis masc fem
 
 :le:Penates
@@ -1182,10 +1182,10 @@
 :le:plebs
 :no:pleb s_is fem
 
-:le:polus#1
+:le:polus
 :no:po^l	us_i masc
 
-:le:Polus#2
+:le:Polus
 :no:Po^l	us_i masc
 
 :le:Pompeius
@@ -1235,11 +1235,11 @@
 :le:prior
 :wd:priusquam	adverb
 
-:le:pro#1
+:le:pro
 :wd:pro_	prep
 :wd:pro_	adverb
 
-:le:pro#2
+:le:pro
 :wd:pro_	exclam
 
 :le:propter
@@ -1249,10 +1249,10 @@
 :le:prudenter
 :wd:prudenter	adverb
 
-:le:promptus#2
+:le:promptus
 :aj:prompt	us_a_um
 
-:le:pubes#1
+:le:pubes
 :wd:pu_bes	irreg_adj3	masc fem nom sg
 :wd:pu_ber	irreg_adj3	masc fem nom sg
 :aj:pu_b	is_eris masc fem neut
@@ -1283,7 +1283,7 @@
 :le:quia
 :wd:quia	conj
 
-:le:quies#1
+:le:quies
 :no:qui 	es_eLtis fem
 :wd:quie 	irreg_nom3 abl fem sg early
 
@@ -1296,14 +1296,14 @@
 :le:quinquaginta
 :wd:quinqua_ginta numeral
 
-:le:quinque#1
+:le:quinque
 :wd:quinque	numeral
 
-:le:quintus#1
+:le:quintus
 :aj:quint	us_a_um
 :aj:quinct	us_a_um
 
-:le:quintus#2	
+:le:quintus	
 :no:Quint	us_i masc
 :no:Quint	a_ae fem
 
@@ -1442,7 +1442,7 @@
 :le:stirps
 :no:stirp	s_is fem
 
-:le:super#2
+:le:super
 :wd:super	prep
 :wd:super	adverb
 
@@ -1522,10 +1522,10 @@
 :le:Turpio
 :no:Turpi	o_oLnis masc
 
-:le:uber#1
+:le:uber
 :no:u_b 		er_eris neut
 
-:le:uber#2
+:le:uber
 :aj:u_ber	0_adj3
 :aj:u_beri	or_us_comp	comp
 :aj:u_berrim	us_a_um	irreg_superl
