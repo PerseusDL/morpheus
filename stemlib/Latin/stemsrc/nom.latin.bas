@@ -1188,9 +1188,9 @@
 :le:Polus#2
 :no:Po^l	us_i masc
 
-:le:Pompejus
-:aj:Pompe_j	us_a_um
-:aj:Pompe_	ius_ia_ium
+:le:Pompeius
+:aj:Pompe_	ius_i masc pers_name
+:aj:Pompe_j	us_i masc pers_name
 
 :le:Populianus
 :aj:Populian	us_a_um

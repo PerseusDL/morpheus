@@ -53,7 +53,7 @@ stemsrc/lemlist:
 	    stemsrc/vbs.simp.ml stemsrc/vbs.simp.02.new | fgrep ":le:" | \
 	    cut -d":" -f 3 | sort | awk '{print $$1 " "}' > stemsrc/lemlist
 
-stemind/nomind:	stemsrc/lsj.nom
+stemind/nomind:	stemsrc/lsj.nom getentities.pl
 	addconstraints.pl $(nomsrc) stemsrc/lsj.nom \
 	    stemsrc/lsj.byhand > /tmp/nommorph
 	getentities.pl /tmp/nommorph  > steminds/entitylist.txt

@@ -15458,7 +15458,7 @@ Argo^nauti^ca
 Argo^s		<gen>n.</gen>
 Argi		
 :le:Argi
-:no:Arg	us_i masc pl
+:wd:Argos	irreg_nom3 neut sg nom voc acc
 
 
 Argi_vus		
@@ -34953,7 +34953,8 @@ ce^pha^lalgi^cus		<orth>ce^pha^l-argi^cus</orth>
 
 
 Ce^pha^le_ni^a		<orth type=alt>-alla_nia</orth>	
-:le:Cephalenia
+:le:Cephallenia
+:no:Ce^pha^lle_ni^	a_ae fem
 :no:Ce^pha^le_ni^	a_ae fem
 
 
@@ -36554,9 +36555,9 @@ cherni_tes
 
 
 Cherro^ne_sus		<orth type=alt>-o^s</orth>	<orth>Cherso^ne_-sus</orth>	
-:le:Cherronesus
-:no:Cherro^ne_s	us_i fem
+:le:Chersonesus
 :no:Cherso^ne_-s	us_i fem orth
+:no:Cherro^ne_s	us_i fem
 
 
 
@@ -63163,9 +63164,11 @@ du^ellis
 
 
 Du^elli^us		<orth>Du^i_lius</orth>	<orth>Duillius</orth>	
-:le:Duellius
-:aj:Du^ell	ius_ia_ium
+:le:Duilius
+:aj:Duil	ius_ia_ium orth
 :aj:Duill	ius_ia_ium orth
+:aj:Du^ell	ius_ia_ium
+:aj:Du^el	ius_ia_ium
 
 
 
@@ -69159,9 +69162,9 @@ Euadne		<orth type=alt>Euhadne</orth>	<orth type=alt>Evadne</orth>
 
 
 Euander		<orth>-drus</orth>	<orth>Evander</orth>	
-:le:Euander
-:no:Euand	er_ri masc
+:le:Evander
 :no:Evand	er_ri masc orth
+:no:Euand	er_ri masc
 
 
 
@@ -73362,8 +73365,8 @@ Fa^le_ri^i
 
 Fa^lernusa^ger		<orth>Fa^lernus</orth>	<itype>a, um</itype>	<pos>adj.</pos>
 Fa^lernum		
-:le:Falernum
-:no:Fa^lern	us_i neut
+:le:Falernus
+:no:Fa^lern	us_a_um
 
 
 Fa^lisci		
@@ -105993,9 +105996,9 @@ i^u_lus#1
 
 
 Iu_lus#2		<orth type=alt>trisyl.</orth>	<orth type=alt>Ju_l-</orth>	
-:le:Iulus
-:no:Iu_l	us_i masc
+:le:Julus
 :no:Ju_l	us_i masc orth
+:no:Iu_l	us_i masc
 
 
 
@@ -160318,7 +160321,7 @@ po^pellus
 
 Popili^a		<orth type=alt>Popill-</orth>	<itype>tribus</itype>
 Popi^li^us		<orth type=alt>Popill-</orth>	
-:le:Poppilius
+:le:Popillius
 :no:Poppi^l	ius_i masc
 :no:Popi^l	ius_i masc
 :no:Popill	ius_i masc orth
@@ -160369,9 +160372,9 @@ pople^s
 
 
 Popli^cu^la		<orth type=alt>Popli^co^la</orth>	<orth>Publi^-co^la</orth>	
-:le:Poplicula
-:no:Popli^cu^l	a_ae masc
+:le:Poplicola
 :no:Publi^-co^l	a_ae masc orth
+:no:Popli^cu^l	a_ae masc
 
 
 
@@ -168185,7 +168188,7 @@ Pru_senses
 
 Pru_si^as		<itype>ae</itype>
 Pru_si^a		
-:le:Prusia
+:le:Prusias
 :no:Pru_si^	a_ae masc
 
 
@@ -168756,7 +168759,7 @@ pto_cho^tro^phus
 
 Pto^le^maeus		
 :le:Ptolemaeus
-:no:Pto^le^mae	us_i masc
+:no:Pto^le^mae	us_i masc pers_name
 
 
 Pto^le^maee_us		
@@ -170499,7 +170502,7 @@ py^rausta		<orth>-es</orth>
 py_re_n		<itype>e_nis</itype>	<gen>f.</gen>
 Py_re_naeus		
 :le:Pyrenaeus
-:aj:Py_re_nae	us_a_um
+:aj:Py_re_nae	us_a_um geog_name
 
 
 Py_re_na_i^-cus		
@@ -174628,9 +174631,9 @@ Re_gi^enses
 
 
 Re_gi_nus		<orth type=alt>Rhe_g-</orth>	
-:le:Reginus
-:aj:Re_gi_n	us_a_um
+:le:Rheginus
 :aj:Rhe_gi_n	us_a_um orth
+:aj:Re_gi_n	us_a_um
 
 
 
@@ -179790,6 +179793,9 @@ salga^mum
 Salgane^a		
 :le:Salganea
 :no:Salgane^	us_i neut pl
+
+:le:Salganeus
+:no:Salgan	eus_ei masc sg
 
 
 Sa^li^a_ris#1		
@@ -216902,7 +216908,7 @@ Vesta
 
 Vesta_lis		
 :le:Vestalis
-:aj:Vesta_l	is_e
+:aj:Vesta_l	is_e is_group
 
 
 Ve-sta_lis		
@@ -219582,28 +219588,29 @@ Volcae
 
 
 Volca_nus		<orth>Vulc-</orth>	
-:le:Volcanus
-:no:Volca_n	us_i masc
+:le:Vulcanus
 :no:Vulca_n	us_i masc orth
+:no:Volca_n	us_i masc
 
 
 
 Vol-ca_ni^us		<orth type=alt>Vulc-</orth>	
-:le:Volcanius
-:aj:Vol-ca_n	ius_ia_ium
+:le:Vulcanius
 :aj:Vulca_n	ius_ia_ium orth
+:aj:Vol-ca_n	ius_ia_ium
 
 
 
 Volca_na_lis		<orth type=alt>Vulc-</orth>	
-:le:Volcanalis
-:aj:Volca_na_l	is_e
+:le:Vulcanalis
 :aj:Vulca_na_l	is_e orth
+:aj:Volca_na_l	is_e
 
 
 
 Vol-ca_na_li^a		
-:le:Volcanalia
+:le:Vulcanalia
+:no:Vul-ca_na_l	is_is neut pl
 :no:Vol-ca_na_l	is_is neut pl
 
 

@@ -7,20 +7,20 @@
 :wd:Acarnana	0_is masc fem acc sg ethnic
 
 :le:Aefula
-:no:Aeful	a_ae fem place
+:no:Aeful	a_ae fem geog_name
 
 :le:Amynander
-:no:Amynand	er_ri masc person
+:no:Amynand	er_ri masc pers_name
 
 :le:Angeias
-:no:Angei	as_ae masc person
+:no:Angei	as_ae masc pers_name
 
 :le:Antipatrea
-:no:Antipatre	a_ae fem place
+:no:Antipatre	a_ae fem geog_name
 
 :le:Atrax
-:no:Atra	x_cis fem place
-:no:Atra	x_gis fem place
+:no:Atra	x_cis fem geog_name
+:no:Atra	x_gis fem geog_name
 
 :le:Attalis
 :no:Attal	is_idis fem group
@@ -29,76 +29,76 @@
 :no:Bev	us_i masc river
 
 :le:Callimedis
-:no:Callimed	is_is masc person
+:no:Callimed	is_is masc pers_name
 
 :le:Celathara
-:no:Celathar	us_i neut pl place
+:no:Celathar	us_i neut pl geog_name
 
 :le:Celeiates
-:no:Celeiat	es_ae fem place
+:no:Celeiat	es_ae fem geog_name
 
 :le:Celines
 :no:Celin	is_is masc group
 
 :le:Cerceii
-:no:Cercei	us_i masc pl place
+:no:Cercei	us_i masc pl geog_name
 
 :le:Chalcis
-:no:Chalc	is_idis fem place
+:no:Chalc	is_idis fem geog_name
 
 :le:Chariteles
-:no:Charitel	es_ae fem place
+:no:Charitel	es_ae fem geog_name
 
 :le:Cleomedon
-:no:Cleomed	on_ontis masc person
+:no:Cleomed	on_ontis masc pers_name
 
 :le:Cycliadas
-:no:Cycliad	as_ae masc person
+:no:Cycliad	as_ae masc pers_name
 
 :le:Cymenes
-:no:Cymen	es_ae masc person
+:no:Cymen	es_ae masc pers_name
 
 :le:Cyphaera
-:no:Cyphaer	us_i neut pl place 
+:no:Cyphaer	us_i neut pl geog_name 
 
 :le:Cyzicena
-:no:Cyzicen	a_ae fem place
+:no:Cyzicen	a_ae fem geog_name
 
 :le:Dassaretii
 :no:Dassaret	ius_i masc group
 
 :le:Elaeus
-:no:Elae us_untis fem place
+:no:Elae us_untis fem geog_name
 
 :le:Elatensis
 :no:Elatens	is_is masc fem group
 
 :le:Elatia
-:no:Elati	a_ae fem place
+:no:Elati	a_ae fem geog_name
 
 :le:Eleusi
-:no:Eleusi	s_nis fem place
+:no:Eleusi	s_nis fem geog_name
 
 :le:Elimia
-:no:Elimi	a_ae fem place
+:no:Elimi	a_ae fem geog_name
 
 :le:Euromensis
 :no:Euromens	is_is masc fem group
 
 :le:Falto
-:no:Falt	o_oLnis masc person
+:no:Falt	o_oLnis masc pers_name
 
 :le:Flammininus
-:no:Flamminin	us_i masc person
+:no:Flamminin	us_i masc pers_name
 
 :le:Fullo
-:no:Full	o_oLnis masc person
+:no:Full	o_oLnis masc pers_name
 
 :le:Gaurion
-:no:Gauri	on_ontis neut place
+:no:Gauri	on_ontis neut geog_name
 
 :le:Hasdrubal
-:no:Hasdrubal	0_is masc person
+:no:Hasdrubal	0_is masc pers_name
 
 :le:Insubris
 :no:Insub	er_ris masc fem neut group
@@ -110,64 +110,64 @@
 :no:Larisens	is_is masc fem neut group
 
 :le:Ligynae
-:no:Ligyn	a_ae fem pl place
+:no:Ligyn	a_ae fem pl geog_name
 
 :le:Longarus
-:no:Longar	us_i masc person
+:no:Longar	us_i masc pers_name
 
 :le:Macedo
 :no:Maced	o_oLnis masc fem ethnic
 
 :le:Maloea
-:no:Maloe	a_ae fem place
+:no:Maloe	a_ae fem geog_name
 
 :le:Maronitae
 :no:Maronit	as_ae masc pl group
 
 :le:Massiliota
-:no:Massiliot	as_ae masc person
+:no:Massiliot	as_ae masc pers_name
 
 :le:Mendaeum
-:no:Mendae	us_i neut place
+:no:Mendae	us_i neut geog_name
 
 :le:Meropus
-:no:Merop	us_i masc place
+:no:Merop	us_i masc geog_name
 
 :le:Molottis
 :no:Molott	is_idis fem 
 
 :le:Nabis
-:no:Nab	is_idis masc person
+:no:Nab	is_idis masc pers_name
 
 :le:Opus
-:no:Op	us_untis fem place
+:no:Op	us_untis fem geog_name
 
 :le:Ottolobum
-:no:Ottolob	us_i neut place
+:no:Ottolob	us_i neut geog_name
 
 :le:Phaeca
-:no:Phaec	a_ae fem place
+:no:Phaec	a_ae fem geog_name
 
 :le:Phaeneas
-:no:Phaene	as_ae masc person
+:no:Phaene	as_ae masc pers_name
 
 :le:Pharcadon
-:no:Pharcad	oLn_oLnis fem place
+:no:Pharcad	oLn_oLnis fem geog_name
 
 :le:Pherinium
-:no:Pherin	ius_i neut place
+:no:Pherin	ius_i neut geog_name
 
 :le:Philopoemen
-:no:Philopoemen	0_is masc person
+:no:Philopoemen	0_is masc pers_name
 
 :le:Pisias
-:no:Pisi	as_ae masc person
+:no:Pisi	as_ae masc pers_name
 
 :le:Pluinna
-:no:Pluinn	a_ae masc place
+:no:Pluinn	a_ae masc geog_name
 
 :le:Purpurio
-:no:Purpuri	o_oLnis masc person
+:no:Purpuri	o_oLnis masc pers_name
 
 :le:Samnis
 :aj:Samni	s_tis_adj
@@ -179,64 +179,64 @@
 :aj:Sedetan	us_a_um
 
 :le:Strymon
-:no:Strym	oLn_oLnis fem place
+:no:Strym	oLn_oLnis fem geog_name
 
 :le:Stuberra
-:no:Stuberr	a_ae fem place
+:no:Stuberr	a_ae fem geog_name
 
 :le:Syphax
-:no:Sypha	x_cis masc person
+:no:Sypha	x_cis masc pers_name
 
 :le:Teuma
-:no:Teum	us_i neut pl place
+:no:Teum	us_i neut pl geog_name
 
 :le:Thrax
 :no:Thra	x_cis masc fem
 
 :le:Thraecia
-:no:Thraeci	a_ae fem place
+:no:Thraeci	a_ae fem geog_name
 
 :le:Thraex
 :no:Thrae	x_cis masc fem group
 
 :le:Timarum
-:no:Timar	us_i neut place
+:no:Timar	us_i neut geog_name
 
 :le:Veii
 :no:Ve	ius_i fem pl 
 
 :le:Acylla
-:no:Acyll	a_ae fem place
+:no:Acyll	a_ae fem geog_name
 
 :le:Agrianas
 :no:Agri	an_aLnis masc group
 
 :le:Apelaurum
-:no:Apelaur	us_i neut place
+:no:Apelaur	us_i neut geog_name
 
 :le:Aphthires
-:no:Aphthir	0_is masc person
+:no:Aphthir	0_is masc pers_name
 
 :le:Armenes
-:no:Armen	es_ae masc person
+:no:Armen	es_ae masc pers_name
 
 :le:Astragon
-:no:Astrag	on_ontis neut place
+:no:Astrag	on_ontis neut geog_name
 
 :le:Baesadines
-:no:Baesadin	es_ae masc person
+:no:Baesadin	es_ae masc pers_name
 
 :le:Baldo
-:no:Bald	o_oLnis fem place
+:no:Bald	o_oLnis fem geog_name
 
 :le:Bergistanus
 :no:Bergistan	us_i group
 
 :le:Bergium
-:no:Berg	ius_i neut place
+:no:Berg	ius_i neut geog_name
 
 :le:Bilistagis
-:no:Bilistag	is_is masc person
+:no:Bilistag	is_is masc pers_name
 
 :le:Blasio
 :no:Blasi	o_oLnis masc
@@ -245,10 +245,10 @@
 :no:Boiori	Boiori x_cis masc
 
 :le:Budaris
-:no:Budar	is_is masc person
+:no:Budar	is_is masc pers_name
 
 :le:Buteo
-:no:Bute	o_oLnis masc person
+:no:Bute	o_oLnis masc pers_name
 
 :le:Capenas
 :no:Capena	s_tis fem
@@ -257,40 +257,40 @@
 :no:Carm	o_oLnis masc
 
 :le:Copais
-:no:Copa	is_idis fem place
+:no:Copa	is_idis fem geog_name
 
 :le:Corolamus
-:no:Corolam	us_i masc person
+:no:Corolam	us_i masc pers_name
 
 :le:Culchas
-:no:Culch	as_ae masc person
+:no:Culch	as_ae masc pers_name
 
 :le:Cyclades
-:no:Cycl	as_adis fem pl place 
+:no:Cycl	as_adis fem pl geog_name 
 
 :le:Cydas
-:no:Cyd	as_antis masc person
+:no:Cyd	as_antis masc pers_name
 
 :le:Cylarabis
-:no:Cylarab	is_is fem person
+:no:Cylarab	is_is fem pers_name
 
 :le:Dexagoridas
-:no:Dexagorid	as_ae masc person
+:no:Dexagorid	as_ae masc pers_name
 
 :le:Dictynneum
-:no:Dictynne	us_i neut place
+:no:Dictynne	us_i neut geog_name
 
 :le:Dorulatus
-:no:Dorulat	us_i masc person
+:no:Dorulat	us_i masc pers_name
 
 :le:Emporitani
 :no:Emporitan	us_i masc pl group
 
 :le:Gorgopas
-:no:Gorgop	as_ae masc person
+:no:Gorgop	as_ae masc pers_name
 
 :le:Hegesianax
-:no:Hegesiana	x_ctis masc person
+:no:Hegesiana	x_ctis masc pers_name
 
 :le:Ilotae
 :no:Ilot	a_ae masc fem group
@@ -299,10 +299,10 @@
 :no:Libert as_atis fem
 
 :le:Ligurius
-:no:Ligur	ius_i masc person
+:no:Ligur	ius_i masc pers_name
 
 :le:Luxinius
-:no:Luxin	ius_i masc person
+:no:Luxin	ius_i masc pers_name
 
 :le:Lysimachensis
 :no:Lysimachens	is_e group
@@ -329,10 +329,10 @@
 :aj:Peon	us_a_um
 
 :le:Phillippus
-:no:Phillipp	us_i masc person
+:no:Phillipp	us_i masc pers_name
 
 :le:Pisuetae
-:no:Pisuet	a_ae masc person
+:no:Pisuet	a_ae masc pers_name
 
 :le:Plataeensis
 :aj:Plataeens	is_e
@@ -347,7 +347,7 @@
 :no:Sexetan	us_a_um group
 
 :le:Sosilas
-:no:Sosil	as_ae masc person
+:no:Sosil	as_ae masc pers_name
 
 :le:Stratonidas
 :no:Stratonid	as_ae masc
@@ -359,74 +359,74 @@
 :no:Thetide	us_i neut
 
 :le:Timocrates
-:no:Timocrat	es_ae masc person
+:no:Timocrat	es_ae masc pers_name
 
 :le:Turda
-:no:Turd	a_ae fem place
+:no:Turd	a_ae fem geog_name
 
 :le:Zeuxidas
-:no:Zeuxid	as_ae masc person
+:no:Zeuxid	as_ae masc pers_name
 
 #names for Livy 35
 :le:Bovarium
 :no:Bovari	us_i neut
 
 :le:Candina
-:no:Candin	a_ae fem place
+:no:Candin	a_ae fem geog_name
 
 :le:Chaeronia
-:no:Chaeroni	a_ae fem place
+:no:Chaeroni	a_ae fem geog_name
 
 :le:Conribilo
-:no:Conribil	o_oLnis masc person
+:no:Conribil	o_oLnis masc pers_name
 
 :le:Euthymidas
-:no:Euthymid	as_ae masc person
+:no:Euthymid	as_ae masc pers_name
 
 :le:Frentinum
-:no:Frentin	us_i neut place
+:no:Frentin	us_i neut geog_name
 
 :le:Helone
-:no:Helon	e_es fem place
+:no:Helon	e_es fem geog_name
 
 :le:Hilernus
-:no:Hilern	us_i masc person
+:no:Hilern	us_i masc pers_name
 
 :le:Inlucia
 :no:Inluci	a_ae fem
 
 :le:Innius
-:no:Inn	ius_i masc person
+:no:Inn	ius_i masc pers_name
 
 :le:Iugarium
-:no:Iugar	ius_i neut place
+:no:Iugar	ius_i neut geog_name
 
 :le:Lacon
 :no:Lac	oLn_oLnis masc fem group
 
 :le:Licabrum
-:no:Licabr	us_i neut place
+:no:Licabr	us_i neut geog_name
 
 :le:Micythio
-:no:Micythi	o_oLnis masc person
+:no:Micythi	o_oLnis masc pers_name
 
 :le:Minnio
-:no:Minni	o_oLnis masc person
+:no:Minni	o_oLnis masc pers_name
 
 :le:Polyxenidas
-:no:Polyxenid	as_ae masc person
+:no:Polyxenid	as_ae masc pers_name
 
 :le:Tappo
-:no:Tapp	o_oLnis masc person
+:no:Tapp	o_oLnis masc pers_name
 
 :le:Tiso
-:no:Tis	o_oLnis masc person
+:no:Tis	o_oLnis masc pers_name
 
 :le:Trigemina
-:no:Trigemin	a_ae fem place
+:no:Trigemin	a_ae fem geog_name
 
 :le:Xenoclides
-:no:Xenoclid	es_ae masc person
+:no:Xenoclid	es_ae masc pers_name
 
 # livy 36
 :le:Bullinum
@@ -439,13 +439,13 @@
 :aj:Cephallan	us_a_um
 
 :le:Cissus
-:no:Ciss	us_untis fem place
+:no:Ciss	us_untis fem geog_name
 
 :le:Crannon
-:no:Crann	oLn_oLnis fem place
+:no:Crann	oLn_oLnis fem geog_name
 
 :le:Dicaerchum
-:no:Dicaerch	us_i masc person
+:no:Dicaerch	us_i masc pers_name
 
 :le:Euphanes
 :no:Euphan	es_ae masc
@@ -466,13 +466,13 @@
 :no:Mel	as_anis fem
 
 :le:Menesta
-:no:Menest	a_ae fem place
+:no:Menest	a_ae fem geog_name
 
 :le:Pellinacum
 :no:Pellinac	us_i neut
 
 :le:Phoenicus
-:no:Phoenic	us_untis fem place
+:no:Phoenic	us_untis fem geog_name
 
 :le:Thyrreensis
 :aj:Thyrreens	is_e
@@ -482,7 +482,7 @@
 
 # livy 37
 :le:Adramytteum
-:no:Adramytte	us_i neut place
+:no:Adramytte	us_i neut geog_name
 
 :le:Aethalia
 :no:Aethali	a_ae fem
@@ -497,7 +497,7 @@
 :no:Eudam	us_i masc
 
 :le:Hybristas
-:no:Hybrist	as_ae masc person
+:no:Hybrist	as_ae masc pers_name
 
 :le:Hydrelitanum
 :no:Hydrelitan	us_i neut
@@ -506,7 +506,7 @@
 :no:Iasens	is_e
 
 :le:Lampter
-:no:Lampt	er_eris masc person
+:no:Lampt	er_eris masc pers_name
 
 :le:Lautumias
 :no:Lautumi	as_ae masc
@@ -515,16 +515,16 @@
 :aj:Mitylenae	us_a_um
 
 :le:Pamphilidas
-:no:Pamphilid	as_ae masc person
+:no:Pamphilid	as_ae masc pers_name
 
 :le:Telmessium
-:no:Telmess	ius_i neut place
+:no:Telmess	ius_i neut geog_name
 
 :le:Timasicrates
-:no:Timasicrat	es_ae masc person
+:no:Timasicrat	es_ae masc pers_name
 
 :le:Troas
-:no:Troa	s_dis fem place
+:no:Troa	s_dis fem geog_name
 
 :le:Zeuxis
 :no:Zeux	is_idis fem
@@ -535,11 +535,11 @@
 ## from livy 38
 
 :le:Abbassium
-:no:Abbass	ius_i neut place
+:no:Abbass	ius_i neut geog_name
 
 :le:Acoris
-:no:Acor	is_idis fem place
-:wd:Acoridos	is_idis fem gen sg place
+:no:Acor	is_idis fem geog_name
+:wd:Acoridos	is_idis fem gen sg geog_name
 
 :le:Alandrum
 :no:Alandr	us_i neut river
@@ -557,7 +557,7 @@
 :no:Ast	ius_i masc
 
 :le:Belbinates
-:no:Belbinat	es_ae fem place
+:no:Belbinat	es_ae fem geog_name
 
 :le:Beudi
 :no:Beud	us_i masc
@@ -572,19 +572,19 @@
 :no:Corel	us_i masc
 
 :le:Cyatides
-:no:Cyatid	es_ae fem place
+:no:Cyatid	es_ae fem geog_name
 
 :le:Dolopes
 :no:Dolop	0_is masc fem pl
 
 :le:Dyniae
-:no:Dyni	a_ae fem pl place
+:no:Dyni	a_ae fem pl geog_name
 
 :le:Eposognatus
 :no:Eposognat	us_i masc 
 
 :le:Gaulotus
-:no:Gaulot	us_i masc person
+:no:Gaulot	us_i masc pers_name
 
 :le:Gergithum
 :no:Gergith	us_i neut
@@ -606,13 +606,13 @@
 :no:Lonor	ius_i masc
 
 :le:Madamprum
-:no:Madampr	us_i neut place
+:no:Madampr	us_i neut geog_name
 
 :le:Massaliota
 :no:Massaliot	a_ae masc
 
 :le:Milyas
-:no:Mily	as_adis fem place
+:no:Mily	as_adis fem geog_name
 
 :le:Muttin
 :no:Muttin	0_is masc fem
@@ -630,7 +630,7 @@
 :no:Phry	x_gis masc fem
 
 :le:Pleminianum
-:no:Pleminian	us_i neut place
+:no:Pleminian	us_i neut geog_name
 
 :le:Priaticus
 :aj:Priatic	us_a_um
@@ -639,19 +639,19 @@
 :no:Rhotrin	us_a_um
 
 :le:Same
-:no:Sam	e_es fem place
+:no:Sam	e_es fem geog_name
 
 :le:Sylleum
-:no:Sylle	us_i neut place
+:no:Sylle	us_i neut geog_name
 
 :le:Thraex
 :no:Thrae	c_cis masc fem group
 
 :le:Tyscon
-:no:Tysc	on_ontis neut place
+:no:Tysc	on_ontis neut geog_name
 
 :le:Ziboeta
-:no:Ziboet	a_ae masc person
+:no:Ziboet	a_ae masc pers_name
 
 # livy 39
 
@@ -663,10 +663,10 @@
 :no:Aebutir	us_i masc
 
 :le:Auginum
-:no:Augin	us_i masc place
+:no:Augin	us_i masc geog_name
 
 :le:Ballista
-:no:Ballist	a_ae fem place
+:no:Ballist	a_ae fem geog_name
 
 :le:Casander
 :no:Casand	er_ri masc
@@ -684,7 +684,7 @@
 :no:Dent	er_ri masc
 
 :le:Dentheleti
-:no:Denthelet	us_i masc pl person
+:no:Denthelet	us_i masc pl pers_name
 
 :le:Dipo
 :no:Dip	o_oLnis masc
@@ -696,17 +696,17 @@
 :no:Menelaid	es_ae masc
 
 :le:Paculla
-:no:Pacull	a_ae fem place
+:no:Pacull	a_ae fem geog_name
 
 :le:Parachelois
-:no:Paracheloi	s_dis fem place
+:no:Paracheloi	s_dis fem geog_name
 
 :le:Taurii
 :no:Taur	ius_i masc 
 
 #livy 40
 :le:Archo
-:no:Arch	o_oLnis fem person
+:no:Arch	o_oLnis fem pers_name
 
 :le:Bastarna
 :no:Bastarn	a_ae masc
@@ -715,19 +715,19 @@
 :no:Chaun	us_i neut
 
 :le:Clondicus
-:no:Clondic	us_i masc person
+:no:Clondic	us_i masc pers_name
 
 :le:Didas
 :no:Did	as_ae masc
 
 :le:Donuca
-:no:Donuc	a_ae fem place
+:no:Donuc	a_ae fem geog_name
 
 :le:Erucina
 :no:Erucin	a_ae fem
 
 :le:Poridis
-:no:Porid	is_is masc person
+:no:Porid	is_is masc pers_name
 
 :le:Stuberaeus
 :no:Stuberae	us_i masc
@@ -736,23 +736,23 @@
 :no:Taurasin	us_a_um
 
 :le:Terracina
-:no:Terracin	a_ae fem place
+:no:Terracin	a_ae fem geog_name
 
 :le:Thurri
 :no:Thurr	ius_i masc
 
 :le:Vilius
-:no:Vili	us_i masc person
+:no:Vili	us_i masc pers_name
 
 :le:Vrbicua
-:no:Vrbicu	a_ae fem place
+:no:Vrbicu	a_ae fem geog_name
 
 :le:Xychus
-:no:Xych	us_i masc person
+:no:Xych	us_i masc pers_name
 
 #livy 41
 :le:Aepulo
-:no:Aepul	o_oLnis masc person
+:no:Aepul	o_oLnis masc pers_name
 
 :le:Atellus
 :no:Atell	us_i masc
@@ -761,13 +761,13 @@
 :no:Auden	a_ae fem river
 
 :le:Baeculonium
-:no:Baeculon	ius_i neut place
+:no:Baeculon	ius_i neut geog_name
 
 :le:Catmelus
-:no:Catmel	us_i masc person
+:no:Catmel	us_i masc pers_name
 
 :le:Centho
-:no:Centh	o_oLnis masc person
+:no:Centh	o_oLnis masc pers_name
 
 :le:Garulus
 :no:Garul	us_i masc
@@ -792,10 +792,10 @@
 
 #livy 42
 :le:Aebutus
-:no:Aebut us_i masc person
+:no:Aebut us_i masc pers_name
 
 :le:Aipuleios
-:no:Aipulei os_i masc person
+:no:Aipulei os_i masc pers_name
 
 :le:Alcidemon
 :no:Alcidem	on_ontis masc
@@ -807,7 +807,7 @@
 :no:Apolloniat	ius_i neut
 
 :le:Arthetaurus
-:no:Arthetaur	us_i masc person
+:no:Arthetaur	us_i masc pers_name
 
 :le:Brundisinus
 :aj:Brundisin	us_a_um
@@ -819,28 +819,28 @@
 :no:Cassignat	us_i masc
 
 :le:Cotys
-:no:Cot	ys_yos masc person
+:no:Cot	ys_yos masc pers_name
 
 :le:Crannon
-:no:Crann	oLn_oLnis fem place
+:no:Crann	oLn_oLnis fem geog_name
 
 :le:Dyrrhachinus
 :aj:Dyrrhachin	us_a_um
 
 :le:Eulyestas
-:no:Eulyest	as_ae masc person
+:no:Eulyest	as_ae masc pers_name
 
 :le:Haliacmon
-:no:Haliacm	oLn_oLnis fem place
+:no:Haliacm	oLn_oLnis fem geog_name
 
 :le:Hegesilochus
-:no:Hegesiloch	os_i masc person
+:no:Hegesiloch	os_i masc pers_name
 
 :le:Homolium
-:no:Homoli	us_i neut place
+:no:Homoli	us_i neut geog_name
 
 :le:Lincinius
-:no:Lincini	us_i masc person
+:no:Lincini	us_i masc pers_name
 
 :le:Maliensis
 :aj:Maliens	is_e
@@ -852,7 +852,7 @@
 :no:Mid	on_ontis masc
 
 :le:Mopselum
-:no:Mopsel	us_i neut place
+:no:Mopsel	us_i neut geog_name
 
 :le:Phthiotis
 :no:Phthiot	is_idis fem
@@ -865,19 +865,19 @@
 :no:Pytho	us_i neut
 
 :le:Remens
-:no:Rem	ens_entis masc place
+:no:Rem	ens_entis masc geog_name
 
 :le:Statellas
 :aj:Statella s_tis_adj
 
 :le:Statellis
-:no:Statell	is_is masc person
+:no:Statell	is_is masc pers_name
 
 :le:Thessalonicensis
 :aj:Thessalonicens	is_e
 
 :le:Thrasippus
-:no:Thrasipp	us_i masc person
+:no:Thrasipp	us_i masc pers_name
 
 :le:Threx
 :no:Thre_	x_cis masc fem group
@@ -891,120 +891,120 @@
 :aj:Aperant	us_a_um
 
 :le:Aratthus
-:no:Aratth	us_i masc place
+:no:Aratth	us_i masc geog_name
 
 :le:Artatus
-:no:Artat	us_i masc place
+:no:Artat	us_i masc geog_name
 
 :le:Ceremia
-:no:Ceremi	a_ae fem place
+:no:Ceremi	a_ae fem geog_name
 
 :le:Cincibilus
-:no:Cincibil	us_i masc person
+:no:Cincibil	us_i masc pers_name
 
 :le:Cleuas
-:no:Cleu	as_ae masc person
+:no:Cleu	as_ae masc pers_name
 
 :le:Meleon
-:no:Mele	oLn_oLnis masc place
+:no:Mele	oLn_oLnis masc geog_name
 
 :le:Pensestianus
 :aj:Pensestian	us_a_um
 
 #livy 44
 :le:Adronicus
-:no:Adronic	us_i masc person
+:no:Adronic	us_i masc pers_name
 
 :le:Algalsus
-:no:Algals	us_i masc person
+:no:Algals	us_i masc pers_name
 
 :le:Almana
-:no:Alman	a_ae fem place
+:no:Alman	a_ae fem geog_name
 
 :le:Barbanna
-:no:Barbann	a_ae fem place
+:no:Barbann	a_ae fem geog_name
 
 :le:Bellus
-:no:Bell	us_i masc person
+:no:Bell	us_i masc pers_name
 
 :le:Callipeuces
-:no:Callipeuc	e_es fem place
+:no:Callipeuc	e_es fem geog_name
 
 :le:Caravandis
-:no:Caravand	is_is fem place
+:no:Caravand	is_is fem geog_name
 
 :le:Clausal
 :no:Clausal	0_is masc fem
 
 :le:Condylon
-:no:Condyl	os_i neut place
+:no:Condyl	os_i neut geog_name
 
 :le:Damius
-:no:Dam	ius_i masc person
+:no:Dam	ius_i masc pers_name
 
 :le:Durnium
-:no:Durn	ius_i neut place
+:no:Durn	ius_i neut geog_name
 
 :le:Elpeum
-:no:Elpe	us_i neut place
+:no:Elpe	us_i neut geog_name
 
 :le:Epicadus
-:no:Epicad	us_i masc person
+:no:Epicad	us_i masc pers_name
 
 :le:Ettritus
-:no:Ettrit	us_i masc person
+:no:Ettrit	us_i masc pers_name
 
 :le:Euctus
 :no:Euct	us_i masc pereson
 
 :le:Helva
-:no:Helv	a_ae masc person
+:no:Helv	a_ae masc pers_name
 
 :le:Herophon
-:no:Heroph	on_ontis masc person
+:no:Heroph	on_ontis masc pers_name
 
 :le:Menophilus
-:no:Menophil	us_i masc person
+:no:Menophil	us_i masc pers_name
 
 :le:Meteon
-:no:Mete	oLn_oLnis masc person
+:no:Mete	oLn_oLnis masc pers_name
 
 :le:Mitys
-:no:Mit	ys_yos masc place
+:no:Mit	ys_yos masc geog_name
 
 :le:Monunus
-:no:Monun	us_i masc person
+:no:Monun	us_i masc pers_name
 
 :le:Oriundus
-:no:Oriund	us_i masc place
+:no:Oriund	us_i masc geog_name
 
 :le:Paeligna
-:no:Paelign	a_ae fem place
+:no:Paelign	a_ae fem geog_name
 
 :le:Plator
-:no:Plat	or_oris masc person
+:no:Plat	or_oris masc pers_name
 
 :le:Theogenes
-:no:Theogen	es_ae masc person
+:no:Theogen	es_ae masc pers_name
 
 # livy 45
 :le:Agravonitas
-:no:Agravonit	as_ae masc person
+:no:Agravonit	as_ae masc pers_name
 
 :le:Apolloniatis
 :no:Apolloniat is_e group
 
 :le:Bisaltica
-:no:Bisaltic	a_ae fem place
+:no:Bisaltic	a_ae fem geog_name
 
 :le:Bithys
-:no:Bith	ys_yos masc person
+:no:Bith	ys_yos masc pers_name
 
 :le:Cassandria
-:no:Cassandri	a_ae fem place
+:no:Cassandri	a_ae fem geog_name
 
 :le:Cephalonis
-:no:Cephalon	is_is masc person
+:no:Cephalon	is_is masc pers_name
 
 :le:Dassarenses
 :aj:Dassarens	is_e
@@ -1016,42 +1016,42 @@
 :no:Olciniat	a_ae masc group 
 
 :le:Oroandes
-:no:Oroand	es_ae masc person
+:no:Oroand	es_ae masc pers_name
 
 :le:Rhizon
-:no:Rhiz	oLn_oLnis masc place
+:no:Rhiz	oLn_oLnis masc geog_name
 
 :le:Selepitanus
 :aj:Selepitan	us_a_um
 
 :le:Solovettium
-:no:Solovett	ius_i neut place
+:no:Solovett	ius_i neut geog_name
 
 :le:Theondas
-:no:Theond	as_ae masc person
+:no:Theond	as_ae masc pers_name
 
 :le:Tuscivicanus
-:no:Tuscivican	us_i masc person
+:no:Tuscivican	us_i masc pers_name
 
 
 ###  proper nouns added for livy 21-30
 :le:Abelux
-:no:Abelu	x_cis masc person
+:no:Abelu	x_cis masc pers_name
 
 :le:Accaus
-:no:Acca	us_i masc person
+:no:Acca	us_i masc pers_name
 
 :le:Acuca
-:no:Acuc	a_ae fem place
+:no:Acuc	a_ae fem geog_name
 
 :le:Adherbal
-:no:Adherbal	0_is masc person
+:no:Adherbal	0_is masc pers_name
 
 :le:Adranodorus
-:no:Adranodor	us_i masc person
+:no:Adranodor	us_i masc pers_name
 
 :le:Aefulana
-:no:Aefulan	a_ae fem place
+:no:Aefulan	a_ae fem geog_name
 
 :le:Afer
 :no:Af	er_ra_rum group
@@ -1066,19 +1066,19 @@
 :no:Alc	o_oLnis masc
 
 :le:Altinius
-:no:Altin	ius_i masc person
+:no:Altin	ius_i masc pers_name
 
 :le:Amtorgis
-:no:Amtorg	is_is fem place
+:no:Amtorg	is_is fem geog_name
 
 :le:Amusicus
-:no:Amusic	us_i masc person
+:no:Amusic	us_i masc pers_name
 
 :le:Anio
-:no:Ani	o_eLnis masc place
+:no:Ani	o_eLnis masc geog_name
 
 :le:Anxurnas
-:no:Anxurn	as_ae masc person
+:no:Anxurn	as_ae masc pers_name
 
 :le:Ardoneae
 :no:Ardone	a_ae masc pl
@@ -1087,122 +1087,122 @@
 :no:Argestae	us_i neut
 
 :le:Arrenius
-:no:Arren	ius_i masc person
+:no:Arren	ius_i masc pers_name
 
 :le:Aruernus
 :aj:Aruern	us_a_um group
 :aj:Arvern	us_a_um group
 
 :le:Atrinum
-:no:Atrin	us_i neut place
+:no:Atrin	us_i neut geog_name
 
 :le:Aurinx
-:no:Aurin	x_gis fem place
+:no:Aurin	x_gis fem geog_name
 
 :le:Austicula
-:no:Austicul	a_ae fem place
+:no:Austicul	a_ae fem geog_name
 
 :le:Baesidiae
-:no:Baesidi	a_ae fem pl place
+:no:Baesidi	a_ae fem pl geog_name
 
 :le:Belligenis
-:no:Belligen	is_is masc person
+:no:Belligen	is_is masc pers_name
 
 :le:Blattius
-:no:Blatt	ius_i masc person
+:no:Blatt	ius_i masc pers_name
 
 :le:Braneus
-:no:Brane	us_i masc person
+:no:Brane	us_i masc pers_name
 
 :le:Bucar
-:no:Bucar	0_is masc person
+:no:Bucar	0_is masc pers_name
 
 :le:Bulotus
-:no:Bulot	us_i masc place
+:no:Bulot	us_i masc geog_name
 
 :le:Caiatia
-:no:Caiati	a_ae fem place
+:no:Caiati	a_ae fem geog_name
 
 :le:Caiatinus
 :aj:Caiatin	us_a_um
 
 :le:Calussa
-:no:Caluss	a_ae masc person
+:no:Caluss	a_ae masc pers_name
 
 :le:Canna
-:no:Cann	a_ae fem place
+:no:Cann	a_ae fem geog_name
 
 :le:Capussa
-:no:Capuss	a_ae masc person
+:no:Capuss	a_ae masc pers_name
 
 :le:Cartala
-:no:Cartal	a_ae fem place
+:no:Cartal	a_ae fem geog_name
 
 :le:Carthalo
-:no:Carthal	o_oLnis masc person
+:no:Carthal	o_oLnis masc pers_name
 
 :le:Caruilius
-:no:Caruil	ius_i masc person
+:no:Caruil	ius_i masc pers_name
 
 :le:Casinas
 :no:Casina	s_tis_adj
 
 :le:Cerdubelus
-:no:Cerdubel	us_i masc person
+:no:Cerdubel	us_i masc pers_name
 
 :le:Cerrinus
-:no:Cerrin	us_i masc person
+:no:Cerrin	us_i masc pers_name
 
 :le:Certis
-:no:Cert	is_is fem place
+:no:Cert	is_is fem geog_name
 
 :le:Chalbus
-:no:Chalb	us_i masc person
+:no:Chalb	us_i masc pers_name
 
 :le:Cimbii
-:no:Cimb	ius_i masc pl place
+:no:Cimb	ius_i masc pl geog_name
 
 :le:Circumpadanus
 :aj:Circumpadan	us_a_um
 
 :le:Clupea
-:no:Clupe	a_ae fem place
+:no:Clupe	a_ae fem geog_name
 
 :le:Combulteria
-:no:Combulteri	a_ae fem place
+:no:Combulteri	a_ae fem geog_name
 
 :le:Crotoniates
 :no:Crotoniat	es_ae masc fem 
 
 :le:Damarata
-:no:Damarat	a_ae fem person
+:no:Damarat	a_ae fem pers_name
 
 :le:Derdas
-:no:Derd	a_ae masc person
+:no:Derd	a_ae masc pers_name
 
 :le:Dinomenes
 :no:Dinomen	es_ae masc
 
 :le:Drumiae
-:no:Drumi	a_ae masc pl place
+:no:Drumi	a_ae masc pl geog_name
 
 :le:Ducario
-:no:Ducari	o_oLnis masc person
+:no:Ducari	o_oLnis masc pers_name
 
 :le:Edesco
-:no:Edesc	o_oLnis masc person
+:no:Edesc	o_oLnis masc pers_name
 
 :le:Elis
-:no:El	is_is fem place
+:no:El	is_is fem geog_name
 
 :le:Epicydes
-:no:Epicyd	es_ae masc person
+:no:Epicyd	es_ae masc pers_name
 
 :le:Eruthrae
 :no:Eruthr	a_ae fem pl
 
 :le:Eryx
-:no:Ery	x_cis masc place
+:no:Ery	x_cis masc geog_name
 
 :le:Eurus
 :no:Eur	us_i masc 
@@ -1211,7 +1211,7 @@
 :aj:Ferentina	s_tis_adj
 
 :le:Floronia
-:no:Floroni	a_ae fem person
+:no:Floroni	a_ae fem pers_name
 
 :le:Frusinas
 :aj:Frusina	s_tis_adj
@@ -1220,10 +1220,10 @@
 :no:Fugiful	a_ae fem
 
 :le:Fuluianus
-:no:Fuluian	us_i masc person
+:no:Fuluian	us_i masc pers_name
 
 :le:Furculae
-:no:Furcul	a_ae fem place
+:no:Furcul	a_ae fem geog_name
 
 :le:Gaditanus
 :aj:Gaditan	us_a_um
@@ -1232,44 +1232,44 @@
 :no:Galeagr	a_ae fem
 
 :le:Gereonium
-:no:Gereon	ius_i neut place
+:no:Gereon	ius_i neut geog_name
 
 :le:Gisgo
-:no:Gisg	o_oLnis masc person
+:no:Gisg	o_oLnis masc pers_name
 
 :le:Haedus
-:no:Haed	us_i masc person
+:no:Haed	us_i masc pers_name
 
 :le:Hegeas
-:no:Hege	as_ae masc person
+:no:Hege	as_ae masc pers_name
 
 :no:Herbesus
-:no:Herbes	us_i masc place
-:no:Herbess	us_i masc place
+:no:Herbes	us_i masc geog_name
+:no:Herbess	us_i masc geog_name
 
 :le:Himilco
-:no:Himilc	o_oLnis masc person
+:no:Himilc	o_oLnis masc pers_name
 
 :le:Hippacritanus
-:no:Hippacritan	us_i masc person
+:no:Hippacritan	us_i masc pers_name
 
 :le:Iamphorynna
-:no:Iamphorynn	a_ae fem place
+:no:Iamphorynn	a_ae fem geog_name
 
 :le:Ilerges
 :aj:Ilerg	es_eLtis_adj
 
 :le:Iliberris
-:no:Iliberr	is_is fem place
+:no:Iliberr	is_is fem geog_name
 
 :le:Iliturgitanus
 :aj:Iliturgitan	us_a_um
 
 :le:Isalca
-:no:Isalc	a_ae fem person
+:no:Isalc	a_ae fem pers_name
 
 :le:Lacumazes
-:no:Lacumaz	es_ae masc person
+:no:Lacumaz	es_ae masc pers_name
 
 :le:Laeetanus
 :aj:Laeetan	us_a_um
@@ -1278,35 +1278,35 @@
 :aj:Larina	s_tis_adj
 
 :le:Larisus
-:no:Laris	us_i masc place
+:no:Laris	us_i masc geog_name
 
 :le:Leon
 :no:Le	on_ontis masc
 
 :le:Loesius
-:no:Loes	ius_i masc person
+:no:Loes	ius_i masc pers_name
 
 :le:Loretanus
-:no:Loretan	us_i	masc place
+:no:Loretan	us_i	masc geog_name
 
 :le:Lymphaeum
 :no:Lymphae	us_i neut placej
 
 :le:Machanidas
-:no:Machanid	as_ae masc person
+:no:Machanid	as_ae masc pers_name
 
 
 :le:Maesulii
 :no:Maesul	ius_i masc pl
 
 :le:Magalus
-:no:Magal	us_i masc person
+:no:Magal	us_i masc pers_name
 
 :le:Maharbal
-:no:Maharbal	0_is masc person
+:no:Maharbal	0_is masc pers_name
 
 :le:Marmoreae
-:no:Marmore	as_ae fem pl place
+:no:Marmore	as_ae fem pl geog_name
 
 :le:Masaesulii
 :no:Masaesul	ius_i masc pl
@@ -1315,71 +1315,71 @@
 :no:Mazaetull	us_i masc
 
 :le:Menige
-:no:Menig	e_ae fem place
+:no:Menig	e_ae fem geog_name
 
 :le:Mentissa
-:no:Mentiss	a_ae fem place
+:no:Mentiss	a_ae fem geog_name
 
 :le:Moeniacaptus
-:no:Moeniacapt	us_i masc person
+:no:Moeniacapt	us_i masc pers_name
 
 :le:Moericus
-:no:Moeric	us_i masc person
+:no:Moeric	us_i masc pers_name
 :le:Murgentia
-:no:Murgenti	a_ae fem place
+:no:Murgenti	a_ae fem geog_name
 
 :le:Naraggara
-:no:Naraggar	a_ae fem place
+:no:Naraggar	a_ae fem geog_name
 
 :le:Nassum
-:no:Nass	os_i neut place
+:no:Nass	os_i neut geog_name
 
 :le:Nepesinoue
-:no:Nepesinou	es_ae fem place
+:no:Nepesinou	es_ae fem geog_name
 
 :le:Nucerina
-:no:Nucerin	a_ae fem place
+:no:Nucerin	a_ae fem geog_name
 
 :le:Ocritus
-:no:Ocrit	us_i masc person
+:no:Ocrit	us_i masc pers_name
 
 :le:Oezalces
-:no:Oezalc	es_ae masc person
+:no:Oezalc	es_ae masc pers_name
 
 :le:Onusam
-:no:Onus	a_ae fem place
-:no:Onuss	a_ae fem place
+:no:Onus	a_ae fem geog_name
+:no:Onuss	a_ae fem geog_name
 
 :le:Oritanus
 :aj:Oritan	us_a_um 
 
 :le:Orongis
-:no:Orong	is_eos place fem 
+:no:Orong	is_eos geog_name fem 
 
 :le:Orsua
-:no:Orsu	a_ae fem place
+:no:Orsu	a_ae fem geog_name
 
 :le:Ovile
 :no:Ovil	is_is neut
 :no:Ouil	is_is neut
 
 :le:Oxeae
-:no:Oxe	a_ae fem pl place
+:no:Oxe	a_ae fem pl geog_name
 
 :le:Pacula
-:no:Pacul	a_ae fem place
+:no:Pacul	a_ae fem geog_name
 
 :le:Pellitus
 :no:Pellit	us_a_um
 
 :le:Perco
-:no:Perc	o_oLnis masc person
+:no:Perc	o_oLnis masc pers_name
 
 :le:Pettium
-:no:Pett	ius_i neut place
+:no:Pett	ius_i neut geog_name
 
 :le:Piscina
-:no:Piscin	a_ae fem place
+:no:Piscin	a_ae fem geog_name
 
 :le:Pollia
 :no:Polli	a_ae fem 
@@ -1397,14 +1397,14 @@
 :no:Rusucm	o_oLnis masc
 
 :le:Salaeca
-:no:Salaec	a_ae fem place
+:no:Salaec	a_ae fem geog_name
 
 :le:Sallentinus
 :aj:Sallentin	us_a_um
 
 :le:Sapriportus
-:no:Sapriport	us_us masc place
-:wd:Sapriportem	irreg_nom3 masc acc sg place
+:no:Sapriport	us_us masc geog_name
+:wd:Sapriportem	irreg_nom3 masc acc sg geog_name
 
 :le:Sedunouerager
 :aj:Sedunouerag	er_ra_rum
@@ -1417,60 +1417,60 @@
 :aj:Seruilian	us_a_um
 
 :le:Sicilinus
-:no:Sicilin	us_i masc person
+:no:Sicilin	us_i masc pers_name
 
 :le:Sintia
-:no:Sinti	a_ae fem place
+:no:Sinti	a_ae fem geog_name
 
 :le:Sosis
-:no:Sos	is_idis masc person
+:no:Sos	is_idis masc pers_name
 
 :le:Tampilus
-:no:Tampil	us_i masc person
+:no:Tampil	us_i masc pers_name
 
 :le:Tartesius
 :no:Tartes	ius_ia_ium
 
 :le:Trasumennus
-:no:Trasumenn	us_i masc place
+:no:Trasumenn	us_i masc geog_name
 
 :le:Tremelius
-:no:Tremel	ius_i masc person
+:no:Tremel	ius_i masc pers_name
 
 :le:Trigorius
 :aj:Trigor	ius_ia_ium
 
 :le:Triphulia
-:no:Triphuli	a_ae fem place
+:no:Triphuli	a_ae fem geog_name
 
 :le:Trogilorus
-:no:Trogilor	us_i masc place
+:no:Trogilor	us_i masc geog_name
 
 :le:Tynes
-:no:Tyn	es_eLtis fem place
+:no:Tyn	es_eLtis fem geog_name
 
 :le:Uercellium
-:no:Uercell ius_i neut place
+:no:Uercell ius_i neut geog_name
 
 :le:Vibellius
-:no:Vibell	ius_i masc person
-:no:Uibell	ius_i masc person
+:no:Vibell	ius_i masc pers_name
+:no:Uibell	ius_i masc pers_name
 
 :le:Uictumulae
-:no:Uictumul	a_ae fem pl place
+:no:Uictumul	a_ae fem pl geog_name
 
 :le:Vismarus
-:no:Vismar	us_i masc person
-:no:Uismar	us_i masc person
+:no:Vismar	us_i masc pers_name
+:no:Uismar	us_i masc pers_name
 
 :le:Uoturia
-:no:Uoturi	a_ae fem place
+:no:Uoturi	a_ae fem geog_name
 
 :le:Uzentinus
 :aj:Uzentin	us_a_um
 
 :le:Zoippus
-:no:Zoipp	us_i masc person
+:no:Zoipp	us_i masc pers_name
 
 ## words from Livy 1-10
 
@@ -1478,67 +1478,67 @@
 :aj:Aequicol	us_a_um
 
 :le:Aequus
-:no:Aequ	us_i person
+:no:Aequ	us_i pers_name
 
 :le:Alfaterna
-:no:Alfatern	a_ae fem place
+:no:Alfatern	a_ae fem geog_name
 
 :le:Arruns
-:no:Arr	uns_untis masc person
+:no:Arr	uns_untis masc pers_name
 
 :le:Aspero
-:no:Asper	o_oLnis masc person
+:no:Asper	o_oLnis masc pers_name
 
 :le:Caeno
-:no:Caen	o_oLnis fem place
+:no:Caen	o_oLnis fem geog_name
 
 :le:Calvius
-:no:Calv	ius_i masc person
-:no:Calu	ius_i masc person
+:no:Calv	ius_i masc pers_name
+:no:Calu	ius_i masc pers_name
 
 :le:Camars
-:no:Camars	0_is neut place
+:no:Camars	0_is neut geog_name
 
 :le:Capra
-:no:Capr	a_ae fem place
+:no:Capr	a_ae fem geog_name
 
 :le:Caruentanus
 :aj:Caruentan	us_a_um
 
 :le:Cesennia
-:no:Cesenni	a_ae fem place
+:no:Cesenni	a_ae fem geog_name
 
 :le:Cocles
-:no:Cocl	es_itis masc person
+:no:Cocl	es_itis masc pers_name
 
 :le:Columen
-:no:Colum	en_inis neut place
+:no:Colum	en_inis neut geog_name
 
 :le:Cominus
-:no:Comin	us_i masc person
+:no:Comin	us_i masc pers_name
 
 :le:Coranus
-:no:Coran	us_i masc place
+:no:Coran	us_i masc geog_name
 
 :le:Curatius
-:no:Curat	ius_i masc person
+:no:Curat	ius_i masc pers_name
 
 :le:Dorsuo
-:no:Dorsu	o_oLnis masc person
+:no:Dorsu	o_oLnis masc pers_name
 
 :le:Egerius
-:no:Eger	ius_i masc person
+:no:Eger	ius_i masc pers_name
 
 :le:Enetus
 :aj:Enet	us_a_um
 :aj:Ene	s_tis_adj
 
 :le:Etitovius
-:no:Etitov	ius_i masc person
-:no:Etitou	ius_i masc person
+:no:Etitov	ius_i masc pers_name
+:no:Etitou	ius_i masc pers_name
 
 :le:Faesus
-:no:Faes	us_i masc person
+:no:Faes	us_i masc pers_name
 
 :le:Fenectanus
 :aj:Fenectan	us_a_um
@@ -1553,25 +1553,25 @@
 :aj:Ficolens	is_e
 
 :le:Flaccina
-:no:Flaccin	a_ae fem person
+:no:Flaccin	a_ae fem pers_name
 
 :le:Flauoleius
-:no:Flauole	ius_i masc person
+:no:Flauole	ius_i masc pers_name
 
 :le:Folius
-:no:Fol	ius_i masc person
+:no:Fol	ius_i masc pers_name
 
 :le:Fufetius
-:no:Fufet	ius_i masc person
+:no:Fufet	ius_i masc pers_name
 
 :le:Geganius
-:no:Gegan	ius_i masc person
+:no:Gegan	ius_i masc pers_name
 
 :le:Harsa
-:no:Hars	a_ae masc person
+:no:Hars	a_ae masc pers_name
 
 :le:Hatria
-:no:Hatri	a_ae fem place
+:no:Hatri	a_ae fem geog_name
 
 :le:Hercyneus
 :aj:Hercyne	us_a_um
@@ -1581,11 +1581,11 @@
 :no:Inregillens	is_e
 
 :le:Inregillum
-:no:Inregill	us_i neut place
+:no:Inregill	us_i neut geog_name
 
 
 :le:Lars
-:no:Lar	s_tis masc person
+:no:Lar	s_tis masc pers_name
 
 :le:Lucernus
 :no:Lucern	us_a_um
@@ -1594,46 +1594,46 @@
 :no:Lucer	0_is masc group
 
 :le:Lucumo
-:no:Lucum	o_oLnis masc person
+:no:Lucum	o_oLnis masc pers_name
 
 :le:Macer
-:no:Mac	er_ris masc person
+:no:Mac	er_ris masc pers_name
 
 :le:Materina
-:no:Materin	a_ae fem place
+:no:Materin	a_ae fem geog_name
 
 :le:Mecium
-:no:Mec	ius_i neut place
+:no:Mec	ius_i neut geog_name
 
 :le:Milionius
-:no:Milion	ius_i masc person
+:no:Milion	ius_i masc pers_name
 
 :le:Minatius
-:no:Minat	ius_i masc person
+:no:Minat	ius_i masc pers_name
 
 :le:Mur
-:no:Mur	0_is masc person
+:no:Mur	0_is masc pers_name
 
 :le:Nepesinus
 :aj:Nepesin	us_a_um
 
 :le:Ofillius
-:no:Ofill	ius_i masc person
+:no:Ofill	ius_i masc pers_name
 
 :le:Opiter
-:no:Opit	er_ris masc person
+:no:Opit	er_ris masc pers_name
 
 :le:Paculus
-:no:Pacul	us_i masc person
+:no:Pacul	us_i masc pers_name
 
 :le:Plistica
-:no:Plistic	a_ae fem place
+:no:Plistic	a_ae fem geog_name
 
 :le:Porsinna
-:no:Porsinn	a_ae masc person
+:no:Porsinn	a_ae masc pers_name
 
 :le:Puluillus
-:no:Puluill	us_i masc person
+:no:Puluill	us_i masc pers_name
 
 :le:Rea
 :no:Re	a_ae fem
@@ -1642,33 +1642,33 @@
 :no:Sappina	s_tis_adj
 
 :le:Saverrio
-:no:Saverri	o_oLnis masc person
-:no:Sauerri	o_oLnis masc person
+:no:Saverri	o_oLnis masc pers_name
+:no:Sauerri	o_oLnis masc pers_name
 
 :le:Sceleratus
-:no:Scelerat	us_i masc place
+:no:Scelerat	us_i masc geog_name
 
 :le:Segninus
 :aj:Segnin	us_a_um group
 
 :le:Segovesus
-:no:Segoves	us_i masc person
-:no:Segoues	us_i masc person
+:no:Segoves	us_i masc pers_name
+:no:Segoues	us_i masc pers_name
 
 :le:Semunciarium
-:no:Semunciar	ius_i neut place
+:no:Semunciar	ius_i neut geog_name
 
 :le:Sentinas
 :aj:Sentina	s_tis_adj
 
 :le:Sotimus
-:no:Sotim	us_i masc person
+:no:Sotim	us_i masc pers_name
 
 :le:Spurillius
-:no:Spurill	ius_i masc person
+:no:Spurill	ius_i masc pers_name
 
 :le:Stellatina
-:no:Stellatin	a_ae fem place
+:no:Stellatin	a_ae fem geog_name
 
 :le:Subura
 :no:Subur	a_ae fem
@@ -1677,31 +1677,31 @@
 :aj:Sucasin	us_a_um
 
 :le:Tanaquil
-:no:Tanaquil	0_is fem person
+:no:Tanaquil	0_is fem pers_name
 
 :le:Tarquinianus
 :aj:Tarquinian	us_a_um
 
 :le:Terentilius
-:no:Terentil	ius_i masc person
+:no:Terentil	ius_i masc pers_name
 
 :le:Terentilia
-:no:Terentili	a_ae fem person
+:no:Terentili	a_ae fem pers_name
 
 :le:Tromentina
-:no:Tromentin	a_ae fem place
+:no:Tromentin	a_ae fem geog_name
 
 :le:Venox
-:no:Veno	x_cis masc person
-:no:Ueno	x_cis masc person
+:no:Veno	x_cis masc pers_name
+:no:Ueno	x_cis masc pers_name
 
 :le:Virginia
-:no:Vergini	a_ae fem person
-:no:Uergini	a_ae fem person
+:no:Vergini	a_ae fem pers_name
+:no:Uergini	a_ae fem pers_name
 
 :le:Vetelia
-:no:Veteli	a_ae fem place
-:no:Ueteli	a_ae fem place
+:no:Veteli	a_ae fem geog_name
+:no:Ueteli	a_ae fem geog_name
 
 :le:Vetusius
 :no:Vetus	ius_i masc
@@ -1712,8 +1712,8 @@
 :no:Uiminal	0_is masc
 
 :le:Volero
-:no:Voler	o_oLnis masc person
-:no:Uoler	o_oLnis masc person
+:no:Voler	o_oLnis masc pers_name
+:no:Uoler	o_oLnis masc pers_name
 
 :le:Urbius
-:no:Urb	ius_i masc place
+:no:Urb	ius_i masc geog_name
