@@ -255,6 +255,7 @@
 
 :le:Iuppiter
 :wd:Iuppiter   irreg_nom3 masc nom/voc sg
+:wd:Iupiter   irreg_nom3 masc nom/voc sg
 :wd:Iovis   irreg_nom3 masc gen sg
 :wd:Iovi_   irreg_nom3 masc dat sg
 :wd:Iovem   irreg_nom3 masc acc sg
@@ -437,14 +438,14 @@
 :wd:aliquam indef fem acc sg
 :wd:aliqua_ indef fem abl sg
 :wd:alicuius   indef masc/fem/neut gen sg
-:wd:alicui   indef masc/fem/neut dat sg
 :wd:aliquei_   indef masc/fem/neut dat sg
+:wd:alicui   indef masc/fem/neut dat sg
 :wd:aliquem   indef masc/fem acc sg
 :wd:aliqui_   indef masc nom pl
 :wd:aliquae   indef fem nom pl
 :wd:aliquae   indef neut nom/acc pl
-:wd:aliquo_rum   indef masc gen pl
 :wd:aliquu_m   indef masc gen pl poetic
+:wd:aliquo_rum   indef masc gen pl
 :wd:aliqua_rum   indef fem gen pl
 :wd:aliquibus   indef masc/fem/neut dat pl
 :wd:aliquo_s   indef masc acc pl
@@ -601,14 +602,14 @@
 :wd:ecqui_cum rel_pron masc abl sg
 :wd:ecqui_buscum rel_pron masc fem neut abl dat pl
 :wd:eccuius   relative masc/fem/neut gen sg
-:wd:eccui   relative masc/fem/neut dat sg
 :wd:ecquei_   relative masc/fem/neut dat sg
+:wd:eccui   relative masc/fem/neut dat sg
 :wd:ecquem   relative masc/fem acc sg
 :wd:ecqui_   relative masc nom pl
 :wd:ecquae   relative fem nom pl
 :wd:ecquae   relative neut nom/acc pl
-:wd:ecquo_rum   relative masc gen pl
 :wd:ecquu_m   relative masc gen pl poetic
+:wd:ecquo_rum   relative masc gen pl
 :wd:ecqua_rum   relative fem gen pl
 :wd:ecquibus   relative masc/fem/neut dat pl
 :wd:ecquo_s   relative masc acc pl
@@ -630,14 +631,14 @@
 :wd:qui_buscum rel_pron masc fem neut abl dat pl
 :wd:quoi rel_pron masc fem neut dat sg
 :wd:cuius   relative masc/fem/neut gen sg
-:wd:cui   relative masc/fem/neut dat sg
 :wd:quei_   relative masc/fem/neut dat sg
+:wd:cui   relative masc/fem/neut dat sg
 :wd:quem   relative masc/fem acc sg
 :wd:qui_   relative masc nom pl
 :wd:quae   relative fem nom pl
 :wd:quae   relative neut nom/acc pl
-:wd:quo_rum   relative masc gen pl
 :wd:quu_m   relative masc gen pl poetic
+:wd:quo_rum   relative masc gen pl
 :wd:qua_rum   relative fem gen pl
 :wd:quibus   relative masc/fem/neut dat pl
 :wd:quo_s   relative masc acc pl
@@ -656,14 +657,14 @@
 :wd:qui_buscum interrog masc fem neut abl dat pl
 :wd:quoi interrog masc fem neut dat sg
 :wd:cuius   interrog masc/fem/neut gen sg
-:wd:cui   interrog masc/fem/neut dat sg
 :wd:quei_   interrog masc/fem/neut dat sg
+:wd:cui   interrog masc/fem/neut dat sg
 :wd:quem   interrog masc/fem acc sg
 :wd:qui_   interrog masc nom pl
 :wd:quae   interrog fem nom pl
 :wd:quae   interrog neut nom/acc pl
-:wd:quo_rum   interrog masc gen pl
 :wd:quu_m   interrog masc gen pl poetic
+:wd:quo_rum   interrog masc gen pl
 :wd:qua_rum   interrog fem gen pl
 :wd:quibus   interrog masc/fem/neut dat pl
 :wd:quo_s   interrog masc acc pl
@@ -703,14 +704,14 @@
 :wd:aliquid	indef neut nom/acc sg
 :wd:aliquo_	indef masc fem neut abl sg
 :wd:a^li^cuius   indef masc/fem/neut gen sg
-:wd:a^li^cui   indef masc/fem/neut dat sg
 :wd:a^li^quei_   indef masc/fem/neut dat sg
+:wd:a^li^cui   indef masc/fem/neut dat sg
 :wd:a^li^quem   indef masc/fem acc sg
 :wd:a^li^qui_   indef masc nom pl
 :wd:a^li^quae   indef fem nom pl
 :wd:a^li^quae   indef neut nom/acc pl
-:wd:a^li^quo_rum   indef masc gen pl
 :wd:a^li^quu_m   indef masc gen pl poetic
+:wd:a^li^quo_rum   indef masc gen pl
 :wd:a^li^qua_rum   indef fem gen pl
 :wd:a^li^quibus   indef masc/fem/neut dat pl
 :wd:a^li^quo_s   indef masc acc pl
@@ -723,14 +724,14 @@
 :wd:ecquo_		interrog masc fem neut abl sg
 :wd:ecquidni	interrog neut nom acc sg
 :wd:eccuius   interrog masc/fem/neut gen sg
-:wd:eccui   interrog masc/fem/neut dat sg
 :wd:ecquei_   interrog masc/fem/neut dat sg
+:wd:eccui   interrog masc/fem/neut dat sg
 :wd:ecquem   interrog masc/fem acc sg
 :wd:ecqui_   interrog masc nom pl
 :wd:ecquae   interrog fem nom pl
 :wd:ecquae   interrog neut nom/acc pl
-:wd:ecquo_rum   interrog masc gen pl
 :wd:ecquu_m   interrog masc gen pl poetic
+:wd:ecquo_rum   interrog masc gen pl
 :wd:ecqua_rum   interrog fem gen pl
 :wd:ecquibus   interrog masc/fem/neut dat pl
 :wd:ecquo_s   interrog masc acc pl
@@ -743,14 +744,14 @@
 :wd:quo_		interrog masc fem neut abl sg
 :wd:quidni	interrog neut nom acc sg
 :wd:cuius   interrog masc/fem/neut gen sg
-:wd:cui   interrog masc/fem/neut dat sg
 :wd:quei_   interrog masc/fem/neut dat sg
+:wd:cui   interrog masc/fem/neut dat sg
 :wd:quem   interrog masc/fem acc sg
 :wd:qui_   interrog masc nom pl
 :wd:quae   interrog fem nom pl
 :wd:quae   interrog neut nom/acc pl
-:wd:quo_rum   interrog masc gen pl
 :wd:quu_m   interrog masc gen pl poetic
+:wd:quo_rum   interrog masc gen pl
 :wd:qua_rum   interrog fem gen pl
 :wd:quibus   interrog masc/fem/neut dat pl
 :wd:quo_s   interrog masc acc pl
@@ -763,14 +764,14 @@
 :wd:quo_		indef masc fem neut abl sg
 :wd:quidni	indef neut nom acc sg
 :wd:cuius   indef masc/fem/neut gen sg
-:wd:cui   indef masc/fem/neut dat sg
 :wd:quei_   indef masc/fem/neut dat sg
+:wd:cui   indef masc/fem/neut dat sg
 :wd:quem   indef masc/fem acc sg
 :wd:qui_   indef masc nom pl
 :wd:quae   indef fem nom pl
 :wd:quae   indef neut nom/acc pl
-:wd:quo_rum   indef masc gen pl
 :wd:quu_m   indef masc gen pl poetic
+:wd:quo_rum   indef masc gen pl
 :wd:qua_rum   indef fem gen pl
 :wd:quibus   indef masc/fem/neut dat pl
 :wd:quo_s   indef masc acc pl
@@ -783,14 +784,14 @@
 :wd:nescioquod	indef neut nom/acc sg
 :wd:nescioquam	indef fem acc sg late
 :wd:nesciocuius   indef masc/fem/neut gen sg
-:wd:nesciocui   indef masc/fem/neut dat sg
 :wd:nescioquei_   indef masc/fem/neut dat sg
+:wd:nesciocui   indef masc/fem/neut dat sg
 :wd:nescioquem   indef masc/fem acc sg
 :wd:nescioqui_   indef masc nom pl
 :wd:nescioquae   indef fem nom pl
 :wd:nescioquae   indef neut nom/acc pl
-:wd:nescioquo_rum   indef masc gen pl
 :wd:nescioquu_m   indef masc gen pl poetic
+:wd:nescioquo_rum   indef masc gen pl
 :wd:nescioqua_rum   indef fem gen pl
 :wd:nescioquibus   indef masc/fem/neut dat pl
 :wd:nescioquo_s   indef masc acc pl
@@ -803,14 +804,14 @@
 :wd:si_quo_	interrog masc fem neut abl sg
 :wd:siqua_ rel_pron fem abl sg
 :wd:si_cuius   interrog masc/fem/neut gen sg
-:wd:si_cui   interrog masc/fem/neut dat sg
 :wd:si_quei_   interrog masc/fem/neut dat sg
+:wd:si_cui   interrog masc/fem/neut dat sg
 :wd:si_quem   interrog masc/fem acc sg
 :wd:si_qui_   interrog masc nom pl
 :wd:si_quae   interrog fem nom pl
 :wd:si_quae   interrog neut nom/acc pl
-:wd:si_quo_rum   interrog masc gen pl
 :wd:si_quu_m   interrog masc gen pl poetic
+:wd:si_quo_rum   interrog masc gen pl
 :wd:si_qua_rum   interrog fem gen pl
 :wd:si_quibus   interrog masc/fem/neut dat pl
 :wd:si_quo_s   interrog masc acc pl
@@ -1135,9 +1136,9 @@
 :wd:su_em   irreg_nom3 masc/fem acc sg
 :wd:su_e   irreg_nom3 masc/fem abl sg
 :wd:sue_s   irreg_nom3 masc/fem nom pl
+:wd:suibus   irreg_nom3 masc/fem dat pl
 :wd:su_bus   irreg_nom3 masc/fem dat pl
 :wd:su^bus   irreg_nom3 masc/fem dat pl
-:wd:suibus   irreg_nom3 masc/fem dat pl
 :wd:sue_s   irreg_nom3 masc/fem acc pl
 :wd:su_bus   irreg_nom3 masc/fem abl pl
 :wd:su^bus   irreg_nom3 masc/fem abl pl
@@ -1148,8 +1149,8 @@
 :wd:tria   numeral neut nom pl
 :wd:trium   numeral masc/fem/neut gen pl
 :wd:tribus   numeral masc/fem/neut dat pl
-:wd:tre_s   numeral masc/fem acc pl
 :wd:tri_s   numeral masc/fem acc pl
+:wd:tre_s   numeral masc/fem acc pl
 :wd:tria   numeral neut acc pl
 :wd:tribus   numeral masc/fem/neut abl pl
 

@@ -1,9 +1,181 @@
+:le:Parmeno
+:no:Parmen o_oLnis masc pers_name
+
+:le:Scotus
+:no:Scot us_i masc ethnic
+
+:le:Erinys
+:no:Erin ys_yos fem pers_name
+
+:le:Chorus
+:no:Chor us_i masc group
+
+:le:Hiericho
+:wd:Hiericho	irreg_nom3 indecl masc geog_name
+
+:le:Chremes
+:no:Chrem es_eLi masc pers_name
+
+:le:Mercius
+:no:Merci us_i ethnic masc
+
+:le:Nordanhymbrus
+:no:Nordanhymbr us_i ethnic masc
+
 :le:Hierusalem
-:wd:Hierusalem	irreg_nom3 indecl masc
+:wd:Hierusalem	irreg_nom3 indecl masc geog_name
 
-:le:Israhel
-:wd:Israhel	irreg_nom3 indecl masc
+:le:Edom
+:wd:Edom	irreg_nom3 indecl masc geog_name
 
-:le:Jacob
-:wd:Jacob	irreg_nom3 indecl masc
+:le:Philisthinus
+:no:Philisthin us_i masc ethnic
+
+:le:Ionathas
+:no:Ionath as_ae masc pers_name
+
+:le:Gad
+:wd:Gad	irreg_nom3 indecl masc geog_name
+
+:le:Jeremiah
+:no:Hieremi as_a masc pers_name
+:no:Hieremi a_ae masc pers_name
+
+:le:Bethel
+:wd:Bethel	irreg_nom3 indecl masc geog_name
+
+:le:Tobias
+:no:Tobi as_ae masc pers_name
+
+:le:Bethleem
+:wd:Bethleem	irreg_nom3 indecl masc geog_name
+
+:le:Israel
+:wd:Israhel	irreg_nom3 indecl masc geog_name
+
+:le:Jacobus
+:wd:Jacob	irreg_nom3 indecl masc pers_name
+:wd:Iacob	irreg_nom3 indecl masc pers_name
+
+:le:Samuel
+:wd:Samuel	irreg_nom3 indecl masc pers_name
+:wd:Samuhel	irreg_nom3 indecl masc pers_name
+
+:le:Josaphat
+:wd:Josaphat	irreg_nom3 indecl masc pers_name
+:wd:Iosaphat	irreg_nom3 indecl masc pers_name
+
+:le:Eleazar
+:wd:Eleazar	irreg_nom3 indecl masc pers_name
+
+:le:Zabulon
+:wd:Zabulon	irreg_nom3 indecl masc pers_name
+
+:le:Symeon
+:wd:Symeon	irreg_nom3 indecl masc pers_name
+
+:le:Roboam
+:wd:Roboam	irreg_nom3 indecl masc pers_name
+
+:le:Sadoc
+:wd:Sadoc	irreg_nom3 indecl masc pers_name
+
+:le:Asaph
+:wd:Asaph	irreg_nom3 indecl masc pers_name
+
+:le:Asa
+:wd:Asa	irreg_nom3 indecl masc pers_name
+
+:le:Esau
+:wd:Esau	irreg_nom3 indecl masc pers_name
+
+:le:Baal
+:wd:Baal	irreg_nom3 indecl masc pers_name
+
+:le:Iohannes
+:no:Iohann es_eLi masc pers_name
+
+:le:Ezechias
+:no:Ezechi as_a masc pers_name
+:no:Ezechi a_ae masc pers_name
+
+:le:Helias
+:no:Heli as_ae masc pers_name
+
+:le:Ioas
+:no:Io as_ae masc pers_name
+
+:le:Trimalchio
+:no:Trimalchi o_oLnis masc pers_name
+
+:le:Pharao
+:no:Phara o_oLnis masc pers_name
+:no:Phara oLn_oLnis masc pers_name
+
+:le:Spiritus
+:no:Spirit us_us masc pers_name
+
+:le:Moses
+:no:Mos 	es_eIi masc pers_name
+:no:Mos 	us_i masc gen pers_name
+
+:le:Joseph
+:wd:Joseph	irreg_nom3 indecl masc pers_name
+:wd:Ioseph	irreg_nom3 indecl masc pers_name
+
+:le:Ahab
+:wd:Ahab	irreg_nom3 indecl masc pers_name
+
+:le:Isaac
+:wd:Isaac	irreg_nom3 indecl masc pers_name
+
+:le:Absalom
+:wd:Absalom	irreg_nom3 indecl masc pers_name
+
+:le:Nabuchodonosor
+:wd:Nabuchodonosor	irreg_nom3 indecl masc pers_name
+
+
+:le:Abraham
+:wd:Abraham	irreg_nom3 indecl masc pers_name
+:wd:Abraham	irreg_nom3 indecl masc pers_name
+
+
+:le:Abimelech
+:wd:Abimelech	irreg_nom3 indecl masc pers_name
+
+:le:Lucifer
+:no:Lucifer 0_i masc pers_name
+
+:le:Ephraim
+:wd:Ephraim	irreg_nom3 indecl masc pers_name
+
+:le:Salomon
+:wd:Beniamin	irreg_nom3 indecl masc pers_name
+
+:le:Beniamin
+:wd:Beniamin	irreg_nom3 indecl masc pers_name
+
+:le:Ioab
+:wd:Ioab	irreg_nom3 indecl masc pers_name
+:wd:Joab	irreg_nom3 indecl masc pers_name
+
+:le:Ionathan
+:wd:Ionathan	irreg_nom3 indecl masc pers_name
+:wd:Jonathan	irreg_nom3 indecl masc pers_name
+
+:le:Moab
+:wd:Moab	irreg_nom3 indecl masc geog_name
+
+:le:Philisthim
+:wd:Philisthim	irreg_nom3 indecl masc geog_name
+
+:le:Chanaan
+:wd:Chanaan	irreg_nom3 indecl masc geog_name
+
+:le:Hieroboam
+:wd:Hieroboam	irreg_nom3 indecl masc geog_name
+
+
+
 

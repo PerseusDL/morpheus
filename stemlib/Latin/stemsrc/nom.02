@@ -86,11 +86,11 @@
 :wd:hu_ma_ni^ter	adverb
 
 :le:Iesus
-:wd:I^e_sus	irreg_nom2 masc nom sg
-:wd:I^e_sum	irreg_nom2 masc acc sg
-:wd:I^e_su	irreg_nom2 masc gen sg
-:wd:I^e_su	irreg_nom2 masc abl sg
-:wd:I^e_su	irreg_nom2 masc voc sg
+:wd:I^e_sus	irreg_nom2 masc nom sg pers_name
+:wd:I^e_sum	irreg_nom2 masc acc sg pers_name
+:wd:I^e_su	irreg_nom2 masc gen sg pers_name
+:wd:I^e_su	irreg_nom2 masc abl sg pers_name
+:wd:I^e_su	irreg_nom2 masc voc sg pers_name
 
 :le:incus
 :no:incu_	s_dis fem

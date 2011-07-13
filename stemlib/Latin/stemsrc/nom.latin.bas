@@ -239,7 +239,9 @@
 
 :le:academia
 :no:academi 	a_ae fem
-:no:Academi 	a_ae fem 
+
+:le:Academia
+:no:Academi 	a_ae fem geog_name
 
 :le:acer
 :aj:ac	er_ris_re 
@@ -1089,7 +1091,10 @@
 :no:Orest	es_is masc
 
 :le:Oriens
-:no:Ori	ens_entis masc fem
+:no:Ori	ens_entis masc fem geog_name
+
+:le:Theodericus
+:no:Theoderic us_i masc pers_name
 
 :le:oscen
 :no:osc	en_inis masc

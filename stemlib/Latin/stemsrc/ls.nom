@@ -2,7 +2,7 @@ A#I		<orth type=alt>a</orth>	<itype>indecl.</itype>	<gen>n.</gen>
 a	
 A^a^ro_n		<itype>indecl.</itype>	
 :le:Aaron
-:no:A^a^r	oLn_oLnis masc
+:no:A^a^r	oLn_oLnis masc pers_name
 
 
 a^ba_		<orth type=alt>abs</orth>	<pos>prep.</pos>	<pos>adj.</pos>
@@ -5377,7 +5377,7 @@ Ae-to_lus
 
 Aeto_li		
 :le:Aetoli
-:no:Aeto_l	us_i masc ethnic
+:no:Aeto_l	us_i masc is_ethnic
 
 
 aevi^tas		
@@ -7082,15 +7082,15 @@ A^le_i^us
 
 A^le^manni		<orth>A^la^manni</orth>	<orth>A^la^-mani</orth>	
 :le:Alemanni
-:no:A^le^mann	us_i masc pl
-:no:A^la^-man	us_i masc pl orth
+:no:A^le^mann	us_i masc pl ethnic
+:no:A^la^-man	us_i masc pl orth ethnic
 
 
 
 A^le^manni^a		<orth type=alt>A^la^m-</orth>	
 :le:Alemannia
-:no:A^le^manni^	a_ae fem
-:no:A^la^manni^	a_ae fem orth
+:no:A^le^manni^	a_ae fem geog_name
+:no:A^la^manni^	a_ae fem orth geog_name
 
 
 
@@ -25856,13 +25856,13 @@ Bri_saeus		<orth type=alt>-se_us</orth>
 Bri_se_i+s		<itype>i^dos</itype>	<gen>f.</gen>
 Bri^tanni		
 :le:Britanni
-:no:Bri^tann	us_i masc pl
+:no:Bri^tann	us_i masc pl ethnic
 
 
 Bri^tanni^a		<orth>Britta_ni^a</orth>	
 :le:Britannia
-:no:Bri^tanni^	a_ae fem
-:no:Britta_ni^	a_ae fem orth
+:no:Bri^tanni^	a_ae fem geog_name
+:no:Britta_ni^	a_ae fem orth geog_name
 
 
 
@@ -36041,6 +36041,7 @@ chalcus
 Chaldaei		
 :le:Chaldaei
 :no:Chaldae	us_i masc pl
+:no:Chalde	us_i masc pl
 
 
 Chaldaeus		
@@ -37092,7 +37093,7 @@ Christi^-po^tens
 
 Christus		
 :le:Christus
-:no:Christ	us_i masc
+:no:Christ	us_i masc pers_name
 
 
 chro_ma		
@@ -53870,7 +53871,7 @@ Cy^-the^re_us
 
 Cy^the^re_a		
 :le:Cytherea
-:no:Cy^the^re_	a_ae fem
+:no:Cy^the^re_	a_ae fem pers_name
 
 
 Cy^the_re_		
@@ -54696,8 +54697,8 @@ dautia
 Da_vi_d		<gen>m.</gen>
 Da_vi_d	<itype>indecl.</itype>
 :le:David
-:no:Da_vi_d	0_us masc
-:wd:Da_vi_d	irreg_nom3 indecl
+:no:Da_vi_d	0_us masc pers_name
+:wd:Da_vi_d	irreg_nom3 indecl pers_name
 
 Da_vi_di^cus		
 :le:Davidicus
@@ -63813,9 +63814,9 @@ Dy^raspes
 
 
 Dyrra^chi^um		<orth type=alt>Dyrrh-</orth>	
-:le:Dyrrachium
+:le:Dyrrhachium
+:no:Dyrrhach	ius_i neut orth
 :no:Dyrra^ch	ius_i neut
-:no:Dyrrh	ius_i neut orth
 
 
 
@@ -67222,7 +67223,7 @@ E^pi^cu_rus
 
 E^pi^cu_re_us		
 :le:Epicureus
-:aj:E^pi^cu_re_	us_a_um
+:aj:E^pi^cu_re_	us_a_um group
 
 
 E^pi^cu_re_i		
@@ -69125,7 +69126,7 @@ E_^truscus
 
 Etrusci		
 :le:Etrusci
-:no:Etrusc	us_i masc pl ethnic
+:no:Etrusc	us_i masc pl is_ethnic
 
 
 et-si	
@@ -83224,7 +83225,7 @@ Gra_ius
 
 Gra_ius		
 :le:Graius
-:aj:Gra_	ius_ia_ium
+:aj:Gra_	ius_ia_ium ethnic
 
 
 Gra_ioce^li		
@@ -87228,7 +87229,7 @@ Hi^-be_ri		<orth type=alt>Ib-</orth>
 Hi^-be_ri^a		<orth type=alt>Ib-</orth>	
 :le:Hiberia
 :no:Hi^-be_ri^	a_ae fem
-:no:Ibe_ri^	a_ae fem orth
+:no:Ibe_ri^	a_ae fem orth geog_name
 
 
 
@@ -106356,10 +106357,10 @@ Jeri^cho
 
 Je_sus		<orth>I^e_sus</orth>	<itype>u</itype>	<gen>m.</gen>
 :le:Jesus
-:wd:Je_sus	irreg_nom2 masc nom sg
-:wd:Je_su	irreg_nom2 masc gen dat abl voc sg
-:wd:Je_sum	irreg_nom2 masc acc sg
-:wd:Je_sui	irreg_nom2 masc dat sg orth
+:wd:Je_sus	irreg_nom2 masc nom sg pers_name
+:wd:Je_su	irreg_nom2 masc gen dat abl voc sg pers_name
+:wd:Je_sum	irreg_nom2 masc acc sg pers_name
+:wd:Je_sui	irreg_nom2 masc dat sg orth pers_name
 
 Jo_annes	
 Jo_annis		
@@ -112291,7 +112292,7 @@ le_vi^tas#2		<orth type=alt>laev-</orth>
 
 Le_vi_tes		<orth>Le_vi_ta</orth>	
 :le:Levites
-:no:Le_vi_t	es_ae masc
+:no:Le_vi_t	es_ae masc group_name
 
 
 Le_-vi_ti^cus		
@@ -112841,7 +112842,7 @@ Li^by^a		<orth>Li^bu^a</orth>	<orth>Li^by^e_</orth>	<itype>e_s</itype>	<gen>f.</
 
 Li^by^cus		
 :le:Libycus
-:aj:Li^by^c	us_a_um
+:aj:Li^by^c	us_a_um ethnic
 
 
 Li^by^ci		
@@ -116055,7 +116056,7 @@ Lu_^pi^ae
 
 Lu^pi^ci_nus		
 :le:Lupicinus
-:no:Lu^pi^ci_n	us_i masc
+:no:Lu^pi^ci_n	us_i masc pers_name
 
 
 lu^pillus		
@@ -146646,7 +146647,7 @@ Pa^ris
 
 Pa^ri_si^i		
 :le:Parisii
-:no:Pa^ri_si^	us_i masc pl
+:no:Pa^ri_si^	us_i masc is_ethnic
 
 
 Pa^ri_si^a^cus		
@@ -154637,7 +154638,7 @@ Pha_ris
 
 Pha^ri^saeus		
 :le:Pharisaeus
-:no:Pha^ri^sae	us_i masc
+:no:Pha^ri^sae	us_i masc group
 
 
 Pha^ri^saei		<orth>Phari_saei</orth>	
@@ -159176,12 +159177,12 @@ Poeni
 
 Poenus		
 :le:Poenus
-:no:Poen	us_i masc ethnic
+:no:Poen	us_i masc is_ethnic
 
 
 Poenus		
 :le:Poenus
-:aj:Poen	us_a_um ethnic
+:aj:Poen	us_a_um is_ethnic
 
 
 Pu_ni^-cus		<orth type=alt>Poen-</orth>	
@@ -159530,6 +159531,9 @@ pollu_trix
 
 
 Pollux		<itype>u_cis</itype>
+:le:Pollux
+:no:Pollu x_cis masc pers_name
+
 Pol-lu_ces		<gen>m.</gen>
 :le:pol
 :wd:pol	exclam
@@ -165005,8 +165009,8 @@ Pri_vernum
 Pri_vernas		<itype>a_tis</itype>	<pos>adj.</pos>
 Pri_verna_tes		
 :le:Privernates
-:aj:Pri_verna_	s_tis ethnic
-:aj:Pri_uerna_	s_tis ethnic
+:aj:Pri_verna_	s_tis is_ethnic
+:aj:Pri_uerna_	s_tis is_ethnic
 
 
 Pri_vernus		
@@ -172872,8 +172876,9 @@ raeda_ri^us
 
 
 Raeti		<orth type=alt>Rhaeti</orth>	
-:le:Raeti
-:no:Raet	us_i masc pl
+:le:Rhaeti
+:no:Rhaet	us_i masc pl geog_name
+:no:Raet	us_i masc pl geog_name
 
 
 Raetia		<itype> </itype>	<orth type=alt>Rhaetia</orth>	
@@ -181351,7 +181356,7 @@ sari_so^pho^ros		<orth type=alt>sarisso^-</orth>
 sari_to_ri^us		<orth type=alt>sari_tu_ra</orth>
 Sarma^ta		
 :le:Sarmata
-:no:Sarma^t	a_ae masc
+:no:Sarma^t	a_ae masc is_ethnic
 
 
 Sarma^tae		<orth>Sauro^-ma^tae</orth>	
@@ -181896,12 +181901,11 @@ Saufe_ia
 
 Sa^u_l		<itype>u_lis</itype>	<itype>indecl.</itype>	<gen>m.</gen>
 :le:Saul
-:wd:Sa^u_l	irreg_nom3 indecl masc
-:no:Sa^u_l	0_is masc orth
+:wd:Sa^u_l	irreg_nom3 indecl masc pers_name
+:no:Sa^u_l	0_is masc orth pers_name
 
 Saulus		
-:le:Saulus
-:no:Saul	us_i masc
+:no:Saul	us_i masc pers_name
 
 
 sauma_ri^us		<orth>sagma_-ri^us</orth>
@@ -194051,7 +194055,7 @@ Sto_i^ci^da
 
 Sto_i^cus		
 :le:Stoicus
-:aj:Sto_i^c	us_a_um
+:aj:Sto_i^c	us_a_um is_group
 
 
 Sto_i^cus		
@@ -197406,6 +197410,12 @@ su_fes		<orth type=alt>suffes</orth>
 :le:sufes
 :no:su_fe	s_tis masc
 
+
+:le:Suffenas
+:no:Suffen as_a masc pers_name
+
+:le:Seranus
+:no:Seran us_i masc pers_name
 
 Sufetu^la		
 :le:Sufetula
@@ -201778,7 +201788,7 @@ Tarta^rus#1		<orth>-os</orth>
 
 Tarta^ra		
 :le:Tartara
-:no:Tarta^r	us_i neut pl
+:no:Tarta^r	us_i neut pl geog_name
 
 
 Tarta^re^us		
@@ -204763,7 +204773,7 @@ The^o^do_rus
 
 The^-o^do_re_us		
 :le:Theodoreus
-:no:The^-o^do_re_	us_i masc
+:no:The^-o^do_re_	us_i masc pers_name
 
 
 The^o^do^sia		
@@ -205257,7 +205267,7 @@ The^ti^di^um
 The^tis		<itype>i^dis, or i^dos</itype>
 The^lis		
 :le:Thelis
-:no:The^l	is_is fem
+:no:The^t	is_is fem
 
 
 Theudori^a		
@@ -205900,7 +205910,10 @@ Tibara_ni
 Ti^ba^re_ni		<itype>o_rum or u_m</itype>	<gen>m.</gen>
 Ti^be^ris		
 :le:Tiberis
-:aj:Ti^be^r	is_e
+:aj:Ti^be^r	is_is fem
+:aj:Tibr	is_is fem
+:aj:Tybr	is_is fem
+:aj:Thybr	is_is fem
 
 
 Tibris		<orth type=alt>Ty-bris</orth>	<itype>is or i^dis</itype>	<gen>m.</gen>
@@ -211624,6 +211637,10 @@ Ty^chi^us
 
 
 Ty_deus		<orth type=alt>dissyl.</orth>	<itype>e^i and e^os</itype>	<gen>m.</gen>
+
+:le:Tydeus
+:no:Ty_d eus_ei masc pers_name
+
 Ty_di_des		
 :le:Tydides
 :no:Ty_di_d	es_ae masc
@@ -220428,7 +220445,7 @@ xe^ni^um
 
 
 Xe^no		
-:le:Xeno
+:le:Xenon
 :no:Xe^n	o_oLnis masc
 
 
