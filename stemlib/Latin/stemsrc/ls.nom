@@ -56613,7 +56613,7 @@ Delphi
 
 Delphi^cus		
 :le:Delphicus
-:aj:Delphi^c	us_a_um
+:aj:Delphi^c	us_a_um geog_name
 
 
 Delphicus		
@@ -73367,7 +73367,7 @@ Fa^le_ri^i
 Fa^lernusa^ger		<orth>Fa^lernus</orth>	<itype>a, um</itype>	<pos>adj.</pos>
 Fa^lernum		
 :le:Falernus
-:no:Fa^lern	us_a_um
+:no:Fa^lern	us_a_um geog_name
 
 
 Fa^lisci		
@@ -79935,7 +79935,9 @@ ga^ga_tes
 Gai+por	
 Ga_i^us		<orth>Ca_i^us</orth>	
 :le:Gaius
+:no:Ga_	ius_i masc
 :no:Ga_i^	us_i masc
+:no:Ca_	ius_i masc orth
 :no:Ca_i^	us_i masc orth
 
 
@@ -88381,7 +88383,7 @@ Ho^me_ri^a^cus		<orth type=alt>Ho^me_ri^cus</orth>	<orth>Ho^me_rius</orth>
 
 Ho^me_rista		
 :le:Homerista
-:no:Ho^me_rist	a_ae fem
+:no:Ho^me_rist	a_ae masc is_group
 
 
 Ho^me_ro^cento		
@@ -89760,11 +89762,11 @@ Hy_lo^no^me_
 
 Hy_^men		<itype>e^nis</itype>
 :le:Hymen
-:no:Hy^men	0_is masc
+:no:Hy^men	0_is masc pers_name
 
 Hy^me^naeus		<orth>-os</orth>	
 :le:Hymenaeus
-:no:Hy^me^nae	us_i masc
+:no:Hy^me^nae	us_i masc pers_name
 
 
 Hy^me^ne_i^us		
@@ -90548,7 +90550,8 @@ I_a^si^us#2
 
 
 I^a_son		<orth>I^a_so</orth>	
-:le:Iason
+:le:Jason
+:no:J^a_s	oLn_onis masc
 :no:I^a_s	oLn_onis masc
 
 
@@ -105511,6 +105514,10 @@ I_si^a^-cus
 
 
 Ismae+l		<itype>e_lis</itype>	<itype>indecl.</itype>	<gen>m.</gen>
+:le:Ismael
+:no:Ismae_l 0_is masc pers_name
+:no:Ismahe_l 0_is masc pers_name
+
 Isma^e_li_tes		
 :le:Ismaelites
 :no:Isma^e_li_t	es_ae masc
@@ -107389,10 +107396,10 @@ juxtim
 K		<orth type=alt>k</orth>	<orth type=alt>C&aelig;so</orth>	<orth type=alt>Kar.; v. Carthago</orth>
 Ka^lendae		<orth>Cal-</orth>	
 :le:Kalendae
-:no:Ka^lend	a_ae fem pl
-:no:ka^lend	a_ae fem pl
-:no:Calend	a_ae fem pl orth
-:no:calend	a_ae fem pl orth
+:no:Ka^lend	a_ae fem pl is_month
+:no:ka^lend	a_ae fem pl is_month
+:no:Calend	a_ae fem pl orth is_month
+:no:calend	a_ae fem pl orth is_month
 
 
 
@@ -112393,7 +112400,7 @@ li^ba^no_tis
 
 Li^ba^nus#1		
 :le:Libanus
-:no:Li^ba^n	us_i masc
+:no:Li^ba^n	us_i masc pers_name
 
 
 Li_ba^nus		
@@ -120377,8 +120384,8 @@ Marru_ci_ne_
 Mars		<gen>m.</gen>
 Mar-ti^us		<orth>Ma_vorti^us</orth>	
 :le:Martius
-:aj:Mar-t	ius_ia_ium
-:aj:Ma_vort	ius_ia_ium orth
+:aj:Mar-t	ius_ia_ium geog_name
+:aj:Ma_vort	ius_ia_ium orth geog_name
 
 
 
@@ -134908,7 +134915,7 @@ no_n		<orth>noenum</orth>	<orth>noenu</orth>
 
 No_na#2		
 :le:Nona
-:no:No_n	a_ae fem
+:no:No_n	a_ae fem pl is_month
 
 
 No_na_cris		
@@ -142136,7 +142143,7 @@ o^ri^enta_lis
 	<pos>Subst.</pos>
 O^ri^enta_-les		
 :le:Orientales
-:no:O^ri^enta_-l	is_is masc pl
+:no:O^ri^enta_-l	is_is masc pl geog_name
 
 
 o^ri^enta_les		
@@ -146420,7 +146427,7 @@ pa^razo_ni^um
 
 Parca		
 :le:Parca
-:no:Parc	a_ae fem
+:no:Parc	a_ae fem pers_name
 
 
 parci^lo^qui^um		
@@ -154638,7 +154645,7 @@ Pha_ris
 
 Pha^ri^saeus		
 :le:Pharisaeus
-:no:Pha^ri^sae	us_i masc group
+:no:Pha^ri^sae	us_i masc is_group
 
 
 Pha^ri^saei		<orth>Phari_saei</orth>	
@@ -161015,12 +161022,12 @@ Po^si_de_um
 
 Po^si_do_ni^a		
 :le:Posidonia
-:no:Po^si_do_ni^	a_ae fem
+:no:Po^si_do_ni^	a_ae fem pers_name
 
 
 Po^si_do_ni^us		
 :le:Posidonius
-:no:Po^si_do_n	ius_i masc
+:no:Po^si_do_n	ius_i masc pers_name
 
 
 po^si^ti^o		
@@ -181819,7 +181826,7 @@ Sa_turni^a
 
 Sa_turna_lis		
 :le:Saturnalis
-:aj:Sa_turna_l	is_e
+:aj:Sa_turna_l	is_e pl neut is_festival
 
 	<pos>adj.</pos>
 Sa_turna_li^a		<itype>io_rum, ibus</itype>
@@ -195102,7 +195109,7 @@ sty^ra^ci^nus
 Styx		<itype>y^gis and y^gos</itype>	<gen>f.</gen>
 Sty^gi^us		
 :le:Stygius
-:aj:Sty^g	ius_ia_ium
+:aj:Sty^g	ius_ia_ium geog_name
 
 
 Sty^gi^a_lis		
@@ -207873,12 +207880,12 @@ tracta
 
 Tra_ja_nus		
 :le:Trajanus
-:no:Tra_ja_n	us_i masc
+:no:Tra_ja_n	us_i masc pers_name
 
 
 Tra_ja_nus		
 :le:Trajanus
-:aj:Tra_ja_n	us_a_um
+:aj:Tra_ja_n	us_a_um group
 
 
 tra_jecti_ci^us		<orth>-ti^us</orth>	

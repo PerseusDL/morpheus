@@ -1,8 +1,78 @@
+
+:le:Ezechias
+:no:Ezechi as_ae masc pers_name
+
+:le:Hieremias
+:no:Hieremi as_ae masc pers_name
+
+:le:Core
+:no:Cor e_es fem pers_name
+
+:le:Ioras
+:no:Ior as_ae masc pers_name
+
+:le:Lesbia
+:no:Lesbi a_ae fem pers_name
+
+:le:Academicus
+:no:Academic us_a_um is_group
+
+:le:Pythocles
+:no:Pythocl es_is masc pers_name
+
+:le:Arbiter
+:no:Arbit er_ri masc pers_name
+
+:le:Delphice
+:no:Delphic e_es fem pers_name 
+
+:le:Proselenos
+:no:Proselen os_i masc pers_name
+
+:le:Ascyltos
+:no:Ascylt os_i masc pers_name
+
+:le:Quartilla
+:no:Quartill a_ae fem pers_name
+
+:le:Scintilla
+:no:Scintill a_ae fem pers_name
+
+:le:Corinthea
+:no:Corinthe a_ae fem pers_name
+
+:le:Oenothea
+:no:Oenothe a_ae fem pers_name
+
+:le:Habinnas
+:no:Habinn as_ae masc pers_name
+
+:le:Glycon
+:no:Glyc o_oLnis masc pers_name
+
+:le:Felicio
+:no:Felici o_oLnis masc pers_name
+
+:le:Stiche
+:no:Stich e_es fem pers_name
+
+:le:Baro
+:no:Bar o_oLnis masc pers_name
+
+:le:Fortunata
+:no:Fortunat a_ae fem pers_name
+
+:le:Cyclops
+:no:Cyclop	s_is masc is_group
+:le:Giton
+:no:Git o_oLnis masc pers_name
+
 :le:Parmeno
 :no:Parmen o_oLnis masc pers_name
 
 :le:Scotus
 :no:Scot us_i masc ethnic
+:no:Scott us_i masc ethnic
 
 :le:Erinys
 :no:Erin ys_yos fem pers_name
@@ -92,9 +162,6 @@
 :le:Baal
 :wd:Baal	irreg_nom3 indecl masc pers_name
 
-:le:Iohannes
-:no:Iohann es_eLi masc pers_name
-
 :le:Ezechias
 :no:Ezechi as_a masc pers_name
 :no:Ezechi a_ae masc pers_name
@@ -135,11 +202,42 @@
 :le:Nabuchodonosor
 :wd:Nabuchodonosor	irreg_nom3 indecl masc pers_name
 
+:le:Loth
+:wd:Loth	irreg_nom3 indecl masc pers_name
+
+:le:Abram
+:wd:Abram	irreg_nom3 indecl masc pers_name
+
+:le:Nathan
+:wd:Nathan	irreg_nom3 indecl masc pers_name
+
+:le:Balaam
+:wd:Balaam	irreg_nom3 indecl masc pers_name
+
+:le:Aser
+:wd:Aser	irreg_nom3 indecl masc pers_name
+
+:le:Altissimus
+:no:Altissim us_i masc pers_name
+
+:le:Hieu
+:wd:Hieu	irreg_nom3 indecl masc pers_name
+
+:le:Sychem
+:wd:Sychem	irreg_nom3 indecl masc geog_name
 
 :le:Abraham
 :wd:Abraham	irreg_nom3 indecl masc pers_name
-:wd:Abraham	irreg_nom3 indecl masc pers_name
 
+:le:Job
+:wd:Job	irreg_nom3 indecl masc pers_name
+:wd:Iob	irreg_nom3 indecl masc pers_name
+
+:le:Galaad
+:wd:Galaad	irreg_nom3 indecl masc pers_name
+
+:le:Ruben
+:wd:Ruben	irreg_nom3 indecl masc pers_name
 
 :le:Abimelech
 :wd:Abimelech	irreg_nom3 indecl masc pers_name
@@ -156,6 +254,38 @@
 :le:Beniamin
 :wd:Beniamin	irreg_nom3 indecl masc pers_name
 
+:le:Amalech
+:wd:Amalech	irreg_nom3 indecl masc pers_name
+
+:le:Chaleb
+:wd:Chaleb	irreg_nom3 indecl masc pers_name
+
+:le:Caath
+:wd:Caath	irreg_nom3 indecl masc pers_name
+
+:le:Ioachim
+:wd:Ioachim	irreg_nom3 indecl masc pers_name
+
+:le:Osuiu
+:wd:Osuiu	irreg_nom3 indecl masc pers_name
+
+:le:Isaachar
+:wd:Isaachar	irreg_nom3 indecl masc pers_name
+
+:le:Ioannis
+:no:Ioann is_is masc pers_name
+:no:Iohann is_is masc pers_name
+:no:Iohann es_eLi masc pers_name
+:no:Ioann es_eLi masc pers_name
+:no:Joann is_is masc pers_name
+:no:Johann is_is masc pers_name
+:no:Johann es_eLi masc pers_name
+:no:Joann es_eLi masc pers_name
+
+
+:le:Auster
+:no:Aust er_ri masc pers_name
+
 :le:Ioab
 :wd:Ioab	irreg_nom3 indecl masc pers_name
 :wd:Joab	irreg_nom3 indecl masc pers_name
@@ -167,6 +297,9 @@
 :le:Moab
 :wd:Moab	irreg_nom3 indecl masc geog_name
 
+:le:Seir
+:wd:Seir	irreg_nom3 indecl masc geog_name
+
 :le:Philisthim
 :wd:Philisthim	irreg_nom3 indecl masc geog_name
 
@@ -175,6 +308,9 @@
 
 :le:Hieroboam
 :wd:Hieroboam	irreg_nom3 indecl masc geog_name
+
+:le:Assur
+:wd:Assur	irreg_nom3 indecl masc geog_name
 
 
 

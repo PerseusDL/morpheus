@@ -784,8 +784,8 @@
 :no:hymenae	us_i masc
 
 :le:Idus
-:no:I_d		us_us fem pl
-:no:Eid		us_us fem pl
+:no:I_d		us_us fem pl is_month
+:no:Eid		us_us fem pl is_month
 
 :le:jam
 :wd:jam	adverb
