@@ -3956,8 +3956,8 @@ a^e_do^ni^us
 
 Aedu^i		<orth type=alt>Haed-</orth>	
 :le:Aedui
-:no:Aedu^	us_i masc pl
-:no:Haedu^	us_i masc pl orth
+:no:Aedu^	us_i masc 
+:no:Haedu^	us_i masc orth
 
 
 
@@ -19749,12 +19749,7 @@ augustus#1
 auguste_	
 Augustus#2		
 :le:Augustus
-:no:August	us_i masc
-
-
-Augustus		
-:le:Augustus
-:aj:August	us_a_um
+:no:August	us_i masc pers_name
 
 
 aula#1		
@@ -46768,7 +46763,7 @@ Constanti_no^po^li_ta_-nus
 
 Constanti_nus		
 :le:Constantinus
-:no:Constanti_n	us_i masc
+:no:Constanti_n	us_i masc pers_name
 
 
 Constanti_ni^a_nus		
@@ -46778,7 +46773,7 @@ Constanti_ni^a_nus
 
 Constanti^us		
 :le:Constantius
-:no:Constant	ius_i masc
+:no:Constant	ius_i masc pers_name
 
 
 Constanti^a^cus		
@@ -106824,19 +106819,11 @@ Juliacum
 :no:Juliac	us_i neut
 
 
-Ju_li^a_nus#1		
-:le:Julianus
-:aj:Ju_li^a_n	us_a_um
-
-
-Ju_li^a_-ni		
-:le:Juliani
-:no:Ju_li^a_-n	us_i masc pl
-
 
 Ju_li^a_nus#2		
 :le:Julianus
-:no:Ju_li^a_n	us_i masc
+:no:Ju_li^a_n	us_i masc pers_name
+:no:Iu_li^a_n	us_i masc pers_name
 
 
 Ju_li^as		<itype>adis</itype>	<gen>f.</gen>
@@ -112956,7 +112943,7 @@ li_ci^ni^um
 
 Li^ci^ni^us		
 :le:Licinius
-:aj:Li^ci^n	ius_ia_ium
+:aj:Li^ci^n	ius_i masc pers_name
 
 
 Li^ci^ni^a		
@@ -207992,12 +207979,12 @@ transactor
 
 Trans-alpi^bus		
 :le:Transalpibus
-:wd:Trans-alpi^bus	adverb
+:wd:Trans-alpi^bus	adverb geog_name
 
 
 Trans-alpi_nus		
 :le:Transalpinus
-:aj:Trans-alpi_n	us_a_um
+:aj:Trans-alpi_n	us_a_um geog_name
 
 
 Transalpi_ni		
@@ -214099,7 +214086,7 @@ Valda^sus
 va^le^ di^co	
 Va^lens#1		
 :le:Valens
-:no:Va^l	ens_entis masc
+:no:Va^l	ens_entis masc pers_name
 
 
 va^lenti^a#1		
