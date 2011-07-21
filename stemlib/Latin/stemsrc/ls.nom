@@ -109898,7 +109898,7 @@ la^te^ri^ta_na		<orth>la^te^ri^ti^a_na</orth>
 la^te^ri^a_na		<orth>la^te^ri_si^a_na</orth>
 La^te^ri^um		
 :le:Laterium
-:no:La^te^r	ius_i neut
+:no:La^te^r	ius_i neut geog_name
 
 
 la^tex		
@@ -205213,8 +205213,8 @@ Thes-sa^lis
 	<pos>Subst.</pos>
 Thessa^lo^ni_ca		
 :le:Thessalonica
-:no:Thessa^lo^ni_c	a_ae fem
-:no:Thessa^lo^ni_c	e_es fem
+:no:Thessa^lo^ni_c	a_ae fem geog_name
+:no:Thessa^lo^ni_c	e_es fem geog_name
 
 
 Thessa^lo^ni_censes		
@@ -205223,7 +205223,8 @@ Thessa^lo^ni_censes
 
 
 Thessa^lo^ni_ce_		
-:le:Thessalonice
+:le:Thessalonica
+:no:Thessa^lo^ni_c	a_ae fem
 :no:Thessa^lo^ni_c	e_es fem
 
 
