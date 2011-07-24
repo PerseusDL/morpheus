@@ -107,7 +107,7 @@
 
 
 :le:Asuvius
-:no:Asuv	ius_i masc
+:no:Asuv	ius_i masc pers_name
 
 
 :le:Athenodorus
@@ -325,7 +325,7 @@
 
 
 :le:Habonius
-:no:Habon	ius_i masc
+:no:Habon	ius_i masc pers_name
 
 
 :le:Hagesaretus
@@ -765,7 +765,7 @@
 
 
 :le:Aeschrio
-:no:Aeschri	o_oLnis masc
+:no:Aeschri	o_oLnis masc pers_name
 
 
 :le:Aetidemus

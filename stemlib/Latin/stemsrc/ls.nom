@@ -26129,8 +26129,6 @@ Brut-ti^a_ni
 
 Brutta_tes		<itype>bilingues Ennius dixit, quod Bruttii et Osce   et Graece loqui soliti sint</itype>
 bru_tus#1		
-:le:brutus#1
-:aj:bru_t	us_a_um
 
 
 Bru_tus#2		
@@ -35383,8 +35381,8 @@ ce^re_^brum
 
 Ce_rellia		<orth type=alt>Caer-</orth>	
 :le:Cerellia
-:no:Ce_relli	a_ae fem
-:no:Caerelli	a_ae fem orth
+:no:Ce_relli	a_ae fem pers_name
+:no:Caerelli	a_ae fem orth pers_name
 
 
 
@@ -39941,7 +39939,7 @@ Cli_terni_ni
 
 Cli_to^ma^chus		
 :le:Clitomachus
-:no:Cli_to^ma^ch	us_i masc
+:no:Cli_to^ma^ch	us_i masc pers_name
 
 
 Cli_tor		
@@ -53391,13 +53389,11 @@ Cy^ni^ce_#2
 
 
 Cy^ni^cus		
-:le:Cynicus
-:no:Cy^ni^c	us_i masc
 
 	<pos>adj.</pos>
 Cy^ni^cus		
 :le:Cynicus
-:aj:Cy^ni^c	us_a_um
+:aj:Cy^ni^c	us_a_um group
 
 	<pos>adv.</pos>
 Cy^ni^ce_	
@@ -67218,7 +67214,7 @@ E^pi^cu_rus
 
 E^pi^cu_re_us		
 :le:Epicureus
-:aj:E^pi^cu_re_	us_a_um group
+:aj:E^pi^cu_re_	us_a_um is_group
 
 
 E^pi^cu_re_i		
@@ -68327,7 +68323,7 @@ e^ri_^lis		<orth>he^ri_lis</orth>
 
 E_rillus		<orth type=alt>He_rillus</orth>	
 :le:Erillus
-:no:E_rill	us_i masc
+:no:E_rill	us_i masc pers_name
 
 
 E_rilli^i		<orth type=alt>Her-</orth>	
@@ -86388,7 +86384,7 @@ He_ra_cle^o^po^li_-tae
 
 He_racle_o_tes		
 :le:Heracleotes
-:no:He_racle_o_t	es_ae masc
+:no:He_racle_o_t	es_ae masc is_ethnic
 
 
 He_racle_o_tae		
@@ -87440,7 +87436,7 @@ Hi^e^ro
 
 Hi^e^ro_ni^cus		
 :le:Hieronicus
-:aj:Hi^e^ro_ni^c	us_a_um
+:aj:Hi^e^ro_ni^c	us_a_um pers_name
 
 
 Hi^e^ro^caesa^ri_a		<orth>-e_a</orth>	
@@ -88394,7 +88390,7 @@ Ho^me_rus
 
 Ho^me_ri^cus		
 :le:Homericus
-:aj:Ho^me_ri^c	us_a_um
+:aj:Ho^me_ri^c	us_a_um group
 
 
 Ho^me_ri^a^-cus		
@@ -109586,10 +109582,6 @@ La_ri_-nas
 :aj:La_ri_-na	s_tis_adj
 
 
-La_-ri_na_tes		
-:le:Larinates
-:no:La_-ri_na_t	is_is masc pl
-
 
 La_rissa		
 :le:Larissa
@@ -119894,7 +119886,7 @@ marcus#1
 
 Marcus#2		
 :le:Marcus
-:no:Marc	us_i masc
+:no:Marc	us_i masc pers_name
 
 
 Marci^a_nus		
@@ -126368,7 +126360,7 @@ Mi^thrada_ti_um		<orth>Mi^thri^da_ti_um</orth>
 
 Mi^-thri^da_ti^cus		
 :le:Mithridaticus
-:aj:Mi^-thri^da_ti^c	us_a_um
+:aj:Mi^-thri^da_ti^c	us_a_um pers_name
 
 
 mi_ti^fi^cus		
@@ -155265,8 +155257,8 @@ Phi^lo^co_ma^si^um
 
 
 Phi^locte_ta		<orth>Phi^locte_tes</orth>	
-:le:Philocteta
-:no:Phi^locte_t	a_ae fem
+:le:Philoctetes
+:no:Phi^locte_t	es_ae fem
 
 
 Philotes		
@@ -156061,7 +156053,7 @@ phryga^ni^on
 
 Phry^ges		
 :le:Phryges
-:no:Phry^g	0_is masc pl
+:no:Phry^g	0_is masc 
 
 
 Phry^gi^a		
@@ -156116,7 +156108,6 @@ phry_nos
 :no:phry_n	os_i masc
 
 
-Phryx#1		<itype>Phry^gis</itype>	<gen>m.</gen>
 Phryxo^ni^desnymphae	
 Phthas		<gen>m.</gen>
 Phthi_a		
@@ -159994,7 +159985,7 @@ pompa_ti^lis
 
 
 Pompe_ja_nus		
-le:Pompeianus
+:le:Pompeianus
 :aj:Pompe_ja_n	us_a_um
 
 
@@ -170669,7 +170660,7 @@ pyrrhi^chi^us
 
 Pyrrho		
 :le:Pyrrho
-:no:Pyrrh	o_oLnis masc
+:no:Pyrrh	o_oLnis masc pers_name
 
 
 Pyrrho_ne^i		<orth type=alt>-o_ni^i</orth>	
@@ -170705,7 +170696,7 @@ Py_tha^go^ras
 Py_tha^go^re_us		<orth>Py_tha^go^ri_us</orth>	
 :le:Pythagoreus
 :aj:Py_tha^go^re_	us_a_um
-:aj:Py_tha^go^ri_	us_a_um orth
+:aj:Py_tha^go^ri_	us_a_um orth group
 
 
 
@@ -172414,7 +172405,7 @@ quintus#1		<orth>quinctus</orth>
 quintum		<orth>quinto_</orth>
 Quintus#2		
 :le:Quintus
-:no:Quint	us_i masc
+:no:Quint	us_i masc pers_name
 
 
 Quinta		
@@ -184730,8 +184721,8 @@ se_juncti^o
 
 Se_jus		<orth>Se_ius</orth>	
 :le:Sejus
-:no:Se_j	us_i masc
-:no:Se_i	us_i masc orth
+:no:Se_j	us_i masc pers_name
+:no:Se_i	us_i masc orth pers_name
 
 
 
@@ -187937,7 +187928,7 @@ Si^bylla		<orth>Si^bul-la</orth>
 
 Si^-bylli_nus		
 :le:Sibyllinus
-:aj:Si^-bylli_n	us_a_um
+:aj:Si^-bylli_n	us_a_um group
 
 
 si_c		<orth>si_ce</orth>	<orth>seic</orth>	
@@ -190057,7 +190048,7 @@ So_cra^tes
 
 So_cra^ti^cus		
 :le:Socraticus
-:aj:So_cra^ti^c	us_a_um
+:aj:So_cra^ti^c	us_a_um group
 
 
 So_cra^ti^ci		
@@ -197877,7 +197868,7 @@ Sulla		<orth>Sylla</orth>
 
 Sulla_nus		
 :le:Sullanus
-:aj:Sulla_n	us_a_um
+:aj:Sulla_n	us_a_um group
 
 
 Sulla_ni		
@@ -210791,7 +210782,7 @@ Tulingi
 
 Tulli^o^la		
 :le:Tulliola
-:no:Tulli^o^l	a_ae fem
+:no:Tulli^o^l	a_ae fem pers_name
 
 
 Tulli^us		
@@ -211716,7 +211707,7 @@ Tynda^-ris
 
 Tyn-da^ri^ta_ni		
 :le:Tyndaritani
-:no:Tyn-da^ri^ta_n	us_i masc pl
+:no:Tyn-da^ri^ta_n	us_i masc group
 
 
 Ty^pho_eus		<orth type=alt>trisyl.</orth>	
@@ -215614,7 +215605,7 @@ ve^ne^ra_tor
 Ve^ne^re^us		<orth>Ve^ne^ri^us</orth>	
 :le:Venereus
 :aj:Ve^ne^re^	us_a_um
-:aj:Ve^ne^ri^	us_a_um orth
+:aj:Ve^ne^ri^	us_a_um orth group
 
 
 

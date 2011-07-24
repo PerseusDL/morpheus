@@ -20,10 +20,10 @@ while(<FIN>) {
 	
 	if( /groupname|group_name|group\b/ ) {
 		$is_groupname{$curlem}++;
+print STDERR "group\t[$curlem]\t$is_groupname{$curlem}]\n";
 	}
 	
 	if( /month/ ) {
-print STDERR "month $curlem\n";
 		$is_monthname{$curlem}++;
 	}
 	
@@ -71,12 +71,13 @@ while(<>) {
 		$is_geogname{$curlem}++;
 	}
 	
-	if( /is_group|groupname|group_name/ ) {
+	if( /is_group|groupname|group_name|group\b/ ) {
 		$is_groupname{$curlem}++;
+print STDERR "group\t[$curlem]\t$is_groupname{$curlem}]\n";
 	}
 	
 	if( /month/ ) {
-		$is_month{$curlem}++;
+		$is_monthname{$curlem}++;
 	}
 	
 	if( /buildingname|building_name/ ) {
