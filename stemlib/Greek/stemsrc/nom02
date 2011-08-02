@@ -9800,10 +9800,10 @@
 @ dat
 
 :le:*)/erws
-:no:*)erw s_tos ,masc,sg,pers_name
+:no:*)erw s_tos masc pers_name
 
 :le:*)/erwtes
-:no:*)erw s_tos ,masc,pl,is_group
+:no:*)erw s_tos masc pl is_group
 
 :le:e)rwta/rion
 :no:e)rwtari os_ou neut diminutive
