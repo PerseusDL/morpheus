@@ -4650,7 +4650,7 @@ stemacc:*au)fidh/na
 :no:*au)qhtan os_ou masc suff_acc pl suff_acc
 
 :le:*au)ra/sion
-:no:*au)rasi os_ou neut
+:no:*au)rasi os_ou neut geog_name
 
 :le:*au)rani=tis
 :no:*au)rani_t is_idos fem stem_acc
@@ -5558,7 +5558,7 @@ stemacc:*bita/ca
 :no:*boui+z a_hs fem
 
 :le:*bou/lla
-:no:*boull a_hs fem
+:no:*boull a_hs fem geog_name
 
 :le:*bou/pordmos
 :no:*boupordm os_ou masc
@@ -14184,7 +14184,10 @@ stemacc:*pisigga/ra
 :no:*port a_hs fem
 
 :le:*po/rtos
-:no:*port os_ou masc
+:no:*port os_ou masc geog_name
+
+:le:*)/anths
+:no:*)ant hs_ou masc is_ethnic
 
 :le:*po/tana
 :no:*potan a_hs fem

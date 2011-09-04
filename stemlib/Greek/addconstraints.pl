@@ -29,8 +29,13 @@ while(<>) {
 
 	if(/:no.+pers_name/ ) {
 		$groupv = $_;
+		$savev = $groupv;
 		$groupv =~ s#pers_name#is_group#;
 		$groupv =~ s#\bsg\b#pl#;
+		print ":le:$curlemma-pl\n$groupv\n$curlemma\n";
+	
+		$groupv = $savev;
+		$groupv =~ s#\bsg\b#dual#;
 		print ":le:$curlemma-pl\n$groupv\n$curlemma\n";
 	}
 }
