@@ -4310,8 +4310,9 @@
 :wd:tau= indecl neut
 
 :le:*tau/geton
-:no:*tau+get os_ou neut
-:no:*thuget os_ou neut  ionic epic
+:no:*tau+get os_ou neut geog_name
+:no:*thuget os_ou neut  ionic epic geog_name
+:no:*thuget os_ou masc  ionic epic geog_name
 
 :le:tau/reios
 :aj:taurei os_h_on

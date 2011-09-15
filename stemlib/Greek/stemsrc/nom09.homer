@@ -120,9 +120,6 @@
 :le:*brishi/+s
 :no:*brish is_idos fem suff_acc sg
 
-:le:*bruseiai/
-:no:*brusei h_hs fem suff_acc geog_name sg
-
 :le:*gai=a
 :no:*gai a_hs fem sg
 :no:*g eh_ehs fem sg
@@ -354,8 +351,9 @@
 :le:*qrasumh/dhs
 :no:*qrasumhd hs_eos masc sg
 
-:le:*qw=nos
-:wd:*qw=nos  irreg_decl3 gen sg epic
+:le:*qw=n
+:wd:*qw=n irreg_decl3 masc nom sg pers_name
+:wd:*qw=nos irreg_decl3 masc gen sg pers_name
 
 :le:*)iasi/wn
 :no:*)iasiw n_nos masc sg
@@ -481,7 +479,8 @@
 :no:*kudw n_nos masc pl 
 
 :le:*kuparissh/eis
-:wd:*kuparissh/enta  irreg_decl3 fem geog_name acc sg
+:wd:*kuparissh/eis  irreg_decl3 fem geog_name nom sg geog_name
+:wd:*kuparissh/enta  irreg_decl3 fem geog_name acc sg geog_name
 
 :le:*kupa/rissos
 :no:*kupariss os_ou fem geog_name sg
@@ -514,7 +513,8 @@
 :le:*laome/dwn
 :no:*laomed wn_ontos masc sg
 
-:le:*leiw/dhs
+:le:*lhw/dhs
+:no:*lhwd hs_eos masc sg
 :no:*leiwd hs_eos masc sg
 
 :le:*le/leges
@@ -550,7 +550,10 @@
 :no:*maka r_ros masc sg
 
 :le:*ma/leia
-:no:*malei a_hs fem sg
+:no:*malei a_hs fem geog_name
+
+:le:*mastori/dhs
+:no:*mastorid hs_ou masc pers_name
 
 :le:*mantine/h
 :no:*mantine h_hs fem geog_name sg
@@ -657,7 +660,13 @@
 :no:*)orq h_hs fem geog_name sg
 
 :le:*)orneiai/
-:no:*)ornei h_hs fem suff_acc geog_name sg
+:no:*)ornei h_hs fem suff_acc geog_name 
+
+:le:*te/ktwn
+:no:*te/kt wn_ontos masc pers_name
+
+:le:*threi/h
+:no:*threi h_hs fem geog_name
 
 :le:*)/ossa
 :no:*)oss a_hs fem geog_name sg
@@ -833,7 +842,16 @@
 
 :le:*tri/kkh
 :no:*trikk h_hs fem geog_name sg
-:no:*trik h_hs fem geog_name sg
+:no:*tri_k h_hs fem geog_name sg
+
+:le:*(upoqh=bai
+:no:*(upoqhb h_hs fem geog_name pl stem_acc
+
+:le:*(uponh/i+os
+:no:*(uponhi+ os_ou masc geog_name
+
+:le:*(upopla/kios
+:no:*(upoplaki os_h_on geog_name
 
 :le:*(ua/mpolis
 :no:*(uampol is_ews fem geog_name sg
@@ -851,9 +869,6 @@
 :no:*(uperhsi h_hs fem geog_name sg
 :wd:*(uperhsi/hnde adverb geog_name
 
-:le:*(upoqh=bai
-:no:*(upoqhb h_hs fem pl geog_name 
-
 :le:*(upoplaki/h
 :no:*(upoplaki h_hs fem geog_name sg
 
@@ -863,7 +878,10 @@
 :le:*(urmi/nh
 :no:*(urmin h_hs fem geog_name sg
 
-:le:*fai/noy
+:le:*fqi=res
+:no:*fqi_r hs_es neut geog_name
+
+:le:*fai=noy
 :no:*faino y_pos masc sg
 
 :le:*fa=ris
@@ -948,3 +966,6 @@
 
 :le:metama/zion
 :wd:metama/zion adverb
+
+:le:*)/wy
+:no:*)w y_pos masc pers_name

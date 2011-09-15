@@ -111122,10 +111122,14 @@
 :aj:*phlei os_h_on
 
 :le:*phlei/dhs
-:no:*phleid hs_ou masc stem_acc
+:no:*phleid hs_ou masc stem_acc pers_name
+
+:le:*porqeu/s
+:no:*porq eus_ews suff_acc masc pers_name
 
 :le:*phlei/wn
-:no:*phleiw n_nos masc
+:no:*phleiw n_nos masc stem_acc  pers_name
+:wd:*phlei/+wna/de adverb pers_name
 
 :le:*phlia/s
 :no:*phlia s_dos fem stem_acc

@@ -11536,6 +11536,13 @@
 
 :le:*selloi/
 :no:*sell os_ou,suff_acc,pl,masc
+:no:*(ell os_ou,suff_acc,pl,masc
+
+:le:*)/efuroi
+:no:*)efur os_ou masc is_ethnic
+
+:le:*)hi+o/nes
+:no:*)hi+ wn_onos masc pl geog_name
 
 :le:se/lma
 :no:sel ma_matos neut

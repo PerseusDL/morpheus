@@ -1,5 +1,41 @@
+:le:*pteleo/s
+:no:*ptele os_ou masc suff_acc geog_name
+
+:le:*)ikma/lios
+:no:*)ikmali os_ou masc pers_name
+
+:le:*)ileu/s
+:no:*)il eus_ews masc suff_acc pers_name
+
+:le:*)imbasi/dhs
+:no:*)imbasid hs_ou masc pers_name
+
+:le:*fh=res
+:no:*fh r_ros masc groupname
+
+:le:*bih/nwr
+:no:*bihnw r_ros masc pers_name
+
+:le:*bruseiai/
+:no:*brusei h_hs fem pl geog_name suff_acc
+
+:le:*glisa=s
+:no:*glis eas_eantos masc geog_name
+
+:le:*gurai/
+:no:*gur h_hs fem pl geog_name suff_acc
+
+:le:*dai/twr
+:no:*dait wr_oros masc pers_name 
+
+:le:*drh=sos
+:no:*drhs os_ou masc pers_name
+
+:le:*)agakle/hs
+:no:*)aga klehs_kleous masc pers_name
+
 :le:*pela/gios
-:no:*pelagios os_ou masc pers_name
+:no:*pelagi os_ou masc pers_name
 
 :le:*be/netos
 :no:*benet os_ou masc is_ethnic
@@ -13,8 +49,8 @@
 :le:*eu)doci/a
 :no:*eu)doci h_hs fem pers_name
 
-:le:*sa/lwnai
-:no:*salwn h_hs fem geog_name
+:le:*sa/lwnes
+:no:*salw n_nos masc geog_name
 
 :le:*si/ttas
 :no:*sitt as_a masc pers_name
@@ -58,8 +94,8 @@
 :le:*fra/ggos
 :no:*fragg os_ou masc is_ethnic
 
-:le: *)/eroulos
-:no: *)eroul os_ou masc is_ethnic
+:le:*)/eroulos
+:no:*)eroul os_ou masc is_ethnic
 
 :le:*perti/nac
 :no:*pertina c_kos masc pers_name ant_acc
@@ -111,7 +147,7 @@
 :no:*gotq os_ou masc is_ethnic
 
 :le:*xosro/hs
-:no:*xosro hs_ou masc pers_hame
+:no:*xosro hs_ou masc pers_name
 
 :le:*touti/las
 :no:*toutil as_a masc pers_name
@@ -138,7 +174,7 @@
 :no:*noumidi h_hs fem geog_name
 
 :le:*li/gouros
-:no:*ligouro os_ou masc is_ethnic
+:no:*ligour os_ou masc is_ethnic
 
 :le:*druou=s
 :no:*dru oeis_oentos masc geog_name
@@ -12202,6 +12238,13 @@ aj:*koropai os_h_on stem_acc is_ethnic
 
 :le:*)aliqe/rshs
 :no:*)aliqers hs_ou masc  
+:no:*(aliqers hs_ou masc  
+
+:le:*amfotero/s
+:no:*amfoter os_ou masc suff_acc pers_name
+
+:le:*)apei/rh
+:no:*)apeir h_hs fem geog_name
 
 :le:*)almw/nhs
 :no:*)almwn hs_eos masc  

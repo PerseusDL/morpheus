@@ -100,7 +100,7 @@
 :no:*ai)gial	os_ou masc suff_acc sg pers_name
 
 :le:*ai)gi/liy
-:no:*ai)gili y_pos fem geog_name sg
+:no:*ai)gili y_pos fem geog_name sg geog_name ant_acc
 
 :le:*ai)/gion
 :no:*ai)gi	os_ou neut geog_name sg
@@ -862,6 +862,10 @@
 
 :le:*)enetoi/
 :no:*)enet	os_ou masc pl suff_acc is_ethnic
+:no:*)enet	hs_ou masc pl suff_acc is_ethnic
+
+:le:*lith/
+:no:*lit h_hs fem suff_acc group_name
 
 :le:*)enipeu/s
 :no:*)enip	eus_ews masc suff_acc sg pers_name
@@ -1069,6 +1073,9 @@
 
 :le:*)heri/boia
 :no:*)heriboi	a_hs fem sg pers_name
+
+:le:*)hi+o/nes
+:no:*)hi+on hs_es neut geog_name stem_acc
 
 :le:*)hi+oneu/s
 :no:*)hi+on	eus_ews masc suff_acc sg pers_name
@@ -1300,6 +1307,15 @@
 :le:*)ifiklhei/h
 :no:*)ifiklhei	h_hs fem stem_acc sg pers_name
 
+:le:*)ifiklh/eios
+:no:*)ifiklhei	os_ou fem sg pers_name
+
+:le:*sa/tnios
+:no:*satni os_ou masc pers_name
+
+:le:*mh|/wn
+:no:*mh| wn_onos masc is_ethnic
+
 :le:*)/ifiklos
 :no:*)ifikl	os_ou masc sg pers_name
 
@@ -1499,7 +1515,8 @@
 :le:*lapi/qai
 :no:*lapiq	hs_ou masc pl stem_acc  is_ethnic
 
-:le:*leiw/kritos
+:le:*lho/kritos
+:no:*lhokrit	os_ou masc sg pers_name
 :no:*leiwkrit	os_ou masc sg pers_name
 
 :le:*lekto/s
