@@ -62,7 +62,7 @@ static Morph_args ** key_table = NULL;
 		lemma = lemma_of(Gkword);
 	}
 	if( Gkword && oddkeys_of(Gkword) )
-		*(oddkeys_of(Gkword)) = 0;
+		oddkeys_of(Gkword) = NULL;
 	Xstrncpy((char *)savekeys,(const char *)s,(size_t)LONGSTRING);
 
 	while(nextkey(savekeys,curkey)) {
