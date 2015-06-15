@@ -54,13 +54,13 @@ stemsrc/lemlist:
 	    cut -d":" -f 3 | sort | awk '{print $$1 " "}' > stemsrc/lemlist
 
 stemind/nomind:	stemsrc/lsj.nom getentities.pl
-	addconstraints.pl $(nomsrc) stemsrc/lsj.nom \
+	./addconstraints.pl $(nomsrc) stemsrc/lsj.nom \
 	    stemsrc/lsj.byhand > /tmp/nommorph
-	getentities.pl /tmp/nommorph  > steminds/entitylist.txt
+	./getentities.pl /tmp/nommorph  > steminds/entitylist.txt
 	indexnoms
 
 entities: stemsrc/entitylist-byhand.txt
-	getentities.pl stemsrc/entitylist-byhand.txt  $(nomsrc) stemsrc/lsj.nom stemsrc/lsj.byhand > steminds/entitylist.txt
+	./getentities.pl stemsrc/entitylist-byhand.txt  $(nomsrc) stemsrc/lsj.nom stemsrc/lsj.byhand > steminds/entitylist.txt
 	
 
 ia.noms:

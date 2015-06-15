@@ -107,9 +107,10 @@ char *argv[];
       timeit = 0;
       break;
     case 'o':
-      if (!strcmp(optarg,"-"))
-	fstats = foutput = ffailed = stdout;
-      else {
+      if (!strcmp(optarg,"-")) {
+	foutput = stdout;
+	fstats = ffailed = stderr;
+      } else {
 	strcpy(outname,optarg);
 	sprintf(failedname,"%s.failed",outname);
 	sprintf(statsname,"%s.stats",outname);
@@ -125,7 +126,7 @@ printf("outname [%s]\n", outname );
     finput = stdin;
     foutput = stdout;
 
-    fstats = ffailed = stdout;
+    fstats = ffailed = stderr;
   } else {
     strcpy(fname,argv[optind++]);
     strcpy(inpname,fname);
@@ -156,12 +157,12 @@ fprintf(stdout,"files: [%s] [%s]\n", outname, failedname);
     exit(-1);
   }
   
-  if( ffailed != stdout && ((ffailed=fopen(failedname,"w")) == NULL)) {
+  if( ffailed != stderr && ((ffailed=fopen(failedname,"w")) == NULL)) {
     fprintf(stderr,"cannot open [%s]!\n", failedname);
     exit(-1);
   }
   
-  if( fstats != stdout && ((fstats=fopen(statsname,"w")) == NULL)) {
+  if( fstats != stderr && ((fstats=fopen(statsname,"w")) == NULL)) {
     fprintf(stderr,"cannot open [%s]!\n", statsname);
     exit(-1);
   }

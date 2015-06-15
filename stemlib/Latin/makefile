@@ -17,6 +17,7 @@ compnoms:
 	indexcomps < /tmp/nommorph | sort | compcomps > /tmp/nom.heads
 
 deriv:
+	mkdir -p derivs/ascii derivs/indices derivs/out
 	buildderiv -L all
 	indderivtables -L
 
@@ -28,6 +29,7 @@ VBFILES=stemsrc/vbs.latin.bas stemsrc/vbs.latin.irreg stemsrc/vbs.latin \
 	stemsrc/vbs.irreg stemsrc/vbs.mpi
 
 stemind/vbind:	stemsrc/vbs.latin
+	mkdir -p steminds
 	cat ${VBFILES} | \
 	    perl -pe 's/([a-z])([aei])_v[ \t]+perfstem/$$1\t$$2vperf/g;' > \
 	    conjfile
@@ -47,6 +49,7 @@ stemsrc/lemlist:
 	    cut -d":" -f 3 | sort | awk '{print $$1 " "}' > stemsrc/lemlist
 
 stemind/nomind:	stemsrc/ls.nom ../Greek/getentities.pl
+	mkdir -p steminds
 	cat stemsrc/nom.* stemsrc/ls.nom > /tmp/nommorph
 	../Greek/getentities.pl /tmp/nommorph  > steminds/entitylist.txt
 	indexnoms -L
