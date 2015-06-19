@@ -1,0 +1,555 @@
+<html>
+<head>
+<title>Morpheus</title>
+</head>
+
+<body bgcolor=white text=black>
+<h2>The Care and Feeding of Morpheus</h2>
+
+<p>Morpheus is the morphological analysis engine that underlies all
+the Perseus language tools.  It is described in Crane 1991.<sup><a href=#n1>1</a></sup>
+Support for Greek is detailed and robust.  Support for Latin is reasonably complete,
+though some archaic or late forms may be missing, and the vocabulary is not as full
+as in Greek.  Support for Italian is rudimentary.
+
+<p>The component parts of Morpheus are:
+<ul>
+<li>the <a href=#endings>endings database</a>
+<li>the <a href=#stems>stems files</a>
+<li>the <a href=#compile>compilation utilities</a>
+<li>the <a href=#cruncher>analysis utility</a>
+</ul>
+All of the code is in C, and compiles and runs with gcc on every platform where it has
+been tested.  There are also post-processing routines of various kinds which integrate
+Morpheus into the Perseus system;  these properly belong to the text system rather than
+to Morpheus itself, so will only be mentioned briefly here.
+
+<p>Code and data for Morpheus are stored in a single directory tree, conventionally <tt>..../morph</tt>.
+The tree can be anywhere, though it is often placed in the <tt>sgml</tt> tree as a sibling of <tt>..../sgml/texts</tt>
+and <tt>..../sgml/xml</tt>.  This tree has the following structure:
+
+<table>
+<tr><td></td> <td>bin</td> <td>(executables)</td></tr>
+<tr><td></td> <td>src</td> <td>(several subdirectories;  see <a href=#internals>below</a>)</td></tr>
+<tr><td>morph</td> <td></td> <td>Greek</td></tr>
+<tr><td></td> <td>stemlib</td> <td>Latin</td></tr>
+<tr><td></td> <td></td> <td>Italian</td></tr>
+</table>
+</pre>
+
+<p>In what follows, these components will be described in order of increasing complexity.
+
+<a name=cruncher><h3><font color=green>Analysis:  the end-user view</font></h3>
+<p>The primary user interface to Morpheus itself is <tt>cruncher</tt>.<sup><a href=#n2>2</a></sup>
+In simplest terms, it reads words from standard input and writes their possible morphological analyses to 
+standard output.  Here is an example;  user input is in <font color=green><b>green</b></font> and 
+program replies in <font color=brown>brown</font>.
+
+<pre>
+$ <font color=green><b>cruncher</b></font>
+<font color=green><b>ai)/louros</b></font>
+<font color=brown>&lt;NL>N ai)/louros  masc/fem nom sg                       os_ou&lt;/NL></font>
+<font color=green><b>ai)/louroz</b></font>
+<font color=brown>ai)/louroz</font>
+<font color=green><b>^D</b></font>
+$ 
+</pre>
+
+The default language is Greek, and Greek must be entered in beta-code.<sup><a href=#n3>3</a></sup>
+For Italian, use the beta-code convention for accents, writing &agrave; as <tt>a\</tt>.
+
+<p>If you enter a word that Morpheus does not recognize, it will simply echo it back to you.  This can
+happen when the word is mis-spelled or is not correct Greek, as in the example;  it can also happen
+with legitimate words or forms that are not known to Morpheus.  (This will be very rare in Greek, 
+will happen occasionally in classical Latin, and will be fairly common in Italian.)
+
+<p>The following are the commonly used command-line switches.
+
+<table border=1>
+<tr><th>Switch</th> <th>Use</th></tr>
+<tr><td>-L</td> <td>sets language to <b>L</b>atin</td></tr>
+<tr><td>-I</td> <td>sets language to <b>I</b>talian</td></tr>
+<tr><td>-S</td> <td>turn off <b>S</b>trict case.  For Greek, allows words with an initial capital to be recognized,
+so that for example the personification <tt>*tu/xhs</tt> at Soph. OT 1080 is recognized as the genitive singular of <tt>tu/xh</tt>.
+For languages in the Roman alphabet, allows words with initial capital or in all capitals to be recognized.</td></tr>
+<tr><td>-n</td> <td>ignore acce<b>n</b>ts.  Allows words with no accents or breathings, or with incorrect ones, to be 
+recognized.</td></tr>
+</table>
+
+<p>The following other switches are supported.
+<table border=1>
+<tr><th>Switch</th> <th>Use</th></tr>
+<tr><td>-d</td> <td><b>d</b>atabase format.  This switch changes the output from "Perseus format" to "database format."  Output appears in a series of tagged fields.</td></tr>
+<tr><td>-e</td> <td><b>e</b>nding index.  Instead of showing the analysis in readable form, this switch gives the indices of the tense, mood, case, number, and so on (as appropriate) in the internal tables.</td></tr>
+<tr><td>-k</td> <td><b>k</b>eep beta-code.  When "Perseus format" is enabled (the default), this switch does nothing.  When "Perseus format" is off, Greek output is normally converted to the old Greek Keys encoding.  This switch disables that conversion so that Greek output stays in beta-code.  Note that the handling of this switch was not updated when Latin was implemented, so when "Perseus format" is disabled, Latin and Italian will also be converted to this Greek font encoding.  Hence if you are disabling Perseus format in those languages, you should also set the -k switch.</td></tr>
+<tr><td>-l</td> <td>show <b>l</b>emma.  When this switch is set, instead of printing the entire analysis, cruncher will only show the lemma or headword from which the 
+given form is made.</td></tr>
+<tr><td>-P</td> <td> turn off <b>P</b>erseus format.  Output will be in the form<br>
+<tt>$feminam&  is^M   &from$  femina^M      $fe_minam^M        [&stem $fe_min-& ]^M         & a_ae fem acc sg^M</tt><br>
+Note the returns, without line feeds, between the fields.</td></tr>
+<tr><td>-V</td> <td>analyze <b>V</b>erbs only.  When this switch is set, words that are not verbs will not be recognized, and words that could be analyzed as either verb forms or noun forms will be treated as certainly verbs</td></tr>
+</table>
+
+<p>The following switches, which appear in the main routine, do nothing.
+<table border=1>
+<tr><th>Switch</th> <th>Use</th></tr>
+<tr><td>-a</td> <td>sets the SHOW_ANAL flag, which is never checked </td></tr>
+<tr><td>-b</td> <td>sets the BUFFER_ANALS flag, which is no longer checked </td></tr>
+<tr><td>-c</td> <td>sets the CHECK_PREVERB flag, which is no longer checked </td></tr>
+<tr><td>-i</td> <td>sets the SHOW_FULL_INFO flag, which is never checked </td></tr>
+<tr><td>-m</td> <td>sets the SHOW_MISSES flag, which is never checked </td></tr>
+<tr><td>-p</td> <td>sets the PARSE_FORMAT flag, which is unconditionally turned on later anyway</td></tr>
+<tr><td>-s</td> <td>sets the DBASESHORT flag, which is checked only in a routine that is never called</td></tr>
+<tr><td>-x</td> <td>sets the LEXICON_OUTPUT flag, which is checked only in a routine that is never called</td></tr>
+</table>
+
+<a name=stems><h3><font color=green>Adding stems</font></h3>
+<p>Morpheus recognizes inflected words by comparing the given forms to known <b>stems</b> and <b>endings</b>.  Stems
+are defined to belong to particular inflectional classes, for example first-declension nouns or second-conjugation verbs.  Making a
+new word available to Morpheus involves adding it to the appropriate stems files.
+
+<p>Stems files are in the <tt>stemsrc</tt> directory under the
+appropriate language in the Morpheus tree.  For example, stems for
+Latin are in <tt>..../morph/stemlib/Latin/stemsrc</tt>.  Stems for
+verbs and nouns are filed separately, because they are compiled by
+different routines.  Indeclinable words, by convention, go into the
+nouns files.  Adjectives are not distinguished from nouns.
+
+<p>The existing stem files for each supported language include one each for irregular nouns and verbs, one each for
+nouns and verbs extracted from the major dictionary, and one or more additional files for words that are not in the
+dictionary.  These additional files are typically used for words appearing in texts outside the classical period
+(for example in Byzantine Greek or Neo-Latin) or for proper names.  Most such words are nouns, but there is no reason
+there could not be additional verb files as well.  It is convenient for maintenance to use a separate stem file for
+each new group of unusual words.  For example, in Latin, <tt>nom.01</tt> contains common quasi-regular words,
+<tt>nom.02</tt> mostly contains words from Plautus, plus the larger numbers, <tt>nom.03</tt> mostly contains words from Glass's
+biography of George Washington, and <tt>nom.04</tt> contains words from the Vulgate.
+
+<p>The format of a stem file entry is like this:
+
+<pre>
+:le:<i>lemma</i>
+:xx:<i>stem</i> <i>class</i> <i>other</i>
+</pre>
+
+Lines in the file that do not begin with a keyword enclosed in colons are ignored.  Each line begins with a keyword identifying
+the type of word.  The first line must have the <tt>:le:</tt> keyword, for the lemma or headword.  The next line has a "part of speech" keyword.  There
+may be more than one "part of speech" line for a given lemma.  In each "part of speech" line, the first field is the stem.  It
+must be followed by a tab.  The rest of the line contains codes for inflectional class and gender, separated by spaces.
+
+<p>The lemma is given in its ordinary form.  Vowel quantities are marked only in the stem field, not the lemma.  Long vowels are marked by
+a following underscore, short vowels by a following up-arrow.  It is not necessary to mark the quantities of unambiguous Greek letters
+(eta, epsilon, omega, omicron), vowels whose quantity is clear from the accent, or vowels in closed syllables;  vowels otherwise not
+marked are considered short.  In Greek, the stem field has no accent, though it must have a breathing if the word begins with a vowel.
+
+<p>Here are some examples.
+
+<p>Latin nouns:
+<pre>
+:le:femina
+:no:fe_mi^n     a_ae fem
+
+:le:amor
+:no:am or_oLris masc
+
+:le:Americanus
+:aj:America_n   us_a_um
+</pre>
+
+<p>Latin verbs:
+<pre>
+:le:quiesco
+:vs:quiesc      conj3
+:vs:quie_v      perfstem
+:vs:quie_t      pp4
+
+:le:creo
+:de:cre are_vb
+</pre>
+
+<p>Greek nouns:
+<pre>
+:le:ai)/louros
+:no:ai)elour os_ou masc fem
+:no:ai)lour os_ou masc fem
+
+:le:deino/s
+:aj:dein os_h_on suff_acc
+</pre>
+
+<p>Greek verbs:
+<pre>
+:le:nomi/zw
+:de:nom izw
+
+:le:gra/fw
+:vs:gra^f aor2_pass
+@ fut
+</pre>
+
+<p>The following are the keywords recognized in stems files.
+<table border=1>
+<tr><th>keyword</th> <th>indicates</th></tr>
+<tr><td>:le:</td> <td>lemma or headword</td></tr>
+<tr><td>:wd:</td> <td>indeclinable form (preposition, adverb, interjection, etc.) or unanalyzed irregular form</td></tr>
+<tr><td>:aj:</td> <td>adjective;  must have an inflectional class</td></tr>
+<tr><td>:no:</td> <td>noun;  must have an inflectional class and a gender</td></tr>
+<tr><td>:vb:</td> <td>verb form;  for unanalyzed irregular forms</td></tr>
+<tr><td>:de:</td> <td>derivable verb;  must have an inflectional class</td></tr>
+<tr><td>:vs:</td> <td>verb stem, one of the principal parts;  must have an inflectional class</td></tr>
+</table>
+
+<p>The inflectional class codes are different for each language.  They are the base names of the
+files in <tt>..../morph/stemlib/<i>language</i>/endtables/source</tt>.  In general the easiest way
+to determine the correct class codes is to look at a similar word -- another noun of the same declension,
+for example.  Gender codes are <tt>masc, fem, neut, masc/fem, masc/neut</tt>, the latter two used
+when endings for the two genders are the same.  Use "<tt>masc fem</tt>" for a noun that can be of
+either gender.  Other codes, for number, person, tense, mood, voice, or case, usually only appear in the
+stems files for irregular forms;  these codes are listed under <a href=endings>"Adding and changing endings."</a>.
+
+<p>In general the class code for a noun declension will look like the nominative and genitive, for
+example <tt>a_ae</tt> for the Latin first declension.  For an adjective, it will look like the
+three nominative forms, for example <tt>os_h_on</tt> for Greek first-and-second declension adjectives.
+Verbs are a bit more complex since the several stems usually need to be specified separately, except
+for highly predictable groups like the Latin first conjugation.
+
+<p>Most of the new words that will need to be added are regular, because virtually all of the irregular
+words are already in the stems files (even for Italian), since they are the most common words in the
+language.
+
+<a name=compile><p>Once you have added your words, you need to compile the database.  In the next
+directory up from the stems files, that is <tt>..../morph/stemlib/<i>language</i>/stemlib</tt>, you 
+will find a make file;  simply <tt>make all</tt>.  Note several assumptions in these make files:
+
+<ul>
+<li>All nouns files have the string <tt>nom</tt> in their names.
+<li>All verbs files have the string <tt>vbs</tt> in their names.
+<li>All files of the form nom.* or nom[0-9]* are nouns files to be compiled.
+<li>All programs are in the path.
+</ul>
+
+<p>The compilation utilities, like <tt>cruncher</tt> itself, rely on the <tt>MORPHLIB</tt> environment
+variable.  This must be set to <tt>..../morph/stemlib</tt>, wherever that is on your system.  All of the
+code is in <tt>..../morph/bin</tt>, which must be on the path.
+
+<p>The compilation will produce various messages, most of which can be ignored.  True errors
+will be reported by <tt>make</tt> in the usual way.  Here are examples of the most common messages:
+
+<ul>
+<li>From <tt>buildend</tt>:<br>
+<tt><font color=purple>MorphFopen: could not open [/data/sgml/morph/stemlib/Latin/endtables/source/or_uris.end]</font></tt><br>
+This indicates that there is a reference to inflectional class <tt>or_uris</tt> somewhere in the definitions
+of endings, but no actual definition for its endings.  The stray reference may be in
+an ordinary endings files (in directory <tt>..../morph/stemlib/<i>language</i>/endings/source</tt>),
+a basic endings file (<tt>..../morph/stemlib/<i>language</i>/endings/basics</tt>),
+a derivation file (<tt>..../morph/stemlib/<i>language</i>/derivs/source</tt>),
+or a rules file (<tt>..../morph/stemlib/<i>language</i>/rule_files</tt>).  If you intend to use this inflectional
+class, you will need to create its endings file.<br>
+If you see this message, you will also see<br>
+<tt><font color=purple>could not open [or_uris.end] or [endtables/source/or_uris.end]</font></tt> and, from <tt>indendtables</tt>,<br>
+<tt><font color=purple>MorphFopen: could not open [/data/sgml/morph/stemlib/Latin/endtables/out/or_uris.out]</font></tt>
+<li>From <tt>buildend</tt>:<br>
+<tt><font color=purple>endtables/ascii/a_ae.asc</font></tt><br>
+This is a progress message.
+<li>From <tt>indendtables</tt>:<br>
+<tt><font color=purple>stype 14000<br>
+stype [14000]<br>
+output file:endtables/indices/nendind</font></tt><br>
+This is a success message indicating the output file the program has created.
+<li>From <tt>indexnoms</tt> or <tt>indexvbs</tt>:<br>
+<tt><font color=purple>1000) [2quamquam :quisquam:indef:fem:acc:sg]</font></tt><br>
+This is a progress message.
+<li>From <tt>indexnoms</tt> or <tt>indexvbs</tt>:<br>
+<tt><font color=purple>out of qsort<br>
+done with i=46975, 0<br>
+about to index [steminds/nomind]<br>
+have just indexed [steminds/nomind]<br>
+bufsiz 5631748 bytes<br>
+allocated 5631748 bytes successfully!<br>
+stemcount 46975</font></tt>
+This is a progress message.
+<li>From <tt>indexnoms</tt>:<br>
+<tt><font color=purple>processing 5000: Bacchylid :Bacchylides:es_is:masc</font></tt><br>
+This is a progress message.
+<li>From <tt>do_conj</tt>:<br>
+<tt><font color=purple>rval 0 stembuf [br] global [] deriv [o_stem] tk [vn,-mm,h_hs]</font></tt><br>
+This indicates that no verb conjugation information could be deduced for the partial stem <tt>br</tt>.
+<li>From <tt>buildderiv</tt>:<br>
+<tt><font color=purple>compiling deriv [ire_vb]<br>
+derivs/ascii/ire_vb.asc</font></tt><br>
+This is a progress message.
+<li>From <tt>buildderiv</tt>:<br>
+<tt><font color=purple>[reg_conj] not a regular conj [1000003] [2000000]</font></tt><br>
+This indicates that the given verb derivation rule (in <tt>..../morph/stemlib/<i>language</i>/rule_files/derivtypes.table</tt>) is
+not flagged as a regular derivation.
+<li>From <tt>buildderiv</tt>:<br>
+<tt><font color=purple>output file:derivs/indices/derivind</font></tt><br>
+This is a successful completion message.
+</ul>
+
+<p>In general if you mis-type inflectional class information in a stems file, you will not get a
+message from the compilation process.  You should therefore check your new words once your compilation has 
+finished.  Do this by running <tt>cruncher</tt> and entering several forms of the new words.  If they
+are not recognized, then you have mis-typed something in the stems file.
+
+<a name=endings><h3><font color=green>Adding and changing endings</font></h3>
+<p>Although the main morphological classes for the supported languages are all defined,
+it is occasionally necessary to correct a problem, or to add a dialect form.  Endings
+are defined in the <tt>..../morph/stemlib/<i>language</i>/endtables</tt> directory
+and its subdirectories.  Two subdirectories, <tt>basics</tt> and <tt>source</tt>, contain
+files that can be edited;  the others, <tt>ascii</tt>, <tt>indices</tt>, and <tt>out</tt>,
+contain the compiled representations of the input files.
+
+<p>The files in <tt>..../endtables/source</tt> define the inflectional classes.  The names
+of these files are the inflectional class codes that appear in the stems files.  For example,
+the endings for Latin fifth-declension nouns are defined in <tt>es_ei.end</tt> and those nouns
+are listed in the stems files like this:
+
+<pre>
+:le:facies
+:no:fa^ci^      es_ei fem
+</pre>
+
+<p>Here is the content of <tt>es_ei.end</tt>:
+
+<pre>
+e_s	masc fem nom sg
+ei_ 	gen sg
+ei_	dat sg
+em	masc fem acc sg
+e_	abl sg
+
+e_s	masc fem nom pl
+e_rum	gen pl
+e_bus	dat pl
+e_s	masc fem acc pl
+e_bus	abl pl
+
+e_	dat sg early poetic
+e_	gen sg early poetic
+</pre>
+
+In this file, blank lines are ignored.  Non-blank lines have two fields, separated by a tab.
+The first field is the ending and the second tells where it is used.  For example, the first
+line of the file says that <tt>e_s</tt> (that is, <tt>-es</tt> with a long e) is the ending
+for masculine and feminine nominative singular.  The gender could in fact have been omitted,
+as it is for other cases, since all fifth-declension nouns have the same endings regardless
+of gender.  (Moreover, every noun in this declension is feminine except <i>dies</i> and its
+compounds.)  Long vowels are marked as in the stems files, with a following underline.  Short
+vowels are not marked.
+
+<p>The codes for genders are as in the stems files, <tt>masc, fem, neut, masc/fem, masc/neut</tt>.
+Number codes are <tt>sg, dual, pl</tt>.  Cases are <tt>nom, gen, dat, acc, abl, voc</tt>.
+For verbs, persons are <tt>1st, 2nd, 3rd</tt>, numbers are as for nouns, and voices are <tt>act, mid, pass, mp</tt>.
+Tenses are <tt>pres, imperf, fut, aor, perf, plup, futperf</tt>.  Moods are <tt>ind, subj, opt, imperat, inf, part,
+supine, gerundive</tt> (there is no code for the gerund as distinct from the gerundive).
+
+<p>Other modifying codes include <tt>early, poetic, attic, doric</tt>, and so on.  All of these codes
+are defined in <tt>morphkeys.h</tt> in the <tt>src/morphlib</tt> subdirectory (see <a name=internals>below</a>).
+
+<p>The endings file for the Latin fifth declension is not typical.  More often, an inflectional
+class is defined by reference to another class.  For example, participles use the endings of adjectives,
+and several different verb tenses and moods use the same groups of endings.  To express these relationships,
+Morpheus defines basic endings and then references them in inflectional class files.  For example, the
+Greek noun class <tt>c_ktos</tt> (as in <i>anax</i>) is defined like this:
+
+<pre>
+c c_ktos masc fem nom voc sg 
+* c_ktos neut nom voc acc sg
+kt@decl3 c_ktos
+</pre>
+
+This says that masculine and feminine nouns of this class have their nominatives ending in <tt>c</tt>,
+neuters have simply the stem for the nominative, and the remaining cases end in <tt>-kt-</tt> plus the
+appropriate third-declension ending.
+
+<p>The <tt>@decl3</tt> reference is to a file in the <tt>..../endtables/basics</tt> directory.  That
+directory contains groups of endings that can be re-used.  The format of the "basics" files is the
+same as that of the ordinary inflectional class endings files, and their names are also <tt>*.end</tt>.
+To use a basic endings group in an inflectional class file, put its name, preceded by an at sign, in
+the place of the actual endings -- or even parts of endings, as in the example above.
+
+<p>There is a further way to relate different inflectional classes, using the <tt>derivs</tt> directory.
+Files in <tt>..../derivs/source</tt> pull together information about stem formation and inflectional classes.
+They are only used for verb classes.  For example, Latin fourth-conjugation verbs are defined in
+<tt>ire_vbs.deriv</tt> as follows:
+
+<pre>
+*	conj4
+*	ivperf
+i_	perfstem
+i_t	pp4
+</pre>
+
+Here the second field contains references to <tt>basics</tt> files.  This file says that this 
+class of words takes the endings of <tt>conj4</tt> and of <tt>ivperf</tt>, and that the perfect
+stem is formed by adding long <i>i</i> and the fourth principal part by adding <tt>it</tt> with long <i>i</i>.
+Verbs can then be declared in the stems files to be of this class, for example:
+
+<pre>
+:le:munio
+:de:mun ire_vb
+</pre>
+
+<p>There is one further complication to endings files.  In the <tt>rule_files</tt> directory are two files
+that determine whether inflectional class files apply to verbs, nouns, or adjectives.  The <tt>derivtypes.table</tt>
+file must list every file from the <tt>derivs/source</tt> directory.  The <tt>stemtypes.table</tt> file 
+must list every file from the <tt>endtables/source</tt> directory.  If you add a new inflectional class,
+you will also need to declare it here.  In each of these tables, the second field is a serial number and the
+third describes what kind of object is being declared.
+
+<p>Once you have created or modified endings files, you can add or update stems entries to use them;
+you do not need to compile the database first.  But once you're finished with all the modifications, 
+to endings and stems, then you must compile the database, as described <a name=#compile>above</a>.
+
+<a name=internals><h3><font color=green>An introduction to the code</font></h3>
+<p>Source code for Morpheus, written in C (mostly, though not entirely, ANSI C), is in the
+<tt>..../morph/src</tt> directory tree.  There is a make file at top level in the <tt>src</tt>
+directory which controls compilation of the six libraries and twenty-six main programs that 
+make up Morpheus.  Those programs are installed into <tt>..../morph/bin</tt>.
+
+<p>The main routine for <tt>cruncher</tt> is <tt>..../morph/src/anal/stdiomorph.c</tt>.  The
+actual work happens in subroutine <tt>checkstring</tt> and its subsidiaries, all in file
+<tt>..../morph/src/anal/checkstring.c</tt>.  Most of the significant modifications and bug fixes
+over the past three years have been in this file as well.
+
+<p>The executables used in compiling the database (see <a n=compile>above) are
+<ul>
+<li>in <tt>..../morph/src/gener</tt>, do_conj built from <tt>conjmain.c</tt>
+<li>in <tt>..../morph/src/gkdict</tt>, indexnoms built from <tt>indexnoms.main.c</tt> and indexvbs built from <tt>indexvbs.main.c</tt>
+<li>in <tt>..../morph/src/gkends</tt>, buildend built from <tt>expendmain.c</tt>, buildderiv built from <tt>expsuffmain.c</tt>,
+buildword built from <tt>expwordmain.c</tt>, indderivtables built from <tt>smain.c</tt>, indendtables built from <tt>imain.c</tt>
+</ul>
+There are other executable routines (see the makefiles in the various directories), but they are not currently used.
+
+<p>Most header files are in <tt>..../morph/src/includes</tt>, though some are in the code directories.  Directories
+<tt>..../morph/src/greeklib</tt> and <tt>..../morph/src/morphlib</tt> contain utility routines which get linked into
+object libraries.  Each of the code directories <tt>anal, gener, gkdict,</tt> and <tt>gkends</tt> also has an 
+object library for its subroutines.  Executables are statically linked against all these object libraries.
+
+<p>Other directories in the source tree contain related code which is not actually part of Morpheus.  Directory
+<tt>auto</tt> contains code for character encoding conversions.  Directory <tt>retr</tt> has a search engine for 
+the TLG CD.  Directory <tt>scan</tt> has initial experiments toward scansion.  Directory <tt>tlg</tt> has a 
+one-file TLG search engine;  a comment at the head of the file calls it "unbelievably ugly and impossible to figure out."
+Finally, directory <tt>play</tt> is a space for toy routines.
+
+<p>The main loop of <tt>cruncher</tt> is quite simple:  it reads a string from <tt>stdin</tt>, drops white space, and
+passes the trimmed string to <tt>checkstring</tt>.  It then displays the result on the output file, typically <tt>stdout</tt>.
+This continues until end of file on input.
+
+<p>The real work is driven by <tt>checkstring</tt>.  This routine comes in five layers:  <tt>checkstring</tt> calls
+<tt>checkstring1</tt>, which calls <tt>checkstring2</tt>, which calls <tt>checkstring3</tt>, which calls <tt>checkstring4</tt>.
+In each case, if the next lower layer does not recognize the word, we adjust -- for crasis, enclisis, dialect forms, or the like --
+and try again.  The innermost layer, <tt>checkstring4</tt>, calls <tt>checkword</tt> (in <tt>checkword.c</tt>), which ultimately
+calls the routines in <tt>..../morph/src/gkdict/dictio.c</tt> to look up the word in the actual tables.  In the case of a 
+simple word, such as <tt>ego</tt> (in either language), this is all we need to do.  For inflected words, <tt>checknom</tt> and 
+<tt>checkverb</tt> peel off letters one at a time from the beginning of the word until they recognize an ending.  If the peeled-away
+part is recognizable as a stem (or a stem with a prefix), then this is a possible analysis.
+
+<p>If <tt>checkword</tt> does not find any analyses, then <tt>checkstring4</tt> looks for spelling variations:  <i>cun-</i>
+for <i>sun-</i> or <i>-ss-</i> for <i>-tt-</i> in Greek.  If <tt>checkstring4</tt> does not find any analyses, then
+<tt>checkstring3</tt> looks at capitalization, elision or prodelision, attached enclitics (Greek <i>-per</i>,
+Italian pronouns, Latin <i>-que</i>, <i>-ve</i>, <i>-ne</i>), and alternation between <i>i</i> and <i>j</i> or <i>u</i> and <i>v</i>.
+If <tt>checkstring3</tt> does not find any analyses, <tt>checkstring2</tt> tries various Greek dialects.  If <tt>checkstring2</tt>
+does not find any analyses, <tt>checkstring1</tt> looks at initial prodelision in Greek.  And if <tt>checkstring1</tt> does 
+not find any analyses, <tt>checkstring</tt> assumes the word is simply not recognized.
+
+<p>The main data structure behind all this is the <tt>gk_word</tt> structure, accessed throughout <tt>checkstring</tt>
+by the pointer <tt>Gkword</tt>.  Structure <tt>gk_word</tt> is defined in <tt>..../morph/src/includes/gkstring.h</tt>.
+It includes character buffers for the original word and the working form of the word (as adjusted for spelling, dialect,
+and so on).  It also includes flags for various options, including those that can be set on the <tt>cruncher</tt> 
+command line.
+
+<p>The <tt>gk_word</tt> structure is not manipulated directly but via
+routines like <tt>set_workword</tt> and <tt>set_prntflags</tt>.  That
+is, although the code is written in C and long pre-dates C++, it uses
+data hiding principles similar to those of object-oriented languages.
+Maintainers are strongly urged to respect this design.
+
+<p>Finally, it should be noted that the earliest stages of development took place
+without the use of a version management system.  Later, when Perseus adopted such
+a system, it took a while for everyone to become comfortable with its use.  As a result,
+there are many commented-out sections of code (rarely necessary when it is easy to 
+inspect older versions), and many un-informative log messages ("Nightly backup" is common),
+making it hard to recover the early history of the code.  But the last three years' work
+should be reasonably well accounted for.
+
+<h3><font color=green>What you can do with the results</font></h3>
+<p>Most Perseus users see Morpheus only in the context of the Word Study Tool links on Greek, Latin,
+and Italian words.  On text pages, these links are created by routine <tt>morph_links</tt>
+(in <tt>..../cgi-bin/IncPerl/FilterText.pm</tt>);  on Lookup Tool pages, they come from the
+independent program <tt>..../cgi-bin/Support/umorphck</tt>.  Each of these routines works on the
+generated HTML page just before it is returned to the client browser.  Greek is identified by
+&lt;G> elements, Latin by &lt;L>, and Italian by &lt;IT>.  These elements are inserted by the
+transformation routines whenever an element has a suitable <tt>lang</tt> attribute.  The 
+morphology linking routines must tokenize the stream into words, skipping over embedded 
+HTML elements, then insert links to <tt>morphindex</tt>.  So that users are not annoyed
+by links that do not produce results, <tt>morph_links</tt> and <tt>umorphck</tt> use a
+cache of known forms to determine <i>which</i> words should be linked.  Mis-spelled words
+and words that are not known to Morpheus will not receive Word Study links.
+
+<p>The cache is created by compilation routines in the XML build directory <tt>..../sgml/xml</tt>
+and stored as <tt>..../cgi-bin/DBs/<i>language</i>/mdb</tt>.<sup><a href=#n4>4</a></sup>  The
+<tt>langinstall</tt> target in the XML Makefile handles building this cache for each language and
+copying it to the correct place.  At each build, we make <tt>..../sgml/xml/morph/<i>language</i>.words</tt>,
+a list of all the words of the given language in the system that have not been seen before.  At the 
+same time, we merge the previous <tt><i>language</i>.words</tt> file with <tt><i>language</i>.words.old</tt>, thus
+updating the list of previously-seen words.  We then run <tt>cruncher</tt> over any words in the
+new <tt><i>language</i>.words</tt> file.  Those for which cruncher finds analyses are added to the cache;
+those for which it does not are listed in <tt>..../sgml/xml/morph/<i>language</i>.failed</tt>.  It is convenient
+to delete all of the files in <tt>..../sgml/xml/morph/</tt>, or all the files for one language, whenever
+you have made significant changes to the Morpheus stems or endings tables, because those changes will not
+be reflected in the cache otherwise.  That is, if you have added a stem, but its forms are already in the
+already-seen-words list, those forms will not be re-analyzed and will therefore not have links in the 
+on-line system.  To force re-analysis, then, delete the files in <tt>..../sgml/xml/morph/</tt>.
+
+<p>Other compiled files include the <tt>wmdb</tt> database, the <tt>freqs</tt> database, and the <tt>inflex</tt> 
+database.  The <tt>wmdb</tt> database (<tt>..../cgi-bin/DBs/<i>language</i>/wmdb</tt>) gives, for each analyzed
+form, the list of headwords it might come from, with weights.  For example, Latin <i>facies</i> could be 
+either a form of the noun <i>facies</i> or a form of the verb <i>facio</i>, so it is given a weight of 1/2 
+for each of those headwords.  (That it could, in fact, be any of three forms of the noun is not relevant here,
+only that it could come from either of two words.)  This database is created from the output of <tt>cruncher</tt>
+by program <tt>..../sgml/xml/weightmorph</tt>.  It is used by the Lookup Tool, to relate user input to headwords
+for lemmatized searching, and, during compilation, by <tt>lemsens</tt>, to create the lemmatized sentence files.
+
+<p>The <tt>freqs</tt> database contains the number of occurrences of each word in each corpus.  Keys
+look like <tt>facies#perseus,author,Plautus</tt> and values look like <tt>50 23 36.5</tt>.  That is, the
+key is a headword followed by the name of a corpus (whose official name might be <tt>Perseus:corpus:perseus,author,Plautus</tt>;
+see <tt>corpora.xml</tt>), and the value is the maximum, minimum, and weighted occurrences of this word
+in this corpus.  This database is also stored in the language database directory.  It is used by the Word Study Tool,
+the lexicon display routines, and the frequency tool.  During compilation, it is used by <tt>catalog</tt> and
+<tt>collect_coll</tt>, the routines that underlie the Vocabulary Tool.
+
+<p>The <tt>inflex</tt> database gives, for each headword, a list of all the inflected forms of that word
+attested in the texts.  It is currently used only by the frequency tool, to verify that the word of interest is 
+actually a headword;  it used to be used by <tt>psearch</tt>, the full-text search routine that preceded the
+unified Lookup Tool.
+
+<p>In the compilation process, <tt>cruncher</tt> is only run once for each language, in the stem that
+creates the known-words cache.  In normal operation of the run-time system, it should not be run at all, 
+though it can be called by <tt>morphindex</tt> if it is run interactively and the user enters a form that
+is not in the known-words cache.  None of the other Morpheus programs is run other than during compilation
+of the Morpheus database itself.
+
+<hr>
+<p>Notes
+<p><a name=n1>1.  See the <a href=/Articles>bibliography</a> of Perseus publications.
+
+<p><a name=n2>2.  On a standard Perseus development system, this program will be in your path
+and the necessary environment variables will be set.  For more on this see the instructions
+on <a n=compile>compiling the database</a>.
+
+<p><a name=n3>3.  Strictly, Morpheus, like all Perseus tools, uses the Perseus subset of beta-code.
+Unlike true TLG beta-code, Perseus beta-code expects the ASCII letters to be lower case.  The subset
+includes only the letters, accents, breathings, diaeresis, and iota subscript, not any of the
+markup codes ("escapes" in TLG terminology).
+
+<p><a name=n4>4.  The actual files are <tt>mdb.md</tt> and <tt>mdb.mi</tt>, making up an <i>Mdb database</i>.
+"Mdb" here stands for "morphology database," an in-house database format devised for exactly this purpose.
+Mdb databases are implemented with two files, one for data (<tt>.md</tt>) and the other for the index (<tt>.mi</tt>).
+They are populated with <tt>pMDBmaker</tt> (or its earlier version <tt>MDBmaker</tt>), can be tied as
+Perl hashes with the <tt>Mdb_File</tt> package, and can be inspected with <tt>mdb</tt> and <tt>mdb_dump</tt>.
+
+<hr>
+<p>Text written by Anne Mahoney, September 2004.
+</body>
+</html>
