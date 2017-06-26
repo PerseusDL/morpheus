@@ -10,7 +10,7 @@
 aspirate(char *p)
 {
 	if (!Is_unasp(*p))
-		return;
+		return(-1);
 	switch (*p) {
 	case 't':
 	case 'd':

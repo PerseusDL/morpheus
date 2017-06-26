@@ -4,6 +4,7 @@
 /*	David Neel Smith		*/
 
 #include <greek.h>
+#include "isdiphth.proto.h"
 
 #include "quantprim.proto.h"
 

@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 #include "Fclose.proto.h"
 
@@ -6,7 +7,7 @@ xFclose(FILE *f)
 {
 	if( ! f ) {
 		fprintf(stderr,"hey! trying to close a NULL pointer!\n");
-		return;
+		return(-1);
 	}
 	fclose(f);
 }

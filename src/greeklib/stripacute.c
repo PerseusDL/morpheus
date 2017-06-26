@@ -1,4 +1,5 @@
 #include <greek.h>
+#include "strsqz.proto.h"
 
 #include "stripacute.proto.h"
 

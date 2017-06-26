@@ -1,5 +1,6 @@
 #include <greek.h>
 #include <endtags.h>
+#include "vaxwords.proto.h"
 
 #include "keyio.proto.h"
 

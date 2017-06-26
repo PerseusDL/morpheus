@@ -5,6 +5,8 @@
  */
 
 #include <greek.h>
+#include "strsqz.proto.h"
+#include "xstrings.proto.h"
 
 #include "stripdiaer.proto.h"
 

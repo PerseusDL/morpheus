@@ -6,6 +6,7 @@
  */
  
 #include <gkstring.h>
+#include "xstrings.proto.h"
 
 #include "do_dissim.proto.h"
 

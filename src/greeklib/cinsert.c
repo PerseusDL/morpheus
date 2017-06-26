@@ -4,6 +4,7 @@
 /*	David Neel Smith		*/
 
 #include <greek.h>
+#include "xstrings.proto.h"
 
 
 cinsert (int c, char *p)

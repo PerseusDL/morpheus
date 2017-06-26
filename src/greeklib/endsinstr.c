@@ -1,4 +1,8 @@
 #include <stdio.h>
+#include <greek.h>
+#include "stripacc.proto.h"
+#include "stripdiaer.proto.h"
+#include "xstrings.proto.h"
 #define LOCBUF 256
 
 #include "endsinstr.proto.h"

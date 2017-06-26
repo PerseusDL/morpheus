@@ -1,4 +1,5 @@
 #include <greek.h>
+#include "xstrings.proto.h"
 #define Is_zeroend(X) (X=='*')
 
 #include "stripzeroend.proto.h"
