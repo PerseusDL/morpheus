@@ -1,4 +1,5 @@
 #include <gkstring.h>
+#include "../greeklib/nsylls.proto.h"
 
 #include "addninfix.proto.h"
 
