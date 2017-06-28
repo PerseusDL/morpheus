@@ -1,5 +1,6 @@
 #include <gkstring.h>
 #include <smk.h>
+#include "../greeklib/xstrings.proto.h"
 #define ACUTEFLAG 		01
 #define GRAVEFLAG 		02
 #define CIRCUMFLAG 		04
