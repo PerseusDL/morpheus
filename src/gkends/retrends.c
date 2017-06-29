@@ -1,6 +1,17 @@
 #include <gkstring.h>
 #include <modes.h>
 #include "endfiles.h" 
+#include "euphend.proto.h"
+#include "../greeklib/hasaccent.proto.h"
+#include "../greeklib/hasquant.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../greeklib/stripquant.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/markstem.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/morphstrcmp.proto.h"
+#include "../morphlib/setlang.proto.h"
 
 #ifdef LIGHTSPEED
 char * GetEndString();
@@ -694,7 +705,7 @@ static
 
 	if( sofar == 0 ) {
 		*gstrings = *newgstr;
-		return;
+		return(0);
 	}
 
 /* 
@@ -711,7 +722,7 @@ printf("starting with: "); PrntGkFlags(newgstr,stdout); printf("\n", rval );
 
 		if( rval > 0 ) {
 			*(gstrings+i) = *newgstr;
-			return;
+			return(0);
 		}
 		*(gstrings+i) = *(gstrings+i-1);
 	}

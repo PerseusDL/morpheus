@@ -5,6 +5,16 @@
 
 #include "contract.h"
 #include <string.h>
+#include "acccompos.proto.h"
+#include "../greeklib/addbreath.proto.h"
+#include "../greeklib/getbreath.proto.h"
+#include "../greeklib/nsylls.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../greeklib/stripbreath.proto.h"
+#include "../morphlib/fixacc.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/setlang.proto.h"
 
 #include "contract.proto.h"
 

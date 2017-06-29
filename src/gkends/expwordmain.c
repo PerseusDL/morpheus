@@ -1,4 +1,9 @@
+#include <unistd.h>
 #include <gkstring.h>
+#include "expendtable.proto.h"
+#include "stor.proto.h"
+#include "../greeklib/isblank.proto.h"
+#include "../morphlib/setlang.proto.h"
 char fname[80];
 static gk_string Gstr;
 #include "compostypes.h"

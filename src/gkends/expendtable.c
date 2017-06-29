@@ -8,8 +8,14 @@
  *	thus, "w" gets placed after "eis".
  */
 #include <gkstring.h>
-#include "endfiles.h"
 #include "compostypes.h"
+#include "endfiles.h"
+#include "mkend.proto.h"
+#include "stor.proto.h"
+#include "../greeklib/isblank.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/nextkey.proto.h"
 
 #include "expendtable.proto.h"
 gk_string * CreatGkString();

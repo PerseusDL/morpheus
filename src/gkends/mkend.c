@@ -1,5 +1,18 @@
 #include <gkstring.h>
+#include "acccompos.proto.h"
+#include "checkforbreath.proto.h"
 #include "endfiles.h"
+#include "merge.proto.h"
+#include "stor.proto.h"
+#include "../greeklib/do_dissim.proto.h"
+#include "../greeklib/isblank.proto.h"
+#include "../greeklib/nsylls.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/nextkey.proto.h"
+#include "../morphlib/numovable.proto.h"
+#include "../morphlib/setlang.proto.h"
 
 #include "mkend.proto.h"
 static mk_compend(gk_string *, gk_string *, char *, char *);
@@ -33,7 +46,7 @@ static gk_string BlankGstr;
 
 			*s = 0;
 			mk_compend(Have,Avoid,savestr,s+1);
-			return;
+			return(0);
 		}
 		s++;
 	}
@@ -57,7 +70,7 @@ static gk_string BlankGstr;
 			mk_end(gkstring_of(euph_forms+i),euph_forms+i,&AvoidGstr);
 		}
 		FreeGkString(euph_forms);
-		return;
+		return(0);
 	}
 /*
  * allow only one contraction per ending for now
@@ -91,7 +104,7 @@ printf("no contr in: "); PrntGkStr(Have,stdout);
 			mk_end(gkstring_of(&TmpGstr),&TmpGstr,&AvoidGstr);
 		}
 
-		if( do_dissim(gkstring_of(Have))) {
+		if( do_dissim(gkstring_of(Have), STEMTYPE)) {
 			add_morphflag(morphflags_of(Have),DISSIMILATION);
 		}
 		AddNewGstr(Have);
