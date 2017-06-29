@@ -6,7 +6,6 @@
 #include <gkstring.h>
 #define MAXCONTRACTS 10
 #define MAXSUBSTRING 10
-Dialect AndDialect();
 #include "libfiles.h"
 
 

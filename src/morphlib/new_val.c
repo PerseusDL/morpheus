@@ -1,4 +1,6 @@
 #include <gkstring.h>	
+#include "adddomain.proto.h"
+#include "morphflags.proto.h"
 
 #include "new_val.proto.h"
 

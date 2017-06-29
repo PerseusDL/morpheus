@@ -1,4 +1,5 @@
 #include <gkstring.h>
+#include "morphflags.proto.h"
 
 #include "penultform.proto.h"
 

@@ -1,4 +1,6 @@
 #include <gkstring.h>
+#include "morphflags.proto.h"
+#include "../greeklib/addbreath.proto.h"
 
 #include "standphon.proto.h"
 

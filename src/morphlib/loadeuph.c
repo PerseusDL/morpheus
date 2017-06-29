@@ -1,4 +1,9 @@
 #include <contract.h>
+#include "gkstring.proto.h"
+#include "morphflags.proto.h"
+#include "nextkey.proto.h"
+#include "../greeklib/Fclose.proto.h"
+#include "../greeklib/xstrings.proto.h"
 
 #include "loadeuph.proto.h"
 

@@ -1,4 +1,5 @@
 #include <greek.h>
+#include "gktoasc.proto.h"
 
 #include "morphstrcmp.proto.h"
 

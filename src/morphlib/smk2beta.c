@@ -188,7 +188,7 @@ printf("%d) Xlit_table [%s]\n", Beta_SMK[i].keycode , Xlit_table[Beta_SMK[i].key
 
 set_cur_font(int n, char *s)
 {
-	if( fromsmk ) return;
+	if( fromsmk ) return(0);
 	
 	if( n != cur_font ) {
 		switch(n) {
@@ -233,7 +233,7 @@ trap_upper(char *res, char *s)
 		tmp[1] = tolower(*s);
 		tmp[2] = 0;
 		strcat(res,tmp);
-		return;
+		return(0);
 	}
 	
 	if( islower(*s) ) {
@@ -244,7 +244,7 @@ trap_upper(char *res, char *s)
 		tmp[1] = *s;
 		tmp[2] = 0;
 		strcat(res,tmp);
-		return;
+		return(0);
 	}
 
 	tmp[0] = 0;

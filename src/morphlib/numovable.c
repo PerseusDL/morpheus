@@ -1,4 +1,8 @@
 #include <gkstring.h>
+#include "morphflags.proto.h"
+#include "../greeklib/endsinstr.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../greeklib/xstrings.proto.h"
 
 #include "numovable.proto.h"
 
