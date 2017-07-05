@@ -1,4 +1,7 @@
 #include <contract.h>
+#include "../greeklib/endsinstr.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "ppasstype.proto.h"
 
 gk_string * ppass_table = NULL;
 static int nppass = 0;
@@ -12,7 +15,7 @@ gk_string * gstr;
 	Stemtype GetStemNum();
 	
 	
-	if( ! get_ppasstype(origstem,newstem,stemname) ) return;
+	if( ! get_ppasstype(origstem,newstem,stemname) ) return(0);
 	strcpy(origstem,newstem);
 	set_stemtype(gstr,GetStemNum(stemname));
 }

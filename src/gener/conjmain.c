@@ -1,5 +1,8 @@
 #include <stdio.h>
+#include <unistd.h>
 #include <gkstring.h>
+#include "conjsys.proto.h"
+#include "../morphlib/setlang.proto.h"
 
 
 main(argc,argv)
@@ -42,7 +45,7 @@ char * argv[];
 	strcpy(filename,"conjfile");
 	if( (f=fopen(filename,"r")) == NULL ) {
 		fprintf(stdout,"Filename?\n" );
-		gets(filename);
+		fgets(filename, 80, stdin);
 		if( (f=fopen(filename,"r")) == NULL ) {
 			fprintf(stderr,"Could not open [%s]\n", filename );
 			exit(-1);

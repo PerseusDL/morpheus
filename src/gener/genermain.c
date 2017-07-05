@@ -1,4 +1,8 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <gkstring.h>
+#include "../greeklib/Fclose.proto.h"
+#include "gensynform.proto.h"
 int quickflag = 0;
 
 main(argc,argv)
