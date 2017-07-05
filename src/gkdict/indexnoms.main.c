@@ -1,4 +1,7 @@
+#include <unistd.h>
 #include <gkstring.h>
+#include "../gkdict/indexstems.proto.h"
+#include "../morphlib/setlang.proto.h"
 
 #include "indexnoms.main.proto.h"
 int verbose = 0;
@@ -30,7 +33,7 @@ char * argv[];
 	index_vbs(3,0,0);
 
 */
-	index_noms(3,0,0,0);
+	index_noms(3,0,0);
 
 /*
 	index_list(WORDLIST,":le:",5);

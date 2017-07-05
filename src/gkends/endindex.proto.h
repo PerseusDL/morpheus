@@ -6,3 +6,4 @@ int chckvstem(char *, char *);
 int chckdvend(char *, char *);
 endind *init_endind(char *, endind *);
 int checkendind(endind *, char *, char *, int (*scmp )());
+int chckdictent(char *, char *);

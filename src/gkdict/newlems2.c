@@ -1,10 +1,13 @@
+#include <stdio.h>
 #include <gkstring.h>
+#include "../greeklib/checkaccent.proto.h"
+#include "../greeklib/nsylls.proto.h"
+#include "../greeklib/standword.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../greeklib/stripmeta.proto.h"
 
-int do_simpnom(char *, char*);
-int dump_nom(char *stem,int trunc, char * tags);
-int probe_fem(char *);
-int do_regnom(char*stem,char*key1,char*key2,char*key3);
-int dump_entry(char *stem,int trunc, char * tags,char * etag,FILE *);
+#include "newlems2.proto.h"
+
 FILE * fverbs;
 
 main()
@@ -23,7 +26,7 @@ main()
 		exit(-1);
 	}
 
-	while(gets(line)) {
+	while(fgets(line, BUFSIZ, stdin)) {
 		if( ! line[0]) continue;
 		if( ! isdigit(line[0])) continue;
 		strcpy(savel,line);

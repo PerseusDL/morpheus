@@ -1,5 +1,13 @@
-#include <greek.h>
+#include <stdio.h>
+#include <gkstring.h>
+#include <endindex.h>
+#include "../gkends/endindex.proto.h"
+#include "../greeklib/hasaccent.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../greeklib/stripmeta.proto.h"
+#include "../morphlib/fixacc.proto.h"
 
+#include "newlems.proto.h"
 
 char half1[BUFSIZ];
 
@@ -10,7 +18,7 @@ main()
 	char curw[BUFSIZ];
 	char *hp;
 
-	while(gets(line)) {
+	while(fgets(line, BUFSIZ, stdin)) {
 		strcpy(savel,line);
 		hp = strtok(line," \t");
 		if( ! hp ) continue;

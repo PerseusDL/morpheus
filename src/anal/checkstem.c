@@ -2,7 +2,6 @@
 #define MAXAUGSTEMS 12
 
 #include "checkstem.proto.h"
-int comstemtypes(char *, char *, char *);
 static wantcurstemtype(char *, char *);
 extern verbose;
 static int digstem = 0;
