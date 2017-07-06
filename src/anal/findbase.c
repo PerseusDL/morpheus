@@ -1,4 +1,12 @@
+#include <stdio.h>
+#include <gkdict.h>
+#include <endtags.h>
 #include <gkstring.h>
+#include "../gkdict/dictio.proto.h"
+#include "../greeklib/issubstring.proto.h"
+#include "../greeklib/stripmeta.proto.h"
+
+#include "findbase.proto.h"
 int quickflag = 0;
 
 
@@ -6,7 +14,7 @@ main()
 {
 	char line[BUFSIZ*10];
 
-	while(gets(line)) {
+	while(fgets(line, BUFSIZ*10, stdin)) {
 		strcpy(line,line+4);
 		if( is_substring("ew_",line) || is_substring("aw_",line)) {
 			check_ew(line);

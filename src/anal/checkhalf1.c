@@ -1,4 +1,18 @@
 #include <gkstring.h>
+#include "../greeklib/addbreath.proto.h"
+#include "../greeklib/Fclose.proto.h"
+#include "../greeklib/getbreath.proto.h"
+#include "../greeklib/isdiphth.proto.h"
+#include "../greeklib/stripbreath.proto.h"
+#include "../greeklib/stripdiaer.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/nextkey.proto.h"
+#include "../morphlib/setlang.proto.h"
+#include "checkdict.proto.h"
+#include "checkstem.proto.h"
+#include "checkstring.proto.h"
 #define MAX_POSS_STEMS	10
 
 #include "checkhalf1.proto.h"

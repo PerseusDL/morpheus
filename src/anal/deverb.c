@@ -1,4 +1,20 @@
+#include <stdio.h>
+#include <endtags.h>
+#include <endindex.h>
+#include <gkdict.h>
 #include <gkstring.h>
+#include "../gkdict/derivio.proto.h"
+#include "../gkdict/dictio.proto.h"
+#include "../gkends/endindex.proto.h"
+#include "../greeklib/addbreath.proto.h"
+#include "../greeklib/getbreath.proto.h"
+#include "../greeklib/stripquant.proto.h"
+#include "../greeklib/stripstemsep.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/preverb2.proto.h"
+#include "../morphlib/setlang.proto.h"
+#include "deverb.proto.h"
 int quickflag = 0;
 int comstemtypes1(char *,char *, char *, char *);
 int comstemtypes(char *, char *, char *);
@@ -23,7 +39,7 @@ main()
 	char reskeys[BUFSIZ];
 	int rval;
 
-	while(gets(line)) {
+	while(fgets(line, BUFSIZ, stdin)) {
 		transkeys[0] = keys[0] = reskeys[0] = 0;
 		strcpy(tmp,line);
 		s = line;

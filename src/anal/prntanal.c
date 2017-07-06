@@ -1,4 +1,11 @@
 #include <gkstring.h>
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/beta2smarta.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphkeys.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/setlang.proto.h"
+#include "../morphlib/sprntGkflags.h"
 static char * pbuf = NULL;
 #define NEWLINE "\r"
 
@@ -468,7 +475,7 @@ DumpOneAnalysis(gk_word *Gkword, PrntFlags prntflags, gk_analysis *anal, FILE *f
       }
       */
     fprintf(fout,"\n");
-    return;
+    return(0);
   }
   if( prntflags & DBASEFORMAT ) {
     char tmp[BUFSIZ];
@@ -505,7 +512,7 @@ DumpOneAnalysis(gk_word *Gkword, PrntFlags prntflags, gk_analysis *anal, FILE *f
     fprintf(fout,"%s\t%s\n", gkstring_of(ends_gstr_of(anal)),tmp );
     tmp[0] = 0;
 
-    return;
+    return(0);
 
     fprintf(fout,"%s\t", lemma_of(anal) );
     fprintf(fout,"%s\t", rawword_of(anal) );
@@ -533,7 +540,7 @@ DumpOneAnalysis(gk_word *Gkword, PrntFlags prntflags, gk_analysis *anal, FILE *f
       DumpDbGkString(ends_gstr_of(anal),fout);
     }
     fprintf(fout,"\n");
-    return;
+    return(0);
   }
 	
   /*

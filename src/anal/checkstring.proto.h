@@ -12,3 +12,5 @@ int AddWantDialect(Dialect);
 int ZapWantDialect(Dialect);
 Dialect GetWantDialect(void);
 int updateDialect(Dialect);
+int cntlems(gk_word *);
+int u2v(char *);

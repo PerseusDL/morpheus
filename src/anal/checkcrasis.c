@@ -1,4 +1,8 @@
 #include <gkstring.h>
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/setlang.proto.h"
+#include "checkstring.proto.h"
 #define MAXCRASIS 12
 
 #include "checkcrasis.proto.h"

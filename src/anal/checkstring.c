@@ -1,4 +1,26 @@
 #include <gkstring.h>
+#include <endindex.h>
+#include "../gkends/endindex.proto.h"
+#include "../greeklib/beta_tolower.proto.h"
+#include "../greeklib/checkaccent.proto.h"
+#include "../greeklib/hasaccent.proto.h"
+#include "../greeklib/naccents.proto.h"
+#include "../greeklib/nsylls.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../greeklib/stripquant.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/cmpend.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/preverb3.proto.h"
+#include "../morphlib/setlang.proto.h"
+#include "checkcrasis.proto.h"
+#include "checkindecl.proto.h"
+#include "checkirreg.proto.h"
+#include "checknom.proto.h"
+#include "checkword.proto.h"
+#include "prntanal.proto.h"
+
 #include "checkstring.proto.h"
 static checkstring4(gk_word *);
 static add_apostrvowel(char *, char *, char *);

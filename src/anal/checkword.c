@@ -1,4 +1,8 @@
 #include <gkstring.h>
+#include "../morphlib/morphflags.proto.h"
+#include "checkindecl.proto.h"
+#include "checknom.proto.h"
+#include "checkverb.proto.h"
 
 #include "checkword.proto.h"
 

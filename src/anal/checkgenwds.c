@@ -1,4 +1,21 @@
+#include <endindex.h>
 #include <gkstring.h>
+#include "../gkends/endindex.proto.h"
+#include "../greeklib/getbreath.proto.h"
+#include "../greeklib/standword.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../greeklib/stripacute.proto.h"
+#include "../greeklib/stripdiaer.proto.h"
+#include "../greeklib/stripmeta.proto.h"
+#include "../greeklib/stripquant.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../greeklib/zap2ndbreath.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/morphstrcmp.proto.h"
+#include "../morphlib/setlang.proto.h"
+#include "docrasis.proto.h"
+#include "prntanal.proto.h"
 
 #include "checkgenwds.proto.h"
 

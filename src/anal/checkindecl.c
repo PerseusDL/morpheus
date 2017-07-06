@@ -1,5 +1,11 @@
+#include <endtags.h>
+#include <gkdict.h>
 #include <gkstring.h>
 #include <modes.h>
+#include "../gkdict/dictio.proto.h"
+#include "../greeklib/subchar.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "checkgenwds.proto.h"
 #define MAXSTEMS 10
 
 #include "checkindecl.proto.h"

@@ -1,5 +1,12 @@
 #include <gkstring.h>
 #include <gkdict.h>
+#include "../greeklib/isblank.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../greeklib/stripquant.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/morphstrcmp.proto.h"
+#include "../morphlib/nextkey.proto.h"
+#include "../greeklib/Fclose.proto.h"
 
 #include "dictstems.proto.h"
 

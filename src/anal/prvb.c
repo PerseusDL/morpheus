@@ -1,5 +1,9 @@
 #include <stdio.h>
 #include <gkstring.h>
+#include "checkhalf1.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/preverb2.proto.h"
 
 #include "prvb.proto.h"
 
