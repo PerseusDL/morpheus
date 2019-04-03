@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <gkstring.h>
 
 gk_word GkWord, BlankGkWord;
@@ -8,7 +9,7 @@ main()
 	char curlemma[LONGSTRING];
 	char *s;
 
-	while(gets(line)) {
+	while(fgets(line, 2000, stdin)) {
 		if( !strncmp(":le:",line,4)) {
 			strcpy(curlemma,line+4);
 			continue;

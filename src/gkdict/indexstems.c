@@ -1,8 +1,23 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <gkstring.h>
-
 #include <gkdict.h>
+#include "../greeklib/hasaccent.proto.h"
+#include "../greeklib/hasdiaer.proto.h"
+#include "../greeklib/hasquant.proto.h"
+#include "../greeklib/issubstring.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../greeklib/stripdiaer.proto.h"
+#include "../greeklib/stripquant.proto.h"
+#include "../greeklib/stripstemsep.proto.h"
+#include "../morphlib/errormess.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/indkeys.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/morphstrcmp.proto.h"
+#include "../morphlib/nextkey.proto.h"
+#include "../morphlib/numovable.proto.h"
+
 #define MAX_END_TABLE 150000
 
 gk_word GkWord;

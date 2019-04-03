@@ -1,4 +1,18 @@
+#include <stdio.h>
+#include <endindex.h>
 #include <gkstring.h>
+#include "../gkends/endindex.proto.h"
+#include "../greeklib/getbreath.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../greeklib/stripbreath.proto.h"
+#include "../greeklib/stripdiaer.proto.h"
+#include "../greeklib/subchar.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/nextkey.proto.h"
+#include "../morphlib/trimwhite.proto.h"
+#include "checkdict.proto.h"
+#include "checkstring.proto.h"
 
 #include "propname.proto.h"
 int quickflag = 0;
@@ -22,7 +36,7 @@ main(void)
 	fname[0] = 0;
 
 	fprintf(stderr,"use stdout? ");
-	gets(line);
+	fgets(line, BUFSIZ*4, stdin);
 	
 	if(line[0] == 'y' ) {
 		fprintf(stderr,"type in forms\n");
@@ -30,7 +44,7 @@ main(void)
 		finput = stdin;
 	} else {
 		fprintf(stderr,"word file? ");
-		gets(fname);
+		fgets(fname, BUFSIZ, stdin);
 		
 		strcpy(inpname,fname);
 		strcat(inpname,".words");
@@ -59,7 +73,7 @@ main(void)
 			
 			if( ! fname[0] ) {
 				printf("basename? ");
-				gets(fname);
+				fgets(fname, BUFSIZ, stdin);
 			}
 			strcpy(tmp,fname);
 			strcat(tmp,".enames");
@@ -431,7 +445,7 @@ init_pnametab()
 	char line[BUFSIZ];
 	int i = 0;
 
-	if( pnames ) return;
+	if( pnames ) return(0);
 	for(pnames=0;pnames<10000;pnames++) {
 		if( ! fgets(line,sizeof line,fpnames) ) {
 			if( pnames == 1 ) pnames = 0;

@@ -1,7 +1,10 @@
+#include <unistd.h>
 #include <gkstring.h>
 char fname[80];
 static gk_string Gstr;
 #include "compostypes.h"
+#include "expendtable.proto.h"
+#include "../morphlib/setlang.proto.h"
 
 #include "expendmain.proto.h"
 

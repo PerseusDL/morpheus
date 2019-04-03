@@ -10,6 +10,7 @@
   * find s1 in s2 
   */
 #include <stdio.h>
+#include "xstrings.proto.h"
 
 #include "issubstring.proto.h"
 char * 

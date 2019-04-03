@@ -1,4 +1,6 @@
 #include <gkstring.h>
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphflags.proto.h"
 
 #include "euphend.proto.h"
 

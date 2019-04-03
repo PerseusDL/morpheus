@@ -1,5 +1,12 @@
 #include <stdio.h>
 #include <gkstring.h>
+#include <endindex.h>
+#include "../gkends/endindex.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../greeklib/stripquant.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "checkirreg.proto.h"
+#include "prvb.proto.h"
 
 #include "checkverb.proto.h"
 

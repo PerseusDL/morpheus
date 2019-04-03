@@ -43,6 +43,7 @@
 
 %%
 
+#include <ctype.h>
 #include <string.h>
 
 char orthstem[BUFSIZ];

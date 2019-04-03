@@ -1,4 +1,17 @@
 #include <gkstring.h>
+#include "../greeklib/Fclose.proto.h"
+#include "../greeklib/isblank.proto.h"
+#include "../greeklib/standalpha.proto.h"
+#include "../greeklib/stripdiaer.proto.h"
+#include "../greeklib/stripmeta.proto.h"
+#include "../greeklib/stripquant.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/beta2smarta.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/morphkeys.proto.h"
+#include "genmisc.proto.h"
+#include "gensynform.proto.h"
 
 #define NextStem(f,stem,stemkeys) NextDictLine(f,stem,stemkeys,":")
 #define NextLemma(f,lemma,lemmakeys) NextDictLine(f,lemma,lemmakeys,":le:")
@@ -275,7 +288,7 @@ char * keys;
 	gstr = CreatGkString(1);
 	if( ! gstr ) {
 		fprintf(stderr,"no memory for gstr in paradigm keys\n");
-		return;
+		return(1);
 	}
 	
 	avoidgstr = CreatGkString(1);
@@ -283,7 +296,7 @@ char * keys;
 		FreeGkString(gstr);
 		gstr = NULL;
 		fprintf(stderr,"no memory for avoidgstr in paradigm keys\n");
-		return;
+		return(1);
 	}
 	
 	dummyword = CreatGkword(1);
@@ -292,7 +305,7 @@ char * keys;
 		FreeGkString(gstr);
 		gstr = avoidgstr = NULL;
 		fprintf(stderr,"no memory for dummyword in paradigm keys\n");
-		return;
+		return(1);
 	}
 	
 
@@ -453,7 +466,7 @@ PrntSynForms(Gkword,gkform,fout)
 printf("formcnt=%d\n", formcnt);
 */
 
-	if( ! gkform ) return;
+	if( ! gkform ) return(1);
 
 /*
 	fprintf(stderr,"formcnt:%d\n", formcnt );
@@ -481,7 +494,7 @@ printf("formcnt=%d\n", formcnt);
 			if( strcmp(tmp2,tmplem) && !is_exception(tmp2,tmplem) ) 
 				fprintf(fout,":st:%s %s\n", tmp, lemma_of(Gkword));
 		}
-		return;
+		return(0);
 	}
 	if( print_mode == FULL_DUMP ) {
 		for(i=0;i<formcnt;i++) {
@@ -493,7 +506,7 @@ printf("formcnt=%d\n", formcnt);
 			SprintGkFlags(ends_gstr_of(gkform+i),tmp," ",1);
 			fprintf(fout,"%s\n", tmp );
 		}
-		return;
+		return(0);
 	}
 	
 
@@ -667,7 +680,7 @@ int to_xlit;
 {
 	char res[8000];
 	
-return;
+return(0);
 	stripshortmark(buf);
 	
 	/* clear out white space and junk left at the start of lines
@@ -682,7 +695,7 @@ return;
 		while(isspace(*buf)) buf++;
 	}
 fprintf(fout,"\t%s",buf );
-return;
+return(0);
 	if(to_xlit == TO_SMARTA )
 		beta2smarta(buf,res);
 	else if(to_xlit == TO_SMK ) 

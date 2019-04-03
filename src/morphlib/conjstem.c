@@ -1,5 +1,7 @@
 #include <ctype.h>
 #include <gkstring.h>
+#include "../greeklib/xstrings.proto.h"
+#include "../greeklib/strsqz.proto.h"
 
 #include "conjstem.proto.h"
 
@@ -37,7 +39,7 @@ fixperf(char *s)
 	register char *p;
 
 	if( *(lastn(s,1)) != 'k' ) 
-		return;
+		return(0);
 		
 	p = lastn(s,2);
 	if (Is_dental(*p) || *p == 'z') {
@@ -114,7 +116,7 @@ conjoin(char *stem, char *e)
   */
  	if( (Is_dental(*p) || *p == 'z' || *p == 'n' ) && !Xstrncmp(e,"ss",2) ) {
  		Xstrncpy(p,e,MAXWORDSIZE-(int)(p-stem));
- 		return;
+		return(0);
  	}
  	
 	do {

@@ -4,6 +4,8 @@
 /*	David Neel Smith		*/
 
 #include <greek.h>
+#include "getaccent.proto.h"
+#include "quantprim.proto.h"
 
 #include "getquantity.proto.h"
 

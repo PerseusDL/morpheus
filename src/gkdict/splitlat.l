@@ -1,4 +1,8 @@
 
+%{
+#include "splitlat.proto.h"
+%}
+
 %%
 
 "<pos>v. a.</pos>\t<orth>"[^<]+"</orth>"	newentr();

@@ -1,4 +1,22 @@
+#include <gkdict.h>
 #include <gkstring.h>
+#include <endtags.h>
+#include "../gkdict/dictio.proto.h"
+#include "../greeklib/addbreath.proto.h"
+#include "../greeklib/Fclose.proto.h"
+#include "../greeklib/getbreath.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../greeklib/stripdiaer.proto.h"
+#include "../greeklib/stripquant.proto.h"
+#include "../greeklib/subchar.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/nextkey.proto.h"
+#include "../morphlib/preverb2.proto.h"
+#include "../morphlib/setlang.proto.h"
+#include "checkgenwds.proto.h"
+#include "checkirreg.proto.h"
 #define MAXIRREGS 10
 #define MAXIRR 3
 

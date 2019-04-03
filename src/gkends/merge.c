@@ -1,4 +1,5 @@
 #include <gkstring.h>
+#include "retrends.proto.h"
 
 #include "merge.proto.h"
 

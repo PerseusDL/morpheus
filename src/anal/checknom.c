@@ -1,5 +1,16 @@
 #include <stdio.h>
+#include <gkdict.h>
 #include <gkstring.h>
+#include <endindex.h>
+#include <endtags.h>
+#include "../gkdict/compnoun.proto.h"
+#include "../gkdict/dictio.proto.h"
+#include "../gkends/endindex.proto.h"
+#include "../greeklib/Fclose.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "checkhalf1.proto.h"
+#include "checkstem.proto.h"
 
 #include "checknom.proto.h"
 static gotnom(gk_word *);

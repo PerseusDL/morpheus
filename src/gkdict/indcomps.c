@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <gkstring.h>
+#include "../morphlib/gkstring.proto.h"
 
 #include <gkdict.h>
 #define MAX_END_TABLE 50000
@@ -20,7 +21,7 @@ main()
 	char * s;
 	char * tailp;
 
-        while(gets(line)) {
+        while(fgets(line, 5000, stdin)) {
 		Gstr = Blnk;
 		if( !strncmp(":le:",line,4) ) strcpy(curlemma,line+4);
 		if( strncmp(":aj:",line,4) &&  strncmp(":no:",line,4) ) {

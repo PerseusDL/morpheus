@@ -1,4 +1,8 @@
 
+%{
+#include "splitlems.proto.h"
+%}
+
 %%
 
 ^[A-Za-z\^\_\-]+[#1-9]* 	set_lemma();

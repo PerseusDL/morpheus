@@ -4,6 +4,9 @@
 /*	David Neel Smith		*/
 
 #include <greek.h>
+#include "nsylls.proto.h"
+#include "strsqz.proto.h"
+#include "xstrings.proto.h"
 
 #include "stripacc.proto.h"
 

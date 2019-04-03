@@ -1,4 +1,5 @@
 #include <gkstring.h>
+#include "setlang.proto.h"
 
 #include "morphpath.proto.h"
 static filesopened = 0;
@@ -55,7 +56,7 @@ MorphPathName(char *shorts, char *full)
 
 	if( ! s ) {
 		printf("MORPHLIB not set in your environment!\n");
-		return;
+		return(0);
 	}
 	
 	if( cur_lang() == LATIN ) 

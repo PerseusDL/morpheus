@@ -1,5 +1,8 @@
 #include <gkstring.h>
 #include "endfiles.h" 
+#include "../greeklib/Fclose.proto.h"
+#include "../morphlib/endio.proto.h"
+#include "../morphlib/gkstring.proto.h"
 #define ENDCACHESIZE 45
 
 #include "getcurrend.proto.h"

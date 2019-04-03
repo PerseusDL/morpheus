@@ -2,8 +2,22 @@
 #include <stdlib.h>
 #include <string.h>
 #include <modes.h>
+#include "../greeklib/isblank.proto.h"
+#include "../greeklib/nsylls.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../greeklib/stripacute.proto.h"
+#include "../greeklib/stripmeta.proto.h"
+#include "../greeklib/stripstemsep.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/augment.proto.h"
+#include "../morphlib/errormess.proto.h"
+#include "../morphlib/fixacc.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/nextkey.proto.h"
+#include "../morphlib/preverb.proto.h"
+#include "genwd.proto.h"
 #define SKIPLINE  100
-static  AddWdEndings( gk_word * , gk_string * , gk_word * , int );
 
 #define NextStem(f,stem,stemkeys) NextDictLine(f,stem,stemkeys,":")
 #define NextLemma(f,lemma,lemmakeys) NextDictLine(f,lemma,lemmakeys,":le:")
@@ -12,7 +26,6 @@ gk_string * chckendings();
 gk_word * GenStemForms(gk_word *, char *, int);
 gk_word * GenIrregForm(gk_word *, char *, int);
 
-Dialect AndDialect();
 int CompGkForms(gk_word *gkform1, gk_word *gkform2);
 
 gk_string BlankGstr;
@@ -42,7 +55,7 @@ GenDictEntry(Gkword,dentry)
 /*printf("endstring: [%s] keys:%s\n", endstring_of(&TmpGkword), keys );*/
 
 	gkforms = GenStemForms(&TmpGkword,keys,0);
-	if( ! gkforms ) return;
+	if( ! gkforms ) return(0);
 
 	for(formcnt=0;workword_of((gkforms+formcnt))[0];formcnt++) ;
 
@@ -71,7 +84,7 @@ GenDictEntry(Gkword,dentry)
 	Gkword = CreatGkword(1 );
 	if( ! Gkword ) {
 		fprintf(stderr,"could not allocate memory for Gkword in GenNxtWord\n");
-		return;
+		return(1);
 	}
 
 	for(;;) {
@@ -381,7 +394,6 @@ gk_word *
 }
 
 #define MAX_FORM_VARIANTS 12
-static 
  AddWdEndings(Gkword,Endings,Forms,maxforms)
   gk_word * Gkword;
   gk_string * Endings;
@@ -398,7 +410,7 @@ static
 	CurBuf = CreatGkword(MAX_FORM_VARIANTS+1);
 	if( ! CurBuf) {
 		fprintf(stderr,"no memory for CurBuf in AddWdEndings: raww [%s]\n", rawword_of(Gkword) );
-		return;
+		return(0);
 	}
 
 	SaveGkWord = * Gkword;

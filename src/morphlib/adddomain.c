@@ -1,4 +1,5 @@
 #include <gkstring.h>
+#include "../greeklib/xstrings.proto.h"
 
 #include "adddomain.proto.h"
 

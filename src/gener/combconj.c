@@ -1,4 +1,20 @@
 #include <gkstring.h>
+#include "../gkends/retrends.proto.h"
+#include "../greeklib/addbreath.proto.h"
+#include "../greeklib/do_dissim.proto.h"
+#include "../greeklib/isdiphth.proto.h"
+#include "../greeklib/stripquant.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/augment.proto.h"
+#include "../morphlib/addninfix.proto.h"
+#include "../morphlib/conjstem.proto.h"
+#include "../morphlib/endio.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/nextkey.proto.h"
+#include "../morphlib/pres_redup.proto.h"
+#include "ppasstype.proto.h"
+#include "combconj.proto.h"
 
 static	char origformula[LONGSTRING];
 static	char curlemma[LONGSTRING];
@@ -226,7 +242,7 @@ printf("pflag %o stype %o vstem %o\n", ppartflag , stemtype_of(gstr2) , PPARTMAS
 printf("str1 [%s] str2 [%s] rval %d\n", gkstring_of(gstr1), gkstring_of(gstr2), rval );
 */
 	if( rval ) {
-		Dialect d, AndDialect();
+		Dialect d;
 		char *getaccp();
 		
 		strcpy(word,stemstr);
@@ -393,7 +409,7 @@ char *s;
 {
 	if( ! foddfile ) {
 		foddfile = fopen("oddfile","w");
-		if( ! foddfile)  return;
+		if( ! foddfile)  return(1);
 	}
 	fprintf(foddfile,"%s\t%s\n", curlemma , s );
 }
@@ -408,7 +424,7 @@ char * oddptr;
 	char curbuf[BUFSIZ*4];
 	char curformula[BUFSIZ*4];
 	char * s;
-return;	
+return(0);	
 	strcpy(curformula,origformula);
 	curbuf[0] = 0;
 	
@@ -472,7 +488,7 @@ conjoinX(gk_string *gstr,char * s1,char * s2)
 
 	if( ! newgstr ) {
 		/*fprintf(stderr,"no contracts for [%s]\n", gkstring_of(gstr) );*/
-		return;
+		return(0);
 	}
 	
 /*

@@ -1,4 +1,7 @@
 #include <greek.h>
+#include "stripacc.proto.h"
+#include "stripdiaer.proto.h"
+#include "zap2ndbreath.proto.h"
 
 /*
  * greg crane

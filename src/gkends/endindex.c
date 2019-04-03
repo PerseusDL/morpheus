@@ -1,6 +1,8 @@
 #include <gkstring.h>
 #include <endindex.h>
-
+#include "../greeklib/stripquant.proto.h"
+#include "../greeklib/vaxwords.proto.h"
+#include "../greeklib/xstrings.proto.h"
 #include "../morphlib/morphstrcmp.proto.h"
 #include "endfiles.h"
 #include "gkdict.h"

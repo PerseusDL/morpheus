@@ -1,5 +1,8 @@
 #include <gkstring.h>
 #include <endtags.h>
+#include "../greeklib/binlook.proto.h"
+#include "../greeklib/keyio.proto.h"
+#include "../greeklib/xstrings.proto.h"
 #define LINDEXSUFFIX "lindex"
 
 #include "retrentry.proto.h"

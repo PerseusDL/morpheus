@@ -1,4 +1,5 @@
 #include <gkstring.h>
+#include "augment.proto.h"
 
 #include "pres_redup.proto.h"
 

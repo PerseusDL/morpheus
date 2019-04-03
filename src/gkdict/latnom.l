@@ -1,4 +1,8 @@
 
+%{
+#include "latnom.proto.h"
+%}
+
 %%
 
 ^[A-Za-z][a-z\^\_\-]+"ter\t"$	dump_adv();
@@ -16,6 +20,7 @@
 
 %%
 
+#include <ctype.h>
 #include <string.h>
 #define MAXORTH 12
 unsigned char orthtab[MAXORTH][BUFSIZ];
@@ -100,7 +105,7 @@ set_orthalt(int tlen)
 	strcpy(curpat,yytext+tlen);
 
 	if( !strcmp(curpat,"trisyl.") || ! strcmp(curpat,"dissyl.")
-	   || !strcmp(curpat,"quadrisyl.") ) return;
+	   || !strcmp(curpat,"quadrisyl.") ) return(0);
 
 	s = strchr(curpat,0);
 	while(s>=curpat&&!isalpha(*s)) s--;
@@ -496,7 +501,7 @@ dump_form3(int n)
 {
 	if( dumped_stem ) {
 		ECHO;
-		return;
+		return(0);
 	}
 
 
@@ -505,7 +510,7 @@ dump_form3(int n)
 		printf(":wd:%s\tadverb\n\n", curstem );
 		if( orthtab[0][0] ) 
 			printf(":wd:%s\tadverb orth\n\n", orthtab[0] );
-		return;
+		return(0);
 	}
 
 
@@ -527,11 +532,11 @@ trimstem(unsigned char * curs, int trimn)
  */
 		if(trimn=='e'&&!strcmp((s-1),"is")) {
 			*(s-1) = 0; 
-			return;
+			return(0);
 		}
 		if(trimn=='o'&&!strcmp((s-1),"us")) {
 			*(s-1) = 0; 
-			return;
+			return(0);
 		}
 		while(s>=curs && *s != trimn ) {
 			s--;

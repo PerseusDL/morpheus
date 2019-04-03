@@ -12,6 +12,10 @@
  */
 
 #include <gkstring.h>
+#include "morphflags.proto.h"
+#include "../greeklib/endsinstr.proto.h"
+#include "../greeklib/getquantity.proto.h"
+#include "../greeklib/longbyposition.proto.h"
 
 #include "markstem.proto.h"
  markstem(char *stemstr, gk_string *gstr)

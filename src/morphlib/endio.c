@@ -1,4 +1,5 @@
 #include <gkstring.h>
+#include "../greeklib/vaxwords.proto.h"
 
 #include "endio.proto.h"
 

@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <gkdict.h>
 #include <gkstring.h>
+#include "../anal/checkstem.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../greeklib/stripquant.proto.h"
 
 int is_nomhead(char * heads,char * headkeys);
 

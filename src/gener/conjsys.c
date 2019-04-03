@@ -1,5 +1,12 @@
 #include <gkstring.h>
 #include <string.h>
+#include "../gkends/retrends.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/nextkey.proto.h"
+#include "combconj.proto.h"
+#include "conjsys.proto.h"
 /* #define FULLKEYS "pr fu ao pf pp ap"*/
 #define DEFPPARTS 1
 char *fullkeys[] = {
@@ -87,7 +94,7 @@ int conjmode;
 		
 		if( ! strncmp(":de:",linebuf,4) ) {
 			if( ! npparts && wantpparts && (irreg_conj() || fullconj)) {
-				show_defvals(fout,fullconj ? DEFPPARTS : 1 );
+				show_defvals(fout);
 				fprintf(fout,"\n");
 			}
 			npparts = 0;
@@ -226,7 +233,7 @@ printf("rval %d stembuf [%s] global [%s] deriv [%s] tk [%s]\n", rval,
 
 	}
 	if( ! npparts && wantpparts && (irreg_conj() || fullconj ) ) 
-			show_defvals(fout,fullconj ? DEFPPARTS : 1 );
+			show_defvals(fout);
 
 
 }

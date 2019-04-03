@@ -1,4 +1,19 @@
+#include <endtags.h>
+#include <endindex.h>
+#include <gkdict.h>
 #include <gkstring.h>
+#include "../gkdict/derivio.proto.h"
+#include "../gkdict/dictio.proto.h"
+#include "../gkends/endindex.proto.h"
+#include "../gkends/retrends.proto.h"
+#include "../greeklib/hasdiaer.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/augment.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/morphkeys.proto.h"
+#include "../morphlib/nextkey.proto.h"
+#include "../morphlib/setlang.proto.h"
 
 #include "derivio.proto.h"
 static checkforderiv2(char *stemstr, char *stemkeys, char *had_redupl, char *redupstem);
@@ -323,7 +338,7 @@ checkmultredups(char *asuffkeys, char *dstem, char *dstemkeys, char *suffix, cha
 	gstr = CreatGkString(1);
 	if( ! gkform ) {
 		fprintf(stderr,"no memory for gkform in checkmultredups of [%s]\n",asuffkeys);
-		return;
+		return(0);
 	}
 		
 	set_workword(gkform,dstem);

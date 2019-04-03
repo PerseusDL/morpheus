@@ -1,8 +1,17 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
 #include <unistd.h>
 #include <prntflags.h>
+#include <gkstring.h>
+#include "../greeklib/addbreath.proto.h"
+#include "../greeklib/stripbreath.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/setlang.proto.h"
+#include "../morphlib/trimwhite.proto.h"
+#include "checkgenwds.proto.h"
+#include "checkstring.proto.h"
 #include "stdiomorph.proto.h"
 #ifndef CLOCKS_PER_SEC
 #define CLOCKS_PER_SEC  1000000         /* ANSI C clock ticks per sec */

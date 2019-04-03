@@ -1,6 +1,8 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
+#include "beta2smarta.proto.h"
 #include "libfiles.h"
 #define SEGSIZE 100000
 #define MAXDOMAINS 256
@@ -106,7 +108,7 @@ conv_defline(char *s, FILE *fout)
 
 		beta2smk(s,result);
 		fprintf(fout,"%s}\\par\\pard\\plain}\n",  result );
-		return;
+		return(0);
 	}
 	if( has_pref(s,":xref") ) {
 		while(*s&&!isspace(*s)) s++;
@@ -114,14 +116,14 @@ conv_defline(char *s, FILE *fout)
 		
 		beta2smk(s,result);
 		fprintf(fout,"\\s6{%s}\\par\\pard\\plain\n", result );
-		return;
+		return(0);
 	}
 	if( has_pref(s,":le:") || has_pref(s,":cv:")  ) {
 		*(s+3) = '$';
 		beta2smk(s+3,result);
 
 		fprintf(fout,"\\s7\\sb160 \\b\\f20\\fs24{%s}\\par\\pard\\plain\n", result);
-		return;
+		return(0);
 	}
 	if( has_pref(s,":comm") ) {
 		while(*s&&!isspace(*s)) s++;
@@ -129,7 +131,7 @@ conv_defline(char *s, FILE *fout)
 		
 		beta2smk(s,result);
 		fprintf(fout,"\\s8{%s}\\par\n", result );
-		return;
+		return(0);
 	}
 
 	fprintf(fout,"%s\\par\n", s );

@@ -1,5 +1,7 @@
 
 /* checkgenwds.c */
+int show_totanals();
+int show_totlems();
 int CheckGenWords(gk_word *, gk_word *);
 int AddAnalysis(gk_word *, gk_word *);
 int merge_anal_dialects(gk_analysis *, gk_analysis *);

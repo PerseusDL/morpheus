@@ -1,8 +1,15 @@
+#include <stdio.h>
+#include <gkdict.h>
 #include <gkstring.h>
+#include <endtags.h>
+#include "../gkdict/dictio.proto.h"
+#include "../greeklib/Fclose.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/augment.proto.h"
 #define MAXAUGSTEMS 12
 
 #include "checkstem.proto.h"
-int comstemtypes(char *, char *, char *);
 static wantcurstemtype(char *, char *);
 extern verbose;
 static int digstem = 0;

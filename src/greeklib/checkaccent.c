@@ -3,6 +3,7 @@
  */
  
 #include <greek.h>
+#include "getaccent.proto.h"
 
 #include "checkaccent.proto.h"
 

@@ -1,6 +1,10 @@
+#include <unistd.h>
 #include <gkstring.h>
 #include <libfiles.h>
 #include "compostypes.h"
+#include "expendtable.proto.h"
+#include "../morphlib/nextkey.proto.h"
+#include "../morphlib/setlang.proto.h"
 
 #include "expsuffmain.proto.h"
 

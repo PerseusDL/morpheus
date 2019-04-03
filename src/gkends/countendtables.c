@@ -1,5 +1,9 @@
 #include <gkstring.h>
 #include "endfiles.h"
+#include "../morphlib/endio.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphstrcmp.proto.h"
+#include "../morphlib/nextkey.proto.h"
 #define MAX_END_TABLE	12000
 char ** endlines;
 static int endcount = 0;

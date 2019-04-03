@@ -1,4 +1,6 @@
 #include	<gkstring.h>
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/morphkeys.proto.h"
 
 #include "sprntGkflags.proto.h"
 

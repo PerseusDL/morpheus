@@ -1,4 +1,7 @@
+#include <unistd.h>
 #include <gkstring.h>
+#include "indexendtables.proto.h"
+#include "../morphlib/setlang.proto.h"
 static gk_string Gstr;
 char fname[MAXWORDSIZE];
 static gk_word Gkword;

@@ -1,4 +1,11 @@
 #include <gkstring.h>
+#include "../greeklib/isdiphth.proto.h"
+#include "../greeklib/stripchar.proto.h"
+#include "../greeklib/stripzeroend.proto.h"
+#include "../morphlib/endio.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "../morphlib/setlang.proto.h"
 
 static gk_string * StoreGstr;
 #define MAXENDINGS 	10000

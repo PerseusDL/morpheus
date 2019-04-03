@@ -4,6 +4,9 @@
 /*	David Neel Smith		*/
 
 #include <greek.h>
+#include "isdiphth.proto.h"
+#include "nsylls.proto.h"
+#include "xstrings.proto.h"
 
 #include "getsyll.proto.h"
 

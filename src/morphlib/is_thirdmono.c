@@ -1,4 +1,8 @@
 #include <gkstring.h>
+#include "../greeklib/nsylls.proto.h"
+#include "../greeklib/stripquant.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "morphflags.proto.h"
 #include "is_thirdmono.h"
 
 #include "is_thirdmono.proto.h"

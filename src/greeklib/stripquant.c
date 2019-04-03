@@ -7,6 +7,8 @@
  * grc 2/20/88
  */
 #include <greek.h>
+#include "strsqz.proto.h"
+#include "xstrings.proto.h"
 
 #include "stripquant.proto.h"
 

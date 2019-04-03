@@ -1,5 +1,13 @@
 #include <gkstring.h>
 #include <modes.h>
+#include "../greeklib/nsylls.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../greeklib/subchar.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "../morphlib/gkstring.proto.h"
+#include "../morphlib/is_thirdmono.proto.h"
+#include "../morphlib/morphflags.proto.h"
+#include "checkgenwds.proto.h"
 #define MAXPPARTS 12
 
 #include "checkdict.proto.h"

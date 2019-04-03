@@ -1,4 +1,8 @@
 
+%{
+#include "setquant.proto.h"
+%}
+
 %%
 
 

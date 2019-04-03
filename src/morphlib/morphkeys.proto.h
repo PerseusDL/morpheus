@@ -2,7 +2,6 @@
 /* morphkeys.c */
 int ScanAsciiKeys(char *, gk_word *, gk_string *, gk_string *);
 char *NextEndTable(int *, Stemtype);
-/*
 char *NameOfDerivtype(Derivtype);
 char *NameOfStemtype(Stemtype);
 char *NameOfDomain(Stemtype);
@@ -12,7 +11,6 @@ char *NameOfTense(word_form);
 char *NameOfMood(word_form);
 char *NameOfVoice(word_form);
 char *NameOfDialect(Dialect);
-*/
 int DomainNames(char *, char *, char *);
 int DialectNames(Dialect, char *, char *);
 int GeogRegionNames(GeogRegion, char *, char *);

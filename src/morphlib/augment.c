@@ -1,4 +1,13 @@
 #include <gkstring.h>
+#include "../greeklib/standword.proto.h"
+#include "../greeklib/stripacc.proto.h"
+#include "../greeklib/stripbreath.proto.h"
+#include "../greeklib/stripquant.proto.h"
+#include "../greeklib/xstrings.proto.h"
+#include "gkstring.proto.h"
+#include "morphflags.proto.h"
+#include "morphstrcmp.proto.h"
+#include "setlang.proto.h"
 #define MAXAUG 8
 #define TEMP_AUGMENT SYLL_AUGMENT * 2
 
@@ -557,7 +566,7 @@ simpleaugment(char *s, bool syllabic)
 	gkform = CreatGkword(6);
 	if( ! gkform ) {
 		fprintf(stderr,"no memory for gkform in simpleaugment of [%s]\n",s);
-		return;
+		return(-1);
 	}
 		
 	set_workword(gkform,s);
@@ -603,7 +612,7 @@ simpleredupit(char *s, int syllabic, int redupc)
 	gkform = CreatGkword(6);
 	if( ! gkform ) {
 		fprintf(stderr,"no memory for gkform in simpleaugment of [%s]\n",s);
-		return;
+		return(-1);
 	}
 		
 	set_workword(gkform,s);

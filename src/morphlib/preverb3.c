@@ -1,4 +1,6 @@
 #include <contract.h>
+#include "morphflags.proto.h"
+#include "../greeklib/xstrings.proto.h"
 
 #include "preverb3.proto.h"
 

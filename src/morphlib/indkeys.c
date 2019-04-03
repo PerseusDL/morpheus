@@ -1,6 +1,10 @@
 #include <gkstring.h>
 #include <endfiles.h>
 #include <endtags.h>
+#include "morphstrcmp.proto.h"
+#include "../greeklib/isblank.proto.h"
+#include "../greeklib/keyio.proto.h"
+#include "../greeklib/xstrings.proto.h"
 #define DECALPHA 1
 
 #include "indkeys.proto.h"
